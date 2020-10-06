@@ -1,0 +1,171 @@
+{
+  "id": 1729303377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-06-14T18:35:04-07:00",
+    "edtf:inception": "2018-06-14T18:35:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1529026504,
+      "created_at": "Fri Jun 15 01:35:04 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "199"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "66", 
+              "73"
+            ],
+            "text": "radios"
+          }, 
+          {
+            "indices": [
+              "159", 
+              "165"
+            ],
+            "text": "radio"
+          }, 
+          {
+            "indices": [
+              "166", 
+              "175"
+            ],
+            "text": "RadioSFO"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ta0vEnGycJ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1007436295021518848/photo/1",
+            "id": "1007436292366336000",
+            "id_str": "1007436292366336000",
+            "indices": [
+              "176", 
+              "199"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dfsh-GRVAAAf1ok.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dfsh-GRVAAAf1ok.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ta0vEnGycJ"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ta0vEnGycJ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1007436295021518848/photo/1",
+            "id": "1007436292366336000",
+            "id_str": "1007436292366336000",
+            "indices": [
+              "176", 
+              "199"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dfsh-GRVAAAf1ok.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dfsh-GRVAAAf1ok.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ta0vEnGycJ"
+          }
+        ]
+      },
+      "favorite_count": "10",
+      "favorited": false,
+      "full_text": "Inspired by fashions in luggage design, the lightweight Universal #radios were housed in hinged, wooden cases covered in tweed cloth or textured leatherette.  #radio #RadioSFO https://t.co/Ta0vEnGycJ",
+      "id": "1007436295021518848",
+      "id_str": "1007436295021518848",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1007436295021518800
+    },
+    "wof:country": "US",
+    "wof:created": 1602026122,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729303377,
+    "wof:lastmodified": 1602026122,
+    "wof:name": "Twitter message #1007436295021518848",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

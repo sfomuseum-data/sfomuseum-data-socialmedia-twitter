@@ -1,0 +1,92 @@
+{
+  "id": 1729310911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-10-23T10:06:36-07:00",
+    "edtf:inception": "2012-10-23T10:06:36-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1351011996,
+      "created_at": "Tue Oct 23 17:06:36 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "137"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "4sq.com/RfgMa",
+            "expanded_url": "http://4sq.com/RfgMa",
+            "indices": [
+              "117", 
+              "137"
+            ],
+            "url": "http://t.co/9avAZ468"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "70466017",
+            "id_str": "70466017",
+            "indices": [
+              "37", 
+              "48"
+            ],
+            "name": "Tony Banthutham",
+            "screen_name": "TonyCatoga"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Thanks! Have a great time in BKK! RT @TonyCatoga: Nice exhibition at SFO. In 24 hours I will land in Bangkok. [pic]: http://t.co/9avAZ468",
+      "id": "260789332384817155",
+      "id_str": "260789332384817155",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 260789332384817150
+    },
+    "wof:country": "US",
+    "wof:created": 1602026411,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729310911,
+    "wof:lastmodified": 1602026411,
+    "wof:name": "Twitter message #260789332384817155",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

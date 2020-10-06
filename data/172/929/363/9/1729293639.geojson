@@ -1,0 +1,110 @@
+{
+  "id": 1729293639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2015-07-22T15:32:52-07:00",
+    "edtf:inception": "2015-07-22T15:32:52-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1437604372,
+      "created_at": "Wed Jul 22 22:32:52 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "104", 
+              "111"
+            ],
+            "text": "AvGeek"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "blogsouthwest.com/one-last-airtr…",
+            "expanded_url": "http://www.blogsouthwest.com/one-last-airtran-flight/#sthash.8FmduwjF.dpuf",
+            "indices": [
+              "112", 
+              "134"
+            ],
+            "url": "http://t.co/aPgaofAGaD"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "40113236",
+            "id_str": "40113236",
+            "indices": [
+              "3", 
+              "19"
+            ],
+            "name": "Airline Reporter",
+            "screen_name": "AirlineReporter"
+          }, 
+          {
+            "id": "7212562",
+            "id_str": "7212562",
+            "indices": [
+              "90", 
+              "103"
+            ],
+            "name": "Southwest Airlines",
+            "screen_name": "SouthwestAir"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @AirlineReporter: One Last Flight: Final 717 in AirTran Livery Takes to the Skies from @SouthwestAir #AvGeek http://t.co/aPgaofAGaD http…",
+      "id": "623984078891560960",
+      "id_str": "623984078891560960",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 623984078891561000
+    },
+    "wof:country": "US",
+    "wof:created": 1602025752,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729293639,
+    "wof:lastmodified": 1602025752,
+    "wof:name": "Twitter message #623984078891560960",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

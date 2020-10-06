@@ -1,0 +1,171 @@
+{
+  "id": 1729308439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-05-12T12:01:24-07:00",
+    "edtf:inception": "2020-05-12T12:01:24-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1589310084,
+      "created_at": "Tue May 12 19:01:24 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "268"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "6", 
+              "29"
+            ],
+            "text": "InternationalNursesDay"
+          }, 
+          {
+            "indices": [
+              "221", 
+              "228"
+            ],
+            "text": "avgeek"
+          }, 
+          {
+            "indices": [
+              "229", 
+              "244"
+            ],
+            "text": "MuseumFromHome"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/RbYuvkmgBu",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1260283953426190336/photo/1",
+            "id": "1260283949856800768",
+            "id_str": "1260283949856800768",
+            "indices": [
+              "245", 
+              "268"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EX1tkztXQAAEuA6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EX1tkztXQAAEuA6.jpg",
+            "sizes": {
+              "large": {
+                "h": "1567",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "940",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "533",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/RbYuvkmgBu"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/RbYuvkmgBu",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1260283953426190336/photo/1",
+            "id": "1260283949856800768",
+            "id_str": "1260283949856800768",
+            "indices": [
+              "245", 
+              "268"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EX1tkztXQAAEuA6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EX1tkztXQAAEuA6.jpg",
+            "sizes": {
+              "large": {
+                "h": "1567",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "940",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "533",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/RbYuvkmgBu"
+          }
+        ]
+      },
+      "favorite_count": "14",
+      "favorited": false,
+      "full_text": "Happy #InternationalNursesDay! Did you know many stewardesses and air hostesses hired before World War II were registered nurses? SFO Museum would like to thank nurses everywhere for all of your hard work and dedication. #avgeek #MuseumFromHome https://t.co/RbYuvkmgBu",
+      "id": "1260283953426190336",
+      "id_str": "1260283953426190336",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1260283953426190300
+    },
+    "wof:country": "US",
+    "wof:created": 1602026315,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729308439,
+    "wof:lastmodified": 1602026315,
+    "wof:name": "Twitter message #1260283953426190336",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

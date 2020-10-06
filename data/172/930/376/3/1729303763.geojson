@@ -1,0 +1,157 @@
+{
+  "id": 1729303763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-07-21T12:20:05-07:00",
+    "edtf:inception": "2018-07-21T12:20:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1532200805,
+      "created_at": "Sat Jul 21 19:20:05 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "207"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "41", 
+              "55"
+            ],
+            "text": "JasonReblando"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/W1BzECpaeF",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1020750276133875718/photo/1",
+            "id": "1020750273684299776",
+            "id_str": "1020750273684299776",
+            "indices": [
+              "184", 
+              "207"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dipu9ztV4AAxz1H.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dipu9ztV4AAxz1H.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "922",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "522",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/W1BzECpaeF"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/W1BzECpaeF",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1020750276133875718/photo/1",
+            "id": "1020750273684299776",
+            "id_str": "1020750273684299776",
+            "indices": [
+              "184", 
+              "207"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dipu9ztV4AAxz1H.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dipu9ztV4AAxz1H.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "922",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "522",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/W1BzECpaeF"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Working with a large format film camera, #JasonReblando produces meticulously rendered images that adopt a straightforward documentary style and examine the towns as they exist today. https://t.co/W1BzECpaeF",
+      "id": "1020750276133875718",
+      "id_str": "1020750276133875718",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1020750276133875700
+    },
+    "wof:country": "US",
+    "wof:created": 1602026136,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729303763,
+    "wof:lastmodified": 1602026136,
+    "wof:name": "Twitter message #1020750276133875718",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

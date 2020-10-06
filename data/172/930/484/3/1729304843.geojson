@@ -1,0 +1,164 @@
+{
+  "id": 1729304843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-12-06T09:01:41-08:00",
+    "edtf:inception": "2018-12-06T09:01:41-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1544115701,
+      "created_at": "Thu Dec 06 17:01:41 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "281"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "38", 
+              "45"
+            ],
+            "text": "Boeing"
+          }, 
+          {
+            "indices": [
+              "250", 
+              "257"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/d4sWKrmNSb",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1070724972870549506/photo/1",
+            "id": "1070724970207215616",
+            "id_str": "1070724970207215616",
+            "indices": [
+              "258", 
+              "281"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dtv6r_1XgAAM_lf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dtv6r_1XgAAM_lf.jpg",
+            "sizes": {
+              "large": {
+                "h": "1624",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "974",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "552",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/d4sWKrmNSb"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/d4sWKrmNSb",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1070724972870549506/photo/1",
+            "id": "1070724970207215616",
+            "id_str": "1070724970207215616",
+            "indices": [
+              "258", 
+              "281"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dtv6r_1XgAAM_lf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dtv6r_1XgAAM_lf.jpg",
+            "sizes": {
+              "large": {
+                "h": "1624",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "974",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "552",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/d4sWKrmNSb"
+          }
+        ]
+      },
+      "favorite_count": "44",
+      "favorited": false,
+      "full_text": "Within the span of a single lifetime, #Boeing went from producing piston-engine, propeller-driven aircraft to modern jetliners. Shown here in an United Airlines photo are the model 247, introduced in 1933, next to the iconic 747, introduced in 1970. #avgeek https://t.co/d4sWKrmNSb",
+      "id": "1070724972870549506",
+      "id_str": "1070724972870549506",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "16",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1070724972870549500
+    },
+    "wof:country": "US",
+    "wof:created": 1602026178,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729304843,
+    "wof:lastmodified": 1602026178,
+    "wof:name": "Twitter message #1070724972870549506",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

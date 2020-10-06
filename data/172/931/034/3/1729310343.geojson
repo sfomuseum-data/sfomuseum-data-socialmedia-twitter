@@ -1,0 +1,119 @@
+{
+  "id": 1729310343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-08-14T14:46:35-07:00",
+    "edtf:inception": "2012-08-14T14:46:35-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1344980795,
+      "created_at": "Tue Aug 14 21:46:35 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "137"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagr.am/p/OSeHq7RvL5/",
+            "expanded_url": "http://instagr.am/p/OSeHq7RvL5/",
+            "indices": [
+              "51", 
+              "71"
+            ],
+            "url": "http://t.co/EZ14YEdS"
+          }, 
+          {
+            "display_url": "instagr.am/p/OSeJeGxvL9/",
+            "expanded_url": "http://instagr.am/p/OSeJeGxvL9/",
+            "indices": [
+              "73", 
+              "93"
+            ],
+            "url": "http://t.co/ZIm7HCx8"
+          }, 
+          {
+            "display_url": "instagr.am/p/OSe_YdxvMW/",
+            "expanded_url": "http://instagr.am/p/OSe_YdxvMW/",
+            "indices": [
+              "95", 
+              "115"
+            ],
+            "url": "http://t.co/IhmfRLHG"
+          }, 
+          {
+            "display_url": "instagr.am/p/OSgJxAxvNQ/",
+            "expanded_url": "http://instagr.am/p/OSgJxAxvNQ/",
+            "indices": [
+              "117", 
+              "137"
+            ],
+            "url": "http://t.co/1aJqdxZG"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "368440830",
+            "id_str": "368440830",
+            "indices": [
+              "14", 
+              "28"
+            ],
+            "name": "terry ellis",
+            "screen_name": "_terry_ellis_"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Great pics by @_terry_ellis_ of T2's \"Modern Form\" http://t.co/EZ14YEdS  http://t.co/ZIm7HCx8  http://t.co/IhmfRLHG  http://t.co/1aJqdxZG",
+      "id": "235492642732003329",
+      "id_str": "235492642732003329",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 235492642732003330
+    },
+    "wof:country": "US",
+    "wof:created": 1602026389,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729310343,
+    "wof:lastmodified": 1602026389,
+    "wof:name": "Twitter message #235492642732003329",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

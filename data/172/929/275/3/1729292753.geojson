@@ -1,0 +1,112 @@
+{
+  "id": 1729292753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2014-11-19T12:40:35-08:00",
+    "edtf:inception": "2014-11-19T12:40:35-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1416429635,
+      "created_at": "Wed Nov 19 20:40:35 +0000 2014",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "goo.gl/MMzgA3",
+            "expanded_url": "http://goo.gl/MMzgA3",
+            "indices": [
+              "116", 
+              "138"
+            ],
+            "url": "http://t.co/hIVrYnDM9z"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "256289671",
+            "id_str": "256289671",
+            "indices": [
+              "3", 
+              "19"
+            ],
+            "name": "SGSwritereditor",
+            "screen_name": "SGSwritereditor"
+          }, 
+          {
+            "id": "116329337",
+            "id_str": "116329337",
+            "indices": [
+              "38", 
+              "48"
+            ],
+            "name": "SFO Museum",
+            "screen_name": "SFOMuseum"
+          }, 
+          {
+            "id": "545592652",
+            "id_str": "545592652",
+            "indices": [
+              "99", 
+              "114"
+            ],
+            "name": "Art \u0026 Antiques",
+            "screen_name": "ArtAntiquesMag"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @SGSwritereditor: Radiant Light is @SFOMuseum now. Read more about Tiffany Studios treasures in @ArtAntiquesMag: http://t.co/hIVrYnDM9z …",
+      "id": "535170795618983936",
+      "id_str": "535170795618983936",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 535170795618983940
+    },
+    "wof:country": "US",
+    "wof:created": 1602025720,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729292753,
+    "wof:lastmodified": 1602025720,
+    "wof:name": "Twitter message #535170795618983936",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

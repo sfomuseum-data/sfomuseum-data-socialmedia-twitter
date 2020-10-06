@@ -1,0 +1,164 @@
+{
+  "id": 1729301249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-10-03T11:40:15-07:00",
+    "edtf:inception": "2017-10-03T11:40:15-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1507056015,
+      "created_at": "Tue Oct 03 18:40:15 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "161"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "54", 
+              "65"
+            ],
+            "text": "Aeromexico"
+          }, 
+          {
+            "indices": [
+              "123", 
+              "137"
+            ],
+            "text": "traveltuesday"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/89hYiOMDS2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/915285385831440387/photo/1",
+            "id": "915285382547177472",
+            "id_str": "915285382547177472",
+            "indices": [
+              "138", 
+              "161"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DLO_NL7VAAAjYkp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DLO_NL7VAAAjYkp.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "868"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "521"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "295"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/89hYiOMDS2"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/89hYiOMDS2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/915285385831440387/photo/1",
+            "id": "915285382547177472",
+            "id_str": "915285382547177472",
+            "indices": [
+              "138", 
+              "161"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DLO_NL7VAAAjYkp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DLO_NL7VAAAjYkp.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "868"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "521"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "295"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/89hYiOMDS2"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "On October 1, 1988, the newly reformed and privatized #Aeromexico commenced operations. Have you ever flown on Aeromexico? #traveltuesday https://t.co/89hYiOMDS2",
+      "id": "915285385831440387",
+      "id_str": "915285385831440387",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 915285385831440400
+    },
+    "wof:country": "US",
+    "wof:created": 1602026040,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729301249,
+    "wof:lastmodified": 1602026040,
+    "wof:name": "Twitter message #915285385831440387",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

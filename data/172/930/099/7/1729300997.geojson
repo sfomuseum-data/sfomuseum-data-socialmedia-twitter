@@ -1,0 +1,178 @@
+{
+  "id": 1729300997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-08-18T19:55:04-07:00",
+    "edtf:inception": "2017-08-18T19:55:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1503111304,
+      "created_at": "Sat Aug 19 02:55:04 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "161"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "40", 
+              "46"
+            ],
+            "text": "PanAm"
+          }, 
+          {
+            "indices": [
+              "47", 
+              "54"
+            ],
+            "text": "Boeing"
+          }, 
+          {
+            "indices": [
+              "59", 
+              "73"
+            ],
+            "text": "Stratocruiser"
+          }, 
+          {
+            "indices": [
+              "130", 
+              "137"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BlewxWgfjX",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/898740067912515584/photo/1",
+            "id": "898740064456409088",
+            "id_str": "898740064456409088",
+            "indices": [
+              "138", 
+              "161"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DHj3U69WAAAdm_9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DHj3U69WAAAdm_9.jpg",
+            "sizes": {
+              "large": {
+                "h": "1693",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1016",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "576",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BlewxWgfjX"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BlewxWgfjX",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/898740067912515584/photo/1",
+            "id": "898740064456409088",
+            "id_str": "898740064456409088",
+            "indices": [
+              "138", 
+              "161"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DHj3U69WAAAdm_9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DHj3U69WAAAdm_9.jpg",
+            "sizes": {
+              "large": {
+                "h": "1693",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1016",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "576",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BlewxWgfjX"
+          }
+        ]
+      },
+      "favorite_count": "23",
+      "favorited": false,
+      "full_text": "In 1952, by following the jet stream, a #PanAm #Boeing 377 #Stratocruiser was able to shave 7 hours off the Tokyo-Honolulu route. #avgeek https://t.co/BlewxWgfjX",
+      "id": "898740067912515584",
+      "id_str": "898740067912515584",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "8",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 898740067912515600
+    },
+    "wof:country": "US",
+    "wof:created": 1602026030,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729300997,
+    "wof:lastmodified": 1602026030,
+    "wof:name": "Twitter message #898740067912515584",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1729306307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-06-10T10:40:13-07:00",
+    "edtf:inception": "2019-06-10T10:40:13-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1560188413,
+      "created_at": "Mon Jun 10 17:40:13 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "95746689",
+            "id_str": "95746689",
+            "indices": [
+              "3", 
+              "16"
+            ],
+            "name": "panamhistory",
+            "screen_name": "panamhistory"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @panamhistory: June 10, 1960, DC-8 Clipper Gauntlet N808PA was received by Pan Am, sold to United in 1967. Nice photo at Prestwick by Je…",
+      "id": "1138138815481036800",
+      "id_str": "1138138815481036800",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1138138815481036800
+    },
+    "wof:country": "US",
+    "wof:created": 1602026234,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729306307,
+    "wof:lastmodified": 1602026234,
+    "wof:name": "Twitter message #1138138815481036800",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

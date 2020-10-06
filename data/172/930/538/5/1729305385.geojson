@@ -1,0 +1,164 @@
+{
+  "id": 1729305385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-02-06T13:35:04-08:00",
+    "edtf:inception": "2019-02-06T13:35:04-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1549488904,
+      "created_at": "Wed Feb 06 21:35:04 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "285"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "237", 
+              "246"
+            ],
+            "text": "RodKelly"
+          }, 
+          {
+            "indices": [
+              "247", 
+              "261"
+            ],
+            "text": "BritishSilver"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/g6xOdJXg0M",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1093261821073592320/photo/1",
+            "id": "1093261818208940039",
+            "id_str": "1093261818208940039",
+            "indices": [
+              "262", 
+              "285"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DywL1NDXcAc7ReM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DywL1NDXcAc7ReM.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1818"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1091"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "618"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/g6xOdJXg0M"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/g6xOdJXg0M",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1093261821073592320/photo/1",
+            "id": "1093261818208940039",
+            "id_str": "1093261818208940039",
+            "indices": [
+              "262", 
+              "285"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DywL1NDXcAc7ReM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DywL1NDXcAc7ReM.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1818"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1091"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "618"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/g6xOdJXg0M"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "\"I’ll go anywhere to get a feel for my subject matter, whether it’s a river to study wild brown trout, London Zoo to study leopards, or visiting historic buildings to draw and capture views, all of which are then woven into my designs.\" #RodKelly #BritishSilver https://t.co/g6xOdJXg0M",
+      "id": "1093261821073592320",
+      "id_str": "1093261821073592320",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1093261821073592300
+    },
+    "wof:country": "US",
+    "wof:created": 1602026199,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729305385,
+    "wof:lastmodified": 1602026199,
+    "wof:name": "Twitter message #1093261821073592320",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

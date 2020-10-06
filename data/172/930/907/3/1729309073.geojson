@@ -1,0 +1,114 @@
+{
+  "id": 1729309073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-03-27T16:30:08-07:00",
+    "edtf:inception": "2012-03-27T16:30:08-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1332891008,
+      "created_at": "Tue Mar 27 23:30:08 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "138"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "82", 
+              "93"
+            ],
+            "text": "motorbikes"
+          }, 
+          {
+            "indices": [
+              "108", 
+              "112"
+            ],
+            "text": "SFO"
+          }, 
+          {
+            "indices": [
+              "135", 
+              "138"
+            ],
+            "text": "li"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "wp.me/p1anZN-XH",
+            "expanded_url": "http://wp.me/p1anZN-XH",
+            "indices": [
+              "114", 
+              "134"
+            ],
+            "url": "http://t.co/IPYigJvm"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "21936822",
+            "id_str": "21936822",
+            "indices": [
+              "35", 
+              "47"
+            ],
+            "name": "Jim Arnold",
+            "screen_name": "JimArnoldLA"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Great photos! Thx for blogging! RT @JimArnoldLA: Moto bellissima! Vintage Italian #motorbikes on exhibit at #SFO. http://t.co/IPYigJvm #li",
+      "id": "184784400590966784",
+      "id_str": "184784400590966784",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 184784400590966800
+    },
+    "wof:country": "US",
+    "wof:created": 1602026339,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729309073,
+    "wof:lastmodified": 1602026339,
+    "wof:name": "Twitter message #184784400590966784",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

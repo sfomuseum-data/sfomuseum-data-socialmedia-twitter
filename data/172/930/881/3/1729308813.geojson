@@ -1,0 +1,157 @@
+{
+  "id": 1729308813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-09-14T17:50:03-07:00",
+    "edtf:inception": "2020-09-14T17:50:03-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1600131003,
+      "created_at": "Tue Sep 15 00:50:03 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "196"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "157", 
+              "172"
+            ],
+            "text": "MuseumFromHome"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7MS1Vd3hy1",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1305670179318378496/photo/1",
+            "id": "1305670175056891904",
+            "id_str": "1305670175056891904",
+            "indices": [
+              "173", 
+              "196"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eh6sG0IWkAA1t98.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eh6sG0IWkAA1t98.jpg",
+            "sizes": {
+              "large": {
+                "h": "1979",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1187",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "673",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/7MS1Vd3hy1"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7MS1Vd3hy1",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1305670179318378496/photo/1",
+            "id": "1305670175056891904",
+            "id_str": "1305670175056891904",
+            "indices": [
+              "173", 
+              "196"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eh6sG0IWkAA1t98.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eh6sG0IWkAA1t98.jpg",
+            "sizes": {
+              "large": {
+                "h": "1979",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1187",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "673",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/7MS1Vd3hy1"
+          }
+        ]
+      },
+      "favorite_count": "15",
+      "favorited": false,
+      "full_text": "A big thank you to the maintenance workers, past and present, who keep the airport safe and running smoothly. Your work is essential, and we appreciate you! #MuseumFromHome https://t.co/7MS1Vd3hy1",
+      "id": "1305670179318378496",
+      "id_str": "1305670179318378496",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "4",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1305670179318378500
+    },
+    "wof:country": "US",
+    "wof:created": 1602026329,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729308813,
+    "wof:lastmodified": 1602026329,
+    "wof:name": "Twitter message #1305670179318378496",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

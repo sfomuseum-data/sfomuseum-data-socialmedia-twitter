@@ -1,0 +1,149 @@
+{
+  "id": 1729297493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-08-23T18:10:07-07:00",
+    "edtf:inception": "2016-08-23T18:10:07-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1472001007,
+      "created_at": "Wed Aug 24 01:10:07 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "116"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/wzfjMf6vYV",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/768254025397567489/photo/1",
+            "id": "768254020511301636",
+            "id_str": "768254020511301636",
+            "indices": [
+              "93", 
+              "116"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cqli9hXXgAQx3Uo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cqli9hXXgAQx3Uo.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1507"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "904"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "512"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/wzfjMf6vYV"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/wzfjMf6vYV",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/768254025397567489/photo/1",
+            "id": "768254020511301636",
+            "id_str": "768254020511301636",
+            "indices": [
+              "93", 
+              "116"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cqli9hXXgAQx3Uo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cqli9hXXgAQx3Uo.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1507"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "904"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "512"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/wzfjMf6vYV"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Byrd is known for reportedly being the first person to fly over the North \u0026amp; South Poles. https://t.co/wzfjMf6vYV",
+      "id": "768254025397567489",
+      "id_str": "768254025397567489",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 768254025397567500
+    },
+    "wof:country": "US",
+    "wof:created": 1602025900,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729297493,
+    "wof:lastmodified": 1602025900,
+    "wof:name": "Twitter message #768254025397567489",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

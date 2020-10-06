@@ -1,0 +1,157 @@
+{
+  "id": 1729298299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-10-26T20:20:08-07:00",
+    "edtf:inception": "2016-10-26T20:20:08-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1477538408,
+      "created_at": "Thu Oct 27 03:20:08 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "144"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "42", 
+              "58"
+            ],
+            "text": "FashionInFlight"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/gKdVBycRAp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/791479566195888128/photo/1",
+            "id": "791479563054350337",
+            "id_str": "791479563054350337",
+            "indices": [
+              "121", 
+              "144"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CvvmeBrWAAERZ-C.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CvvmeBrWAAERZ-C.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/gKdVBycRAp"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/gKdVBycRAp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/791479566195888128/photo/1",
+            "id": "791479563054350337",
+            "id_str": "791479563054350337",
+            "indices": [
+              "121", 
+              "144"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CvvmeBrWAAERZ-C.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CvvmeBrWAAERZ-C.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/gKdVBycRAp"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "See more flight attendant accessories in \"#FashionInFlight\", on display, pre-security, in the Aviation Museum in the IT. https://t.co/gKdVBycRAp",
+      "id": "791479566195888128",
+      "id_str": "791479566195888128",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 791479566195888100
+    },
+    "wof:country": "US",
+    "wof:created": 1602025930,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729298299,
+    "wof:lastmodified": 1602025930,
+    "wof:name": "Twitter message #791479566195888128",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

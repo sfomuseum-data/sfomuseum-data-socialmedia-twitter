@@ -1,0 +1,96 @@
+{
+  "id": 1729307011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-09-23T13:04:25-07:00",
+    "edtf:inception": "2019-09-23T13:04:25-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1569269065,
+      "created_at": "Mon Sep 23 20:04:25 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "186"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "181608016",
+            "id_str": "181608016",
+            "indices": [
+              "0", 
+              "12"
+            ],
+            "name": "airlineguys",
+            "screen_name": "airlineguys"
+          }, 
+          {
+            "id": "11196572",
+            "id_str": "11196572",
+            "indices": [
+              "13", 
+              "28"
+            ],
+            "name": "Kevin Alexander",
+            "screen_name": "KevinAlexander"
+          }
+        ]
+      },
+      "favorite_count": "6",
+      "favorited": false,
+      "full_text": "@airlineguys @KevinAlexander @TeeKayTex If everyone would like to email us their mailing address to curator@flysfo.com we can send you all free posters. Thanks so much for your interest!",
+      "id": "1176225831040901120",
+      "id_str": "1176225831040901120",
+      "in_reply_to_screen_name": "airlineguys",
+      "in_reply_to_status_id": "1175219835137155074",
+      "in_reply_to_status_id_str": "1175219835137155074",
+      "in_reply_to_user_id": "181608016",
+      "in_reply_to_user_id_str": "181608016",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1176225831040901000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026261,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729307011,
+    "wof:lastmodified": 1602026261,
+    "wof:name": "Twitter message #1176225831040901120",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

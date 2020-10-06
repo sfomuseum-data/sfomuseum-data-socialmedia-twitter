@@ -1,0 +1,185 @@
+{
+  "id": 1729299757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-03-23T18:10:05-07:00",
+    "edtf:inception": "2017-03-23T18:10:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1490317805,
+      "created_at": "Fri Mar 24 01:10:05 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "163"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "10"
+            ],
+            "text": "RuthAsawa"
+          }, 
+          {
+            "indices": [
+              "33", 
+              "43"
+            ],
+            "text": "sculpture"
+          }, 
+          {
+            "indices": [
+              "107", 
+              "114"
+            ],
+            "text": "basket"
+          }, 
+          {
+            "indices": [
+              "116", 
+              "130"
+            ],
+            "text": "5womenartists"
+          }, 
+          {
+            "indices": [
+              "131", 
+              "139"
+            ],
+            "text": "WHM2017"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/HR9N2GqRds",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/845080243803230208/photo/1",
+            "id": "845080240254849028",
+            "id_str": "845080240254849028",
+            "indices": [
+              "140", 
+              "163"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C7pUAEcXkAQhk2Y.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C7pUAEcXkAQhk2Y.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HR9N2GqRds"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/HR9N2GqRds",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/845080243803230208/photo/1",
+            "id": "845080240254849028",
+            "id_str": "845080240254849028",
+            "indices": [
+              "140", 
+              "163"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C7pUAEcXkAQhk2Y.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C7pUAEcXkAQhk2Y.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HR9N2GqRds"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "#RuthAsawa (1926–2013) worked in #sculpture and created a handful of functional objects including this egg #basket. #5womenartists #WHM2017 https://t.co/HR9N2GqRds",
+      "id": "845080243803230208",
+      "id_str": "845080243803230208",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 845080243803230200
+    },
+    "wof:country": "US",
+    "wof:created": 1602025985,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729299757,
+    "wof:lastmodified": 1602025985,
+    "wof:name": "Twitter message #845080243803230208",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

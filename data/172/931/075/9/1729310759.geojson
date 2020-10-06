@@ -1,0 +1,92 @@
+{
+  "id": 1729310759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-09-28T10:49:02-07:00",
+    "edtf:inception": "2012-09-28T10:49:02-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1348854542,
+      "created_at": "Fri Sep 28 17:49:02 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "144"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "baynetlibs.org/2012/09/25/bay…",
+            "expanded_url": "http://www.baynetlibs.org/2012/09/25/baynet-tour-of-the-sfo-aviation-museum-library/",
+            "indices": [
+              "124", 
+              "144"
+            ],
+            "url": "http://t.co/vTX5wdGL"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "116587946",
+            "id_str": "116587946",
+            "indices": [
+              "56", 
+              "67"
+            ],
+            "name": "BayNet",
+            "screen_name": "baynetlibs"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Museum \u0026amp; library 2-for-1 peek behind the scenes! RT @baynetlibs: TOUR: SFO Aviation Museum \u0026amp; Library, 11/1, 5:00 pm http://t.co/vTX5wdGL",
+      "id": "251740314602201088",
+      "id_str": "251740314602201088",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 251740314602201100
+    },
+    "wof:country": "US",
+    "wof:created": 1602026405,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729310759,
+    "wof:lastmodified": 1602026405,
+    "wof:name": "Twitter message #251740314602201088",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

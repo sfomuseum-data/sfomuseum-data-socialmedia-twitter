@@ -1,0 +1,164 @@
+{
+  "id": 1729299805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-03-31T12:05:20-07:00",
+    "edtf:inception": "2017-03-31T12:05:20-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1490987120,
+      "created_at": "Fri Mar 31 19:05:20 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "147"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "55", 
+              "65"
+            ],
+            "text": "onthisday"
+          }, 
+          {
+            "indices": [
+              "119", 
+              "123"
+            ],
+            "text": "HBD"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/U5IShcDksL",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/847887552669503489/photo/1",
+            "id": "847887548013785089",
+            "id_str": "847887548013785089",
+            "indices": [
+              "124", 
+              "147"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C8RNO4zWsAEjfEd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C8RNO4zWsAEjfEd.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1355"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "813"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "461"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/U5IShcDksL"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/U5IShcDksL",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/847887552669503489/photo/1",
+            "id": "847887548013785089",
+            "id_str": "847887548013785089",
+            "indices": [
+              "124", 
+              "147"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C8RNO4zWsAEjfEd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C8RNO4zWsAEjfEd.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1355"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "813"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "461"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/U5IShcDksL"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "The Pan American Historical Foundation was established #onthisday in 1992 by a group of former Pan American employees. #HBD https://t.co/U5IShcDksL",
+      "id": "847887552669503489",
+      "id_str": "847887552669503489",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 847887552669503500
+    },
+    "wof:country": "US",
+    "wof:created": 1602025986,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729299805,
+    "wof:lastmodified": 1602025986,
+    "wof:name": "Twitter message #847887552669503489",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

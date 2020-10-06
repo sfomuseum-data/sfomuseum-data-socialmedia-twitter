@@ -1,0 +1,207 @@
+{
+  "id": 1729304823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-11-21T12:19:06-08:00",
+    "edtf:inception": "2018-11-21T12:19:06-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1542831546,
+      "created_at": "Wed Nov 21 20:19:06 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "270"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "208", 
+              "219"
+            ],
+            "text": "SFOHistory"
+          }, 
+          {
+            "indices": [
+              "220", 
+              "236"
+            ],
+            "text": "WomeninAviation"
+          }, 
+          {
+            "indices": [
+              "237", 
+              "246"
+            ],
+            "text": "Aviatrix"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YQEIGqosb4",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1065338837633822720/photo/1",
+            "id": "1065338834878107648",
+            "id_str": "1065338834878107648",
+            "indices": [
+              "247", 
+              "270"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DsjYBqJWkAA73Gh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DsjYBqJWkAA73Gh.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1508"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "905"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "513"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YQEIGqosb4"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YQEIGqosb4",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1065338837633822720/photo/1",
+            "id": "1065338834878107648",
+            "id_str": "1065338834878107648",
+            "indices": [
+              "247", 
+              "270"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DsjYBqJWkAA73Gh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DsjYBqJWkAA73Gh.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1508"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "905"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "513"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YQEIGqosb4"
+          }, 
+          {
+            "display_url": "pic.twitter.com/YQEIGqosb4",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1065338837633822720/photo/1",
+            "id": "1065338834546769921",
+            "id_str": "1065338834546769921",
+            "indices": [
+              "247", 
+              "270"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DsjYBo6WwAE_JCO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DsjYBo6WwAE_JCO.jpg",
+            "sizes": {
+              "large": {
+                "h": "1573",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "944",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "535",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YQEIGqosb4"
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "Janet Knight, the first woman to earn a transport license at Mills Field, began flying in 1930. By 1934, she was the owner and operator of the Summit Flying School, which had a base at San Francisco Airport. #SFOHistory #WomeninAviation #Aviatrix https://t.co/YQEIGqosb4",
+      "id": "1065338837633822720",
+      "id_str": "1065338837633822720",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1065338837633822700
+    },
+    "wof:country": "US",
+    "wof:created": 1602026177,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729304823,
+    "wof:lastmodified": 1602026177,
+    "wof:name": "Twitter message #1065338837633822720",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1729308787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-08-26T14:58:46-07:00",
+    "edtf:inception": "2020-08-26T14:58:46-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1598479126,
+      "created_at": "Wed Aug 26 21:58:46 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "14848513",
+            "id_str": "14848513",
+            "indices": [
+              "3", 
+              "15"
+            ],
+            "name": "National Air and Space Museum",
+            "screen_name": "airandspace"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @airandspace: Meet Monoplane. He likes flying in airplanes, cigars, and probably long walks on the beach. He's pictured here in 1912 wit…",
+      "id": "1298741703881502722",
+      "id_str": "1298741703881502722",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1298741703881502700
+    },
+    "wof:country": "US",
+    "wof:created": 1602026328,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729308787,
+    "wof:lastmodified": 1602026328,
+    "wof:name": "Twitter message #1298741703881502722",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

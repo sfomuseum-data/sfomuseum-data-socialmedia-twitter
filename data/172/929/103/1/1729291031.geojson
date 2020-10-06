@@ -1,0 +1,256 @@
+{
+  "id": 1729291031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2013-11-12T10:25:35-08:00",
+    "edtf:inception": "2013-11-12T10:25:35-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1384280735,
+      "created_at": "Tue Nov 12 18:25:35 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "118"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "6", 
+              "19"
+            ],
+            "text": "JapaneseToys"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ccp6DwVLc4",
+            "expanded_url": "https://twitter.com/BenjaminTseng/status/400269620977729536/photo/1",
+            "id": "400269620570898432",
+            "id_str": "400269620570898432",
+            "indices": [
+              "70", 
+              "92"
+            ],
+            "media_url": "http://pbs.twimg.com/media/BY4LGWSCQAAeZN4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/BY4LGWSCQAAeZN4.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1536"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "400269620977729536",
+            "source_status_id_str": "400269620977729536",
+            "source_user_id": "15876871",
+            "source_user_id_str": "15876871",
+            "type": "photo",
+            "url": "http://t.co/Ccp6DwVLc4"
+          }, 
+          {
+            "display_url": "pic.twitter.com/oJBN1UO2OK",
+            "expanded_url": "https://twitter.com/BenjaminTseng/status/400269444640813056/photo/1",
+            "id": "400269444003278848",
+            "id_str": "400269444003278848",
+            "indices": [
+              "93", 
+              "115"
+            ],
+            "media_url": "http://pbs.twimg.com/media/BY4K8EhCMAAIO05.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/BY4K8EhCMAAIO05.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "400269444640813056",
+            "source_status_id_str": "400269444640813056",
+            "source_user_id": "15876871",
+            "source_user_id_str": "15876871",
+            "type": "photo",
+            "url": "http://t.co/oJBN1UO2OK"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "15876871",
+            "id_str": "15876871",
+            "indices": [
+              "28", 
+              "42"
+            ],
+            "name": "BenjaminTseng",
+            "screen_name": "BenjaminTseng"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ccp6DwVLc4",
+            "expanded_url": "https://twitter.com/BenjaminTseng/status/400269620977729536/photo/1",
+            "id": "400269620570898432",
+            "id_str": "400269620570898432",
+            "indices": [
+              "70", 
+              "92"
+            ],
+            "media_url": "http://pbs.twimg.com/media/BY4LGWSCQAAeZN4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/BY4LGWSCQAAeZN4.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1536"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "400269620977729536",
+            "source_status_id_str": "400269620977729536",
+            "source_user_id": "15876871",
+            "source_user_id_str": "15876871",
+            "type": "photo",
+            "url": "http://t.co/Ccp6DwVLc4"
+          }, 
+          {
+            "display_url": "pic.twitter.com/oJBN1UO2OK",
+            "expanded_url": "https://twitter.com/BenjaminTseng/status/400269444640813056/photo/1",
+            "id": "400269444003278848",
+            "id_str": "400269444003278848",
+            "indices": [
+              "93", 
+              "115"
+            ],
+            "media_url": "http://pbs.twimg.com/media/BY4K8EhCMAAIO05.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/BY4K8EhCMAAIO05.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "400269444640813056",
+            "source_status_id_str": "400269444640813056",
+            "source_user_id": "15876871",
+            "source_user_id_str": "15876871",
+            "type": "photo",
+            "url": "http://t.co/oJBN1UO2OK"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Great #JapaneseToys pics by @BenjaminTseng at oh-dark-thirty this am! http://t.co/Ccp6DwVLc4 http://t.co/oJBN1UO2OK...",
+      "id": "400328535992455169",
+      "id_str": "400328535992455169",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 400328535992455200
+    },
+    "wof:country": "US",
+    "wof:created": 1602025656,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729291031,
+    "wof:lastmodified": 1602025656,
+    "wof:name": "Twitter message #400328535992455169",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

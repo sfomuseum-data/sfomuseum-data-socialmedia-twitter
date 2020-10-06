@@ -1,0 +1,171 @@
+{
+  "id": 1729299551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-03-03T17:50:05-08:00",
+    "edtf:inception": "2017-03-03T17:50:05-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1488592205,
+      "created_at": "Sat Mar 04 01:50:05 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "151"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "94", 
+              "100"
+            ],
+            "text": "Eames"
+          }, 
+          {
+            "indices": [
+              "101", 
+              "117"
+            ],
+            "text": "AModernApproach"
+          }, 
+          {
+            "indices": [
+              "118", 
+              "127"
+            ],
+            "text": "RayEames"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ze57lshDJh",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/837842553512808449/photo/1",
+            "id": "837842550673162240",
+            "id_str": "837842550673162240",
+            "indices": [
+              "128", 
+              "151"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C6CdXFqUwAAqQiA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C6CdXFqUwAAqQiA.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ze57lshDJh"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ze57lshDJh",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/837842553512808449/photo/1",
+            "id": "837842550673162240",
+            "id_str": "837842550673162240",
+            "indices": [
+              "128", 
+              "151"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C6CdXFqUwAAqQiA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C6CdXFqUwAAqQiA.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ze57lshDJh"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "“The idea was to do a piece of furniture that would be simple and yet comfortable.” – Charles #Eames #AModernApproach #RayEames https://t.co/Ze57lshDJh",
+      "id": "837842553512808449",
+      "id_str": "837842553512808449",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 837842553512808400
+    },
+    "wof:country": "US",
+    "wof:created": 1602025977,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729299551,
+    "wof:lastmodified": 1602025977,
+    "wof:name": "Twitter message #837842553512808449",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

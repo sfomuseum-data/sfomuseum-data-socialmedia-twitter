@@ -1,0 +1,159 @@
+{
+  "id": 1729308689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-08-21T16:35:03-07:00",
+    "edtf:inception": "2020-08-21T16:35:03-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1598052903,
+      "created_at": "Fri Aug 21 23:35:03 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "260"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GninmCam0G",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1296953996486365194/photo/1",
+            "id": "1296953993176981504",
+            "id_str": "1296953993176981504",
+            "indices": [
+              "237", 
+              "260"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ef-0yQVWoAAzzmT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ef-0yQVWoAAzzmT.jpg",
+            "sizes": {
+              "large": {
+                "h": "1332",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "799",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GninmCam0G"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "sfomuseum.org/about/blog/eve…",
+            "expanded_url": "https://www.sfomuseum.org/about/blog/evelyn-love-travelogue-stewardess",
+            "indices": [
+              "213", 
+              "236"
+            ],
+            "url": "https://t.co/JMN6mSRRq9"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GninmCam0G",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1296953996486365194/photo/1",
+            "id": "1296953993176981504",
+            "id_str": "1296953993176981504",
+            "indices": [
+              "237", 
+              "260"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ef-0yQVWoAAzzmT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ef-0yQVWoAAzzmT.jpg",
+            "sizes": {
+              "large": {
+                "h": "1332",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "799",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GninmCam0G"
+          }
+        ]
+      },
+      "favorite_count": "6",
+      "favorited": false,
+      "full_text": "Our newest blog post is up! \"From Evelyn with Love\" features the story of one of our beloved volunteers, Evelyn David, who has generously donated her career history to SFO Museum. Read more about her on our blog! https://t.co/JMN6mSRRq9 https://t.co/GninmCam0G",
+      "id": "1296953996486365194",
+      "id_str": "1296953996486365194",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1296953996486365200
+    },
+    "wof:country": "US",
+    "wof:created": 1602026324,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729308689,
+    "wof:lastmodified": 1602026324,
+    "wof:name": "Twitter message #1296953996486365194",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1729311977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2013-05-01T16:25:25-07:00",
+    "edtf:inception": "2013-05-01T16:25:25-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1367450725,
+      "created_at": "Wed May 01 23:25:25 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "139"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "facebook.com/photo.php?fbid…",
+            "expanded_url": "https://www.facebook.com/photo.php?fbid=134376786755556\u0026set=a.130470573812844.1073741828.126314167561818\u0026type=1\u0026theater",
+            "indices": [
+              "81", 
+              "104"
+            ],
+            "url": "https://t.co/IUrn24FDTG"
+          }, 
+          {
+            "display_url": "flysfo.com/web/page/sfo_m…",
+            "expanded_url": "http://www.flysfo.com/web/page/sfo_museum/exhibitions/terminal2_exhibitions/D12_archive/lets_play/05.html#top",
+            "indices": [
+              "117", 
+              "139"
+            ],
+            "url": "http://t.co/H4WVX2i7BD"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Detail of an 1895 board game shows football spectators in horse-drawn carriages: https://t.co/IUrn24FDTG Whole game: http://t.co/H4WVX2i7BD",
+      "id": "329738358630801409",
+      "id_str": "329738358630801409",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 329738358630801400
+    },
+    "wof:country": "US",
+    "wof:created": 1602026453,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729311977,
+    "wof:lastmodified": 1602026453,
+    "wof:name": "Twitter message #329738358630801409",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

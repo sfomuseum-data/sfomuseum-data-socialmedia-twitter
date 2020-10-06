@@ -1,0 +1,164 @@
+{
+  "id": 1729301705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-11-15T15:55:08-08:00",
+    "edtf:inception": "2017-11-15T15:55:08-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1510790108,
+      "created_at": "Wed Nov 15 23:55:08 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "116"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "10"
+            ],
+            "text": "Onthisday"
+          }, 
+          {
+            "indices": [
+              "85", 
+              "92"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/6WaedptHcP",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/930947304667926529/photo/1",
+            "id": "930947301778051072",
+            "id_str": "930947301778051072",
+            "indices": [
+              "93", 
+              "116"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DOtjo3sW0AAB4Ut.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DOtjo3sW0AAB4Ut.jpg",
+            "sizes": {
+              "large": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "medium": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/6WaedptHcP"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/6WaedptHcP",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/930947304667926529/photo/1",
+            "id": "930947301778051072",
+            "id_str": "930947301778051072",
+            "indices": [
+              "93", 
+              "116"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DOtjo3sW0AAB4Ut.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DOtjo3sW0AAB4Ut.jpg",
+            "sizes": {
+              "large": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "medium": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/6WaedptHcP"
+          }
+        ]
+      },
+      "favorite_count": "6",
+      "favorited": false,
+      "full_text": "#Onthisday in 1940, the U.S. Coast Guard Air Station San Francisco was commissioned. #avgeek https://t.co/6WaedptHcP",
+      "id": "930947304667926529",
+      "id_str": "930947304667926529",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 930947304667926500
+    },
+    "wof:country": "US",
+    "wof:created": 1602026056,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729301705,
+    "wof:lastmodified": 1602026056,
+    "wof:name": "Twitter message #930947304667926529",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

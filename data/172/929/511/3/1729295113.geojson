@@ -1,0 +1,185 @@
+{
+  "id": 1729295113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-02-07T12:20:47-08:00",
+    "edtf:inception": "2016-02-07T12:20:47-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1454876447,
+      "created_at": "Sun Feb 07 20:20:47 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "71", 
+              "86"
+            ],
+            "text": "TheNationsGame"
+          }, 
+          {
+            "indices": [
+              "111", 
+              "116"
+            ],
+            "text": "SB50"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TW7ldmtoOg",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/696428415038189568/photo/1",
+            "id": "696428413951700994",
+            "id_str": "696428413951700994",
+            "indices": [
+              "117", 
+              "140"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cao18-EUcAINrvJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cao18-EUcAINrvJ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1365",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/TW7ldmtoOg"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/XVbFE",
+            "expanded_url": "http://ow.ly/XVbFE",
+            "indices": [
+              "87", 
+              "110"
+            ],
+            "url": "https://t.co/wek0tEbsLR"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "19426551",
+            "id_str": "19426551",
+            "indices": [
+              "35", 
+              "39"
+            ],
+            "name": "NFL",
+            "screen_name": "NFL"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TW7ldmtoOg",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/696428415038189568/photo/1",
+            "id": "696428413951700994",
+            "id_str": "696428413951700994",
+            "indices": [
+              "117", 
+              "140"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cao18-EUcAINrvJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cao18-EUcAINrvJ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1365",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/TW7ldmtoOg"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "See memorabilia from your favorite @NFL teams at our online exhibit of #TheNationsGame https://t.co/wek0tEbsLR #SB50 https://t.co/TW7ldmtoOg",
+      "id": "696428415038189568",
+      "id_str": "696428415038189568",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 696428415038189600
+    },
+    "wof:country": "US",
+    "wof:created": 1602025807,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729295113,
+    "wof:lastmodified": 1602025807,
+    "wof:name": "Twitter message #696428415038189568",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

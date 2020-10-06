@@ -1,0 +1,219 @@
+{
+  "id": 1729306299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-06-10T12:30:33-07:00",
+    "edtf:inception": "2019-06-10T12:30:33-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1560195033,
+      "created_at": "Mon Jun 10 19:30:33 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "302"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "227", 
+              "241"
+            ],
+            "text": "VideoArtsSFOM"
+          }, 
+          {
+            "indices": [
+              "242", 
+              "248"
+            ],
+            "text": "Pride"
+          }, 
+          {
+            "indices": [
+              "249", 
+              "260"
+            ],
+            "text": "PrideMonth"
+          }, 
+          {
+            "indices": [
+              "261", 
+              "278"
+            ],
+            "text": "TransIsBeautiful"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2NXowvh1h3",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1138166580817190922/video/1",
+            "id": "1138166199320100865",
+            "id_str": "1138166199320100865",
+            "indices": [
+              "279", 
+              "302"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1138166199320100865/pu/img/yNv0ouCCasEl6lDZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1138166199320100865/pu/img/yNv0ouCCasEl6lDZ.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2NXowvh1h3"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2K6RM8N",
+            "expanded_url": "http://bit.ly/2K6RM8N",
+            "indices": [
+              "203", 
+              "226"
+            ],
+            "url": "https://t.co/2vN68SDcRk"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/2NXowvh1h3",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1138166580817190922/video/1",
+            "id": "1138166199320100865",
+            "id_str": "1138166199320100865",
+            "indices": [
+              "279", 
+              "302"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1138166199320100865/pu/img/yNv0ouCCasEl6lDZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1138166199320100865/pu/img/yNv0ouCCasEl6lDZ.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/2NXowvh1h3",
+            "video_info": {
+              "aspect_ratio": [
+                "16", 
+                "9"
+              ],
+              "duration_millis": "41833",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1138166199320100865/pu/pl/V1oiHZq-m_ZuaDYU.m3u8?tag=10"
+                }, 
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1138166199320100865/pu/vid/640x360/wHKXP5D2Yjx1RQTT.mp4?tag=10"
+                }, 
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1138166199320100865/pu/vid/1280x720/24Q29OVqug0d_Kh4.mp4?tag=10"
+                }, 
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1138166199320100865/pu/vid/480x270/wN16BsHnNDzbEJU0.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "NOW PLAYING: \"Red\" by Yuchao Feng. An introverted young man finds comfort, confidence, and freedom while dressing in women’s clothing until coming upon his father in a chance encounter on a busy street. https://t.co/2vN68SDcRk #VideoArtsSFOM #Pride #PrideMonth #TransIsBeautiful https://t.co/2NXowvh1h3",
+      "id": "1138166580817190922",
+      "id_str": "1138166580817190922",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1138166580817190900
+    },
+    "wof:country": "US",
+    "wof:created": 1602026234,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729306299,
+    "wof:lastmodified": 1602026234,
+    "wof:name": "Twitter message #1138166580817190922",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

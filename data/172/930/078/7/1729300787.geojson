@@ -1,0 +1,159 @@
+{
+  "id": 1729300787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-07-24T19:55:04-07:00",
+    "edtf:inception": "2017-07-24T19:55:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1500951304,
+      "created_at": "Tue Jul 25 02:55:04 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "146"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mePbLAJ67A",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/889680371486478336/photo/1",
+            "id": "889680368613208064",
+            "id_str": "889680368613208064",
+            "indices": [
+              "123", 
+              "146"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DFjHlN7UMAA3iY6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DFjHlN7UMAA3iY6.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/mePbLAJ67A"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/Thetypewriter",
+            "expanded_url": "http://bit.ly/Thetypewriter",
+            "indices": [
+              "99", 
+              "122"
+            ],
+            "url": "https://t.co/Nph1wGe8xJ"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mePbLAJ67A",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/889680371486478336/photo/1",
+            "id": "889680368613208064",
+            "id_str": "889680368613208064",
+            "indices": [
+              "123", 
+              "146"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DFjHlN7UMAA3iY6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DFjHlN7UMAA3iY6.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/mePbLAJ67A"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Learn more in \"The Typewriter: An Innovation in Writing\" on display, post-security, in Terminal 2. https://t.co/Nph1wGe8xJ https://t.co/mePbLAJ67A",
+      "id": "889680371486478336",
+      "id_str": "889680371486478336",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 889680371486478300
+    },
+    "wof:country": "US",
+    "wof:created": 1602026022,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729300787,
+    "wof:lastmodified": 1602026022,
+    "wof:name": "Twitter message #889680371486478336",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

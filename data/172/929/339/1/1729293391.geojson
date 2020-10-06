@@ -1,0 +1,81 @@
+{
+  "id": 1729293391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2015-05-01T16:35:20-07:00",
+    "edtf:inception": "2015-05-01T16:35:20-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1430523320,
+      "created_at": "Fri May 01 23:35:20 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "125"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagram.com/p/2KG70jxk2i/",
+            "expanded_url": "https://instagram.com/p/2KG70jxk2i/",
+            "indices": [
+              "102", 
+              "125"
+            ],
+            "url": "https://t.co/X3m2IPdyrN"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "From 19th century archaeological excavations to Cecil B. DeMille's epic 1934 film 'Cleopatra', there… https://t.co/X3m2IPdyrN",
+      "id": "594283994746900480",
+      "id_str": "594283994746900480",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 594283994746900500
+    },
+    "wof:country": "US",
+    "wof:created": 1602025743,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729293391,
+    "wof:lastmodified": 1602025743,
+    "wof:name": "Twitter message #594283994746900480",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

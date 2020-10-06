@@ -1,0 +1,167 @@
+{
+  "id": 1729306685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-07-25T19:50:03-07:00",
+    "edtf:inception": "2019-07-25T19:50:03-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1564109403,
+      "created_at": "Fri Jul 26 02:50:03 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "193"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "152", 
+              "169"
+            ],
+            "text": "CaliforniaCrafts"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vWtWNegilm",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1154584639140433920/photo/1",
+            "id": "1154584636862935040",
+            "id_str": "1154584636862935040",
+            "indices": [
+              "170", 
+              "193"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EAXonCdWsAAQTV0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAXonCdWsAAQTV0.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vWtWNegilm"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/CaliforniaCraf…",
+            "expanded_url": "http://bit.ly/CaliforniaCrafts",
+            "indices": [
+              "128", 
+              "151"
+            ],
+            "url": "https://t.co/aZ7as85qN6"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vWtWNegilm",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1154584639140433920/photo/1",
+            "id": "1154584636862935040",
+            "id_str": "1154584636862935040",
+            "indices": [
+              "170", 
+              "193"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EAXonCdWsAAQTV0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAXonCdWsAAQTV0.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vWtWNegilm"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "See \"California Studio Craft: Featuring Works from the Forrest L. Merrill Collection\" on display, post-security, in Terminal 2. https://t.co/aZ7as85qN6 #CaliforniaCrafts https://t.co/vWtWNegilm",
+      "id": "1154584639140433920",
+      "id_str": "1154584639140433920",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1154584639140434000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026249,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729306685,
+    "wof:lastmodified": 1602026249,
+    "wof:name": "Twitter message #1154584639140433920",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1729292495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2011-11-16T09:10:01-08:00",
+    "edtf:inception": "2011-11-16T09:10:01-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1321463401,
+      "created_at": "Wed Nov 16 17:10:01 +0000 2011",
+      "display_text_range": [
+        "0", 
+        "67"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "6321372",
+            "id_str": "6321372",
+            "indices": [
+              "0", 
+              "9"
+            ],
+            "name": "Steve Patrizi",
+            "screen_name": "spatrizi"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@spatrizi We're glad to hear that the exhibit resonated with you :)",
+      "id": "136853539346587648",
+      "id_str": "136853539346587648",
+      "in_reply_to_screen_name": "spatrizi",
+      "in_reply_to_user_id": "6321372",
+      "in_reply_to_user_id_str": "6321372",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 136853539346587650
+    },
+    "wof:country": "US",
+    "wof:created": 1602025710,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729292495,
+    "wof:lastmodified": 1602025710,
+    "wof:name": "Twitter message #136853539346587648",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

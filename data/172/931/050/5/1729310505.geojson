@@ -1,0 +1,92 @@
+{
+  "id": 1729310505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-09-11T14:56:56-07:00",
+    "edtf:inception": "2012-09-11T14:56:56-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1347400616,
+      "created_at": "Tue Sep 11 21:56:56 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "105"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagr.am/p/Pc1jRAxk3p/",
+            "expanded_url": "http://instagr.am/p/Pc1jRAxk3p/",
+            "indices": [
+              "85", 
+              "105"
+            ],
+            "url": "http://t.co/r1exOebO"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "260907612",
+            "id_str": "260907612",
+            "indices": [
+              "53", 
+              "60"
+            ],
+            "name": "United Airlines",
+            "screen_name": "united"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Spotted recently by our Director: retro paint job on @United's 85th Anniversary A320 http://t.co/r1exOebO",
+      "id": "245642106629148672",
+      "id_str": "245642106629148672",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 245642106629148670
+    },
+    "wof:country": "US",
+    "wof:created": 1602026395,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729310505,
+    "wof:lastmodified": 1602026395,
+    "wof:name": "Twitter message #245642106629148672",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

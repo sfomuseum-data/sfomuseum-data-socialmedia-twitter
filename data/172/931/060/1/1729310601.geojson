@@ -1,0 +1,81 @@
+{
+  "id": 1729310601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-09-26T10:20:42-07:00",
+    "edtf:inception": "2012-09-26T10:20:42-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1348680042,
+      "created_at": "Wed Sep 26 17:20:42 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "129"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagr.am/p/QC-jndxk1k/",
+            "expanded_url": "http://instagr.am/p/QC-jndxk1k/",
+            "indices": [
+              "109", 
+              "129"
+            ],
+            "url": "http://t.co/T2Lawew6"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Long layover? Come read a book (like this fascinating autobiography by Jacqueline Auriol) at our Aviation Mu http://t.co/T2Lawew6",
+      "id": "251008406020833281",
+      "id_str": "251008406020833281",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 251008406020833280
+    },
+    "wof:country": "US",
+    "wof:created": 1602026399,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729310601,
+    "wof:lastmodified": 1602026399,
+    "wof:name": "Twitter message #251008406020833281",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

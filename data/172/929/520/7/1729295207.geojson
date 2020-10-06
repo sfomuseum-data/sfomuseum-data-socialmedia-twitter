@@ -1,0 +1,157 @@
+{
+  "id": 1729295207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-02-08T18:00:18-08:00",
+    "edtf:inception": "2016-02-08T18:00:18-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1454983218,
+      "created_at": "Tue Feb 09 02:00:18 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "136"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "38", 
+              "44"
+            ],
+            "text": "PanAm"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UPrSrNiXkJ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/696876242918838273/photo/1",
+            "id": "696876241836732416",
+            "id_str": "696876241836732416",
+            "indices": [
+              "113", 
+              "136"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CavNP-8WcAAkDb6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CavNP-8WcAAkDb6.jpg",
+            "sizes": {
+              "large": {
+                "h": "1503",
+                "resize": "fit",
+                "w": "1862"
+              },
+              "medium": {
+                "h": "969",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "549",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/UPrSrNiXkJ"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UPrSrNiXkJ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/696876242918838273/photo/1",
+            "id": "696876241836732416",
+            "id_str": "696876241836732416",
+            "indices": [
+              "113", 
+              "136"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CavNP-8WcAAkDb6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CavNP-8WcAAkDb6.jpg",
+            "sizes": {
+              "large": {
+                "h": "1503",
+                "resize": "fit",
+                "w": "1862"
+              },
+              "medium": {
+                "h": "969",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "549",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/UPrSrNiXkJ"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "Happy Chinese New Year! In the 1980s, #PanAm printed menus featuring a Chinese New Year parade in San Francisco. https://t.co/UPrSrNiXkJ",
+      "id": "696876242918838273",
+      "id_str": "696876242918838273",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "5",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 696876242918838300
+    },
+    "wof:country": "US",
+    "wof:created": 1602025810,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729295207,
+    "wof:lastmodified": 1602025810,
+    "wof:name": "Twitter message #696876242918838273",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,168 @@
+{
+  "id": 1729296649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-06-27T19:55:09-07:00",
+    "edtf:inception": "2016-06-27T19:55:09-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1467082509,
+      "created_at": "Tue Jun 28 02:55:09 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "142"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "107", 
+              "118"
+            ],
+            "text": "SFOHistory"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/VQe81JoWcm",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/747624349360881664/photo/1",
+            "id": "747624345653116928",
+            "id_str": "747624345653116928",
+            "indices": [
+              "119", 
+              "142"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CmAYYZwWgAAVzEb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CmAYYZwWgAAVzEb.jpg",
+            "sizes": {
+              "large": {
+                "h": "1599",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "937",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "531",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/VQe81JoWcm"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "260907612",
+            "id_str": "260907612",
+            "indices": [
+              "97", 
+              "104"
+            ],
+            "name": "United Airlines",
+            "screen_name": "united"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/VQe81JoWcm",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/747624349360881664/photo/1",
+            "id": "747624345653116928",
+            "id_str": "747624345653116928",
+            "indices": [
+              "119", 
+              "142"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CmAYYZwWgAAVzEb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CmAYYZwWgAAVzEb.jpg",
+            "sizes": {
+              "large": {
+                "h": "1599",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "937",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "531",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/VQe81JoWcm"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "In the 1960s, United built a kitchen at SFO. \"The SF kitchen is the largest \u0026amp; most modern in @united.\" #SFOHistory https://t.co/VQe81JoWcm",
+      "id": "747624349360881664",
+      "id_str": "747624349360881664",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 747624349360881700
+    },
+    "wof:country": "US",
+    "wof:created": 1602025867,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729296649,
+    "wof:lastmodified": 1602025867,
+    "wof:name": "Twitter message #747624349360881664",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

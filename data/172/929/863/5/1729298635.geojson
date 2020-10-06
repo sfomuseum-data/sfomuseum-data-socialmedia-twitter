@@ -1,0 +1,171 @@
+{
+  "id": 1729298635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-11-24T15:30:31-08:00",
+    "edtf:inception": "2016-11-24T15:30:31-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1480030231,
+      "created_at": "Thu Nov 24 23:30:31 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "164"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "96", 
+              "106"
+            ],
+            "text": "onthisday"
+          }, 
+          {
+            "indices": [
+              "116", 
+              "123"
+            ],
+            "text": "avgeek"
+          }, 
+          {
+            "indices": [
+              "124", 
+              "140"
+            ],
+            "text": "aviationhistory"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ydy5yBA81K",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/801931031393800193/photo/1",
+            "id": "801931027748950018",
+            "id_str": "801931027748950018",
+            "indices": [
+              "141", 
+              "164"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CyEIBVtXEAIa18r.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CyEIBVtXEAIa18r.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ydy5yBA81K"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ydy5yBA81K",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/801931031393800193/photo/1",
+            "id": "801931027748950018",
+            "id_str": "801931027748950018",
+            "indices": [
+              "141", 
+              "164"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CyEIBVtXEAIa18r.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CyEIBVtXEAIa18r.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ydy5yBA81K"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "The British Overseas Airways Corporation (BOAC) was founded by an Act of the British Parliament #onthisday in 1939. #avgeek #aviationhistory https://t.co/Ydy5yBA81K",
+      "id": "801931031393800193",
+      "id_str": "801931031393800193",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 801931031393800200
+    },
+    "wof:country": "US",
+    "wof:created": 1602025943,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729298635,
+    "wof:lastmodified": 1602025943,
+    "wof:name": "Twitter message #801931031393800193",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

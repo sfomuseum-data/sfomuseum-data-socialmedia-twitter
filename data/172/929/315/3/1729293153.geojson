@@ -1,0 +1,89 @@
+{
+  "id": 1729293153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2015-02-24T17:02:22-08:00",
+    "edtf:inception": "2015-02-24T17:02:22-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1424826142,
+      "created_at": "Wed Feb 25 01:02:22 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "124"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "110", 
+              "124"
+            ],
+            "text": "TravelTuesday"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/JCaBg",
+            "expanded_url": "http://ow.ly/JCaBg",
+            "indices": [
+              "87", 
+              "109"
+            ],
+            "url": "http://t.co/kzUtQXLSSn"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "A deal from the 1950s- Central African Airways offered 1/2 price tickets for students: http://t.co/kzUtQXLSSn #TravelTuesday",
+      "id": "570388297190678528",
+      "id_str": "570388297190678528",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 570388297190678500
+    },
+    "wof:country": "US",
+    "wof:created": 1602025734,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729293153,
+    "wof:lastmodified": 1602025734,
+    "wof:name": "Twitter message #570388297190678528",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

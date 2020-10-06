@@ -1,0 +1,81 @@
+{
+  "id": 1729308331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-02-29T09:43:15-08:00",
+    "edtf:inception": "2012-02-29T09:43:15-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1330537395,
+      "created_at": "Wed Feb 29 17:43:15 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "134"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "yfrog.com/oc6zykpj",
+            "expanded_url": "http://yfrog.com/oc6zykpj",
+            "indices": [
+              "114", 
+              "134"
+            ],
+            "url": "http://t.co/xQ26T6rA"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Open-cockpit flights over the North Pole? Brrrr! Take a look at what Richard E. Byrd wore for his flight in 1926: http://t.co/xQ26T6rA",
+      "id": "174912631143006209",
+      "id_str": "174912631143006209",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 174912631143006200
+    },
+    "wof:country": "US",
+    "wof:created": 1602026311,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729308331,
+    "wof:lastmodified": 1602026311,
+    "wof:name": "Twitter message #174912631143006209",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

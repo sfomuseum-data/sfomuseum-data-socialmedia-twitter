@@ -1,0 +1,164 @@
+{
+  "id": 1729305093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-01-04T20:10:04-08:00",
+    "edtf:inception": "2019-01-04T20:10:04-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1546661404,
+      "created_at": "Sat Jan 05 04:10:04 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "268"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "23", 
+              "34"
+            ],
+            "text": "California"
+          }, 
+          {
+            "indices": [
+              "230", 
+              "244"
+            ],
+            "text": "1950sConsumer"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/HFcwj86l0d",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1081402426807238657/photo/1",
+            "id": "1081402424689131521",
+            "id_str": "1081402424689131521",
+            "indices": [
+              "245", 
+              "268"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DwHpxpbXgAEh0QU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DwHpxpbXgAEh0QU.jpg",
+            "sizes": {
+              "large": {
+                "h": "1472",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "883",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "500",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HFcwj86l0d"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/HFcwj86l0d",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1081402426807238657/photo/1",
+            "id": "1081402424689131521",
+            "id_str": "1081402424689131521",
+            "indices": [
+              "245", 
+              "268"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DwHpxpbXgAEh0QU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DwHpxpbXgAEh0QU.jpg",
+            "sizes": {
+              "large": {
+                "h": "1472",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "883",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "500",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HFcwj86l0d"
+          }
+        ]
+      },
+      "favorite_count": "7",
+      "favorited": false,
+      "full_text": "Lake Tahoe in Northern #California became a favorite vacation destination in the late 1940s. Attracted to year-round activities such as snow-skiing in the winter and boating during summer months. Have you ever been to Lake Tahoe? #1950sConsumer https://t.co/HFcwj86l0d",
+      "id": "1081402426807238657",
+      "id_str": "1081402426807238657",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1081402426807238700
+    },
+    "wof:country": "US",
+    "wof:created": 1602026187,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729305093,
+    "wof:lastmodified": 1602026187,
+    "wof:name": "Twitter message #1081402426807238657",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

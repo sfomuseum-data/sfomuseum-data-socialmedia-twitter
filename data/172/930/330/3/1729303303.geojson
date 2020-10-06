@@ -1,0 +1,178 @@
+{
+  "id": 1729303303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-05-27T10:15:53-07:00",
+    "edtf:inception": "2018-05-27T10:15:53-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1527441353,
+      "created_at": "Sun May 27 17:15:53 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "80"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BVO4rDAAIc",
+            "expanded_url": "https://twitter.com/KTVU/status/1000768602012815360/photo/1",
+            "id": "1000752344009617408",
+            "id_str": "1000752344009617408",
+            "indices": [
+              "57", 
+              "80"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DeNi9GTVMAAH5jB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DeNi9GTVMAAH5jB.jpg",
+            "sizes": {
+              "large": {
+                "h": "236",
+                "resize": "fit",
+                "w": "423"
+              },
+              "medium": {
+                "h": "236",
+                "resize": "fit",
+                "w": "423"
+              },
+              "small": {
+                "h": "236",
+                "resize": "fit",
+                "w": "423"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "1000768602012815360",
+            "source_status_id_str": "1000768602012815360",
+            "source_user_id": "15652540",
+            "source_user_id_str": "15652540",
+            "type": "photo",
+            "url": "https://t.co/BVO4rDAAIc"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "15652540",
+            "id_str": "15652540",
+            "indices": [
+              "3", 
+              "8"
+            ],
+            "name": "KTVU",
+            "screen_name": "KTVU"
+          }, 
+          {
+            "id": "29792675",
+            "id_str": "29792675",
+            "indices": [
+              "11", 
+              "20"
+            ],
+            "name": "Golden Gate Bridge",
+            "screen_name": "GGBridge"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BVO4rDAAIc",
+            "expanded_url": "https://twitter.com/KTVU/status/1000768602012815360/photo/1",
+            "id": "1000752344009617408",
+            "id_str": "1000752344009617408",
+            "indices": [
+              "57", 
+              "80"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DeNi9GTVMAAH5jB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DeNi9GTVMAAH5jB.jpg",
+            "sizes": {
+              "large": {
+                "h": "236",
+                "resize": "fit",
+                "w": "423"
+              },
+              "medium": {
+                "h": "236",
+                "resize": "fit",
+                "w": "423"
+              },
+              "small": {
+                "h": "236",
+                "resize": "fit",
+                "w": "423"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "1000768602012815360",
+            "source_status_id_str": "1000768602012815360",
+            "source_user_id": "15652540",
+            "source_user_id_str": "15652540",
+            "type": "photo",
+            "url": "https://t.co/BVO4rDAAIc"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @KTVU: .@GGBridge celebrating its 81st birthday today https://t.co/BVO4rDAAIc",
+      "id": "1000787688067186688",
+      "id_str": "1000787688067186688",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1000787688067186700
+    },
+    "wof:country": "US",
+    "wof:created": 1602026119,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729303303,
+    "wof:lastmodified": 1602026119,
+    "wof:name": "Twitter message #1000787688067186688",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,164 @@
+{
+  "id": 1729307705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-01-10T16:00:35-08:00",
+    "edtf:inception": "2020-01-10T16:00:35-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1578700835,
+      "created_at": "Sat Jan 11 00:00:35 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "298"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "14", 
+              "22"
+            ],
+            "text": "Tiffany"
+          }, 
+          {
+            "indices": [
+              "255", 
+              "274"
+            ],
+            "text": "VictorianPedestals"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/R4eaSqwFpb",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1215785541272326148/photo/1",
+            "id": "1215785537707089920",
+            "id_str": "1215785537707089920",
+            "indices": [
+              "275", 
+              "298"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EN9WgUoWoAA4RlB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EN9WgUoWoAA4RlB.jpg",
+            "sizes": {
+              "large": {
+                "h": "1500",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/R4eaSqwFpb"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/R4eaSqwFpb",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1215785541272326148/photo/1",
+            "id": "1215785537707089920",
+            "id_str": "1215785537707089920",
+            "indices": [
+              "275", 
+              "298"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EN9WgUoWoAA4RlB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EN9WgUoWoAA4RlB.jpg",
+            "sizes": {
+              "large": {
+                "h": "1500",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/R4eaSqwFpb"
+          }
+        ]
+      },
+      "favorite_count": "7",
+      "favorited": false,
+      "full_text": "Louis Comfort #Tiffany began a career as an interior designer during the late 1870s. Tiffany’s residence featured dining room walls covered in Japanese papers, a drawing room with Moorish columns, and a fireplace with mica panels in a spider web pattern. #VictorianPedestals https://t.co/R4eaSqwFpb",
+      "id": "1215785541272326148",
+      "id_str": "1215785541272326148",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1215785541272326100
+    },
+    "wof:country": "US",
+    "wof:created": 1602026287,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729307705,
+    "wof:lastmodified": 1602026287,
+    "wof:name": "Twitter message #1215785541272326148",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

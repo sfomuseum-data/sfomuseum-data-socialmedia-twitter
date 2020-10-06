@@ -1,0 +1,92 @@
+{
+  "id": 1729299453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-03-02T12:30:28-08:00",
+    "edtf:inception": "2017-03-02T12:30:28-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1488486628,
+      "created_at": "Thu Mar 02 20:30:28 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "airspacemag.com/daily-planet/g…",
+            "expanded_url": "http://www.airspacemag.com/daily-planet/getting-high-skies-180961700/",
+            "indices": [
+              "111", 
+              "134"
+            ],
+            "url": "https://t.co/bWYp7LPfD7"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "171112947",
+            "id_str": "171112947",
+            "indices": [
+              "3", 
+              "15"
+            ],
+            "name": "Air \u0026 Space Magazine",
+            "screen_name": "airspacemag"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @airspacemag: If you wanted a cocktail in-flight in 1950, better hope you weren't passing over a dry state. https://t.co/bWYp7LPfD7 http…",
+      "id": "837399729189216256",
+      "id_str": "837399729189216256",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 837399729189216300
+    },
+    "wof:country": "US",
+    "wof:created": 1602025973,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729299453,
+    "wof:lastmodified": 1602025973,
+    "wof:name": "Twitter message #837399729189216256",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

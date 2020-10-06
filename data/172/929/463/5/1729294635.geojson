@@ -1,0 +1,149 @@
+{
+  "id": 1729294635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2015-12-12T11:35:26-08:00",
+    "edtf:inception": "2015-12-12T11:35:26-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1449948926,
+      "created_at": "Sat Dec 12 19:35:26 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "138"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/5y3s1ZdqHm",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/675760893981040640/photo/1",
+            "id": "675760893636927489",
+            "id_str": "675760893636927489",
+            "indices": [
+              "115", 
+              "138"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CWDI89JUYAE1Sl8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CWDI89JUYAE1Sl8.jpg",
+            "sizes": {
+              "large": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "medium": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5y3s1ZdqHm"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/5y3s1ZdqHm",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/675760893981040640/photo/1",
+            "id": "675760893636927489",
+            "id_str": "675760893636927489",
+            "indices": [
+              "115", 
+              "138"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CWDI89JUYAE1Sl8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CWDI89JUYAE1Sl8.jpg",
+            "sizes": {
+              "large": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "medium": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5y3s1ZdqHm"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "“I can tell you that no good books were harmed.” See James Henkel’s photo exhibition “Stacks”, pre-security in T2. https://t.co/5y3s1ZdqHm",
+      "id": "675760893981040640",
+      "id_str": "675760893981040640",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 675760893981040600
+    },
+    "wof:country": "US",
+    "wof:created": 1602025789,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729294635,
+    "wof:lastmodified": 1602025789,
+    "wof:name": "Twitter message #675760893981040640",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

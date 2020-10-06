@@ -1,0 +1,171 @@
+{
+  "id": 1729298549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-11-08T18:25:06-08:00",
+    "edtf:inception": "2016-11-08T18:25:06-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1478658306,
+      "created_at": "Wed Nov 09 02:25:06 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "162"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "10"
+            ],
+            "text": "OnThisDay"
+          }, 
+          {
+            "indices": [
+              "30", 
+              "36"
+            ],
+            "text": "PanAm"
+          }, 
+          {
+            "indices": [
+              "124", 
+              "138"
+            ],
+            "text": "TravelTuesday"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FzsbJDETUU",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/796176760597544961/photo/1",
+            "id": "796176755539247106",
+            "id_str": "796176755539247106",
+            "indices": [
+              "139", 
+              "162"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CwyWinRXAAIn0j0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwyWinRXAAIn0j0.jpg",
+            "sizes": {
+              "large": {
+                "h": "1154",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "692",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "392",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FzsbJDETUU"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FzsbJDETUU",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/796176760597544961/photo/1",
+            "id": "796176755539247106",
+            "id_str": "796176755539247106",
+            "indices": [
+              "139", 
+              "162"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CwyWinRXAAIn0j0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwyWinRXAAIn0j0.jpg",
+            "sizes": {
+              "large": {
+                "h": "1154",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "692",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "392",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FzsbJDETUU"
+          }
+        ]
+      },
+      "favorite_count": "7",
+      "favorited": false,
+      "full_text": "#OnThisDay in 1948, the first #PanAm airmail service to Barcelona, Spain departed from NY. Have you ever been to Barcelona? #TravelTuesday https://t.co/FzsbJDETUU",
+      "id": "796176760597544961",
+      "id_str": "796176760597544961",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 796176760597545000
+    },
+    "wof:country": "US",
+    "wof:created": 1602025940,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729298549,
+    "wof:lastmodified": 1602025940,
+    "wof:name": "Twitter message #796176760597544961",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

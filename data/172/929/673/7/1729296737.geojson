@@ -1,0 +1,236 @@
+{
+  "id": 1729296737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-06-30T14:55:00-07:00",
+    "edtf:inception": "2016-06-30T14:55:00-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1467323700,
+      "created_at": "Thu Jun 30 21:55:00 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "92"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "55", 
+              "68"
+            ],
+            "text": "APottersLife"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/t6uiLFWCxp",
+            "expanded_url": "https://twitter.com/Chris_Manno/status/748635907255742465/photo/1",
+            "id": "748635898317676545",
+            "id_str": "748635898317676545",
+            "indices": [
+              "69", 
+              "92"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CmOwYhFUoAE1Ni4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CmOwYhFUoAE1Ni4.jpg",
+            "sizes": {
+              "large": {
+                "h": "546",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "320",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "181",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "748635907255742465",
+            "source_status_id_str": "748635907255742465",
+            "source_user_id": "113048196",
+            "source_user_id_str": "113048196",
+            "type": "photo",
+            "url": "https://t.co/t6uiLFWCxp"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "113048196",
+            "id_str": "113048196",
+            "indices": [
+              "3", 
+              "15"
+            ],
+            "name": "Chris Manno",
+            "screen_name": "Chris_Manno"
+          }, 
+          {
+            "id": "116329337",
+            "id_str": "116329337",
+            "indices": [
+              "17", 
+              "27"
+            ],
+            "name": "SFO Museum",
+            "screen_name": "SFOMuseum"
+          }, 
+          {
+            "id": "16408759",
+            "id_str": "16408759",
+            "indices": [
+              "32", 
+              "39"
+            ],
+            "name": "San Francisco International Airport (SFO) ✈️",
+            "screen_name": "flySFO"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/t6uiLFWCxp",
+            "expanded_url": "https://twitter.com/Chris_Manno/status/748635907255742465/photo/1",
+            "id": "748635898317676545",
+            "id_str": "748635898317676545",
+            "indices": [
+              "69", 
+              "92"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CmOwYhFUoAE1Ni4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CmOwYhFUoAE1Ni4.jpg",
+            "sizes": {
+              "large": {
+                "h": "546",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "320",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "181",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "748635907255742465",
+            "source_status_id_str": "748635907255742465",
+            "source_user_id": "113048196",
+            "source_user_id_str": "113048196",
+            "type": "photo",
+            "url": "https://t.co/t6uiLFWCxp"
+          }, 
+          {
+            "display_url": "pic.twitter.com/t6uiLFWCxp",
+            "expanded_url": "https://twitter.com/Chris_Manno/status/748635907255742465/photo/1",
+            "id": "748635898489630720",
+            "id_str": "748635898489630720",
+            "indices": [
+              "69", 
+              "92"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CmOwYhuUcAASyH9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CmOwYhuUcAASyH9.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1536"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "748635907255742465",
+            "source_status_id_str": "748635907255742465",
+            "source_user_id": "113048196",
+            "source_user_id_str": "113048196",
+            "type": "photo",
+            "url": "https://t.co/t6uiLFWCxp"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @Chris_Manno: @SFOMuseum and @flySFO --awesomeness! #APottersLife https://t.co/t6uiLFWCxp",
+      "id": "748635978374340608",
+      "id_str": "748635978374340608",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 748635978374340600
+    },
+    "wof:country": "US",
+    "wof:created": 1602025869,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729296737,
+    "wof:lastmodified": 1602025869,
+    "wof:name": "Twitter message #748635978374340608",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

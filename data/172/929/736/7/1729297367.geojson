@@ -1,0 +1,164 @@
+{
+  "id": 1729297367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-08-09T19:45:07-07:00",
+    "edtf:inception": "2016-08-09T19:45:07-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1470797107,
+      "created_at": "Wed Aug 10 02:45:07 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "136"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "79", 
+              "85"
+            ],
+            "text": "PanAm"
+          }, 
+          {
+            "indices": [
+              "98", 
+              "112"
+            ],
+            "text": "TravelTuesday"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XUuvzEKCky",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/763204503411822592/photo/1",
+            "id": "763204499792158720",
+            "id_str": "763204499792158720",
+            "indices": [
+              "113", 
+              "136"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cpdycu0XYAAQM6a.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cpdycu0XYAAQM6a.jpg",
+            "sizes": {
+              "large": {
+                "h": "1429",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "857",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "486",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XUuvzEKCky"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XUuvzEKCky",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/763204503411822592/photo/1",
+            "id": "763204499792158720",
+            "id_str": "763204499792158720",
+            "indices": [
+              "113", 
+              "136"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cpdycu0XYAAQM6a.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cpdycu0XYAAQM6a.jpg",
+            "sizes": {
+              "large": {
+                "h": "1429",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "857",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "486",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XUuvzEKCky"
+          }
+        ]
+      },
+      "favorite_count": "14",
+      "favorited": false,
+      "full_text": "By 1948, PAL was flying DC-6s into SFO via a similar route to the one used  by #PanAm's Clippers. #TravelTuesday https://t.co/XUuvzEKCky",
+      "id": "763204503411822592",
+      "id_str": "763204503411822592",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "8",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 763204503411822600
+    },
+    "wof:country": "US",
+    "wof:created": 1602025895,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729297367,
+    "wof:lastmodified": 1602025895,
+    "wof:name": "Twitter message #763204503411822592",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

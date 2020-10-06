@@ -1,0 +1,200 @@
+{
+  "id": 1729307883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-02-14T17:11:13-08:00",
+    "edtf:inception": "2020-02-14T17:11:13-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1581729073,
+      "created_at": "Sat Feb 15 01:11:13 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "284"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "228", 
+              "245"
+            ],
+            "text": "CaliforniaCrafts"
+          }, 
+          {
+            "indices": [
+              "246", 
+              "260"
+            ],
+            "text": "ValentinesDay"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/49gORE0Q6F",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1228486890262683648/photo/1",
+            "id": "1228486884889784321",
+            "id_str": "1228486884889784321",
+            "indices": [
+              "261", 
+              "284"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EQx2UCEU8AEkwpK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EQx2UCEU8AEkwpK.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1403"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "842"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "477"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/49gORE0Q6F"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/49gORE0Q6F",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1228486890262683648/photo/1",
+            "id": "1228486884889784321",
+            "id_str": "1228486884889784321",
+            "indices": [
+              "261", 
+              "284"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EQx2UCEU8AEkwpK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EQx2UCEU8AEkwpK.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1403"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "842"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "477"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/49gORE0Q6F"
+          }, 
+          {
+            "display_url": "pic.twitter.com/49gORE0Q6F",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1228486890262683648/photo/1",
+            "id": "1228486884906520577",
+            "id_str": "1228486884906520577",
+            "indices": [
+              "261", 
+              "284"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EQx2UCIUUAECtcO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EQx2UCIUUAECtcO.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1562"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "937"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "531"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/49gORE0Q6F"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Did you know that “California Studio Craft: Featuring Works from the Forrest L. Merrill Collection” features work by the husband and wife team of woodworker Bob Stocksdale (1913–2003) and textile artist Kay Sekimachi (b. 1926)? #CaliforniaCrafts #ValentinesDay https://t.co/49gORE0Q6F",
+      "id": "1228486890262683648",
+      "id_str": "1228486890262683648",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1228486890262683600
+    },
+    "wof:country": "US",
+    "wof:created": 1602026294,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729307883,
+    "wof:lastmodified": 1602026294,
+    "wof:name": "Twitter message #1228486890262683648",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

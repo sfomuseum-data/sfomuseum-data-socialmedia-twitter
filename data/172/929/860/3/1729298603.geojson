@@ -1,0 +1,188 @@
+{
+  "id": 1729298603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-11-16T09:18:46-08:00",
+    "edtf:inception": "2016-11-16T09:18:46-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1479316726,
+      "created_at": "Wed Nov 16 17:18:46 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "133"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jmigTvU8Rn",
+            "expanded_url": "https://twitter.com/TodayInTheSky/status/798937246279864320/photo/1",
+            "id": "798937156635000832",
+            "id_str": "798937156635000832",
+            "indices": [
+              "110", 
+              "133"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CxZlHGsXAAA9xR0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxZlHGsXAAA9xR0.jpg",
+            "sizes": {
+              "large": {
+                "h": "534",
+                "resize": "fit",
+                "w": "800"
+              },
+              "medium": {
+                "h": "534",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "454",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "798937246279864320",
+            "source_status_id_str": "798937246279864320",
+            "source_user_id": "15811202",
+            "source_user_id_str": "15811202",
+            "type": "photo",
+            "url": "https://t.co/jmigTvU8Rn"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "usat.ly/2fxnaNt",
+            "expanded_url": "http://usat.ly/2fxnaNt",
+            "indices": [
+              "69", 
+              "92"
+            ],
+            "url": "https://t.co/spGmQzEsj1"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "1167742169366638592",
+            "id_str": "1167742169366638592",
+            "indices": [
+              "3", 
+              "17"
+            ],
+            "name": "TodayInTheSky",
+            "screen_name": "TodayInTheSky"
+          }, 
+          {
+            "id": "1192182541",
+            "id_str": "1192182541",
+            "indices": [
+              "99", 
+              "108"
+            ],
+            "name": "JDL",
+            "screen_name": "photoJDL"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jmigTvU8Rn",
+            "expanded_url": "https://twitter.com/TodayInTheSky/status/798937246279864320/photo/1",
+            "id": "798937156635000832",
+            "id_str": "798937156635000832",
+            "indices": [
+              "110", 
+              "133"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CxZlHGsXAAA9xR0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxZlHGsXAAA9xR0.jpg",
+            "sizes": {
+              "large": {
+                "h": "534",
+                "resize": "fit",
+                "w": "800"
+              },
+              "medium": {
+                "h": "534",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "454",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "798937246279864320",
+            "source_status_id_str": "798937246279864320",
+            "source_user_id": "15811202",
+            "source_user_id_str": "15811202",
+            "type": "photo",
+            "url": "https://t.co/jmigTvU8Rn"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @TodayInTheSky: United: Boeing 747s to be retired by October 2018 https://t.co/spGmQzEsj1 (pic: @photoJDL) https://t.co/jmigTvU8Rn",
+      "id": "798938371947167745",
+      "id_str": "798938371947167745",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 798938371947167700
+    },
+    "wof:country": "US",
+    "wof:created": 1602025942,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729298603,
+    "wof:lastmodified": 1602025942,
+    "wof:name": "Twitter message #798938371947167745",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,164 @@
+{
+  "id": 1729294291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2015-10-09T21:15:37-07:00",
+    "edtf:inception": "2015-10-09T21:15:37-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1444450537,
+      "created_at": "Sat Oct 10 04:15:37 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "92"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "48", 
+              "64"
+            ],
+            "text": "FlashbackFriday"
+          }, 
+          {
+            "indices": [
+              "65", 
+              "69"
+            ],
+            "text": "fbf"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/RGxGOAjran",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/652698975804489733/photo/1",
+            "id": "652698975410065408",
+            "id_str": "652698975410065408",
+            "indices": [
+              "70", 
+              "92"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CQ7aQo6UEAAoS3H.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CQ7aQo6UEAAoS3H.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "907"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "531"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "301"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "http://t.co/RGxGOAjran"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/RGxGOAjran",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/652698975804489733/photo/1",
+            "id": "652698975410065408",
+            "id_str": "652698975410065408",
+            "indices": [
+              "70", 
+              "92"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CQ7aQo6UEAAoS3H.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CQ7aQo6UEAAoS3H.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "907"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "531"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "301"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "http://t.co/RGxGOAjran"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "One of United’s main hubs is right here at SFO. #FlashbackFriday #fbf http://t.co/RGxGOAjran",
+      "id": "652698975804489733",
+      "id_str": "652698975804489733",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 652698975804489700
+    },
+    "wof:country": "US",
+    "wof:created": 1602025776,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729294291,
+    "wof:lastmodified": 1602025776,
+    "wof:name": "Twitter message #652698975804489733",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

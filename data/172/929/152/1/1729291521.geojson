@@ -1,0 +1,89 @@
+{
+  "id": 1729291521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2014-02-20T17:11:59-08:00",
+    "edtf:inception": "2014-02-20T17:11:59-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1392945119,
+      "created_at": "Fri Feb 21 01:11:59 +0000 2014",
+      "display_text_range": [
+        "0", 
+        "91"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "60", 
+              "68"
+            ],
+            "text": "vessels"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagram.com/p/kqMNQnxk5s/",
+            "expanded_url": "http://instagram.com/p/kqMNQnxk5s/",
+            "indices": [
+              "69", 
+              "91"
+            ],
+            "url": "http://t.co/pbauELf0vV"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Bowl from leaf skeletons of a Bodhi tree, by Kay Sekimachi. #vessels http://t.co/pbauELf0vV",
+      "id": "436669597211983872",
+      "id_str": "436669597211983872",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 436669597211983900
+    },
+    "wof:country": "US",
+    "wof:created": 1602025674,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729291521,
+    "wof:lastmodified": 1602025674,
+    "wof:name": "Twitter message #436669597211983872",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

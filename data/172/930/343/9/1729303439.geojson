@@ -1,0 +1,86 @@
+{
+  "id": 1729303439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-01-24T11:24:47-08:00",
+    "edtf:inception": "2012-01-24T11:24:47-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1327433087,
+      "created_at": "Tue Jan 24 19:24:47 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "104"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "115147038",
+            "id_str": "115147038",
+            "indices": [
+              "0", 
+              "10"
+            ],
+            "name": "Blair",
+            "screen_name": "CraftChat"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@CraftChat Our total pleasure! So glad you enjoyed our TV exhibit \u0026 we look forward to seeing you again!",
+      "id": "161892217609396225",
+      "id_str": "161892217609396225",
+      "in_reply_to_screen_name": "CraftChat",
+      "in_reply_to_status_id": "161888590064926720",
+      "in_reply_to_status_id_str": "161888590064926720",
+      "in_reply_to_user_id": "115147038",
+      "in_reply_to_user_id_str": "115147038",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 161892217609396220
+    },
+    "wof:country": "US",
+    "wof:created": 1602026123,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729303439,
+    "wof:lastmodified": 1602026123,
+    "wof:name": "Twitter message #161892217609396225",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

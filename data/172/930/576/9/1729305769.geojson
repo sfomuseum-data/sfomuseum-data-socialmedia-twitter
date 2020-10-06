@@ -1,0 +1,157 @@
+{
+  "id": 1729305769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-04-07T12:00:39-07:00",
+    "edtf:inception": "2019-04-07T12:00:39-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1554663639,
+      "created_at": "Sun Apr 07 19:00:39 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "300"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "13"
+            ],
+            "text": "PhilipCheung"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/kcgBXKiAnS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1114966231491260417/photo/1",
+            "id": "1114966228987273216",
+            "id_str": "1114966228987273216",
+            "indices": [
+              "277", 
+              "300"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D3kn4L9X4AAv2nz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D3kn4L9X4AAv2nz.jpg",
+            "sizes": {
+              "large": {
+                "h": "1498",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "899",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "509",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/kcgBXKiAnS"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/kcgBXKiAnS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1114966231491260417/photo/1",
+            "id": "1114966228987273216",
+            "id_str": "1114966228987273216",
+            "indices": [
+              "277", 
+              "300"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D3kn4L9X4AAv2nz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D3kn4L9X4AAv2nz.jpg",
+            "sizes": {
+              "large": {
+                "h": "1498",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "899",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "509",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/kcgBXKiAnS"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "#PhilipCheung's work examines the contemporary landscape, revisits the railroad’s history, and draws focus on the involvement of the Chinese migrant workers, whose contributions to the Central Pacific Railroad made possible the creation of the first transcontinental railroad. https://t.co/kcgBXKiAnS",
+      "id": "1114966231491260417",
+      "id_str": "1114966231491260417",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1114966231491260400
+    },
+    "wof:country": "US",
+    "wof:created": 1602026214,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729305769,
+    "wof:lastmodified": 1602026214,
+    "wof:name": "Twitter message #1114966231491260417",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

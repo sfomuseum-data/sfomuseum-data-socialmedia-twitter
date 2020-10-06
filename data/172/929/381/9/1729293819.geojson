@@ -1,0 +1,92 @@
+{
+  "id": 1729293819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2015-08-14T12:40:24-07:00",
+    "edtf:inception": "2015-08-14T12:40:24-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1439581224,
+      "created_at": "Fri Aug 14 19:40:24 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "135"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagram.com/p/6WGvAEgTq4/",
+            "expanded_url": "https://instagram.com/p/6WGvAEgTq4/",
+            "indices": [
+              "112", 
+              "135"
+            ],
+            "url": "https://t.co/8KV1fRp5eu"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "785722",
+            "id_str": "785722",
+            "indices": [
+              "3", 
+              "11"
+            ],
+            "name": "Iván Cavero Belaunde",
+            "screen_name": "ivanski"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @ivanski: Beautiful Pierce-Arrow at the Art Deco exhibit at in SFO Terminal 3 @ San Francisco International… https://t.co/8KV1fRp5eu",
+      "id": "632275596660338688",
+      "id_str": "632275596660338688",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 632275596660338700
+    },
+    "wof:country": "US",
+    "wof:created": 1602025759,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729293819,
+    "wof:lastmodified": 1602025759,
+    "wof:name": "Twitter message #632275596660338688",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

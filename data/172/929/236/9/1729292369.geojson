@@ -1,0 +1,92 @@
+{
+  "id": 1729292369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2014-08-11T15:33:16-07:00",
+    "edtf:inception": "2014-08-11T15:33:16-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1407796396,
+      "created_at": "Mon Aug 11 22:33:16 +0000 2014",
+      "display_text_range": [
+        "0", 
+        "120"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ht.ly/zFJ0n",
+            "expanded_url": "http://ht.ly/zFJ0n",
+            "indices": [
+              "98", 
+              "120"
+            ],
+            "url": "http://t.co/jR0XbnKXSa"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "229243046",
+            "id_str": "229243046",
+            "indices": [
+              "3", 
+              "17"
+            ],
+            "name": "CaliforniaRoom",
+            "screen_name": "annetkentroom"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @annetkentroom: Last chance to see \"Airline Identity\" at SFO before it departs (sorry, had to) http://t.co/jR0XbnKXSa",
+      "id": "498960368744800257",
+      "id_str": "498960368744800257",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 498960368744800260
+    },
+    "wof:country": "US",
+    "wof:created": 1602025706,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729292369,
+    "wof:lastmodified": 1602025706,
+    "wof:name": "Twitter message #498960368744800257",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

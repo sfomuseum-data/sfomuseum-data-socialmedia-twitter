@@ -1,0 +1,171 @@
+{
+  "id": 1729301111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-09-05T19:45:05-07:00",
+    "edtf:inception": "2017-09-05T19:45:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1504665905,
+      "created_at": "Wed Sep 06 02:45:05 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "10"
+            ],
+            "text": "OnThisDay"
+          }, 
+          {
+            "indices": [
+              "100", 
+              "111"
+            ],
+            "text": "SFOHistory"
+          }, 
+          {
+            "indices": [
+              "112", 
+              "116"
+            ],
+            "text": "TWA"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2IWMDUHfez",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/905260534899073026/photo/1",
+            "id": "905260531614920704",
+            "id_str": "905260531614920704",
+            "indices": [
+              "117", 
+              "140"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJAhqEAWsAAamkt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJAhqEAWsAAamkt.jpg",
+            "sizes": {
+              "large": {
+                "h": "1356",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "814",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "461",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2IWMDUHfez"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2IWMDUHfez",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/905260534899073026/photo/1",
+            "id": "905260531614920704",
+            "id_str": "905260531614920704",
+            "indices": [
+              "117", 
+              "140"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJAhqEAWsAAamkt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJAhqEAWsAAamkt.jpg",
+            "sizes": {
+              "large": {
+                "h": "1356",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "814",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "461",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2IWMDUHfez"
+          }
+        ]
+      },
+      "favorite_count": "6",
+      "favorited": false,
+      "full_text": "#OnThisDay in 1937, Transcontinental \u0026amp; Western Air established a base at San Francisco Airport. #SFOHistory #TWA https://t.co/2IWMDUHfez",
+      "id": "905260534899073026",
+      "id_str": "905260534899073026",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 905260534899073000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026034,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729301111,
+    "wof:lastmodified": 1602026034,
+    "wof:name": "Twitter message #905260534899073026",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

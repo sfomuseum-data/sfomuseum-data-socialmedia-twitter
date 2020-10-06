@@ -1,0 +1,100 @@
+{
+  "id": 1729308955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-03-14T13:15:23-07:00",
+    "edtf:inception": "2012-03-14T13:15:23-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1331756123,
+      "created_at": "Wed Mar 14 20:15:23 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "127"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "97", 
+              "106"
+            ],
+            "text": "SXSW2012"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagr.am/p/IKcVNpSuTv/",
+            "expanded_url": "http://instagr.am/p/IKcVNpSuTv/",
+            "indices": [
+              "107", 
+              "127"
+            ],
+            "url": "http://t.co/6GDHbHCa"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "16138169",
+            "id_str": "16138169",
+            "indices": [
+              "13", 
+              "21"
+            ],
+            "name": "Bob Macke",
+            "screen_name": "bfmacke"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Have fun! MT @bfmacke: Vinyl exhibit at Terminal 2 in SFO to kickoff a music laden weekend; nice #SXSW2012 http://t.co/6GDHbHCa",
+      "id": "180024347182895105",
+      "id_str": "180024347182895105",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 180024347182895100
+    },
+    "wof:country": "US",
+    "wof:created": 1602026334,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729308955,
+    "wof:lastmodified": 1602026334,
+    "wof:name": "Twitter message #180024347182895105",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,183 @@
+{
+  "id": 1729293877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2015-08-19T09:22:35-07:00",
+    "edtf:inception": "2015-08-19T09:22:35-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1440001355,
+      "created_at": "Wed Aug 19 16:22:35 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "127"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "19", 
+              "23"
+            ],
+            "text": "OTD"
+          }, 
+          {
+            "indices": [
+              "84", 
+              "104"
+            ],
+            "text": "NationalAviationDay"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Bg614956iN",
+            "expanded_url": "https://twitter.com/DeptofDefense/status/633990233139253248/photo/1",
+            "id": "633990232401047553",
+            "id_str": "633990232401047553",
+            "indices": [
+              "105", 
+              "127"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CMxiweFU8AEWQhh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CMxiweFU8AEWQhh.jpg",
+            "sizes": {
+              "large": {
+                "h": "385",
+                "resize": "fit",
+                "w": "680"
+              },
+              "medium": {
+                "h": "385",
+                "resize": "fit",
+                "w": "680"
+              },
+              "small": {
+                "h": "385",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "633990233139253248",
+            "source_status_id_str": "633990233139253248",
+            "source_user_id": "66369181",
+            "source_user_id_str": "66369181",
+            "type": "photo",
+            "url": "http://t.co/Bg614956iN"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "66369181",
+            "id_str": "66369181",
+            "indices": [
+              "3", 
+              "17"
+            ],
+            "name": "Department of Defense 🇺🇸",
+            "screen_name": "DeptofDefense"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Bg614956iN",
+            "expanded_url": "https://twitter.com/DeptofDefense/status/633990233139253248/photo/1",
+            "id": "633990232401047553",
+            "id_str": "633990232401047553",
+            "indices": [
+              "105", 
+              "127"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CMxiweFU8AEWQhh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CMxiweFU8AEWQhh.jpg",
+            "sizes": {
+              "large": {
+                "h": "385",
+                "resize": "fit",
+                "w": "680"
+              },
+              "medium": {
+                "h": "385",
+                "resize": "fit",
+                "w": "680"
+              },
+              "small": {
+                "h": "385",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "633990233139253248",
+            "source_status_id_str": "633990233139253248",
+            "source_user_id": "66369181",
+            "source_user_id_str": "66369181",
+            "type": "photo",
+            "url": "http://t.co/Bg614956iN"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @DeptofDefense: #OTD in 1939, President Franklin Roosevelt proclaimed August 19, #NationalAviationDay http://t.co/Bg614956iN",
+      "id": "634037756281274368",
+      "id_str": "634037756281274368",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 634037756281274400
+    },
+    "wof:country": "US",
+    "wof:created": 1602025761,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729293877,
+    "wof:lastmodified": 1602025761,
+    "wof:name": "Twitter message #634037756281274368",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

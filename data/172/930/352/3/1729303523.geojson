@@ -1,0 +1,164 @@
+{
+  "id": 1729303523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-06-19T17:30:07-07:00",
+    "edtf:inception": "2018-06-19T17:30:07-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1529454607,
+      "created_at": "Wed Jun 20 00:30:07 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "205"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "154", 
+              "165"
+            ],
+            "text": "Icelandair"
+          }, 
+          {
+            "indices": [
+              "167", 
+              "181"
+            ],
+            "text": "traveltuesday"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jh4tsxsXRS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1009231887267713024/photo/1",
+            "id": "1009231884033945601",
+            "id_str": "1009231884033945601",
+            "indices": [
+              "182", 
+              "205"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DgGDDSfXcAE-T2K.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DgGDDSfXcAE-T2K.jpg",
+            "sizes": {
+              "large": {
+                "h": "1445",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "867",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "491",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/jh4tsxsXRS"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jh4tsxsXRS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1009231887267713024/photo/1",
+            "id": "1009231884033945601",
+            "id_str": "1009231884033945601",
+            "indices": [
+              "182", 
+              "205"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DgGDDSfXcAE-T2K.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DgGDDSfXcAE-T2K.jpg",
+            "sizes": {
+              "large": {
+                "h": "1445",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "867",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "491",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/jh4tsxsXRS"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "Icelandair, the flag carrier of Iceland, was established in 1937 as Flugfélag Akureyrar and began operating as Icelandair in 1940. Have you ever flown on #Icelandair? #traveltuesday https://t.co/jh4tsxsXRS",
+      "id": "1009231887267713024",
+      "id_str": "1009231887267713024",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1009231887267713000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026126,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729303523,
+    "wof:lastmodified": 1602026126,
+    "wof:name": "Twitter message #1009231887267713024",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

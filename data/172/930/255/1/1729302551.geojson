@@ -1,0 +1,159 @@
+{
+  "id": 1729302551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-03-06T20:20:04-08:00",
+    "edtf:inception": "2018-03-06T20:20:04-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1520396404,
+      "created_at": "Wed Mar 07 04:20:04 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "301"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cs9P2yViwg",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/971239033451008000/photo/1",
+            "id": "971239029327966210",
+            "id_str": "971239029327966210",
+            "indices": [
+              "278", 
+              "301"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DXqIwFcWsAI6nrj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DXqIwFcWsAI6nrj.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/cs9P2yViwg"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2FfhsOF",
+            "expanded_url": "http://bit.ly/2FfhsOF",
+            "indices": [
+              "254", 
+              "277"
+            ],
+            "url": "https://t.co/0jZ6a3mKLx"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cs9P2yViwg",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/971239033451008000/photo/1",
+            "id": "971239029327966210",
+            "id_str": "971239029327966210",
+            "indices": [
+              "278", 
+              "301"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DXqIwFcWsAI6nrj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DXqIwFcWsAI6nrj.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/cs9P2yViwg"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "Filmmaker Dave Kiehl and his wife Krysten stopped by to visit the Video Arts gallery last week! They timed a short vacation in San Francisco with the debut of his film “The Seed in the Sky”! See “The Seed in the Sky” in the International Terminal today! https://t.co/0jZ6a3mKLx https://t.co/cs9P2yViwg",
+      "id": "971239033451008000",
+      "id_str": "971239033451008000",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 971239033451008000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026088,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729302551,
+    "wof:lastmodified": 1602026088,
+    "wof:name": "Twitter message #971239033451008000",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

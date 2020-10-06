@@ -1,0 +1,234 @@
+{
+  "id": 1729301669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-11-07T12:04:45-08:00",
+    "edtf:inception": "2017-11-07T12:04:45-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1510085085,
+      "created_at": "Tue Nov 07 20:04:45 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "114"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "60", 
+              "74"
+            ],
+            "text": "UA747farewell"
+          }, 
+          {
+            "indices": [
+              "75", 
+              "82"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/kQ8iUSE3sY",
+            "expanded_url": "https://twitter.com/timjue/status/927979439966715904/video/1",
+            "id": "927978004390690816",
+            "id_str": "927978004390690816",
+            "indices": [
+              "91", 
+              "114"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/927978004390690816/pu/img/x0JqfuAO2Pxv_cDj.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/927978004390690816/pu/img/x0JqfuAO2Pxv_cDj.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "927979439966715904",
+            "source_status_id_str": "927979439966715904",
+            "source_user_id": "21385411",
+            "source_user_id_str": "21385411",
+            "type": "photo",
+            "url": "https://t.co/kQ8iUSE3sY"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "21385411",
+            "id_str": "21385411",
+            "indices": [
+              "3", 
+              "10"
+            ],
+            "name": "Tim Jue",
+            "screen_name": "timjue"
+          }, 
+          {
+            "id": "260907612",
+            "id_str": "260907612",
+            "indices": [
+              "26", 
+              "33"
+            ],
+            "name": "United Airlines",
+            "screen_name": "united"
+          }, 
+          {
+            "id": "16408759",
+            "id_str": "16408759",
+            "indices": [
+              "83", 
+              "90"
+            ],
+            "name": "San Francisco International Airport (SFO) ✈️",
+            "screen_name": "flySFO"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/kQ8iUSE3sY",
+            "expanded_url": "https://twitter.com/timjue/status/927979439966715904/video/1",
+            "id": "927978004390690816",
+            "id_str": "927978004390690816",
+            "indices": [
+              "91", 
+              "114"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/927978004390690816/pu/img/x0JqfuAO2Pxv_cDj.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/927978004390690816/pu/img/x0JqfuAO2Pxv_cDj.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "927979439966715904",
+            "source_status_id_str": "927979439966715904",
+            "source_user_id": "21385411",
+            "source_user_id_str": "21385411",
+            "type": "video",
+            "url": "https://t.co/kQ8iUSE3sY",
+            "video_info": {
+              "aspect_ratio": [
+                "16", 
+                "9"
+              ],
+              "duration_millis": "140003",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/927978004390690816/pu/pl/NKakGTXEh91A9ZhX.m3u8"
+                }, 
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/927978004390690816/pu/vid/320x180/RTepTlyVTl0TBMQd.mp4"
+                }, 
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/927978004390690816/pu/vid/640x360/8fJaEaXbi0cDdmn2.mp4"
+                }, 
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/927978004390690816/pu/vid/1280x720/OIsgnYT9TtW-o2NO.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @timjue: The very last @United Boeing 747 pushback ever. #UA747farewell #avgeek @flySFO https://t.co/kQ8iUSE3sY",
+      "id": "927990226584182784",
+      "id_str": "927990226584182784",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 927990226584182800
+    },
+    "wof:country": "US",
+    "wof:created": 1602026054,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729301669,
+    "wof:lastmodified": 1602026054,
+    "wof:name": "Twitter message #927990226584182784",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

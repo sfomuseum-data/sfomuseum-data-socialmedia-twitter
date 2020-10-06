@@ -1,0 +1,170 @@
+{
+  "id": 1729296685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-06-25T12:30:33-07:00",
+    "edtf:inception": "2016-06-25T12:30:33-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1466883033,
+      "created_at": "Sat Jun 25 19:30:33 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "137"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IqHul2uFDk",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/746787685897998337/photo/1",
+            "id": "746787682433511424",
+            "id_str": "746787682433511424",
+            "indices": [
+              "114", 
+              "137"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cl0fcMYWMAAKp0q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cl0fcMYWMAAKp0q.jpg",
+            "sizes": {
+              "large": {
+                "h": "1499",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "899",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IqHul2uFDk"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/1rtC3Tb",
+            "expanded_url": "http://bit.ly/1rtC3Tb",
+            "indices": [
+              "90", 
+              "113"
+            ],
+            "url": "https://t.co/JbS6img7RX"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "24823311",
+            "id_str": "24823311",
+            "indices": [
+              "49", 
+              "61"
+            ],
+            "name": "Geoffrey Hiller",
+            "screen_name": "hillerphoto"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IqHul2uFDk",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/746787685897998337/photo/1",
+            "id": "746787682433511424",
+            "id_str": "746787682433511424",
+            "indices": [
+              "114", 
+              "137"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cl0fcMYWMAAKp0q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cl0fcMYWMAAKp0q.jpg",
+            "sizes": {
+              "large": {
+                "h": "1499",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "899",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IqHul2uFDk"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "See “The Bangladesh Project” by Geoffrey Hiller (@hillerphoto), pre-security, Terminal 2. https://t.co/JbS6img7RX https://t.co/IqHul2uFDk",
+      "id": "746787685897998337",
+      "id_str": "746787685897998337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 746787685897998300
+    },
+    "wof:country": "US",
+    "wof:created": 1602025867,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729296685,
+    "wof:lastmodified": 1602025867,
+    "wof:name": "Twitter message #746787685897998337",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

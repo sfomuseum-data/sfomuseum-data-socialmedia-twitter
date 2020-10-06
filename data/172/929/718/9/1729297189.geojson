@@ -1,0 +1,157 @@
+{
+  "id": 1729297189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-08-02T18:35:08-07:00",
+    "edtf:inception": "2016-08-02T18:35:08-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1470188108,
+      "created_at": "Wed Aug 03 01:35:08 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "117"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "79", 
+              "93"
+            ],
+            "text": "TravelTuesday"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/47ULWnkiRE",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/760650176545558528/photo/1",
+            "id": "760650172057681920",
+            "id_str": "760650172057681920",
+            "indices": [
+              "94", 
+              "117"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Co5fTSfWgAA9DK0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Co5fTSfWgAA9DK0.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1452"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "871"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "494"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/47ULWnkiRE"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/47ULWnkiRE",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/760650176545558528/photo/1",
+            "id": "760650172057681920",
+            "id_str": "760650172057681920",
+            "indices": [
+              "94", 
+              "117"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Co5fTSfWgAA9DK0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Co5fTSfWgAA9DK0.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1452"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "871"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "494"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/47ULWnkiRE"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "From 1930 to 1965, Panair do Brazil was one of the largest airlines in Brazil. #TravelTuesday https://t.co/47ULWnkiRE",
+      "id": "760650176545558528",
+      "id_str": "760650176545558528",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 760650176545558500
+    },
+    "wof:country": "US",
+    "wof:created": 1602025888,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729297189,
+    "wof:lastmodified": 1602025888,
+    "wof:name": "Twitter message #760650176545558528",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

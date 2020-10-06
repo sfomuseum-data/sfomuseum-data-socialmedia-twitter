@@ -1,0 +1,75 @@
+{
+  "id": 1729309307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-04-13T15:35:11-07:00",
+    "edtf:inception": "2012-04-13T15:35:11-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1334356511,
+      "created_at": "Fri Apr 13 22:35:11 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "42"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@NYCityMama We look forward to seeing you!",
+      "id": "190931165371314176",
+      "id_str": "190931165371314176",
+      "in_reply_to_screen_name": "ImCarolCain",
+      "in_reply_to_status_id": "190930901205659648",
+      "in_reply_to_status_id_str": "190930901205659648",
+      "in_reply_to_user_id": "19111507",
+      "in_reply_to_user_id_str": "19111507",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 190931165371314180
+    },
+    "wof:country": "US",
+    "wof:created": 1602026349,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729309307,
+    "wof:lastmodified": 1602026349,
+    "wof:name": "Twitter message #190931165371314176",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

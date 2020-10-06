@@ -1,0 +1,186 @@
+{
+  "id": 1729308583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-06-01T13:06:08-07:00",
+    "edtf:inception": "2020-06-01T13:06:08-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1591041968,
+      "created_at": "Mon Jun 01 20:06:08 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "109"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "50", 
+              "61"
+            ],
+            "text": "WidebodyAV"
+          }, 
+          {
+            "indices": [
+              "62", 
+              "69"
+            ],
+            "text": "avgeek"
+          }, 
+          {
+            "indices": [
+              "70", 
+              "85"
+            ],
+            "text": "MuseumFromHome"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/VRz9Cp2A1l",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1267548002081583105/photo/1",
+            "id": "1267547980371918854",
+            "id_str": "1267547980371918854",
+            "indices": [
+              "86", 
+              "109"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EZc8LCHVAAYmpwV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EZc8LCHVAAYmpwV.jpg",
+            "sizes": {
+              "large": {
+                "h": "1625",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "975",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "553",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/VRz9Cp2A1l"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/WidebodyAV",
+            "expanded_url": "http://bit.ly/WidebodyAV",
+            "indices": [
+              "26", 
+              "49"
+            ],
+            "url": "https://t.co/BAcE2U31Fe"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/VRz9Cp2A1l",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1267548002081583105/photo/1",
+            "id": "1267547980371918854",
+            "id_str": "1267547980371918854",
+            "indices": [
+              "86", 
+              "109"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EZc8LCHVAAYmpwV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EZc8LCHVAAYmpwV.jpg",
+            "sizes": {
+              "large": {
+                "h": "1625",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "975",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "553",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/VRz9Cp2A1l"
+          }
+        ]
+      },
+      "favorite_count": "13",
+      "favorited": false,
+      "full_text": "See “Widebody” online at: https://t.co/BAcE2U31Fe #WidebodyAV #avgeek #MuseumFromHome https://t.co/VRz9Cp2A1l",
+      "id": "1267548002081583105",
+      "id_str": "1267548002081583105",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1267547999971901440",
+      "in_reply_to_status_id_str": "1267547999971901440",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1267548002081583000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026320,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729308583,
+    "wof:lastmodified": 1602026320,
+    "wof:name": "Twitter message #1267548002081583105",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

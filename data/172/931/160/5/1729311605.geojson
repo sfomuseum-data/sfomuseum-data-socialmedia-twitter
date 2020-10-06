@@ -1,0 +1,81 @@
+{
+  "id": 1729311605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2013-03-04T13:52:16-08:00",
+    "edtf:inception": "2013-03-04T13:52:16-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1362433936,
+      "created_at": "Mon Mar 04 21:52:16 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "109"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagr.am/p/Wc32a6Rk66/",
+            "expanded_url": "http://instagr.am/p/Wc32a6Rk66/",
+            "indices": [
+              "87", 
+              "109"
+            ],
+            "url": "http://t.co/vQPFFVqS1n"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Diving into our upcoming T3 exhibit, featuring Recology's Artist in Residence program! http://t.co/vQPFFVqS1n",
+      "id": "308696420234448897",
+      "id_str": "308696420234448897",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 308696420234448900
+    },
+    "wof:country": "US",
+    "wof:created": 1602026439,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729311605,
+    "wof:lastmodified": 1602026439,
+    "wof:name": "Twitter message #308696420234448897",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,176 @@
+{
+  "id": 1729300155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-05-14T13:10:25-07:00",
+    "edtf:inception": "2017-05-14T13:10:25-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1494792625,
+      "created_at": "Sun May 14 20:10:25 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "78"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "12", 
+              "16"
+            ],
+            "text": "sfo"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/N683uT7zaa",
+            "expanded_url": "https://twitter.com/flySFO/status/863801351813423104/photo/1",
+            "id": "863801347912720385",
+            "id_str": "863801347912720385",
+            "indices": [
+              "55", 
+              "78"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C_zWv9LXYAETXCi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C_zWv9LXYAETXCi.jpg",
+            "sizes": {
+              "large": {
+                "h": "1075",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "630",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "357",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "863801351813423104",
+            "source_status_id_str": "863801351813423104",
+            "source_user_id": "16408759",
+            "source_user_id_str": "16408759",
+            "type": "photo",
+            "url": "https://t.co/N683uT7zaa"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "16408759",
+            "id_str": "16408759",
+            "indices": [
+              "3", 
+              "10"
+            ],
+            "name": "San Francisco International Airport (SFO) ✈️",
+            "screen_name": "flySFO"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/N683uT7zaa",
+            "expanded_url": "https://twitter.com/flySFO/status/863801351813423104/photo/1",
+            "id": "863801347912720385",
+            "id_str": "863801347912720385",
+            "indices": [
+              "55", 
+              "78"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C_zWv9LXYAETXCi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C_zWv9LXYAETXCi.jpg",
+            "sizes": {
+              "large": {
+                "h": "1075",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "630",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "357",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "863801351813423104",
+            "source_status_id_str": "863801351813423104",
+            "source_user_id": "16408759",
+            "source_user_id_str": "16408759",
+            "type": "photo",
+            "url": "https://t.co/N683uT7zaa"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @flySFO: #sfo wishes everyone a Happy Mother's Day! https://t.co/N683uT7zaa",
+      "id": "863848997575737346",
+      "id_str": "863848997575737346",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 863848997575737300
+    },
+    "wof:country": "US",
+    "wof:created": 1602025999,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729300155,
+    "wof:lastmodified": 1602025999,
+    "wof:name": "Twitter message #863848997575737346",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

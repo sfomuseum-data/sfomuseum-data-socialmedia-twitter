@@ -1,0 +1,171 @@
+{
+  "id": 1729305277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-01-28T19:25:03-08:00",
+    "edtf:inception": "2019-01-28T19:25:03-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1548732303,
+      "created_at": "Tue Jan 29 03:25:03 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "273"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "13", 
+              "22"
+            ],
+            "text": "Sikorsky"
+          }, 
+          {
+            "indices": [
+              "35", 
+              "41"
+            ],
+            "text": "PanAm"
+          }, 
+          {
+            "indices": [
+              "230", 
+              "249"
+            ],
+            "text": "AviationEvolutions"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mC7rJh8TuU",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1090088407127244806/photo/1",
+            "id": "1090088404342181888",
+            "id_str": "1090088404342181888",
+            "indices": [
+              "250", 
+              "273"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DyDFoNKWkAAoD6D.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DyDFoNKWkAAoD6D.jpg",
+            "sizes": {
+              "large": {
+                "h": "1584",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "950",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "539",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/mC7rJh8TuU"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mC7rJh8TuU",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1090088407127244806/photo/1",
+            "id": "1090088404342181888",
+            "id_str": "1090088404342181888",
+            "indices": [
+              "250", 
+              "273"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DyDFoNKWkAAoD6D.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DyDFoNKWkAAoD6D.jpg",
+            "sizes": {
+              "large": {
+                "h": "1584",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "950",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "539",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/mC7rJh8TuU"
+          }
+        ]
+      },
+      "favorite_count": "21",
+      "favorited": false,
+      "full_text": "Although the #Sikorsky S-40 served #PanAm well through the 1930s, it was often noted for its lack of aerodynamic efficiency due to its many struts and support wires. Charles Lindbergh famously referred to it as a “flying forest.” #AviationEvolutions https://t.co/mC7rJh8TuU",
+      "id": "1090088407127244806",
+      "id_str": "1090088407127244806",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "6",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1090088407127244800
+    },
+    "wof:country": "US",
+    "wof:created": 1602026194,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729305277,
+    "wof:lastmodified": 1602026194,
+    "wof:name": "Twitter message #1090088407127244806",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

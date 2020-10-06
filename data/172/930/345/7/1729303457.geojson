@@ -1,0 +1,81 @@
+{
+  "id": 1729303457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-01-23T11:04:39-08:00",
+    "edtf:inception": "2012-01-23T11:04:39-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1327345479,
+      "created_at": "Mon Jan 23 19:04:39 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "136"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "17844854",
+            "id_str": "17844854",
+            "indices": [
+              "9", 
+              "24"
+            ],
+            "name": "Asian Art Museum",
+            "screen_name": "asianartmuseum"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "1980! MT @asianartmuseum: Happy Lunar New Year! Tis the year o' the Dragon. Tell us yr birth year \u0026 we'll try 2 reply w/yr zodiac animal",
+      "id": "161524766208045056",
+      "id_str": "161524766208045056",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 161524766208045060
+    },
+    "wof:country": "US",
+    "wof:created": 1602026124,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729303457,
+    "wof:lastmodified": 1602026124,
+    "wof:name": "Twitter message #161524766208045056",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

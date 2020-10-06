@@ -1,0 +1,177 @@
+{
+  "id": 1729297151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-07-27T20:00:19-07:00",
+    "edtf:inception": "2016-07-27T20:00:19-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1469674819,
+      "created_at": "Thu Jul 28 03:00:19 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "83", 
+              "99"
+            ],
+            "text": "FashionInFlight"
+          }, 
+          {
+            "indices": [
+              "100", 
+              "116"
+            ],
+            "text": "WomeninAviation"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/x8MofssdqS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/758497286007775233/photo/1",
+            "id": "758497282098597888",
+            "id_str": "758497282098597888",
+            "indices": [
+              "117", 
+              "140"
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Coa5QmaWEAA6Qp2.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Coa5QmaWEAA6Qp2.jpg",
+            "sizes": {
+              "large": {
+                "h": "354",
+                "resize": "fit",
+                "w": "236"
+              },
+              "medium": {
+                "h": "354",
+                "resize": "fit",
+                "w": "236"
+              },
+              "small": {
+                "h": "354",
+                "resize": "fit",
+                "w": "236"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/x8MofssdqS"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/x8MofssdqS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/758497286007775233/photo/1",
+            "id": "758497282098597888",
+            "id_str": "758497282098597888",
+            "indices": [
+              "117", 
+              "140"
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Coa5QmaWEAA6Qp2.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Coa5QmaWEAA6Qp2.jpg",
+            "sizes": {
+              "large": {
+                "h": "354",
+                "resize": "fit",
+                "w": "236"
+              },
+              "medium": {
+                "h": "354",
+                "resize": "fit",
+                "w": "236"
+              },
+              "small": {
+                "h": "354",
+                "resize": "fit",
+                "w": "236"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/x8MofssdqS",
+            "video_info": {
+              "aspect_ratio": [
+                "2", 
+                "3"
+              ],
+              "variants": [
+                {
+                  "bitrate": "0",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/Coa5QmaWEAA6Qp2.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "This 1950s Cathay Pacific uniform featured a short sleeve dress in air force blue. #FashionInFlight #WomeninAviation https://t.co/x8MofssdqS",
+      "id": "758497286007775233",
+      "id_str": "758497286007775233",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 758497286007775200
+    },
+    "wof:country": "US",
+    "wof:created": 1602025886,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729297151,
+    "wof:lastmodified": 1602025886,
+    "wof:name": "Twitter message #758497286007775233",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

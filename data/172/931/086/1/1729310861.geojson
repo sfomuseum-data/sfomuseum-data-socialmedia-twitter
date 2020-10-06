@@ -1,0 +1,89 @@
+{
+  "id": 1729310861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-10-17T10:34:00-07:00",
+    "edtf:inception": "2012-10-17T10:34:00-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1350495240,
+      "created_at": "Wed Oct 17 17:34:00 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "99"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "86", 
+              "99"
+            ],
+            "text": "SFOfieldtrip"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "16321591",
+            "id_str": "16321591",
+            "indices": [
+              "19", 
+              "30"
+            ],
+            "name": "SanDeE✨ Summers",
+            "screen_name": "socalgecko"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Woot! Welcome!! RT @socalgecko: On the ground at SFO! Let the museum adventure begin. #SFOfieldtrip",
+      "id": "258621899825885184",
+      "id_str": "258621899825885184",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 258621899825885200
+    },
+    "wof:country": "US",
+    "wof:created": 1602026409,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729310861,
+    "wof:lastmodified": 1602026409,
+    "wof:name": "Twitter message #258621899825885184",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

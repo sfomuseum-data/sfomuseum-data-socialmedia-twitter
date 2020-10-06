@@ -1,0 +1,110 @@
+{
+  "id": 1729293161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2015-03-02T14:09:39-08:00",
+    "edtf:inception": "2015-03-02T14:09:39-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1425334179,
+      "created_at": "Mon Mar 02 22:09:39 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "106"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "36", 
+              "53"
+            ],
+            "text": "TushanwanPagodas"
+          }, 
+          {
+            "indices": [
+              "54", 
+              "62"
+            ],
+            "text": "pagodas"
+          }, 
+          {
+            "indices": [
+              "63", 
+              "71"
+            ],
+            "text": "PPIE100"
+          }, 
+          {
+            "indices": [
+              "72", 
+              "82"
+            ],
+            "text": "SneakPeek"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagram.com/p/zvdb6uRk-l/",
+            "expanded_url": "https://instagram.com/p/zvdb6uRk-l/",
+            "indices": [
+              "83", 
+              "106"
+            ],
+            "url": "https://t.co/1oGW7RahVB"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Today's game: spot the conservator. #TushanwanPagodas #pagodas #PPIE100 #SneakPeek https://t.co/1oGW7RahVB",
+      "id": "572519160749547520",
+      "id_str": "572519160749547520",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 572519160749547500
+    },
+    "wof:country": "US",
+    "wof:created": 1602025734,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729293161,
+    "wof:lastmodified": 1602025734,
+    "wof:name": "Twitter message #572519160749547520",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

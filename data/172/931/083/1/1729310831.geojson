@@ -1,0 +1,178 @@
+{
+  "id": 1729310831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-10-22T10:07:54-07:00",
+    "edtf:inception": "2012-10-22T10:07:54-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1350925674,
+      "created_at": "Mon Oct 22 17:07:54 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "139"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/P4o18BGh",
+            "expanded_url": "https://twitter.com/gobbledyspook/status/259691030780198913/photo/1",
+            "id": "259691030784393220",
+            "id_str": "259691030784393220",
+            "indices": [
+              "119", 
+              "139"
+            ],
+            "media_url": "http://pbs.twimg.com/media/A5qbndlCQAQ1uK6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/A5qbndlCQAQ1uK6.jpg",
+            "sizes": {
+              "large": {
+                "h": "765",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "765",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "508",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "259691030780198913",
+            "source_status_id_str": "259691030780198913",
+            "source_user_id": "19884318",
+            "source_user_id_str": "19884318",
+            "type": "photo",
+            "url": "http://t.co/P4o18BGh"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/VvtDJW",
+            "expanded_url": "http://bit.ly/VvtDJW",
+            "indices": [
+              "98", 
+              "118"
+            ],
+            "url": "http://t.co/DwwnU0Y8"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "19884318",
+            "id_str": "19884318",
+            "indices": [
+              "11", 
+              "25"
+            ],
+            "name": "Gobbledyspook",
+            "screen_name": "gobbledyspook"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/P4o18BGh",
+            "expanded_url": "https://twitter.com/gobbledyspook/status/259691030780198913/photo/1",
+            "id": "259691030784393220",
+            "id_str": "259691030784393220",
+            "indices": [
+              "119", 
+              "139"
+            ],
+            "media_url": "http://pbs.twimg.com/media/A5qbndlCQAQ1uK6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/A5qbndlCQAQ1uK6.jpg",
+            "sizes": {
+              "large": {
+                "h": "765",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "765",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "508",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "259691030780198913",
+            "source_status_id_str": "259691030780198913",
+            "source_user_id": "19884318",
+            "source_user_id_str": "19884318",
+            "type": "photo",
+            "url": "http://t.co/P4o18BGh"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Thanks! MT @gobbledyspook: The airport museum exhibits are awesome as usual. Pillows through time http://t.co/DwwnU0Y8 http://t.co/P4o18BGh",
+      "id": "260427269011562496",
+      "id_str": "260427269011562496",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 260427269011562500
+    },
+    "wof:country": "US",
+    "wof:created": 1602026407,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729310831,
+    "wof:lastmodified": 1602026407,
+    "wof:name": "Twitter message #260427269011562496",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

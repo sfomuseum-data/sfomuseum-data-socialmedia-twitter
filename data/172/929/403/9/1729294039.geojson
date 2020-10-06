@@ -1,0 +1,157 @@
+{
+  "id": 1729294039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2015-09-10T17:02:01-07:00",
+    "edtf:inception": "2015-09-10T17:02:01-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1441929721,
+      "created_at": "Fri Sep 11 00:02:01 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "133"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "92", 
+              "110"
+            ],
+            "text": "ThrowbackThursday"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/AtOl0J0m1y",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/642125911148638208/photo/1",
+            "id": "642125910292873216",
+            "id_str": "642125910292873216",
+            "indices": [
+              "111", 
+              "133"
+            ],
+            "media_url": "http://pbs.twimg.com/media/COlKHQAUwAAqf_E.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/COlKHQAUwAAqf_E.jpg",
+            "sizes": {
+              "large": {
+                "h": "414",
+                "resize": "fit",
+                "w": "618"
+              },
+              "medium": {
+                "h": "414",
+                "resize": "fit",
+                "w": "618"
+              },
+              "small": {
+                "h": "414",
+                "resize": "fit",
+                "w": "618"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "http://t.co/AtOl0J0m1y"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/AtOl0J0m1y",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/642125911148638208/photo/1",
+            "id": "642125910292873216",
+            "id_str": "642125910292873216",
+            "indices": [
+              "111", 
+              "133"
+            ],
+            "media_url": "http://pbs.twimg.com/media/COlKHQAUwAAqf_E.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/COlKHQAUwAAqf_E.jpg",
+            "sizes": {
+              "large": {
+                "h": "414",
+                "resize": "fit",
+                "w": "618"
+              },
+              "medium": {
+                "h": "414",
+                "resize": "fit",
+                "w": "618"
+              },
+              "small": {
+                "h": "414",
+                "resize": "fit",
+                "w": "618"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "http://t.co/AtOl0J0m1y"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "In 2008, we presented Inside Track: Toy Trains, celebrating the golden era of model trains. #ThrowbackThursday http://t.co/AtOl0J0m1y",
+      "id": "642125911148638208",
+      "id_str": "642125911148638208",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 642125911148638200
+    },
+    "wof:country": "US",
+    "wof:created": 1602025767,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729294039,
+    "wof:lastmodified": 1602025767,
+    "wof:name": "Twitter message #642125911148638208",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

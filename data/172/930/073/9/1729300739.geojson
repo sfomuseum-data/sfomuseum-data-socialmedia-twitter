@@ -1,0 +1,185 @@
+{
+  "id": 1729300739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-07-18T17:25:05-07:00",
+    "edtf:inception": "2017-07-18T17:25:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1500423905,
+      "created_at": "Wed Jul 19 00:25:05 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "142"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "4", 
+              "11"
+            ],
+            "text": "Oliver"
+          }, 
+          {
+            "indices": [
+              "12", 
+              "23"
+            ],
+            "text": "typewriter"
+          }, 
+          {
+            "indices": [
+              "45", 
+              "53"
+            ],
+            "text": "designs"
+          }, 
+          {
+            "indices": [
+              "86", 
+              "100"
+            ],
+            "text": "thetypewriter"
+          }, 
+          {
+            "indices": [
+              "101", 
+              "118"
+            ],
+            "text": "industrialdesign"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/urd4lVhW08",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/887468296920018944/photo/1",
+            "id": "887468294269263872",
+            "id_str": "887468294269263872",
+            "indices": [
+              "119", 
+              "142"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DFDrti1XYAA895p.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DFDrti1XYAA895p.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/urd4lVhW08"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/urd4lVhW08",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/887468296920018944/photo/1",
+            "id": "887468294269263872",
+            "id_str": "887468294269263872",
+            "indices": [
+              "119", 
+              "142"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DFDrti1XYAA895p.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DFDrti1XYAA895p.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/urd4lVhW08"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "The #Oliver #typewriter is one of the iconic #designs of the late nineteenth century. #thetypewriter #industrialdesign https://t.co/urd4lVhW08",
+      "id": "887468296920018944",
+      "id_str": "887468296920018944",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 887468296920019000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026021,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729300739,
+    "wof:lastmodified": 1602026021,
+    "wof:name": "Twitter message #887468296920018944",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

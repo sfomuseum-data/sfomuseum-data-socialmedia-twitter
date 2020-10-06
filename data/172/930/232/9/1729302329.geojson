@@ -1,0 +1,157 @@
+{
+  "id": 1729302329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-02-03T20:30:07-08:00",
+    "edtf:inception": "2018-02-03T20:30:07-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1517718607,
+      "created_at": "Sun Feb 04 04:30:07 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "263"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "16", 
+              "30"
+            ],
+            "text": "CalebCharland"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SbuSHwSmSh",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/960007536941379584/photo/1",
+            "id": "960007532092837888",
+            "id_str": "960007532092837888",
+            "indices": [
+              "240", 
+              "263"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DVKhw5wX0AAK8ry.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DVKhw5wX0AAK8ry.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/SbuSHwSmSh"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SbuSHwSmSh",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/960007536941379584/photo/1",
+            "id": "960007532092837888",
+            "id_str": "960007532092837888",
+            "indices": [
+              "240", 
+              "263"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DVKhw5wX0AAK8ry.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DVKhw5wX0AAK8ry.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/SbuSHwSmSh"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "In this series, #CalebCharland  expands upon a classic grade-school science experiment-the potato battery. Charland creates sculptural installations that generate enough power to illuminate long-exposure photographs made in total darkness. https://t.co/SbuSHwSmSh",
+      "id": "960007536941379584",
+      "id_str": "960007536941379584",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 960007536941379600
+    },
+    "wof:country": "US",
+    "wof:created": 1602026079,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729302329,
+    "wof:lastmodified": 1602026079,
+    "wof:name": "Twitter message #960007536941379584",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

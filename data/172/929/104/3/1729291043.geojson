@@ -1,0 +1,102 @@
+{
+  "id": 1729291043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2013-11-08T15:14:22-08:00",
+    "edtf:inception": "2013-11-08T15:14:22-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1383952462,
+      "created_at": "Fri Nov 08 23:14:22 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "134"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagram.com/p/geLR9Ew66U/",
+            "expanded_url": "http://instagram.com/p/geLR9Ew66U/",
+            "indices": [
+              "112", 
+              "134"
+            ],
+            "url": "http://t.co/UmJAKkkKMQ"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "57776440",
+            "id_str": "57776440",
+            "indices": [
+              "3", 
+              "12"
+            ],
+            "name": "mark nagata",
+            "screen_name": "maxtoyco"
+          }, 
+          {
+            "id": "116329337",
+            "id_str": "116329337",
+            "indices": [
+              "21", 
+              "31"
+            ],
+            "name": "SFO Museum",
+            "screen_name": "SFOMuseum"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @maxtoyco: Thanks @SFOMuseum for the cool catalogs ! Can't wait to see my toys (children) on display !! :-)… http://t.co/UmJAKkkKMQ",
+      "id": "398951657914236930",
+      "id_str": "398951657914236930",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 398951657914236900
+    },
+    "wof:country": "US",
+    "wof:created": 1602025656,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729291043,
+    "wof:lastmodified": 1602025656,
+    "wof:name": "Twitter message #398951657914236930",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

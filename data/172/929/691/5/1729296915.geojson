@@ -1,0 +1,157 @@
+{
+  "id": 1729296915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-07-14T20:55:08-07:00",
+    "edtf:inception": "2016-07-14T20:55:08-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1468554908,
+      "created_at": "Fri Jul 15 03:55:08 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "105", 
+              "116"
+            ],
+            "text": "SFOHistory"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rryfwDD10o",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/753800036488622081/photo/1",
+            "id": "753800030880829441",
+            "id_str": "753800030880829441",
+            "indices": [
+              "117", 
+              "140"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnYJImBUkAE8oWI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnYJImBUkAE8oWI.jpg",
+            "sizes": {
+              "large": {
+                "h": "1310",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "786",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "445",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rryfwDD10o"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rryfwDD10o",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/753800036488622081/photo/1",
+            "id": "753800030880829441",
+            "id_str": "753800030880829441",
+            "indices": [
+              "117", 
+              "140"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnYJImBUkAE8oWI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnYJImBUkAE8oWI.jpg",
+            "sizes": {
+              "large": {
+                "h": "1310",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "786",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "445",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rryfwDD10o"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "A new master plan was undertaken in the 1990s to create the Intl Terminal Complex, which opened in 2000. #SFOHistory https://t.co/rryfwDD10o",
+      "id": "753800036488622081",
+      "id_str": "753800036488622081",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 753800036488622100
+    },
+    "wof:country": "US",
+    "wof:created": 1602025877,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729296915,
+    "wof:lastmodified": 1602025877,
+    "wof:name": "Twitter message #753800036488622081",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

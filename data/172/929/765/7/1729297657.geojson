@@ -1,0 +1,157 @@
+{
+  "id": 1729297657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-09-03T11:01:02-07:00",
+    "edtf:inception": "2016-09-03T11:01:02-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1472925662,
+      "created_at": "Sat Sep 03 18:01:02 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "125"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "42", 
+              "58"
+            ],
+            "text": "DeniseTarantino"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zWByQ3eLz4",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/772132306509262848/photo/1",
+            "id": "772132301815877632",
+            "id_str": "772132301815877632",
+            "indices": [
+              "102", 
+              "125"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrcqPNFXEAA9T06.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrcqPNFXEAA9T06.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zWByQ3eLz4"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zWByQ3eLz4",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/772132306509262848/photo/1",
+            "id": "772132301815877632",
+            "id_str": "772132301815877632",
+            "indices": [
+              "102", 
+              "125"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrcqPNFXEAA9T06.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrcqPNFXEAA9T06.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zWByQ3eLz4"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Roadside America features selections from #DeniseTarantino’s travels along the nation’s rural byways. https://t.co/zWByQ3eLz4",
+      "id": "772132306509262848",
+      "id_str": "772132306509262848",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 772132306509262800
+    },
+    "wof:country": "US",
+    "wof:created": 1602025906,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729297657,
+    "wof:lastmodified": 1602025906,
+    "wof:name": "Twitter message #772132306509262848",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

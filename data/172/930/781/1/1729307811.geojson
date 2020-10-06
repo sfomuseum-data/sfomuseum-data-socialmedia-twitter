@@ -1,0 +1,157 @@
+{
+  "id": 1729307811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-01-24T12:00:00-08:00",
+    "edtf:inception": "2020-01-24T12:00:00-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1579896000,
+      "created_at": "Fri Jan 24 20:00:00 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "275"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "18", 
+              "27"
+            ],
+            "text": "LizGlynn"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/5Mdj2PFrip",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1220798425517547520/photo/1",
+            "id": "1220521726867410944",
+            "id_str": "1220521726867410944",
+            "indices": [
+              "252", 
+              "275"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EPAqC0KUEAATCM1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EPAqC0KUEAATCM1.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5Mdj2PFrip"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/5Mdj2PFrip",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1220798425517547520/photo/1",
+            "id": "1220521726867410944",
+            "id_str": "1220521726867410944",
+            "indices": [
+              "252", 
+              "275"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EPAqC0KUEAATCM1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EPAqC0KUEAATCM1.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5Mdj2PFrip"
+          }
+        ]
+      },
+      "favorite_count": "6",
+      "favorited": false,
+      "full_text": "“Terra-Techne“ by #LizGlynn consists of six suspended “tectonic plates,” each representing a different continent. From the departures level, passengers look up to see multiple iconic California landscape suspended from the underside of each continent. https://t.co/5Mdj2PFrip",
+      "id": "1220798425517547520",
+      "id_str": "1220798425517547520",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1220798425517547500
+    },
+    "wof:country": "US",
+    "wof:created": 1602026292,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729307811,
+    "wof:lastmodified": 1602026292,
+    "wof:name": "Twitter message #1220798425517547520",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

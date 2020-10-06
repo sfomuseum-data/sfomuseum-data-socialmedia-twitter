@@ -1,0 +1,298 @@
+{
+  "id": 1729297961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-09-28T09:32:20-07:00",
+    "edtf:inception": "2016-09-28T09:32:20-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1475080340,
+      "created_at": "Wed Sep 28 16:32:20 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "106"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Fo5S5M9qn1",
+            "expanded_url": "https://twitter.com/DobesCrusher/status/780999751990906880/photo/1",
+            "id": "780999654796304385",
+            "id_str": "780999654796304385",
+            "indices": [
+              "83", 
+              "106"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CtarDFHWIAEVe-P.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CtarDFHWIAEVe-P.jpg",
+            "sizes": {
+              "large": {
+                "h": "1152",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "780999751990906880",
+            "source_status_id_str": "780999751990906880",
+            "source_user_id": "95122580",
+            "source_user_id_str": "95122580",
+            "type": "photo",
+            "url": "https://t.co/Fo5S5M9qn1"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "flysfo.com/museum/exhibit…",
+            "expanded_url": "http://www.flysfo.com/museum/exhibitions/celebrating-vision-art-and-disability",
+            "indices": [
+              "59", 
+              "82"
+            ],
+            "url": "https://t.co/rNUQkJkprH"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "95122580",
+            "id_str": "95122580",
+            "indices": [
+              "3", 
+              "16"
+            ],
+            "name": "Dobes Crusher",
+            "screen_name": "DobesCrusher"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Fo5S5M9qn1",
+            "expanded_url": "https://twitter.com/DobesCrusher/status/780999751990906880/photo/1",
+            "id": "780999654796304385",
+            "id_str": "780999654796304385",
+            "indices": [
+              "83", 
+              "106"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CtarDFHWIAEVe-P.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CtarDFHWIAEVe-P.jpg",
+            "sizes": {
+              "large": {
+                "h": "1152",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "780999751990906880",
+            "source_status_id_str": "780999751990906880",
+            "source_user_id": "95122580",
+            "source_user_id_str": "95122580",
+            "type": "photo",
+            "url": "https://t.co/Fo5S5M9qn1"
+          }, 
+          {
+            "display_url": "pic.twitter.com/Fo5S5M9qn1",
+            "expanded_url": "https://twitter.com/DobesCrusher/status/780999751990906880/photo/1",
+            "id": "780999680771682304",
+            "id_str": "780999680771682304",
+            "indices": [
+              "83", 
+              "106"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CtarEl4W8AAIKQk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CtarEl4W8AAIKQk.jpg",
+            "sizes": {
+              "large": {
+                "h": "1152",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "780999751990906880",
+            "source_status_id_str": "780999751990906880",
+            "source_user_id": "95122580",
+            "source_user_id_str": "95122580",
+            "type": "photo",
+            "url": "https://t.co/Fo5S5M9qn1"
+          }, 
+          {
+            "display_url": "pic.twitter.com/Fo5S5M9qn1",
+            "expanded_url": "https://twitter.com/DobesCrusher/status/780999751990906880/photo/1",
+            "id": "780999700208058368",
+            "id_str": "780999700208058368",
+            "indices": [
+              "83", 
+              "106"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CtarFuSWgAA9B6o.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CtarFuSWgAA9B6o.jpg",
+            "sizes": {
+              "large": {
+                "h": "1152",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "780999751990906880",
+            "source_status_id_str": "780999751990906880",
+            "source_user_id": "95122580",
+            "source_user_id_str": "95122580",
+            "type": "photo",
+            "url": "https://t.co/Fo5S5M9qn1"
+          }, 
+          {
+            "display_url": "pic.twitter.com/Fo5S5M9qn1",
+            "expanded_url": "https://twitter.com/DobesCrusher/status/780999751990906880/photo/1",
+            "id": "780999728033046528",
+            "id_str": "780999728033046528",
+            "indices": [
+              "83", 
+              "106"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CtarHV8WIAA67fF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CtarHV8WIAA67fF.jpg",
+            "sizes": {
+              "large": {
+                "h": "1152",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "780999751990906880",
+            "source_status_id_str": "780999751990906880",
+            "source_user_id": "95122580",
+            "source_user_id_str": "95122580",
+            "type": "photo",
+            "url": "https://t.co/Fo5S5M9qn1"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @DobesCrusher: There was some extremely cool art at SFO https://t.co/rNUQkJkprH https://t.co/Fo5S5M9qn1",
+      "id": "781169683085070337",
+      "id_str": "781169683085070337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 781169683085070300
+    },
+    "wof:country": "US",
+    "wof:created": 1602025918,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729297961,
+    "wof:lastmodified": 1602025918,
+    "wof:name": "Twitter message #781169683085070337",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

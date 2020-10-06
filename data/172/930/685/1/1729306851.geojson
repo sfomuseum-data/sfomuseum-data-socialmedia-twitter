@@ -1,0 +1,164 @@
+{
+  "id": 1729306851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-08-22T18:25:04-07:00",
+    "edtf:inception": "2019-08-22T18:25:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1566523504,
+      "created_at": "Fri Aug 23 01:25:04 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "301"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "10"
+            ],
+            "text": "Onthisday"
+          }, 
+          {
+            "indices": [
+              "270", 
+              "277"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0xIoO6d8gr",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1164710109601239040/photo/1",
+            "id": "1164710106761576448",
+            "id_str": "1164710106761576448",
+            "indices": [
+              "278", 
+              "301"
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECnhq9PUwAA_S35.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECnhq9PUwAA_S35.jpg",
+            "sizes": {
+              "large": {
+                "h": "1387",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "832",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "472",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/0xIoO6d8gr"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0xIoO6d8gr",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1164710109601239040/photo/1",
+            "id": "1164710106761576448",
+            "id_str": "1164710106761576448",
+            "indices": [
+              "278", 
+              "301"
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECnhq9PUwAA_S35.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECnhq9PUwAA_S35.jpg",
+            "sizes": {
+              "large": {
+                "h": "1387",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "832",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "472",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/0xIoO6d8gr"
+          }
+        ]
+      },
+      "favorite_count": "15",
+      "favorited": false,
+      "full_text": "#Onthisday in 1938, Pan American Airways signed a ten-year lease for a base at Treasure Island. In 1935, Pan Am inaugurated the world’s first transoceanic service with service to Asia from its base at Alameda on San Francisco Bay, then moved to Treasure Island in 1939. #avgeek https://t.co/0xIoO6d8gr",
+      "id": "1164710109601239040",
+      "id_str": "1164710109601239040",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "6",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1164710109601239000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026255,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729306851,
+    "wof:lastmodified": 1602026255,
+    "wof:name": "Twitter message #1164710109601239040",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

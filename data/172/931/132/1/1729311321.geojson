@@ -1,0 +1,81 @@
+{
+  "id": 1729311321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2013-01-14T10:05:34-08:00",
+    "edtf:inception": "2013-01-14T10:05:34-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1358186734,
+      "created_at": "Mon Jan 14 18:05:34 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "139"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/W0zS4s",
+            "expanded_url": "http://bit.ly/W0zS4s",
+            "indices": [
+              "119", 
+              "139"
+            ],
+            "url": "http://t.co/gFun2Ofe"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "The demand for kendi, a ritual vessel, was so great in Indonesia that potters in throughout Asia made them for export: http://t.co/gFun2Ofe",
+      "id": "290882364350013440",
+      "id_str": "290882364350013440",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 290882364350013440
+    },
+    "wof:country": "US",
+    "wof:created": 1602026427,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729311321,
+    "wof:lastmodified": 1602026427,
+    "wof:name": "Twitter message #290882364350013440",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

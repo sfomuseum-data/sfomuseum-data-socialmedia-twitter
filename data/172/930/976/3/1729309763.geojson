@@ -1,0 +1,168 @@
+{
+  "id": 1729309763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-06-06T10:33:53-07:00",
+    "edtf:inception": "2012-06-06T10:33:53-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1339004033,
+      "created_at": "Wed Jun 06 17:33:53 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "134"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/nEUMB0Mi",
+            "expanded_url": "https://twitter.com/tofughost/status/210235421886660609/photo/1",
+            "id": "210235421890854914",
+            "id_str": "210235421890854914",
+            "indices": [
+              "114", 
+              "134"
+            ],
+            "media_url": "http://pbs.twimg.com/media/AuroAJkCQAIaCtQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/AuroAJkCQAIaCtQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1024",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "1024",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "210235421886660609",
+            "source_status_id_str": "210235421886660609",
+            "source_user_id": "15258657",
+            "source_user_id_str": "15258657",
+            "type": "photo",
+            "url": "http://t.co/nEUMB0Mi"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "1105944076078235650",
+            "id_str": "1105944076078235650",
+            "indices": [
+              "57", 
+              "67"
+            ],
+            "name": "daniel",
+            "screen_name": "tofughost"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/nEUMB0Mi",
+            "expanded_url": "https://twitter.com/tofughost/status/210235421886660609/photo/1",
+            "id": "210235421890854914",
+            "id_str": "210235421890854914",
+            "indices": [
+              "114", 
+              "134"
+            ],
+            "media_url": "http://pbs.twimg.com/media/AuroAJkCQAIaCtQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/AuroAJkCQAIaCtQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1024",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "1024",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "210235421886660609",
+            "source_status_id_str": "210235421886660609",
+            "source_user_id": "15258657",
+            "source_user_id_str": "15258657",
+            "type": "photo",
+            "url": "http://t.co/nEUMB0Mi"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Thanks! That hand-crank Ever-Ready is from the 1880s! RT @tofughost: Cool exhibit on the history of sewing at SFO http://t.co/nEUMB0Mi",
+      "id": "210424282248003584",
+      "id_str": "210424282248003584",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 210424282248003600
+    },
+    "wof:country": "US",
+    "wof:created": 1602026367,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729309763,
+    "wof:lastmodified": 1602026367,
+    "wof:name": "Twitter message #210424282248003584",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

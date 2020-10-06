@@ -1,0 +1,176 @@
+{
+  "id": 1729312327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2013-07-29T09:30:19-07:00",
+    "edtf:inception": "2013-07-29T09:30:19-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1375115419,
+      "created_at": "Mon Jul 29 16:30:19 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "95"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "26", 
+              "30"
+            ],
+            "text": "SFO"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/bFfsXL0NDZ",
+            "expanded_url": "https://twitter.com/JohnnyJet/status/361106079809163264/photo/1",
+            "id": "361106079813357568",
+            "id_str": "361106079813357568",
+            "indices": [
+              "73", 
+              "95"
+            ],
+            "media_url": "http://pbs.twimg.com/media/BQLoEP2CUAA1Qe_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/BQLoEP2CUAA1Qe_.jpg",
+            "sizes": {
+              "large": {
+                "h": "577",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "577",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "361106079809163264",
+            "source_status_id_str": "361106079809163264",
+            "source_user_id": "14264854",
+            "source_user_id_str": "14264854",
+            "type": "photo",
+            "url": "http://t.co/bFfsXL0NDZ"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "14264854",
+            "id_str": "14264854",
+            "indices": [
+              "3", 
+              "13"
+            ],
+            "name": "JohnnyJet",
+            "screen_name": "JohnnyJet"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/bFfsXL0NDZ",
+            "expanded_url": "https://twitter.com/JohnnyJet/status/361106079809163264/photo/1",
+            "id": "361106079813357568",
+            "id_str": "361106079813357568",
+            "indices": [
+              "73", 
+              "95"
+            ],
+            "media_url": "http://pbs.twimg.com/media/BQLoEP2CUAA1Qe_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/BQLoEP2CUAA1Qe_.jpg",
+            "sizes": {
+              "large": {
+                "h": "577",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "577",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "361106079809163264",
+            "source_status_id_str": "361106079809163264",
+            "source_user_id": "14264854",
+            "source_user_id_str": "14264854",
+            "type": "photo",
+            "url": "http://t.co/bFfsXL0NDZ"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @JohnnyJet: I love how #SFO has museum pieces throughout the airport. http://t.co/bFfsXL0NDZ",
+      "id": "361886414184529921",
+      "id_str": "361886414184529921",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 361886414184529900
+    },
+    "wof:country": "US",
+    "wof:created": 1602026467,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729312327,
+    "wof:lastmodified": 1602026467,
+    "wof:name": "Twitter message #361886414184529921",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

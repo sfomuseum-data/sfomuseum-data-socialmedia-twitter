@@ -1,0 +1,178 @@
+{
+  "id": 1729306671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-07-31T13:00:20-07:00",
+    "edtf:inception": "2019-07-31T13:00:20-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1564603220,
+      "created_at": "Wed Jul 31 20:00:20 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "232"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "10"
+            ],
+            "text": "Northeast"
+          }, 
+          {
+            "indices": [
+              "52", 
+              "62"
+            ],
+            "text": "onthisday"
+          }, 
+          {
+            "indices": [
+              "142", 
+              "148"
+            ],
+            "text": "Delta"
+          }, 
+          {
+            "indices": [
+              "201", 
+              "208"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QhOUopzV1L",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1156655854990569472/photo/1",
+            "id": "1156655852528504832",
+            "id_str": "1156655852528504832",
+            "indices": [
+              "209", 
+              "232"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EA1EXqFWkAAYCPR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EA1EXqFWkAAYCPR.jpg",
+            "sizes": {
+              "large": {
+                "h": "1281",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "769",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "436",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/QhOUopzV1L"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QhOUopzV1L",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1156655854990569472/photo/1",
+            "id": "1156655852528504832",
+            "id_str": "1156655852528504832",
+            "indices": [
+              "209", 
+              "232"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EA1EXqFWkAAYCPR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EA1EXqFWkAAYCPR.jpg",
+            "sizes": {
+              "large": {
+                "h": "1281",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "769",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "436",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/QhOUopzV1L"
+          }
+        ]
+      },
+      "favorite_count": "27",
+      "favorited": false,
+      "full_text": "#Northeast Airlines’ last day of operation occurred #onthisday in 1972. The airline began as Boston-Maine Airways in 1931 and was absorbed by #Delta Air Lines. Did you ever fly on Northeast Airlines?  #avgeek https://t.co/QhOUopzV1L",
+      "id": "1156655854990569472",
+      "id_str": "1156655854990569472",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "6",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1156655854990569500
+    },
+    "wof:country": "US",
+    "wof:created": 1602026248,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729306671,
+    "wof:lastmodified": 1602026248,
+    "wof:name": "Twitter message #1156655854990569472",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

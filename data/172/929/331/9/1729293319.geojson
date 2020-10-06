@@ -1,0 +1,176 @@
+{
+  "id": 1729293319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2015-04-20T10:32:50-07:00",
+    "edtf:inception": "2015-04-20T10:32:50-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1429551170,
+      "created_at": "Mon Apr 20 17:32:50 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "106"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "65", 
+              "83"
+            ],
+            "text": "touchingstrangers"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/aLPhtMCUpM",
+            "expanded_url": "https://twitter.com/carolrealini/status/589493262093692930/photo/1",
+            "id": "589493258234925056",
+            "id_str": "589493258234925056",
+            "indices": [
+              "84", 
+              "106"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CC5M_r6UkAAy8aK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CC5M_r6UkAAy8aK.jpg",
+            "sizes": {
+              "large": {
+                "h": "1024",
+                "resize": "fit",
+                "w": "768"
+              },
+              "medium": {
+                "h": "1024",
+                "resize": "fit",
+                "w": "768"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "589493262093692930",
+            "source_status_id_str": "589493262093692930",
+            "source_user_id": "69752158",
+            "source_user_id_str": "69752158",
+            "type": "photo",
+            "url": "http://t.co/aLPhtMCUpM"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "69752158",
+            "id_str": "69752158",
+            "indices": [
+              "3", 
+              "16"
+            ],
+            "name": "Carol Realini",
+            "screen_name": "carolrealini"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/aLPhtMCUpM",
+            "expanded_url": "https://twitter.com/carolrealini/status/589493262093692930/photo/1",
+            "id": "589493258234925056",
+            "id_str": "589493258234925056",
+            "indices": [
+              "84", 
+              "106"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CC5M_r6UkAAy8aK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CC5M_r6UkAAy8aK.jpg",
+            "sizes": {
+              "large": {
+                "h": "1024",
+                "resize": "fit",
+                "w": "768"
+              },
+              "medium": {
+                "h": "1024",
+                "resize": "fit",
+                "w": "768"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "589493262093692930",
+            "source_status_id_str": "589493262093692930",
+            "source_user_id": "69752158",
+            "source_user_id_str": "69752158",
+            "type": "photo",
+            "url": "http://t.co/aLPhtMCUpM"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @carolrealini: Must see photography exhibit in terminal 3 SFO #touchingstrangers http://t.co/aLPhtMCUpM",
+      "id": "590206502490808320",
+      "id_str": "590206502490808320",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 590206502490808300
+    },
+    "wof:country": "US",
+    "wof:created": 1602025741,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729293319,
+    "wof:lastmodified": 1602025741,
+    "wof:name": "Twitter message #590206502490808320",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

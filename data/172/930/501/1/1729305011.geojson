@@ -1,0 +1,149 @@
+{
+  "id": 1729305011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-01-02T15:40:04-08:00",
+    "edtf:inception": "2019-01-02T15:40:04-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1546472404,
+      "created_at": "Wed Jan 02 23:40:04 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "265"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vCgi4jCg0T",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1080609701488922625/photo/1",
+            "id": "1080609698615906304",
+            "id_str": "1080609698615906304",
+            "indices": [
+              "242", 
+              "265"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dv8Yy6rX0AAlTQl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dv8Yy6rX0AAlTQl.jpg",
+            "sizes": {
+              "large": {
+                "h": "1311",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "787",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "446",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vCgi4jCg0T"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vCgi4jCg0T",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1080609701488922625/photo/1",
+            "id": "1080609698615906304",
+            "id_str": "1080609698615906304",
+            "indices": [
+              "242", 
+              "265"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dv8Yy6rX0AAlTQl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dv8Yy6rX0AAlTQl.jpg",
+            "sizes": {
+              "large": {
+                "h": "1311",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "787",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "446",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vCgi4jCg0T"
+          }
+        ]
+      },
+      "favorite_count": "8",
+      "favorited": false,
+      "full_text": "Created by the French fashion designer Yves Saint Laurent, the mid-1980s Qantas flight attendant uniforms consisted of a dress or blouse with a colorful blue, red, yellow, and brown print on white incorporating a newly updated kangaroo logo. https://t.co/vCgi4jCg0T",
+      "id": "1080609701488922625",
+      "id_str": "1080609701488922625",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1080609701488922600
+    },
+    "wof:country": "US",
+    "wof:created": 1602026184,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729305011,
+    "wof:lastmodified": 1602026184,
+    "wof:name": "Twitter message #1080609701488922625",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

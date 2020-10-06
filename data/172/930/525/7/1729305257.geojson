@@ -1,0 +1,178 @@
+{
+  "id": 1729305257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-01-30T17:25:40-08:00",
+    "edtf:inception": "2019-01-30T17:25:40-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1548897940,
+      "created_at": "Thu Jan 31 01:25:40 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "210"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "30", 
+              "35"
+            ],
+            "text": "Oahu"
+          }, 
+          {
+            "indices": [
+              "37", 
+              "46"
+            ],
+            "text": "Pipeline"
+          }, 
+          {
+            "indices": [
+              "118", 
+              "129"
+            ],
+            "text": "GerryLopez"
+          }, 
+          {
+            "indices": [
+              "165", 
+              "186"
+            ],
+            "text": "SurfboardsAndShapers"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/j2JWVIEpgg",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1090783137133719553/photo/1",
+            "id": "1090783134415769600",
+            "id_str": "1090783134415769600",
+            "indices": [
+              "187", 
+              "210"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DyM9e0XW0AAYD0b.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DyM9e0XW0AAYD0b.jpg",
+            "sizes": {
+              "large": {
+                "h": "1347",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "808",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "458",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/j2JWVIEpgg"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/j2JWVIEpgg",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1090783137133719553/photo/1",
+            "id": "1090783134415769600",
+            "id_str": "1090783134415769600",
+            "indices": [
+              "187", 
+              "210"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DyM9e0XW0AAYD0b.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DyM9e0XW0AAYD0b.jpg",
+            "sizes": {
+              "large": {
+                "h": "1347",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "808",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "458",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/j2JWVIEpgg"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Located on the North Shore of #Oahu, #Pipeline produces some of the world’s most powerful hollow waves. Surfer-shaper #GerryLopez redefined tube riding at Pipeline. #SurfboardsAndShapers https://t.co/j2JWVIEpgg",
+      "id": "1090783137133719553",
+      "id_str": "1090783137133719553",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1090783137133719600
+    },
+    "wof:country": "US",
+    "wof:created": 1602026194,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729305257,
+    "wof:lastmodified": 1602026194,
+    "wof:name": "Twitter message #1090783137133719553",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

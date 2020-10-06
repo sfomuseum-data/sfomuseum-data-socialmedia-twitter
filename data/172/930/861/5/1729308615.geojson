@@ -1,0 +1,190 @@
+{
+  "id": 1729308615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-07-15T11:18:22-07:00",
+    "edtf:inception": "2020-07-15T11:18:22-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1594837102,
+      "created_at": "Wed Jul 15 18:18:22 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "166"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "32", 
+              "48"
+            ],
+            "text": "RobertMinervini"
+          }, 
+          {
+            "indices": [
+              "98", 
+              "113"
+            ],
+            "text": "MuseumFromHome"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/09lk1IDcqR",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1283465947588616192/photo/1",
+            "id": "1283465758769475584",
+            "id_str": "1283465758769475584",
+            "indices": [
+              "143", 
+              "166"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ec_JTrjU8AAYNvX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ec_JTrjU8AAYNvX.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/09lk1IDcqR"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/3eu49Xm",
+            "expanded_url": "https://bit.ly/3eu49Xm",
+            "indices": [
+              "59", 
+              "82"
+            ],
+            "url": "https://t.co/cn4cUupuE3"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "838241215",
+            "id_str": "838241215",
+            "indices": [
+              "83", 
+              "97"
+            ],
+            "name": "Robert Minervini",
+            "screen_name": "Rob_Minervini"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/09lk1IDcqR",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1283465947588616192/photo/1",
+            "id": "1283465758769475584",
+            "id_str": "1283465758769475584",
+            "indices": [
+              "143", 
+              "166"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ec_JTrjU8AAYNvX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ec_JTrjU8AAYNvX.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/09lk1IDcqR"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "See \"Hyper-Natural Bay Area” by #RobertMinervini online at https://t.co/cn4cUupuE3 @Rob_Minervini #MuseumFromHome  📸: Ethan Kaplan photography https://t.co/09lk1IDcqR",
+      "id": "1283465947588616192",
+      "id_str": "1283465947588616192",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1283465944518389762",
+      "in_reply_to_status_id_str": "1283465944518389762",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1283465947588616200
+    },
+    "wof:country": "US",
+    "wof:created": 1602026322,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729308615,
+    "wof:lastmodified": 1602026322,
+    "wof:name": "Twitter message #1283465947588616192",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

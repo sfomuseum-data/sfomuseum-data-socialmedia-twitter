@@ -1,0 +1,178 @@
+{
+  "id": 1729305227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-02-05T17:25:03-08:00",
+    "edtf:inception": "2019-02-05T17:25:03-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1549416303,
+      "created_at": "Wed Feb 06 01:25:03 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "267"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "10"
+            ],
+            "text": "OnThisDay"
+          }, 
+          {
+            "indices": [
+              "162", 
+              "168"
+            ],
+            "text": "PanAm"
+          }, 
+          {
+            "indices": [
+              "225", 
+              "235"
+            ],
+            "text": "SFHistory"
+          }, 
+          {
+            "indices": [
+              "236", 
+              "243"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/hXtIkqho31",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1092957311113412608/photo/1",
+            "id": "1092957308487901184",
+            "id_str": "1092957308487901184",
+            "indices": [
+              "244", 
+              "267"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dyr24Z8WoAA2jq_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dyr24Z8WoAA2jq_.jpg",
+            "sizes": {
+              "large": {
+                "h": "1387",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "832",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "472",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/hXtIkqho31"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/hXtIkqho31",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1092957311113412608/photo/1",
+            "id": "1092957308487901184",
+            "id_str": "1092957308487901184",
+            "indices": [
+              "244", 
+              "267"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dyr24Z8WoAA2jq_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dyr24Z8WoAA2jq_.jpg",
+            "sizes": {
+              "large": {
+                "h": "1387",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "832",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "472",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/hXtIkqho31"
+          }
+        ]
+      },
+      "favorite_count": "15",
+      "favorited": false,
+      "full_text": "#OnThisDay in 1939, Pan American Airways’ first scheduled flight from Treasure Island departed. Constructed for the 1939–40 Golden Gate International Exposition, #PanAm relocated its seaplane base to Treasure Island in 1938. #SFHistory #avgeek https://t.co/hXtIkqho31",
+      "id": "1092957311113412608",
+      "id_str": "1092957311113412608",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "9",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1092957311113412600
+    },
+    "wof:country": "US",
+    "wof:created": 1602026192,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729305227,
+    "wof:lastmodified": 1602026192,
+    "wof:name": "Twitter message #1092957311113412608",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

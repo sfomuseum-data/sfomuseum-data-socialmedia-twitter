@@ -1,0 +1,86 @@
+{
+  "id": 1729312179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2013-06-17T10:02:54-07:00",
+    "edtf:inception": "2013-06-17T10:02:54-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1371488574,
+      "created_at": "Mon Jun 17 17:02:54 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "38"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "15313169",
+            "id_str": "15313169",
+            "indices": [
+              "0", 
+              "13"
+            ],
+            "name": "shannonbuggs",
+            "screen_name": "shannonbuggs"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@shannonbuggs High praise - thank you!",
+      "id": "346674323160977408",
+      "id_str": "346674323160977408",
+      "in_reply_to_screen_name": "shannonbuggs",
+      "in_reply_to_status_id": "345675861707616256",
+      "in_reply_to_status_id_str": "345675861707616256",
+      "in_reply_to_user_id": "15313169",
+      "in_reply_to_user_id_str": "15313169",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 346674323160977400
+    },
+    "wof:country": "US",
+    "wof:created": 1602026462,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729312179,
+    "wof:lastmodified": 1602026462,
+    "wof:name": "Twitter message #346674323160977408",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

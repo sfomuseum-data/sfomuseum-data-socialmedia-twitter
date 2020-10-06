@@ -1,0 +1,100 @@
+{
+  "id": 1729301047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-08-28T13:01:31-07:00",
+    "edtf:inception": "2017-08-28T13:01:31-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1503950491,
+      "created_at": "Mon Aug 28 20:01:31 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "86"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "58", 
+              "62"
+            ],
+            "text": "sfo"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/da_peter/statu…",
+            "expanded_url": "https://twitter.com/da_peter/status/902030464378171393",
+            "indices": [
+              "63", 
+              "86"
+            ],
+            "url": "https://t.co/1M1Tv0NY6H"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "16408759",
+            "id_str": "16408759",
+            "indices": [
+              "3", 
+              "10"
+            ],
+            "name": "San Francisco International Airport (SFO) ✈️",
+            "screen_name": "flySFO"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @flySFO: Thanks for coming, glad you had a great time! #sfo https://t.co/1M1Tv0NY6H",
+      "id": "902259874628747264",
+      "id_str": "902259874628747264",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 902259874628747300
+    },
+    "wof:country": "US",
+    "wof:created": 1602026032,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729301047,
+    "wof:lastmodified": 1602026032,
+    "wof:name": "Twitter message #902259874628747264",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

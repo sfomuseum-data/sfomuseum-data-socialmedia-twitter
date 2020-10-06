@@ -1,0 +1,178 @@
+{
+  "id": 1729306995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-09-24T17:20:04-07:00",
+    "edtf:inception": "2019-09-24T17:20:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1569370804,
+      "created_at": "Wed Sep 25 00:20:04 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "303"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "249", 
+              "263"
+            ],
+            "text": "VideoArtsSFOM"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DhGz9a9sTQ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1176652552760434689/photo/1",
+            "id": "1176652550206033921",
+            "id_str": "1176652550206033921",
+            "indices": [
+              "280", 
+              "303"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EFRPQp8WkAEh5wz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EFRPQp8WkAEh5wz.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/DhGz9a9sTQ"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2mzdnMo",
+            "expanded_url": "http://bit.ly/2mzdnMo",
+            "indices": [
+              "225", 
+              "248"
+            ],
+            "url": "https://t.co/RDcnYqEwow"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "18638281",
+            "id_str": "18638281",
+            "indices": [
+              "264", 
+              "279"
+            ],
+            "name": "Tiny Inventions",
+            "screen_name": "tinyinventions"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DhGz9a9sTQ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1176652552760434689/photo/1",
+            "id": "1176652550206033921",
+            "id_str": "1176652550206033921",
+            "indices": [
+              "280", 
+              "303"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EFRPQp8WkAEh5wz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EFRPQp8WkAEh5wz.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/DhGz9a9sTQ"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "NOW PLAYING: See “Negative Space” by Max Porter and Ru Kuwahata. “Negative Space” is a stop-motion animation short film that is a poignant and bittersweet story about family, loss, and the finer points of packing a suitcase. https://t.co/RDcnYqEwow #VideoArtsSFOM @tinyinventions https://t.co/DhGz9a9sTQ",
+      "id": "1176652552760434689",
+      "id_str": "1176652552760434689",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1176652552760434700
+    },
+    "wof:country": "US",
+    "wof:created": 1602026260,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729306995,
+    "wof:lastmodified": 1602026260,
+    "wof:name": "Twitter message #1176652552760434689",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

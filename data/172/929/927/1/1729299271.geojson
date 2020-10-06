@@ -1,0 +1,207 @@
+{
+  "id": 1729299271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-02-02T16:00:46-08:00",
+    "edtf:inception": "2017-02-02T16:00:46-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1486080046,
+      "created_at": "Fri Feb 03 00:00:46 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "150"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "91", 
+              "109"
+            ],
+            "text": "ThrowbackThursday"
+          }, 
+          {
+            "indices": [
+              "110", 
+              "114"
+            ],
+            "text": "TBT"
+          }, 
+          {
+            "indices": [
+              "115", 
+              "126"
+            ],
+            "text": "SFOHistory"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/CxTuW2fBMx",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/827305792042913793/photo/1",
+            "id": "827305788544794624",
+            "id_str": "827305788544794624",
+            "indices": [
+              "127", 
+              "150"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C3suOz7WQAAOEUG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C3suOz7WQAAOEUG.jpg",
+            "sizes": {
+              "large": {
+                "h": "1257",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "754",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "427",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/CxTuW2fBMx"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/CxTuW2fBMx",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/827305792042913793/photo/1",
+            "id": "827305788544794624",
+            "id_str": "827305788544794624",
+            "indices": [
+              "127", 
+              "150"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C3suOz7WQAAOEUG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C3suOz7WQAAOEUG.jpg",
+            "sizes": {
+              "large": {
+                "h": "1257",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "754",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "427",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/CxTuW2fBMx"
+          }, 
+          {
+            "display_url": "pic.twitter.com/CxTuW2fBMx",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/827305792042913793/photo/1",
+            "id": "827305787856912392",
+            "id_str": "827305787856912392",
+            "indices": [
+              "127", 
+              "150"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C3suOxXWAAg2mIE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C3suOxXWAAg2mIE.jpg",
+            "sizes": {
+              "large": {
+                "h": "1260",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "756",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "428",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/CxTuW2fBMx"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "The Skyway Cafe was a restaurant in SFO in the 1950s. Did you ever eat at the Skyway Cafe? #ThrowbackThursday #TBT #SFOHistory https://t.co/CxTuW2fBMx",
+      "id": "827305792042913793",
+      "id_str": "827305792042913793",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 827305792042913800
+    },
+    "wof:country": "US",
+    "wof:created": 1602025966,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729299271,
+    "wof:lastmodified": 1602025966,
+    "wof:name": "Twitter message #827305792042913793",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

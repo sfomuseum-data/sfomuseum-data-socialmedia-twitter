@@ -1,0 +1,157 @@
+{
+  "id": 1729302927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-03-26T21:34:15-07:00",
+    "edtf:inception": "2018-03-26T21:34:15-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1522125255,
+      "created_at": "Tue Mar 27 04:34:15 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "206"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "164", 
+              "182"
+            ],
+            "text": "EmpoweringThreads"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rIhmAU4cgB",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/978490357892739072/photo/1",
+            "id": "978490354730225665",
+            "id_str": "978490354730225665",
+            "indices": [
+              "183", 
+              "206"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DZRLyxnXUAEluIp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DZRLyxnXUAEluIp.jpg",
+            "sizes": {
+              "large": {
+                "h": "1126",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "676",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rIhmAU4cgB"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rIhmAU4cgB",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/978490357892739072/photo/1",
+            "id": "978490354730225665",
+            "id_str": "978490354730225665",
+            "indices": [
+              "183", 
+              "206"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DZRLyxnXUAEluIp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DZRLyxnXUAEluIp.jpg",
+            "sizes": {
+              "large": {
+                "h": "1126",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "676",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rIhmAU4cgB"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Jolom Mayaetik, which translates to \"Women Who We. ave\" from Mayan Tzotzil, was founded in 1996 and is one of the most progressive weaving cooperatives in Chiapas. #EmpoweringThreads https://t.co/rIhmAU4cgB",
+      "id": "978490357892739072",
+      "id_str": "978490357892739072",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 978490357892739100
+    },
+    "wof:country": "US",
+    "wof:created": 1602026103,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729302927,
+    "wof:lastmodified": 1602026103,
+    "wof:name": "Twitter message #978490357892739072",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

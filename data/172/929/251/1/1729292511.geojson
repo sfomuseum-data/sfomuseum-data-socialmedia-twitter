@@ -1,0 +1,186 @@
+{
+  "id": 1729292511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2014-09-22T16:56:31-07:00",
+    "edtf:inception": "2014-09-22T16:56:31-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1411430191,
+      "created_at": "Mon Sep 22 23:56:31 +0000 2014",
+      "display_text_range": [
+        "0", 
+        "135"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "93", 
+              "106"
+            ],
+            "text": "FillmoreWest"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vCedXf65fp",
+            "expanded_url": "https://twitter.com/MichaelNoche/status/513779128361680896/photo/1",
+            "id": "513779127661240321",
+            "id_str": "513779127661240321",
+            "indices": [
+              "113", 
+              "135"
+            ],
+            "media_url": "http://pbs.twimg.com/media/ByFPZP1CIAEt3L1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ByFPZP1CIAEt3L1.jpg",
+            "sizes": {
+              "large": {
+                "h": "809",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "809",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "537",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "513779128361680896",
+            "source_status_id_str": "513779128361680896",
+            "source_user_id": "266716651",
+            "source_user_id_str": "266716651",
+            "type": "photo",
+            "url": "http://t.co/vCedXf65fp"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "flysfo.com/flight-deck-co…",
+            "expanded_url": "http://www.flysfo.com/flight-deck-content-type/exhibit",
+            "indices": [
+              "70", 
+              "92"
+            ],
+            "url": "http://t.co/weN2pr1tfd"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "266716651",
+            "id_str": "266716651",
+            "indices": [
+              "3", 
+              "16"
+            ],
+            "name": "Michael Noche",
+            "screen_name": "MichaelNoche"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vCedXf65fp",
+            "expanded_url": "https://twitter.com/MichaelNoche/status/513779128361680896/photo/1",
+            "id": "513779127661240321",
+            "id_str": "513779127661240321",
+            "indices": [
+              "113", 
+              "135"
+            ],
+            "media_url": "http://pbs.twimg.com/media/ByFPZP1CIAEt3L1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ByFPZP1CIAEt3L1.jpg",
+            "sizes": {
+              "large": {
+                "h": "809",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "809",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "537",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "513779128361680896",
+            "source_status_id_str": "513779128361680896",
+            "source_user_id": "266716651",
+            "source_user_id_str": "266716651",
+            "type": "photo",
+            "url": "http://t.co/vCedXf65fp"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @MichaelNoche: Super cool rock art poster exhibit @ SFO right now! http://t.co/weN2pr1tfd #FillmoreWest #1971 http://t.co/vCedXf65fp",
+      "id": "514201609518452736",
+      "id_str": "514201609518452736",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 514201609518452740
+    },
+    "wof:country": "US",
+    "wof:created": 1602025711,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729292511,
+    "wof:lastmodified": 1602025711,
+    "wof:name": "Twitter message #514201609518452736",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

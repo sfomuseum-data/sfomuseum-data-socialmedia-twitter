@@ -1,0 +1,81 @@
+{
+  "id": 1729311011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-11-06T11:48:05-08:00",
+    "edtf:inception": "2012-11-06T11:48:05-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1352231285,
+      "created_at": "Tue Nov 06 19:48:05 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "137"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagr.am/p/Rs0Jt2Rk_n/",
+            "expanded_url": "http://instagr.am/p/Rs0Jt2Rk_n/",
+            "indices": [
+              "117", 
+              "137"
+            ],
+            "url": "http://t.co/aq6DnroE"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Headrests from Papua New Guinea are imbued w/spiritual power \u0026amp; are often decorated w/ancestral \u0026amp; creation im http://t.co/aq6DnroE",
+      "id": "265903399747342336",
+      "id_str": "265903399747342336",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 265903399747342340
+    },
+    "wof:country": "US",
+    "wof:created": 1602026415,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729311011,
+    "wof:lastmodified": 1602026415,
+    "wof:name": "Twitter message #265903399747342336",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

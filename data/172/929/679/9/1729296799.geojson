@@ -1,0 +1,114 @@
+{
+  "id": 1729296799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-07-06T09:06:06-07:00",
+    "edtf:inception": "2016-07-06T09:06:06-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1467821166,
+      "created_at": "Wed Jul 06 16:06:06 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "130"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "50", 
+              "54"
+            ],
+            "text": "sfo"
+          }, 
+          {
+            "indices": [
+              "88", 
+              "95"
+            ],
+            "text": "lovesf"
+          }, 
+          {
+            "indices": [
+              "96", 
+              "105"
+            ],
+            "text": "alwayssf"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagram.com/p/BHPQUYID78a/",
+            "expanded_url": "https://www.instagram.com/p/BHPQUYID78a/",
+            "indices": [
+              "107", 
+              "130"
+            ],
+            "url": "https://t.co/Uf58svPrNB"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "44829558",
+            "id_str": "44829558",
+            "indices": [
+              "3", 
+              "14"
+            ],
+            "name": "Haruko Hata - Your Real Estate Consultant For Life",
+            "screen_name": "harukohata"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @harukohata: \"Fashion In Flight\" exhibition at #sfo   Remember these Braniff girls?  #lovesf #alwayssf… https://t.co/Uf58svPrNB",
+      "id": "750722501467049985",
+      "id_str": "750722501467049985",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 750722501467050000
+    },
+    "wof:country": "US",
+    "wof:created": 1602025872,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729296799,
+    "wof:lastmodified": 1602025872,
+    "wof:name": "Twitter message #750722501467049985",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

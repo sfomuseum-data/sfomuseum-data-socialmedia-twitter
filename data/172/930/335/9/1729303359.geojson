@@ -1,0 +1,171 @@
+{
+  "id": 1729303359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-06-04T18:30:06-07:00",
+    "edtf:inception": "2018-06-04T18:30:06-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1528162206,
+      "created_at": "Tue Jun 05 01:30:06 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "274"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "4", 
+              "11"
+            ],
+            "text": "Boeing"
+          }, 
+          {
+            "indices": [
+              "128", 
+              "135"
+            ],
+            "text": "United"
+          }, 
+          {
+            "indices": [
+              "231", 
+              "250"
+            ],
+            "text": "AviationEvolutions"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/3gk4iT6TD1",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1003811164491575296/photo/1",
+            "id": "1003811162176143360",
+            "id_str": "1003811162176143360",
+            "indices": [
+              "251", 
+              "274"
+            ],
+            "media_url": "http://pbs.twimg.com/media/De5A7v8UwAAMyjZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/De5A7v8UwAAMyjZ.jpg",
+            "sizes": {
+              "large": {
+                "h": "780",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "468",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "265",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/3gk4iT6TD1"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/3gk4iT6TD1",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1003811164491575296/photo/1",
+            "id": "1003811162176143360",
+            "id_str": "1003811162176143360",
+            "indices": [
+              "251", 
+              "274"
+            ],
+            "media_url": "http://pbs.twimg.com/media/De5A7v8UwAAMyjZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/De5A7v8UwAAMyjZ.jpg",
+            "sizes": {
+              "large": {
+                "h": "780",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "468",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "265",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/3gk4iT6TD1"
+          }
+        ]
+      },
+      "favorite_count": "28",
+      "favorited": false,
+      "full_text": "The #Boeing 247 entered service with United Air Lines in 1933. 75 of the aircraft were eventually built, with most going to the #United’s fleet, primarily operated on United’s “Mainline” transcontinental route until the mid 1930s. #AviationEvolutions https://t.co/3gk4iT6TD1",
+      "id": "1003811164491575296",
+      "id_str": "1003811164491575296",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "9",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1003811164491575300
+    },
+    "wof:country": "US",
+    "wof:created": 1602026121,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729303359,
+    "wof:lastmodified": 1602026121,
+    "wof:name": "Twitter message #1003811164491575296",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

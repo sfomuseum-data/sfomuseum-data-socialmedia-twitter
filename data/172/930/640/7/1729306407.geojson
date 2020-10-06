@@ -1,0 +1,188 @@
+{
+  "id": 1729306407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-06-27T13:18:54-07:00",
+    "edtf:inception": "2019-06-27T13:18:54-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1561666734,
+      "created_at": "Thu Jun 27 20:18:54 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "299"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "175", 
+              "181"
+            ],
+            "text": "LGBTQ"
+          }, 
+          {
+            "indices": [
+              "245", 
+              "251"
+            ],
+            "text": "Pride"
+          }, 
+          {
+            "indices": [
+              "252", 
+              "263"
+            ],
+            "text": "PrideMonth"
+          }, 
+          {
+            "indices": [
+              "265", 
+              "275"
+            ],
+            "text": "Pride2019"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FQvAus69rR",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1144339340346023936/photo/1",
+            "id": "1144339247932960768",
+            "id_str": "1144339247932960768",
+            "indices": [
+              "276", 
+              "299"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-GCe6eU8AAFfy8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-GCe6eU8AAFfy8.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FQvAus69rR"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2RCCGJ0",
+            "expanded_url": "http://bit.ly/2RCCGJ0",
+            "indices": [
+              "221", 
+              "244"
+            ],
+            "url": "https://t.co/OmMf4gizC7"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FQvAus69rR",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1144339340346023936/photo/1",
+            "id": "1144339247932960768",
+            "id_str": "1144339247932960768",
+            "indices": [
+              "276", 
+              "299"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-GCe6eU8AAFfy8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-GCe6eU8AAFfy8.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FQvAus69rR"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "Happy Pride to all those flying in for the weekend festivities. Stop by the Museum’s Video Arts space in the International Terminal Main Hall to view any of our four fabulous #LGBTQ-themed shorts in celebration of Pride. https://t.co/OmMf4gizC7 #Pride #PrideMonth  #Pride2019 https://t.co/FQvAus69rR",
+      "id": "1144339340346023936",
+      "id_str": "1144339340346023936",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1144339340346024000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026238,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729306407,
+    "wof:lastmodified": 1602026238,
+    "wof:name": "Twitter message #1144339340346023936",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

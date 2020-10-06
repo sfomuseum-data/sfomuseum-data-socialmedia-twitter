@@ -1,0 +1,157 @@
+{
+  "id": 1729295257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-02-17T20:00:31-08:00",
+    "edtf:inception": "2016-02-17T20:00:31-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1455768031,
+      "created_at": "Thu Feb 18 04:00:31 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "108"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "68", 
+              "84"
+            ],
+            "text": "WomenInAviation"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/91vruAAAxS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/700167986020290560/photo/1",
+            "id": "700167984996814848",
+            "id_str": "700167984996814848",
+            "indices": [
+              "85", 
+              "108"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cbd_EpzWEAAl2pn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cbd_EpzWEAAl2pn.jpg",
+            "sizes": {
+              "large": {
+                "h": "1360",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "797",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "452",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/91vruAAAxS"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/91vruAAAxS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/700167986020290560/photo/1",
+            "id": "700167984996814848",
+            "id_str": "700167984996814848",
+            "indices": [
+              "85", 
+              "108"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cbd_EpzWEAAl2pn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cbd_EpzWEAAl2pn.jpg",
+            "sizes": {
+              "large": {
+                "h": "1360",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "797",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "452",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/91vruAAAxS"
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "Women play an integral part in the aviation industry as mechanics.  #WomenInAviation https://t.co/91vruAAAxS",
+      "id": "700167986020290560",
+      "id_str": "700167986020290560",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 700167986020290600
+    },
+    "wof:country": "US",
+    "wof:created": 1602025812,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729295257,
+    "wof:lastmodified": 1602025812,
+    "wof:name": "Twitter message #700167986020290560",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,157 @@
+{
+  "id": 1729304263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-09-15T11:11:58-07:00",
+    "edtf:inception": "2018-09-15T11:11:58-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1537035118,
+      "created_at": "Sat Sep 15 18:11:58 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "284"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "249", 
+              "260"
+            ],
+            "text": "SFOhistory"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9eYE7x77Mg",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1041026857305563136/photo/1",
+            "id": "1041026854545764352",
+            "id_str": "1041026854545764352",
+            "indices": [
+              "261", 
+              "284"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DnJ4aJrXsAAqzat.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DnJ4aJrXsAAqzat.jpg",
+            "sizes": {
+              "large": {
+                "h": "1580",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "948",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "537",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9eYE7x77Mg"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9eYE7x77Mg",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1041026857305563136/photo/1",
+            "id": "1041026854545764352",
+            "id_str": "1041026854545764352",
+            "indices": [
+              "261", 
+              "284"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DnJ4aJrXsAAqzat.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DnJ4aJrXsAAqzat.jpg",
+            "sizes": {
+              "large": {
+                "h": "1580",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "948",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "537",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9eYE7x77Mg"
+          }
+        ]
+      },
+      "favorite_count": "35",
+      "favorited": false,
+      "full_text": "On September 15, 1963, the South Terminal (now Terminal 1) was dedicated at San Francisco International Airport. The Airport's first major addition since the Central Terminal was the completed in 1954, it further encircled the central parking area. #SFOhistory https://t.co/9eYE7x77Mg",
+      "id": "1041026857305563136",
+      "id_str": "1041026857305563136",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "9",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1041026857305563100
+    },
+    "wof:country": "US",
+    "wof:created": 1602026156,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729304263,
+    "wof:lastmodified": 1602026156,
+    "wof:name": "Twitter message #1041026857305563136",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

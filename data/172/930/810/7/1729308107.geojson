@@ -1,0 +1,164 @@
+{
+  "id": 1729308107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-03-20T16:25:04-07:00",
+    "edtf:inception": "2020-03-20T16:25:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1584746704,
+      "created_at": "Fri Mar 20 23:25:04 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "272"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "14"
+            ],
+            "text": "StanleyGreene"
+          }, 
+          {
+            "indices": [
+              "233", 
+              "248"
+            ],
+            "text": "MuseumFromHome"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/D4RA0up1v2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1241143750153449485/photo/1",
+            "id": "1241143746672103425",
+            "id_str": "1241143746672103425",
+            "indices": [
+              "249", 
+              "272"
+            ],
+            "media_url": "http://pbs.twimg.com/media/ETltqWeWkAEJFNg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ETltqWeWkAEJFNg.jpg",
+            "sizes": {
+              "large": {
+                "h": "1331",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "799",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/D4RA0up1v2"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/D4RA0up1v2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1241143750153449485/photo/1",
+            "id": "1241143746672103425",
+            "id_str": "1241143746672103425",
+            "indices": [
+              "249", 
+              "272"
+            ],
+            "media_url": "http://pbs.twimg.com/media/ETltqWeWkAEJFNg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ETltqWeWkAEJFNg.jpg",
+            "sizes": {
+              "large": {
+                "h": "1331",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "799",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/D4RA0up1v2"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "#StanleyGreene chronicles changes in Uummannaq in a series of quiet images that portray a landscape and its people in flux, and offer a place for us to meditate on a future where the effects of climate will only become more visible. #MuseumFromHome https://t.co/D4RA0up1v2",
+      "id": "1241143750153449485",
+      "id_str": "1241143750153449485",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1241143750153449500
+    },
+    "wof:country": "US",
+    "wof:created": 1602026303,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729308107,
+    "wof:lastmodified": 1602026303,
+    "wof:name": "Twitter message #1241143750153449485",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

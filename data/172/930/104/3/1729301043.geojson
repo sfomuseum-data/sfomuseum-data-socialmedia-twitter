@@ -1,0 +1,167 @@
+{
+  "id": 1729301043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-08-28T20:35:04-07:00",
+    "edtf:inception": "2017-08-28T20:35:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1503977704,
+      "created_at": "Tue Aug 29 03:35:04 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "160"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "50", 
+              "64"
+            ],
+            "text": "ArtsandCrafts"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zugiDdM89s",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/902374012994670592/photo/1",
+            "id": "902374008657657856",
+            "id_str": "902374008657657856",
+            "indices": [
+              "137", 
+              "160"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DIXgYUCVwAAez41.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DIXgYUCVwAAez41.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1854"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1112"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "630"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zugiDdM89s"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/SFOArtsandCraf…",
+            "expanded_url": "http://bit.ly/SFOArtsandCrafts",
+            "indices": [
+              "113", 
+              "136"
+            ],
+            "url": "https://t.co/beGCVuzpTr"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zugiDdM89s",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/902374012994670592/photo/1",
+            "id": "902374008657657856",
+            "id_str": "902374008657657856",
+            "indices": [
+              "137", 
+              "160"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DIXgYUCVwAAez41.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DIXgYUCVwAAez41.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1854"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1112"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "630"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zugiDdM89s"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Learn more about arts and crafts in \"At Home with #ArtsandCrafts\" on display pre-security, in the Intl Terminal. https://t.co/beGCVuzpTr https://t.co/zugiDdM89s",
+      "id": "902374012994670592",
+      "id_str": "902374012994670592",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 902374012994670600
+    },
+    "wof:country": "US",
+    "wof:created": 1602026031,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729301043,
+    "wof:lastmodified": 1602026031,
+    "wof:name": "Twitter message #902374012994670592",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

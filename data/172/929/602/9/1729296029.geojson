@@ -1,0 +1,178 @@
+{
+  "id": 1729296029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-05-09T19:00:12-07:00",
+    "edtf:inception": "2016-05-09T19:00:12-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1462845612,
+      "created_at": "Tue May 10 02:00:12 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "134"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "99", 
+              "110"
+            ],
+            "text": "ToyStory20"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/13ny5v5Lyf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/729853514994814976/video/1",
+            "id": "729852249757847552",
+            "id_str": "729852249757847552",
+            "indices": [
+              "111", 
+              "134"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/729852249757847552/pu/img/-9y5m9J81kzJfkV9.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/729852249757847552/pu/img/-9y5m9J81kzJfkV9.jpg",
+            "sizes": {
+              "large": {
+                "h": "320",
+                "resize": "fit",
+                "w": "568"
+              },
+              "medium": {
+                "h": "320",
+                "resize": "fit",
+                "w": "568"
+              },
+              "small": {
+                "h": "320",
+                "resize": "fit",
+                "w": "568"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/13ny5v5Lyf"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/13ny5v5Lyf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/729853514994814976/video/1",
+            "id": "729852249757847552",
+            "id_str": "729852249757847552",
+            "indices": [
+              "111", 
+              "134"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/729852249757847552/pu/img/-9y5m9J81kzJfkV9.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/729852249757847552/pu/img/-9y5m9J81kzJfkV9.jpg",
+            "sizes": {
+              "large": {
+                "h": "320",
+                "resize": "fit",
+                "w": "568"
+              },
+              "medium": {
+                "h": "320",
+                "resize": "fit",
+                "w": "568"
+              },
+              "small": {
+                "h": "320",
+                "resize": "fit",
+                "w": "568"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/13ny5v5Lyf",
+            "video_info": {
+              "aspect_ratio": [
+                "71", 
+                "40"
+              ],
+              "duration_millis": "3933",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/729852249757847552/pu/pl/HfuJ6waCl7wvhHa8.m3u8"
+                }, 
+                {
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/729852249757847552/pu/vid/318x180/ZcH4O_cbweN6PHj-.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Animators wore the board to mimic movements of the army men \u0026amp; analyzed each other’s movements. #ToyStory20 https://t.co/13ny5v5Lyf",
+      "id": "729853514994814976",
+      "id_str": "729853514994814976",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 729853514994815000
+    },
+    "wof:country": "US",
+    "wof:created": 1602025841,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729296029,
+    "wof:lastmodified": 1602025841,
+    "wof:name": "Twitter message #729853514994814976",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

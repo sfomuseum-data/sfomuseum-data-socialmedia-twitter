@@ -1,0 +1,117 @@
+{
+  "id": 1729309153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-04-09T09:15:54-07:00",
+    "edtf:inception": "2012-04-09T09:15:54-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1333988154,
+      "created_at": "Mon Apr 09 16:15:54 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "130"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "92", 
+              "98"
+            ],
+            "text": "music"
+          }, 
+          {
+            "indices": [
+              "99", 
+              "109"
+            ],
+            "text": "classical"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagr.am/p/JF5qVxPmAc/",
+            "expanded_url": "http://instagr.am/p/JF5qVxPmAc/",
+            "indices": [
+              "110", 
+              "130"
+            ],
+            "url": "http://t.co/16cNPdcB"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "21921560",
+            "id_str": "21921560",
+            "indices": [
+              "12", 
+              "23"
+            ],
+            "name": "SF Symphony",
+            "screen_name": "SFSymphony"
+          }, 
+          {
+            "id": "492082813",
+            "id_str": "492082813",
+            "indices": [
+              "54", 
+              "66"
+            ],
+            "name": "Lauren Silberman",
+            "screen_name": "silberman11"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Celebrating @SFSymphony's 100 years of excellence! RT @silberman11: Cool SFS exhibit at SFO #music #classical http://t.co/16cNPdcB",
+      "id": "189386162790612994",
+      "id_str": "189386162790612994",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 189386162790613000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026343,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729309153,
+    "wof:lastmodified": 1602026343,
+    "wof:name": "Twitter message #189386162790612994",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

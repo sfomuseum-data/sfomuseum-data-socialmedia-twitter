@@ -1,0 +1,176 @@
+{
+  "id": 1729290989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2013-10-31T15:53:35-07:00",
+    "edtf:inception": "2013-10-31T15:53:35-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1383260015,
+      "created_at": "Thu Oct 31 22:53:35 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "138"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "26", 
+              "39"
+            ],
+            "text": "JapaneseToys"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TFqzxUEIuU",
+            "expanded_url": "https://twitter.com/geneluenyang/status/395990455344578560/photo/1",
+            "id": "395990455189389312",
+            "id_str": "395990455189389312",
+            "indices": [
+              "116", 
+              "138"
+            ],
+            "media_url": "http://pbs.twimg.com/media/BX7XOJACQAA7C5Q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/BX7XOJACQAA7C5Q.jpg",
+            "sizes": {
+              "large": {
+                "h": "960",
+                "resize": "fit",
+                "w": "720"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "720"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "395990455344578560",
+            "source_status_id_str": "395990455344578560",
+            "source_user_id": "262559721",
+            "source_user_id_str": "262559721",
+            "type": "photo",
+            "url": "http://t.co/TFqzxUEIuU"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "262559721",
+            "id_str": "262559721",
+            "indices": [
+              "43", 
+              "56"
+            ],
+            "name": "Gene Luen Yang",
+            "screen_name": "geneluenyang"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TFqzxUEIuU",
+            "expanded_url": "https://twitter.com/geneluenyang/status/395990455344578560/photo/1",
+            "id": "395990455189389312",
+            "id_str": "395990455189389312",
+            "indices": [
+              "116", 
+              "138"
+            ],
+            "media_url": "http://pbs.twimg.com/media/BX7XOJACQAA7C5Q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/BX7XOJACQAA7C5Q.jpg",
+            "sizes": {
+              "large": {
+                "h": "960",
+                "resize": "fit",
+                "w": "720"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "720"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "395990455344578560",
+            "source_status_id_str": "395990455344578560",
+            "source_user_id": "262559721",
+            "source_user_id_str": "262559721",
+            "type": "photo",
+            "url": "http://t.co/TFqzxUEIuU"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Installation in progress! #JapaneseToys RT @geneluenyang: Old school awesomeness from the SFO Japanese toy exhibit. http://t.co/TFqzxUEIuU",
+      "id": "396047325598326784",
+      "id_str": "396047325598326784",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 396047325598326800
+    },
+    "wof:country": "US",
+    "wof:created": 1602025654,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729290989,
+    "wof:lastmodified": 1602025654,
+    "wof:name": "Twitter message #396047325598326784",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

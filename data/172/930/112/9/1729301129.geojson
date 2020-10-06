@@ -1,0 +1,167 @@
+{
+  "id": 1729301129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-08-31T20:00:10-07:00",
+    "edtf:inception": "2017-08-31T20:00:10-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1504234810,
+      "created_at": "Fri Sep 01 03:00:10 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "161"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "18", 
+              "36"
+            ],
+            "text": "EmpoweringThreads"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BdVDTABtll",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/903452393316257796/photo/1",
+            "id": "903452389398728704",
+            "id_str": "903452389398728704",
+            "indices": [
+              "138", 
+              "161"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DIm1KVWW0AAIMdW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DIm1KVWW0AAIMdW.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1692"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1015"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "575"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BdVDTABtll"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/EmpoweringThre…",
+            "expanded_url": "http://bit.ly/EmpoweringThreads",
+            "indices": [
+              "114", 
+              "137"
+            ],
+            "url": "https://t.co/fiwRUXRpHN"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BdVDTABtll",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/903452393316257796/photo/1",
+            "id": "903452389398728704",
+            "id_str": "903452389398728704",
+            "indices": [
+              "138", 
+              "161"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DIm1KVWW0AAIMdW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DIm1KVWW0AAIMdW.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1692"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1015"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "575"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BdVDTABtll"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Learn more about \"#EmpoweringThreads: Textiles of Jolom Mayaetik\" on display, pre-security, in the Intl Terminal. https://t.co/fiwRUXRpHN https://t.co/BdVDTABtll",
+      "id": "903452393316257796",
+      "id_str": "903452393316257796",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 903452393316257800
+    },
+    "wof:country": "US",
+    "wof:created": 1602026035,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729301129,
+    "wof:lastmodified": 1602026035,
+    "wof:name": "Twitter message #903452393316257796",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

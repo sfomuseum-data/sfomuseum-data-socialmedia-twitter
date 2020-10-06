@@ -1,0 +1,120 @@
+{
+  "id": 1729296845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-07-12T16:12:01-07:00",
+    "edtf:inception": "2016-07-12T16:12:01-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1468365121,
+      "created_at": "Tue Jul 12 23:12:01 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "135"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "125", 
+              "135"
+            ],
+            "text": "Boeing100"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "facebook.com/airbus/videos/…",
+            "expanded_url": "https://www.facebook.com/airbus/videos/1377382225611391/",
+            "indices": [
+              "101", 
+              "124"
+            ],
+            "url": "https://t.co/LQr3QJIE1v"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "40113236",
+            "id_str": "40113236",
+            "indices": [
+              "3", 
+              "19"
+            ],
+            "name": "Airline Reporter",
+            "screen_name": "AirlineReporter"
+          }, 
+          {
+            "id": "22090282",
+            "id_str": "22090282",
+            "indices": [
+              "31", 
+              "47"
+            ],
+            "name": "Boeing Airplanes",
+            "screen_name": "BoeingAirplanes"
+          }, 
+          {
+            "id": "15425377",
+            "id_str": "15425377",
+            "indices": [
+              "81", 
+              "88"
+            ],
+            "name": "Airbus",
+            "screen_name": "Airbus"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @AirlineReporter: This year @BoeingAirplanes celebrates their 100th birthday. @Airbus responds... https://t.co/LQr3QJIE1v #Boeing100",
+      "id": "753004015114391552",
+      "id_str": "753004015114391552",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 753004015114391600
+    },
+    "wof:country": "US",
+    "wof:created": 1602025874,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729296845,
+    "wof:lastmodified": 1602025874,
+    "wof:name": "Twitter message #753004015114391552",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

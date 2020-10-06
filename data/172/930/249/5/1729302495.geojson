@@ -1,0 +1,167 @@
+{
+  "id": 1729302495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-02-27T17:35:05-08:00",
+    "edtf:inception": "2018-02-27T17:35:05-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1519781705,
+      "created_at": "Wed Feb 28 01:35:05 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "247"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "211", 
+              "223"
+            ],
+            "text": "TheMainLine"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0McnlXHKrf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/968660795281367040/photo/1",
+            "id": "968660791519055874",
+            "id_str": "968660791519055874",
+            "indices": [
+              "224", 
+              "247"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DXFf25JXkAINqzt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DXFf25JXkAINqzt.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/0McnlXHKrf"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/TheMainLine",
+            "expanded_url": "http://bit.ly/TheMainLine",
+            "indices": [
+              "187", 
+              "210"
+            ],
+            "url": "https://t.co/l3SGXBPfhd"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0McnlXHKrf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/968660795281367040/photo/1",
+            "id": "968660791519055874",
+            "id_str": "968660791519055874",
+            "indices": [
+              "224", 
+              "247"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DXFf25JXkAINqzt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DXFf25JXkAINqzt.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/0McnlXHKrf"
+          }
+        ]
+      },
+      "favorite_count": "7",
+      "favorited": false,
+      "full_text": "This is your last week to see \"Flying the Main Line: A History of United Airlines.\" Located post-security, in Terminal 3 the exhibition showcases highlights from SFO Museum's collection. https://t.co/l3SGXBPfhd #TheMainLine https://t.co/0McnlXHKrf",
+      "id": "968660795281367040",
+      "id_str": "968660795281367040",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "5",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 968660795281367000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026086,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729302495,
+    "wof:lastmodified": 1602026086,
+    "wof:name": "Twitter message #968660795281367040",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

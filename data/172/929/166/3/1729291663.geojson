@@ -1,0 +1,81 @@
+{
+  "id": 1729291663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2014-03-10T16:20:39-07:00",
+    "edtf:inception": "2014-03-10T16:20:39-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1394493639,
+      "created_at": "Mon Mar 10 23:20:39 +0000 2014",
+      "display_text_range": [
+        "0", 
+        "143"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/urL1J",
+            "expanded_url": "http://ow.ly/urL1J",
+            "indices": [
+              "106", 
+              "128"
+            ],
+            "url": "http://t.co/oFLg6uGDzZ"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "New photo exhibit! Alice Shaw enshrines her b\u0026amp;w images with 22 karat gold for 'The Exalted Landscape' http://t.co/oFLg6uGDzZ Pre-TSA in T2.",
+      "id": "443164560246468608",
+      "id_str": "443164560246468608",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 443164560246468600
+    },
+    "wof:country": "US",
+    "wof:created": 1602025679,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729291663,
+    "wof:lastmodified": 1602025679,
+    "wof:name": "Twitter message #443164560246468608",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

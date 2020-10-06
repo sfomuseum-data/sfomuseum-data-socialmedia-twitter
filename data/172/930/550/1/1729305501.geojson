@@ -1,0 +1,207 @@
+{
+  "id": 1729305501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-03-05T17:39:02-08:00",
+    "edtf:inception": "2019-03-05T17:39:02-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1551836342,
+      "created_at": "Wed Mar 06 01:39:02 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "175"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "30", 
+              "44"
+            ],
+            "text": "SanazMazinani"
+          }, 
+          {
+            "indices": [
+              "115", 
+              "125"
+            ],
+            "text": "publicart"
+          }, 
+          {
+            "indices": [
+              "126", 
+              "145"
+            ],
+            "text": "WomensHistoryMonth"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/oDrit6zY1x",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1103107690362888192/photo/1",
+            "id": "1103107269468667904",
+            "id_str": "1103107269468667904",
+            "indices": [
+              "152", 
+              "175"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D08GN5HUwAAW4Yl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D08GN5HUwAAW4Yl.jpg",
+            "sizes": {
+              "large": {
+                "h": "1277",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "766",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "434",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/oDrit6zY1x"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2lkuhvZ",
+            "expanded_url": "http://bit.ly/2lkuhvZ",
+            "indices": [
+              "91", 
+              "114"
+            ],
+            "url": "https://t.co/vwTcO4pby8"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "18958334",
+            "id_str": "18958334",
+            "indices": [
+              "0", 
+              "5"
+            ],
+            "name": "SF Arts Commission",
+            "screen_name": "SFAC"
+          }, 
+          {
+            "id": "18958334",
+            "id_str": "18958334",
+            "indices": [
+              "146", 
+              "151"
+            ],
+            "name": "SF Arts Commission",
+            "screen_name": "SFAC"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/oDrit6zY1x",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1103107690362888192/photo/1",
+            "id": "1103107269468667904",
+            "id_str": "1103107269468667904",
+            "indices": [
+              "152", 
+              "175"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D08GN5HUwAAW4Yl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D08GN5HUwAAW4Yl.jpg",
+            "sizes": {
+              "large": {
+                "h": "1277",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "766",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "434",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/oDrit6zY1x"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "@SFAC \"Forever in the Sky\" by #SanazMazinani, is on display, post-security, in Terminal 3. https://t.co/vwTcO4pby8 #publicart #WomensHistoryMonth @SFAC https://t.co/oDrit6zY1x",
+      "id": "1103107690362888192",
+      "id_str": "1103107690362888192",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1103101354636005376",
+      "in_reply_to_status_id_str": "1103101354636005376",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1103107690362888200
+    },
+    "wof:country": "US",
+    "wof:created": 1602026204,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729305501,
+    "wof:lastmodified": 1602026204,
+    "wof:name": "Twitter message #1103107690362888192",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

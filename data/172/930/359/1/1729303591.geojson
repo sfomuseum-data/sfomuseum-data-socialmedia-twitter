@@ -1,0 +1,164 @@
+{
+  "id": 1729303591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-06-26T20:00:09-07:00",
+    "edtf:inception": "2018-06-26T20:00:09-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1530068409,
+      "created_at": "Wed Jun 27 03:00:09 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "175"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "129", 
+              "143"
+            ],
+            "text": "traveltuesday"
+          }, 
+          {
+            "indices": [
+              "144", 
+              "151"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/K7EygL08Rp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1011806359120236544/photo/1",
+            "id": "1011806355877842944",
+            "id_str": "1011806355877842944",
+            "indices": [
+              "152", 
+              "175"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DgqohReU0AA1aJF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DgqohReU0AA1aJF.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1336"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "802"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "454"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/K7EygL08Rp"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/K7EygL08Rp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1011806359120236544/photo/1",
+            "id": "1011806355877842944",
+            "id_str": "1011806355877842944",
+            "indices": [
+              "152", 
+              "175"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DgqohReU0AA1aJF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DgqohReU0AA1aJF.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1336"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "802"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "454"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/K7EygL08Rp"
+          }
+        ]
+      },
+      "favorite_count": "8",
+      "favorited": false,
+      "full_text": "Summer is upon us in the Northern Hemisphere. If you could travel anywhere in the world, where would you like to go this summer? #traveltuesday #avgeek https://t.co/K7EygL08Rp",
+      "id": "1011806359120236544",
+      "id_str": "1011806359120236544",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1011806359120236500
+    },
+    "wof:country": "US",
+    "wof:created": 1602026129,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729303591,
+    "wof:lastmodified": 1602026129,
+    "wof:name": "Twitter message #1011806359120236544",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

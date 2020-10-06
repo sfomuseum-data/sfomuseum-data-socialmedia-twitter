@@ -1,0 +1,92 @@
+{
+  "id": 1729299577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-03-14T10:08:48-07:00",
+    "edtf:inception": "2017-03-14T10:08:48-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1489511328,
+      "created_at": "Tue Mar 14 17:08:48 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "lat.ms/2mWf3hb",
+            "expanded_url": "http://lat.ms/2mWf3hb",
+            "indices": [
+              "108", 
+              "131"
+            ],
+            "url": "https://t.co/EXLCLqnyh8"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "16664681",
+            "id_str": "16664681",
+            "indices": [
+              "3", 
+              "11"
+            ],
+            "name": "Los Angeles Times",
+            "screen_name": "latimes"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @latimes: What's it like to fly on an American icon? Goodyear is retiring one of the last of its blimps: https://t.co/EXLCLqnyh8 https:/…",
+      "id": "841697632871415808",
+      "id_str": "841697632871415808",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 841697632871415800
+    },
+    "wof:country": "US",
+    "wof:created": 1602025978,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729299577,
+    "wof:lastmodified": 1602025978,
+    "wof:name": "Twitter message #841697632871415808",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

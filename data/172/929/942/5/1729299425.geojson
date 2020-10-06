@@ -1,0 +1,178 @@
+{
+  "id": 1729299425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-02-22T09:51:53-08:00",
+    "edtf:inception": "2017-02-22T09:51:53-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1487785913,
+      "created_at": "Wed Feb 22 17:51:53 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "122"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/CCNVGtzECL",
+            "expanded_url": "https://twitter.com/AirlineGeeks/status/834427014887124992/photo/1",
+            "id": "834427006972526592",
+            "id_str": "834427006972526592",
+            "indices": [
+              "99", 
+              "122"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C5R68R2XAAAZV0z.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C5R68R2XAAAZV0z.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "834427014887124992",
+            "source_status_id_str": "834427014887124992",
+            "source_user_id": "330504751",
+            "source_user_id_str": "330504751",
+            "type": "photo",
+            "url": "https://t.co/CCNVGtzECL"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "330504751",
+            "id_str": "330504751",
+            "indices": [
+              "3", 
+              "16"
+            ],
+            "name": "AirlineGeeks",
+            "screen_name": "AirlineGeeks"
+          }, 
+          {
+            "id": "22090282",
+            "id_str": "22090282",
+            "indices": [
+              "19", 
+              "35"
+            ],
+            "name": "Boeing Airplanes",
+            "screen_name": "BoeingAirplanes"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/CCNVGtzECL",
+            "expanded_url": "https://twitter.com/AirlineGeeks/status/834427014887124992/photo/1",
+            "id": "834427006972526592",
+            "id_str": "834427006972526592",
+            "indices": [
+              "99", 
+              "122"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C5R68R2XAAAZV0z.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C5R68R2XAAAZV0z.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "834427014887124992",
+            "source_status_id_str": "834427014887124992",
+            "source_user_id": "330504751",
+            "source_user_id_str": "330504751",
+            "type": "photo",
+            "url": "https://t.co/CCNVGtzECL"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @AirlineGeeks: .@BoeingAirplanes is about to hand over the \"keys\" of this new 787 to Korean Air https://t.co/CCNVGtzECL",
+      "id": "834460717428461572",
+      "id_str": "834460717428461572",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 834460717428461600
+    },
+    "wof:country": "US",
+    "wof:created": 1602025972,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729299425,
+    "wof:lastmodified": 1602025972,
+    "wof:name": "Twitter message #834460717428461572",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

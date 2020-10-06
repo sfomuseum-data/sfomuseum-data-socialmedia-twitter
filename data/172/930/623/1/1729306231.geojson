@@ -1,0 +1,168 @@
+{
+  "id": 1729306231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-06-02T12:00:42-07:00",
+    "edtf:inception": "2019-06-02T12:00:42-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1559502042,
+      "created_at": "Sun Jun 02 19:00:42 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "302"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "241", 
+              "261"
+            ],
+            "text": "KeliyAndersonStaley"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vca4Oq8AVG",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1135259964635852800/photo/1",
+            "id": "1135259959858515968",
+            "id_str": "1135259959858515968",
+            "indices": [
+              "279", 
+              "302"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D8FA6ysXUAAaIu0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8FA6ysXUAAaIu0.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1975"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1185"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "672"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vca4Oq8AVG"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "457765265",
+            "id_str": "457765265",
+            "indices": [
+              "262", 
+              "278"
+            ],
+            "name": "Keliy AndersonStaley",
+            "screen_name": "KAndersonStaley"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vca4Oq8AVG",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1135259964635852800/photo/1",
+            "id": "1135259959858515968",
+            "id_str": "1135259959858515968",
+            "indices": [
+              "279", 
+              "302"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D8FA6ysXUAAaIu0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8FA6ysXUAAaIu0.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1975"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1185"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "672"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vca4Oq8AVG"
+          }
+        ]
+      },
+      "favorite_count": "6",
+      "favorited": false,
+      "full_text": "At once contemporary and timeless, “[hyphen] Americans” presents a  portrait of America while raising larger questions about the role played by photographic technologies in defining cultural identity, both historically and in present times. #KeliyAndersonStaley @KAndersonStaley https://t.co/vca4Oq8AVG",
+      "id": "1135259964635852800",
+      "id_str": "1135259964635852800",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1135259964635852800
+    },
+    "wof:country": "US",
+    "wof:created": 1602026231,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729306231,
+    "wof:lastmodified": 1602026231,
+    "wof:name": "Twitter message #1135259964635852800",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

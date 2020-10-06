@@ -1,0 +1,179 @@
+{
+  "id": 1729308279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-04-17T21:22:04-07:00",
+    "edtf:inception": "2020-04-17T21:22:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1587183724,
+      "created_at": "Sat Apr 18 04:22:04 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "118"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "29", 
+              "43"
+            ],
+            "text": "LucaTombolini"
+          }, 
+          {
+            "indices": [
+              "79", 
+              "94"
+            ],
+            "text": "MuseumFromHome"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/k3QZGkMXuw",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1251365353118023680/photo/1",
+            "id": "1251364829568233472",
+            "id_str": "1251364829568233472",
+            "indices": [
+              "95", 
+              "118"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EV29rrbU8AAJLSC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EV29rrbU8AAJLSC.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/k3QZGkMXuw"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2vGg4Rp",
+            "expanded_url": "http://bit.ly/2vGg4Rp",
+            "indices": [
+              "55", 
+              "78"
+            ],
+            "url": "https://t.co/cnbB2L6cyp"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/k3QZGkMXuw",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1251365353118023680/photo/1",
+            "id": "1251364829568233472",
+            "id_str": "1251364829568233472",
+            "indices": [
+              "95", 
+              "118"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EV29rrbU8AAJLSC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EV29rrbU8AAJLSC.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/k3QZGkMXuw"
+          }
+        ]
+      },
+      "favorite_count": "8",
+      "favorited": false,
+      "full_text": "See “Vistas Paradossales” by #LucaTombolini online at: https://t.co/cnbB2L6cyp #MuseumFromHome https://t.co/k3QZGkMXuw",
+      "id": "1251365353118023680",
+      "id_str": "1251365353118023680",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1251365350173667328",
+      "in_reply_to_status_id_str": "1251365350173667328",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "et",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1251365353118023700
+    },
+    "wof:country": "US",
+    "wof:created": 1602026310,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729308279,
+    "wof:lastmodified": 1602026310,
+    "wof:name": "Twitter message #1251365353118023680",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

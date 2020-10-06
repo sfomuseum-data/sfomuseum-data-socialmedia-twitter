@@ -1,0 +1,198 @@
+{
+  "id": 1729307863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-02-04T17:50:50-08:00",
+    "edtf:inception": "2020-02-04T17:50:50-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1580867450,
+      "created_at": "Wed Feb 05 01:50:50 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "289"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "251", 
+              "265"
+            ],
+            "text": "VideoArtsSFOM"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/hdixbAqhWi",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1224872983207956480/video/1",
+            "id": "1224872675828305920",
+            "id_str": "1224872675828305920",
+            "indices": [
+              "266", 
+              "289"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224872675828305920/pu/img/N-eGmm6wam-_U_XT.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224872675828305920/pu/img/N-eGmm6wam-_U_XT.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/hdixbAqhWi"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2Sk0cLO",
+            "expanded_url": "http://bit.ly/2Sk0cLO",
+            "indices": [
+              "227", 
+              "250"
+            ],
+            "url": "https://t.co/2vVB3lBgXQ"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/hdixbAqhWi",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1224872983207956480/video/1",
+            "id": "1224872675828305920",
+            "id_str": "1224872675828305920",
+            "indices": [
+              "266", 
+              "289"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224872675828305920/pu/img/N-eGmm6wam-_U_XT.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224872675828305920/pu/img/N-eGmm6wam-_U_XT.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/hdixbAqhWi",
+            "video_info": {
+              "aspect_ratio": [
+                "16", 
+                "9"
+              ],
+              "duration_millis": "20187",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1224872675828305920/pu/pl/qQk2-E1C6_leN8dk.m3u8?tag=10"
+                }, 
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1224872675828305920/pu/vid/640x360/TZUnDh1_WieRCUV6.mp4?tag=10"
+                }, 
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1224872675828305920/pu/vid/1280x720/m4MgAEnF4NghD6wd.mp4?tag=10"
+                }, 
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1224872675828305920/pu/vid/480x270/g-EdM5Z8vdYJI9OE.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "NOW PLAYING: \"A Subway Story\" by Eugene Kolb. Kolb recalls love at first sight in this charming animated short that illustrates the story of how he and his partner Clara met and fell for each other while riding a subway train. https://t.co/2vVB3lBgXQ #VideoArtsSFOM https://t.co/hdixbAqhWi",
+      "id": "1224872983207956480",
+      "id_str": "1224872983207956480",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1224872983207956500
+    },
+    "wof:country": "US",
+    "wof:created": 1602026294,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729307863,
+    "wof:lastmodified": 1602026294,
+    "wof:name": "Twitter message #1224872983207956480",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

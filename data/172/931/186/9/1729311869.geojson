@@ -1,0 +1,102 @@
+{
+  "id": 1729311869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2013-04-22T14:47:15-07:00",
+    "edtf:inception": "2013-04-22T14:47:15-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1366667235,
+      "created_at": "Mon Apr 22 21:47:15 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "122"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "korduroytv.tumblr.com/post/486304418…",
+            "expanded_url": "http://korduroytv.tumblr.com/post/48630441803/san-francisco-is-so-artsy-they-even-make-their",
+            "indices": [
+              "100", 
+              "122"
+            ],
+            "url": "http://t.co/L3720Gi9I3"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "1217207025983078401",
+            "id_str": "1217207025983078401",
+            "indices": [
+              "32", 
+              "43"
+            ],
+            "name": "Korduroy.TV",
+            "screen_name": "Korduroytv"
+          }, 
+          {
+            "id": "2511455462",
+            "id_str": "2511455462",
+            "indices": [
+              "87", 
+              "98"
+            ],
+            "name": "WASTE_ZERO",
+            "screen_name": "WASTE_ZERO"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Earth Day inspiration: video by @KorduroyTV highlights the Artist in Residence program @WASTE_ZERO  http://t.co/L3720Gi9I3",
+      "id": "326452164388077569",
+      "id_str": "326452164388077569",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 326452164388077600
+    },
+    "wof:country": "US",
+    "wof:created": 1602026449,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729311869,
+    "wof:lastmodified": 1602026449,
+    "wof:name": "Twitter message #326452164388077569",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

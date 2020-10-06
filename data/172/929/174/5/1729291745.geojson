@@ -1,0 +1,117 @@
+{
+  "id": 1729291745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2014-04-02T11:06:47-07:00",
+    "edtf:inception": "2014-04-02T11:06:47-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1396462007,
+      "created_at": "Wed Apr 02 18:06:47 +0000 2014",
+      "display_text_range": [
+        "0", 
+        "135"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "24", 
+              "29"
+            ],
+            "text": "expo"
+          }, 
+          {
+            "indices": [
+              "33", 
+              "44"
+            ],
+            "text": "céramiques"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "tinyurl.com/kevzbcz",
+            "expanded_url": "http://tinyurl.com/kevzbcz",
+            "indices": [
+              "102", 
+              "124"
+            ],
+            "url": "http://t.co/ONcmeKqU6r"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "821483995",
+            "id_str": "821483995",
+            "indices": [
+              "3", 
+              "14"
+            ],
+            "name": "Julie Ⓥ",
+            "screen_name": "JuleeBrand"
+          }, 
+          {
+            "id": "116329337",
+            "id_str": "116329337",
+            "indices": [
+              "125", 
+              "135"
+            ],
+            "name": "SFO Museum",
+            "screen_name": "SFOMuseum"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @JuleeBrand: Sublime #expo de #céramiques à l'aéroport de San Francisco : Vessels from the Forrest http://t.co/ONcmeKqU6r @SFOMuseum",
+      "id": "451420492889878528",
+      "id_str": "451420492889878528",
+      "lang": "fr",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 451420492889878500
+    },
+    "wof:country": "US",
+    "wof:created": 1602025682,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729291745,
+    "wof:lastmodified": 1602025682,
+    "wof:name": "Twitter message #451420492889878528",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

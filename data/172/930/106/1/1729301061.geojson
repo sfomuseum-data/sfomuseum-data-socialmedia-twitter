@@ -1,0 +1,157 @@
+{
+  "id": 1729301061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-08-25T18:20:05-07:00",
+    "edtf:inception": "2017-08-25T18:20:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1503710405,
+      "created_at": "Sat Aug 26 01:20:05 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "164"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "12", 
+              "18"
+            ],
+            "text": "Mayan"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/CUxuNExg0C",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/901252877968179201/photo/1",
+            "id": "901252874591760385",
+            "id_str": "901252874591760385",
+            "indices": [
+              "141", 
+              "164"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DIHktuLXcAECKJP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DIHktuLXcAECKJP.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/CUxuNExg0C"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/CUxuNExg0C",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/901252877968179201/photo/1",
+            "id": "901252874591760385",
+            "id_str": "901252874591760385",
+            "indices": [
+              "141", 
+              "164"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DIHktuLXcAECKJP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DIHktuLXcAECKJP.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/CUxuNExg0C"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "Traditional #Mayan weaving is produced on the backstrap loom, a portable device that creates complex work in the hands of a skilled artisan. https://t.co/CUxuNExg0C",
+      "id": "901252877968179201",
+      "id_str": "901252877968179201",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 901252877968179200
+    },
+    "wof:country": "US",
+    "wof:created": 1602026032,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729301061,
+    "wof:lastmodified": 1602026032,
+    "wof:name": "Twitter message #901252877968179201",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

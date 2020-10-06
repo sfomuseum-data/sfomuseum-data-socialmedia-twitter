@@ -1,0 +1,122 @@
+{
+  "id": 1729297263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2011-12-09T09:02:01-08:00",
+    "edtf:inception": "2011-12-09T09:02:01-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1323450121,
+      "created_at": "Fri Dec 09 17:02:01 +0000 2011",
+      "display_text_range": [
+        "0", 
+        "131"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/v9vR9e",
+            "expanded_url": "http://bit.ly/v9vR9e",
+            "indices": [
+              "92", 
+              "112"
+            ],
+            "url": "http://t.co/v23xU1JK"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "76558778",
+            "id_str": "76558778",
+            "indices": [
+              "20", 
+              "34"
+            ],
+            "name": "The Bay Citizen",
+            "screen_name": "TheBayCitizen"
+          }, 
+          {
+            "id": "21543254",
+            "id_str": "21543254",
+            "indices": [
+              "36", 
+              "44"
+            ],
+            "name": "DJ Q*BERT",
+            "screen_name": "DJQbert"
+          }, 
+          {
+            "id": "16408759",
+            "id_str": "16408759",
+            "indices": [
+              "82", 
+              "89"
+            ],
+            "name": "San Francisco International Airport (SFO) ✈️",
+            "screen_name": "flySFO"
+          }, 
+          {
+            "id": "231887259",
+            "id_str": "231887259",
+            "indices": [
+              "118", 
+              "129"
+            ],
+            "name": "Thud Rumble",
+            "screen_name": "ThudRumble"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "AWESOME article via @TheBayCitizen: @DJQbert Attracts Crowd to an Unlikely Venue: @flySFO - http://t.co/v23xU1JK (cc: @ThudRumble )",
+      "id": "145186449552191488",
+      "id_str": "145186449552191488",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 145186449552191500
+    },
+    "wof:country": "US",
+    "wof:created": 1602025891,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729297263,
+    "wof:lastmodified": 1602025891,
+    "wof:name": "Twitter message #145186449552191488",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

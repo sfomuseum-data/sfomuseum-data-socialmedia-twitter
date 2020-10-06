@@ -1,0 +1,171 @@
+{
+  "id": 1729297875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-09-25T10:55:14-07:00",
+    "edtf:inception": "2016-09-25T10:55:14-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1474826114,
+      "created_at": "Sun Sep 25 17:55:14 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "162"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "13"
+            ],
+            "text": "SundayFunday"
+          }, 
+          {
+            "indices": [
+              "69", 
+              "79"
+            ],
+            "text": "OnThisDay"
+          }, 
+          {
+            "indices": [
+              "89", 
+              "95"
+            ],
+            "text": "PanAm"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/4e5rZR9Job",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/780103380286988288/photo/1",
+            "id": "780103376172449798",
+            "id_str": "780103376172449798",
+            "indices": [
+              "139", 
+              "162"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CtN74zDXgAYhz5x.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CtN74zDXgAYhz5x.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1269"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "761"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "431"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/4e5rZR9Job"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/4e5rZR9Job",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/780103380286988288/photo/1",
+            "id": "780103376172449798",
+            "id_str": "780103376172449798",
+            "indices": [
+              "139", 
+              "162"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CtN74zDXgAYhz5x.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CtN74zDXgAYhz5x.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1269"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "761"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "431"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/4e5rZR9Job"
+          }
+        ]
+      },
+      "favorite_count": "7",
+      "favorited": false,
+      "full_text": "#SundayFunday inspiration: There's always sunshine above the clouds! #OnThisDay in 1950, #PanAm acquired American Overseas Airlines (AOA). https://t.co/4e5rZR9Job",
+      "id": "780103380286988288",
+      "id_str": "780103380286988288",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "5",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 780103380286988300
+    },
+    "wof:country": "US",
+    "wof:created": 1602025915,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729297875,
+    "wof:lastmodified": 1602025915,
+    "wof:name": "Twitter message #780103380286988288",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

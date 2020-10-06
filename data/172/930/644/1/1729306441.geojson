@@ -1,0 +1,171 @@
+{
+  "id": 1729306441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-07-08T16:50:05-07:00",
+    "edtf:inception": "2019-07-08T16:50:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1562629805,
+      "created_at": "Mon Jul 08 23:50:05 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "285"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "93", 
+              "103"
+            ],
+            "text": "onthisday"
+          }, 
+          {
+            "indices": [
+              "197", 
+              "211"
+            ],
+            "text": "Stratocruiser"
+          }, 
+          {
+            "indices": [
+              "254", 
+              "261"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/blCWc1PjWX",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1148378752788946945/photo/1",
+            "id": "1148378749915795457",
+            "id_str": "1148378749915795457",
+            "indices": [
+              "262", 
+              "285"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-_cY4BWkAEqe9D.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-_cY4BWkAEqe9D.jpg",
+            "sizes": {
+              "large": {
+                "h": "1604",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "962",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "545",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/blCWc1PjWX"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/blCWc1PjWX",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1148378752788946945/photo/1",
+            "id": "1148378749915795457",
+            "id_str": "1148378749915795457",
+            "indices": [
+              "262", 
+              "285"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-_cY4BWkAEqe9D.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-_cY4BWkAEqe9D.jpg",
+            "sizes": {
+              "large": {
+                "h": "1604",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "962",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "545",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/blCWc1PjWX"
+          }
+        ]
+      },
+      "favorite_count": "167",
+      "favorited": false,
+      "full_text": "Delivered on January 31, 1949, the first flight of Pan American Airway's Boeing 377 took off #onthisday in 1947. Advertisements promoted its exceedingly smooth ride, its large, upper deck, and the #Stratocruiser's unique and luxurious lower-deck lounge. #avgeek https://t.co/blCWc1PjWX",
+      "id": "1148378752788946945",
+      "id_str": "1148378752788946945",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "55",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1148378752788947000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026239,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729306441,
+    "wof:lastmodified": 1602026239,
+    "wof:name": "Twitter message #1148378752788946945",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

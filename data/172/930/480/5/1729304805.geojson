@@ -1,0 +1,171 @@
+{
+  "id": 1729304805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-11-27T19:19:52-08:00",
+    "edtf:inception": "2018-11-27T19:19:52-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1543375192,
+      "created_at": "Wed Nov 28 03:19:52 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "197"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "5", 
+              "14"
+            ],
+            "text": "Alitalia"
+          }, 
+          {
+            "indices": [
+              "124", 
+              "129"
+            ],
+            "text": "Rome"
+          }, 
+          {
+            "indices": [
+              "159", 
+              "173"
+            ],
+            "text": "TravelTuesday"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/bzdrpFwxS5",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1067619052837879809/photo/1",
+            "id": "1067619050686160896",
+            "id_str": "1067619050686160896",
+            "indices": [
+              "174", 
+              "197"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DtDx3r-WoAA0fEz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DtDx3r-WoAA0fEz.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1416"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "850"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "481"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/bzdrpFwxS5"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/bzdrpFwxS5",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1067619052837879809/photo/1",
+            "id": "1067619050686160896",
+            "id_str": "1067619050686160896",
+            "indices": [
+              "174", 
+              "197"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DtDx3r-WoAA0fEz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DtDx3r-WoAA0fEz.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1416"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "850"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "481"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/bzdrpFwxS5"
+          }
+        ]
+      },
+      "favorite_count": "10",
+      "favorited": false,
+      "full_text": "This #Alitalia poster from 1949 advertises services from European, African, and South American destinations to their hub in #Rome. Have you ever been to Rome? #TravelTuesday https://t.co/bzdrpFwxS5",
+      "id": "1067619052837879809",
+      "id_str": "1067619052837879809",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1067619052837879800
+    },
+    "wof:country": "US",
+    "wof:created": 1602026176,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729304805,
+    "wof:lastmodified": 1602026176,
+    "wof:name": "Twitter message #1067619052837879809",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

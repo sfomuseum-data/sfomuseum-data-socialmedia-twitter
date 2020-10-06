@@ -1,0 +1,178 @@
+{
+  "id": 1729300183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-05-26T12:09:37-07:00",
+    "edtf:inception": "2017-05-26T12:09:37-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1495825777,
+      "created_at": "Fri May 26 19:09:37 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "98"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/uT4Ovld7UD",
+            "expanded_url": "https://twitter.com/KLM/status/868104705502793728/photo/1",
+            "id": "868104701031571456",
+            "id_str": "868104701031571456",
+            "indices": [
+              "75", 
+              "98"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DAwgoEzVYAA830K.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DAwgoEzVYAA830K.jpg",
+            "sizes": {
+              "large": {
+                "h": "400",
+                "resize": "fit",
+                "w": "800"
+              },
+              "medium": {
+                "h": "400",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "340",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "868104705502793728",
+            "source_status_id_str": "868104705502793728",
+            "source_user_id": "56377143",
+            "source_user_id_str": "56377143",
+            "type": "photo",
+            "url": "https://t.co/uT4Ovld7UD"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "klmf.ly/2qjzZBZ",
+            "expanded_url": "http://klmf.ly/2qjzZBZ",
+            "indices": [
+              "51", 
+              "74"
+            ],
+            "url": "https://t.co/g1yH4yBnGl"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "56377143",
+            "id_str": "56377143",
+            "indices": [
+              "3", 
+              "7"
+            ],
+            "name": "KLM",
+            "screen_name": "KLM"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/uT4Ovld7UD",
+            "expanded_url": "https://twitter.com/KLM/status/868104705502793728/photo/1",
+            "id": "868104701031571456",
+            "id_str": "868104701031571456",
+            "indices": [
+              "75", 
+              "98"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DAwgoEzVYAA830K.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DAwgoEzVYAA830K.jpg",
+            "sizes": {
+              "large": {
+                "h": "400",
+                "resize": "fit",
+                "w": "800"
+              },
+              "medium": {
+                "h": "400",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "340",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "868104705502793728",
+            "source_status_id_str": "868104705502793728",
+            "source_user_id": "56377143",
+            "source_user_id_str": "56377143",
+            "type": "photo",
+            "url": "https://t.co/uT4Ovld7UD"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @KLM: A quick journey through aviation history: https://t.co/g1yH4yBnGl https://t.co/uT4Ovld7UD",
+      "id": "868182354145181696",
+      "id_str": "868182354145181696",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 868182354145181700
+    },
+    "wof:country": "US",
+    "wof:created": 1602026000,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729300183,
+    "wof:lastmodified": 1602026000,
+    "wof:name": "Twitter message #868182354145181696",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,170 @@
+{
+  "id": 1729297641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-08-26T20:50:06-07:00",
+    "edtf:inception": "2016-08-26T20:50:06-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1472269806,
+      "created_at": "Sat Aug 27 03:50:06 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "136"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "96", 
+              "112"
+            ],
+            "text": "FashionInFlight"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/veiLFBJbAw",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/769381447979438080/photo/1",
+            "id": "769381445307600896",
+            "id_str": "769381445307600896",
+            "indices": [
+              "113", 
+              "136"
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Cq1kWSBWEAA_udz.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cq1kWSBWEAA_udz.jpg",
+            "sizes": {
+              "large": {
+                "h": "1024",
+                "resize": "fit",
+                "w": "682"
+              },
+              "medium": {
+                "h": "1024",
+                "resize": "fit",
+                "w": "682"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/veiLFBJbAw"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/veiLFBJbAw",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/769381447979438080/photo/1",
+            "id": "769381445307600896",
+            "id_str": "769381445307600896",
+            "indices": [
+              "113", 
+              "136"
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Cq1kWSBWEAA_udz.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cq1kWSBWEAA_udz.jpg",
+            "sizes": {
+              "large": {
+                "h": "1024",
+                "resize": "fit",
+                "w": "682"
+              },
+              "medium": {
+                "h": "1024",
+                "resize": "fit",
+                "w": "682"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/veiLFBJbAw",
+            "video_info": {
+              "aspect_ratio": [
+                "341", 
+                "512"
+              ],
+              "variants": [
+                {
+                  "bitrate": "0",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/Cq1kWSBWEAA_udz.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "8",
+      "favorited": false,
+      "full_text": "PSA uniforms of the period included perch hats in red wool felt worn at the side with hat comb. #FashionInFlight https://t.co/veiLFBJbAw",
+      "id": "769381447979438080",
+      "id_str": "769381447979438080",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "5",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 769381447979438100
+    },
+    "wof:country": "US",
+    "wof:created": 1602025906,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729297641,
+    "wof:lastmodified": 1602025906,
+    "wof:name": "Twitter message #769381447979438080",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

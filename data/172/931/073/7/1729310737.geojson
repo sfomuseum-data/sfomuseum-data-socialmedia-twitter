@@ -1,0 +1,92 @@
+{
+  "id": 1729310737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-10-02T10:48:02-07:00",
+    "edtf:inception": "2012-10-02T10:48:02-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1349200082,
+      "created_at": "Tue Oct 02 17:48:02 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "124"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/VpxAgv",
+            "expanded_url": "http://bit.ly/VpxAgv",
+            "indices": [
+              "104", 
+              "124"
+            ],
+            "url": "http://t.co/7WmJS2Rg"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "61870773",
+            "id_str": "61870773",
+            "indices": [
+              "11", 
+              "25"
+            ],
+            "name": "Root Division",
+            "screen_name": "root_division"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "New in T1, @Root_Division's project, \"Paper Bag Houses\" explores immigration's effect on K-5th graders: http://t.co/7WmJS2Rg",
+      "id": "253189614918070273",
+      "id_str": "253189614918070273",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 253189614918070270
+    },
+    "wof:country": "US",
+    "wof:created": 1602026404,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729310737,
+    "wof:lastmodified": 1602026404,
+    "wof:name": "Twitter message #253189614918070273",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

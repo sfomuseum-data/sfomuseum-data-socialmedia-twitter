@@ -1,0 +1,182 @@
+{
+  "id": 1729307535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-12-24T12:00:55-08:00",
+    "edtf:inception": "2019-12-24T12:00:55-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1577217655,
+      "created_at": "Tue Dec 24 20:00:55 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "245"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "71", 
+              "77"
+            ],
+            "text": "Santa"
+          }, 
+          {
+            "indices": [
+              "90", 
+              "100"
+            ],
+            "text": "onthisday"
+          }, 
+          {
+            "indices": [
+              "214", 
+              "221"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/6YzSFszIST",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1209564632169537536/photo/1",
+            "id": "1209564627442515968",
+            "id_str": "1209564627442515968",
+            "indices": [
+              "222", 
+              "245"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EMk8nr-WwAA7QeQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EMk8nr-WwAA7QeQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "904"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "542"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "307"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/6YzSFszIST"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "16460682",
+            "id_str": "16460682",
+            "indices": [
+              "133", 
+              "144"
+            ],
+            "name": "NORAD Tracks Santa",
+            "screen_name": "NoradSanta"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/6YzSFszIST",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1209564632169537536/photo/1",
+            "id": "1209564627442515968",
+            "id_str": "1209564627442515968",
+            "indices": [
+              "222", 
+              "245"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EMk8nr-WwAA7QeQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EMk8nr-WwAA7QeQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "904"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "542"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "307"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/6YzSFszIST"
+          }
+        ]
+      },
+      "favorite_count": "7",
+      "favorited": false,
+      "full_text": "NORAD or the North American Aerospace Defense Command started tracking #Santa’s movements #onthisday in 1955. Follow along this year @NORADSanta. What is a winter holiday tradition you and your loved ones follow?  #avgeek https://t.co/6YzSFszIST",
+      "id": "1209564632169537536",
+      "id_str": "1209564632169537536",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1209564632169537500
+    },
+    "wof:country": "US",
+    "wof:created": 1602026281,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729307535,
+    "wof:lastmodified": 1602026281,
+    "wof:name": "Twitter message #1209564632169537536",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

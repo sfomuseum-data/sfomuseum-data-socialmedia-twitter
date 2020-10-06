@@ -1,0 +1,100 @@
+{
+  "id": 1729310299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-08-07T15:25:25-07:00",
+    "edtf:inception": "2012-08-07T15:25:25-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1344378325,
+      "created_at": "Tue Aug 07 22:25:25 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "126"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "111", 
+              "126"
+            ],
+            "text": "MuseumOlympics"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "nyr.kr/MhT64t",
+            "expanded_url": "http://nyr.kr/MhT64t",
+            "indices": [
+              "18", 
+              "38"
+            ],
+            "url": "http://t.co/UGADalK5"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "14677919",
+            "id_str": "14677919",
+            "indices": [
+              "44", 
+              "54"
+            ],
+            "name": "The New Yorker",
+            "screen_name": "NewYorker"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Odd Olympic jobs? http://t.co/UGADalK5 (via @NewYorker) Wonder what the odd museum job list would look like... #MuseumOlympics",
+      "id": "232965699751002113",
+      "id_str": "232965699751002113",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 232965699751002100
+    },
+    "wof:country": "US",
+    "wof:created": 1602026388,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729310299,
+    "wof:lastmodified": 1602026388,
+    "wof:name": "Twitter message #232965699751002113",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

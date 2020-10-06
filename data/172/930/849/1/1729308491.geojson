@@ -1,0 +1,171 @@
+{
+  "id": 1729308491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-05-26T12:01:15-07:00",
+    "edtf:inception": "2020-05-26T12:01:15-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1590519675,
+      "created_at": "Tue May 26 19:01:15 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "289"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "230", 
+              "241"
+            ],
+            "text": "SFOHistory"
+          }, 
+          {
+            "indices": [
+              "242", 
+              "249"
+            ],
+            "text": "avgeek"
+          }, 
+          {
+            "indices": [
+              "250", 
+              "265"
+            ],
+            "text": "MuseumFromHome"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7THjvMxU4z",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1265357349402882049/photo/1",
+            "id": "1265357345766477824",
+            "id_str": "1265357345766477824",
+            "indices": [
+              "266", 
+              "289"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EY9zzURXkAAKrx2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EY9zzURXkAAKrx2.jpg",
+            "sizes": {
+              "large": {
+                "h": "1979",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1187",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "673",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/7THjvMxU4z"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7THjvMxU4z",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1265357349402882049/photo/1",
+            "id": "1265357345766477824",
+            "id_str": "1265357345766477824",
+            "indices": [
+              "266", 
+              "289"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EY9zzURXkAAKrx2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EY9zzURXkAAKrx2.jpg",
+            "sizes": {
+              "large": {
+                "h": "1979",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1187",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "673",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/7THjvMxU4z"
+          }
+        ]
+      },
+      "favorite_count": "25",
+      "favorited": false,
+      "full_text": "Did you know that in the 1960s there was a heliport next to the Ferry Building in San Francisco? From the 1960s to the 1980s, SFO Helicopter Airlines operated local helicopter flights from SFO to destinations around the Bay Area. #SFOHistory #avgeek #MuseumFromHome https://t.co/7THjvMxU4z",
+      "id": "1265357349402882049",
+      "id_str": "1265357349402882049",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "9",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1265357349402882000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026317,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729308491,
+    "wof:lastmodified": 1602026317,
+    "wof:name": "Twitter message #1265357349402882049",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

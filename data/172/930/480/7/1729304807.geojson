@@ -1,0 +1,164 @@
+{
+  "id": 1729304807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-11-23T11:00:52-08:00",
+    "edtf:inception": "2018-11-23T11:00:52-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1542999652,
+      "created_at": "Fri Nov 23 19:00:52 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "244"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "18"
+            ],
+            "text": "HappyThanksgiving"
+          }, 
+          {
+            "indices": [
+              "204", 
+              "220"
+            ],
+            "text": "behindthescenes"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TDwccuQJH6",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1066043926669344768/photo/1",
+            "id": "1066043924131840002",
+            "id_str": "1066043924131840002",
+            "indices": [
+              "221", 
+              "244"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DstZTQTXgAIMxHw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DstZTQTXgAIMxHw.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1500"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/TDwccuQJH6"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TDwccuQJH6",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1066043926669344768/photo/1",
+            "id": "1066043924131840002",
+            "id_str": "1066043924131840002",
+            "indices": [
+              "221", 
+              "244"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DstZTQTXgAIMxHw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DstZTQTXgAIMxHw.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1500"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/TDwccuQJH6"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "#HappyThanksgiving! This year, SFO Museum is thankful for our new office and storage building. One of our favorite additions is the 16-foot high compacting shelving units in our collections storage room. #behindthescenes https://t.co/TDwccuQJH6",
+      "id": "1066043926669344768",
+      "id_str": "1066043926669344768",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1066043926669344800
+    },
+    "wof:country": "US",
+    "wof:created": 1602026177,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729304807,
+    "wof:lastmodified": 1602026177,
+    "wof:name": "Twitter message #1066043926669344768",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

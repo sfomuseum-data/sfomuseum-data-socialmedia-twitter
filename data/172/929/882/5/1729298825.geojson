@@ -1,0 +1,157 @@
+{
+  "id": 1729298825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-12-13T19:10:08-08:00",
+    "edtf:inception": "2016-12-13T19:10:08-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1481685008,
+      "created_at": "Wed Dec 14 03:10:08 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "158"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "120", 
+              "134"
+            ],
+            "text": "TravelTuesday"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/EGHC6kTlbH",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/808871669767045122/photo/1",
+            "id": "808871664943558656",
+            "id_str": "808871664943558656",
+            "indices": [
+              "135", 
+              "158"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CzmwfmHW8AAhf7p.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzmwfmHW8AAhf7p.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/EGHC6kTlbH"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/EGHC6kTlbH",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/808871669767045122/photo/1",
+            "id": "808871664943558656",
+            "id_str": "808871664943558656",
+            "indices": [
+              "135", 
+              "158"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CzmwfmHW8AAhf7p.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzmwfmHW8AAhf7p.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/EGHC6kTlbH"
+          }
+        ]
+      },
+      "favorite_count": "12",
+      "favorited": false,
+      "full_text": "In the 1940s Western Air Lines began to operate routes to SF. Did you ever fly on Western Air Lines? Where did you fly? #TravelTuesday https://t.co/EGHC6kTlbH",
+      "id": "808871669767045122",
+      "id_str": "808871669767045122",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 808871669767045100
+    },
+    "wof:country": "US",
+    "wof:created": 1602025950,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729298825,
+    "wof:lastmodified": 1602025950,
+    "wof:name": "Twitter message #808871669767045122",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

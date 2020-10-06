@@ -1,0 +1,175 @@
+{
+  "id": 1729295895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-05-05T17:00:16-07:00",
+    "edtf:inception": "2016-05-05T17:00:16-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1462492816,
+      "created_at": "Fri May 06 00:00:16 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "121"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "81", 
+              "92"
+            ],
+            "text": "SFOHistory"
+          }, 
+          {
+            "indices": [
+              "93", 
+              "97"
+            ],
+            "text": "TBT"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PeLMgvFLTT",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/728373781790625793/photo/1",
+            "id": "728373781153075202",
+            "id_str": "728373781153075202",
+            "indices": [
+              "98", 
+              "121"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Chu0GElWUAIXBRX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Chu0GElWUAIXBRX.jpg",
+            "sizes": {
+              "large": {
+                "h": "1029",
+                "resize": "fit",
+                "w": "1596"
+              },
+              "medium": {
+                "h": "774",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "438",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PeLMgvFLTT"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "260907612",
+            "id_str": "260907612",
+            "indices": [
+              "2", 
+              "9"
+            ],
+            "name": "United Airlines",
+            "screen_name": "united"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PeLMgvFLTT",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/728373781790625793/photo/1",
+            "id": "728373781153075202",
+            "id_str": "728373781153075202",
+            "indices": [
+              "98", 
+              "121"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Chu0GElWUAIXBRX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Chu0GElWUAIXBRX.jpg",
+            "sizes": {
+              "large": {
+                "h": "1029",
+                "resize": "fit",
+                "w": "1596"
+              },
+              "medium": {
+                "h": "774",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "438",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PeLMgvFLTT"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "A @united Boeing 247 at \"San Francisco's Busy Airport, Mills Field,\" circa 1935. #SFOHistory #TBT https://t.co/PeLMgvFLTT",
+      "id": "728373781790625793",
+      "id_str": "728373781790625793",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "4",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 728373781790625800
+    },
+    "wof:country": "US",
+    "wof:created": 1602025836,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729295895,
+    "wof:lastmodified": 1602025836,
+    "wof:name": "Twitter message #728373781790625793",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

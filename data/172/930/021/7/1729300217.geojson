@@ -1,0 +1,178 @@
+{
+  "id": 1729300217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-05-19T16:14:36-07:00",
+    "edtf:inception": "2017-05-19T16:14:36-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1495235676,
+      "created_at": "Fri May 19 23:14:36 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "121"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/gpiJ7IKmDX",
+            "expanded_url": "https://twitter.com/CNTraveler/status/865296046246809601/photo/1",
+            "id": "865296042828472320",
+            "id_str": "865296042828472320",
+            "indices": [
+              "98", 
+              "121"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DAImKppXoAAQtAY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DAImKppXoAAQtAY.jpg",
+            "sizes": {
+              "large": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "865296046246809601",
+            "source_status_id_str": "865296046246809601",
+            "source_user_id": "17219108",
+            "source_user_id_str": "17219108",
+            "type": "photo",
+            "url": "https://t.co/gpiJ7IKmDX"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "cntrvlr.co/1azzPAh",
+            "expanded_url": "http://cntrvlr.co/1azzPAh",
+            "indices": [
+              "74", 
+              "97"
+            ],
+            "url": "https://t.co/UpootLo12g"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "17219108",
+            "id_str": "17219108",
+            "indices": [
+              "3", 
+              "14"
+            ],
+            "name": "Condé Nast Traveler",
+            "screen_name": "CNTraveler"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/gpiJ7IKmDX",
+            "expanded_url": "https://twitter.com/CNTraveler/status/865296046246809601/photo/1",
+            "id": "865296042828472320",
+            "id_str": "865296042828472320",
+            "indices": [
+              "98", 
+              "121"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DAImKppXoAAQtAY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DAImKppXoAAQtAY.jpg",
+            "sizes": {
+              "large": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "865296046246809601",
+            "source_status_id_str": "865296046246809601",
+            "source_user_id": "17219108",
+            "source_user_id_str": "17219108",
+            "type": "photo",
+            "url": "https://t.co/gpiJ7IKmDX"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @CNTraveler: 11 tips for sleeping well on a plane (yes, it's possible) https://t.co/UpootLo12g https://t.co/gpiJ7IKmDX",
+      "id": "865707287863808000",
+      "id_str": "865707287863808000",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 865707287863808000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026001,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729300217,
+    "wof:lastmodified": 1602026001,
+    "wof:name": "Twitter message #865707287863808000",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

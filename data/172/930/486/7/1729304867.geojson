@@ -1,0 +1,159 @@
+{
+  "id": 1729304867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-12-02T11:00:35-08:00",
+    "edtf:inception": "2018-12-02T11:00:35-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1543777235,
+      "created_at": "Sun Dec 02 19:00:35 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "262"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/dqeeijS9Js",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1069305345384820736/photo/1",
+            "id": "1069305343447130113",
+            "id_str": "1069305343447130113",
+            "indices": [
+              "239", 
+              "262"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dtbvi2CX4AEw47R.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dtbvi2CX4AEw47R.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "960"
+              },
+              "medium": {
+                "h": "720",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/dqeeijS9Js"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2BJNsqB",
+            "expanded_url": "http://bit.ly/2BJNsqB",
+            "indices": [
+              "215", 
+              "238"
+            ],
+            "url": "https://t.co/9ksPoRIcw2"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/dqeeijS9Js",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1069305345384820736/photo/1",
+            "id": "1069305343447130113",
+            "id_str": "1069305343447130113",
+            "indices": [
+              "239", 
+              "262"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dtbvi2CX4AEw47R.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dtbvi2CX4AEw47R.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "960"
+              },
+              "medium": {
+                "h": "720",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/dqeeijS9Js"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "NEW BLOG POST: Dear Eric, Mr. Staller, Your Emperor of Creative Genius. \n\nWe recently received this letter from the parents of a delighted young traveler, and share it with their permission. Read more on our blog:  https://t.co/9ksPoRIcw2 https://t.co/dqeeijS9Js",
+      "id": "1069305345384820736",
+      "id_str": "1069305345384820736",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1069305345384820700
+    },
+    "wof:country": "US",
+    "wof:created": 1602026179,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729304867,
+    "wof:lastmodified": 1602026179,
+    "wof:name": "Twitter message #1069305345384820736",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

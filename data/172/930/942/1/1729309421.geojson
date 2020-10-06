@@ -1,0 +1,89 @@
+{
+  "id": 1729309421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-04-27T11:39:04-07:00",
+    "edtf:inception": "2012-04-27T11:39:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1335551944,
+      "created_at": "Fri Apr 27 18:39:04 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "134"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "126", 
+              "134"
+            ],
+            "text": "AVgeeks"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "yfrog.com/kh7lfnyj",
+            "expanded_url": "http://yfrog.com/kh7lfnyj",
+            "indices": [
+              "105", 
+              "125"
+            ],
+            "url": "http://t.co/jo0pALpC"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "The now-defunct Sabena's wardrobe tips for 1965's ladies included packing 2 nylon girdles (total = 1lb): http://t.co/jo0pALpC #AVgeeks",
+      "id": "195945174088679424",
+      "id_str": "195945174088679424",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 195945174088679420
+    },
+    "wof:country": "US",
+    "wof:created": 1602026353,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729309421,
+    "wof:lastmodified": 1602026353,
+    "wof:name": "Twitter message #195945174088679424",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

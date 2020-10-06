@@ -1,0 +1,157 @@
+{
+  "id": 1729301353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-10-05T15:05:11-07:00",
+    "edtf:inception": "2017-10-05T15:05:11-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1507241111,
+      "created_at": "Thu Oct 05 22:05:11 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "161"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "119", 
+              "137"
+            ],
+            "text": "empoweringthreads"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7A4Q3mOd2a",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/916061735450304513/photo/1",
+            "id": "916061725954158592",
+            "id_str": "916061725954158592",
+            "indices": [
+              "138", 
+              "161"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DLaBSUfUMAAPNGj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DLaBSUfUMAAPNGj.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1500"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/7A4Q3mOd2a"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7A4Q3mOd2a",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/916061735450304513/photo/1",
+            "id": "916061725954158592",
+            "id_str": "916061725954158592",
+            "indices": [
+              "138", 
+              "161"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DLaBSUfUMAAPNGj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DLaBSUfUMAAPNGj.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1500"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/7A4Q3mOd2a"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "For centuries, women in San Andrés have woven textiles on backstrap looms, like those used in the Classic Maya Period. #empoweringthreads https://t.co/7A4Q3mOd2a",
+      "id": "916061735450304513",
+      "id_str": "916061735450304513",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 916061735450304500
+    },
+    "wof:country": "US",
+    "wof:created": 1602026043,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729301353,
+    "wof:lastmodified": 1602026043,
+    "wof:name": "Twitter message #916061735450304513",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1729312109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2013-06-06T12:44:53-07:00",
+    "edtf:inception": "2013-06-06T12:44:53-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1370547893,
+      "created_at": "Thu Jun 06 19:44:53 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "133"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/lMEEA",
+            "expanded_url": "http://ow.ly/lMEEA",
+            "indices": [
+              "86", 
+              "108"
+            ],
+            "url": "http://t.co/xrfhhpIZHw"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "The uniqueness of mid-century San Francisco is on display in Fred Lyon's photography: http://t.co/xrfhhpIZHw  On view in T2, pre-TSA.",
+      "id": "342728821470011392",
+      "id_str": "342728821470011392",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 342728821470011400
+    },
+    "wof:country": "US",
+    "wof:created": 1602026459,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729312109,
+    "wof:lastmodified": 1602026459,
+    "wof:name": "Twitter message #342728821470011392",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

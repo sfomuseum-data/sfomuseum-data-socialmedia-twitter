@@ -1,0 +1,157 @@
+{
+  "id": 1729303427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-06-08T17:05:04-07:00",
+    "edtf:inception": "2018-06-08T17:05:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1528502704,
+      "created_at": "Sat Jun 09 00:05:04 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "230"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "199", 
+              "206"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/eKCuqnYAGa",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1005239316736561152/photo/1",
+            "id": "1005239314366779392",
+            "id_str": "1005239314366779392",
+            "indices": [
+              "207", 
+              "230"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DfNT1JcW0AAA-hD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DfNT1JcW0AAA-hD.jpg",
+            "sizes": {
+              "large": {
+                "h": "1591",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "955",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "541",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/eKCuqnYAGa"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/eKCuqnYAGa",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1005239316736561152/photo/1",
+            "id": "1005239314366779392",
+            "id_str": "1005239314366779392",
+            "indices": [
+              "207", 
+              "230"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DfNT1JcW0AAA-hD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DfNT1JcW0AAA-hD.jpg",
+            "sizes": {
+              "large": {
+                "h": "1591",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "955",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "541",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/eKCuqnYAGa"
+          }
+        ]
+      },
+      "favorite_count": "13",
+      "favorited": false,
+      "full_text": "In the 1940s, carriers enlisted child participation in the flight by making them part of a junior flight crew, while also encouraging them to imagine a possible future career in commercial aviation. #avgeek https://t.co/eKCuqnYAGa",
+      "id": "1005239316736561152",
+      "id_str": "1005239316736561152",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1005239316736561200
+    },
+    "wof:country": "US",
+    "wof:created": 1602026123,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729303427,
+    "wof:lastmodified": 1602026123,
+    "wof:name": "Twitter message #1005239316736561152",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,164 @@
+{
+  "id": 1729304121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-09-09T11:00:37-07:00",
+    "edtf:inception": "2018-09-09T11:00:37-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1536516037,
+      "created_at": "Sun Sep 09 18:00:37 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "288"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "43", 
+              "54"
+            ],
+            "text": "California"
+          }, 
+          {
+            "indices": [
+              "240", 
+              "264"
+            ],
+            "text": "HappyBirthdayCalifornia"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rPo7qOz4X1",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1038849671328944128/photo/1",
+            "id": "1038849665448402945",
+            "id_str": "1038849665448402945",
+            "indices": [
+              "265", 
+              "288"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dmq8REQV4AEKgeB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dmq8REQV4AEKgeB.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "888"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "533"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "302"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rPo7qOz4X1"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rPo7qOz4X1",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1038849671328944128/photo/1",
+            "id": "1038849665448402945",
+            "id_str": "1038849665448402945",
+            "indices": [
+              "265", 
+              "288"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dmq8REQV4AEKgeB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dmq8REQV4AEKgeB.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "888"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "533"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "302"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rPo7qOz4X1"
+          }
+        ]
+      },
+      "favorite_count": "19",
+      "favorited": false,
+      "full_text": "Happy 168th birthday to our great state of #California! Air California was founded in 1965 by a group of Orange County businessmen and started service in 1967 with Lockheed L-188 Electras, like this one. Did you ever fly on Air California? #HappyBirthdayCalifornia https://t.co/rPo7qOz4X1",
+      "id": "1038849671328944128",
+      "id_str": "1038849671328944128",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1038849671328944100
+    },
+    "wof:country": "US",
+    "wof:created": 1602026151,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729304121,
+    "wof:lastmodified": 1602026151,
+    "wof:name": "Twitter message #1038849671328944128",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

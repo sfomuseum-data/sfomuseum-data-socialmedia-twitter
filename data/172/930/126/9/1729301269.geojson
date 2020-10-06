@@ -1,0 +1,171 @@
+{
+  "id": 1729301269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-09-29T20:00:23-07:00",
+    "edtf:inception": "2017-09-29T20:00:23-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1506740423,
+      "created_at": "Sat Sep 30 03:00:23 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "139"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "34", 
+              "38"
+            ],
+            "text": "TWA"
+          }, 
+          {
+            "indices": [
+              "59", 
+              "70"
+            ],
+            "text": "travelogue"
+          }, 
+          {
+            "indices": [
+              "108", 
+              "115"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/sfmkCzaAjR",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/913961697345490944/photo/1",
+            "id": "913961693872566274",
+            "id_str": "913961693872566274",
+            "indices": [
+              "116", 
+              "139"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DK8LUXWWsAI4PAp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DK8LUXWWsAI4PAp.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "901"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "541"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "306"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/sfmkCzaAjR"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/sfmkCzaAjR",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/913961697345490944/photo/1",
+            "id": "913961693872566274",
+            "id_str": "913961693872566274",
+            "indices": [
+              "116", 
+              "139"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DK8LUXWWsAI4PAp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DK8LUXWWsAI4PAp.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "901"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "541"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "306"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/sfmkCzaAjR"
+          }
+        ]
+      },
+      "favorite_count": "8",
+      "favorited": false,
+      "full_text": "In the 1950s, before the jet age, #TWA produced full color #travelogue films to promote their destinations. #avgeek https://t.co/sfmkCzaAjR",
+      "id": "913961697345490944",
+      "id_str": "913961697345490944",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "8",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 913961697345491000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026040,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729301269,
+    "wof:lastmodified": 1602026040,
+    "wof:name": "Twitter message #913961697345490944",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,182 @@
+{
+  "id": 1729299365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-02-17T09:35:14-08:00",
+    "edtf:inception": "2017-02-17T09:35:14-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1487352914,
+      "created_at": "Fri Feb 17 17:35:14 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "113"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "14"
+            ],
+            "text": "HappyBirthday"
+          }, 
+          {
+            "indices": [
+              "65", 
+              "75"
+            ],
+            "text": "onthisday"
+          }, 
+          {
+            "indices": [
+              "85", 
+              "89"
+            ],
+            "text": "HBD"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/r8oaGk54sL",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/832644588670181376/photo/1",
+            "id": "832644584324739076",
+            "id_str": "832644584324739076",
+            "indices": [
+              "90", 
+              "113"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C44l1oDUMAQz9Ql.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C44l1oDUMAQz9Ql.jpg",
+            "sizes": {
+              "large": {
+                "h": "1312",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "787",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "446",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/r8oaGk54sL"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "17055388",
+            "id_str": "17055388",
+            "indices": [
+              "18", 
+              "33"
+            ],
+            "name": "Asiana Airlines",
+            "screen_name": "AsianaAirlines"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/r8oaGk54sL",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/832644588670181376/photo/1",
+            "id": "832644584324739076",
+            "id_str": "832644584324739076",
+            "indices": [
+              "90", 
+              "113"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C44l1oDUMAQz9Ql.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C44l1oDUMAQz9Ql.jpg",
+            "sizes": {
+              "large": {
+                "h": "1312",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "787",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "446",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/r8oaGk54sL"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "#HappyBirthday to @AsianaAirlines! The Korean airline was formed #onthisday in 1988. #HBD https://t.co/r8oaGk54sL",
+      "id": "832644588670181376",
+      "id_str": "832644588670181376",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 832644588670181400
+    },
+    "wof:country": "US",
+    "wof:created": 1602025969,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729299365,
+    "wof:lastmodified": 1602025969,
+    "wof:name": "Twitter message #832644588670181376",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

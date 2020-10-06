@@ -1,0 +1,157 @@
+{
+  "id": 1729307797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-01-28T10:45:05-08:00",
+    "edtf:inception": "2020-01-28T10:45:05-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1580237105,
+      "created_at": "Tue Jan 28 18:45:05 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "308"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "277", 
+              "284"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/f6sp7mEQZ2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1222229122992295939/photo/1",
+            "id": "1222229118953103361",
+            "id_str": "1222229118953103361",
+            "indices": [
+              "285", 
+              "308"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EPY66HVWoAEeJnE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EPY66HVWoAEeJnE.jpg",
+            "sizes": {
+              "large": {
+                "h": "1274",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "764",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "433",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/f6sp7mEQZ2"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/f6sp7mEQZ2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1222229122992295939/photo/1",
+            "id": "1222229118953103361",
+            "id_str": "1222229118953103361",
+            "indices": [
+              "285", 
+              "308"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EPY66HVWoAEeJnE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EPY66HVWoAEeJnE.jpg",
+            "sizes": {
+              "large": {
+                "h": "1274",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "764",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "433",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/f6sp7mEQZ2"
+          }
+        ]
+      },
+      "favorite_count": "24",
+      "favorited": false,
+      "full_text": "In 1969, Aero Commuter acquired Golden West Airlines, took its name, \u0026amp; serviced over 20 California cities. By the mid-1970s, it was carrying the 2nd largest volume of commuter passengers in the U.S. The airline operated until 1983. Did you ever fly on Golden West Airlines?#avgeek https://t.co/f6sp7mEQZ2",
+      "id": "1222229122992295939",
+      "id_str": "1222229122992295939",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "6",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1222229122992296000
+    },
+    "wof:country": "US",
+    "wof:created": 1602026291,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729307797,
+    "wof:lastmodified": 1602026291,
+    "wof:name": "Twitter message #1222229122992295939",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

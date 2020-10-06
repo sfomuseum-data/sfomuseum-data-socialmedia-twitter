@@ -1,0 +1,89 @@
+{
+  "id": 1729311811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2013-04-17T09:18:28-07:00",
+    "edtf:inception": "2013-04-17T09:18:28-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1366215508,
+      "created_at": "Wed Apr 17 16:18:28 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "81"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "20", 
+              "31"
+            ],
+            "text": "MuseumLove"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "10716292",
+            "id_str": "10716292",
+            "indices": [
+              "35", 
+              "49"
+            ],
+            "name": "Exploratorium",
+            "screen_name": "exploratorium"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Congratulations and #MuseumLove to @exploratorium on your opening day at Pier 15!",
+      "id": "324557480778678272",
+      "id_str": "324557480778678272",
+      "lang": "en",
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 324557480778678300
+    },
+    "wof:country": "US",
+    "wof:created": 1602026447,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729311811,
+    "wof:lastmodified": 1602026447,
+    "wof:name": "Twitter message #324557480778678272",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

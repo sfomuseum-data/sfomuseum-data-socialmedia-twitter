@@ -1,0 +1,112 @@
+{
+  "id": 1729311695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2013-03-27T14:22:40-07:00",
+    "edtf:inception": "2013-03-27T14:22:40-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1364419360,
+      "created_at": "Wed Mar 27 21:22:40 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "146"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "wired.com/design/2013/03…",
+            "expanded_url": "http://www.wired.com/design/2013/03/sequined-displays/",
+            "indices": [
+              "87", 
+              "109"
+            ],
+            "url": "http://t.co/RZXgn9F6Qn"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "1344951",
+            "id_str": "1344951",
+            "indices": [
+              "114", 
+              "120"
+            ],
+            "name": "WIRED",
+            "screen_name": "WIRED"
+          }, 
+          {
+            "id": "15640533",
+            "id_str": "15640533",
+            "indices": [
+              "127", 
+              "134"
+            ],
+            "name": "SFBART",
+            "screen_name": "SFBART"
+          }, 
+          {
+            "id": "18958334",
+            "id_str": "18958334",
+            "indices": [
+              "141", 
+              "146"
+            ],
+            "name": "SF Arts Commission",
+            "screen_name": "SFAC"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Awesome. \"What you'd get if you crossed Georges Seurat \u0026amp; Elvis' costume designer.\" http://t.co/RZXgn9F6Qn Via @wired \u0026amp; @SFBART.  cc: @SFAC",
+      "id": "317023892856266752",
+      "id_str": "317023892856266752",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 317023892856266750
+    },
+    "wof:country": "US",
+    "wof:created": 1602026442,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729311695,
+    "wof:lastmodified": 1602026442,
+    "wof:name": "Twitter message #317023892856266752",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

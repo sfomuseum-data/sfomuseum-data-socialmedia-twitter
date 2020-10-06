@@ -1,0 +1,81 @@
+{
+  "id": 1729297217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2011-12-13T10:35:18-08:00",
+    "edtf:inception": "2011-12-13T10:35:18-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1323801318,
+      "created_at": "Tue Dec 13 18:35:18 +0000 2011",
+      "display_text_range": [
+        "0", 
+        "133"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/7Y1OO",
+            "expanded_url": "http://ow.ly/7Y1OO",
+            "indices": [
+              "113", 
+              "133"
+            ],
+            "url": "http://t.co/Sfj3ltv0"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "While automata bear the name of one workshop, they were often the result of many skilled \u0026 specialized artisans. http://t.co/Sfj3ltv0",
+      "id": "146659475389038593",
+      "id_str": "146659475389038593",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 146659475389038600
+    },
+    "wof:country": "US",
+    "wof:created": 1602025889,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729297217,
+    "wof:lastmodified": 1602025889,
+    "wof:name": "Twitter message #146659475389038593",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

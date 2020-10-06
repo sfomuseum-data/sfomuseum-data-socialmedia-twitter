@@ -1,0 +1,178 @@
+{
+  "id": 1729306955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2019-09-16T12:56:33-07:00",
+    "edtf:inception": "2019-09-16T12:56:33-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1568663793,
+      "created_at": "Mon Sep 16 19:56:33 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "242"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "10"
+            ],
+            "text": "OnThisDay"
+          }, 
+          {
+            "indices": [
+              "178", 
+              "189"
+            ],
+            "text": "SFOHistory"
+          }, 
+          {
+            "indices": [
+              "190", 
+              "200"
+            ],
+            "text": "SFHistory"
+          }, 
+          {
+            "indices": [
+              "201", 
+              "218"
+            ],
+            "text": "CharlesLindbergh"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0S67etawCE",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1173687135351779333/photo/1",
+            "id": "1173687131543236608",
+            "id_str": "1173687131543236608",
+            "indices": [
+              "219", 
+              "242"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EEnGOkkU8AAFTtl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EEnGOkkU8AAFTtl.jpg",
+            "sizes": {
+              "large": {
+                "h": "1252",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "751",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "426",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/0S67etawCE"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0S67etawCE",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1173687135351779333/photo/1",
+            "id": "1173687131543236608",
+            "id_str": "1173687131543236608",
+            "indices": [
+              "219", 
+              "242"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EEnGOkkU8AAFTtl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EEnGOkkU8AAFTtl.jpg",
+            "sizes": {
+              "large": {
+                "h": "1252",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "751",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "426",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/0S67etawCE"
+          }
+        ]
+      },
+      "favorite_count": "18",
+      "favorited": false,
+      "full_text": "#OnThisDay in 1927, Charles Lindbergh landed his Ryan NYP \"Spirit of St. Louis\" at Mills Field. San Francisco celebrated the famous aviator by declaring the day “Lindbergh Day.\" #SFOHistory #SFHistory #CharlesLindbergh https://t.co/0S67etawCE",
+      "id": "1173687135351779333",
+      "id_str": "1173687135351779333",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "5",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1173687135351779300
+    },
+    "wof:country": "US",
+    "wof:created": 1602026259,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729306955,
+    "wof:lastmodified": 1602026259,
+    "wof:name": "Twitter message #1173687135351779333",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

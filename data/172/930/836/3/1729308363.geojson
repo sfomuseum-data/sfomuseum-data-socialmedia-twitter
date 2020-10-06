@@ -1,0 +1,96 @@
+{
+  "id": 1729308363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-02-27T10:30:46-08:00",
+    "edtf:inception": "2012-02-27T10:30:46-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1330367446,
+      "created_at": "Mon Feb 27 18:30:46 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "138"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "35", 
+              "43"
+            ],
+            "text": "museums"
+          }, 
+          {
+            "indices": [
+              "122", 
+              "138"
+            ],
+            "text": "museumsadvocacy"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "366678968",
+            "id_str": "366678968",
+            "indices": [
+              "10", 
+              "26"
+            ],
+            "name": "Lotus the Hippo",
+            "screen_name": "Lotus_The_Hippo"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "YES!!! RT @Lotus_The_Hippo: I love #museums because they jumpstart the imagination and open your eyes to the larger world #museumsadvocacy",
+      "id": "174199812479135744",
+      "id_str": "174199812479135744",
+      "lang": "en",
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 174199812479135740
+    },
+    "wof:country": "US",
+    "wof:created": 1602026312,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729308363,
+    "wof:lastmodified": 1602026312,
+    "wof:name": "Twitter message #174199812479135744",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

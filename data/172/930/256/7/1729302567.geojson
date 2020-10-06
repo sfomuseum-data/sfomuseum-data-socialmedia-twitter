@@ -1,0 +1,157 @@
+{
+  "id": 1729302567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-03-04T12:00:22-08:00",
+    "edtf:inception": "2018-03-04T12:00:22-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1520193622,
+      "created_at": "Sun Mar 04 20:00:22 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "248"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "173", 
+              "185"
+            ],
+            "text": "AntoineBruy"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zoYWvIJnvL",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/970388501261881349/photo/1",
+            "id": "970388497390424064",
+            "id_str": "970388497390424064",
+            "indices": [
+              "225", 
+              "248"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DXeDMnEU0AAD7e-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DXeDMnEU0AAD7e-.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zoYWvIJnvL"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zoYWvIJnvL",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/970388501261881349/photo/1",
+            "id": "970388497390424064",
+            "id_str": "970388497390424064",
+            "indices": [
+              "225", 
+              "248"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DXeDMnEU0AAD7e-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DXeDMnEU0AAD7e-.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zoYWvIJnvL"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Using the World Wide Opportunities on Organic Farms (WWOOF) network to locate individuals and communities practicing subsistence farming and using renewable energy sources, #AntoineBruy visited people living in remote areas. https://t.co/zoYWvIJnvL",
+      "id": "970388501261881349",
+      "id_str": "970388501261881349",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 970388501261881300
+    },
+    "wof:country": "US",
+    "wof:created": 1602026088,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729302567,
+    "wof:lastmodified": 1602026088,
+    "wof:name": "Twitter message #970388501261881349",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

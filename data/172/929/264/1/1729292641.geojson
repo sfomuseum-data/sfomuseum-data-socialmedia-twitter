@@ -1,0 +1,86 @@
+{
+  "id": 1729292641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2014-10-17T17:41:01-07:00",
+    "edtf:inception": "2014-10-17T17:41:01-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1413592861,
+      "created_at": "Sat Oct 18 00:41:01 +0000 2014",
+      "display_text_range": [
+        "0", 
+        "126"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "38446941",
+            "id_str": "38446941",
+            "indices": [
+              "0", 
+              "10"
+            ],
+            "name": "🕸this witch is voting #YesOn15🕸",
+            "screen_name": "alli_rico"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@alli_rico Our collection focus is commercial aviation, so only av exhibits feature permanent collection objects. And thanks!!",
+      "id": "523272505834758144",
+      "id_str": "523272505834758144",
+      "in_reply_to_screen_name": "alli_rico",
+      "in_reply_to_status_id": "523272023490195456",
+      "in_reply_to_status_id_str": "523272023490195456",
+      "in_reply_to_user_id": "38446941",
+      "in_reply_to_user_id_str": "38446941",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 523272505834758140
+    },
+    "wof:country": "US",
+    "wof:created": 1602025716,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729292641,
+    "wof:lastmodified": 1602025716,
+    "wof:name": "Twitter message #523272505834758144",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

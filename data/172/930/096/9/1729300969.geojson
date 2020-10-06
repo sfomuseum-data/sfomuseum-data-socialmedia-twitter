@@ -1,0 +1,188 @@
+{
+  "id": 1729300969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-08-21T12:11:47-07:00",
+    "edtf:inception": "2017-08-21T12:11:47-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1503342707,
+      "created_at": "Mon Aug 21 19:11:47 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "133"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vIsBMMBvsk",
+            "expanded_url": "https://twitter.com/sfchronicle/status/899594432911159297/photo/1",
+            "id": "898988726759563265",
+            "id_str": "898988726759563265",
+            "indices": [
+              "110", 
+              "133"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DHnZe-OVoAE25KC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DHnZe-OVoAE25KC.jpg",
+            "sizes": {
+              "large": {
+                "h": "521",
+                "resize": "fit",
+                "w": "994"
+              },
+              "medium": {
+                "h": "521",
+                "resize": "fit",
+                "w": "994"
+              },
+              "small": {
+                "h": "356",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "899594432911159297",
+            "source_status_id_str": "899594432911159297",
+            "source_user_id": "121597316",
+            "source_user_id_str": "121597316",
+            "type": "photo",
+            "url": "https://t.co/vIsBMMBvsk"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "sfchronicle.com/travel/article…",
+            "expanded_url": "http://www.sfchronicle.com/travel/article/SFO-Museum-a-good-place-to-land-for-art-on-the-fly-11823767.php\u0026cmpid=twitter-premium",
+            "indices": [
+              "69", 
+              "92"
+            ],
+            "url": "https://t.co/PHTORlXyfp"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "121597316",
+            "id_str": "121597316",
+            "indices": [
+              "3", 
+              "15"
+            ],
+            "name": "San Francisco Chronicle",
+            "screen_name": "sfchronicle"
+          }, 
+          {
+            "id": "2955306541",
+            "id_str": "2955306541",
+            "indices": [
+              "97", 
+              "109"
+            ],
+            "name": "Steve Rubenstein",
+            "screen_name": "SteveRubeSF"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vIsBMMBvsk",
+            "expanded_url": "https://twitter.com/sfchronicle/status/899594432911159297/photo/1",
+            "id": "898988726759563265",
+            "id_str": "898988726759563265",
+            "indices": [
+              "110", 
+              "133"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DHnZe-OVoAE25KC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DHnZe-OVoAE25KC.jpg",
+            "sizes": {
+              "large": {
+                "h": "521",
+                "resize": "fit",
+                "w": "994"
+              },
+              "medium": {
+                "h": "521",
+                "resize": "fit",
+                "w": "994"
+              },
+              "small": {
+                "h": "356",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "899594432911159297",
+            "source_status_id_str": "899594432911159297",
+            "source_user_id": "121597316",
+            "source_user_id_str": "121597316",
+            "type": "photo",
+            "url": "https://t.co/vIsBMMBvsk"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @sfchronicle: SFO Museum a good place to land for art on the fly. https://t.co/PHTORlXyfp via @SteveRubeSF https://t.co/vIsBMMBvsk",
+      "id": "899710643871383557",
+      "id_str": "899710643871383557",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 899710643871383600
+    },
+    "wof:country": "US",
+    "wof:created": 1602026029,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729300969,
+    "wof:lastmodified": 1602026029,
+    "wof:name": "Twitter message #899710643871383557",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

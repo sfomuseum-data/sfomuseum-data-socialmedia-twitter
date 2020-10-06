@@ -1,0 +1,149 @@
+{
+  "id": 1729297499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2016-08-23T19:10:10-07:00",
+    "edtf:inception": "2016-08-23T19:10:10-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1472004610,
+      "created_at": "Wed Aug 24 02:10:10 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "143"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/fIzDt3APy4",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/768269135684001792/photo/1",
+            "id": "768269131569360896",
+            "id_str": "768269131569360896",
+            "indices": [
+              "120", 
+              "143"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CqlwtGcW8AAB53u.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CqlwtGcW8AAB53u.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1361"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "817"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "463"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/fIzDt3APy4"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/fIzDt3APy4",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/768269135684001792/photo/1",
+            "id": "768269131569360896",
+            "id_str": "768269131569360896",
+            "indices": [
+              "120", 
+              "143"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CqlwtGcW8AAB53u.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CqlwtGcW8AAB53u.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1361"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "817"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "463"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/fIzDt3APy4"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "The documentary, \"With Byrd at the South Pole\", was released in 1930, documenting Byrd \u0026amp; his crew in the Antarctic. https://t.co/fIzDt3APy4",
+      "id": "768269135684001792",
+      "id_str": "768269135684001792",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "4",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 768269135684001800
+    },
+    "wof:country": "US",
+    "wof:created": 1602025900,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729297499,
+    "wof:lastmodified": 1602025900,
+    "wof:name": "Twitter message #768269135684001792",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

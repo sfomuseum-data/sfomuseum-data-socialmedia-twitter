@@ -1,0 +1,192 @@
+{
+  "id": 1729303267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-05-31T15:42:11-07:00",
+    "edtf:inception": "2018-05-31T15:42:11-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1527806531,
+      "created_at": "Thu May 31 22:42:11 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "225"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "23", 
+              "31"
+            ],
+            "text": "Noguchi"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/70EGE4hI47",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1002319354724118528/photo/1",
+            "id": "1002319084787150848",
+            "id_str": "1002319084787150848",
+            "indices": [
+              "202", 
+              "225"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dejz5ahVMAAxUvh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dejz5ahVMAAxUvh.jpg",
+            "sizes": {
+              "large": {
+                "h": "1238",
+                "resize": "fit",
+                "w": "1422"
+              },
+              "medium": {
+                "h": "1045",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "592",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/70EGE4hI47"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/NoguchiSFO",
+            "expanded_url": "http://bit.ly/NoguchiSFO",
+            "indices": [
+              "154", 
+              "177"
+            ],
+            "url": "https://t.co/XeLRgbCL7a"
+          }, 
+          {
+            "display_url": "flysfo.com/museum/exhibit…",
+            "expanded_url": "https://www.flysfo.com/museum/exhibitions/map",
+            "indices": [
+              "178", 
+              "201"
+            ],
+            "url": "https://t.co/xp32GI0i7F"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "912800882688901120",
+            "id_str": "912800882688901120",
+            "indices": [
+              "0", 
+              "11"
+            ],
+            "name": "Cultura Consulting",
+            "screen_name": "Cultura_CP"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/70EGE4hI47",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1002319354724118528/photo/1",
+            "id": "1002319084787150848",
+            "id_str": "1002319084787150848",
+            "indices": [
+              "202", 
+              "225"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dejz5ahVMAAxUvh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dejz5ahVMAAxUvh.jpg",
+            "sizes": {
+              "large": {
+                "h": "1238",
+                "resize": "fit",
+                "w": "1422"
+              },
+              "medium": {
+                "h": "1045",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "592",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/70EGE4hI47"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "@Cultura_CP Hi! \"Isamu #Noguchi: Inside and Out\" is on display, pre-security, in the International Terminal. Please see our website for more information! https://t.co/XeLRgbCL7a https://t.co/xp32GI0i7F https://t.co/70EGE4hI47",
+      "id": "1002319354724118528",
+      "id_str": "1002319354724118528",
+      "in_reply_to_screen_name": "Cultura_CP",
+      "in_reply_to_status_id": "1002301979983597568",
+      "in_reply_to_status_id_str": "1002301979983597568",
+      "in_reply_to_user_id": "912800882688901120",
+      "in_reply_to_user_id_str": "912800882688901120",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "twitter:id": 1002319354724118500
+    },
+    "wof:country": "US",
+    "wof:created": 1602026117,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": {
+      "building_id": 1159160869,
+      "campus_id": 102527513,
+      "continent_id": 102191575,
+      "country_id": 85633793,
+      "county_id": 102087579,
+      "locality_id": 85922583,
+      "neighbourhood_id": -1,
+      "region_id": 85688637
+    },
+    "wof:id": 1729303267,
+    "wof:lastmodified": 1602026117,
+    "wof:name": "Twitter message #1002319354724118528",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}
