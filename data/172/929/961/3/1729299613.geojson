@@ -2,197 +2,195 @@
   "id": 1729299613,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-03-09",
-    "date:cessation_upper":"2017-03-09",
-    "date:inception_lower":"2017-03-09",
-    "date:inception_upper":"2017-03-09",
-    "edtf:cessation":"2017-03-09T20:00:12-08:00",
-    "edtf:inception":"2017-03-09T20:00:12-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1489118412,
-        "created_at":"Fri Mar 10 04:00:12 +0000 2017",
-        "display_text_range":[
-            "0",
-            "168"
+    "date:cessation_lower": "2017-03-09",
+    "date:cessation_upper": "2017-03-09",
+    "date:inception_lower": "2017-03-09",
+    "date:inception_upper": "2017-03-09",
+    "edtf:cessation": "2017-03-09T20:00:12-08:00",
+    "edtf:inception": "2017-03-09T20:00:12-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1489118412,
+      "created_at": "Fri Mar 10 04:00:12 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "168"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "6", 
+              "17"
+            ],
+            "text": "aviatrixes"
+          }, 
+          {
+            "indices": [
+              "103", 
+              "119"
+            ],
+            "text": "WomenInAviation"
+          }, 
+          {
+            "indices": [
+              "120", 
+              "139"
+            ],
+            "text": "WomensHistoryMonth"
+          }, 
+          {
+            "indices": [
+              "140", 
+              "144"
+            ],
+            "text": "TBT"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "6",
-                        "17"
-                    ],
-                    "text":"aviatrixes"
-                },
-                {
-                    "indices":[
-                        "103",
-                        "119"
-                    ],
-                    "text":"WomenInAviation"
-                },
-                {
-                    "indices":[
-                        "120",
-                        "139"
-                    ],
-                    "text":"WomensHistoryMonth"
-                },
-                {
-                    "indices":[
-                        "140",
-                        "144"
-                    ],
-                    "text":"TBT"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WoElFaLFsw",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/840049623821615104/photo/1",
+            "id": "840049620646547456",
+            "id_str": "840049620646547456",
+            "indices": [
+              "145", 
+              "168"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/WoElFaLFsw",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/840049623821615104/photo/1",
-                    "id":"840049620646547456",
-                    "id_str":"840049620646547456",
-                    "indices":[
-                        "145",
-                        "168"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C6h0reBW0AAmay9.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C6h0reBW0AAmay9.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1574"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"944"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"535"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/WoElFaLFsw"
-                }
+            "media_url": "http://pbs.twimg.com/media/C6h0reBW0AAmay9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C6h0reBW0AAmay9.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1574"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "944"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "535"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/WoElFaLFsw"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WoElFaLFsw",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/840049623821615104/photo/1",
+            "id": "840049620646547456",
+            "id_str": "840049620646547456",
+            "indices": [
+              "145", 
+              "168"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/WoElFaLFsw",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/840049623821615104/photo/1",
-                    "id":"840049620646547456",
-                    "id_str":"840049620646547456",
-                    "indices":[
-                        "145",
-                        "168"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C6h0reBW0AAmay9.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C6h0reBW0AAmay9.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1574"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"944"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"535"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/WoElFaLFsw"
-                }
-            ]
-        },
-        "favorite_count":"13",
-        "favorited":false,
-        "full_text":"These #aviatrixes were part of an air show at SFO in 1932 that boasted races, acrobatics &amp; stunts. #WomenInAviation #WomensHistoryMonth #TBT https://t.co/WoElFaLFsw",
-        "id":"840049623821615104",
-        "id_str":"840049623821615104",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"9",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/C6h0reBW0AAmay9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C6h0reBW0AAmay9.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1574"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "944"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "535"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/WoElFaLFsw"
+          }
+        ]
+      },
+      "favorite_count": "13",
+      "favorited": false,
+      "full_text": "These #aviatrixes were part of an air show at SFO in 1932 that boasted races, acrobatics \u0026amp; stunts. #WomenInAviation #WomensHistoryMonth #TBT https://t.co/WoElFaLFsw",
+      "id": "840049623821615104",
+      "id_str": "840049623821615104",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "9",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729299613
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":840049623821615100
-    },
-    "wof:country":"US",
-    "wof:created":1602025979,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299613,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025979,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299613,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299613,
-    "wof:lastmodified":1602186653,
-    "wof:name":"These #aviatrixes were part of an air show at SFO in 1932 that boasted races, acrobatics &amp; stunts. #WomenInAviation #WomensHistoryMonth #TBT https://t.co/WoElFaLFsw",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299613,
+    "wof:lastmodified": 1602193908,
+    "wof:name": "These #aviatrixes were part of an air show at SFO in 1932 that boasted races, acrobatics \u0026amp; stunts. #WomenInAviation #WomensHistoryMonth #TBT https://t.co/WoElFaLFsw",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

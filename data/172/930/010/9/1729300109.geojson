@@ -2,207 +2,205 @@
   "id": 1729300109,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-05-05",
-    "date:cessation_upper":"2017-05-05",
-    "date:inception_lower":"2017-05-05",
-    "date:inception_upper":"2017-05-05",
-    "edtf:cessation":"2017-05-05T19:35:05-07:00",
-    "edtf:inception":"2017-05-05T19:35:05-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1494038105,
-        "created_at":"Sat May 06 02:35:05 +0000 2017",
-        "display_text_range":[
-            "0",
-            "150"
+    "date:cessation_lower": "2017-05-05",
+    "date:cessation_upper": "2017-05-05",
+    "date:inception_lower": "2017-05-05",
+    "date:inception_upper": "2017-05-05",
+    "edtf:cessation": "2017-05-05T19:35:05-07:00",
+    "edtf:inception": "2017-05-05T19:35:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1494038105,
+      "created_at": "Sat May 06 02:35:05 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "150"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "42", 
+              "56"
+            ],
+            "text": "ArtsandCrafts"
+          }, 
+          {
+            "indices": [
+              "58", 
+              "69"
+            ],
+            "text": "ArtNouveau"
+          }, 
+          {
+            "indices": [
+              "75", 
+              "83"
+            ],
+            "text": "ArtDeco"
+          }, 
+          {
+            "indices": [
+              "92", 
+              "109"
+            ],
+            "text": "SFOArtsandCrafts"
+          }, 
+          {
+            "indices": [
+              "110", 
+              "126"
+            ],
+            "text": "RookwoodPottery"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "42",
-                        "56"
-                    ],
-                    "text":"ArtsandCrafts"
-                },
-                {
-                    "indices":[
-                        "58",
-                        "69"
-                    ],
-                    "text":"ArtNouveau"
-                },
-                {
-                    "indices":[
-                        "75",
-                        "83"
-                    ],
-                    "text":"ArtDeco"
-                },
-                {
-                    "indices":[
-                        "92",
-                        "109"
-                    ],
-                    "text":"SFOArtsandCrafts"
-                },
-                {
-                    "indices":[
-                        "110",
-                        "126"
-                    ],
-                    "text":"RookwoodPottery"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IpsFORkF2L",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/860684310592069633/photo/1",
+            "id": "860684307450527744",
+            "id_str": "860684307450527744",
+            "indices": [
+              "127", 
+              "150"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/IpsFORkF2L",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/860684310592069633/photo/1",
-                    "id":"860684307450527744",
-                    "id_str":"860684307450527744",
-                    "indices":[
-                        "127",
-                        "150"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C_HD0UlXgAAo95X.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C_HD0UlXgAAo95X.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/IpsFORkF2L"
-                }
+            "media_url": "http://pbs.twimg.com/media/C_HD0UlXgAAo95X.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C_HD0UlXgAAo95X.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IpsFORkF2L"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IpsFORkF2L",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/860684310592069633/photo/1",
+            "id": "860684307450527744",
+            "id_str": "860684307450527744",
+            "indices": [
+              "127", 
+              "150"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/IpsFORkF2L",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/860684310592069633/photo/1",
-                    "id":"860684307450527744",
-                    "id_str":"860684307450527744",
-                    "indices":[
-                        "127",
-                        "150"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C_HD0UlXgAAo95X.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C_HD0UlXgAAo95X.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/IpsFORkF2L"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"@RookwoodPottery produced ceramics in the #ArtsandCrafts, #ArtNouveau, and #ArtDeco styles. #SFOArtsandCrafts #RookwoodPottery https://t.co/IpsFORkF2L",
-        "id":"860684310592069633",
-        "id_str":"860684310592069633",
-        "in_reply_to_screen_name":"Rookwood_Co",
-        "in_reply_to_user_id":"312026278",
-        "in_reply_to_user_id_str":"312026278",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/C_HD0UlXgAAo95X.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C_HD0UlXgAAo95X.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IpsFORkF2L"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@RookwoodPottery produced ceramics in the #ArtsandCrafts, #ArtNouveau, and #ArtDeco styles. #SFOArtsandCrafts #RookwoodPottery https://t.co/IpsFORkF2L",
+      "id": "860684310592069633",
+      "id_str": "860684310592069633",
+      "in_reply_to_screen_name": "Rookwood_Co",
+      "in_reply_to_user_id": "312026278",
+      "in_reply_to_user_id_str": "312026278",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729300109
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":860684310592069600
-    },
-    "wof:country":"US",
-    "wof:created":1602025997,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729300109,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025997,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729300109,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729300109,
-    "wof:lastmodified":1602186427,
-    "wof:name":"@RookwoodPottery produced ceramics in the #ArtsandCrafts, #ArtNouveau, and #ArtDeco styles. #SFOArtsandCrafts #RookwoodPottery https://t.co/IpsFORkF2L",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729300109,
+    "wof:lastmodified": 1602193909,
+    "wof:name": "@RookwoodPottery produced ceramics in the #ArtsandCrafts, #ArtNouveau, and #ArtDeco styles. #SFOArtsandCrafts #RookwoodPottery https://t.co/IpsFORkF2L",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

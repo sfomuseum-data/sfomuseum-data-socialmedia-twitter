@@ -2,190 +2,188 @@
   "id": 1729298383,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-10-28",
-    "date:cessation_upper":"2016-10-28",
-    "date:inception_lower":"2016-10-28",
-    "date:inception_upper":"2016-10-28",
-    "edtf:cessation":"2016-10-28T20:15:06-07:00",
-    "edtf:inception":"2016-10-28T20:15:06-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1477710906,
-        "created_at":"Sat Oct 29 03:15:06 +0000 2016",
-        "display_text_range":[
-            "0",
-            "157"
+    "date:cessation_lower": "2016-10-28",
+    "date:cessation_upper": "2016-10-28",
+    "date:inception_lower": "2016-10-28",
+    "date:inception_upper": "2016-10-28",
+    "edtf:cessation": "2016-10-28T20:15:06-07:00",
+    "edtf:inception": "2016-10-28T20:15:06-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1477710906,
+      "created_at": "Sat Oct 29 03:15:06 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "157"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "9", 
+              "15"
+            ],
+            "text": "PanAm"
+          }, 
+          {
+            "indices": [
+              "115", 
+              "125"
+            ],
+            "text": "OnThisDay"
+          }, 
+          {
+            "indices": [
+              "126", 
+              "133"
+            ],
+            "text": "avgeek"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "9",
-                        "15"
-                    ],
-                    "text":"PanAm"
-                },
-                {
-                    "indices":[
-                        "115",
-                        "125"
-                    ],
-                    "text":"OnThisDay"
-                },
-                {
-                    "indices":[
-                        "126",
-                        "133"
-                    ],
-                    "text":"avgeek"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/R4UNOikBLp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/792203078309126145/photo/1",
+            "id": "792203075377307648",
+            "id_str": "792203075377307648",
+            "indices": [
+              "134", 
+              "157"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/R4UNOikBLp",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/792203078309126145/photo/1",
-                    "id":"792203075377307648",
-                    "id_str":"792203075377307648",
-                    "indices":[
-                        "134",
-                        "157"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cv54f_HWIAAa2IW.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cv54f_HWIAAa2IW.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1278",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"767",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"435",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/R4UNOikBLp"
-                }
+            "media_url": "http://pbs.twimg.com/media/Cv54f_HWIAAa2IW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cv54f_HWIAAa2IW.jpg",
+            "sizes": {
+              "large": {
+                "h": "1278",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "767",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "435",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/R4UNOikBLp"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/R4UNOikBLp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/792203078309126145/photo/1",
+            "id": "792203075377307648",
+            "id_str": "792203075377307648",
+            "indices": [
+              "134", 
+              "157"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/R4UNOikBLp",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/792203078309126145/photo/1",
-                    "id":"792203075377307648",
-                    "id_str":"792203075377307648",
-                    "indices":[
-                        "134",
-                        "157"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cv54f_HWIAAa2IW.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cv54f_HWIAAa2IW.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1278",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"767",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"435",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/R4UNOikBLp"
-                }
-            ]
-        },
-        "favorite_count":"24",
-        "favorited":false,
-        "full_text":"In 1977, #PanAm embarked on a pole-to-pole, around-the-world flight from San Francisco for their 50th Anniversary. #OnThisDay #avgeek https://t.co/R4UNOikBLp",
-        "id":"792203078309126145",
-        "id_str":"792203078309126145",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"9",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/Cv54f_HWIAAa2IW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cv54f_HWIAAa2IW.jpg",
+            "sizes": {
+              "large": {
+                "h": "1278",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "767",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "435",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/R4UNOikBLp"
+          }
+        ]
+      },
+      "favorite_count": "24",
+      "favorited": false,
+      "full_text": "In 1977, #PanAm embarked on a pole-to-pole, around-the-world flight from San Francisco for their 50th Anniversary. #OnThisDay #avgeek https://t.co/R4UNOikBLp",
+      "id": "792203078309126145",
+      "id_str": "792203078309126145",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "9",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729298383
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":792203078309126100
-    },
-    "wof:country":"US",
-    "wof:created":1602025934,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729298383,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025934,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729298383,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729298383,
-    "wof:lastmodified":1602186542,
-    "wof:name":"In 1977, #PanAm embarked on a pole-to-pole, around-the-world flight from San Francisco for their 50th Anniversary. #OnThisDay #avgeek https://t.co/R4UNOikBLp",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729298383,
+    "wof:lastmodified": 1602193907,
+    "wof:name": "In 1977, #PanAm embarked on a pole-to-pole, around-the-world flight from San Francisco for their 50th Anniversary. #OnThisDay #avgeek https://t.co/R4UNOikBLp",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

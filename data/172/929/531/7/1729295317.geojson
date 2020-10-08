@@ -2,126 +2,124 @@
   "id": 1729295317,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-03-08",
-    "date:cessation_upper":"2016-03-08",
-    "date:inception_lower":"2016-03-08",
-    "date:inception_upper":"2016-03-08",
-    "edtf:cessation":"2016-03-08T10:01:18-08:00",
-    "edtf:inception":"2016-03-08T10:01:18-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1457460078,
-        "created_at":"Tue Mar 08 18:01:18 +0000 2016",
-        "display_text_range":[
-            "0",
-            "140"
+    "date:cessation_lower": "2016-03-08",
+    "date:cessation_upper": "2016-03-08",
+    "date:inception_lower": "2016-03-08",
+    "date:inception_upper": "2016-03-08",
+    "edtf:cessation": "2016-03-08T10:01:18-08:00",
+    "edtf:inception": "2016-03-08T10:01:18-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1457460078,
+      "created_at": "Tue Mar 08 18:01:18 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "108", 
+              "116"
+            ],
+            "text": "IWD2016"
+          }, 
+          {
+            "indices": [
+              "117", 
+              "124"
+            ],
+            "text": "avgeek"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "108",
-                        "116"
-                    ],
-                    "text":"IWD2016"
-                },
-                {
-                    "indices":[
-                        "117",
-                        "124"
-                    ],
-                    "text":"avgeek"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "mashable.com/2015/03/04/wom…",
+            "expanded_url": "http://mashable.com/2015/03/04/women-aviators/?utm_cid=mash-com-Tw-main-link#A7BgC2f2gkqm",
+            "indices": [
+              "84", 
+              "107"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"mashable.com/2015/03/04/wom\u2026",
-                    "expanded_url":"http://mashable.com/2015/03/04/women-aviators/?utm_cid=mash-com-Tw-main-link#A7BgC2f2gkqm",
-                    "indices":[
-                        "84",
-                        "107"
-                    ],
-                    "url":"https://t.co/tCsGXA1asp"
-                }
+            "url": "https://t.co/tCsGXA1asp"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "48366585",
+            "id_str": "48366585",
+            "indices": [
+              "3", 
+              "13"
             ],
-            "user_mentions":[
-                {
-                    "id":"48366585",
-                    "id_str":"48366585",
-                    "indices":[
-                        "3",
-                        "13"
-                    ],
-                    "name":"ALPA",
-                    "screen_name":"WeAreALPA"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @WeAreALPA: \"Let women fly!\" A great rundown of history's first female aviators: https://t.co/tCsGXA1asp #IWD2016 #avgeek https://t.co/a\u2026",
-        "id":"707264948553064448",
-        "id_str":"707264948553064448",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "ALPA",
+            "screen_name": "WeAreALPA"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @WeAreALPA: \"Let women fly!\" A great rundown of history's first female aviators: https://t.co/tCsGXA1asp #IWD2016 #avgeek https://t.co/a…",
+      "id": "707264948553064448",
+      "id_str": "707264948553064448",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729295317
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":707264948553064400
-    },
-    "wof:country":"US",
-    "wof:created":1602025815,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729295317,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025815,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729295317,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729295317,
-    "wof:lastmodified":1602186515,
-    "wof:name":"RT @WeAreALPA: \"Let women fly!\" A great rundown of history's first female aviators: https://t.co/tCsGXA1asp #IWD2016 #avgeek https://t.co/a\u2026",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729295317,
+    "wof:lastmodified": 1602193905,
+    "wof:name": "RT @WeAreALPA: \"Let women fly!\" A great rundown of history's first female aviators: https://t.co/tCsGXA1asp #IWD2016 #avgeek https://t.co/a…",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

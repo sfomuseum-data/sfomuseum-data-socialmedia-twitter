@@ -2,108 +2,106 @@
   "id": 1729301581,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-01-06",
-    "date:cessation_upper":"2012-01-06",
-    "date:inception_lower":"2012-01-06",
-    "date:inception_upper":"2012-01-06",
-    "edtf:cessation":"2012-01-06T15:10:00-08:00",
-    "edtf:inception":"2012-01-06T15:10:00-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1325891400,
-        "created_at":"Fri Jan 06 23:10:00 +0000 2012",
-        "display_text_range":[
-            "0",
-            "140"
+    "date:cessation_lower": "2012-01-06",
+    "date:cessation_upper": "2012-01-06",
+    "date:inception_lower": "2012-01-06",
+    "date:inception_upper": "2012-01-06",
+    "edtf:cessation": "2012-01-06T15:10:00-08:00",
+    "edtf:inception": "2012-01-06T15:10:00-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1325891400,
+      "created_at": "Fri Jan 06 23:10:00 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "132", 
+              "140"
+            ],
+            "text": "AVgeeks"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "132",
-                        "140"
-                    ],
-                    "text":"AVgeeks"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/wy3NBz",
+            "expanded_url": "http://bit.ly/wy3NBz",
+            "indices": [
+              "111", 
+              "131"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/wy3NBz",
-                    "expanded_url":"http://bit.ly/wy3NBz",
-                    "indices":[
-                        "111",
-                        "131"
-                    ],
-                    "url":"http://t.co/Pbi6WJTK"
-                }
-            ],
-            "user_mentions":[]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"KLM's gin containers are the cutest EVER (bet you didn't know that was possible) & are on view, pre-TSA in T1: http://t.co/Pbi6WJTK #AVgeeks",
-        "id":"155425917018189824",
-        "id_str":"155425917018189824",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"3",
-        "retweeted":false,
-        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-        "truncated":false
+            "url": "http://t.co/Pbi6WJTK"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "KLM's gin containers are the cutest EVER (bet you didn't know that was possible) \u0026 are on view, pre-TSA in T1: http://t.co/Pbi6WJTK #AVgeeks",
+      "id": "155425917018189824",
+      "id_str": "155425917018189824",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729301581
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":155425917018189820
-    },
-    "wof:country":"US",
-    "wof:created":1602026051,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729301581,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026051,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729301581,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729301581,
-    "wof:lastmodified":1602186407,
-    "wof:name":"KLM's gin containers are the cutest EVER (bet you didn't know that was possible) & are on view, pre-TSA in T1: http://t.co/Pbi6WJTK #AVgeeks",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729301581,
+    "wof:lastmodified": 1602193909,
+    "wof:name": "KLM's gin containers are the cutest EVER (bet you didn't know that was possible) \u0026 are on view, pre-TSA in T1: http://t.co/Pbi6WJTK #AVgeeks",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

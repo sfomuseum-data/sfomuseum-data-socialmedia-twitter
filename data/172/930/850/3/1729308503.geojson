@@ -2,211 +2,209 @@
   "id": 1729308503,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-05-22",
-    "date:cessation_upper":"2020-05-22",
-    "date:inception_lower":"2020-05-22",
-    "date:inception_upper":"2020-05-22",
-    "edtf:cessation":"2020-05-22T13:55:20-07:00",
-    "edtf:inception":"2020-05-22T13:55:20-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1590180920,
-        "created_at":"Fri May 22 20:55:20 +0000 2020",
-        "display_text_range":[
-            "0",
-            "307"
+    "date:cessation_lower": "2020-05-22",
+    "date:cessation_upper": "2020-05-22",
+    "date:inception_lower": "2020-05-22",
+    "date:inception_upper": "2020-05-22",
+    "edtf:cessation": "2020-05-22T13:55:20-07:00",
+    "edtf:inception": "2020-05-22T13:55:20-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1590180920,
+      "created_at": "Fri May 22 20:55:20 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "307"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "213", 
+              "233"
+            ],
+            "text": "HarveyMilkTerminal1"
+          }, 
+          {
+            "indices": [
+              "234", 
+              "249"
+            ],
+            "text": "MuseumFromHome"
+          }, 
+          {
+            "indices": [
+              "250", 
+              "264"
+            ],
+            "text": "HarveyMilkDay"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "213",
-                        "233"
-                    ],
-                    "text":"HarveyMilkTerminal1"
-                },
-                {
-                    "indices":[
-                        "234",
-                        "249"
-                    ],
-                    "text":"MuseumFromHome"
-                },
-                {
-                    "indices":[
-                        "250",
-                        "264"
-                    ],
-                    "text":"HarveyMilkDay"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IJxGNsJaoI",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1263936504537051138/photo/1",
+            "id": "1263936375994212352",
+            "id_str": "1263936375994212352",
+            "indices": [
+              "284", 
+              "307"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/IJxGNsJaoI",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1263936504537051138/photo/1",
-                    "id":"1263936375994212352",
-                    "id_str":"1263936375994212352",
-                    "indices":[
-                        "284",
-                        "307"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EYpnb_XUYAAFS3w.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EYpnb_XUYAAFS3w.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1413"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"848"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"480"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/IJxGNsJaoI"
-                }
+            "media_url": "http://pbs.twimg.com/media/EYpnb_XUYAAFS3w.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EYpnb_XUYAAFS3w.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1413"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "848"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "480"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IJxGNsJaoI"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/HarveyMilkExhi…",
+            "expanded_url": "http://bit.ly/HarveyMilkExhibition",
+            "indices": [
+              "189", 
+              "212"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/HarveyMilkExhi\u2026",
-                    "expanded_url":"http://bit.ly/HarveyMilkExhibition",
-                    "indices":[
-                        "189",
-                        "212"
-                    ],
-                    "url":"https://t.co/eGYmHGjUIn"
-                }
+            "url": "https://t.co/eGYmHGjUIn"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "23100755",
+            "id_str": "23100755",
+            "indices": [
+              "267", 
+              "283"
             ],
-            "user_mentions":[
-                {
-                    "id":"23100755",
-                    "id_str":"23100755",
-                    "indices":[
-                        "267",
-                        "283"
-                    ],
-                    "name":"SF Public Library",
-                    "screen_name":"SFPublicLibrary"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/IJxGNsJaoI",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1263936504537051138/photo/1",
-                    "id":"1263936375994212352",
-                    "id_str":"1263936375994212352",
-                    "indices":[
-                        "284",
-                        "307"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EYpnb_XUYAAFS3w.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EYpnb_XUYAAFS3w.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1413"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"848"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"480"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/IJxGNsJaoI"
-                }
-            ]
-        },
-        "favorite_count":"8",
-        "favorited":false,
-        "full_text":"Happy Birthday Harvey Milk! Born on this day in 1930, Milk was the first openly gay elected official in California. SFO Museum is celebrating his legacy with an exhibition &amp; a catalog. https://t.co/eGYmHGjUIn #HarveyMilkTerminal1 #MuseumFromHome #HarveyMilkDay \ud83d\udcf8 @SFPublicLibrary https://t.co/IJxGNsJaoI",
-        "id":"1263936504537051138",
-        "id_str":"1263936504537051138",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"4",
-        "retweeted":false,
-        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-        "truncated":false
+            "name": "SF Public Library",
+            "screen_name": "SFPublicLibrary"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IJxGNsJaoI",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1263936504537051138/photo/1",
+            "id": "1263936375994212352",
+            "id_str": "1263936375994212352",
+            "indices": [
+              "284", 
+              "307"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EYpnb_XUYAAFS3w.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EYpnb_XUYAAFS3w.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1413"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "848"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "480"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IJxGNsJaoI"
+          }
+        ]
+      },
+      "favorite_count": "8",
+      "favorited": false,
+      "full_text": "Happy Birthday Harvey Milk! Born on this day in 1930, Milk was the first openly gay elected official in California. SFO Museum is celebrating his legacy with an exhibition \u0026amp; a catalog. https://t.co/eGYmHGjUIn #HarveyMilkTerminal1 #MuseumFromHome #HarveyMilkDay 📸 @SFPublicLibrary https://t.co/IJxGNsJaoI",
+      "id": "1263936504537051138",
+      "id_str": "1263936504537051138",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "4",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729308503
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1263936504537051100
-    },
-    "wof:country":"US",
-    "wof:created":1602026318,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729308503,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026318,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729308503,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729308503,
-    "wof:lastmodified":1602186276,
-    "wof:name":"Happy Birthday Harvey Milk! Born on this day in 1930, Milk was the first openly gay elected official in California. SFO Museum is celebrating his legacy with an exhibition &amp; a catalog. https://t.co/eGYmHGjUIn #HarveyMilkTerminal1 #MuseumFromHome #HarveyMilkDay \ud83d\udcf8 @SFPublicLibrary https://t.co/IJxGNsJaoI",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729308503,
+    "wof:lastmodified": 1602193913,
+    "wof:name": "Happy Birthday Harvey Milk! Born on this day in 1930, Milk was the first openly gay elected official in California. SFO Museum is celebrating his legacy with an exhibition \u0026amp; a catalog. https://t.co/eGYmHGjUIn #HarveyMilkTerminal1 #MuseumFromHome #HarveyMilkDay 📸 @SFPublicLibrary https://t.co/IJxGNsJaoI",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

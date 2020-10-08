@@ -2,183 +2,181 @@
   "id": 1729308091,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-03-05",
-    "date:cessation_upper":"2020-03-05",
-    "date:inception_lower":"2020-03-05",
-    "date:inception_upper":"2020-03-05",
-    "edtf:cessation":"2020-03-05T16:35:03-08:00",
-    "edtf:inception":"2020-03-05T16:35:03-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1583454903,
-        "created_at":"Fri Mar 06 00:35:03 +0000 2020",
-        "display_text_range":[
-            "0",
-            "258"
+    "date:cessation_lower": "2020-03-05",
+    "date:cessation_upper": "2020-03-05",
+    "date:inception_lower": "2020-03-05",
+    "date:inception_upper": "2020-03-05",
+    "edtf:cessation": "2020-03-05T16:35:03-08:00",
+    "edtf:inception": "2020-03-05T16:35:03-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1583454903,
+      "created_at": "Fri Mar 06 00:35:03 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "258"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "216", 
+              "224"
+            ],
+            "text": "TBTSFOM"
+          }, 
+          {
+            "indices": [
+              "225", 
+              "234"
+            ],
+            "text": "SFOMat40"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "216",
-                        "224"
-                    ],
-                    "text":"TBTSFOM"
-                },
-                {
-                    "indices":[
-                        "225",
-                        "234"
-                    ],
-                    "text":"SFOMat40"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YpcoJ4kjaN",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1235725547499479041/photo/1",
+            "id": "1235725543196196864",
+            "id_str": "1235725543196196864",
+            "indices": [
+              "235", 
+              "258"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/YpcoJ4kjaN",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1235725547499479041/photo/1",
-                    "id":"1235725543196196864",
-                    "id_str":"1235725543196196864",
-                    "indices":[
-                        "235",
-                        "258"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/ESYt1ZoWAAAVpCk.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/ESYt1ZoWAAAVpCk.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1295",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"777",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"440",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/YpcoJ4kjaN"
-                }
+            "media_url": "http://pbs.twimg.com/media/ESYt1ZoWAAAVpCk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ESYt1ZoWAAAVpCk.jpg",
+            "sizes": {
+              "large": {
+                "h": "1295",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "777",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "440",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YpcoJ4kjaN"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YpcoJ4kjaN",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1235725547499479041/photo/1",
+            "id": "1235725543196196864",
+            "id_str": "1235725543196196864",
+            "indices": [
+              "235", 
+              "258"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/YpcoJ4kjaN",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1235725547499479041/photo/1",
-                    "id":"1235725543196196864",
-                    "id_str":"1235725543196196864",
-                    "indices":[
-                        "235",
-                        "258"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/ESYt1ZoWAAAVpCk.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/ESYt1ZoWAAAVpCk.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1295",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"777",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"440",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/YpcoJ4kjaN"
-                }
-            ]
-        },
-        "favorite_count":"8",
-        "favorited":false,
-        "full_text":"In honor of our 40th anniversary, every week this year we are highlighting one of our past exhibitions. In 1998, we presented A World View of Puppets, which featured dozens of puppets from cultures around the world. #TBTSFOM #SFOMat40 https://t.co/YpcoJ4kjaN",
-        "id":"1235725547499479041",
-        "id_str":"1235725547499479041",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/ESYt1ZoWAAAVpCk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ESYt1ZoWAAAVpCk.jpg",
+            "sizes": {
+              "large": {
+                "h": "1295",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "777",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "440",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YpcoJ4kjaN"
+          }
+        ]
+      },
+      "favorite_count": "8",
+      "favorited": false,
+      "full_text": "In honor of our 40th anniversary, every week this year we are highlighting one of our past exhibitions. In 1998, we presented A World View of Puppets, which featured dozens of puppets from cultures around the world. #TBTSFOM #SFOMat40 https://t.co/YpcoJ4kjaN",
+      "id": "1235725547499479041",
+      "id_str": "1235725547499479041",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729308091
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1235725547499479000
-    },
-    "wof:country":"US",
-    "wof:created":1602026302,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729308091,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026302,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729308091,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729308091,
-    "wof:lastmodified":1602186241,
-    "wof:name":"In honor of our 40th anniversary, every week this year we are highlighting one of our past exhibitions. In 1998, we presented A World View of Puppets, which featured dozens of puppets from cultures around the world. #TBTSFOM #SFOMat40 https://t.co/YpcoJ4kjaN",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729308091,
+    "wof:lastmodified": 1602193913,
+    "wof:name": "In honor of our 40th anniversary, every week this year we are highlighting one of our past exhibitions. In 1998, we presented A World View of Puppets, which featured dozens of puppets from cultures around the world. #TBTSFOM #SFOMat40 https://t.co/YpcoJ4kjaN",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

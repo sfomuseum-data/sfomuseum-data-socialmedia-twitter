@@ -2,110 +2,108 @@
   "id": 1729301551,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-01-10",
-    "date:cessation_upper":"2012-01-10",
-    "date:inception_lower":"2012-01-10",
-    "date:inception_upper":"2012-01-10",
-    "edtf:cessation":"2012-01-10T12:24:00-08:00",
-    "edtf:inception":"2012-01-10T12:24:00-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1326227040,
-        "created_at":"Tue Jan 10 20:24:00 +0000 2012",
-        "display_text_range":[
-            "0",
-            "126"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"91478624",
-                    "id_str":"91478624",
-                    "indices":[
-                        "83",
-                        "90"
-                    ],
-                    "name":"Forbes",
-                    "screen_name":"Forbes"
-                },
-                {
-                    "id":"191963894",
-                    "id_str":"191963894",
-                    "indices":[
-                        "93",
-                        "109"
-                    ],
-                    "name":"SF Art Enthusiast",
-                    "screen_name":"SFArtEnthusiast"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"A good read for art lovers: \"Money, Fraud, & Scandal: Art Highlights of 2011,\" via @Forbes & @SFArtEnthusiast onforb.es/zrpL5F",
-        "id":"156833691576958976",
-        "id_str":"156833691576958976",
-        "lang":"en",
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-        "truncated":false
+    "date:cessation_lower": "2012-01-10",
+    "date:cessation_upper": "2012-01-10",
+    "date:inception_lower": "2012-01-10",
+    "date:inception_upper": "2012-01-10",
+    "edtf:cessation": "2012-01-10T12:24:00-08:00",
+    "edtf:inception": "2012-01-10T12:24:00-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1326227040,
+      "created_at": "Tue Jan 10 20:24:00 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "126"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "91478624",
+            "id_str": "91478624",
+            "indices": [
+              "83", 
+              "90"
+            ],
+            "name": "Forbes",
+            "screen_name": "Forbes"
+          }, 
+          {
+            "id": "191963894",
+            "id_str": "191963894",
+            "indices": [
+              "93", 
+              "109"
+            ],
+            "name": "SF Art Enthusiast",
+            "screen_name": "SFArtEnthusiast"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "A good read for art lovers: \"Money, Fraud, \u0026 Scandal: Art Highlights of 2011,\" via @Forbes \u0026 @SFArtEnthusiast onforb.es/zrpL5F",
+      "id": "156833691576958976",
+      "id_str": "156833691576958976",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729301551
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":156833691576958980
-    },
-    "wof:country":"US",
-    "wof:created":1602026050,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729301551,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026050,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729301551,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729301551,
-    "wof:lastmodified":1602186286,
-    "wof:name":"A good read for art lovers: \"Money, Fraud, & Scandal: Art Highlights of 2011,\" via @Forbes & @SFArtEnthusiast onforb.es/zrpL5F",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729301551,
+    "wof:lastmodified": 1602193909,
+    "wof:name": "A good read for art lovers: \"Money, Fraud, \u0026 Scandal: Art Highlights of 2011,\" via @Forbes \u0026 @SFArtEnthusiast onforb.es/zrpL5F",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

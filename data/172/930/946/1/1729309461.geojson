@@ -2,111 +2,109 @@
   "id": 1729309461,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-10-11",
-    "date:cessation_upper":"2011-10-11",
-    "date:inception_lower":"2011-10-11",
-    "date:inception_upper":"2011-10-11",
-    "edtf:cessation":"2011-10-11T15:10:05-07:00",
-    "edtf:inception":"2011-10-11T15:10:05-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1318371005,
-        "created_at":"Tue Oct 11 22:10:05 +0000 2011",
-        "display_text_range":[
-            "0",
-            "129"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"yfrog.com/ocfwroj",
-                    "expanded_url":"http://yfrog.com/ocfwroj",
-                    "indices":[
-                        "109",
-                        "129"
-                    ],
-                    "url":"http://t.co/u8Nv55OT"
-                }
+    "date:cessation_lower": "2011-10-11",
+    "date:cessation_upper": "2011-10-11",
+    "date:inception_lower": "2011-10-11",
+    "date:inception_upper": "2011-10-11",
+    "edtf:cessation": "2011-10-11T15:10:05-07:00",
+    "edtf:inception": "2011-10-11T15:10:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1318371005,
+      "created_at": "Tue Oct 11 22:10:05 +0000 2011",
+      "display_text_range": [
+        "0", 
+        "129"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "yfrog.com/ocfwroj",
+            "expanded_url": "http://yfrog.com/ocfwroj",
+            "indices": [
+              "109", 
+              "129"
             ],
-            "user_mentions":[
-                {
-                    "id":"14609321",
-                    "id_str":"14609321",
-                    "indices":[
-                        "23",
-                        "27"
-                    ],
-                    "name":"Hamza \u0621",
-                    "screen_name":"CTZ"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"Hey, that's us! : ) RT @ctz: Terminal 3 at SFO has this really cool television history museum thing going on http://t.co/u8Nv55OT",
-        "id":"123883092049010688",
-        "id_str":"123883092049010688",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "url": "http://t.co/u8Nv55OT"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "14609321",
+            "id_str": "14609321",
+            "indices": [
+              "23", 
+              "27"
+            ],
+            "name": "Hamza ء",
+            "screen_name": "CTZ"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Hey, that's us! : ) RT @ctz: Terminal 3 at SFO has this really cool television history museum thing going on http://t.co/u8Nv55OT",
+      "id": "123883092049010688",
+      "id_str": "123883092049010688",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729309461
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":123883092049010690
-    },
-    "wof:country":"US",
-    "wof:created":1602026355,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729309461,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026355,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729309461,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729309461,
-    "wof:lastmodified":1602186414,
-    "wof:name":"Hey, that's us! : ) RT @ctz: Terminal 3 at SFO has this really cool television history museum thing going on http://t.co/u8Nv55OT",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729309461,
+    "wof:lastmodified": 1602193914,
+    "wof:name": "Hey, that's us! : ) RT @ctz: Terminal 3 at SFO has this really cool television history museum thing going on http://t.co/u8Nv55OT",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

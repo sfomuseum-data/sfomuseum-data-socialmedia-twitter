@@ -2,108 +2,106 @@
   "id": 1729295507,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-03-14",
-    "date:cessation_upper":"2016-03-14",
-    "date:inception_lower":"2016-03-14",
-    "date:inception_upper":"2016-03-14",
-    "edtf:cessation":"2016-03-14T19:15:08-07:00",
-    "edtf:inception":"2016-03-14T19:15:08-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1458008108,
-        "created_at":"Tue Mar 15 02:15:08 +0000 2016",
-        "display_text_range":[
-            "0",
-            "136"
+    "date:cessation_lower": "2016-03-14",
+    "date:cessation_upper": "2016-03-14",
+    "date:inception_lower": "2016-03-14",
+    "date:inception_upper": "2016-03-14",
+    "edtf:cessation": "2016-03-14T19:15:08-07:00",
+    "edtf:inception": "2016-03-14T19:15:08-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1458008108,
+      "created_at": "Tue Mar 15 02:15:08 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "136"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "51", 
+              "68"
+            ],
+            "text": "ArtAndDisability"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "51",
-                        "68"
-                    ],
-                    "text":"ArtAndDisability"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/Zsj4K",
+            "expanded_url": "http://ow.ly/Zsj4K",
+            "indices": [
+              "113", 
+              "136"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"ow.ly/Zsj4K",
-                    "expanded_url":"http://ow.ly/Zsj4K",
-                    "indices":[
-                        "113",
-                        "136"
-                    ],
-                    "url":"https://t.co/8CXtzenOcP"
-                }
-            ],
-            "user_mentions":[]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"See more of Susan\u2019s art, in \u201cCelebrating a Vision: #ArtAndDisability\u201d, on display, post-security, in Terminal 3. https://t.co/8CXtzenOcP",
-        "id":"709563551711625216",
-        "id_str":"709563551711625216",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "url": "https://t.co/8CXtzenOcP"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "See more of Susan’s art, in “Celebrating a Vision: #ArtAndDisability”, on display, post-security, in Terminal 3. https://t.co/8CXtzenOcP",
+      "id": "709563551711625216",
+      "id_str": "709563551711625216",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729295507
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":709563551711625200
-    },
-    "wof:country":"US",
-    "wof:created":1602025822,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729295507,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025822,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729295507,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729295507,
-    "wof:lastmodified":1602186724,
-    "wof:name":"See more of Susan\u2019s art, in \u201cCelebrating a Vision: #ArtAndDisability\u201d, on display, post-security, in Terminal 3. https://t.co/8CXtzenOcP",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729295507,
+    "wof:lastmodified": 1602193905,
+    "wof:name": "See more of Susan’s art, in “Celebrating a Vision: #ArtAndDisability”, on display, post-security, in Terminal 3. https://t.co/8CXtzenOcP",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

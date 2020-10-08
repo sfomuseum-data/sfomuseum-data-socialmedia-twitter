@@ -2,176 +2,174 @@
   "id": 1729294421,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-11-05",
-    "date:cessation_upper":"2015-11-05",
-    "date:inception_lower":"2015-11-05",
-    "date:inception_upper":"2015-11-05",
-    "edtf:cessation":"2015-11-05T19:01:58-08:00",
-    "edtf:inception":"2015-11-05T19:01:58-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1446778918,
-        "created_at":"Fri Nov 06 03:01:58 +0000 2015",
-        "display_text_range":[
-            "0",
-            "140"
+    "date:cessation_lower": "2015-11-05",
+    "date:cessation_upper": "2015-11-05",
+    "date:inception_lower": "2015-11-05",
+    "date:inception_upper": "2015-11-05",
+    "edtf:cessation": "2015-11-05T19:01:58-08:00",
+    "edtf:inception": "2015-11-05T19:01:58-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1446778918,
+      "created_at": "Fri Nov 06 03:01:58 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "112", 
+              "116"
+            ],
+            "text": "TBT"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "112",
-                        "116"
-                    ],
-                    "text":"TBT"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XCaJlb8l4e",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/662464916218056704/photo/1",
+            "id": "662464915710476290",
+            "id_str": "662464915710476290",
+            "indices": [
+              "117", 
+              "140"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XCaJlb8l4e",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/662464916218056704/photo/1",
-                    "id":"662464915710476290",
-                    "id_str":"662464915710476290",
-                    "indices":[
-                        "117",
-                        "140"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CTGMVLkVAAIZctY.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CTGMVLkVAAIZctY.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1591",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"932",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"528",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XCaJlb8l4e"
-                }
+            "media_url": "http://pbs.twimg.com/media/CTGMVLkVAAIZctY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTGMVLkVAAIZctY.jpg",
+            "sizes": {
+              "large": {
+                "h": "1591",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "932",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "528",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XCaJlb8l4e"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XCaJlb8l4e",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/662464916218056704/photo/1",
+            "id": "662464915710476290",
+            "id_str": "662464915710476290",
+            "indices": [
+              "117", 
+              "140"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XCaJlb8l4e",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/662464916218056704/photo/1",
-                    "id":"662464915710476290",
-                    "id_str":"662464915710476290",
-                    "indices":[
-                        "117",
-                        "140"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CTGMVLkVAAIZctY.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CTGMVLkVAAIZctY.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1591",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"932",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"528",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XCaJlb8l4e"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"Peace by Beniamino Bufano was installed at SFO from 1958 to 1996. Do you remember seeing this sculpture at SFO? #TBT https://t.co/XCaJlb8l4e",
-        "id":"662464916218056704",
-        "id_str":"662464916218056704",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/CTGMVLkVAAIZctY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTGMVLkVAAIZctY.jpg",
+            "sizes": {
+              "large": {
+                "h": "1591",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "932",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "528",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XCaJlb8l4e"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Peace by Beniamino Bufano was installed at SFO from 1958 to 1996. Do you remember seeing this sculpture at SFO? #TBT https://t.co/XCaJlb8l4e",
+      "id": "662464916218056704",
+      "id_str": "662464916218056704",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729294421
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":662464916218056700
-    },
-    "wof:country":"US",
-    "wof:created":1602025782,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729294421,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025782,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729294421,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729294421,
-    "wof:lastmodified":1602186610,
-    "wof:name":"Peace by Beniamino Bufano was installed at SFO from 1958 to 1996. Do you remember seeing this sculpture at SFO? #TBT https://t.co/XCaJlb8l4e",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729294421,
+    "wof:lastmodified": 1602193905,
+    "wof:name": "Peace by Beniamino Bufano was installed at SFO from 1958 to 1996. Do you remember seeing this sculpture at SFO? #TBT https://t.co/XCaJlb8l4e",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

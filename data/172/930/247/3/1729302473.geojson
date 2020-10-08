@@ -2,193 +2,191 @@
   "id": 1729302473,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-02-15",
-    "date:cessation_upper":"2018-02-15",
-    "date:inception_lower":"2018-02-15",
-    "date:inception_upper":"2018-02-15",
-    "edtf:cessation":"2018-02-15T18:35:04-08:00",
-    "edtf:inception":"2018-02-15T18:35:04-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1518748504,
-        "created_at":"Fri Feb 16 02:35:04 +0000 2018",
-        "display_text_range":[
-            "0",
-            "146"
+    "date:cessation_lower": "2018-02-15",
+    "date:cessation_upper": "2018-02-15",
+    "date:inception_lower": "2018-02-15",
+    "date:inception_upper": "2018-02-15",
+    "edtf:cessation": "2018-02-15T18:35:04-08:00",
+    "edtf:inception": "2018-02-15T18:35:04-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1518748504,
+      "created_at": "Fri Feb 16 02:35:04 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "146"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "12", 
+              "24"
+            ],
+            "text": "theMainLine"
+          }, 
+          {
+            "indices": [
+              "39", 
+              "54"
+            ],
+            "text": "UnitedAirlines"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "12",
-                        "24"
-                    ],
-                    "text":"theMainLine"
-                },
-                {
-                    "indices":[
-                        "39",
-                        "54"
-                    ],
-                    "text":"UnitedAirlines"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WqMDC4toSa",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/964327239595720704/photo/1",
+            "id": "964327235732803591",
+            "id_str": "964327235732803591",
+            "indices": [
+              "123", 
+              "146"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/WqMDC4toSa",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/964327239595720704/photo/1",
-                    "id":"964327235732803591",
-                    "id_str":"964327235732803591",
-                    "indices":[
-                        "123",
-                        "146"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DWH6gv0WkAcq1DM.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DWH6gv0WkAcq1DM.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/WqMDC4toSa"
-                }
+            "media_url": "http://pbs.twimg.com/media/DWH6gv0WkAcq1DM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DWH6gv0WkAcq1DM.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/WqMDC4toSa"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/TheMainLine",
+            "expanded_url": "http://bit.ly/TheMainLine",
+            "indices": [
+              "99", 
+              "122"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/TheMainLine",
-                    "expanded_url":"http://bit.ly/TheMainLine",
-                    "indices":[
-                        "99",
-                        "122"
-                    ],
-                    "url":"https://t.co/l3SGXBPfhd"
-                }
+            "url": "https://t.co/l3SGXBPfhd"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WqMDC4toSa",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/964327239595720704/photo/1",
+            "id": "964327235732803591",
+            "id_str": "964327235732803591",
+            "indices": [
+              "123", 
+              "146"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/WqMDC4toSa",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/964327239595720704/photo/1",
-                    "id":"964327235732803591",
-                    "id_str":"964327235732803591",
-                    "indices":[
-                        "123",
-                        "146"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DWH6gv0WkAcq1DM.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DWH6gv0WkAcq1DM.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/WqMDC4toSa"
-                }
-            ]
-        },
-        "favorite_count":"9",
-        "favorited":false,
-        "full_text":"See \"Flying #theMainLine: A History of #UnitedAirlines\", on display, post-security, in Terminal 3. https://t.co/l3SGXBPfhd https://t.co/WqMDC4toSa",
-        "id":"964327239595720704",
-        "id_str":"964327239595720704",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DWH6gv0WkAcq1DM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DWH6gv0WkAcq1DM.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/WqMDC4toSa"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "See \"Flying #theMainLine: A History of #UnitedAirlines\", on display, post-security, in Terminal 3. https://t.co/l3SGXBPfhd https://t.co/WqMDC4toSa",
+      "id": "964327239595720704",
+      "id_str": "964327239595720704",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729302473
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":964327239595720700
-    },
-    "wof:country":"US",
-    "wof:created":1602026084,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729302473,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026084,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729302473,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729302473,
-    "wof:lastmodified":1602186262,
-    "wof:name":"See \"Flying #theMainLine: A History of #UnitedAirlines\", on display, post-security, in Terminal 3. https://t.co/l3SGXBPfhd https://t.co/WqMDC4toSa",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729302473,
+    "wof:lastmodified": 1602193910,
+    "wof:name": "See \"Flying #theMainLine: A History of #UnitedAirlines\", on display, post-security, in Terminal 3. https://t.co/l3SGXBPfhd https://t.co/WqMDC4toSa",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

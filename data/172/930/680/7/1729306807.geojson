@@ -2,218 +2,216 @@
   "id": 1729306807,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-08-13",
-    "date:cessation_upper":"2019-08-13",
-    "date:inception_lower":"2019-08-13",
-    "date:inception_upper":"2019-08-13",
-    "edtf:cessation":"2019-08-13T16:25:04-07:00",
-    "edtf:inception":"2019-08-13T16:25:04-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1565738704,
-        "created_at":"Tue Aug 13 23:25:04 +0000 2019",
-        "display_text_range":[
-            "0",
-            "278"
+    "date:cessation_lower": "2019-08-13",
+    "date:cessation_upper": "2019-08-13",
+    "date:inception_lower": "2019-08-13",
+    "date:inception_upper": "2019-08-13",
+    "edtf:cessation": "2019-08-13T16:25:04-07:00",
+    "edtf:inception": "2019-08-13T16:25:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1565738704,
+      "created_at": "Tue Aug 13 23:25:04 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "278"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "179", 
+              "193"
+            ],
+            "text": "TravelTuesday"
+          }, 
+          {
+            "indices": [
+              "194", 
+              "202"
+            ],
+            "text": "Florida"
+          }, 
+          {
+            "indices": [
+              "203", 
+              "209"
+            ],
+            "text": "Delta"
+          }, 
+          {
+            "indices": [
+              "210", 
+              "216"
+            ],
+            "text": "1980s"
+          }, 
+          {
+            "indices": [
+              "217", 
+              "231"
+            ],
+            "text": "graphicdesign"
+          }, 
+          {
+            "indices": [
+              "232", 
+              "239"
+            ],
+            "text": "poster"
+          }, 
+          {
+            "indices": [
+              "240", 
+              "254"
+            ],
+            "text": "vacationstyle"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "179",
-                        "193"
-                    ],
-                    "text":"TravelTuesday"
-                },
-                {
-                    "indices":[
-                        "194",
-                        "202"
-                    ],
-                    "text":"Florida"
-                },
-                {
-                    "indices":[
-                        "203",
-                        "209"
-                    ],
-                    "text":"Delta"
-                },
-                {
-                    "indices":[
-                        "210",
-                        "216"
-                    ],
-                    "text":"1980s"
-                },
-                {
-                    "indices":[
-                        "217",
-                        "231"
-                    ],
-                    "text":"graphicdesign"
-                },
-                {
-                    "indices":[
-                        "232",
-                        "239"
-                    ],
-                    "text":"poster"
-                },
-                {
-                    "indices":[
-                        "240",
-                        "254"
-                    ],
-                    "text":"vacationstyle"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FZwSI6Fy4Z",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1161418423710232576/photo/1",
+            "id": "1161418421088788480",
+            "id_str": "1161418421088788480",
+            "indices": [
+              "255", 
+              "278"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/FZwSI6Fy4Z",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1161418423710232576/photo/1",
-                    "id":"1161418421088788480",
-                    "id_str":"1161418421088788480",
-                    "indices":[
-                        "255",
-                        "278"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EB4v5oiXoAAyjOa.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EB4v5oiXoAAyjOa.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1579"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"947"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"537"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/FZwSI6Fy4Z"
-                }
+            "media_url": "http://pbs.twimg.com/media/EB4v5oiXoAAyjOa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EB4v5oiXoAAyjOa.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1579"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "947"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "537"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FZwSI6Fy4Z"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FZwSI6Fy4Z",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1161418423710232576/photo/1",
+            "id": "1161418421088788480",
+            "id_str": "1161418421088788480",
+            "indices": [
+              "255", 
+              "278"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/FZwSI6Fy4Z",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1161418423710232576/photo/1",
-                    "id":"1161418421088788480",
-                    "id_str":"1161418421088788480",
-                    "indices":[
-                        "255",
-                        "278"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EB4v5oiXoAAyjOa.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EB4v5oiXoAAyjOa.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1579"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"947"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"537"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/FZwSI6Fy4Z"
-                }
-            ]
-        },
-        "favorite_count":"9",
-        "favorited":false,
-        "full_text":"Where would you like to go this summer? Us? We\u2019re dreaming of a beachside vacation! \n\nImage: Delta Air Lines poster, Florida, 1980s. Gift of Thomas G. Dragges. 2015.109.044\n.\n.\n.\n#TravelTuesday #Florida #Delta #1980s #graphicdesign #poster #vacationstyle https://t.co/FZwSI6Fy4Z",
-        "id":"1161418423710232576",
-        "id_str":"1161418423710232576",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/EB4v5oiXoAAyjOa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EB4v5oiXoAAyjOa.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1579"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "947"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "537"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FZwSI6Fy4Z"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "Where would you like to go this summer? Us? We’re dreaming of a beachside vacation! \n\nImage: Delta Air Lines poster, Florida, 1980s. Gift of Thomas G. Dragges. 2015.109.044\n.\n.\n.\n#TravelTuesday #Florida #Delta #1980s #graphicdesign #poster #vacationstyle https://t.co/FZwSI6Fy4Z",
+      "id": "1161418423710232576",
+      "id_str": "1161418423710232576",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729306807
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1161418423710232600
-    },
-    "wof:country":"US",
-    "wof:created":1602026253,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729306807,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026253,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729306807,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729306807,
-    "wof:lastmodified":1602186273,
-    "wof:name":"Where would you like to go this summer? Us? We\u2019re dreaming of a beachside vacation! \n\nImage: Delta Air Lines poster, Florida, 1980s. Gift of Thomas G. Dragges. 2015.109.044\n.\n.\n.\n#TravelTuesday #Florida #Delta #1980s #graphicdesign #poster #vacationstyle https://t.co/FZwSI6Fy4Z",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729306807,
+    "wof:lastmodified": 1602193912,
+    "wof:name": "Where would you like to go this summer? Us? We’re dreaming of a beachside vacation! \n\nImage: Delta Air Lines poster, Florida, 1980s. Gift of Thomas G. Dragges. 2015.109.044\n.\n.\n.\n#TravelTuesday #Florida #Delta #1980s #graphicdesign #poster #vacationstyle https://t.co/FZwSI6Fy4Z",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

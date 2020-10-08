@@ -2,212 +2,210 @@
   "id": 1729291055,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-11-08",
-    "date:cessation_upper":"2013-11-08",
-    "date:inception_lower":"2013-11-08",
-    "date:inception_upper":"2013-11-08",
-    "edtf:cessation":"2013-11-08T10:19:35-08:00",
-    "edtf:inception":"2013-11-08T10:19:35-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1383934775,
-        "created_at":"Fri Nov 08 18:19:35 +0000 2013",
-        "display_text_range":[
-            "0",
-            "136"
+    "date:cessation_lower": "2013-11-08",
+    "date:cessation_upper": "2013-11-08",
+    "date:inception_lower": "2013-11-08",
+    "date:inception_upper": "2013-11-08",
+    "edtf:cessation": "2013-11-08T10:19:35-08:00",
+    "edtf:inception": "2013-11-08T10:19:35-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1383934775,
+      "created_at": "Fri Nov 08 18:19:35 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "136"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "14", 
+              "21"
+            ],
+            "text": "robots"
+          }, 
+          {
+            "indices": [
+              "100", 
+              "113"
+            ],
+            "text": "japanesetoys"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "14",
-                        "21"
-                    ],
-                    "text":"robots"
-                },
-                {
-                    "indices":[
-                        "100",
-                        "113"
-                    ],
-                    "text":"japanesetoys"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/z7I5tJvTVS",
+            "expanded_url": "https://twitter.com/malkoman/status/398861807437103104/photo/1",
+            "id": "398861807294480384",
+            "id_str": "398861807294480384",
+            "indices": [
+              "114", 
+              "136"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/z7I5tJvTVS",
-                    "expanded_url":"https://twitter.com/malkoman/status/398861807437103104/photo/1",
-                    "id":"398861807294480384",
-                    "id_str":"398861807294480384",
-                    "indices":[
-                        "114",
-                        "136"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/BYkKs1JCAAAx4fI.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/BYkKs1JCAAAx4fI.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"765",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "medium":{
-                            "h":"765",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "small":{
-                            "h":"508",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"398861807437103104",
-                    "source_status_id_str":"398861807437103104",
-                    "source_user_id":"37993715",
-                    "source_user_id_str":"37993715",
-                    "type":"photo",
-                    "url":"http://t.co/z7I5tJvTVS"
-                }
+            "media_url": "http://pbs.twimg.com/media/BYkKs1JCAAAx4fI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/BYkKs1JCAAAx4fI.jpg",
+            "sizes": {
+              "large": {
+                "h": "765",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "765",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "508",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "398861807437103104",
+            "source_status_id_str": "398861807437103104",
+            "source_user_id": "37993715",
+            "source_user_id_str": "37993715",
+            "type": "photo",
+            "url": "http://t.co/z7I5tJvTVS"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "37993715",
+            "id_str": "37993715",
+            "indices": [
+              "3", 
+              "12"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"37993715",
-                    "id_str":"37993715",
-                    "indices":[
-                        "3",
-                        "12"
-                    ],
-                    "name":"Anton Malko",
-                    "screen_name":"malkoman"
-                },
-                {
-                    "id":"116329337",
-                    "id_str":"116329337",
-                    "indices":[
-                        "89",
-                        "99"
-                    ],
-                    "name":"SFO Museum",
-                    "screen_name":"SFOMuseum"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/z7I5tJvTVS",
-                    "expanded_url":"https://twitter.com/malkoman/status/398861807437103104/photo/1",
-                    "id":"398861807294480384",
-                    "id_str":"398861807294480384",
-                    "indices":[
-                        "114",
-                        "136"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/BYkKs1JCAAAx4fI.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/BYkKs1JCAAAx4fI.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"765",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "medium":{
-                            "h":"765",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "small":{
-                            "h":"508",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"398861807437103104",
-                    "source_status_id_str":"398861807437103104",
-                    "source_user_id":"37993715",
-                    "source_user_id_str":"37993715",
-                    "type":"photo",
-                    "url":"http://t.co/z7I5tJvTVS"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @malkoman: #robots driving tractors, an airport where you might actually wanna linger @SFOMuseum #japanesetoys http://t.co/z7I5tJvTVS",
-        "id":"398877474391883776",
-        "id_str":"398877474391883776",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "Anton Malko",
+            "screen_name": "malkoman"
+          }, 
+          {
+            "id": "116329337",
+            "id_str": "116329337",
+            "indices": [
+              "89", 
+              "99"
+            ],
+            "name": "SFO Museum",
+            "screen_name": "SFOMuseum"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/z7I5tJvTVS",
+            "expanded_url": "https://twitter.com/malkoman/status/398861807437103104/photo/1",
+            "id": "398861807294480384",
+            "id_str": "398861807294480384",
+            "indices": [
+              "114", 
+              "136"
+            ],
+            "media_url": "http://pbs.twimg.com/media/BYkKs1JCAAAx4fI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/BYkKs1JCAAAx4fI.jpg",
+            "sizes": {
+              "large": {
+                "h": "765",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "765",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "508",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "398861807437103104",
+            "source_status_id_str": "398861807437103104",
+            "source_user_id": "37993715",
+            "source_user_id_str": "37993715",
+            "type": "photo",
+            "url": "http://t.co/z7I5tJvTVS"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @malkoman: #robots driving tractors, an airport where you might actually wanna linger @SFOMuseum #japanesetoys http://t.co/z7I5tJvTVS",
+      "id": "398877474391883776",
+      "id_str": "398877474391883776",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729291055
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":398877474391883800
-    },
-    "wof:country":"US",
-    "wof:created":1602025656,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729291055,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025656,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729291055,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729291055,
-    "wof:lastmodified":1602186575,
-    "wof:name":"RT @malkoman: #robots driving tractors, an airport where you might actually wanna linger @SFOMuseum #japanesetoys http://t.co/z7I5tJvTVS",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729291055,
+    "wof:lastmodified": 1602193903,
+    "wof:name": "RT @malkoman: #robots driving tractors, an airport where you might actually wanna linger @SFOMuseum #japanesetoys http://t.co/z7I5tJvTVS",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

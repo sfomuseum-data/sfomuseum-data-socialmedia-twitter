@@ -2,212 +2,210 @@
   "id": 1729294643,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-12-11",
-    "date:cessation_upper":"2015-12-11",
-    "date:inception_lower":"2015-12-11",
-    "date:inception_upper":"2015-12-11",
-    "edtf:cessation":"2015-12-11T20:15:31-08:00",
-    "edtf:inception":"2015-12-11T20:15:31-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1449893731,
-        "created_at":"Sat Dec 12 04:15:31 +0000 2015",
-        "display_text_range":[
-            "0",
-            "139"
+    "date:cessation_lower": "2015-12-11",
+    "date:cessation_upper": "2015-12-11",
+    "date:inception_lower": "2015-12-11",
+    "date:inception_upper": "2015-12-11",
+    "edtf:cessation": "2015-12-11T20:15:31-08:00",
+    "edtf:inception": "2015-12-11T20:15:31-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1449893731,
+      "created_at": "Sat Dec 12 04:15:31 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "139"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "105", 
+              "115"
+            ],
+            "text": "SFHistory"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "105",
-                        "115"
-                    ],
-                    "text":"SFHistory"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/a81pQTyjsg",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/675529388381896704/photo/1",
+            "id": "675529386779537408",
+            "id_str": "675529386779537408",
+            "indices": [
+              "116", 
+              "139"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/a81pQTyjsg",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/675529388381896704/photo/1",
-                    "id":"675529386779537408",
-                    "id_str":"675529386779537408",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CV_2Ze5U8AABrDJ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CV_2Ze5U8AABrDJ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1527",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"895",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"507",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/a81pQTyjsg"
-                }
+            "media_url": "http://pbs.twimg.com/media/CV_2Ze5U8AABrDJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CV_2Ze5U8AABrDJ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1527",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "895",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "507",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/a81pQTyjsg"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/a81pQTyjsg",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/675529388381896704/photo/1",
+            "id": "675529386779537408",
+            "id_str": "675529386779537408",
+            "indices": [
+              "116", 
+              "139"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/a81pQTyjsg",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/675529388381896704/photo/1",
-                    "id":"675529386779537408",
-                    "id_str":"675529386779537408",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CV_2Ze5U8AABrDJ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CV_2Ze5U8AABrDJ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1527",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"895",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"507",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/a81pQTyjsg"
-                },
-                {
-                    "display_url":"pic.twitter.com/a81pQTyjsg",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/675529388381896704/photo/1",
-                    "id":"675529387689664512",
-                    "id_str":"675529387689664512",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CV_2ZiSUYAANs6Y.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CV_2ZiSUYAANs6Y.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1579",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"925",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"524",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/a81pQTyjsg"
-                }
-            ]
-        },
-        "favorite_count":"5",
-        "favorited":false,
-        "full_text":"Stanley Henry Page, mechanical engineer and photographer, took amazing aerial photos of SF in the 1920s. #SFHistory https://t.co/a81pQTyjsg",
-        "id":"675529388381896704",
-        "id_str":"675529388381896704",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"6",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/CV_2Ze5U8AABrDJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CV_2Ze5U8AABrDJ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1527",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "895",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "507",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/a81pQTyjsg"
+          }, 
+          {
+            "display_url": "pic.twitter.com/a81pQTyjsg",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/675529388381896704/photo/1",
+            "id": "675529387689664512",
+            "id_str": "675529387689664512",
+            "indices": [
+              "116", 
+              "139"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CV_2ZiSUYAANs6Y.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CV_2ZiSUYAANs6Y.jpg",
+            "sizes": {
+              "large": {
+                "h": "1579",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "925",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "524",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/a81pQTyjsg"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "Stanley Henry Page, mechanical engineer and photographer, took amazing aerial photos of SF in the 1920s. #SFHistory https://t.co/a81pQTyjsg",
+      "id": "675529388381896704",
+      "id_str": "675529388381896704",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "6",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729294643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":675529388381896700
-    },
-    "wof:country":"US",
-    "wof:created":1602025790,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729294643,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025790,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729294643,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729294643,
-    "wof:lastmodified":1602186605,
-    "wof:name":"Stanley Henry Page, mechanical engineer and photographer, took amazing aerial photos of SF in the 1920s. #SFHistory https://t.co/a81pQTyjsg",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729294643,
+    "wof:lastmodified": 1602193905,
+    "wof:name": "Stanley Henry Page, mechanical engineer and photographer, took amazing aerial photos of SF in the 1920s. #SFHistory https://t.co/a81pQTyjsg",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

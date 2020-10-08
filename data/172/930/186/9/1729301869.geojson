@@ -2,190 +2,188 @@
   "id": 1729301869,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-12-08",
-    "date:cessation_upper":"2017-12-08",
-    "date:inception_lower":"2017-12-08",
-    "date:inception_upper":"2017-12-08",
-    "edtf:cessation":"2017-12-08T17:00:19-08:00",
-    "edtf:inception":"2017-12-08T17:00:19-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1512781219,
-        "created_at":"Sat Dec 09 01:00:19 +0000 2017",
-        "display_text_range":[
-            "0",
-            "236"
+    "date:cessation_lower": "2017-12-08",
+    "date:cessation_upper": "2017-12-08",
+    "date:inception_lower": "2017-12-08",
+    "date:inception_upper": "2017-12-08",
+    "edtf:cessation": "2017-12-08T17:00:19-08:00",
+    "edtf:inception": "2017-12-08T17:00:19-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1512781219,
+      "created_at": "Sat Dec 09 01:00:19 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "236"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "57", 
+              "65"
+            ],
+            "text": "redware"
+          }, 
+          {
+            "indices": [
+              "73", 
+              "83"
+            ],
+            "text": "sgraffito"
+          }, 
+          {
+            "indices": [
+              "196", 
+              "212"
+            ],
+            "text": "AmericanFolkArt"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "57",
-                        "65"
-                    ],
-                    "text":"redware"
-                },
-                {
-                    "indices":[
-                        "73",
-                        "83"
-                    ],
-                    "text":"sgraffito"
-                },
-                {
-                    "indices":[
-                        "196",
-                        "212"
-                    ],
-                    "text":"AmericanFolkArt"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ZIGhTEqIen",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/939298628987957254/photo/1",
+            "id": "939298624659492871",
+            "id_str": "939298624659492871",
+            "indices": [
+              "213", 
+              "236"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/ZIGhTEqIen",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/939298628987957254/photo/1",
-                    "id":"939298624659492871",
-                    "id_str":"939298624659492871",
-                    "indices":[
-                        "213",
-                        "236"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DQkPH1zXkAchO3x.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DQkPH1zXkAchO3x.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/ZIGhTEqIen"
-                }
+            "media_url": "http://pbs.twimg.com/media/DQkPH1zXkAchO3x.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DQkPH1zXkAchO3x.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZIGhTEqIen"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ZIGhTEqIen",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/939298628987957254/photo/1",
+            "id": "939298624659492871",
+            "id_str": "939298624659492871",
+            "indices": [
+              "213", 
+              "236"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/ZIGhTEqIen",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/939298628987957254/photo/1",
-                    "id":"939298624659492871",
-                    "id_str":"939298624659492871",
-                    "indices":[
-                        "213",
-                        "236"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DQkPH1zXkAchO3x.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DQkPH1zXkAchO3x.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/ZIGhTEqIen"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"Potters often enhanced earthenware pottery, often called #redware, using #sgraffito, in which a pattern is incised into a thin layer of slip, a liquid clay, revealing the colored clay underneath. #AmericanFolkArt https://t.co/ZIGhTEqIen",
-        "id":"939298628987957254",
-        "id_str":"939298628987957254",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DQkPH1zXkAchO3x.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DQkPH1zXkAchO3x.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZIGhTEqIen"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Potters often enhanced earthenware pottery, often called #redware, using #sgraffito, in which a pattern is incised into a thin layer of slip, a liquid clay, revealing the colored clay underneath. #AmericanFolkArt https://t.co/ZIGhTEqIen",
+      "id": "939298628987957254",
+      "id_str": "939298628987957254",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729301869
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":939298628987957200
-    },
-    "wof:country":"US",
-    "wof:created":1602026061,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729301869,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026061,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729301869,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729301869,
-    "wof:lastmodified":1602186225,
-    "wof:name":"Potters often enhanced earthenware pottery, often called #redware, using #sgraffito, in which a pattern is incised into a thin layer of slip, a liquid clay, revealing the colored clay underneath. #AmericanFolkArt https://t.co/ZIGhTEqIen",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729301869,
+    "wof:lastmodified": 1602193909,
+    "wof:name": "Potters often enhanced earthenware pottery, often called #redware, using #sgraffito, in which a pattern is incised into a thin layer of slip, a liquid clay, revealing the colored clay underneath. #AmericanFolkArt https://t.co/ZIGhTEqIen",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

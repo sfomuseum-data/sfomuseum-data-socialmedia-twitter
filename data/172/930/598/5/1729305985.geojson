@@ -2,230 +2,228 @@
   "id": 1729305985,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-04-16",
-    "date:cessation_upper":"2019-04-16",
-    "date:inception_lower":"2019-04-16",
-    "date:inception_upper":"2019-04-16",
-    "edtf:cessation":"2019-04-16T19:15:04-07:00",
-    "edtf:inception":"2019-04-16T19:15:04-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1555467304,
-        "created_at":"Wed Apr 17 02:15:04 +0000 2019",
-        "display_text_range":[
-            "0",
-            "308"
+    "date:cessation_lower": "2019-04-16",
+    "date:cessation_upper": "2019-04-16",
+    "date:inception_lower": "2019-04-16",
+    "date:inception_upper": "2019-04-16",
+    "edtf:cessation": "2019-04-16T19:15:04-07:00",
+    "edtf:inception": "2019-04-16T19:15:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1555467304,
+      "created_at": "Wed Apr 17 02:15:04 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "308"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "8", 
+              "20"
+            ],
+            "text": "RyanMcClean"
+          }, 
+          {
+            "indices": [
+              "255", 
+              "269"
+            ],
+            "text": "BritishSilver"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "8",
-                        "20"
-                    ],
-                    "text":"RyanMcClean"
-                },
-                {
-                    "indices":[
-                        "255",
-                        "269"
-                    ],
-                    "text":"BritishSilver"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/iHR0tlHi7r",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1118337047423586304/photo/1",
+            "id": "1118337044982448132",
+            "id_str": "1118337044982448132",
+            "indices": [
+              "285", 
+              "308"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/iHR0tlHi7r",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1118337047423586304/photo/1",
-                    "id":"1118337044982448132",
-                    "id_str":"1118337044982448132",
-                    "indices":[
-                        "285",
-                        "308"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D4UhngFWwAQIWBA.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D4UhngFWwAQIWBA.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1931"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"1159"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"657"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/iHR0tlHi7r"
-                }
+            "media_url": "http://pbs.twimg.com/media/D4UhngFWwAQIWBA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4UhngFWwAQIWBA.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1931"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1159"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "657"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/iHR0tlHi7r"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "20302184",
+            "id_str": "20302184",
+            "indices": [
+              "270", 
+              "284"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"20302184",
-                    "id_str":"20302184",
-                    "indices":[
-                        "270",
-                        "284"
-                    ],
-                    "name":"Ryan McClean",
-                    "screen_name":"Mccleansilver"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/iHR0tlHi7r",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1118337047423586304/photo/1",
-                    "id":"1118337044982448132",
-                    "id_str":"1118337044982448132",
-                    "indices":[
-                        "285",
-                        "308"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D4UhngFWwAQIWBA.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D4UhngFWwAQIWBA.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1931"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"1159"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"657"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/iHR0tlHi7r"
-                },
-                {
-                    "display_url":"pic.twitter.com/iHR0tlHi7r",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1118337047423586304/photo/1",
-                    "id":"1118337045171265538",
-                    "id_str":"1118337045171265538",
-                    "indices":[
-                        "285",
-                        "308"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D4UhngyX4AIIqL8.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D4UhngyX4AIIqL8.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/iHR0tlHi7r"
-                }
-            ]
-        },
-        "favorite_count":"6",
-        "favorited":false,
-        "full_text":"Much of #RyanMcClean's output reflects his interest in the science behind the growth and pattern formation in naturally formed material. McClean hand-raised this vase from a single sheet of silver &amp; hammered the texture onto the pitch-supported form. #BritishSilver @Mccleansilver https://t.co/iHR0tlHi7r",
-        "id":"1118337047423586304",
-        "id_str":"1118337047423586304",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"3",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "name": "Ryan McClean",
+            "screen_name": "Mccleansilver"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/iHR0tlHi7r",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1118337047423586304/photo/1",
+            "id": "1118337044982448132",
+            "id_str": "1118337044982448132",
+            "indices": [
+              "285", 
+              "308"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D4UhngFWwAQIWBA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4UhngFWwAQIWBA.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1931"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1159"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "657"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/iHR0tlHi7r"
+          }, 
+          {
+            "display_url": "pic.twitter.com/iHR0tlHi7r",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1118337047423586304/photo/1",
+            "id": "1118337045171265538",
+            "id_str": "1118337045171265538",
+            "indices": [
+              "285", 
+              "308"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D4UhngyX4AIIqL8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4UhngyX4AIIqL8.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/iHR0tlHi7r"
+          }
+        ]
+      },
+      "favorite_count": "6",
+      "favorited": false,
+      "full_text": "Much of #RyanMcClean's output reflects his interest in the science behind the growth and pattern formation in naturally formed material. McClean hand-raised this vase from a single sheet of silver \u0026amp; hammered the texture onto the pitch-supported form. #BritishSilver @Mccleansilver https://t.co/iHR0tlHi7r",
+      "id": "1118337047423586304",
+      "id_str": "1118337047423586304",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729305985
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1118337047423586300
-    },
-    "wof:country":"US",
-    "wof:created":1602026222,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729305985,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026222,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729305985,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729305985,
-    "wof:lastmodified":1602186370,
-    "wof:name":"Much of #RyanMcClean's output reflects his interest in the science behind the growth and pattern formation in naturally formed material. McClean hand-raised this vase from a single sheet of silver &amp; hammered the texture onto the pitch-supported form. #BritishSilver @Mccleansilver https://t.co/iHR0tlHi7r",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729305985,
+    "wof:lastmodified": 1602193912,
+    "wof:name": "Much of #RyanMcClean's output reflects his interest in the science behind the growth and pattern formation in naturally formed material. McClean hand-raised this vase from a single sheet of silver \u0026amp; hammered the texture onto the pitch-supported form. #BritishSilver @Mccleansilver https://t.co/iHR0tlHi7r",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

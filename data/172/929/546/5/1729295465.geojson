@@ -2,111 +2,109 @@
   "id": 1729295465,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-03-09",
-    "date:cessation_upper":"2016-03-09",
-    "date:inception_lower":"2016-03-09",
-    "date:inception_upper":"2016-03-09",
-    "edtf:cessation":"2016-03-09T16:05:10-08:00",
-    "edtf:inception":"2016-03-09T16:05:10-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1457568310,
-        "created_at":"Thu Mar 10 00:05:10 +0000 2016",
-        "display_text_range":[
-            "0",
-            "138"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"usat.ly/1oLQj8F",
-                    "expanded_url":"http://usat.ly/1oLQj8F",
-                    "indices":[
-                        "101",
-                        "124"
-                    ],
-                    "url":"https://t.co/zjRYjKnjav"
-                }
+    "date:cessation_lower": "2016-03-09",
+    "date:cessation_upper": "2016-03-09",
+    "date:inception_lower": "2016-03-09",
+    "date:inception_upper": "2016-03-09",
+    "edtf:cessation": "2016-03-09T16:05:10-08:00",
+    "edtf:inception": "2016-03-09T16:05:10-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1457568310,
+      "created_at": "Thu Mar 10 00:05:10 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "138"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "usat.ly/1oLQj8F",
+            "expanded_url": "http://usat.ly/1oLQj8F",
+            "indices": [
+              "101", 
+              "124"
             ],
-            "user_mentions":[
-                {
-                    "id":"15754281",
-                    "id_str":"15754281",
-                    "indices":[
-                        "129",
-                        "138"
-                    ],
-                    "name":"USA TODAY",
-                    "screen_name":"USATODAY"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"The world's 25 longest airline routes - two depart from SFO. What's the longest flight you've taken? https://t.co/zjRYjKnjav via @usatoday",
-        "id":"707718903871344640",
-        "id_str":"707718903871344640",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated":false
+            "url": "https://t.co/zjRYjKnjav"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "15754281",
+            "id_str": "15754281",
+            "indices": [
+              "129", 
+              "138"
+            ],
+            "name": "USA TODAY",
+            "screen_name": "USATODAY"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "The world's 25 longest airline routes - two depart from SFO. What's the longest flight you've taken? https://t.co/zjRYjKnjav via @usatoday",
+      "id": "707718903871344640",
+      "id_str": "707718903871344640",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729295465
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":707718903871344600
-    },
-    "wof:country":"US",
-    "wof:created":1602025821,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729295465,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025821,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729295465,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729295465,
-    "wof:lastmodified":1602186722,
-    "wof:name":"The world's 25 longest airline routes - two depart from SFO. What's the longest flight you've taken? https://t.co/zjRYjKnjav via @usatoday",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729295465,
+    "wof:lastmodified": 1602193905,
+    "wof:name": "The world's 25 longest airline routes - two depart from SFO. What's the longest flight you've taken? https://t.co/zjRYjKnjav via @usatoday",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

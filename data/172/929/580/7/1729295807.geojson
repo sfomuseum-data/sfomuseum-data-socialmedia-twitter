@@ -2,122 +2,120 @@
   "id": 1729295807,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-04-21",
-    "date:cessation_upper":"2016-04-21",
-    "date:inception_lower":"2016-04-21",
-    "date:inception_upper":"2016-04-21",
-    "edtf:cessation":"2016-04-21T16:30:37-07:00",
-    "edtf:inception":"2016-04-21T16:30:37-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1461281437,
-        "created_at":"Thu Apr 21 23:30:37 +0000 2016",
-        "display_text_range":[
-            "0",
-            "140"
+    "date:cessation_lower": "2016-04-21",
+    "date:cessation_upper": "2016-04-21",
+    "date:inception_lower": "2016-04-21",
+    "date:inception_upper": "2016-04-21",
+    "edtf:cessation": "2016-04-21T16:30:37-07:00",
+    "edtf:inception": "2016-04-21T16:30:37-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1461281437,
+      "created_at": "Thu Apr 21 23:30:37 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "97", 
+              "114"
+            ],
+            "text": "ArtAndDisability"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "97",
-                        "114"
-                    ],
-                    "text":"ArtAndDisability"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "youtube.com/watch?v=bHIfea…",
+            "expanded_url": "https://www.youtube.com/watch?v=bHIfeaDzq1g",
+            "indices": [
+              "117", 
+              "140"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"youtube.com/watch?v=bHIfea\u2026",
-                    "expanded_url":"https://www.youtube.com/watch?v=bHIfeaDzq1g",
-                    "indices":[
-                        "117",
-                        "140"
-                    ],
-                    "url":"https://t.co/lXHDkA24RO"
-                }
+            "url": "https://t.co/lXHDkA24RO"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "59629328",
+            "id_str": "59629328",
+            "indices": [
+              "0", 
+              "16"
             ],
-            "user_mentions":[
-                {
-                    "id":"59629328",
-                    "id_str":"59629328",
-                    "indices":[
-                        "0",
-                        "16"
-                    ],
-                    "name":"Creativity Explored",
-                    "screen_name":"creativityxplrd"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"@creativityxplrd of SF is one of the 3 pioneering art centers featured in \"Celebrating a Vision: #ArtAndDisability\u201d. https://t.co/lXHDkA24RO",
-        "id":"723292890307407872",
-        "id_str":"723292890307407872",
-        "in_reply_to_screen_name":"creativityxplrd",
-        "in_reply_to_user_id":"59629328",
-        "in_reply_to_user_id_str":"59629328",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "Creativity Explored",
+            "screen_name": "creativityxplrd"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@creativityxplrd of SF is one of the 3 pioneering art centers featured in \"Celebrating a Vision: #ArtAndDisability”. https://t.co/lXHDkA24RO",
+      "id": "723292890307407872",
+      "id_str": "723292890307407872",
+      "in_reply_to_screen_name": "creativityxplrd",
+      "in_reply_to_user_id": "59629328",
+      "in_reply_to_user_id_str": "59629328",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729295807
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":723292890307407900
-    },
-    "wof:country":"US",
-    "wof:created":1602025833,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729295807,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025833,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729295807,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729295807,
-    "wof:lastmodified":1602186676,
-    "wof:name":"@creativityxplrd of SF is one of the 3 pioneering art centers featured in \"Celebrating a Vision: #ArtAndDisability\u201d. https://t.co/lXHDkA24RO",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729295807,
+    "wof:lastmodified": 1602193905,
+    "wof:name": "@creativityxplrd of SF is one of the 3 pioneering art centers featured in \"Celebrating a Vision: #ArtAndDisability”. https://t.co/lXHDkA24RO",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

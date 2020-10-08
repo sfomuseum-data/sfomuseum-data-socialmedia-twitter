@@ -2,212 +2,210 @@
   "id": 1729296307,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-05-31",
-    "date:cessation_upper":"2016-05-31",
-    "date:inception_lower":"2016-05-31",
-    "date:inception_upper":"2016-05-31",
-    "edtf:cessation":"2016-05-31T20:00:15-07:00",
-    "edtf:inception":"2016-05-31T20:00:15-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1464750015,
-        "created_at":"Wed Jun 01 03:00:15 +0000 2016",
-        "display_text_range":[
-            "0",
-            "120"
+    "date:cessation_lower": "2016-05-31",
+    "date:cessation_upper": "2016-05-31",
+    "date:inception_lower": "2016-05-31",
+    "date:inception_upper": "2016-05-31",
+    "edtf:cessation": "2016-05-31T20:00:15-07:00",
+    "edtf:inception": "2016-05-31T20:00:15-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1464750015,
+      "created_at": "Wed Jun 01 03:00:15 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "120"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "82", 
+              "96"
+            ],
+            "text": "TravelTuesday"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "82",
-                        "96"
-                    ],
-                    "text":"TravelTuesday"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FIZX4pHeCk",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/737841161172320256/photo/1",
+            "id": "737841159561740288",
+            "id_str": "737841159561740288",
+            "indices": [
+              "97", 
+              "120"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/FIZX4pHeCk",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/737841161172320256/photo/1",
-                    "id":"737841159561740288",
-                    "id_str":"737841159561740288",
-                    "indices":[
-                        "97",
-                        "120"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cj1WoBhXAAAtdMJ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cj1WoBhXAAAtdMJ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1400"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"840"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"476"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/FIZX4pHeCk"
-                }
+            "media_url": "http://pbs.twimg.com/media/Cj1WoBhXAAAtdMJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cj1WoBhXAAAtdMJ.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1400"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "840"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "476"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FIZX4pHeCk"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FIZX4pHeCk",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/737841161172320256/photo/1",
+            "id": "737841159561740288",
+            "id_str": "737841159561740288",
+            "indices": [
+              "97", 
+              "120"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/FIZX4pHeCk",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/737841161172320256/photo/1",
-                    "id":"737841159561740288",
-                    "id_str":"737841159561740288",
-                    "indices":[
-                        "97",
-                        "120"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cj1WoBhXAAAtdMJ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cj1WoBhXAAAtdMJ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1400"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"840"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"476"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/FIZX4pHeCk"
-                },
-                {
-                    "display_url":"pic.twitter.com/FIZX4pHeCk",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/737841161172320256/photo/1",
-                    "id":"737841157540085760",
-                    "id_str":"737841157540085760",
-                    "indices":[
-                        "97",
-                        "120"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cj1Wn5_XAAAKJ_5.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cj1Wn5_XAAAKJ_5.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1419"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"851"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"482"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/FIZX4pHeCk"
-                }
-            ]
-        },
-        "favorite_count":"4",
-        "favorited":false,
-        "full_text":"Aeroflot, one of the oldest airlines in the world, was founded in Russia in 1923. #TravelTuesday https://t.co/FIZX4pHeCk",
-        "id":"737841161172320256",
-        "id_str":"737841161172320256",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/Cj1WoBhXAAAtdMJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cj1WoBhXAAAtdMJ.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1400"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "840"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "476"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FIZX4pHeCk"
+          }, 
+          {
+            "display_url": "pic.twitter.com/FIZX4pHeCk",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/737841161172320256/photo/1",
+            "id": "737841157540085760",
+            "id_str": "737841157540085760",
+            "indices": [
+              "97", 
+              "120"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cj1Wn5_XAAAKJ_5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cj1Wn5_XAAAKJ_5.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1419"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "851"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "482"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FIZX4pHeCk"
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "Aeroflot, one of the oldest airlines in the world, was founded in Russia in 1923. #TravelTuesday https://t.co/FIZX4pHeCk",
+      "id": "737841161172320256",
+      "id_str": "737841161172320256",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729296307
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":737841161172320300
-    },
-    "wof:country":"US",
-    "wof:created":1602025852,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729296307,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025852,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729296307,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729296307,
-    "wof:lastmodified":1602186548,
-    "wof:name":"Aeroflot, one of the oldest airlines in the world, was founded in Russia in 1923. #TravelTuesday https://t.co/FIZX4pHeCk",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729296307,
+    "wof:lastmodified": 1602193906,
+    "wof:name": "Aeroflot, one of the oldest airlines in the world, was founded in Russia in 1923. #TravelTuesday https://t.co/FIZX4pHeCk",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,218 +2,216 @@
   "id": 1729299909,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-04-13",
-    "date:cessation_upper":"2017-04-13",
-    "date:inception_lower":"2017-04-13",
-    "date:inception_upper":"2017-04-13",
-    "edtf:cessation":"2017-04-13T16:54:29-07:00",
-    "edtf:inception":"2017-04-13T16:54:29-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1492127669,
-        "created_at":"Thu Apr 13 23:54:29 +0000 2017",
-        "display_text_range":[
-            "0",
-            "85"
-        ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/zbdjlUeG0I",
-                    "expanded_url":"https://twitter.com/GlennFarleyK5/status/852580724100050944/video/1",
-                    "id":"852580580080312320",
-                    "id_str":"852580580080312320",
-                    "indices":[
-                        "62",
-                        "85"
-                    ],
-                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/852580580080312320/pu/img/5xPZTScGu_3iEPW0.jpg",
-                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/852580580080312320/pu/img/5xPZTScGu_3iEPW0.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"720",
-                            "resize":"fit",
-                            "w":"1280"
-                        },
-                        "medium":{
-                            "h":"675",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"383",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"852580724100050944",
-                    "source_status_id_str":"852580724100050944",
-                    "source_user_id":"39534067",
-                    "source_user_id_str":"39534067",
-                    "type":"photo",
-                    "url":"https://t.co/zbdjlUeG0I"
-                }
+    "date:cessation_lower": "2017-04-13",
+    "date:cessation_upper": "2017-04-13",
+    "date:inception_lower": "2017-04-13",
+    "date:inception_upper": "2017-04-13",
+    "edtf:cessation": "2017-04-13T16:54:29-07:00",
+    "edtf:inception": "2017-04-13T16:54:29-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1492127669,
+      "created_at": "Thu Apr 13 23:54:29 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "85"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zbdjlUeG0I",
+            "expanded_url": "https://twitter.com/GlennFarleyK5/status/852580724100050944/video/1",
+            "id": "852580580080312320",
+            "id_str": "852580580080312320",
+            "indices": [
+              "62", 
+              "85"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852580580080312320/pu/img/5xPZTScGu_3iEPW0.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852580580080312320/pu/img/5xPZTScGu_3iEPW0.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "852580724100050944",
+            "source_status_id_str": "852580724100050944",
+            "source_user_id": "39534067",
+            "source_user_id_str": "39534067",
+            "type": "photo",
+            "url": "https://t.co/zbdjlUeG0I"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "39534067",
+            "id_str": "39534067",
+            "indices": [
+              "3", 
+              "17"
+            ],
+            "name": "Glenn Farley",
+            "screen_name": "GlennFarleyK5"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/zbdjlUeG0I",
+            "expanded_url": "https://twitter.com/GlennFarleyK5/status/852580724100050944/video/1",
+            "id": "852580580080312320",
+            "id_str": "852580580080312320",
+            "indices": [
+              "62", 
+              "85"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852580580080312320/pu/img/5xPZTScGu_3iEPW0.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852580580080312320/pu/img/5xPZTScGu_3iEPW0.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "852580724100050944",
+            "source_status_id_str": "852580724100050944",
+            "source_user_id": "39534067",
+            "source_user_id_str": "39534067",
+            "type": "video",
+            "url": "https://t.co/zbdjlUeG0I",
+            "video_info": {
+              "aspect_ratio": [
+                "16", 
+                "9"
+              ],
+              "duration_millis": "38993",
+              "variants": [
                 {
-                    "id":"39534067",
-                    "id_str":"39534067",
-                    "indices":[
-                        "3",
-                        "17"
-                    ],
-                    "name":"Glenn Farley",
-                    "screen_name":"GlennFarleyK5"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/852580580080312320/pu/pl/aYZR5cgo_SWs5K8n.m3u8"
+                }, 
                 {
-                    "additional_media_info":{
-                        "monetizable":false
-                    },
-                    "display_url":"pic.twitter.com/zbdjlUeG0I",
-                    "expanded_url":"https://twitter.com/GlennFarleyK5/status/852580724100050944/video/1",
-                    "id":"852580580080312320",
-                    "id_str":"852580580080312320",
-                    "indices":[
-                        "62",
-                        "85"
-                    ],
-                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/852580580080312320/pu/img/5xPZTScGu_3iEPW0.jpg",
-                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/852580580080312320/pu/img/5xPZTScGu_3iEPW0.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"720",
-                            "resize":"fit",
-                            "w":"1280"
-                        },
-                        "medium":{
-                            "h":"675",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"383",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"852580724100050944",
-                    "source_status_id_str":"852580724100050944",
-                    "source_user_id":"39534067",
-                    "source_user_id_str":"39534067",
-                    "type":"video",
-                    "url":"https://t.co/zbdjlUeG0I",
-                    "video_info":{
-                        "aspect_ratio":[
-                            "16",
-                            "9"
-                        ],
-                        "duration_millis":"38993",
-                        "variants":[
-                            {
-                                "content_type":"application/x-mpegURL",
-                                "url":"https://video.twimg.com/ext_tw_video/852580580080312320/pu/pl/aYZR5cgo_SWs5K8n.m3u8"
-                            },
-                            {
-                                "bitrate":"2176000",
-                                "content_type":"video/mp4",
-                                "url":"https://video.twimg.com/ext_tw_video/852580580080312320/pu/vid/1280x720/kVHQgtlYzNYdPlw4.mp4"
-                            },
-                            {
-                                "bitrate":"256000",
-                                "content_type":"video/mp4",
-                                "url":"https://video.twimg.com/ext_tw_video/852580580080312320/pu/vid/320x180/uaAN6dJxDiCb23G-.mp4"
-                            },
-                            {
-                                "bitrate":"832000",
-                                "content_type":"video/mp4",
-                                "url":"https://video.twimg.com/ext_tw_video/852580580080312320/pu/vid/640x360/0ZM6zSt7FKxgpX8I.mp4"
-                            }
-                        ]
-                    }
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/852580580080312320/pu/vid/1280x720/kVHQgtlYzNYdPlw4.mp4"
+                }, 
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/852580580080312320/pu/vid/320x180/uaAN6dJxDiCb23G-.mp4"
+                }, 
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/852580580080312320/pu/vid/640x360/0ZM6zSt7FKxgpX8I.mp4"
                 }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @GlennFarleyK5: 737 MAX 9 in the air. About 10:50 Pacific. https://t.co/zbdjlUeG0I",
-        "id":"852671363953197056",
-        "id_str":"852671363953197056",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "truncated":false
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @GlennFarleyK5: 737 MAX 9 in the air. About 10:50 Pacific. https://t.co/zbdjlUeG0I",
+      "id": "852671363953197056",
+      "id_str": "852671363953197056",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729299909
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":852671363953197000
-    },
-    "wof:country":"US",
-    "wof:created":1602025991,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299909,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025991,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299909,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299909,
-    "wof:lastmodified":1602186635,
-    "wof:name":"RT @GlennFarleyK5: 737 MAX 9 in the air. About 10:50 Pacific. https://t.co/zbdjlUeG0I",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299909,
+    "wof:lastmodified": 1602193908,
+    "wof:name": "RT @GlennFarleyK5: 737 MAX 9 in the air. About 10:50 Pacific. https://t.co/zbdjlUeG0I",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

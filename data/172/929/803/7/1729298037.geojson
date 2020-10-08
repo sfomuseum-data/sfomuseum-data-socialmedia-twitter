@@ -2,186 +2,184 @@
   "id": 1729298037,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-09-29",
-    "date:cessation_upper":"2016-09-29",
-    "date:inception_lower":"2016-09-29",
-    "date:inception_upper":"2016-09-29",
-    "edtf:cessation":"2016-09-29T20:25:06-07:00",
-    "edtf:inception":"2016-09-29T20:25:06-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1475205906,
-        "created_at":"Fri Sep 30 03:25:06 +0000 2016",
-        "display_text_range":[
-            "0",
-            "164"
+    "date:cessation_lower": "2016-09-29",
+    "date:cessation_upper": "2016-09-29",
+    "date:inception_lower": "2016-09-29",
+    "date:inception_upper": "2016-09-29",
+    "edtf:cessation": "2016-09-29T20:25:06-07:00",
+    "edtf:inception": "2016-09-29T20:25:06-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1475205906,
+      "created_at": "Fri Sep 30 03:25:06 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "164"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "124", 
+              "140"
+            ],
+            "text": "FashionInFlight"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "124",
-                        "140"
-                    ],
-                    "text":"FashionInFlight"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/hhMJ2CUyZg",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/781696343681171456/photo/1",
+            "id": "781696339549847552",
+            "id_str": "781696339549847552",
+            "indices": [
+              "141", 
+              "164"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/hhMJ2CUyZg",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/781696343681171456/photo/1",
-                    "id":"781696339549847552",
-                    "id_str":"781696339549847552",
-                    "indices":[
-                        "141",
-                        "164"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CtkkreEXgAAxJlf.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CtkkreEXgAAxJlf.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1242",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"745",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"422",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/hhMJ2CUyZg"
-                }
+            "media_url": "http://pbs.twimg.com/media/CtkkreEXgAAxJlf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CtkkreEXgAAxJlf.jpg",
+            "sizes": {
+              "large": {
+                "h": "1242",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "745",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "422",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/hhMJ2CUyZg"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/FIFPhoto",
+            "expanded_url": "http://bit.ly/FIFPhoto",
+            "indices": [
+              "100", 
+              "123"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/FIFPhoto",
-                    "expanded_url":"http://bit.ly/FIFPhoto",
-                    "indices":[
-                        "100",
-                        "123"
-                    ],
-                    "url":"https://t.co/uIrDcAZpet"
-                }
+            "url": "https://t.co/uIrDcAZpet"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/hhMJ2CUyZg",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/781696343681171456/photo/1",
+            "id": "781696339549847552",
+            "id_str": "781696339549847552",
+            "indices": [
+              "141", 
+              "164"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/hhMJ2CUyZg",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/781696343681171456/photo/1",
-                    "id":"781696339549847552",
-                    "id_str":"781696339549847552",
-                    "indices":[
-                        "141",
-                        "164"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CtkkreEXgAAxJlf.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CtkkreEXgAAxJlf.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1242",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"745",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"422",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/hhMJ2CUyZg"
-                }
-            ]
-        },
-        "favorite_count":"5",
-        "favorited":false,
-        "full_text":"The flight attendant uniform has been documented in photos ranging from the formal to the impromptu https://t.co/uIrDcAZpet #FashionInFlight https://t.co/hhMJ2CUyZg",
-        "id":"781696343681171456",
-        "id_str":"781696343681171456",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"3",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/CtkkreEXgAAxJlf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CtkkreEXgAAxJlf.jpg",
+            "sizes": {
+              "large": {
+                "h": "1242",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "745",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "422",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/hhMJ2CUyZg"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "The flight attendant uniform has been documented in photos ranging from the formal to the impromptu https://t.co/uIrDcAZpet #FashionInFlight https://t.co/hhMJ2CUyZg",
+      "id": "781696343681171456",
+      "id_str": "781696343681171456",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729298037
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":781696343681171500
-    },
-    "wof:country":"US",
-    "wof:created":1602025920,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729298037,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025920,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729298037,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729298037,
-    "wof:lastmodified":1602186667,
-    "wof:name":"The flight attendant uniform has been documented in photos ranging from the formal to the impromptu https://t.co/uIrDcAZpet #FashionInFlight https://t.co/hhMJ2CUyZg",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729298037,
+    "wof:lastmodified": 1602193907,
+    "wof:name": "The flight attendant uniform has been documented in photos ranging from the formal to the impromptu https://t.co/uIrDcAZpet #FashionInFlight https://t.co/hhMJ2CUyZg",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

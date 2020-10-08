@@ -2,186 +2,184 @@
   "id": 1729305253,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-01-30",
-    "date:cessation_upper":"2019-01-30",
-    "date:inception_lower":"2019-01-30",
-    "date:inception_upper":"2019-01-30",
-    "edtf:cessation":"2019-01-30T18:45:03-08:00",
-    "edtf:inception":"2019-01-30T18:45:03-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1548902703,
-        "created_at":"Thu Jan 31 02:45:03 +0000 2019",
-        "display_text_range":[
-            "0",
-            "187"
+    "date:cessation_lower": "2019-01-30",
+    "date:cessation_upper": "2019-01-30",
+    "date:inception_lower": "2019-01-30",
+    "date:inception_upper": "2019-01-30",
+    "edtf:cessation": "2019-01-30T18:45:03-08:00",
+    "edtf:inception": "2019-01-30T18:45:03-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1548902703,
+      "created_at": "Thu Jan 31 02:45:03 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "187"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "142", 
+              "163"
+            ],
+            "text": "SurfboardsAndShapers"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "142",
-                        "163"
-                    ],
-                    "text":"SurfboardsAndShapers"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/gbuK2agBhS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1090803117116002304/photo/1",
+            "id": "1090803115320840193",
+            "id_str": "1090803115320840193",
+            "indices": [
+              "164", 
+              "187"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/gbuK2agBhS",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1090803117116002304/photo/1",
-                    "id":"1090803115320840193",
-                    "id_str":"1090803115320840193",
-                    "indices":[
-                        "164",
-                        "187"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DyNPp3CWkAEP7oS.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DyNPp3CWkAEP7oS.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/gbuK2agBhS"
-                }
+            "media_url": "http://pbs.twimg.com/media/DyNPp3CWkAEP7oS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DyNPp3CWkAEP7oS.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/gbuK2agBhS"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/SurfboardsAndS…",
+            "expanded_url": "http://bit.ly/SurfboardsAndShapers",
+            "indices": [
+              "118", 
+              "141"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/SurfboardsAndS\u2026",
-                    "expanded_url":"http://bit.ly/SurfboardsAndShapers",
-                    "indices":[
-                        "118",
-                        "141"
-                    ],
-                    "url":"https://t.co/tLn0Lx4AFo"
-                }
+            "url": "https://t.co/tLn0Lx4AFo"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/gbuK2agBhS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1090803117116002304/photo/1",
+            "id": "1090803115320840193",
+            "id_str": "1090803115320840193",
+            "indices": [
+              "164", 
+              "187"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/gbuK2agBhS",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1090803117116002304/photo/1",
-                    "id":"1090803115320840193",
-                    "id_str":"1090803115320840193",
-                    "indices":[
-                        "164",
-                        "187"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DyNPp3CWkAEP7oS.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DyNPp3CWkAEP7oS.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/gbuK2agBhS"
-                }
-            ]
-        },
-        "favorite_count":"8",
-        "favorited":false,
-        "full_text":"\"Reflections in Wood \u2014 Surfboards and Shapers\" exhibition is on display, pre-security, in the International Terminal. https://t.co/tLn0Lx4AFo #SurfboardsAndShapers https://t.co/gbuK2agBhS",
-        "id":"1090803117116002304",
-        "id_str":"1090803117116002304",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"5",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DyNPp3CWkAEP7oS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DyNPp3CWkAEP7oS.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/gbuK2agBhS"
+          }
+        ]
+      },
+      "favorite_count": "8",
+      "favorited": false,
+      "full_text": "\"Reflections in Wood — Surfboards and Shapers\" exhibition is on display, pre-security, in the International Terminal. https://t.co/tLn0Lx4AFo #SurfboardsAndShapers https://t.co/gbuK2agBhS",
+      "id": "1090803117116002304",
+      "id_str": "1090803117116002304",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "5",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729305253
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1090803117116002300
-    },
-    "wof:country":"US",
-    "wof:created":1602026193,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729305253,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026193,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729305253,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729305253,
-    "wof:lastmodified":1602186266,
-    "wof:name":"\"Reflections in Wood \u2014 Surfboards and Shapers\" exhibition is on display, pre-security, in the International Terminal. https://t.co/tLn0Lx4AFo #SurfboardsAndShapers https://t.co/gbuK2agBhS",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729305253,
+    "wof:lastmodified": 1602193911,
+    "wof:name": "\"Reflections in Wood — Surfboards and Shapers\" exhibition is on display, pre-security, in the International Terminal. https://t.co/tLn0Lx4AFo #SurfboardsAndShapers https://t.co/gbuK2agBhS",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

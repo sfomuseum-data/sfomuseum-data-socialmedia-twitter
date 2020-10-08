@@ -2,111 +2,109 @@
   "id": 1729295887,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-05-05",
-    "date:cessation_upper":"2016-05-05",
-    "date:inception_lower":"2016-05-05",
-    "date:inception_upper":"2016-05-05",
-    "edtf:cessation":"2016-05-05T13:15:37-07:00",
-    "edtf:inception":"2016-05-05T13:15:37-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1462479337,
-        "created_at":"Thu May 05 20:15:37 +0000 2016",
-        "display_text_range":[
-            "0",
-            "108"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"vox.com/2016/5/2/11520\u2026",
-                    "expanded_url":"http://www.vox.com/2016/5/2/11520288/pilot-airplane-photos",
-                    "indices":[
-                        "85",
-                        "108"
-                    ],
-                    "url":"https://t.co/te8U7Xplxx"
-                }
+    "date:cessation_lower": "2016-05-05",
+    "date:cessation_upper": "2016-05-05",
+    "date:inception_lower": "2016-05-05",
+    "date:inception_upper": "2016-05-05",
+    "edtf:cessation": "2016-05-05T13:15:37-07:00",
+    "edtf:inception": "2016-05-05T13:15:37-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1462479337,
+      "created_at": "Thu May 05 20:15:37 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "108"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "vox.com/2016/5/2/11520…",
+            "expanded_url": "http://www.vox.com/2016/5/2/11520288/pilot-airplane-photos",
+            "indices": [
+              "85", 
+              "108"
             ],
-            "user_mentions":[
-                {
-                    "id":"2347049341",
-                    "id_str":"2347049341",
-                    "indices":[
-                        "73",
-                        "83"
-                    ],
-                    "name":"Vox",
-                    "screen_name":"voxdotcom"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"I fly 747s for a living. Here are the amazing things I see every day via @voxdotcom  https://t.co/te8U7Xplxx",
-        "id":"728317246133522432",
-        "id_str":"728317246133522432",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "truncated":false
+            "url": "https://t.co/te8U7Xplxx"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "2347049341",
+            "id_str": "2347049341",
+            "indices": [
+              "73", 
+              "83"
+            ],
+            "name": "Vox",
+            "screen_name": "voxdotcom"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "I fly 747s for a living. Here are the amazing things I see every day via @voxdotcom  https://t.co/te8U7Xplxx",
+      "id": "728317246133522432",
+      "id_str": "728317246133522432",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729295887
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":728317246133522400
-    },
-    "wof:country":"US",
-    "wof:created":1602025836,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729295887,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025836,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729295887,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729295887,
-    "wof:lastmodified":1602186524,
-    "wof:name":"I fly 747s for a living. Here are the amazing things I see every day via @voxdotcom  https://t.co/te8U7Xplxx",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729295887,
+    "wof:lastmodified": 1602193905,
+    "wof:name": "I fly 747s for a living. Here are the amazing things I see every day via @voxdotcom  https://t.co/te8U7Xplxx",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

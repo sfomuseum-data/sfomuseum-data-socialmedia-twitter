@@ -2,176 +2,174 @@
   "id": 1729299995,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-04-18",
-    "date:cessation_upper":"2017-04-18",
-    "date:inception_lower":"2017-04-18",
-    "date:inception_upper":"2017-04-18",
-    "edtf:cessation":"2017-04-18T20:00:12-07:00",
-    "edtf:inception":"2017-04-18T20:00:12-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1492570812,
-        "created_at":"Wed Apr 19 03:00:12 +0000 2017",
-        "display_text_range":[
-            "0",
-            "149"
+    "date:cessation_lower": "2017-04-18",
+    "date:cessation_upper": "2017-04-18",
+    "date:inception_lower": "2017-04-18",
+    "date:inception_upper": "2017-04-18",
+    "edtf:cessation": "2017-04-18T20:00:12-07:00",
+    "edtf:inception": "2017-04-18T20:00:12-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1492570812,
+      "created_at": "Wed Apr 19 03:00:12 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "149"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "118", 
+              "125"
+            ],
+            "text": "avgeek"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "118",
-                        "125"
-                    ],
-                    "text":"avgeek"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/1BSGs4u1sf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/854530039890796544/photo/1",
+            "id": "854530036334047232",
+            "id_str": "854530036334047232",
+            "indices": [
+              "126", 
+              "149"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/1BSGs4u1sf",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/854530039890796544/photo/1",
-                    "id":"854530036334047232",
-                    "id_str":"854530036334047232",
-                    "indices":[
-                        "126",
-                        "149"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C9vmimGXsAAWZVv.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C9vmimGXsAAWZVv.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1610",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"966",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"547",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/1BSGs4u1sf"
-                }
+            "media_url": "http://pbs.twimg.com/media/C9vmimGXsAAWZVv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C9vmimGXsAAWZVv.jpg",
+            "sizes": {
+              "large": {
+                "h": "1610",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "966",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "547",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/1BSGs4u1sf"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/1BSGs4u1sf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/854530039890796544/photo/1",
+            "id": "854530036334047232",
+            "id_str": "854530036334047232",
+            "indices": [
+              "126", 
+              "149"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/1BSGs4u1sf",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/854530039890796544/photo/1",
-                    "id":"854530036334047232",
-                    "id_str":"854530036334047232",
-                    "indices":[
-                        "126",
-                        "149"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C9vmimGXsAAWZVv.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C9vmimGXsAAWZVv.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1610",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"966",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"547",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/1BSGs4u1sf"
-                }
-            ]
-        },
-        "favorite_count":"4",
-        "favorited":false,
-        "full_text":"Have you ever wondered how airplanes are painted? This 1970s World Airways DC-10 is in the paint shop, awaiting work. #avgeek https://t.co/1BSGs4u1sf",
-        "id":"854530039890796544",
-        "id_str":"854530039890796544",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/C9vmimGXsAAWZVv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C9vmimGXsAAWZVv.jpg",
+            "sizes": {
+              "large": {
+                "h": "1610",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "966",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "547",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/1BSGs4u1sf"
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "Have you ever wondered how airplanes are painted? This 1970s World Airways DC-10 is in the paint shop, awaiting work. #avgeek https://t.co/1BSGs4u1sf",
+      "id": "854530039890796544",
+      "id_str": "854530039890796544",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729299995
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":854530039890796500
-    },
-    "wof:country":"US",
-    "wof:created":1602025994,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299995,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025994,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299995,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299995,
-    "wof:lastmodified":1602186672,
-    "wof:name":"Have you ever wondered how airplanes are painted? This 1970s World Airways DC-10 is in the paint shop, awaiting work. #avgeek https://t.co/1BSGs4u1sf",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299995,
+    "wof:lastmodified": 1602193908,
+    "wof:name": "Have you ever wondered how airplanes are painted? This 1970s World Airways DC-10 is in the paint shop, awaiting work. #avgeek https://t.co/1BSGs4u1sf",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

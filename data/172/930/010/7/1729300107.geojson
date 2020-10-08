@@ -2,200 +2,198 @@
   "id": 1729300107,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-05-05",
-    "date:cessation_upper":"2017-05-05",
-    "date:inception_lower":"2017-05-05",
-    "date:inception_upper":"2017-05-05",
-    "edtf:cessation":"2017-05-05T18:35:04-07:00",
-    "edtf:inception":"2017-05-05T18:35:04-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1494034504,
-        "created_at":"Sat May 06 01:35:04 +0000 2017",
-        "display_text_range":[
-            "0",
-            "159"
+    "date:cessation_lower": "2017-05-05",
+    "date:cessation_upper": "2017-05-05",
+    "date:inception_lower": "2017-05-05",
+    "date:inception_upper": "2017-05-05",
+    "edtf:cessation": "2017-05-05T18:35:04-07:00",
+    "edtf:inception": "2017-05-05T18:35:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1494034504,
+      "created_at": "Sat May 06 01:35:04 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "159"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "32", 
+              "48"
+            ],
+            "text": "RookwoodPottery"
+          }, 
+          {
+            "indices": [
+              "103", 
+              "117"
+            ],
+            "text": "ArtsandCrafts"
+          }, 
+          {
+            "indices": [
+              "118", 
+              "135"
+            ],
+            "text": "SFOArtsandCrafts"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "32",
-                        "48"
-                    ],
-                    "text":"RookwoodPottery"
-                },
-                {
-                    "indices":[
-                        "103",
-                        "117"
-                    ],
-                    "text":"ArtsandCrafts"
-                },
-                {
-                    "indices":[
-                        "118",
-                        "135"
-                    ],
-                    "text":"SFOArtsandCrafts"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XRKaSB7Rbe",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/860669210816421888/photo/1",
+            "id": "860669207817728001",
+            "id_str": "860669207817728001",
+            "indices": [
+              "136", 
+              "159"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XRKaSB7Rbe",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/860669210816421888/photo/1",
-                    "id":"860669207817728001",
-                    "id_str":"860669207817728001",
-                    "indices":[
-                        "136",
-                        "159"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C_G2FaEXsAEQ9I8.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C_G2FaEXsAEQ9I8.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XRKaSB7Rbe"
-                }
+            "media_url": "http://pbs.twimg.com/media/C_G2FaEXsAEQ9I8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C_G2FaEXsAEQ9I8.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XRKaSB7Rbe"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/SFOArtsandCraf…",
+            "expanded_url": "http://bit.ly/SFOArtsandCrafts",
+            "indices": [
+              "79", 
+              "102"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/SFOArtsandCraf\u2026",
-                    "expanded_url":"http://bit.ly/SFOArtsandCrafts",
-                    "indices":[
-                        "79",
-                        "102"
-                    ],
-                    "url":"https://t.co/beGCVuR0KZ"
-                }
+            "url": "https://t.co/beGCVuR0KZ"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XRKaSB7Rbe",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/860669210816421888/photo/1",
+            "id": "860669207817728001",
+            "id_str": "860669207817728001",
+            "indices": [
+              "136", 
+              "159"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XRKaSB7Rbe",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/860669210816421888/photo/1",
-                    "id":"860669207817728001",
-                    "id_str":"860669207817728001",
-                    "indices":[
-                        "136",
-                        "159"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C_G2FaEXsAEQ9I8.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C_G2FaEXsAEQ9I8.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XRKaSB7Rbe"
-                }
-            ]
-        },
-        "favorite_count":"3",
-        "favorited":false,
-        "full_text":"Maria Longworth Nichols founded #RookwoodPottery in Cincinnati, Ohio, in 1880. https://t.co/beGCVuR0KZ #ArtsandCrafts #SFOArtsandCrafts https://t.co/XRKaSB7Rbe",
-        "id":"860669210816421888",
-        "id_str":"860669210816421888",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/C_G2FaEXsAEQ9I8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C_G2FaEXsAEQ9I8.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XRKaSB7Rbe"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "Maria Longworth Nichols founded #RookwoodPottery in Cincinnati, Ohio, in 1880. https://t.co/beGCVuR0KZ #ArtsandCrafts #SFOArtsandCrafts https://t.co/XRKaSB7Rbe",
+      "id": "860669210816421888",
+      "id_str": "860669210816421888",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729300107
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":860669210816421900
-    },
-    "wof:country":"US",
-    "wof:created":1602025997,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729300107,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025997,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729300107,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729300107,
-    "wof:lastmodified":1602186428,
-    "wof:name":"Maria Longworth Nichols founded #RookwoodPottery in Cincinnati, Ohio, in 1880. https://t.co/beGCVuR0KZ #ArtsandCrafts #SFOArtsandCrafts https://t.co/XRKaSB7Rbe",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729300107,
+    "wof:lastmodified": 1602193909,
+    "wof:name": "Maria Longworth Nichols founded #RookwoodPottery in Cincinnati, Ohio, in 1880. https://t.co/beGCVuR0KZ #ArtsandCrafts #SFOArtsandCrafts https://t.co/XRKaSB7Rbe",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

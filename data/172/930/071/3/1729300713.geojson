@@ -2,115 +2,113 @@
   "id": 1729300713,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-07-20",
-    "date:cessation_upper":"2017-07-20",
-    "date:inception_lower":"2017-07-20",
-    "date:inception_upper":"2017-07-20",
-    "edtf:cessation":"2017-07-20T09:57:09-07:00",
-    "edtf:inception":"2017-07-20T09:57:09-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1500569829,
-        "created_at":"Thu Jul 20 16:57:09 +0000 2017",
-        "display_text_range":[
-            "0",
-            "144"
-        ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "70",
-                        "77"
-                    ],
-                    "text":"Beluga"
-                },
-                {
-                    "indices":[
-                        "84",
-                        "93"
-                    ],
-                    "text":"BelugaXL"
-                }
+    "date:cessation_lower": "2017-07-20",
+    "date:cessation_upper": "2017-07-20",
+    "date:inception_lower": "2017-07-20",
+    "date:inception_upper": "2017-07-20",
+    "edtf:cessation": "2017-07-20T09:57:09-07:00",
+    "edtf:inception": "2017-07-20T09:57:09-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1500569829,
+      "created_at": "Thu Jul 20 16:57:09 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "144"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "70", 
+              "77"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"15425377",
-                    "id_str":"15425377",
-                    "indices":[
-                        "3",
-                        "10"
-                    ],
-                    "name":"Airbus",
-                    "screen_name":"Airbus"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @Airbus: We have opened a new 7200 m\u00b2 hangar in Getafe to help the #Beluga &amp; #BelugaXL increase their flying hours to support our produc\u2026",
-        "id":"888080349615476738",
-        "id_str":"888080349615476738",
-        "lang":"en",
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated":false
+            "text": "Beluga"
+          }, 
+          {
+            "indices": [
+              "84", 
+              "93"
+            ],
+            "text": "BelugaXL"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "15425377",
+            "id_str": "15425377",
+            "indices": [
+              "3", 
+              "10"
+            ],
+            "name": "Airbus",
+            "screen_name": "Airbus"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @Airbus: We have opened a new 7200 m² hangar in Getafe to help the #Beluga \u0026amp; #BelugaXL increase their flying hours to support our produc…",
+      "id": "888080349615476738",
+      "id_str": "888080349615476738",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729300713
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":888080349615476700
-    },
-    "wof:country":"US",
-    "wof:created":1602026020,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729300713,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026020,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729300713,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729300713,
-    "wof:lastmodified":1602186394,
-    "wof:name":"RT @Airbus: We have opened a new 7200 m\u00b2 hangar in Getafe to help the #Beluga &amp; #BelugaXL increase their flying hours to support our produc\u2026",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729300713,
+    "wof:lastmodified": 1602193909,
+    "wof:name": "RT @Airbus: We have opened a new 7200 m² hangar in Getafe to help the #Beluga \u0026amp; #BelugaXL increase their flying hours to support our produc…",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

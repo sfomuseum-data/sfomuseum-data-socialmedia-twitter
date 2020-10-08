@@ -2,186 +2,184 @@
   "id": 1729296471,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-06-14",
-    "date:cessation_upper":"2016-06-14",
-    "date:inception_lower":"2016-06-14",
-    "date:inception_upper":"2016-06-14",
-    "edtf:cessation":"2016-06-14T18:40:08-07:00",
-    "edtf:inception":"2016-06-14T18:40:08-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1465954808,
-        "created_at":"Wed Jun 15 01:40:08 +0000 2016",
-        "display_text_range":[
-            "0",
-            "134"
+    "date:cessation_lower": "2016-06-14",
+    "date:cessation_upper": "2016-06-14",
+    "date:inception_lower": "2016-06-14",
+    "date:inception_upper": "2016-06-14",
+    "edtf:cessation": "2016-06-14T18:40:08-07:00",
+    "edtf:inception": "2016-06-14T18:40:08-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1465954808,
+      "created_at": "Wed Jun 15 01:40:08 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "134"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "23", 
+              "40"
+            ],
+            "text": "ArtAndDisability"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "23",
-                        "40"
-                    ],
-                    "text":"ArtAndDisability"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/67EwpNj680",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/742894427828592642/photo/1",
+            "id": "742894422749290497",
+            "id_str": "742894422749290497",
+            "indices": [
+              "111", 
+              "134"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/67EwpNj680",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/742894427828592642/photo/1",
-                    "id":"742894422749290497",
-                    "id_str":"742894422749290497",
-                    "indices":[
-                        "111",
-                        "134"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Ck9Kip2XIAEVI92.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Ck9Kip2XIAEVI92.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1365",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/67EwpNj680"
-                }
+            "media_url": "http://pbs.twimg.com/media/Ck9Kip2XIAEVI92.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ck9Kip2XIAEVI92.jpg",
+            "sizes": {
+              "large": {
+                "h": "1365",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/67EwpNj680"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/ArtAndDisabili…",
+            "expanded_url": "http://bit.ly/ArtAndDisability",
+            "indices": [
+              "87", 
+              "110"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/ArtAndDisabili\u2026",
-                    "expanded_url":"http://bit.ly/ArtAndDisability",
-                    "indices":[
-                        "87",
-                        "110"
-                    ],
-                    "url":"https://t.co/Zffsk9qy1H"
-                }
+            "url": "https://t.co/Zffsk9qy1H"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/67EwpNj680",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/742894427828592642/photo/1",
+            "id": "742894422749290497",
+            "id_str": "742894422749290497",
+            "indices": [
+              "111", 
+              "134"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/67EwpNj680",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/742894427828592642/photo/1",
-                    "id":"742894422749290497",
-                    "id_str":"742894422749290497",
-                    "indices":[
-                        "111",
-                        "134"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Ck9Kip2XIAEVI92.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Ck9Kip2XIAEVI92.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1365",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/67EwpNj680"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"\"Celebrating a Vision: #ArtAndDisability\" is on display, post-security, in Terminal 3. https://t.co/Zffsk9qy1H https://t.co/67EwpNj680",
-        "id":"742894427828592642",
-        "id_str":"742894427828592642",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/Ck9Kip2XIAEVI92.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ck9Kip2XIAEVI92.jpg",
+            "sizes": {
+              "large": {
+                "h": "1365",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/67EwpNj680"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "\"Celebrating a Vision: #ArtAndDisability\" is on display, post-security, in Terminal 3. https://t.co/Zffsk9qy1H https://t.co/67EwpNj680",
+      "id": "742894427828592642",
+      "id_str": "742894427828592642",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729296471
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":742894427828592600
-    },
-    "wof:country":"US",
-    "wof:created":1602025858,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729296471,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025858,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729296471,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729296471,
-    "wof:lastmodified":1602186699,
-    "wof:name":"\"Celebrating a Vision: #ArtAndDisability\" is on display, post-security, in Terminal 3. https://t.co/Zffsk9qy1H https://t.co/67EwpNj680",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729296471,
+    "wof:lastmodified": 1602193906,
+    "wof:name": "\"Celebrating a Vision: #ArtAndDisability\" is on display, post-security, in Terminal 3. https://t.co/Zffsk9qy1H https://t.co/67EwpNj680",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

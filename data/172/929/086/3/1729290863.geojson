@@ -2,129 +2,127 @@
   "id": 1729290863,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-09-16",
-    "date:cessation_upper":"2013-09-16",
-    "date:inception_lower":"2013-09-16",
-    "date:inception_upper":"2013-09-16",
-    "edtf:cessation":"2013-09-16T16:05:44-07:00",
-    "edtf:inception":"2013-09-16T16:05:44-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1379372744,
-        "created_at":"Mon Sep 16 23:05:44 +0000 2013",
-        "display_text_range":[
-            "0",
-            "138"
+    "date:cessation_lower": "2013-09-16",
+    "date:cessation_upper": "2013-09-16",
+    "date:inception_lower": "2013-09-16",
+    "date:inception_upper": "2013-09-16",
+    "edtf:cessation": "2013-09-16T16:05:44-07:00",
+    "edtf:inception": "2013-09-16T16:05:44-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1379372744,
+      "created_at": "Mon Sep 16 23:05:44 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "138"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "124", 
+              "138"
+            ],
+            "text": "sfotagyourbag"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "124",
-                        "138"
-                    ],
-                    "text":"sfotagyourbag"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/oVBkK",
+            "expanded_url": "http://ow.ly/oVBkK",
+            "indices": [
+              "101", 
+              "123"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"ow.ly/oVBkK",
-                    "expanded_url":"http://ow.ly/oVBkK",
-                    "indices":[
-                        "101",
-                        "123"
-                    ],
-                    "url":"http://t.co/4uMwZHIZEM"
-                }
+            "url": "http://t.co/4uMwZHIZEM"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "16408759",
+            "id_str": "16408759",
+            "indices": [
+              "26", 
+              "33"
             ],
-            "user_mentions":[
-                {
-                    "id":"16408759",
-                    "id_str":"16408759",
-                    "indices":[
-                        "26",
-                        "33"
-                    ],
-                    "name":"San Francisco International Airport (SFO) \u2708\ufe0f",
-                    "screen_name":"flySFO"
-                },
-                {
-                    "id":"14995801",
-                    "id_str":"14995801",
-                    "indices":[
-                        "85",
-                        "93"
-                    ],
-                    "name":"Timbuk2",
-                    "screen_name":"timbuk2"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"Love flight bags? So does @flySFO! Send them a pic of your bag for a chance to win a @timbuk2 prize! http://t.co/4uMwZHIZEM #sfotagyourbag",
-        "id":"379742928790626304",
-        "id_str":"379742928790626304",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "San Francisco International Airport (SFO) ✈️",
+            "screen_name": "flySFO"
+          }, 
+          {
+            "id": "14995801",
+            "id_str": "14995801",
+            "indices": [
+              "85", 
+              "93"
+            ],
+            "name": "Timbuk2",
+            "screen_name": "timbuk2"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Love flight bags? So does @flySFO! Send them a pic of your bag for a chance to win a @timbuk2 prize! http://t.co/4uMwZHIZEM #sfotagyourbag",
+      "id": "379742928790626304",
+      "id_str": "379742928790626304",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729290863
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":379742928790626300
-    },
-    "wof:country":"US",
-    "wof:created":1602025649,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729290863,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025649,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729290863,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729290863,
-    "wof:lastmodified":1602186555,
-    "wof:name":"Love flight bags? So does @flySFO! Send them a pic of your bag for a chance to win a @timbuk2 prize! http://t.co/4uMwZHIZEM #sfotagyourbag",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729290863,
+    "wof:lastmodified": 1602193903,
+    "wof:name": "Love flight bags? So does @flySFO! Send them a pic of your bag for a chance to win a @timbuk2 prize! http://t.co/4uMwZHIZEM #sfotagyourbag",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

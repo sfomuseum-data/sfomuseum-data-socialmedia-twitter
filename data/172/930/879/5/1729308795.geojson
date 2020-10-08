@@ -2,100 +2,98 @@
   "id": 1729308795,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-08-25",
-    "date:cessation_upper":"2020-08-25",
-    "date:inception_lower":"2020-08-25",
-    "date:inception_upper":"2020-08-25",
-    "edtf:cessation":"2020-08-25T15:22:41-07:00",
-    "edtf:inception":"2020-08-25T15:22:41-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1598394161,
-        "created_at":"Tue Aug 25 22:22:41 +0000 2020",
-        "display_text_range":[
-            "0",
-            "140"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"14848513",
-                    "id_str":"14848513",
-                    "indices":[
-                        "3",
-                        "15"
-                    ],
-                    "name":"National Air and Space Museum",
-                    "screen_name":"airandspace"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @airandspace: Today in 1932, Amelia Earhart completed the first solo, nonstop flight by a woman across the United States. She flew 2,447\u2026",
-        "id":"1298385337308176384",
-        "id_str":"1298385337308176384",
-        "lang":"en",
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "truncated":false
+    "date:cessation_lower": "2020-08-25",
+    "date:cessation_upper": "2020-08-25",
+    "date:inception_lower": "2020-08-25",
+    "date:inception_upper": "2020-08-25",
+    "edtf:cessation": "2020-08-25T15:22:41-07:00",
+    "edtf:inception": "2020-08-25T15:22:41-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1598394161,
+      "created_at": "Tue Aug 25 22:22:41 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "14848513",
+            "id_str": "14848513",
+            "indices": [
+              "3", 
+              "15"
+            ],
+            "name": "National Air and Space Museum",
+            "screen_name": "airandspace"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @airandspace: Today in 1932, Amelia Earhart completed the first solo, nonstop flight by a woman across the United States. She flew 2,447…",
+      "id": "1298385337308176384",
+      "id_str": "1298385337308176384",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729308795
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1298385337308176400
-    },
-    "wof:country":"US",
-    "wof:created":1602026328,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729308795,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026328,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729308795,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729308795,
-    "wof:lastmodified":1602186204,
-    "wof:name":"RT @airandspace: Today in 1932, Amelia Earhart completed the first solo, nonstop flight by a woman across the United States. She flew 2,447\u2026",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729308795,
+    "wof:lastmodified": 1602193914,
+    "wof:name": "RT @airandspace: Today in 1932, Amelia Earhart completed the first solo, nonstop flight by a woman across the United States. She flew 2,447…",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

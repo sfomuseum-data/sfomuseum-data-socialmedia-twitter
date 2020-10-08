@@ -2,120 +2,118 @@
   "id": 1729309019,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-03-21",
-    "date:cessation_upper":"2012-03-21",
-    "date:inception_lower":"2012-03-21",
-    "date:inception_upper":"2012-03-21",
-    "edtf:cessation":"2012-03-21T16:53:15-07:00",
-    "edtf:inception":"2012-03-21T16:53:15-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1332373995,
-        "created_at":"Wed Mar 21 23:53:15 +0000 2012",
-        "display_text_range":[
-            "0",
-            "140"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"239140636",
-                    "id_str":"239140636",
-                    "indices":[
-                        "3",
-                        "16"
-                    ],
-                    "name":"PaulHucklebuckWms",
-                    "screen_name":"ThirtyFive30"
-                },
-                {
-                    "id":"116329337",
-                    "id_str":"116329337",
-                    "indices":[
-                        "18",
-                        "28"
-                    ],
-                    "name":"SFO Museum",
-                    "screen_name":"SFOMuseum"
-                },
-                {
-                    "id":"612473",
-                    "id_str":"612473",
-                    "indices":[
-                        "29",
-                        "37"
-                    ],
-                    "name":"BBC News (UK)",
-                    "screen_name":"BBCNews"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @ThirtyFive30: @SFOMuseum @BBCNews   Paul Williams and his Hucklebuckers were the only band to perform at the Moondog Coronation Ball ...",
-        "id":"182615891240947712",
-        "id_str":"182615891240947712",
-        "lang":"en",
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+    "date:cessation_lower": "2012-03-21",
+    "date:cessation_upper": "2012-03-21",
+    "date:inception_lower": "2012-03-21",
+    "date:inception_upper": "2012-03-21",
+    "edtf:cessation": "2012-03-21T16:53:15-07:00",
+    "edtf:inception": "2012-03-21T16:53:15-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1332373995,
+      "created_at": "Wed Mar 21 23:53:15 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "239140636",
+            "id_str": "239140636",
+            "indices": [
+              "3", 
+              "16"
+            ],
+            "name": "PaulHucklebuckWms",
+            "screen_name": "ThirtyFive30"
+          }, 
+          {
+            "id": "116329337",
+            "id_str": "116329337",
+            "indices": [
+              "18", 
+              "28"
+            ],
+            "name": "SFO Museum",
+            "screen_name": "SFOMuseum"
+          }, 
+          {
+            "id": "612473",
+            "id_str": "612473",
+            "indices": [
+              "29", 
+              "37"
+            ],
+            "name": "BBC News (UK)",
+            "screen_name": "BBCNews"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @ThirtyFive30: @SFOMuseum @BBCNews   Paul Williams and his Hucklebuckers were the only band to perform at the Moondog Coronation Ball ...",
+      "id": "182615891240947712",
+      "id_str": "182615891240947712",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729309019
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":182615891240947700
-    },
-    "wof:country":"US",
-    "wof:created":1602026337,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729309019,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026337,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729309019,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729309019,
-    "wof:lastmodified":1602186414,
-    "wof:name":"RT @ThirtyFive30: @SFOMuseum @BBCNews   Paul Williams and his Hucklebuckers were the only band to perform at the Moondog Coronation Ball ...",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729309019,
+    "wof:lastmodified": 1602193914,
+    "wof:name": "RT @ThirtyFive30: @SFOMuseum @BBCNews   Paul Williams and his Hucklebuckers were the only band to perform at the Moondog Coronation Ball ...",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

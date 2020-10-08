@@ -2,186 +2,184 @@
   "id": 1729303211,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-05-13",
-    "date:cessation_upper":"2018-05-13",
-    "date:inception_lower":"2018-05-13",
-    "date:inception_upper":"2018-05-13",
-    "edtf:cessation":"2018-05-13T13:20:05-07:00",
-    "edtf:inception":"2018-05-13T13:20:05-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1526242805,
-        "created_at":"Sun May 13 20:20:05 +0000 2018",
-        "display_text_range":[
-            "0",
-            "219"
+    "date:cessation_lower": "2018-05-13",
+    "date:cessation_upper": "2018-05-13",
+    "date:inception_lower": "2018-05-13",
+    "date:inception_upper": "2018-05-13",
+    "edtf:cessation": "2018-05-13T13:20:05-07:00",
+    "edtf:inception": "2018-05-13T13:20:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1526242805,
+      "created_at": "Sun May 13 20:20:05 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "219"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "101", 
+              "119"
+            ],
+            "text": "PhotoAllianceHome"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "101",
-                        "119"
-                    ],
-                    "text":"PhotoAllianceHome"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/VkpmETvmnk",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/995760614688657408/photo/1",
+            "id": "995760611953852416",
+            "id_str": "995760611953852416",
+            "indices": [
+              "196", 
+              "219"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/VkpmETvmnk",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/995760614688657408/photo/1",
-                    "id":"995760611953852416",
-                    "id_str":"995760611953852416",
-                    "indices":[
-                        "196",
-                        "219"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DdGnADTVwAA26x9.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DdGnADTVwAA26x9.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"810",
-                            "resize":"fit",
-                            "w":"1013"
-                        },
-                        "medium":{
-                            "h":"810",
-                            "resize":"fit",
-                            "w":"1013"
-                        },
-                        "small":{
-                            "h":"544",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/VkpmETvmnk"
-                }
+            "media_url": "http://pbs.twimg.com/media/DdGnADTVwAA26x9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DdGnADTVwAA26x9.jpg",
+            "sizes": {
+              "large": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1013"
+              },
+              "medium": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1013"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/VkpmETvmnk"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2Idib4b",
+            "expanded_url": "http://bit.ly/2Idib4b",
+            "indices": [
+              "77", 
+              "100"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/2Idib4b",
-                    "expanded_url":"http://bit.ly/2Idib4b",
-                    "indices":[
-                        "77",
-                        "100"
-                    ],
-                    "url":"https://t.co/k07PVwzlJD"
-                }
+            "url": "https://t.co/k07PVwzlJD"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/VkpmETvmnk",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/995760614688657408/photo/1",
+            "id": "995760611953852416",
+            "id_str": "995760611953852416",
+            "indices": [
+              "196", 
+              "219"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/VkpmETvmnk",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/995760614688657408/photo/1",
-                    "id":"995760611953852416",
-                    "id_str":"995760611953852416",
-                    "indices":[
-                        "196",
-                        "219"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DdGnADTVwAA26x9.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DdGnADTVwAA26x9.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"810",
-                            "resize":"fit",
-                            "w":"1013"
-                        },
-                        "medium":{
-                            "h":"810",
-                            "resize":"fit",
-                            "w":"1013"
-                        },
-                        "small":{
-                            "h":"544",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/VkpmETvmnk"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"See \"Photo Alliance: Home\" by various artists, post-security, in Terminal 1. https://t.co/k07PVwzlJD #PhotoAllianceHome\n\nLaura and Brady in the Shadow of our House  1994\nAbelardo Morell (b. 1948) https://t.co/VkpmETvmnk",
-        "id":"995760614688657408",
-        "id_str":"995760614688657408",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DdGnADTVwAA26x9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DdGnADTVwAA26x9.jpg",
+            "sizes": {
+              "large": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1013"
+              },
+              "medium": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1013"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/VkpmETvmnk"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "See \"Photo Alliance: Home\" by various artists, post-security, in Terminal 1. https://t.co/k07PVwzlJD #PhotoAllianceHome\n\nLaura and Brady in the Shadow of our House  1994\nAbelardo Morell (b. 1948) https://t.co/VkpmETvmnk",
+      "id": "995760614688657408",
+      "id_str": "995760614688657408",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729303211
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":995760614688657400
-    },
-    "wof:country":"US",
-    "wof:created":1602026115,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729303211,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026115,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729303211,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729303211,
-    "wof:lastmodified":1602186259,
-    "wof:name":"See \"Photo Alliance: Home\" by various artists, post-security, in Terminal 1. https://t.co/k07PVwzlJD #PhotoAllianceHome\n\nLaura and Brady in the Shadow of our House  1994\nAbelardo Morell (b. 1948) https://t.co/VkpmETvmnk",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729303211,
+    "wof:lastmodified": 1602193910,
+    "wof:name": "See \"Photo Alliance: Home\" by various artists, post-security, in Terminal 1. https://t.co/k07PVwzlJD #PhotoAllianceHome\n\nLaura and Brady in the Shadow of our House  1994\nAbelardo Morell (b. 1948) https://t.co/VkpmETvmnk",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,204 +2,202 @@
   "id": 1729299225,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-02-08",
-    "date:cessation_upper":"2017-02-08",
-    "date:inception_lower":"2017-02-08",
-    "date:inception_upper":"2017-02-08",
-    "edtf:cessation":"2017-02-08T19:00:16-08:00",
-    "edtf:inception":"2017-02-08T19:00:16-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1486609216,
-        "created_at":"Thu Feb 09 03:00:16 +0000 2017",
-        "display_text_range":[
-            "0",
-            "133"
+    "date:cessation_lower": "2017-02-08",
+    "date:cessation_upper": "2017-02-08",
+    "date:inception_lower": "2017-02-08",
+    "date:inception_upper": "2017-02-08",
+    "edtf:cessation": "2017-02-08T19:00:16-08:00",
+    "edtf:inception": "2017-02-08T19:00:16-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1486609216,
+      "created_at": "Thu Feb 09 03:00:16 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "133"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "10"
+            ],
+            "text": "OnThisDay"
+          }, 
+          {
+            "indices": [
+              "44", 
+              "51"
+            ],
+            "text": "Boeing"
+          }, 
+          {
+            "indices": [
+              "68", 
+              "75"
+            ],
+            "text": "Avgeek"
+          }, 
+          {
+            "indices": [
+              "76", 
+              "92"
+            ],
+            "text": "AviationHistory"
+          }, 
+          {
+            "indices": [
+              "93", 
+              "109"
+            ],
+            "text": "WomenInAviation"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "0",
-                        "10"
-                    ],
-                    "text":"OnThisDay"
-                },
-                {
-                    "indices":[
-                        "44",
-                        "51"
-                    ],
-                    "text":"Boeing"
-                },
-                {
-                    "indices":[
-                        "68",
-                        "75"
-                    ],
-                    "text":"Avgeek"
-                },
-                {
-                    "indices":[
-                        "76",
-                        "92"
-                    ],
-                    "text":"AviationHistory"
-                },
-                {
-                    "indices":[
-                        "93",
-                        "109"
-                    ],
-                    "text":"WomenInAviation"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/OEEwS6ls97",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/829525294327406592/photo/1",
+            "id": "829525290128965633",
+            "id_str": "829525290128965633",
+            "indices": [
+              "110", 
+              "133"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/OEEwS6ls97",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/829525294327406592/photo/1",
-                    "id":"829525290128965633",
-                    "id_str":"829525290128965633",
-                    "indices":[
-                        "110",
-                        "133"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C4MQ2zpXAAEwNAT.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C4MQ2zpXAAEwNAT.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1245",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"747",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"423",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/OEEwS6ls97"
-                }
+            "media_url": "http://pbs.twimg.com/media/C4MQ2zpXAAEwNAT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C4MQ2zpXAAEwNAT.jpg",
+            "sizes": {
+              "large": {
+                "h": "1245",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "747",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "423",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/OEEwS6ls97"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/OEEwS6ls97",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/829525294327406592/photo/1",
+            "id": "829525290128965633",
+            "id_str": "829525290128965633",
+            "indices": [
+              "110", 
+              "133"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/OEEwS6ls97",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/829525294327406592/photo/1",
-                    "id":"829525290128965633",
-                    "id_str":"829525290128965633",
-                    "indices":[
-                        "110",
-                        "133"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C4MQ2zpXAAEwNAT.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C4MQ2zpXAAEwNAT.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1245",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"747",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"423",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/OEEwS6ls97"
-                }
-            ]
-        },
-        "favorite_count":"23",
-        "favorited":false,
-        "full_text":"#OnThisDay in 1933, the first flight of the #Boeing 247 took place. #Avgeek #AviationHistory #WomenInAviation https://t.co/OEEwS6ls97",
-        "id":"829525294327406592",
-        "id_str":"829525294327406592",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"7",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/C4MQ2zpXAAEwNAT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C4MQ2zpXAAEwNAT.jpg",
+            "sizes": {
+              "large": {
+                "h": "1245",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "747",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "423",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/OEEwS6ls97"
+          }
+        ]
+      },
+      "favorite_count": "23",
+      "favorited": false,
+      "full_text": "#OnThisDay in 1933, the first flight of the #Boeing 247 took place. #Avgeek #AviationHistory #WomenInAviation https://t.co/OEEwS6ls97",
+      "id": "829525294327406592",
+      "id_str": "829525294327406592",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "7",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729299225
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":829525294327406600
-    },
-    "wof:country":"US",
-    "wof:created":1602025964,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299225,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025964,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299225,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299225,
-    "wof:lastmodified":1602186745,
-    "wof:name":"#OnThisDay in 1933, the first flight of the #Boeing 247 took place. #Avgeek #AviationHistory #WomenInAviation https://t.co/OEEwS6ls97",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299225,
+    "wof:lastmodified": 1602193908,
+    "wof:name": "#OnThisDay in 1933, the first flight of the #Boeing 247 took place. #Avgeek #AviationHistory #WomenInAviation https://t.co/OEEwS6ls97",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

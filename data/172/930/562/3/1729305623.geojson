@@ -2,218 +2,216 @@
   "id": 1729305623,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-03-20",
-    "date:cessation_upper":"2019-03-20",
-    "date:inception_lower":"2019-03-20",
-    "date:inception_upper":"2019-03-20",
-    "edtf:cessation":"2019-03-20T15:14:24-07:00",
-    "edtf:inception":"2019-03-20T15:14:24-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1553120064,
-        "created_at":"Wed Mar 20 22:14:24 +0000 2019",
-        "display_text_range":[
-            "0",
-            "263"
+    "date:cessation_lower": "2019-03-20",
+    "date:cessation_upper": "2019-03-20",
+    "date:inception_lower": "2019-03-20",
+    "date:inception_upper": "2019-03-20",
+    "edtf:cessation": "2019-03-20T15:14:24-07:00",
+    "edtf:inception": "2019-03-20T15:14:24-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1553120064,
+      "created_at": "Wed Mar 20 22:14:24 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "263"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "10"
+            ],
+            "text": "OnThisDay"
+          }, 
+          {
+            "indices": [
+              "34", 
+              "43"
+            ],
+            "text": "jetliner"
+          }, 
+          {
+            "indices": [
+              "94", 
+              "98"
+            ],
+            "text": "TWA"
+          }, 
+          {
+            "indices": [
+              "133", 
+              "140"
+            ],
+            "text": "Boeing"
+          }, 
+          {
+            "indices": [
+              "172", 
+              "176"
+            ],
+            "text": "SFO"
+          }, 
+          {
+            "indices": [
+              "186", 
+              "193"
+            ],
+            "text": "jetage"
+          }, 
+          {
+            "indices": [
+              "232", 
+              "239"
+            ],
+            "text": "avgeek"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "0",
-                        "10"
-                    ],
-                    "text":"OnThisDay"
-                },
-                {
-                    "indices":[
-                        "34",
-                        "43"
-                    ],
-                    "text":"jetliner"
-                },
-                {
-                    "indices":[
-                        "94",
-                        "98"
-                    ],
-                    "text":"TWA"
-                },
-                {
-                    "indices":[
-                        "133",
-                        "140"
-                    ],
-                    "text":"Boeing"
-                },
-                {
-                    "indices":[
-                        "172",
-                        "176"
-                    ],
-                    "text":"SFO"
-                },
-                {
-                    "indices":[
-                        "186",
-                        "193"
-                    ],
-                    "text":"jetage"
-                },
-                {
-                    "indices":[
-                        "232",
-                        "239"
-                    ],
-                    "text":"avgeek"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FkLY7pRyPo",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1108492011328409602/photo/1",
+            "id": "1108492008195272704",
+            "id_str": "1108492008195272704",
+            "indices": [
+              "240", 
+              "263"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/FkLY7pRyPo",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1108492011328409602/photo/1",
-                    "id":"1108492008195272704",
-                    "id_str":"1108492008195272704",
-                    "indices":[
-                        "240",
-                        "263"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D2Inm8DWsAA4AKz.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D2Inm8DWsAA4AKz.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1563",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"938",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"531",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/FkLY7pRyPo"
-                }
+            "media_url": "http://pbs.twimg.com/media/D2Inm8DWsAA4AKz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2Inm8DWsAA4AKz.jpg",
+            "sizes": {
+              "large": {
+                "h": "1563",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "938",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "531",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FkLY7pRyPo"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FkLY7pRyPo",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1108492011328409602/photo/1",
+            "id": "1108492008195272704",
+            "id_str": "1108492008195272704",
+            "indices": [
+              "240", 
+              "263"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/FkLY7pRyPo",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1108492011328409602/photo/1",
-                    "id":"1108492008195272704",
-                    "id_str":"1108492008195272704",
-                    "indices":[
-                        "240",
-                        "263"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D2Inm8DWsAA4AKz.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D2Inm8DWsAA4AKz.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1563",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"938",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"531",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/FkLY7pRyPo"
-                }
-            ]
-        },
-        "favorite_count":"54",
-        "favorited":false,
-        "full_text":"#OnThisDay in 1959, the inaugural #jetliner flight from SFO to New York departed. Operated by #TWA (Trans World Airways), this first #Boeing 707 flight officially launched #SFO into the #jetage. Have you ever flown on a Boeing 707? #avgeek https://t.co/FkLY7pRyPo",
-        "id":"1108492011328409602",
-        "id_str":"1108492011328409602",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"14",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/D2Inm8DWsAA4AKz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2Inm8DWsAA4AKz.jpg",
+            "sizes": {
+              "large": {
+                "h": "1563",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "938",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "531",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FkLY7pRyPo"
+          }
+        ]
+      },
+      "favorite_count": "54",
+      "favorited": false,
+      "full_text": "#OnThisDay in 1959, the inaugural #jetliner flight from SFO to New York departed. Operated by #TWA (Trans World Airways), this first #Boeing 707 flight officially launched #SFO into the #jetage. Have you ever flown on a Boeing 707? #avgeek https://t.co/FkLY7pRyPo",
+      "id": "1108492011328409602",
+      "id_str": "1108492011328409602",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "14",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729305623
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1108492011328409600
-    },
-    "wof:country":"US",
-    "wof:created":1602026207,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729305623,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026207,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729305623,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729305623,
-    "wof:lastmodified":1602186209,
-    "wof:name":"#OnThisDay in 1959, the inaugural #jetliner flight from SFO to New York departed. Operated by #TWA (Trans World Airways), this first #Boeing 707 flight officially launched #SFO into the #jetage. Have you ever flown on a Boeing 707? #avgeek https://t.co/FkLY7pRyPo",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729305623,
+    "wof:lastmodified": 1602193912,
+    "wof:name": "#OnThisDay in 1959, the inaugural #jetliner flight from SFO to New York departed. Operated by #TWA (Trans World Airways), this first #Boeing 707 flight officially launched #SFO into the #jetage. Have you ever flown on a Boeing 707? #avgeek https://t.co/FkLY7pRyPo",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

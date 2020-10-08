@@ -2,248 +2,246 @@
   "id": 1729304561,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-11-01",
-    "date:cessation_upper":"2018-11-01",
-    "date:inception_lower":"2018-11-01",
-    "date:inception_upper":"2018-11-01",
-    "edtf:cessation":"2018-11-01T17:40:04-07:00",
-    "edtf:inception":"2018-11-01T17:40:04-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1541119204,
-        "created_at":"Fri Nov 02 00:40:04 +0000 2018",
-        "display_text_range":[
-            "0",
-            "270"
+    "date:cessation_lower": "2018-11-01",
+    "date:cessation_upper": "2018-11-01",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-01",
+    "edtf:cessation": "2018-11-01T17:40:04-07:00",
+    "edtf:inception": "2018-11-01T17:40:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1541119204,
+      "created_at": "Fri Nov 02 00:40:04 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "270"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "232", 
+              "246"
+            ],
+            "text": "BritishSilver"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "232",
-                        "246"
-                    ],
-                    "text":"BritishSilver"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/KkQkp2cS75",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1058156753018413058/photo/1",
+            "id": "1058156749662896128",
+            "id_str": "1058156749662896128",
+            "indices": [
+              "247", 
+              "270"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/KkQkp2cS75",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1058156753018413058/photo/1",
-                    "id":"1058156749662896128",
-                    "id_str":"1058156749662896128",
-                    "indices":[
-                        "247",
-                        "270"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Dq9T9RxWwAAarPb.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Dq9T9RxWwAAarPb.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1331",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"799",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/KkQkp2cS75"
-                }
+            "media_url": "http://pbs.twimg.com/media/Dq9T9RxWwAAarPb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq9T9RxWwAAarPb.jpg",
+            "sizes": {
+              "large": {
+                "h": "1331",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "799",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KkQkp2cS75"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/KkQkp2cS75",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1058156753018413058/photo/1",
+            "id": "1058156749662896128",
+            "id_str": "1058156749662896128",
+            "indices": [
+              "247", 
+              "270"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/KkQkp2cS75",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1058156753018413058/photo/1",
-                    "id":"1058156749662896128",
-                    "id_str":"1058156749662896128",
-                    "indices":[
-                        "247",
-                        "270"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Dq9T9RxWwAAarPb.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Dq9T9RxWwAAarPb.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1331",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"799",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/KkQkp2cS75"
-                },
-                {
-                    "display_url":"pic.twitter.com/KkQkp2cS75",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1058156753018413058/photo/1",
-                    "id":"1058156748899524608",
-                    "id_str":"1058156748899524608",
-                    "indices":[
-                        "247",
-                        "270"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Dq9T9O7WoAA0Nq-.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Dq9T9O7WoAA0Nq-.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1500"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"900"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"510"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/KkQkp2cS75"
-                },
-                {
-                    "display_url":"pic.twitter.com/KkQkp2cS75",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1058156753018413058/photo/1",
-                    "id":"1058156750325628929",
-                    "id_str":"1058156750325628929",
-                    "indices":[
-                        "247",
-                        "270"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Dq9T9UPXQAEJt46.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Dq9T9UPXQAEJt46.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1333"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"453"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/KkQkp2cS75"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"\"Making and creating is part of my daily cycle\u2026The making process is an inspiration in itself. I much prefer natural forms and textures ... These make subtle textures and informal surfaces over which I can engrave.\" Malcolm Appleby #BritishSilver https://t.co/KkQkp2cS75",
-        "id":"1058156753018413058",
-        "id_str":"1058156753018413058",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/Dq9T9RxWwAAarPb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq9T9RxWwAAarPb.jpg",
+            "sizes": {
+              "large": {
+                "h": "1331",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "799",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KkQkp2cS75"
+          }, 
+          {
+            "display_url": "pic.twitter.com/KkQkp2cS75",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1058156753018413058/photo/1",
+            "id": "1058156748899524608",
+            "id_str": "1058156748899524608",
+            "indices": [
+              "247", 
+              "270"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq9T9O7WoAA0Nq-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq9T9O7WoAA0Nq-.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1500"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KkQkp2cS75"
+          }, 
+          {
+            "display_url": "pic.twitter.com/KkQkp2cS75",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1058156753018413058/photo/1",
+            "id": "1058156750325628929",
+            "id_str": "1058156750325628929",
+            "indices": [
+              "247", 
+              "270"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dq9T9UPXQAEJt46.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq9T9UPXQAEJt46.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KkQkp2cS75"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "\"Making and creating is part of my daily cycle…The making process is an inspiration in itself. I much prefer natural forms and textures ... These make subtle textures and informal surfaces over which I can engrave.\" Malcolm Appleby #BritishSilver https://t.co/KkQkp2cS75",
+      "id": "1058156753018413058",
+      "id_str": "1058156753018413058",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729304561
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1058156753018413000
-    },
-    "wof:country":"US",
-    "wof:created":1602026167,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729304561,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026167,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729304561,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729304561,
-    "wof:lastmodified":1602186266,
-    "wof:name":"\"Making and creating is part of my daily cycle\u2026The making process is an inspiration in itself. I much prefer natural forms and textures ... These make subtle textures and informal surfaces over which I can engrave.\" Malcolm Appleby #BritishSilver https://t.co/KkQkp2cS75",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729304561,
+    "wof:lastmodified": 1602193911,
+    "wof:name": "\"Making and creating is part of my daily cycle…The making process is an inspiration in itself. I much prefer natural forms and textures ... These make subtle textures and informal surfaces over which I can engrave.\" Malcolm Appleby #BritishSilver https://t.co/KkQkp2cS75",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,178 +2,176 @@
   "id": 1729306049,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-05-11",
-    "date:cessation_upper":"2019-05-11",
-    "date:inception_lower":"2019-05-11",
-    "date:inception_upper":"2019-05-11",
-    "edtf:cessation":"2019-05-11T12:00:39-07:00",
-    "edtf:inception":"2019-05-11T12:00:39-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1557601239,
-        "created_at":"Sat May 11 19:00:39 +0000 2019",
-        "display_text_range":[
-            "0",
-            "248"
+    "date:cessation_lower": "2019-05-11",
+    "date:cessation_upper": "2019-05-11",
+    "date:inception_lower": "2019-05-11",
+    "date:inception_upper": "2019-05-11",
+    "edtf:cessation": "2019-05-11T12:00:39-07:00",
+    "edtf:inception": "2019-05-11T12:00:39-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1557601239,
+      "created_at": "Sat May 11 19:00:39 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "248"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/xj8qYCJh5i",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1127287420603523074/photo/1",
+            "id": "1127287418179207169",
+            "id_str": "1127287418179207169",
+            "indices": [
+              "225", 
+              "248"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6Tt7yhWwAE6Lmp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6Tt7yhWwAE6Lmp.jpg",
+            "sizes": {
+              "large": {
+                "h": "1598",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "959",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "543",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xj8qYCJh5i"
+          }
         ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/xj8qYCJh5i",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1127287420603523074/photo/1",
-                    "id":"1127287418179207169",
-                    "id_str":"1127287418179207169",
-                    "indices":[
-                        "225",
-                        "248"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D6Tt7yhWwAE6Lmp.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D6Tt7yhWwAE6Lmp.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1598",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"959",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"543",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/xj8qYCJh5i"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2E2YCYc",
+            "expanded_url": "http://bit.ly/2E2YCYc",
+            "indices": [
+              "201", 
+              "224"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/2E2YCYc",
-                    "expanded_url":"http://bit.ly/2E2YCYc",
-                    "indices":[
-                        "201",
-                        "224"
-                    ],
-                    "url":"https://t.co/z6tBkAoR7n"
-                }
+            "url": "https://t.co/z6tBkAoR7n"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/xj8qYCJh5i",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1127287420603523074/photo/1",
+            "id": "1127287418179207169",
+            "id_str": "1127287418179207169",
+            "indices": [
+              "225", 
+              "248"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/xj8qYCJh5i",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1127287420603523074/photo/1",
-                    "id":"1127287418179207169",
-                    "id_str":"1127287418179207169",
-                    "indices":[
-                        "225",
-                        "248"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D6Tt7yhWwAE6Lmp.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D6Tt7yhWwAE6Lmp.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1598",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"959",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"543",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/xj8qYCJh5i"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"The pieces on view in this exhibition were made by students in the eighth grade and represent the breadth and diversity of artistic vision, expression, and technique of the larger Greenleaf community. https://t.co/z6tBkAoR7n https://t.co/xj8qYCJh5i",
-        "id":"1127287420603523074",
-        "id_str":"1127287420603523074",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/D6Tt7yhWwAE6Lmp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6Tt7yhWwAE6Lmp.jpg",
+            "sizes": {
+              "large": {
+                "h": "1598",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "959",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "543",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xj8qYCJh5i"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "The pieces on view in this exhibition were made by students in the eighth grade and represent the breadth and diversity of artistic vision, expression, and technique of the larger Greenleaf community. https://t.co/z6tBkAoR7n https://t.co/xj8qYCJh5i",
+      "id": "1127287420603523074",
+      "id_str": "1127287420603523074",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729306049
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1127287420603523100
-    },
-    "wof:country":"US",
-    "wof:created":1602026224,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729306049,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026224,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729306049,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729306049,
-    "wof:lastmodified":1602186389,
-    "wof:name":"The pieces on view in this exhibition were made by students in the eighth grade and represent the breadth and diversity of artistic vision, expression, and technique of the larger Greenleaf community. https://t.co/z6tBkAoR7n https://t.co/xj8qYCJh5i",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729306049,
+    "wof:lastmodified": 1602193912,
+    "wof:name": "The pieces on view in this exhibition were made by students in the eighth grade and represent the breadth and diversity of artistic vision, expression, and technique of the larger Greenleaf community. https://t.co/z6tBkAoR7n https://t.co/xj8qYCJh5i",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

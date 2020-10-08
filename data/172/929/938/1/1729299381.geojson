@@ -2,183 +2,181 @@
   "id": 1729299381,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-02-16",
-    "date:cessation_upper":"2017-02-16",
-    "date:inception_lower":"2017-02-16",
-    "date:inception_upper":"2017-02-16",
-    "edtf:cessation":"2017-02-16T18:50:05-08:00",
-    "edtf:inception":"2017-02-16T18:50:05-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1487299805,
-        "created_at":"Fri Feb 17 02:50:05 +0000 2017",
-        "display_text_range":[
-            "0",
-            "162"
+    "date:cessation_lower": "2017-02-16",
+    "date:cessation_upper": "2017-02-16",
+    "date:inception_lower": "2017-02-16",
+    "date:inception_upper": "2017-02-16",
+    "edtf:cessation": "2017-02-16T18:50:05-08:00",
+    "edtf:inception": "2017-02-16T18:50:05-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1487299805,
+      "created_at": "Fri Feb 17 02:50:05 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "162"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "33", 
+              "37"
+            ],
+            "text": "TWA"
+          }, 
+          {
+            "indices": [
+              "131", 
+              "138"
+            ],
+            "text": "avgeek"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "33",
-                        "37"
-                    ],
-                    "text":"TWA"
-                },
-                {
-                    "indices":[
-                        "131",
-                        "138"
-                    ],
-                    "text":"avgeek"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0g9IjLIQMo",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/832421835144839168/photo/1",
+            "id": "832421831990710272",
+            "id_str": "832421831990710272",
+            "indices": [
+              "139", 
+              "162"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/0g9IjLIQMo",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/832421835144839168/photo/1",
-                    "id":"832421831990710272",
-                    "id_str":"832421831990710272",
-                    "indices":[
-                        "139",
-                        "162"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C41bPu8WEAAgH5E.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C41bPu8WEAAgH5E.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1274",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"764",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"433",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/0g9IjLIQMo"
-                }
+            "media_url": "http://pbs.twimg.com/media/C41bPu8WEAAgH5E.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C41bPu8WEAAgH5E.jpg",
+            "sizes": {
+              "large": {
+                "h": "1274",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "764",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "433",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/0g9IjLIQMo"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0g9IjLIQMo",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/832421835144839168/photo/1",
+            "id": "832421831990710272",
+            "id_str": "832421831990710272",
+            "indices": [
+              "139", 
+              "162"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/0g9IjLIQMo",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/832421835144839168/photo/1",
-                    "id":"832421831990710272",
-                    "id_str":"832421831990710272",
-                    "indices":[
-                        "139",
-                        "162"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C41bPu8WEAAgH5E.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C41bPu8WEAAgH5E.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1274",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"764",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"433",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/0g9IjLIQMo"
-                }
-            ]
-        },
-        "favorite_count":"5",
-        "favorited":false,
-        "full_text":"This menu translator produced by #TWA helped passengers translate food items to English from French, German, Italian, and Spanish. #avgeek https://t.co/0g9IjLIQMo",
-        "id":"832421835144839168",
-        "id_str":"832421835144839168",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/C41bPu8WEAAgH5E.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C41bPu8WEAAgH5E.jpg",
+            "sizes": {
+              "large": {
+                "h": "1274",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "764",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "433",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/0g9IjLIQMo"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "This menu translator produced by #TWA helped passengers translate food items to English from French, German, Italian, and Spanish. #avgeek https://t.co/0g9IjLIQMo",
+      "id": "832421835144839168",
+      "id_str": "832421835144839168",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729299381
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":832421835144839200
-    },
-    "wof:country":"US",
-    "wof:created":1602025970,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299381,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025970,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299381,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299381,
-    "wof:lastmodified":1602186719,
-    "wof:name":"This menu translator produced by #TWA helped passengers translate food items to English from French, German, Italian, and Spanish. #avgeek https://t.co/0g9IjLIQMo",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299381,
+    "wof:lastmodified": 1602193908,
+    "wof:name": "This menu translator produced by #TWA helped passengers translate food items to English from French, German, Italian, and Spanish. #avgeek https://t.co/0g9IjLIQMo",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

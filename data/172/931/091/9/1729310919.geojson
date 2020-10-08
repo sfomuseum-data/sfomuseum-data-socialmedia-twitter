@@ -2,120 +2,118 @@
   "id": 1729310919,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-10-22",
-    "date:cessation_upper":"2012-10-22",
-    "date:inception_lower":"2012-10-22",
-    "date:inception_upper":"2012-10-22",
-    "edtf:cessation":"2012-10-22T16:23:33-07:00",
-    "edtf:inception":"2012-10-22T16:23:33-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1350948213,
-        "created_at":"Mon Oct 22 23:23:33 +0000 2012",
-        "display_text_range":[
-            "0",
-            "142"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"16289464",
-                    "id_str":"16289464",
-                    "indices":[
-                        "57",
-                        "72"
-                    ],
-                    "name":"Simon Prickett \ud83c\uddea\ud83c\uddfa",
-                    "screen_name":"simon_prickett"
-                },
-                {
-                    "id":"116329337",
-                    "id_str":"116329337",
-                    "indices":[
-                        "74",
-                        "84"
-                    ],
-                    "name":"SFO Museum",
-                    "screen_name":"SFOMuseum"
-                },
-                {
-                    "id":"2398123046",
-                    "id_str":"2398123046",
-                    "indices":[
-                        "85",
-                        "96"
-                    ],
-                    "name":"Scott Mackenzie",
-                    "screen_name":"HackMyTrip"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"Super cool! (Murmurs of vacations are circulating...) RT @simon_prickett: @SFOMuseum @hackmytrip the caves of Nottingham &amp; Mortimer's Hole",
-        "id":"260521806044200961",
-        "id_str":"260521806044200961",
-        "lang":"en",
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-        "truncated":false
+    "date:cessation_lower": "2012-10-22",
+    "date:cessation_upper": "2012-10-22",
+    "date:inception_lower": "2012-10-22",
+    "date:inception_upper": "2012-10-22",
+    "edtf:cessation": "2012-10-22T16:23:33-07:00",
+    "edtf:inception": "2012-10-22T16:23:33-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1350948213,
+      "created_at": "Mon Oct 22 23:23:33 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "142"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "16289464",
+            "id_str": "16289464",
+            "indices": [
+              "57", 
+              "72"
+            ],
+            "name": "Simon Prickett 🇪🇺",
+            "screen_name": "simon_prickett"
+          }, 
+          {
+            "id": "116329337",
+            "id_str": "116329337",
+            "indices": [
+              "74", 
+              "84"
+            ],
+            "name": "SFO Museum",
+            "screen_name": "SFOMuseum"
+          }, 
+          {
+            "id": "2398123046",
+            "id_str": "2398123046",
+            "indices": [
+              "85", 
+              "96"
+            ],
+            "name": "Scott Mackenzie",
+            "screen_name": "HackMyTrip"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Super cool! (Murmurs of vacations are circulating...) RT @simon_prickett: @SFOMuseum @hackmytrip the caves of Nottingham \u0026amp; Mortimer's Hole",
+      "id": "260521806044200961",
+      "id_str": "260521806044200961",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729310919
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":260521806044200960
-    },
-    "wof:country":"US",
-    "wof:created":1602026411,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729310919,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026411,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729310919,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729310919,
-    "wof:lastmodified":1602186469,
-    "wof:name":"Super cool! (Murmurs of vacations are circulating...) RT @simon_prickett: @SFOMuseum @hackmytrip the caves of Nottingham &amp; Mortimer's Hole",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729310919,
+    "wof:lastmodified": 1602193915,
+    "wof:name": "Super cool! (Murmurs of vacations are circulating...) RT @simon_prickett: @SFOMuseum @hackmytrip the caves of Nottingham \u0026amp; Mortimer's Hole",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

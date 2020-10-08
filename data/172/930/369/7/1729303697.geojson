@@ -2,190 +2,188 @@
   "id": 1729303697,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-07-14",
-    "date:cessation_upper":"2018-07-14",
-    "date:inception_lower":"2018-07-14",
-    "date:inception_upper":"2018-07-14",
-    "edtf:cessation":"2018-07-14T11:00:19-07:00",
-    "edtf:inception":"2018-07-14T11:00:19-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1531591219,
-        "created_at":"Sat Jul 14 18:00:19 +0000 2018",
-        "display_text_range":[
-            "0",
-            "223"
+    "date:cessation_lower": "2018-07-14",
+    "date:cessation_upper": "2018-07-14",
+    "date:inception_lower": "2018-07-14",
+    "date:inception_upper": "2018-07-14",
+    "edtf:cessation": "2018-07-14T11:00:19-07:00",
+    "edtf:inception": "2018-07-14T11:00:19-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1531591219,
+      "created_at": "Sat Jul 14 18:00:19 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "223"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "6", 
+              "18"
+            ],
+            "text": "BastilleDay"
+          }, 
+          {
+            "indices": [
+              "54", 
+              "61"
+            ],
+            "text": "France"
+          }, 
+          {
+            "indices": [
+              "189", 
+              "199"
+            ],
+            "text": "airfrance"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "6",
-                        "18"
-                    ],
-                    "text":"BastilleDay"
-                },
-                {
-                    "indices":[
-                        "54",
-                        "61"
-                    ],
-                    "text":"France"
-                },
-                {
-                    "indices":[
-                        "189",
-                        "199"
-                    ],
-                    "text":"airfrance"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/sYY1EFooB9",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1018193487349641217/photo/1",
+            "id": "1018193484921102341",
+            "id_str": "1018193484921102341",
+            "indices": [
+              "200", 
+              "223"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/sYY1EFooB9",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1018193487349641217/photo/1",
-                    "id":"1018193484921102341",
-                    "id_str":"1018193484921102341",
-                    "indices":[
-                        "200",
-                        "223"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DiFZlHVW4AUwT1G.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DiFZlHVW4AUwT1G.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1265"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"759"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"430"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/sYY1EFooB9"
-                }
+            "media_url": "http://pbs.twimg.com/media/DiFZlHVW4AUwT1G.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DiFZlHVW4AUwT1G.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1265"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "759"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "430"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/sYY1EFooB9"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/sYY1EFooB9",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1018193487349641217/photo/1",
+            "id": "1018193484921102341",
+            "id_str": "1018193484921102341",
+            "indices": [
+              "200", 
+              "223"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/sYY1EFooB9",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1018193487349641217/photo/1",
-                    "id":"1018193484921102341",
-                    "id_str":"1018193484921102341",
-                    "indices":[
-                        "200",
-                        "223"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DiFZlHVW4AUwT1G.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DiFZlHVW4AUwT1G.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1265"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"759"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"430"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/sYY1EFooB9"
-                }
-            ]
-        },
-        "favorite_count":"4",
-        "favorited":false,
-        "full_text":"Happy #BastilleDay! Bastille Day, the national day of #France, commemorates the Storming of the Bastille in 1789, the flashpoint of the French Revolution. Have you ever traveled to France? #airfrance https://t.co/sYY1EFooB9",
-        "id":"1018193487349641217",
-        "id_str":"1018193487349641217",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DiFZlHVW4AUwT1G.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DiFZlHVW4AUwT1G.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1265"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "759"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "430"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/sYY1EFooB9"
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "Happy #BastilleDay! Bastille Day, the national day of #France, commemorates the Storming of the Bastille in 1789, the flashpoint of the French Revolution. Have you ever traveled to France? #airfrance https://t.co/sYY1EFooB9",
+      "id": "1018193487349641217",
+      "id_str": "1018193487349641217",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729303697
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1018193487349641200
-    },
-    "wof:country":"US",
-    "wof:created":1602026134,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729303697,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026134,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729303697,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729303697,
-    "wof:lastmodified":1602186218,
-    "wof:name":"Happy #BastilleDay! Bastille Day, the national day of #France, commemorates the Storming of the Bastille in 1789, the flashpoint of the French Revolution. Have you ever traveled to France? #airfrance https://t.co/sYY1EFooB9",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729303697,
+    "wof:lastmodified": 1602193911,
+    "wof:name": "Happy #BastilleDay! Bastille Day, the national day of #France, commemorates the Storming of the Bastille in 1789, the flashpoint of the French Revolution. Have you ever traveled to France? #airfrance https://t.co/sYY1EFooB9",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,111 +2,109 @@
   "id": 1729295835,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-04-18",
-    "date:cessation_upper":"2016-04-18",
-    "date:inception_lower":"2016-04-18",
-    "date:inception_upper":"2016-04-18",
-    "edtf:cessation":"2016-04-18T12:44:19-07:00",
-    "edtf:inception":"2016-04-18T12:44:19-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1461008659,
-        "created_at":"Mon Apr 18 19:44:19 +0000 2016",
-        "display_text_range":[
-            "0",
-            "140"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"laughingsquid.com/man-swaps-his-\u2026",
-                    "expanded_url":"http://laughingsquid.com/man-swaps-his-face-with-the-faces-of-ancient-egyptian-statues-in-a-museum-exhibit/",
-                    "indices":[
-                        "101",
-                        "124"
-                    ],
-                    "url":"https://t.co/OjyUwjl3Cp"
-                }
+    "date:cessation_lower": "2016-04-18",
+    "date:cessation_upper": "2016-04-18",
+    "date:inception_lower": "2016-04-18",
+    "date:inception_upper": "2016-04-18",
+    "edtf:cessation": "2016-04-18T12:44:19-07:00",
+    "edtf:inception": "2016-04-18T12:44:19-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1461008659,
+      "created_at": "Mon Apr 18 19:44:19 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "laughingsquid.com/man-swaps-his-…",
+            "expanded_url": "http://laughingsquid.com/man-swaps-his-face-with-the-faces-of-ancient-egyptian-statues-in-a-museum-exhibit/",
+            "indices": [
+              "101", 
+              "124"
             ],
-            "user_mentions":[
-                {
-                    "id":"2172",
-                    "id_str":"2172",
-                    "indices":[
-                        "3",
-                        "17"
-                    ],
-                    "name":"Laughing Squid",
-                    "screen_name":"LaughingSquid"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @LaughingSquid: Man Swaps His Face With the Faces of Ancient Egyptian Statues In a Museum Exhibit https://t.co/OjyUwjl3Cp https://t.co/6\u2026",
-        "id":"722148773204353024",
-        "id_str":"722148773204353024",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated":false
+            "url": "https://t.co/OjyUwjl3Cp"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "2172",
+            "id_str": "2172",
+            "indices": [
+              "3", 
+              "17"
+            ],
+            "name": "Laughing Squid",
+            "screen_name": "LaughingSquid"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @LaughingSquid: Man Swaps His Face With the Faces of Ancient Egyptian Statues In a Museum Exhibit https://t.co/OjyUwjl3Cp https://t.co/6…",
+      "id": "722148773204353024",
+      "id_str": "722148773204353024",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729295835
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":722148773204353000
-    },
-    "wof:country":"US",
-    "wof:created":1602025834,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729295835,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025834,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729295835,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729295835,
-    "wof:lastmodified":1602186731,
-    "wof:name":"RT @LaughingSquid: Man Swaps His Face With the Faces of Ancient Egyptian Statues In a Museum Exhibit https://t.co/OjyUwjl3Cp https://t.co/6\u2026",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729295835,
+    "wof:lastmodified": 1602193905,
+    "wof:name": "RT @LaughingSquid: Man Swaps His Face With the Faces of Ancient Egyptian Statues In a Museum Exhibit https://t.co/OjyUwjl3Cp https://t.co/6…",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

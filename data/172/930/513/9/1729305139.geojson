@@ -2,176 +2,174 @@
   "id": 1729305139,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-01-16",
-    "date:cessation_upper":"2019-01-16",
-    "date:inception_lower":"2019-01-16",
-    "date:inception_upper":"2019-01-16",
-    "edtf:cessation":"2019-01-16T10:45:07-08:00",
-    "edtf:inception":"2019-01-16T10:45:07-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1547664307,
-        "created_at":"Wed Jan 16 18:45:07 +0000 2019",
-        "display_text_range":[
-            "0",
-            "194"
+    "date:cessation_lower": "2019-01-16",
+    "date:cessation_upper": "2019-01-16",
+    "date:inception_lower": "2019-01-16",
+    "date:inception_upper": "2019-01-16",
+    "edtf:cessation": "2019-01-16T10:45:07-08:00",
+    "edtf:inception": "2019-01-16T10:45:07-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1547664307,
+      "created_at": "Wed Jan 16 18:45:07 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "194"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "154", 
+              "170"
+            ],
+            "text": "StoryofArhoolie"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "154",
-                        "170"
-                    ],
-                    "text":"StoryofArhoolie"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/t12A0P9KxP",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1085608906397831168/photo/1",
+            "id": "1085608903898025986",
+            "id_str": "1085608903898025986",
+            "indices": [
+              "171", 
+              "194"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/t12A0P9KxP",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1085608906397831168/photo/1",
-                    "id":"1085608903898025986",
-                    "id_str":"1085608903898025986",
-                    "indices":[
-                        "171",
-                        "194"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DxDbi9nX0AIEeVh.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DxDbi9nX0AIEeVh.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/t12A0P9KxP"
-                }
+            "media_url": "http://pbs.twimg.com/media/DxDbi9nX0AIEeVh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DxDbi9nX0AIEeVh.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/t12A0P9KxP"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/t12A0P9KxP",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1085608906397831168/photo/1",
+            "id": "1085608903898025986",
+            "id_str": "1085608903898025986",
+            "indices": [
+              "171", 
+              "194"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/t12A0P9KxP",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1085608906397831168/photo/1",
-                    "id":"1085608903898025986",
-                    "id_str":"1085608903898025986",
-                    "indices":[
-                        "171",
-                        "194"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DxDbi9nX0AIEeVh.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DxDbi9nX0AIEeVh.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/t12A0P9KxP"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"By the 1920s and \u201930s, steel-guitar playing had become popular in the United States. The instrument is typically played horizontally rather than upright. #StoryofArhoolie https://t.co/t12A0P9KxP",
-        "id":"1085608906397831168",
-        "id_str":"1085608906397831168",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DxDbi9nX0AIEeVh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DxDbi9nX0AIEeVh.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/t12A0P9KxP"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "By the 1920s and ’30s, steel-guitar playing had become popular in the United States. The instrument is typically played horizontally rather than upright. #StoryofArhoolie https://t.co/t12A0P9KxP",
+      "id": "1085608906397831168",
+      "id_str": "1085608906397831168",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729305139
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1085608906397831200
-    },
-    "wof:country":"US",
-    "wof:created":1602026189,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729305139,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026189,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729305139,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729305139,
-    "wof:lastmodified":1602186429,
-    "wof:name":"By the 1920s and \u201930s, steel-guitar playing had become popular in the United States. The instrument is typically played horizontally rather than upright. #StoryofArhoolie https://t.co/t12A0P9KxP",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729305139,
+    "wof:lastmodified": 1602193911,
+    "wof:name": "By the 1920s and ’30s, steel-guitar playing had become popular in the United States. The instrument is typically played horizontally rather than upright. #StoryofArhoolie https://t.co/t12A0P9KxP",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

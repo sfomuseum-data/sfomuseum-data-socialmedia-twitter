@@ -2,208 +2,206 @@
   "id": 1729304399,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-10-10",
-    "date:cessation_upper":"2018-10-10",
-    "date:inception_lower":"2018-10-10",
-    "date:inception_upper":"2018-10-10",
-    "edtf:cessation":"2018-10-10T12:07:20-07:00",
-    "edtf:inception":"2018-10-10T12:07:20-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1539198440,
-        "created_at":"Wed Oct 10 19:07:20 +0000 2018",
-        "display_text_range":[
-            "0",
-            "256"
+    "date:cessation_lower": "2018-10-10",
+    "date:cessation_upper": "2018-10-10",
+    "date:inception_lower": "2018-10-10",
+    "date:inception_upper": "2018-10-10",
+    "edtf:cessation": "2018-10-10T12:07:20-07:00",
+    "edtf:inception": "2018-10-10T12:07:20-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1539198440,
+      "created_at": "Wed Oct 10 19:07:20 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "256"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "125", 
+              "133"
+            ],
+            "text": "English"
+          }, 
+          {
+            "indices": [
+              "134", 
+              "141"
+            ],
+            "text": "silver"
+          }, 
+          {
+            "indices": [
+              "190", 
+              "204"
+            ],
+            "text": "britishsilver"
+          }, 
+          {
+            "indices": [
+              "205", 
+              "218"
+            ],
+            "text": "GeraldBenney"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "125",
-                        "133"
-                    ],
-                    "text":"English"
-                },
-                {
-                    "indices":[
-                        "134",
-                        "141"
-                    ],
-                    "text":"silver"
-                },
-                {
-                    "indices":[
-                        "190",
-                        "204"
-                    ],
-                    "text":"britishsilver"
-                },
-                {
-                    "indices":[
-                        "205",
-                        "218"
-                    ],
-                    "text":"GeraldBenney"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PAF8N1jBAz",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1050100486756536320/photo/1",
+            "id": "1050100484453715968",
+            "id_str": "1050100484453715968",
+            "indices": [
+              "233", 
+              "256"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/PAF8N1jBAz",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1050100486756536320/photo/1",
-                    "id":"1050100484453715968",
-                    "id_str":"1050100484453715968",
-                    "indices":[
-                        "233",
-                        "256"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DpK007JUUAAgapq.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DpK007JUUAAgapq.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1818"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"1091"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"618"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/PAF8N1jBAz"
-                }
+            "media_url": "http://pbs.twimg.com/media/DpK007JUUAAgapq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DpK007JUUAAgapq.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1818"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1091"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "618"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PAF8N1jBAz"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "2161060922",
+            "id_str": "2161060922",
+            "indices": [
+              "219", 
+              "232"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"2161060922",
-                    "id_str":"2161060922",
-                    "indices":[
-                        "219",
-                        "232"
-                    ],
-                    "name":"The Goldsmiths' Company",
-                    "screen_name":"GoldsmithsCo"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/PAF8N1jBAz",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1050100486756536320/photo/1",
-                    "id":"1050100484453715968",
-                    "id_str":"1050100484453715968",
-                    "indices":[
-                        "233",
-                        "256"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DpK007JUUAAgapq.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DpK007JUUAAgapq.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1818"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"1091"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"618"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/PAF8N1jBAz"
-                }
-            ]
-        },
-        "favorite_count":"3",
-        "favorited":false,
-        "full_text":"\"What I am trying to do, and what four or five others in my field are trying to do, is to recreate an international image of #English #silver in modern terms...\" - Gerald Benney (1930\u20132008) #britishsilver #GeraldBenney @GoldsmithsCo https://t.co/PAF8N1jBAz",
-        "id":"1050100486756536320",
-        "id_str":"1050100486756536320",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "name": "The Goldsmiths' Company",
+            "screen_name": "GoldsmithsCo"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PAF8N1jBAz",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1050100486756536320/photo/1",
+            "id": "1050100484453715968",
+            "id_str": "1050100484453715968",
+            "indices": [
+              "233", 
+              "256"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DpK007JUUAAgapq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DpK007JUUAAgapq.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1818"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1091"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "618"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PAF8N1jBAz"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "\"What I am trying to do, and what four or five others in my field are trying to do, is to recreate an international image of #English #silver in modern terms...\" - Gerald Benney (1930–2008) #britishsilver #GeraldBenney @GoldsmithsCo https://t.co/PAF8N1jBAz",
+      "id": "1050100486756536320",
+      "id_str": "1050100486756536320",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729304399
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1050100486756536300
-    },
-    "wof:country":"US",
-    "wof:created":1602026161,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729304399,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026161,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729304399,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729304399,
-    "wof:lastmodified":1602186383,
-    "wof:name":"\"What I am trying to do, and what four or five others in my field are trying to do, is to recreate an international image of #English #silver in modern terms...\" - Gerald Benney (1930\u20132008) #britishsilver #GeraldBenney @GoldsmithsCo https://t.co/PAF8N1jBAz",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729304399,
+    "wof:lastmodified": 1602193911,
+    "wof:name": "\"What I am trying to do, and what four or five others in my field are trying to do, is to recreate an international image of #English #silver in modern terms...\" - Gerald Benney (1930–2008) #britishsilver #GeraldBenney @GoldsmithsCo https://t.co/PAF8N1jBAz",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

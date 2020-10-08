@@ -2,186 +2,184 @@
   "id": 1729297119,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-07-29",
-    "date:cessation_upper":"2016-07-29",
-    "date:inception_lower":"2016-07-29",
-    "date:inception_upper":"2016-07-29",
-    "edtf:cessation":"2016-07-29T16:00:30-07:00",
-    "edtf:inception":"2016-07-29T16:00:30-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1469833230,
-        "created_at":"Fri Jul 29 23:00:30 +0000 2016",
-        "display_text_range":[
-            "0",
-            "143"
+    "date:cessation_lower": "2016-07-29",
+    "date:cessation_upper": "2016-07-29",
+    "date:inception_lower": "2016-07-29",
+    "date:inception_upper": "2016-07-29",
+    "edtf:cessation": "2016-07-29T16:00:30-07:00",
+    "edtf:inception": "2016-07-29T16:00:30-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1469833230,
+      "created_at": "Fri Jul 29 23:00:30 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "143"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "1", 
+              "17"
+            ],
+            "text": "FashionInFlight"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "1",
-                        "17"
-                    ],
-                    "text":"FashionInFlight"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Sh5rhgOPu0",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/759161707164033024/photo/1",
+            "id": "759161701656891392",
+            "id_str": "759161701656891392",
+            "indices": [
+              "120", 
+              "143"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/Sh5rhgOPu0",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/759161707164033024/photo/1",
-                    "id":"759161701656891392",
-                    "id_str":"759161701656891392",
-                    "indices":[
-                        "120",
-                        "143"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CokVi6JXEAA5ifH.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CokVi6JXEAA5ifH.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/Sh5rhgOPu0"
-                }
+            "media_url": "http://pbs.twimg.com/media/CokVi6JXEAA5ifH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CokVi6JXEAA5ifH.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Sh5rhgOPu0"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/fashioninflight",
+            "expanded_url": "http://bit.ly/fashioninflight",
+            "indices": [
+              "96", 
+              "119"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/fashioninflight",
-                    "expanded_url":"http://bit.ly/fashioninflight",
-                    "indices":[
-                        "96",
-                        "119"
-                    ],
-                    "url":"https://t.co/UbL4YNFAUD"
-                }
+            "url": "https://t.co/UbL4YNFAUD"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Sh5rhgOPu0",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/759161707164033024/photo/1",
+            "id": "759161701656891392",
+            "id_str": "759161701656891392",
+            "indices": [
+              "120", 
+              "143"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/Sh5rhgOPu0",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/759161707164033024/photo/1",
-                    "id":"759161701656891392",
-                    "id_str":"759161701656891392",
-                    "indices":[
-                        "120",
-                        "143"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CokVi6JXEAA5ifH.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CokVi6JXEAA5ifH.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/Sh5rhgOPu0"
-                }
-            ]
-        },
-        "favorite_count":"3",
-        "favorited":false,
-        "full_text":"\"#FashionInFlight\" is on display, pre-security, in the Aviation Museum &amp; the Intl Terminal. https://t.co/UbL4YNFAUD https://t.co/Sh5rhgOPu0",
-        "id":"759161707164033024",
-        "id_str":"759161707164033024",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/CokVi6JXEAA5ifH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CokVi6JXEAA5ifH.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Sh5rhgOPu0"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "\"#FashionInFlight\" is on display, pre-security, in the Aviation Museum \u0026amp; the Intl Terminal. https://t.co/UbL4YNFAUD https://t.co/Sh5rhgOPu0",
+      "id": "759161707164033024",
+      "id_str": "759161707164033024",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729297119
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":759161707164033000
-    },
-    "wof:country":"US",
-    "wof:created":1602025885,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729297119,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025885,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729297119,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729297119,
-    "wof:lastmodified":1602186544,
-    "wof:name":"\"#FashionInFlight\" is on display, pre-security, in the Aviation Museum &amp; the Intl Terminal. https://t.co/UbL4YNFAUD https://t.co/Sh5rhgOPu0",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729297119,
+    "wof:lastmodified": 1602193906,
+    "wof:name": "\"#FashionInFlight\" is on display, pre-security, in the Aviation Museum \u0026amp; the Intl Terminal. https://t.co/UbL4YNFAUD https://t.co/Sh5rhgOPu0",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

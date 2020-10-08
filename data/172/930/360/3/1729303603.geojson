@@ -2,183 +2,181 @@
   "id": 1729303603,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-07-08",
-    "date:cessation_upper":"2018-07-08",
-    "date:inception_lower":"2018-07-08",
-    "date:inception_upper":"2018-07-08",
-    "edtf:cessation":"2018-07-08T10:15:07-07:00",
-    "edtf:inception":"2018-07-08T10:15:07-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1531070107,
-        "created_at":"Sun Jul 08 17:15:07 +0000 2018",
-        "display_text_range":[
-            "0",
-            "159"
+    "date:cessation_lower": "2018-07-08",
+    "date:cessation_upper": "2018-07-08",
+    "date:inception_lower": "2018-07-08",
+    "date:inception_upper": "2018-07-08",
+    "edtf:cessation": "2018-07-08T10:15:07-07:00",
+    "edtf:inception": "2018-07-08T10:15:07-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1531070107,
+      "created_at": "Sun Jul 08 17:15:07 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "159"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "59", 
+              "69"
+            ],
+            "text": "onthisday"
+          }, 
+          {
+            "indices": [
+              "125", 
+              "135"
+            ],
+            "text": "SFHistory"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "59",
-                        "69"
-                    ],
-                    "text":"onthisday"
-                },
-                {
-                    "indices":[
-                        "125",
-                        "135"
-                    ],
-                    "text":"SFHistory"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/LM59bWqZXf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1016007787082649601/photo/1",
+            "id": "1016007784410861568",
+            "id_str": "1016007784410861568",
+            "indices": [
+              "136", 
+              "159"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/LM59bWqZXf",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1016007787082649601/photo/1",
-                    "id":"1016007784410861568",
-                    "id_str":"1016007784410861568",
-                    "indices":[
-                        "136",
-                        "159"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DhmVsmbXUAAuFOZ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DhmVsmbXUAAuFOZ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1600",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"960",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"544",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/LM59bWqZXf"
-                }
+            "media_url": "http://pbs.twimg.com/media/DhmVsmbXUAAuFOZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DhmVsmbXUAAuFOZ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/LM59bWqZXf"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/LM59bWqZXf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1016007787082649601/photo/1",
+            "id": "1016007784410861568",
+            "id_str": "1016007784410861568",
+            "indices": [
+              "136", 
+              "159"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/LM59bWqZXf",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1016007787082649601/photo/1",
-                    "id":"1016007784410861568",
-                    "id_str":"1016007784410861568",
-                    "indices":[
-                        "136",
-                        "159"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DhmVsmbXUAAuFOZ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DhmVsmbXUAAuFOZ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1600",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"960",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"544",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/LM59bWqZXf"
-                }
-            ]
-        },
-        "favorite_count":"11",
-        "favorited":false,
-        "full_text":"Construction on the San Francisco-Oakland Bay Bridge began #onthisday in 1933. Have you ever traveled across the Bay Bridge? #SFHistory https://t.co/LM59bWqZXf",
-        "id":"1016007787082649601",
-        "id_str":"1016007787082649601",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DhmVsmbXUAAuFOZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DhmVsmbXUAAuFOZ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/LM59bWqZXf"
+          }
+        ]
+      },
+      "favorite_count": "11",
+      "favorited": false,
+      "full_text": "Construction on the San Francisco-Oakland Bay Bridge began #onthisday in 1933. Have you ever traveled across the Bay Bridge? #SFHistory https://t.co/LM59bWqZXf",
+      "id": "1016007787082649601",
+      "id_str": "1016007787082649601",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729303603
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1016007787082649600
-    },
-    "wof:country":"US",
-    "wof:created":1602026130,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729303603,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026130,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729303603,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729303603,
-    "wof:lastmodified":1602186368,
-    "wof:name":"Construction on the San Francisco-Oakland Bay Bridge began #onthisday in 1933. Have you ever traveled across the Bay Bridge? #SFHistory https://t.co/LM59bWqZXf",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729303603,
+    "wof:lastmodified": 1602193910,
+    "wof:name": "Construction on the San Francisco-Oakland Bay Bridge began #onthisday in 1933. Have you ever traveled across the Bay Bridge? #SFHistory https://t.co/LM59bWqZXf",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,108 +2,106 @@
   "id": 1729291295,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-12-26",
-    "date:cessation_upper":"2013-12-26",
-    "date:inception_lower":"2013-12-26",
-    "date:inception_upper":"2013-12-26",
-    "edtf:cessation":"2013-12-26T11:08:11-08:00",
-    "edtf:inception":"2013-12-26T11:08:11-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1388084891,
-        "created_at":"Thu Dec 26 19:08:11 +0000 2013",
-        "display_text_range":[
-            "0",
-            "140"
+    "date:cessation_lower": "2013-12-26",
+    "date:cessation_upper": "2013-12-26",
+    "date:inception_lower": "2013-12-26",
+    "date:inception_upper": "2013-12-26",
+    "edtf:cessation": "2013-12-26T11:08:11-08:00",
+    "edtf:inception": "2013-12-26T11:08:11-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1388084891,
+      "created_at": "Thu Dec 26 19:08:11 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "133", 
+              "140"
+            ],
+            "text": "sfmaps"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "133",
-                        "140"
-                    ],
-                    "text":"sfmaps"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/s4Ji3",
+            "expanded_url": "http://ow.ly/s4Ji3",
+            "indices": [
+              "110", 
+              "132"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"ow.ly/s4Ji3",
-                    "expanded_url":"http://ow.ly/s4Ji3",
-                    "indices":[
-                        "110",
-                        "132"
-                    ],
-                    "url":"http://t.co/QMLVC4JMLB"
-                }
-            ],
-            "user_mentions":[]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"An 1849 map of SF shows the underpinnings of today's city after a whopping 2,400% population growth in 2 yrs: http://t.co/QMLVC4JMLB #sfmaps",
-        "id":"416284323911057409",
-        "id_str":"416284323911057409",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "url": "http://t.co/QMLVC4JMLB"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "An 1849 map of SF shows the underpinnings of today's city after a whopping 2,400% population growth in 2 yrs: http://t.co/QMLVC4JMLB #sfmaps",
+      "id": "416284323911057409",
+      "id_str": "416284323911057409",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729291295
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":416284323911057400
-    },
-    "wof:country":"US",
-    "wof:created":1602025665,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729291295,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025665,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729291295,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729291295,
-    "wof:lastmodified":1602186708,
-    "wof:name":"An 1849 map of SF shows the underpinnings of today's city after a whopping 2,400% population growth in 2 yrs: http://t.co/QMLVC4JMLB #sfmaps",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729291295,
+    "wof:lastmodified": 1602193903,
+    "wof:name": "An 1849 map of SF shows the underpinnings of today's city after a whopping 2,400% population growth in 2 yrs: http://t.co/QMLVC4JMLB #sfmaps",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

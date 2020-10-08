@@ -2,204 +2,202 @@
   "id": 1729308387,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-04-29",
-    "date:cessation_upper":"2020-04-29",
-    "date:inception_lower":"2020-04-29",
-    "date:inception_upper":"2020-04-29",
-    "edtf:cessation":"2020-04-29T11:30:13-07:00",
-    "edtf:inception":"2020-04-29T11:30:13-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1588185013,
-        "created_at":"Wed Apr 29 18:30:13 +0000 2020",
-        "display_text_range":[
-            "0",
-            "277"
+    "date:cessation_lower": "2020-04-29",
+    "date:cessation_upper": "2020-04-29",
+    "date:inception_lower": "2020-04-29",
+    "date:inception_upper": "2020-04-29",
+    "edtf:cessation": "2020-04-29T11:30:13-07:00",
+    "edtf:inception": "2020-04-29T11:30:13-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1588185013,
+      "created_at": "Wed Apr 29 18:30:13 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "277"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "7", 
+              "13"
+            ],
+            "text": "Pucci"
+          }, 
+          {
+            "indices": [
+              "25", 
+              "33"
+            ],
+            "text": "Braniff"
+          }, 
+          {
+            "indices": [
+              "220", 
+              "229"
+            ],
+            "text": "crewlife"
+          }, 
+          {
+            "indices": [
+              "230", 
+              "237"
+            ],
+            "text": "avgeek"
+          }, 
+          {
+            "indices": [
+              "238", 
+              "253"
+            ],
+            "text": "MuseumFromHome"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "7",
-                        "13"
-                    ],
-                    "text":"Pucci"
-                },
-                {
-                    "indices":[
-                        "25",
-                        "33"
-                    ],
-                    "text":"Braniff"
-                },
-                {
-                    "indices":[
-                        "220",
-                        "229"
-                    ],
-                    "text":"crewlife"
-                },
-                {
-                    "indices":[
-                        "230",
-                        "237"
-                    ],
-                    "text":"avgeek"
-                },
-                {
-                    "indices":[
-                        "238",
-                        "253"
-                    ],
-                    "text":"MuseumFromHome"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PfarTYNkWU",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1255565066000269314/photo/1",
+            "id": "1255565062493913090",
+            "id_str": "1255565062493913090",
+            "indices": [
+              "254", 
+              "277"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/PfarTYNkWU",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1255565066000269314/photo/1",
-                    "id":"1255565062493913090",
-                    "id_str":"1255565062493913090",
-                    "indices":[
-                        "254",
-                        "277"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EWypxaZXQAI9lSw.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EWypxaZXQAI9lSw.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1469",
-                            "resize":"fit",
-                            "w":"1850"
-                        },
-                        "medium":{
-                            "h":"953",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"540",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/PfarTYNkWU"
-                }
+            "media_url": "http://pbs.twimg.com/media/EWypxaZXQAI9lSw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EWypxaZXQAI9lSw.jpg",
+            "sizes": {
+              "large": {
+                "h": "1469",
+                "resize": "fit",
+                "w": "1850"
+              },
+              "medium": {
+                "h": "953",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "540",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PfarTYNkWU"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PfarTYNkWU",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1255565066000269314/photo/1",
+            "id": "1255565062493913090",
+            "id_str": "1255565062493913090",
+            "indices": [
+              "254", 
+              "277"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/PfarTYNkWU",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1255565066000269314/photo/1",
-                    "id":"1255565062493913090",
-                    "id_str":"1255565062493913090",
-                    "indices":[
-                        "254",
-                        "277"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EWypxaZXQAI9lSw.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EWypxaZXQAI9lSw.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1469",
-                            "resize":"fit",
-                            "w":"1850"
-                        },
-                        "medium":{
-                            "h":"953",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"540",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/PfarTYNkWU"
-                }
-            ]
-        },
-        "favorite_count":"23",
-        "favorited":false,
-        "full_text":"Emilio #Pucci introduced #Braniff\u2019s Supersonic Derby outfit in 1966. The harlequin-print nylon jersey, tights, and bowler hat have Central American instruments and pre-Columbian art motifs. Do you remember this uniform? #crewlife #avgeek #MuseumFromHome https://t.co/PfarTYNkWU",
-        "id":"1255565066000269314",
-        "id_str":"1255565066000269314",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"8",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/EWypxaZXQAI9lSw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EWypxaZXQAI9lSw.jpg",
+            "sizes": {
+              "large": {
+                "h": "1469",
+                "resize": "fit",
+                "w": "1850"
+              },
+              "medium": {
+                "h": "953",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "540",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PfarTYNkWU"
+          }
+        ]
+      },
+      "favorite_count": "23",
+      "favorited": false,
+      "full_text": "Emilio #Pucci introduced #Braniff’s Supersonic Derby outfit in 1966. The harlequin-print nylon jersey, tights, and bowler hat have Central American instruments and pre-Columbian art motifs. Do you remember this uniform? #crewlife #avgeek #MuseumFromHome https://t.co/PfarTYNkWU",
+      "id": "1255565066000269314",
+      "id_str": "1255565066000269314",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "8",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729308387
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1255565066000269300
-    },
-    "wof:country":"US",
-    "wof:created":1602026313,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729308387,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026313,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729308387,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729308387,
-    "wof:lastmodified":1602186228,
-    "wof:name":"Emilio #Pucci introduced #Braniff\u2019s Supersonic Derby outfit in 1966. The harlequin-print nylon jersey, tights, and bowler hat have Central American instruments and pre-Columbian art motifs. Do you remember this uniform? #crewlife #avgeek #MuseumFromHome https://t.co/PfarTYNkWU",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729308387,
+    "wof:lastmodified": 1602193913,
+    "wof:name": "Emilio #Pucci introduced #Braniff’s Supersonic Derby outfit in 1966. The harlequin-print nylon jersey, tights, and bowler hat have Central American instruments and pre-Columbian art motifs. Do you remember this uniform? #crewlife #avgeek #MuseumFromHome https://t.co/PfarTYNkWU",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

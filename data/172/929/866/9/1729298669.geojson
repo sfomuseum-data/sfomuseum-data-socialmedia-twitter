@@ -2,186 +2,184 @@
   "id": 1729298669,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-12-04",
-    "date:cessation_upper":"2016-12-04",
-    "date:inception_lower":"2016-12-04",
-    "date:inception_upper":"2016-12-04",
-    "edtf:cessation":"2016-12-04T11:00:59-08:00",
-    "edtf:inception":"2016-12-04T11:00:59-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1480878059,
-        "created_at":"Sun Dec 04 19:00:59 +0000 2016",
-        "display_text_range":[
-            "0",
-            "136"
+    "date:cessation_lower": "2016-12-04",
+    "date:cessation_upper": "2016-12-04",
+    "date:inception_lower": "2016-12-04",
+    "date:inception_upper": "2016-12-04",
+    "edtf:cessation": "2016-12-04T11:00:59-08:00",
+    "edtf:inception": "2016-12-04T11:00:59-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1480878059,
+      "created_at": "Sun Dec 04 19:00:59 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "136"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "72", 
+              "88"
+            ],
+            "text": "JosephFinkleman"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "72",
-                        "88"
-                    ],
-                    "text":"JosephFinkleman"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/iwQwHgV1iz",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/805487080692400128/photo/1",
+            "id": "805487075499929604",
+            "id_str": "805487075499929604",
+            "indices": [
+              "113", 
+              "136"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/iwQwHgV1iz",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/805487080692400128/photo/1",
-                    "id":"805487075499929604",
-                    "id_str":"805487075499929604",
-                    "indices":[
-                        "113",
-                        "136"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cy2qOj5XcAQCXs2.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cy2qOj5XcAQCXs2.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1592",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"955",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"541",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/iwQwHgV1iz"
-                }
+            "media_url": "http://pbs.twimg.com/media/Cy2qOj5XcAQCXs2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cy2qOj5XcAQCXs2.jpg",
+            "sizes": {
+              "large": {
+                "h": "1592",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "955",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "541",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/iwQwHgV1iz"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2gJ7gOg",
+            "expanded_url": "http://bit.ly/2gJ7gOg",
+            "indices": [
+              "89", 
+              "112"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/2gJ7gOg",
-                    "expanded_url":"http://bit.ly/2gJ7gOg",
-                    "indices":[
-                        "89",
-                        "112"
-                    ],
-                    "url":"https://t.co/u6udtnifAI"
-                }
+            "url": "https://t.co/u6udtnifAI"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/iwQwHgV1iz",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/805487080692400128/photo/1",
+            "id": "805487075499929604",
+            "id_str": "805487075499929604",
+            "indices": [
+              "113", 
+              "136"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/iwQwHgV1iz",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/805487080692400128/photo/1",
-                    "id":"805487075499929604",
-                    "id_str":"805487075499929604",
-                    "indices":[
-                        "113",
-                        "136"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cy2qOj5XcAQCXs2.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cy2qOj5XcAQCXs2.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1592",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"955",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"541",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/iwQwHgV1iz"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"\"It is in the disturbance of the pattern that the pattern is revealed.\" #JosephFinkleman https://t.co/u6udtnifAI https://t.co/iwQwHgV1iz",
-        "id":"805487080692400128",
-        "id_str":"805487080692400128",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/Cy2qOj5XcAQCXs2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cy2qOj5XcAQCXs2.jpg",
+            "sizes": {
+              "large": {
+                "h": "1592",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "955",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "541",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/iwQwHgV1iz"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "\"It is in the disturbance of the pattern that the pattern is revealed.\" #JosephFinkleman https://t.co/u6udtnifAI https://t.co/iwQwHgV1iz",
+      "id": "805487080692400128",
+      "id_str": "805487080692400128",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729298669
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":805487080692400100
-    },
-    "wof:country":"US",
-    "wof:created":1602025944,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729298669,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025944,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729298669,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729298669,
-    "wof:lastmodified":1602186645,
-    "wof:name":"\"It is in the disturbance of the pattern that the pattern is revealed.\" #JosephFinkleman https://t.co/u6udtnifAI https://t.co/iwQwHgV1iz",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729298669,
+    "wof:lastmodified": 1602193907,
+    "wof:name": "\"It is in the disturbance of the pattern that the pattern is revealed.\" #JosephFinkleman https://t.co/u6udtnifAI https://t.co/iwQwHgV1iz",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

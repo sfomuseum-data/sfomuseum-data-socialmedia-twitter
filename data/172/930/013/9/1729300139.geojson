@@ -2,197 +2,195 @@
   "id": 1729300139,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-05-16",
-    "date:cessation_upper":"2017-05-16",
-    "date:inception_lower":"2017-05-16",
-    "date:inception_upper":"2017-05-16",
-    "edtf:cessation":"2017-05-16T12:07:33-07:00",
-    "edtf:inception":"2017-05-16T12:07:33-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1494961653,
-        "created_at":"Tue May 16 19:07:33 +0000 2017",
-        "display_text_range":[
-            "0",
-            "104"
+    "date:cessation_lower": "2017-05-16",
+    "date:cessation_upper": "2017-05-16",
+    "date:inception_lower": "2017-05-16",
+    "date:inception_upper": "2017-05-16",
+    "edtf:cessation": "2017-05-16T12:07:33-07:00",
+    "edtf:inception": "2017-05-16T12:07:33-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1494961653,
+      "created_at": "Tue May 16 19:07:33 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "104"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/1PrR3ba7bc",
+            "expanded_url": "https://twitter.com/TelegraphTravel/status/864456448822181888/photo/1",
+            "id": "864456434620055552",
+            "id_str": "864456434620055552",
+            "indices": [
+              "81", 
+              "104"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C_8qjBVUQAA8Dtu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C_8qjBVUQAA8Dtu.jpg",
+            "sizes": {
+              "large": {
+                "h": "536",
+                "resize": "fit",
+                "w": "858"
+              },
+              "medium": {
+                "h": "536",
+                "resize": "fit",
+                "w": "858"
+              },
+              "small": {
+                "h": "425",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "864456448822181888",
+            "source_status_id_str": "864456448822181888",
+            "source_user_id": "21209392",
+            "source_user_id_str": "21209392",
+            "type": "photo",
+            "url": "https://t.co/1PrR3ba7bc"
+          }
         ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/1PrR3ba7bc",
-                    "expanded_url":"https://twitter.com/TelegraphTravel/status/864456448822181888/photo/1",
-                    "id":"864456434620055552",
-                    "id_str":"864456434620055552",
-                    "indices":[
-                        "81",
-                        "104"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C_8qjBVUQAA8Dtu.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C_8qjBVUQAA8Dtu.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"536",
-                            "resize":"fit",
-                            "w":"858"
-                        },
-                        "medium":{
-                            "h":"536",
-                            "resize":"fit",
-                            "w":"858"
-                        },
-                        "small":{
-                            "h":"425",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"864456448822181888",
-                    "source_status_id_str":"864456448822181888",
-                    "source_user_id":"21209392",
-                    "source_user_id_str":"21209392",
-                    "type":"photo",
-                    "url":"https://t.co/1PrR3ba7bc"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "telegraph.co.uk/travel/news/ic…",
+            "expanded_url": "http://www.telegraph.co.uk/travel/news/icelandair-vatnajokull-glacier-plane/",
+            "indices": [
+              "57", 
+              "80"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"telegraph.co.uk/travel/news/ic\u2026",
-                    "expanded_url":"http://www.telegraph.co.uk/travel/news/icelandair-vatnajokull-glacier-plane/",
-                    "indices":[
-                        "57",
-                        "80"
-                    ],
-                    "url":"https://t.co/ZiD0vI32Uy"
-                }
+            "url": "https://t.co/ZiD0vI32Uy"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "21209392",
+            "id_str": "21209392",
+            "indices": [
+              "3", 
+              "19"
             ],
-            "user_mentions":[
-                {
-                    "id":"21209392",
-                    "id_str":"21209392",
-                    "indices":[
-                        "3",
-                        "19"
-                    ],
-                    "name":"Telegraph Travel",
-                    "screen_name":"TelegraphTravel"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/1PrR3ba7bc",
-                    "expanded_url":"https://twitter.com/TelegraphTravel/status/864456448822181888/photo/1",
-                    "id":"864456434620055552",
-                    "id_str":"864456434620055552",
-                    "indices":[
-                        "81",
-                        "104"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C_8qjBVUQAA8Dtu.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C_8qjBVUQAA8Dtu.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"536",
-                            "resize":"fit",
-                            "w":"858"
-                        },
-                        "medium":{
-                            "h":"536",
-                            "resize":"fit",
-                            "w":"858"
-                        },
-                        "small":{
-                            "h":"425",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"864456448822181888",
-                    "source_status_id_str":"864456448822181888",
-                    "source_user_id":"21209392",
-                    "source_user_id_str":"21209392",
-                    "type":"photo",
-                    "url":"https://t.co/1PrR3ba7bc"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @TelegraphTravel: Is this the world's 'coolest' plane https://t.co/ZiD0vI32Uy https://t.co/1PrR3ba7bc",
-        "id":"864557953650524160",
-        "id_str":"864557953650524160",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated":false
+            "name": "Telegraph Travel",
+            "screen_name": "TelegraphTravel"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/1PrR3ba7bc",
+            "expanded_url": "https://twitter.com/TelegraphTravel/status/864456448822181888/photo/1",
+            "id": "864456434620055552",
+            "id_str": "864456434620055552",
+            "indices": [
+              "81", 
+              "104"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C_8qjBVUQAA8Dtu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C_8qjBVUQAA8Dtu.jpg",
+            "sizes": {
+              "large": {
+                "h": "536",
+                "resize": "fit",
+                "w": "858"
+              },
+              "medium": {
+                "h": "536",
+                "resize": "fit",
+                "w": "858"
+              },
+              "small": {
+                "h": "425",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "864456448822181888",
+            "source_status_id_str": "864456448822181888",
+            "source_user_id": "21209392",
+            "source_user_id_str": "21209392",
+            "type": "photo",
+            "url": "https://t.co/1PrR3ba7bc"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @TelegraphTravel: Is this the world's 'coolest' plane https://t.co/ZiD0vI32Uy https://t.co/1PrR3ba7bc",
+      "id": "864557953650524160",
+      "id_str": "864557953650524160",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729300139
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":864557953650524200
-    },
-    "wof:country":"US",
-    "wof:created":1602025998,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729300139,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025998,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729300139,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729300139,
-    "wof:lastmodified":1602186448,
-    "wof:name":"RT @TelegraphTravel: Is this the world's 'coolest' plane https://t.co/ZiD0vI32Uy https://t.co/1PrR3ba7bc",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729300139,
+    "wof:lastmodified": 1602193909,
+    "wof:name": "RT @TelegraphTravel: Is this the world's 'coolest' plane https://t.co/ZiD0vI32Uy https://t.co/1PrR3ba7bc",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

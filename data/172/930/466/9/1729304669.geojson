@@ -2,114 +2,112 @@
   "id": 1729304669,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-02-02",
-    "date:cessation_upper":"2012-02-02",
-    "date:inception_lower":"2012-02-02",
-    "date:inception_upper":"2012-02-02",
-    "edtf:cessation":"2012-02-02T09:03:01-08:00",
-    "edtf:inception":"2012-02-02T09:03:01-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1328202181,
-        "created_at":"Thu Feb 02 17:03:01 +0000 2012",
-        "display_text_range":[
-            "0",
-            "127"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/w9Asx1",
-                    "expanded_url":"http://bit.ly/w9Asx1",
-                    "indices":[
-                        "107",
-                        "127"
-                    ],
-                    "url":"http://t.co/fDGLRPz6"
-                }
+    "date:cessation_lower": "2012-02-02",
+    "date:cessation_upper": "2012-02-02",
+    "date:inception_lower": "2012-02-02",
+    "date:inception_upper": "2012-02-02",
+    "edtf:cessation": "2012-02-02T09:03:01-08:00",
+    "edtf:inception": "2012-02-02T09:03:01-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1328202181,
+      "created_at": "Thu Feb 02 17:03:01 +0000 2012",
+      "display_text_range": [
+        "0", 
+        "127"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/w9Asx1",
+            "expanded_url": "http://bit.ly/w9Asx1",
+            "indices": [
+              "107", 
+              "127"
             ],
-            "user_mentions":[
-                {
-                    "id":"24041141",
-                    "id_str":"24041141",
-                    "indices":[
-                        "0",
-                        "12"
-                    ],
-                    "name":"Frank Fox",
-                    "screen_name":"frankthefox"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"@frankthefox Walter Kitundu's \"Bay Area Bird Encounters\" in T2 is a musical instrument as well as a mural! http://t.co/fDGLRPz6",
-        "id":"165118032367206400",
-        "id_str":"165118032367206400",
-        "in_reply_to_screen_name":"frankthefox",
-        "in_reply_to_user_id":"24041141",
-        "in_reply_to_user_id_str":"24041141",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-        "truncated":false
+            "url": "http://t.co/fDGLRPz6"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "24041141",
+            "id_str": "24041141",
+            "indices": [
+              "0", 
+              "12"
+            ],
+            "name": "Frank Fox",
+            "screen_name": "frankthefox"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@frankthefox Walter Kitundu's \"Bay Area Bird Encounters\" in T2 is a musical instrument as well as a mural! http://t.co/fDGLRPz6",
+      "id": "165118032367206400",
+      "id_str": "165118032367206400",
+      "in_reply_to_screen_name": "frankthefox",
+      "in_reply_to_user_id": "24041141",
+      "in_reply_to_user_id_str": "24041141",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729304669
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":165118032367206400
-    },
-    "wof:country":"US",
-    "wof:created":1602026171,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729304669,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026171,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729304669,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729304669,
-    "wof:lastmodified":1602186436,
-    "wof:name":"@frankthefox Walter Kitundu's \"Bay Area Bird Encounters\" in T2 is a musical instrument as well as a mural! http://t.co/fDGLRPz6",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729304669,
+    "wof:lastmodified": 1602193911,
+    "wof:name": "@frankthefox Walter Kitundu's \"Bay Area Bird Encounters\" in T2 is a musical instrument as well as a mural! http://t.co/fDGLRPz6",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

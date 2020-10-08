@@ -2,119 +2,117 @@
   "id": 1729311969,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-05-01",
-    "date:cessation_upper":"2013-05-01",
-    "date:inception_lower":"2013-05-01",
-    "date:inception_upper":"2013-05-01",
-    "edtf:cessation":"2013-05-01T10:29:06-07:00",
-    "edtf:inception":"2013-05-01T10:29:06-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1367429346,
-        "created_at":"Wed May 01 17:29:06 +0000 2013",
-        "display_text_range":[
-            "0",
-            "140"
+    "date:cessation_lower": "2013-05-01",
+    "date:cessation_upper": "2013-05-01",
+    "date:inception_lower": "2013-05-01",
+    "date:inception_upper": "2013-05-01",
+    "edtf:cessation": "2013-05-01T10:29:06-07:00",
+    "edtf:inception": "2013-05-01T10:29:06-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1367429346,
+      "created_at": "Wed May 01 17:29:06 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "37", 
+              "41"
+            ],
+            "text": "SFO"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "37",
-                        "41"
-                    ],
-                    "text":"SFO"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "flysfo.com/web/page/sfo_m…",
+            "expanded_url": "http://www.flysfo.com/web/page/sfo_museum/aviation_library_museum/",
+            "indices": [
+              "111", 
+              "133"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"flysfo.com/web/page/sfo_m\u2026",
-                    "expanded_url":"http://www.flysfo.com/web/page/sfo_museum/aviation_library_museum/",
-                    "indices":[
-                        "111",
-                        "133"
-                    ],
-                    "url":"http://t.co/01msLoYNfk"
-                }
+            "url": "http://t.co/01msLoYNfk"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "16405618",
+            "id_str": "16405618",
+            "indices": [
+              "3", 
+              "15"
             ],
-            "user_mentions":[
-                {
-                    "id":"16405618",
-                    "id_str":"16405618",
-                    "indices":[
-                        "3",
-                        "15"
-                    ],
-                    "name":"Inga Aksamit",
-                    "screen_name":"IngaAksamit"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @IngaAksamit: Just discovered the #SFO Aviation Museum-Chk out the 2 volunteers in their TWA uniforms-sharp http://t.co/01msLoYNfk http:\u2026",
-        "id":"329648689339564032",
-        "id_str":"329648689339564032",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-        "truncated":false
+            "name": "Inga Aksamit",
+            "screen_name": "IngaAksamit"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @IngaAksamit: Just discovered the #SFO Aviation Museum-Chk out the 2 volunteers in their TWA uniforms-sharp http://t.co/01msLoYNfk http:…",
+      "id": "329648689339564032",
+      "id_str": "329648689339564032",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729311969
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":329648689339564000
-    },
-    "wof:country":"US",
-    "wof:created":1602026453,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729311969,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026453,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729311969,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729311969,
-    "wof:lastmodified":1602186504,
-    "wof:name":"RT @IngaAksamit: Just discovered the #SFO Aviation Museum-Chk out the 2 volunteers in their TWA uniforms-sharp http://t.co/01msLoYNfk http:\u2026",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729311969,
+    "wof:lastmodified": 1602193915,
+    "wof:name": "RT @IngaAksamit: Just discovered the #SFO Aviation Museum-Chk out the 2 volunteers in their TWA uniforms-sharp http://t.co/01msLoYNfk http:…",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

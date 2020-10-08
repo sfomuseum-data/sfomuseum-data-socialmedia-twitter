@@ -2,100 +2,98 @@
   "id": 1729294609,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-12-01",
-    "date:cessation_upper":"2015-12-01",
-    "date:inception_lower":"2015-12-01",
-    "date:inception_upper":"2015-12-01",
-    "edtf:cessation":"2015-12-01T16:50:32-08:00",
-    "edtf:inception":"2015-12-01T16:50:32-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1449017432,
-        "created_at":"Wed Dec 02 00:50:32 +0000 2015",
-        "display_text_range":[
-            "0",
-            "136"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"archive.org/details/1809_H\u2026",
-                    "expanded_url":"https://archive.org/details/1809_HM_Summers_Collection_San_Francisco_California_1941_07_00_20_00",
-                    "indices":[
-                        "112",
-                        "135"
-                    ],
-                    "url":"https://t.co/PJvDimBTiz"
-                }
+    "date:cessation_lower": "2015-12-01",
+    "date:cessation_upper": "2015-12-01",
+    "date:inception_lower": "2015-12-01",
+    "date:inception_upper": "2015-12-01",
+    "edtf:cessation": "2015-12-01T16:50:32-08:00",
+    "edtf:inception": "2015-12-01T16:50:32-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1449017432,
+      "created_at": "Wed Dec 02 00:50:32 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "136"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "archive.org/details/1809_H…",
+            "expanded_url": "https://archive.org/details/1809_HM_Summers_Collection_San_Francisco_California_1941_07_00_20_00",
+            "indices": [
+              "112", 
+              "135"
             ],
-            "user_mentions":[]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"Ever wonder what it was like to land at SFO 70 years ago? Check out this video of San Francisco in 1941 (3:40). https://t.co/PJvDimBTiz\u00ac",
-        "id":"671853925432172544",
-        "id_str":"671853925432172544",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "url": "https://t.co/PJvDimBTiz"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Ever wonder what it was like to land at SFO 70 years ago? Check out this video of San Francisco in 1941 (3:40). https://t.co/PJvDimBTiz¬",
+      "id": "671853925432172544",
+      "id_str": "671853925432172544",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729294609
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":671853925432172500
-    },
-    "wof:country":"US",
-    "wof:created":1602025788,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729294609,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025788,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729294609,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729294609,
-    "wof:lastmodified":1602186664,
-    "wof:name":"Ever wonder what it was like to land at SFO 70 years ago? Check out this video of San Francisco in 1941 (3:40). https://t.co/PJvDimBTiz\u00ac",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729294609,
+    "wof:lastmodified": 1602193905,
+    "wof:name": "Ever wonder what it was like to land at SFO 70 years ago? Check out this video of San Francisco in 1941 (3:40). https://t.co/PJvDimBTiz¬",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

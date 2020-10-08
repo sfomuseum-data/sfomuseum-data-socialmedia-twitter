@@ -2,261 +2,259 @@
   "id": 1729303611,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-06-24",
-    "date:cessation_upper":"2018-06-24",
-    "date:inception_lower":"2018-06-24",
-    "date:inception_upper":"2018-06-24",
-    "edtf:cessation":"2018-06-24T11:10:05-07:00",
-    "edtf:inception":"2018-06-24T11:10:05-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1529863805,
-        "created_at":"Sun Jun 24 18:10:05 +0000 2018",
-        "display_text_range":[
-            "0",
-            "298"
+    "date:cessation_lower": "2018-06-24",
+    "date:cessation_upper": "2018-06-24",
+    "date:inception_lower": "2018-06-24",
+    "date:inception_upper": "2018-06-24",
+    "edtf:cessation": "2018-06-24T11:10:05-07:00",
+    "edtf:inception": "2018-06-24T11:10:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1529863805,
+      "created_at": "Sun Jun 24 18:10:05 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "298"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "11"
+            ],
+            "text": "HappyPride"
+          }, 
+          {
+            "indices": [
+              "31", 
+              "44"
+            ],
+            "text": "GilbertBaker"
+          }, 
+          {
+            "indices": [
+              "65", 
+              "77"
+            ],
+            "text": "rainbowflag"
+          }, 
+          {
+            "indices": [
+              "107", 
+              "113"
+            ],
+            "text": "Pride"
+          }, 
+          {
+            "indices": [
+              "137", 
+              "148"
+            ],
+            "text": "HarveyMilk"
+          }, 
+          {
+            "indices": [
+              "167", 
+              "171"
+            ],
+            "text": "gay"
+          }, 
+          {
+            "indices": [
+              "192", 
+              "203"
+            ],
+            "text": "California"
+          }, 
+          {
+            "indices": [
+              "259", 
+              "274"
+            ],
+            "text": "ALegacyofPride"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "0",
-                        "11"
-                    ],
-                    "text":"HappyPride"
-                },
-                {
-                    "indices":[
-                        "31",
-                        "44"
-                    ],
-                    "text":"GilbertBaker"
-                },
-                {
-                    "indices":[
-                        "65",
-                        "77"
-                    ],
-                    "text":"rainbowflag"
-                },
-                {
-                    "indices":[
-                        "107",
-                        "113"
-                    ],
-                    "text":"Pride"
-                },
-                {
-                    "indices":[
-                        "137",
-                        "148"
-                    ],
-                    "text":"HarveyMilk"
-                },
-                {
-                    "indices":[
-                        "167",
-                        "171"
-                    ],
-                    "text":"gay"
-                },
-                {
-                    "indices":[
-                        "192",
-                        "203"
-                    ],
-                    "text":"California"
-                },
-                {
-                    "indices":[
-                        "259",
-                        "274"
-                    ],
-                    "text":"ALegacyofPride"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/lmj2ofiuRb",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1010948187266396161/photo/1",
+            "id": "1010948183697100801",
+            "id_str": "1010948183697100801",
+            "indices": [
+              "275", 
+              "298"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/lmj2ofiuRb",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1010948187266396161/photo/1",
-                    "id":"1010948183697100801",
-                    "id_str":"1010948183697100801",
-                    "indices":[
-                        "275",
-                        "298"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DgecBE-XkAEjRdt.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DgecBE-XkAEjRdt.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1368",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"821",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"465",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/lmj2ofiuRb"
-                }
+            "media_url": "http://pbs.twimg.com/media/DgecBE-XkAEjRdt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DgecBE-XkAEjRdt.jpg",
+            "sizes": {
+              "large": {
+                "h": "1368",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "821",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "465",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/lmj2ofiuRb"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/lmj2ofiuRb",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1010948187266396161/photo/1",
+            "id": "1010948183697100801",
+            "id_str": "1010948183697100801",
+            "indices": [
+              "275", 
+              "298"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/lmj2ofiuRb",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1010948187266396161/photo/1",
-                    "id":"1010948183697100801",
-                    "id_str":"1010948183697100801",
-                    "indices":[
-                        "275",
-                        "298"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DgecBE-XkAEjRdt.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DgecBE-XkAEjRdt.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1368",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"821",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"465",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/lmj2ofiuRb"
-                },
-                {
-                    "display_url":"pic.twitter.com/lmj2ofiuRb",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1010948187266396161/photo/1",
-                    "id":"1010948184498229248",
-                    "id_str":"1010948184498229248",
-                    "indices":[
-                        "275",
-                        "298"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DgecBH9X0AAL1VW.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DgecBH9X0AAL1VW.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1333"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"453"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/lmj2ofiuRb"
-                }
-            ]
-        },
-        "favorite_count":"4",
-        "favorited":false,
-        "full_text":"#HappyPride! Our exhibition on #GilbertBaker, the creator of the #rainbowflag, features this photo from SF #Pride 40 years ago featuring #HarveyMilk, the first openly #gay official elected in #California, with the first rainbow flags visible in the distance. #ALegacyofPride https://t.co/lmj2ofiuRb",
-        "id":"1010948187266396161",
-        "id_str":"1010948187266396161",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DgecBE-XkAEjRdt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DgecBE-XkAEjRdt.jpg",
+            "sizes": {
+              "large": {
+                "h": "1368",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "821",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "465",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/lmj2ofiuRb"
+          }, 
+          {
+            "display_url": "pic.twitter.com/lmj2ofiuRb",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1010948187266396161/photo/1",
+            "id": "1010948184498229248",
+            "id_str": "1010948184498229248",
+            "indices": [
+              "275", 
+              "298"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DgecBH9X0AAL1VW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DgecBH9X0AAL1VW.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/lmj2ofiuRb"
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "#HappyPride! Our exhibition on #GilbertBaker, the creator of the #rainbowflag, features this photo from SF #Pride 40 years ago featuring #HarveyMilk, the first openly #gay official elected in #California, with the first rainbow flags visible in the distance. #ALegacyofPride https://t.co/lmj2ofiuRb",
+      "id": "1010948187266396161",
+      "id_str": "1010948187266396161",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729303611
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1010948187266396200
-    },
-    "wof:country":"US",
-    "wof:created":1602026130,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729303611,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026130,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729303611,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729303611,
-    "wof:lastmodified":1602186411,
-    "wof:name":"#HappyPride! Our exhibition on #GilbertBaker, the creator of the #rainbowflag, features this photo from SF #Pride 40 years ago featuring #HarveyMilk, the first openly #gay official elected in #California, with the first rainbow flags visible in the distance. #ALegacyofPride https://t.co/lmj2ofiuRb",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729303611,
+    "wof:lastmodified": 1602193910,
+    "wof:name": "#HappyPride! Our exhibition on #GilbertBaker, the creator of the #rainbowflag, features this photo from SF #Pride 40 years ago featuring #HarveyMilk, the first openly #gay official elected in #California, with the first rainbow flags visible in the distance. #ALegacyofPride https://t.co/lmj2ofiuRb",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

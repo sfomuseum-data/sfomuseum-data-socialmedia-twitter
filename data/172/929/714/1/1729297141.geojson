@@ -2,219 +2,217 @@
   "id": 1729297141,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-07-28",
-    "date:cessation_upper":"2016-07-28",
-    "date:inception_lower":"2016-07-28",
-    "date:inception_upper":"2016-07-28",
-    "edtf:cessation":"2016-07-28T18:35:07-07:00",
-    "edtf:inception":"2016-07-28T18:35:07-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1469756107,
-        "created_at":"Fri Jul 29 01:35:07 +0000 2016",
-        "display_text_range":[
-            "0",
-            "139"
+    "date:cessation_lower": "2016-07-28",
+    "date:cessation_upper": "2016-07-28",
+    "date:inception_lower": "2016-07-28",
+    "date:inception_upper": "2016-07-28",
+    "edtf:cessation": "2016-07-28T18:35:07-07:00",
+    "edtf:inception": "2016-07-28T18:35:07-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1469756107,
+      "created_at": "Fri Jul 29 01:35:07 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "139"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "99", 
+              "103"
+            ],
+            "text": "TBT"
+          }, 
+          {
+            "indices": [
+              "104", 
+              "115"
+            ],
+            "text": "SFOHistory"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "99",
-                        "103"
-                    ],
-                    "text":"TBT"
-                },
-                {
-                    "indices":[
-                        "104",
-                        "115"
-                    ],
-                    "text":"SFOHistory"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XP16KanYBV",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/758838231924297730/photo/1",
+            "id": "758838226689728513",
+            "id_str": "758838226689728513",
+            "indices": [
+              "116", 
+              "139"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XP16KanYBV",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/758838231924297730/photo/1",
-                    "id":"758838226689728513",
-                    "id_str":"758838226689728513",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CofvWL_UIAEzbsR.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CofvWL_UIAEzbsR.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1567"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"940"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"533"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XP16KanYBV"
-                }
+            "media_url": "http://pbs.twimg.com/media/CofvWL_UIAEzbsR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CofvWL_UIAEzbsR.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1567"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "940"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "533"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XP16KanYBV"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XP16KanYBV",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/758838231924297730/photo/1",
+            "id": "758838226689728513",
+            "id_str": "758838226689728513",
+            "indices": [
+              "116", 
+              "139"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XP16KanYBV",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/758838231924297730/photo/1",
-                    "id":"758838226689728513",
-                    "id_str":"758838226689728513",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CofvWL_UIAEzbsR.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CofvWL_UIAEzbsR.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1567"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"940"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"533"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XP16KanYBV"
-                },
-                {
-                    "display_url":"pic.twitter.com/XP16KanYBV",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/758838231924297730/photo/1",
-                    "id":"758838226689794048",
-                    "id_str":"758838226689794048",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CofvWL_VIAAujY3.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CofvWL_VIAAujY3.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"873"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"524"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"297"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XP16KanYBV"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"SFO Helicopter Airlines operated the first commercial hovercraft service. The route lasted a year. #TBT #SFOHistory https://t.co/XP16KanYBV",
-        "id":"758838231924297730",
-        "id_str":"758838231924297730",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/CofvWL_UIAEzbsR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CofvWL_UIAEzbsR.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1567"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "940"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "533"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XP16KanYBV"
+          }, 
+          {
+            "display_url": "pic.twitter.com/XP16KanYBV",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/758838231924297730/photo/1",
+            "id": "758838226689794048",
+            "id_str": "758838226689794048",
+            "indices": [
+              "116", 
+              "139"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CofvWL_VIAAujY3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CofvWL_VIAAujY3.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "873"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "524"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "297"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XP16KanYBV"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "SFO Helicopter Airlines operated the first commercial hovercraft service. The route lasted a year. #TBT #SFOHistory https://t.co/XP16KanYBV",
+      "id": "758838231924297730",
+      "id_str": "758838231924297730",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729297141
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":758838231924297700
-    },
-    "wof:country":"US",
-    "wof:created":1602025887,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729297141,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025887,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729297141,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729297141,
-    "wof:lastmodified":1602186679,
-    "wof:name":"SFO Helicopter Airlines operated the first commercial hovercraft service. The route lasted a year. #TBT #SFOHistory https://t.co/XP16KanYBV",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729297141,
+    "wof:lastmodified": 1602193906,
+    "wof:name": "SFO Helicopter Airlines operated the first commercial hovercraft service. The route lasted a year. #TBT #SFOHistory https://t.co/XP16KanYBV",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

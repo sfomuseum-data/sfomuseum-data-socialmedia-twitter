@@ -2,136 +2,134 @@
   "id": 1729292581,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2014-10-06",
-    "date:cessation_upper":"2014-10-06",
-    "date:inception_lower":"2014-10-06",
-    "date:inception_upper":"2014-10-06",
-    "edtf:cessation":"2014-10-06T15:46:57-07:00",
-    "edtf:inception":"2014-10-06T15:46:57-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1412635617,
-        "created_at":"Mon Oct 06 22:46:57 +0000 2014",
-        "display_text_range":[
-            "0",
-            "140"
+    "date:cessation_lower": "2014-10-06",
+    "date:cessation_upper": "2014-10-06",
+    "date:inception_lower": "2014-10-06",
+    "date:inception_upper": "2014-10-06",
+    "edtf:cessation": "2014-10-06T15:46:57-07:00",
+    "edtf:inception": "2014-10-06T15:46:57-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1412635617,
+      "created_at": "Mon Oct 06 22:46:57 +0000 2014",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "34", 
+              "46"
+            ],
+            "text": "advertising"
+          }, 
+          {
+            "indices": [
+              "77", 
+              "88"
+            ],
+            "text": "PopCulture"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "34",
-                        "46"
-                    ],
-                    "text":"advertising"
-                },
-                {
-                    "indices":[
-                        "77",
-                        "88"
-                    ],
-                    "text":"PopCulture"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "blazenfluff.com/a-world-of-cha…",
+            "expanded_url": "http://blazenfluff.com/a-world-of-characters-advertising-icons-from-the-warren-dotz-collection-sfo/8783/",
+            "indices": [
+              "113", 
+              "135"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"blazenfluff.com/a-world-of-cha\u2026",
-                    "expanded_url":"http://blazenfluff.com/a-world-of-characters-advertising-icons-from-the-warren-dotz-collection-sfo/8783/",
-                    "indices":[
-                        "113",
-                        "135"
-                    ],
-                    "url":"http://t.co/VVFlJx2diG"
-                }
+            "url": "http://t.co/VVFlJx2diG"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "1801791",
+            "id_str": "1801791",
+            "indices": [
+              "3", 
+              "14"
             ],
-            "user_mentions":[
-                {
-                    "id":"1801791",
-                    "id_str":"1801791",
-                    "indices":[
-                        "3",
-                        "14"
-                    ],
-                    "name":"Rusty Blazenhoff",
-                    "screen_name":"Blazenhoff"
-                },
-                {
-                    "id":"116329337",
-                    "id_str":"116329337",
-                    "indices":[
-                        "63",
-                        "73"
-                    ],
-                    "name":"SFO Museum",
-                    "screen_name":"SFOMuseum"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @Blazenhoff: There's a vintage #advertising icon exhibit at @SFOMuseum by #PopCulture historian Warren Dotz!  http://t.co/VVFlJx2diG #cu\u2026",
-        "id":"519257532490326016",
-        "id_str":"519257532490326016",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "Rusty Blazenhoff",
+            "screen_name": "Blazenhoff"
+          }, 
+          {
+            "id": "116329337",
+            "id_str": "116329337",
+            "indices": [
+              "63", 
+              "73"
+            ],
+            "name": "SFO Museum",
+            "screen_name": "SFOMuseum"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @Blazenhoff: There's a vintage #advertising icon exhibit at @SFOMuseum by #PopCulture historian Warren Dotz!  http://t.co/VVFlJx2diG #cu…",
+      "id": "519257532490326016",
+      "id_str": "519257532490326016",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729292581
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":519257532490326000
-    },
-    "wof:country":"US",
-    "wof:created":1602025714,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729292581,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025714,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729292581,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729292581,
-    "wof:lastmodified":1602186675,
-    "wof:name":"RT @Blazenhoff: There's a vintage #advertising icon exhibit at @SFOMuseum by #PopCulture historian Warren Dotz!  http://t.co/VVFlJx2diG #cu\u2026",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729292581,
+    "wof:lastmodified": 1602193904,
+    "wof:name": "RT @Blazenhoff: There's a vintage #advertising icon exhibit at @SFOMuseum by #PopCulture historian Warren Dotz!  http://t.co/VVFlJx2diG #cu…",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

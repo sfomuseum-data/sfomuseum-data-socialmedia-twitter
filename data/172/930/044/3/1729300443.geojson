@@ -2,197 +2,195 @@
   "id": 1729300443,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-06-15",
-    "date:cessation_upper":"2017-06-15",
-    "date:inception_lower":"2017-06-15",
-    "date:inception_upper":"2017-06-15",
-    "edtf:cessation":"2017-06-15T17:20:35-07:00",
-    "edtf:inception":"2017-06-15T17:20:35-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1497572435,
-        "created_at":"Fri Jun 16 00:20:35 +0000 2017",
-        "display_text_range":[
-            "0",
-            "116"
+    "date:cessation_lower": "2017-06-15",
+    "date:cessation_upper": "2017-06-15",
+    "date:inception_lower": "2017-06-15",
+    "date:inception_upper": "2017-06-15",
+    "edtf:cessation": "2017-06-15T17:20:35-07:00",
+    "edtf:inception": "2017-06-15T17:20:35-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1497572435,
+      "created_at": "Fri Jun 16 00:20:35 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "116"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "40", 
+              "48"
+            ],
+            "text": "AFTACON"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "40",
-                        "48"
-                    ],
-                    "text":"AFTACON"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/MAAde743nX",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/875508367745138688/photo/1",
+            "id": "875508363458527232",
+            "id_str": "875508363458527232",
+            "indices": [
+              "93", 
+              "116"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/MAAde743nX",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/875508367745138688/photo/1",
-                    "id":"875508363458527232",
-                    "id_str":"875508363458527232",
-                    "indices":[
-                        "93",
-                        "116"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DCZuN8nUQAAmRik.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DCZuN8nUQAAmRik.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1536",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"900",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"510",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/MAAde743nX"
-                }
+            "media_url": "http://pbs.twimg.com/media/DCZuN8nUQAAmRik.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DCZuN8nUQAAmRik.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/MAAde743nX"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "18958334",
+            "id_str": "18958334",
+            "indices": [
+              "8", 
+              "13"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"18958334",
-                    "id_str":"18958334",
-                    "indices":[
-                        "8",
-                        "13"
-                    ],
-                    "name":"SF Arts Commission",
-                    "screen_name":"SFAC"
-                },
-                {
-                    "id":"15384023",
-                    "id_str":"15384023",
-                    "indices":[
-                        "24",
-                        "39"
-                    ],
-                    "name":"AmericansForTheArts",
-                    "screen_name":"Americans4Arts"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/MAAde743nX",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/875508367745138688/photo/1",
-                    "id":"875508363458527232",
-                    "id_str":"875508363458527232",
-                    "indices":[
-                        "93",
-                        "116"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DCZuN8nUQAAmRik.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DCZuN8nUQAAmRik.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1536",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"900",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"510",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/MAAde743nX"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"Helping @SFAC kick off  @Americans4Arts #AFTACON with a tour of public art in the terminals! https://t.co/MAAde743nX",
-        "id":"875508367745138688",
-        "id_str":"875508367745138688",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "truncated":false
+            "name": "SF Arts Commission",
+            "screen_name": "SFAC"
+          }, 
+          {
+            "id": "15384023",
+            "id_str": "15384023",
+            "indices": [
+              "24", 
+              "39"
+            ],
+            "name": "AmericansForTheArts",
+            "screen_name": "Americans4Arts"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/MAAde743nX",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/875508367745138688/photo/1",
+            "id": "875508363458527232",
+            "id_str": "875508363458527232",
+            "indices": [
+              "93", 
+              "116"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DCZuN8nUQAAmRik.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DCZuN8nUQAAmRik.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/MAAde743nX"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Helping @SFAC kick off  @Americans4Arts #AFTACON with a tour of public art in the terminals! https://t.co/MAAde743nX",
+      "id": "875508367745138688",
+      "id_str": "875508367745138688",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729300443
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":875508367745138700
-    },
-    "wof:country":"US",
-    "wof:created":1602026009,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729300443,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026009,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729300443,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729300443,
-    "wof:lastmodified":1602186314,
-    "wof:name":"Helping @SFAC kick off  @Americans4Arts #AFTACON with a tour of public art in the terminals! https://t.co/MAAde743nX",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729300443,
+    "wof:lastmodified": 1602193909,
+    "wof:name": "Helping @SFAC kick off  @Americans4Arts #AFTACON with a tour of public art in the terminals! https://t.co/MAAde743nX",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

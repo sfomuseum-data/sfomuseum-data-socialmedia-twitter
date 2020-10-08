@@ -2,204 +2,202 @@
   "id": 1729293567,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-07-20",
-    "date:cessation_upper":"2015-07-20",
-    "date:inception_lower":"2015-07-20",
-    "date:inception_upper":"2015-07-20",
-    "edtf:cessation":"2015-07-20T14:55:56-07:00",
-    "edtf:inception":"2015-07-20T14:55:56-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1437429356,
-        "created_at":"Mon Jul 20 21:55:56 +0000 2015",
-        "display_text_range":[
-            "0",
-            "139"
+    "date:cessation_lower": "2015-07-20",
+    "date:cessation_upper": "2015-07-20",
+    "date:inception_lower": "2015-07-20",
+    "date:inception_upper": "2015-07-20",
+    "edtf:cessation": "2015-07-20T14:55:56-07:00",
+    "edtf:inception": "2015-07-20T14:55:56-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1437429356,
+      "created_at": "Mon Jul 20 21:55:56 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "139"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "73", 
+              "82"
+            ],
+            "text": "aviation"
+          }, 
+          {
+            "indices": [
+              "83", 
+              "91"
+            ],
+            "text": "history"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "73",
-                        "82"
-                    ],
-                    "text":"aviation"
-                },
-                {
-                    "indices":[
-                        "83",
-                        "91"
-                    ],
-                    "text":"history"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7lY1qpuPXN",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/623250010738716672/photo/1",
+            "id": "623250010315063296",
+            "id_str": "623250010315063296",
+            "indices": [
+              "117", 
+              "139"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/7lY1qpuPXN",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/623250010738716672/photo/1",
-                    "id":"623250010315063296",
-                    "id_str":"623250010315063296",
-                    "indices":[
-                        "117",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CKY6lQ8WgAAwiNu.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CKY6lQ8WgAAwiNu.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1976",
-                            "resize":"fit",
-                            "w":"1511"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"918"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"520"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"http://t.co/7lY1qpuPXN"
-                }
+            "media_url": "http://pbs.twimg.com/media/CKY6lQ8WgAAwiNu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CKY6lQ8WgAAwiNu.jpg",
+            "sizes": {
+              "large": {
+                "h": "1976",
+                "resize": "fit",
+                "w": "1511"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "918"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "520"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "http://t.co/7lY1qpuPXN"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "sfomuseum.tumblr.com",
+            "expanded_url": "http://sfomuseum.tumblr.com",
+            "indices": [
+              "94", 
+              "116"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"sfomuseum.tumblr.com",
-                    "expanded_url":"http://sfomuseum.tumblr.com",
-                    "indices":[
-                        "94",
-                        "116"
-                    ],
-                    "url":"http://t.co/RoVsZlwdki"
-                }
+            "url": "http://t.co/RoVsZlwdki"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "52484614",
+            "id_str": "52484614",
+            "indices": [
+              "13", 
+              "20"
             ],
-            "user_mentions":[
-                {
-                    "id":"52484614",
-                    "id_str":"52484614",
-                    "indices":[
-                        "13",
-                        "20"
-                    ],
-                    "name":"Tumblr",
-                    "screen_name":"tumblr"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/7lY1qpuPXN",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/623250010738716672/photo/1",
-                    "id":"623250010315063296",
-                    "id_str":"623250010315063296",
-                    "indices":[
-                        "117",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CKY6lQ8WgAAwiNu.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CKY6lQ8WgAAwiNu.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1976",
-                            "resize":"fit",
-                            "w":"1511"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"918"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"520"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"http://t.co/7lY1qpuPXN"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"We\u2019re now on @tumblr! Follow us there for more in depth blog posts about #aviation #history!  http://t.co/RoVsZlwdki http://t.co/7lY1qpuPXN",
-        "id":"623250010738716672",
-        "id_str":"623250010738716672",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "Tumblr",
+            "screen_name": "tumblr"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7lY1qpuPXN",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/623250010738716672/photo/1",
+            "id": "623250010315063296",
+            "id_str": "623250010315063296",
+            "indices": [
+              "117", 
+              "139"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CKY6lQ8WgAAwiNu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CKY6lQ8WgAAwiNu.jpg",
+            "sizes": {
+              "large": {
+                "h": "1976",
+                "resize": "fit",
+                "w": "1511"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "918"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "520"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "http://t.co/7lY1qpuPXN"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "We’re now on @tumblr! Follow us there for more in depth blog posts about #aviation #history!  http://t.co/RoVsZlwdki http://t.co/7lY1qpuPXN",
+      "id": "623250010738716672",
+      "id_str": "623250010738716672",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729293567
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":623250010738716700
-    },
-    "wof:country":"US",
-    "wof:created":1602025750,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729293567,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025750,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729293567,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729293567,
-    "wof:lastmodified":1602186544,
-    "wof:name":"We\u2019re now on @tumblr! Follow us there for more in depth blog posts about #aviation #history!  http://t.co/RoVsZlwdki http://t.co/7lY1qpuPXN",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729293567,
+    "wof:lastmodified": 1602193904,
+    "wof:name": "We’re now on @tumblr! Follow us there for more in depth blog posts about #aviation #history!  http://t.co/RoVsZlwdki http://t.co/7lY1qpuPXN",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

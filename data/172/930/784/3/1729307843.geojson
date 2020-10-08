@@ -2,193 +2,191 @@
   "id": 1729307843,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-02-06",
-    "date:cessation_upper":"2020-02-06",
-    "date:inception_lower":"2020-02-06",
-    "date:inception_upper":"2020-02-06",
-    "edtf:cessation":"2020-02-06T20:00:09-08:00",
-    "edtf:inception":"2020-02-06T20:00:09-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1581048009,
-        "created_at":"Fri Feb 07 04:00:09 +0000 2020",
-        "display_text_range":[
-            "0",
-            "148"
+    "date:cessation_lower": "2020-02-06",
+    "date:cessation_upper": "2020-02-06",
+    "date:inception_lower": "2020-02-06",
+    "date:inception_upper": "2020-02-06",
+    "edtf:cessation": "2020-02-06T20:00:09-08:00",
+    "edtf:inception": "2020-02-06T20:00:09-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1581048009,
+      "created_at": "Fri Feb 07 04:00:09 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "148"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "5", 
+              "16"
+            ],
+            "text": "HarveyMilk"
+          }, 
+          {
+            "indices": [
+              "103", 
+              "124"
+            ],
+            "text": "HarveyMilkExhibition"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "5",
-                        "16"
-                    ],
-                    "text":"HarveyMilk"
-                },
-                {
-                    "indices":[
-                        "103",
-                        "124"
-                    ],
-                    "text":"HarveyMilkExhibition"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/sG4arknlW9",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1225630301688221696/photo/1",
+            "id": "1225630298592903168",
+            "id_str": "1225630298592903168",
+            "indices": [
+              "125", 
+              "148"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/sG4arknlW9",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1225630301688221696/photo/1",
-                    "id":"1225630298592903168",
-                    "id_str":"1225630298592903168",
-                    "indices":[
-                        "125",
-                        "148"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EQJQQ02WAAAQumE.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EQJQQ02WAAAQumE.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1387",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"832",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"472",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/sG4arknlW9"
-                }
+            "media_url": "http://pbs.twimg.com/media/EQJQQ02WAAAQumE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EQJQQ02WAAAQumE.jpg",
+            "sizes": {
+              "large": {
+                "h": "1387",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "832",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "472",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/sG4arknlW9"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/HarveyMilkExhi…",
+            "expanded_url": "http://bit.ly/HarveyMilkExhibition",
+            "indices": [
+              "79", 
+              "102"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/HarveyMilkExhi\u2026",
-                    "expanded_url":"http://bit.ly/HarveyMilkExhibition",
-                    "indices":[
-                        "79",
-                        "102"
-                    ],
-                    "url":"https://t.co/eGYmHGjUIn"
-                }
+            "url": "https://t.co/eGYmHGjUIn"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/sG4arknlW9",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1225630301688221696/photo/1",
+            "id": "1225630298592903168",
+            "id_str": "1225630298592903168",
+            "indices": [
+              "125", 
+              "148"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/sG4arknlW9",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1225630301688221696/photo/1",
-                    "id":"1225630298592903168",
-                    "id_str":"1225630298592903168",
-                    "indices":[
-                        "125",
-                        "148"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EQJQQ02WAAAQumE.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EQJQQ02WAAAQumE.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1387",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"832",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"472",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/sG4arknlW9"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"See \u201c#HarveyMilk: Messenger of Hope\u201d on display, post-security, in Terminal 1. https://t.co/eGYmHGjUIn #HarveyMilkExhibition https://t.co/sG4arknlW9",
-        "id":"1225630301688221696",
-        "id_str":"1225630301688221696",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/EQJQQ02WAAAQumE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EQJQQ02WAAAQumE.jpg",
+            "sizes": {
+              "large": {
+                "h": "1387",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "832",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "472",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/sG4arknlW9"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "See “#HarveyMilk: Messenger of Hope” on display, post-security, in Terminal 1. https://t.co/eGYmHGjUIn #HarveyMilkExhibition https://t.co/sG4arknlW9",
+      "id": "1225630301688221696",
+      "id_str": "1225630301688221696",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729307843
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1225630301688221700
-    },
-    "wof:country":"US",
-    "wof:created":1602026293,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729307843,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026293,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729307843,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729307843,
-    "wof:lastmodified":1602186409,
-    "wof:name":"See \u201c#HarveyMilk: Messenger of Hope\u201d on display, post-security, in Terminal 1. https://t.co/eGYmHGjUIn #HarveyMilkExhibition https://t.co/sG4arknlW9",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729307843,
+    "wof:lastmodified": 1602193913,
+    "wof:name": "See “#HarveyMilk: Messenger of Hope” on display, post-security, in Terminal 1. https://t.co/eGYmHGjUIn #HarveyMilkExhibition https://t.co/sG4arknlW9",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

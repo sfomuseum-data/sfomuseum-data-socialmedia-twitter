@@ -2,209 +2,207 @@
   "id": 1729301917,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-12-18",
-    "date:cessation_upper":"2017-12-18",
-    "date:inception_lower":"2017-12-18",
-    "date:inception_upper":"2017-12-18",
-    "edtf:cessation":"2017-12-18T16:33:06-08:00",
-    "edtf:inception":"2017-12-18T16:33:06-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1513643586,
-        "created_at":"Tue Dec 19 00:33:06 +0000 2017",
-        "display_text_range":[
-            "0",
-            "187"
+    "date:cessation_lower": "2017-12-18",
+    "date:cessation_upper": "2017-12-18",
+    "date:inception_lower": "2017-12-18",
+    "date:inception_upper": "2017-12-18",
+    "edtf:cessation": "2017-12-18T16:33:06-08:00",
+    "edtf:inception": "2017-12-18T16:33:06-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1513643586,
+      "created_at": "Tue Dec 19 00:33:06 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "187"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WvokzF2Pta",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/942915657829511168/video/1",
+            "id": "942915589089017856",
+            "id_str": "942915589089017856",
+            "indices": [
+              "164", 
+              "187"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/942915589089017856/pu/img/KAfTn9af9kFPRrGg.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/942915589089017856/pu/img/KAfTn9af9kFPRrGg.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/WvokzF2Pta"
+          }
         ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/WvokzF2Pta",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/942915657829511168/video/1",
-                    "id":"942915589089017856",
-                    "id_str":"942915589089017856",
-                    "indices":[
-                        "164",
-                        "187"
-                    ],
-                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/942915589089017856/pu/img/KAfTn9af9kFPRrGg.jpg",
-                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/942915589089017856/pu/img/KAfTn9af9kFPRrGg.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"720",
-                            "resize":"fit",
-                            "w":"1280"
-                        },
-                        "medium":{
-                            "h":"675",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"383",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/WvokzF2Pta"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "flysfo.com/museum/video-a…",
+            "expanded_url": "http://www.flysfo.com/museum/video-arts/limber-notes-%E2%80%9Colivier%E2%80%9D",
+            "indices": [
+              "140", 
+              "163"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"flysfo.com/museum/video-a\u2026",
-                    "expanded_url":"http://www.flysfo.com/museum/video-arts/limber-notes-%E2%80%9Colivier%E2%80%9D",
-                    "indices":[
-                        "140",
-                        "163"
-                    ],
-                    "url":"https://t.co/Bn9RwhulKM"
-                }
+            "url": "https://t.co/Bn9RwhulKM"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/WvokzF2Pta",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/942915657829511168/video/1",
+            "id": "942915589089017856",
+            "id_str": "942915589089017856",
+            "indices": [
+              "164", 
+              "187"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/942915589089017856/pu/img/KAfTn9af9kFPRrGg.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/942915589089017856/pu/img/KAfTn9af9kFPRrGg.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/WvokzF2Pta",
+            "video_info": {
+              "aspect_ratio": [
+                "16", 
+                "9"
+              ],
+              "duration_millis": "28933",
+              "variants": [
                 {
-                    "additional_media_info":{
-                        "monetizable":false
-                    },
-                    "display_url":"pic.twitter.com/WvokzF2Pta",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/942915657829511168/video/1",
-                    "id":"942915589089017856",
-                    "id_str":"942915589089017856",
-                    "indices":[
-                        "164",
-                        "187"
-                    ],
-                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/942915589089017856/pu/img/KAfTn9af9kFPRrGg.jpg",
-                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/942915589089017856/pu/img/KAfTn9af9kFPRrGg.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"720",
-                            "resize":"fit",
-                            "w":"1280"
-                        },
-                        "medium":{
-                            "h":"675",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"383",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"video",
-                    "url":"https://t.co/WvokzF2Pta",
-                    "video_info":{
-                        "aspect_ratio":[
-                            "16",
-                            "9"
-                        ],
-                        "duration_millis":"28933",
-                        "variants":[
-                            {
-                                "bitrate":"256000",
-                                "content_type":"video/mp4",
-                                "url":"https://video.twimg.com/ext_tw_video/942915589089017856/pu/vid/320x180/wz_mAwE-Tqviiik0.mp4"
-                            },
-                            {
-                                "content_type":"application/x-mpegURL",
-                                "url":"https://video.twimg.com/ext_tw_video/942915589089017856/pu/pl/uGMT4tSCD3_WwK3z.m3u8"
-                            },
-                            {
-                                "bitrate":"2176000",
-                                "content_type":"video/mp4",
-                                "url":"https://video.twimg.com/ext_tw_video/942915589089017856/pu/vid/1280x720/U9siiNnW63h-_A6W.mp4"
-                            },
-                            {
-                                "bitrate":"832000",
-                                "content_type":"video/mp4",
-                                "url":"https://video.twimg.com/ext_tw_video/942915589089017856/pu/vid/640x360/H0yCmgVa2EqPaQPE.mp4"
-                            }
-                        ]
-                    }
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/942915589089017856/pu/vid/320x180/wz_mAwE-Tqviiik0.mp4"
+                }, 
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/942915589089017856/pu/pl/uGMT4tSCD3_WwK3z.m3u8"
+                }, 
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/942915589089017856/pu/vid/1280x720/U9siiNnW63h-_A6W.mp4"
+                }, 
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/942915589089017856/pu/vid/640x360/H0yCmgVa2EqPaQPE.mp4"
                 }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"NOW PLAYING: \"Limber Notes: 'Olivier'\u201d. Director Linda Brownlee profiles the Haitian-born, Brussels-based street dancer Olivier Chapusette. https://t.co/Bn9RwhulKM https://t.co/WvokzF2Pta",
-        "id":"942915657829511168",
-        "id_str":"942915657829511168",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-        "truncated":false
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "NOW PLAYING: \"Limber Notes: 'Olivier'”. Director Linda Brownlee profiles the Haitian-born, Brussels-based street dancer Olivier Chapusette. https://t.co/Bn9RwhulKM https://t.co/WvokzF2Pta",
+      "id": "942915657829511168",
+      "id_str": "942915657829511168",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729301917
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":942915657829511200
-    },
-    "wof:country":"US",
-    "wof:created":1602026063,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729301917,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026063,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729301917,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729301917,
-    "wof:lastmodified":1602186307,
-    "wof:name":"NOW PLAYING: \"Limber Notes: 'Olivier'\u201d. Director Linda Brownlee profiles the Haitian-born, Brussels-based street dancer Olivier Chapusette. https://t.co/Bn9RwhulKM https://t.co/WvokzF2Pta",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729301917,
+    "wof:lastmodified": 1602193909,
+    "wof:name": "NOW PLAYING: \"Limber Notes: 'Olivier'”. Director Linda Brownlee profiles the Haitian-born, Brussels-based street dancer Olivier Chapusette. https://t.co/Bn9RwhulKM https://t.co/WvokzF2Pta",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

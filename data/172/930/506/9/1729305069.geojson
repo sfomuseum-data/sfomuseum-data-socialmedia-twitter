@@ -2,204 +2,202 @@
   "id": 1729305069,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-01-09",
-    "date:cessation_upper":"2019-01-09",
-    "date:inception_lower":"2019-01-09",
-    "date:inception_upper":"2019-01-09",
-    "edtf:cessation":"2019-01-09T15:31:56-08:00",
-    "edtf:inception":"2019-01-09T15:31:56-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1547076716,
-        "created_at":"Wed Jan 09 23:31:56 +0000 2019",
-        "display_text_range":[
-            "0",
-            "265"
+    "date:cessation_lower": "2019-01-09",
+    "date:cessation_upper": "2019-01-09",
+    "date:inception_lower": "2019-01-09",
+    "date:inception_upper": "2019-01-09",
+    "edtf:cessation": "2019-01-09T15:31:56-08:00",
+    "edtf:inception": "2019-01-09T15:31:56-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1547076716,
+      "created_at": "Wed Jan 09 23:31:56 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "265"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "4", 
+              "12"
+            ],
+            "text": "Douglas"
+          }, 
+          {
+            "indices": [
+              "80", 
+              "87"
+            ],
+            "text": "Boeing"
+          }, 
+          {
+            "indices": [
+              "95", 
+              "102"
+            ],
+            "text": "United"
+          }, 
+          {
+            "indices": [
+              "149", 
+              "166"
+            ],
+            "text": "transcontinental"
+          }, 
+          {
+            "indices": [
+              "222", 
+              "241"
+            ],
+            "text": "AviationEvolutions"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "4",
-                        "12"
-                    ],
-                    "text":"Douglas"
-                },
-                {
-                    "indices":[
-                        "80",
-                        "87"
-                    ],
-                    "text":"Boeing"
-                },
-                {
-                    "indices":[
-                        "95",
-                        "102"
-                    ],
-                    "text":"United"
-                },
-                {
-                    "indices":[
-                        "149",
-                        "166"
-                    ],
-                    "text":"transcontinental"
-                },
-                {
-                    "indices":[
-                        "222",
-                        "241"
-                    ],
-                    "text":"AviationEvolutions"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/I8SDnrwlDT",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1083144369174138880/photo/1",
+            "id": "1083144366938603520",
+            "id_str": "1083144366938603520",
+            "indices": [
+              "242", 
+              "265"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/I8SDnrwlDT",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1083144369174138880/photo/1",
-                    "id":"1083144366938603520",
-                    "id_str":"1083144366938603520",
-                    "indices":[
-                        "242",
-                        "265"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DwgaEB_XQAAJgtJ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DwgaEB_XQAAJgtJ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1591",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"955",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"541",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/I8SDnrwlDT"
-                }
+            "media_url": "http://pbs.twimg.com/media/DwgaEB_XQAAJgtJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DwgaEB_XQAAJgtJ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1591",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "955",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "541",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/I8SDnrwlDT"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/I8SDnrwlDT",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1083144369174138880/photo/1",
+            "id": "1083144366938603520",
+            "id_str": "1083144366938603520",
+            "indices": [
+              "242", 
+              "265"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/I8SDnrwlDT",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1083144369174138880/photo/1",
-                    "id":"1083144366938603520",
-                    "id_str":"1083144366938603520",
-                    "indices":[
-                        "242",
-                        "265"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DwgaEB_XQAAJgtJ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DwgaEB_XQAAJgtJ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1591",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"955",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"541",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/I8SDnrwlDT"
-                }
-            ]
-        },
-        "favorite_count":"14",
-        "favorited":false,
-        "full_text":"The #Douglas DC-8 was developed during the mid-1950s as a competitive design to #Boeing\u2019s 707. #United Air Lines chose Douglas and launched domestic #transcontinental jet service with the DC-8-10 series in September 1959. #AviationEvolutions https://t.co/I8SDnrwlDT",
-        "id":"1083144369174138880",
-        "id_str":"1083144369174138880",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"5",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DwgaEB_XQAAJgtJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DwgaEB_XQAAJgtJ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1591",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "955",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "541",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/I8SDnrwlDT"
+          }
+        ]
+      },
+      "favorite_count": "14",
+      "favorited": false,
+      "full_text": "The #Douglas DC-8 was developed during the mid-1950s as a competitive design to #Boeing’s 707. #United Air Lines chose Douglas and launched domestic #transcontinental jet service with the DC-8-10 series in September 1959. #AviationEvolutions https://t.co/I8SDnrwlDT",
+      "id": "1083144369174138880",
+      "id_str": "1083144369174138880",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "5",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729305069
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1083144369174138900
-    },
-    "wof:country":"US",
-    "wof:created":1602026186,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729305069,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026186,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729305069,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729305069,
-    "wof:lastmodified":1602186293,
-    "wof:name":"The #Douglas DC-8 was developed during the mid-1950s as a competitive design to #Boeing\u2019s 707. #United Air Lines chose Douglas and launched domestic #transcontinental jet service with the DC-8-10 series in September 1959. #AviationEvolutions https://t.co/I8SDnrwlDT",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729305069,
+    "wof:lastmodified": 1602193911,
+    "wof:name": "The #Douglas DC-8 was developed during the mid-1950s as a competitive design to #Boeing’s 707. #United Air Lines chose Douglas and launched domestic #transcontinental jet service with the DC-8-10 series in September 1959. #AviationEvolutions https://t.co/I8SDnrwlDT",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

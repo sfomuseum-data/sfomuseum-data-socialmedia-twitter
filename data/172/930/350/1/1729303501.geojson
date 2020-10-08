@@ -2,124 +2,122 @@
   "id": 1729303501,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-06-22",
-    "date:cessation_upper":"2018-06-22",
-    "date:inception_lower":"2018-06-22",
-    "date:inception_upper":"2018-06-22",
-    "edtf:cessation":"2018-06-22T09:49:39-07:00",
-    "edtf:inception":"2018-06-22T09:49:39-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1529686179,
-        "created_at":"Fri Jun 22 16:49:39 +0000 2018",
-        "display_text_range":[
-            "0",
-            "157"
+    "date:cessation_lower": "2018-06-22",
+    "date:cessation_upper": "2018-06-22",
+    "date:inception_lower": "2018-06-22",
+    "date:inception_upper": "2018-06-22",
+    "edtf:cessation": "2018-06-22T09:49:39-07:00",
+    "edtf:inception": "2018-06-22T09:49:39-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1529686179,
+      "created_at": "Fri Jun 22 16:49:39 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "157"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "27", 
+              "34"
+            ],
+            "text": "radios"
+          }, 
+          {
+            "indices": [
+              "124", 
+              "133"
+            ],
+            "text": "RadioSFO"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "27",
-                        "34"
-                    ],
-                    "text":"radios"
-                },
-                {
-                    "indices":[
-                        "124",
-                        "133"
-                    ],
-                    "text":"RadioSFO"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/RadioSFO",
+            "expanded_url": "http://bit.ly/RadioSFO",
+            "indices": [
+              "100", 
+              "123"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/RadioSFO",
-                    "expanded_url":"http://bit.ly/RadioSFO",
-                    "indices":[
-                        "100",
-                        "123"
-                    ],
-                    "url":"https://t.co/1nHbV7kJKM"
-                },
-                {
-                    "display_url":"twitter.com/donkeyattack/s\u2026",
-                    "expanded_url":"https://twitter.com/donkeyattack/status/1010198889033449473",
-                    "indices":[
-                        "134",
-                        "157"
-                    ],
-                    "url":"https://t.co/VhaX7k3vMc"
-                }
+            "url": "https://t.co/1nHbV7kJKM"
+          }, 
+          {
+            "display_url": "twitter.com/donkeyattack/s…",
+            "expanded_url": "https://twitter.com/donkeyattack/status/1010198889033449473",
+            "indices": [
+              "134", 
+              "157"
             ],
-            "user_mentions":[]
-        },
-        "favorite_count":"4",
-        "favorited":false,
-        "full_text":"This whole case of novelty #radios is not to be missed! Thanks for sharing some of your highlights! https://t.co/1nHbV7kJKM #RadioSFO https://t.co/VhaX7k3vMc",
-        "id":"1010203170713112577",
-        "id_str":"1010203170713112577",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated":false
+            "url": "https://t.co/VhaX7k3vMc"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "This whole case of novelty #radios is not to be missed! Thanks for sharing some of your highlights! https://t.co/1nHbV7kJKM #RadioSFO https://t.co/VhaX7k3vMc",
+      "id": "1010203170713112577",
+      "id_str": "1010203170713112577",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729303501
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1010203170713112600
-    },
-    "wof:country":"US",
-    "wof:created":1602026125,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729303501,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026125,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729303501,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729303501,
-    "wof:lastmodified":1602186376,
-    "wof:name":"This whole case of novelty #radios is not to be missed! Thanks for sharing some of your highlights! https://t.co/1nHbV7kJKM #RadioSFO https://t.co/VhaX7k3vMc",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729303501,
+    "wof:lastmodified": 1602193910,
+    "wof:name": "This whole case of novelty #radios is not to be missed! Thanks for sharing some of your highlights! https://t.co/1nHbV7kJKM #RadioSFO https://t.co/VhaX7k3vMc",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

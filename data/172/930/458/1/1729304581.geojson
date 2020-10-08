@@ -2,197 +2,195 @@
   "id": 1729304581,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-10-31",
-    "date:cessation_upper":"2018-10-31",
-    "date:inception_lower":"2018-10-31",
-    "date:inception_upper":"2018-10-31",
-    "edtf:cessation":"2018-10-31T17:55:04-07:00",
-    "edtf:inception":"2018-10-31T17:55:04-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1541033704,
-        "created_at":"Thu Nov 01 00:55:04 +0000 2018",
-        "display_text_range":[
-            "0",
-            "266"
+    "date:cessation_lower": "2018-10-31",
+    "date:cessation_upper": "2018-10-31",
+    "date:inception_lower": "2018-10-31",
+    "date:inception_upper": "2018-10-31",
+    "edtf:cessation": "2018-10-31T17:55:04-07:00",
+    "edtf:inception": "2018-10-31T17:55:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1541033704,
+      "created_at": "Thu Nov 01 00:55:04 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "266"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "10", 
+              "18"
+            ],
+            "text": "Bugatti"
+          }, 
+          {
+            "indices": [
+              "187", 
+              "194"
+            ],
+            "text": "animal"
+          }, 
+          {
+            "indices": [
+              "195", 
+              "205"
+            ],
+            "text": "sculptors"
+          }, 
+          {
+            "indices": [
+              "233", 
+              "242"
+            ],
+            "text": "Caticons"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "10",
-                        "18"
-                    ],
-                    "text":"Bugatti"
-                },
-                {
-                    "indices":[
-                        "187",
-                        "194"
-                    ],
-                    "text":"animal"
-                },
-                {
-                    "indices":[
-                        "195",
-                        "205"
-                    ],
-                    "text":"sculptors"
-                },
-                {
-                    "indices":[
-                        "233",
-                        "242"
-                    ],
-                    "text":"Caticons"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/a5LrH1wNGf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1057798140756221959/photo/1",
+            "id": "1057798137904029697",
+            "id_str": "1057798137904029697",
+            "indices": [
+              "243", 
+              "266"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/a5LrH1wNGf",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1057798140756221959/photo/1",
-                    "id":"1057798137904029697",
-                    "id_str":"1057798137904029697",
-                    "indices":[
-                        "243",
-                        "266"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Dq4NzU3W4AEEyce.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Dq4NzU3W4AEEyce.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/a5LrH1wNGf"
-                }
+            "media_url": "http://pbs.twimg.com/media/Dq4NzU3W4AEEyce.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq4NzU3W4AEEyce.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/a5LrH1wNGf"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/a5LrH1wNGf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1057798140756221959/photo/1",
+            "id": "1057798137904029697",
+            "id_str": "1057798137904029697",
+            "indices": [
+              "243", 
+              "266"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/a5LrH1wNGf",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1057798140756221959/photo/1",
-                    "id":"1057798137904029697",
-                    "id_str":"1057798137904029697",
-                    "indices":[
-                        "243",
-                        "266"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Dq4NzU3W4AEEyce.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Dq4NzU3W4AEEyce.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/a5LrH1wNGf"
-                }
-            ]
-        },
-        "favorite_count":"3",
-        "favorited":false,
-        "full_text":"Rembrandt #Bugatti (1884\u20131916), the son of furniture designer Carlo Bugatti (1856\u20131940) and younger brother to automobile maker Ettore Bugatti (1881\u20131947), was one of the most celebrated #animal #sculptors of the early 20th century. #Caticons https://t.co/a5LrH1wNGf",
-        "id":"1057798140756221959",
-        "id_str":"1057798140756221959",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/Dq4NzU3W4AEEyce.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dq4NzU3W4AEEyce.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/a5LrH1wNGf"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "Rembrandt #Bugatti (1884–1916), the son of furniture designer Carlo Bugatti (1856–1940) and younger brother to automobile maker Ettore Bugatti (1881–1947), was one of the most celebrated #animal #sculptors of the early 20th century. #Caticons https://t.co/a5LrH1wNGf",
+      "id": "1057798140756221959",
+      "id_str": "1057798140756221959",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729304581
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1057798140756222000
-    },
-    "wof:country":"US",
-    "wof:created":1602026168,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729304581,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026168,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729304581,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729304581,
-    "wof:lastmodified":1602186253,
-    "wof:name":"Rembrandt #Bugatti (1884\u20131916), the son of furniture designer Carlo Bugatti (1856\u20131940) and younger brother to automobile maker Ettore Bugatti (1881\u20131947), was one of the most celebrated #animal #sculptors of the early 20th century. #Caticons https://t.co/a5LrH1wNGf",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729304581,
+    "wof:lastmodified": 1602193911,
+    "wof:name": "Rembrandt #Bugatti (1884–1916), the son of furniture designer Carlo Bugatti (1856–1940) and younger brother to automobile maker Ettore Bugatti (1881–1947), was one of the most celebrated #animal #sculptors of the early 20th century. #Caticons https://t.co/a5LrH1wNGf",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

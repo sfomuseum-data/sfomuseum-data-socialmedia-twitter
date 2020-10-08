@@ -2,195 +2,193 @@
   "id": 1729305121,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-01-04",
-    "date:cessation_upper":"2019-01-04",
-    "date:inception_lower":"2019-01-04",
-    "date:inception_upper":"2019-01-04",
-    "edtf:cessation":"2019-01-04T09:50:33-08:00",
-    "edtf:inception":"2019-01-04T09:50:33-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1546624233,
-        "created_at":"Fri Jan 04 17:50:33 +0000 2019",
-        "display_text_range":[
-            "0",
-            "84"
+    "date:cessation_lower": "2019-01-04",
+    "date:cessation_upper": "2019-01-04",
+    "date:inception_lower": "2019-01-04",
+    "date:inception_upper": "2019-01-04",
+    "edtf:cessation": "2019-01-04T09:50:33-08:00",
+    "edtf:inception": "2019-01-04T09:50:33-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1546624233,
+      "created_at": "Fri Jan 04 17:50:33 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "84"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "47", 
+              "60"
+            ],
+            "text": "HonoringHerb"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "47",
-                        "60"
-                    ],
-                    "text":"HonoringHerb"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SQcvSdkbC2",
+            "expanded_url": "https://twitter.com/SouthwestAir/status/1080960248117149698/photo/1",
+            "id": "1080960246565212162",
+            "id_str": "1080960246565212162",
+            "indices": [
+              "61", 
+              "84"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/SQcvSdkbC2",
-                    "expanded_url":"https://twitter.com/SouthwestAir/status/1080960248117149698/photo/1",
-                    "id":"1080960246565212162",
-                    "id_str":"1080960246565212162",
-                    "indices":[
-                        "61",
-                        "84"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DwBXnfjWkAI5zwi.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DwBXnfjWkAI5zwi.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"987",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "medium":{
-                            "h":"987",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "small":{
-                            "h":"655",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"1080960248117149698",
-                    "source_status_id_str":"1080960248117149698",
-                    "source_user_id":"7212562",
-                    "source_user_id_str":"7212562",
-                    "type":"photo",
-                    "url":"https://t.co/SQcvSdkbC2"
-                }
+            "media_url": "http://pbs.twimg.com/media/DwBXnfjWkAI5zwi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DwBXnfjWkAI5zwi.jpg",
+            "sizes": {
+              "large": {
+                "h": "987",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "987",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "655",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "1080960248117149698",
+            "source_status_id_str": "1080960248117149698",
+            "source_user_id": "7212562",
+            "source_user_id_str": "7212562",
+            "type": "photo",
+            "url": "https://t.co/SQcvSdkbC2"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "7212562",
+            "id_str": "7212562",
+            "indices": [
+              "3", 
+              "16"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"7212562",
-                    "id_str":"7212562",
-                    "indices":[
-                        "3",
-                        "16"
-                    ],
-                    "name":"Southwest Airlines",
-                    "screen_name":"SouthwestAir"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/SQcvSdkbC2",
-                    "expanded_url":"https://twitter.com/SouthwestAir/status/1080960248117149698/photo/1",
-                    "id":"1080960246565212162",
-                    "id_str":"1080960246565212162",
-                    "indices":[
-                        "61",
-                        "84"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DwBXnfjWkAI5zwi.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DwBXnfjWkAI5zwi.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"987",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "medium":{
-                            "h":"987",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "small":{
-                            "h":"655",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"1080960248117149698",
-                    "source_status_id_str":"1080960248117149698",
-                    "source_user_id":"7212562",
-                    "source_user_id_str":"7212562",
-                    "type":"photo",
-                    "url":"https://t.co/SQcvSdkbC2"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @SouthwestAir: We already miss you, Herbie. #HonoringHerb https://t.co/SQcvSdkbC2",
-        "id":"1081246520421183488",
-        "id_str":"1081246520421183488",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated":false
+            "name": "Southwest Airlines",
+            "screen_name": "SouthwestAir"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SQcvSdkbC2",
+            "expanded_url": "https://twitter.com/SouthwestAir/status/1080960248117149698/photo/1",
+            "id": "1080960246565212162",
+            "id_str": "1080960246565212162",
+            "indices": [
+              "61", 
+              "84"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DwBXnfjWkAI5zwi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DwBXnfjWkAI5zwi.jpg",
+            "sizes": {
+              "large": {
+                "h": "987",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "987",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "655",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "1080960248117149698",
+            "source_status_id_str": "1080960248117149698",
+            "source_user_id": "7212562",
+            "source_user_id_str": "7212562",
+            "type": "photo",
+            "url": "https://t.co/SQcvSdkbC2"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @SouthwestAir: We already miss you, Herbie. #HonoringHerb https://t.co/SQcvSdkbC2",
+      "id": "1081246520421183488",
+      "id_str": "1081246520421183488",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729305121
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1081246520421183500
-    },
-    "wof:country":"US",
-    "wof:created":1602026188,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729305121,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026188,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729305121,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729305121,
-    "wof:lastmodified":1602186306,
-    "wof:name":"RT @SouthwestAir: We already miss you, Herbie. #HonoringHerb https://t.co/SQcvSdkbC2",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729305121,
+    "wof:lastmodified": 1602193911,
+    "wof:name": "RT @SouthwestAir: We already miss you, Herbie. #HonoringHerb https://t.co/SQcvSdkbC2",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

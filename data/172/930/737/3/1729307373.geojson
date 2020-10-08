@@ -2,183 +2,181 @@
   "id": 1729307373,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-11-04",
-    "date:cessation_upper":"2019-11-04",
-    "date:inception_lower":"2019-11-04",
-    "date:inception_upper":"2019-11-04",
-    "edtf:cessation":"2019-11-04T17:59:18-08:00",
-    "edtf:inception":"2019-11-04T17:59:18-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1572919158,
-        "created_at":"Tue Nov 05 01:59:18 +0000 2019",
-        "display_text_range":[
-            "0",
-            "292"
+    "date:cessation_lower": "2019-11-04",
+    "date:cessation_upper": "2019-11-04",
+    "date:inception_lower": "2019-11-04",
+    "date:inception_upper": "2019-11-04",
+    "edtf:cessation": "2019-11-04T17:59:18-08:00",
+    "edtf:inception": "2019-11-04T17:59:18-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1572919158,
+      "created_at": "Tue Nov 05 01:59:18 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "292"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "9"
+            ],
+            "text": "Termites"
+          }, 
+          {
+            "indices": [
+              "250", 
+              "268"
+            ],
+            "text": "IntriguingInsects"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "0",
-                        "9"
-                    ],
-                    "text":"Termites"
-                },
-                {
-                    "indices":[
-                        "250",
-                        "268"
-                    ],
-                    "text":"IntriguingInsects"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/nozGcHAHOv",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1191535429243138048/photo/1",
+            "id": "1191535425258524672",
+            "id_str": "1191535425258524672",
+            "indices": [
+              "269", 
+              "292"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/nozGcHAHOv",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1191535429243138048/photo/1",
-                    "id":"1191535425258524672",
-                    "id_str":"1191535425258524672",
-                    "indices":[
-                        "269",
-                        "292"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EIkvJ__UEAAl9A2.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EIkvJ__UEAAl9A2.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/nozGcHAHOv"
-                }
+            "media_url": "http://pbs.twimg.com/media/EIkvJ__UEAAl9A2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EIkvJ__UEAAl9A2.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/nozGcHAHOv"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/nozGcHAHOv",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1191535429243138048/photo/1",
+            "id": "1191535425258524672",
+            "id_str": "1191535425258524672",
+            "indices": [
+              "269", 
+              "292"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/nozGcHAHOv",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1191535429243138048/photo/1",
-                    "id":"1191535425258524672",
-                    "id_str":"1191535425258524672",
-                    "indices":[
-                        "269",
-                        "292"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EIkvJ__UEAAl9A2.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EIkvJ__UEAAl9A2.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/nozGcHAHOv"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"#Termites, bark beetles, and sawfly wasps, have evolved the ability to feed on dead and dying trees. Termites are able to digest wood thanks to symbiotic microbes in their stomachs that break down cellulose into nutrition which the termites can use. #IntriguingInsects https://t.co/nozGcHAHOv",
-        "id":"1191535429243138048",
-        "id_str":"1191535429243138048",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/EIkvJ__UEAAl9A2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EIkvJ__UEAAl9A2.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/nozGcHAHOv"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "#Termites, bark beetles, and sawfly wasps, have evolved the ability to feed on dead and dying trees. Termites are able to digest wood thanks to symbiotic microbes in their stomachs that break down cellulose into nutrition which the termites can use. #IntriguingInsects https://t.co/nozGcHAHOv",
+      "id": "1191535429243138048",
+      "id_str": "1191535429243138048",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729307373
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1191535429243138000
-    },
-    "wof:country":"US",
-    "wof:created":1602026274,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729307373,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026274,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729307373,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729307373,
-    "wof:lastmodified":1602186425,
-    "wof:name":"#Termites, bark beetles, and sawfly wasps, have evolved the ability to feed on dead and dying trees. Termites are able to digest wood thanks to symbiotic microbes in their stomachs that break down cellulose into nutrition which the termites can use. #IntriguingInsects https://t.co/nozGcHAHOv",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729307373,
+    "wof:lastmodified": 1602193913,
+    "wof:name": "#Termites, bark beetles, and sawfly wasps, have evolved the ability to feed on dead and dying trees. Termites are able to digest wood thanks to symbiotic microbes in their stomachs that break down cellulose into nutrition which the termites can use. #IntriguingInsects https://t.co/nozGcHAHOv",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

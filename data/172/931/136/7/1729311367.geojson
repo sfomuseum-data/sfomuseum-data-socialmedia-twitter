@@ -2,108 +2,106 @@
   "id": 1729311367,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-01-04",
-    "date:cessation_upper":"2013-01-04",
-    "date:inception_lower":"2013-01-04",
-    "date:inception_upper":"2013-01-04",
-    "edtf:cessation":"2013-01-04T11:52:35-08:00",
-    "edtf:inception":"2013-01-04T11:52:35-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1357329155,
-        "created_at":"Fri Jan 04 19:52:35 +0000 2013",
-        "display_text_range":[
-            "0",
-            "142"
+    "date:cessation_lower": "2013-01-04",
+    "date:cessation_upper": "2013-01-04",
+    "date:inception_lower": "2013-01-04",
+    "date:inception_upper": "2013-01-04",
+    "edtf:cessation": "2013-01-04T11:52:35-08:00",
+    "edtf:inception": "2013-01-04T11:52:35-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1357329155,
+      "created_at": "Fri Jan 04 19:52:35 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "142"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "104", 
+              "113"
+            ],
+            "text": "Aviation"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "104",
-                        "113"
-                    ],
-                    "text":"Aviation"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/RCf9Bp",
+            "expanded_url": "http://bit.ly/RCf9Bp",
+            "indices": [
+              "122", 
+              "142"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/RCf9Bp",
-                    "expanded_url":"http://bit.ly/RCf9Bp",
-                    "indices":[
-                        "122",
-                        "142"
-                    ],
-                    "url":"http://t.co/SK8hoGeI"
-                }
-            ],
-            "user_mentions":[]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"Industrial pioneers! Revolutions! Espionage! All this &amp; more in Civil Air Transport, on view in the #Aviation Museum: http://t.co/SK8hoGeI",
-        "id":"287285414706962432",
-        "id_str":"287285414706962432",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-        "truncated":false
+            "url": "http://t.co/SK8hoGeI"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Industrial pioneers! Revolutions! Espionage! All this \u0026amp; more in Civil Air Transport, on view in the #Aviation Museum: http://t.co/SK8hoGeI",
+      "id": "287285414706962432",
+      "id_str": "287285414706962432",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729311367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":287285414706962430
-    },
-    "wof:country":"US",
-    "wof:created":1602026429,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729311367,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026429,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729311367,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729311367,
-    "wof:lastmodified":1602186470,
-    "wof:name":"Industrial pioneers! Revolutions! Espionage! All this &amp; more in Civil Air Transport, on view in the #Aviation Museum: http://t.co/SK8hoGeI",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729311367,
+    "wof:lastmodified": 1602193915,
+    "wof:name": "Industrial pioneers! Revolutions! Espionage! All this \u0026amp; more in Civil Air Transport, on view in the #Aviation Museum: http://t.co/SK8hoGeI",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

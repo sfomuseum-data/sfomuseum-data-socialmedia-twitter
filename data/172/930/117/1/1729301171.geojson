@@ -2,143 +2,141 @@
   "id": 1729301171,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-09-13",
-    "date:cessation_upper":"2017-09-13",
-    "date:inception_lower":"2017-09-13",
-    "date:inception_upper":"2017-09-13",
-    "edtf:cessation":"2017-09-13T10:53:05-07:00",
-    "edtf:inception":"2017-09-13T10:53:05-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1505325185,
-        "created_at":"Wed Sep 13 17:53:05 +0000 2017",
-        "display_text_range":[
-            "0",
-            "154"
-        ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "142",
-                        "154"
-                    ],
-                    "text":"AskACurator"
-                }
+    "date:cessation_lower": "2017-09-13",
+    "date:cessation_upper": "2017-09-13",
+    "date:inception_lower": "2017-09-13",
+    "date:inception_upper": "2017-09-13",
+    "edtf:cessation": "2017-09-13T10:53:05-07:00",
+    "edtf:inception": "2017-09-13T10:53:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1505325185,
+      "created_at": "Wed Sep 13 17:53:05 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "154"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "142", 
+              "154"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"19646605",
-                    "id_str":"19646605",
-                    "indices":[
-                        "0",
-                        "9"
-                    ],
-                    "name":"Mar Dixon \ud83d\ude37\u2764\ufe0f\ud83d\udc4d\ud83c\udffc",
-                    "screen_name":"MarDixon"
-                },
-                {
-                    "id":"17224754",
-                    "id_str":"17224754",
-                    "indices":[
-                        "24",
-                        "39"
-                    ],
-                    "name":"honolulumuseum",
-                    "screen_name":"honolulumuseum"
-                },
-                {
-                    "id":"17057271",
-                    "id_str":"17057271",
-                    "indices":[
-                        "67",
-                        "77"
-                    ],
-                    "name":"The Metropolitan Museum of Art",
-                    "screen_name":"metmuseum"
-                },
-                {
-                    "id":"59702784",
-                    "id_str":"59702784",
-                    "indices":[
-                        "84",
-                        "89"
-                    ],
-                    "name":"A Mohan",
-                    "screen_name":"amhn"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"@MarDixon Summer school @honolulumuseum age 7 and being dazzled by @metmuseum &amp; @AMHN at age 9 sealed the magic of museums for me. \u2013Megan #AskACurator",
-        "id":"908025755598176256",
-        "id_str":"908025755598176256",
-        "in_reply_to_screen_name":"MarDixon",
-        "in_reply_to_status_id":"907969506575835136",
-        "in_reply_to_status_id_str":"907969506575835136",
-        "in_reply_to_user_id":"19646605",
-        "in_reply_to_user_id_str":"19646605",
-        "lang":"en",
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated":false
+            "text": "AskACurator"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "19646605",
+            "id_str": "19646605",
+            "indices": [
+              "0", 
+              "9"
+            ],
+            "name": "Mar Dixon 😷❤️👍🏼",
+            "screen_name": "MarDixon"
+          }, 
+          {
+            "id": "17224754",
+            "id_str": "17224754",
+            "indices": [
+              "24", 
+              "39"
+            ],
+            "name": "honolulumuseum",
+            "screen_name": "honolulumuseum"
+          }, 
+          {
+            "id": "17057271",
+            "id_str": "17057271",
+            "indices": [
+              "67", 
+              "77"
+            ],
+            "name": "The Metropolitan Museum of Art",
+            "screen_name": "metmuseum"
+          }, 
+          {
+            "id": "59702784",
+            "id_str": "59702784",
+            "indices": [
+              "84", 
+              "89"
+            ],
+            "name": "A Mohan",
+            "screen_name": "amhn"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@MarDixon Summer school @honolulumuseum age 7 and being dazzled by @metmuseum \u0026amp; @AMHN at age 9 sealed the magic of museums for me. –Megan #AskACurator",
+      "id": "908025755598176256",
+      "id_str": "908025755598176256",
+      "in_reply_to_screen_name": "MarDixon",
+      "in_reply_to_status_id": "907969506575835136",
+      "in_reply_to_status_id_str": "907969506575835136",
+      "in_reply_to_user_id": "19646605",
+      "in_reply_to_user_id_str": "19646605",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729301171
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":908025755598176300
-    },
-    "wof:country":"US",
-    "wof:created":1602026036,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729301171,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026036,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729301171,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729301171,
-    "wof:lastmodified":1602186267,
-    "wof:name":"@MarDixon Summer school @honolulumuseum age 7 and being dazzled by @metmuseum &amp; @AMHN at age 9 sealed the magic of museums for me. \u2013Megan #AskACurator",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729301171,
+    "wof:lastmodified": 1602193909,
+    "wof:name": "@MarDixon Summer school @honolulumuseum age 7 and being dazzled by @metmuseum \u0026amp; @AMHN at age 9 sealed the magic of museums for me. –Megan #AskACurator",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,100 +2,98 @@
   "id": 1729292701,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2014-11-04",
-    "date:cessation_upper":"2014-11-04",
-    "date:inception_lower":"2014-11-04",
-    "date:inception_upper":"2014-11-04",
-    "edtf:cessation":"2014-11-04T15:25:56-08:00",
-    "edtf:inception":"2014-11-04T15:25:56-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1415143556,
-        "created_at":"Tue Nov 04 23:25:56 +0000 2014",
-        "display_text_range":[
-            "0",
-            "126"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"instagram.com/p/u_wXYJxkw3/",
-                    "expanded_url":"http://instagram.com/p/u_wXYJxkw3/",
-                    "indices":[
-                        "104",
-                        "126"
-                    ],
-                    "url":"http://t.co/CPrc1U0eSP"
-                }
+    "date:cessation_lower": "2014-11-04",
+    "date:cessation_upper": "2014-11-04",
+    "date:inception_lower": "2014-11-04",
+    "date:inception_upper": "2014-11-04",
+    "edtf:cessation": "2014-11-04T15:25:56-08:00",
+    "edtf:inception": "2014-11-04T15:25:56-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1415143556,
+      "created_at": "Tue Nov 04 23:25:56 +0000 2014",
+      "display_text_range": [
+        "0", 
+        "126"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagram.com/p/u_wXYJxkw3/",
+            "expanded_url": "http://instagram.com/p/u_wXYJxkw3/",
+            "indices": [
+              "104", 
+              "126"
             ],
-            "user_mentions":[]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"\"As an artist, I have immersed myself in understanding our cultural heritage...Therefore, I have great\u2026 http://t.co/CPrc1U0eSP",
-        "id":"529776590805143552",
-        "id_str":"529776590805143552",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
-        "truncated":false
+            "url": "http://t.co/CPrc1U0eSP"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "\"As an artist, I have immersed myself in understanding our cultural heritage...Therefore, I have great… http://t.co/CPrc1U0eSP",
+      "id": "529776590805143552",
+      "id_str": "529776590805143552",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729292701
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":529776590805143550
-    },
-    "wof:country":"US",
-    "wof:created":1602025718,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729292701,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025718,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729292701,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729292701,
-    "wof:lastmodified":1602186744,
-    "wof:name":"\"As an artist, I have immersed myself in understanding our cultural heritage...Therefore, I have great\u2026 http://t.co/CPrc1U0eSP",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729292701,
+    "wof:lastmodified": 1602193904,
+    "wof:name": "\"As an artist, I have immersed myself in understanding our cultural heritage...Therefore, I have great… http://t.co/CPrc1U0eSP",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

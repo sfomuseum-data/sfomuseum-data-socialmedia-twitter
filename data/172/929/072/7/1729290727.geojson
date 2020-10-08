@@ -2,129 +2,127 @@
   "id": 1729290727,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-08-26",
-    "date:cessation_upper":"2013-08-26",
-    "date:inception_lower":"2013-08-26",
-    "date:inception_upper":"2013-08-26",
-    "edtf:cessation":"2013-08-26T10:29:59-07:00",
-    "edtf:inception":"2013-08-26T10:29:59-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1377538199,
-        "created_at":"Mon Aug 26 17:29:59 +0000 2013",
-        "display_text_range":[
-            "0",
-            "140"
-        ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "38",
-                        "43"
-                    ],
-                    "text":"cool"
-                },
-                {
-                    "indices":[
-                        "44",
-                        "52"
-                    ],
-                    "text":"antique"
-                },
-                {
-                    "indices":[
-                        "53",
-                        "60"
-                    ],
-                    "text":"radios"
-                },
-                {
-                    "indices":[
-                        "81",
-                        "85"
-                    ],
-                    "text":"SFO"
-                }
+    "date:cessation_lower": "2013-08-26",
+    "date:cessation_upper": "2013-08-26",
+    "date:inception_lower": "2013-08-26",
+    "date:inception_upper": "2013-08-26",
+    "edtf:cessation": "2013-08-26T10:29:59-07:00",
+    "edtf:inception": "2013-08-26T10:29:59-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1377538199,
+      "created_at": "Mon Aug 26 17:29:59 +0000 2013",
+      "display_text_range": [
+        "0", 
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "38", 
+              "43"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"184243425",
-                    "id_str":"184243425",
-                    "indices":[
-                        "3",
-                        "17"
-                    ],
-                    "name":"Silent Disco SF",
-                    "screen_name":"SilentDiscoSF"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @SilentDiscoSF: Photo: Some really #cool #antique #radios from the #1930\u2019s at #SFO (at San Francisco International Airport... http://t.c\u2026",
-        "id":"372048290076164096",
-        "id_str":"372048290076164096",
-        "lang":"en",
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "text": "cool"
+          }, 
+          {
+            "indices": [
+              "44", 
+              "52"
+            ],
+            "text": "antique"
+          }, 
+          {
+            "indices": [
+              "53", 
+              "60"
+            ],
+            "text": "radios"
+          }, 
+          {
+            "indices": [
+              "81", 
+              "85"
+            ],
+            "text": "SFO"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "184243425",
+            "id_str": "184243425",
+            "indices": [
+              "3", 
+              "17"
+            ],
+            "name": "Silent Disco SF",
+            "screen_name": "SilentDiscoSF"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @SilentDiscoSF: Photo: Some really #cool #antique #radios from the #1930’s at #SFO (at San Francisco International Airport... http://t.c…",
+      "id": "372048290076164096",
+      "id_str": "372048290076164096",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729290727
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":372048290076164100
-    },
-    "wof:country":"US",
-    "wof:created":1602025643,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729290727,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025643,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729290727,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729290727,
-    "wof:lastmodified":1602186527,
-    "wof:name":"RT @SilentDiscoSF: Photo: Some really #cool #antique #radios from the #1930\u2019s at #SFO (at San Francisco International Airport... http://t.c\u2026",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729290727,
+    "wof:lastmodified": 1602193903,
+    "wof:name": "RT @SilentDiscoSF: Photo: Some really #cool #antique #radios from the #1930’s at #SFO (at San Francisco International Airport... http://t.c…",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

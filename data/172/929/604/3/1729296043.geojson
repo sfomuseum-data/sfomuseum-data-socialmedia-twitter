@@ -2,226 +2,224 @@
   "id": 1729296043,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-05-06",
-    "date:cessation_upper":"2016-05-06",
-    "date:inception_lower":"2016-05-06",
-    "date:inception_upper":"2016-05-06",
-    "edtf:cessation":"2016-05-06T15:36:55-07:00",
-    "edtf:inception":"2016-05-06T15:36:55-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1462574215,
-        "created_at":"Fri May 06 22:36:55 +0000 2016",
-        "display_text_range":[
-            "0",
-            "97"
+    "date:cessation_lower": "2016-05-06",
+    "date:cessation_upper": "2016-05-06",
+    "date:inception_lower": "2016-05-06",
+    "date:inception_upper": "2016-05-06",
+    "edtf:cessation": "2016-05-06T15:36:55-07:00",
+    "edtf:inception": "2016-05-06T15:36:55-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1462574215,
+      "created_at": "Fri May 06 22:36:55 +0000 2016",
+      "display_text_range": [
+        "0", 
+        "97"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "38", 
+              "49"
+            ],
+            "text": "Dusseldorf"
+          }, 
+          {
+            "indices": [
+              "50", 
+              "54"
+            ],
+            "text": "sfo"
+          }, 
+          {
+            "indices": [
+              "55", 
+              "65"
+            ],
+            "text": "airberlin"
+          }, 
+          {
+            "indices": [
+              "66", 
+              "73"
+            ],
+            "text": "avgeek"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "38",
-                        "49"
-                    ],
-                    "text":"Dusseldorf"
-                },
-                {
-                    "indices":[
-                        "50",
-                        "54"
-                    ],
-                    "text":"sfo"
-                },
-                {
-                    "indices":[
-                        "55",
-                        "65"
-                    ],
-                    "text":"airberlin"
-                },
-                {
-                    "indices":[
-                        "66",
-                        "73"
-                    ],
-                    "text":"avgeek"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/hcdu2OxLZw",
+            "expanded_url": "https://twitter.com/flySFO/status/728714939364347904/photo/1",
+            "id": "728714934482165760",
+            "id_str": "728714934482165760",
+            "indices": [
+              "74", 
+              "97"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/hcdu2OxLZw",
-                    "expanded_url":"https://twitter.com/flySFO/status/728714939364347904/photo/1",
-                    "id":"728714934482165760",
-                    "id_str":"728714934482165760",
-                    "indices":[
-                        "74",
-                        "97"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/ChzqXzxU4AAuEJD.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/ChzqXzxU4AAuEJD.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"1210"
-                        },
-                        "medium":{
-                            "h":"674",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"382",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"728714939364347904",
-                    "source_status_id_str":"728714939364347904",
-                    "source_user_id":"16408759",
-                    "source_user_id_str":"16408759",
-                    "type":"photo",
-                    "url":"https://t.co/hcdu2OxLZw"
-                }
+            "media_url": "http://pbs.twimg.com/media/ChzqXzxU4AAuEJD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ChzqXzxU4AAuEJD.jpg",
+            "sizes": {
+              "large": {
+                "h": "680",
+                "resize": "fit",
+                "w": "1210"
+              },
+              "medium": {
+                "h": "674",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "382",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "728714939364347904",
+            "source_status_id_str": "728714939364347904",
+            "source_user_id": "16408759",
+            "source_user_id_str": "16408759",
+            "type": "photo",
+            "url": "https://t.co/hcdu2OxLZw"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "16408759",
+            "id_str": "16408759",
+            "indices": [
+              "3", 
+              "10"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"16408759",
-                    "id_str":"16408759",
-                    "indices":[
-                        "3",
-                        "10"
-                    ],
-                    "name":"San Francisco International Airport (SFO) \u2708\ufe0f",
-                    "screen_name":"flySFO"
-                },
-                {
-                    "id":"26223583",
-                    "id_str":"26223583",
-                    "indices":[
-                        "25",
-                        "35"
-                    ],
-                    "name":"airberlin",
-                    "screen_name":"airberlin"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/hcdu2OxLZw",
-                    "expanded_url":"https://twitter.com/flySFO/status/728714939364347904/photo/1",
-                    "id":"728714934482165760",
-                    "id_str":"728714934482165760",
-                    "indices":[
-                        "74",
-                        "97"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/ChzqXzxU4AAuEJD.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/ChzqXzxU4AAuEJD.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"1210"
-                        },
-                        "medium":{
-                            "h":"674",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"382",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"728714939364347904",
-                    "source_status_id_str":"728714939364347904",
-                    "source_user_id":"16408759",
-                    "source_user_id_str":"16408759",
-                    "type":"photo",
-                    "url":"https://t.co/hcdu2OxLZw"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @flySFO: Welcome back @airberlin ! #Dusseldorf #sfo #airberlin #avgeek https://t.co/hcdu2OxLZw",
-        "id":"728715193685938177",
-        "id_str":"728715193685938177",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "truncated":false
+            "name": "San Francisco International Airport (SFO) ✈️",
+            "screen_name": "flySFO"
+          }, 
+          {
+            "id": "26223583",
+            "id_str": "26223583",
+            "indices": [
+              "25", 
+              "35"
+            ],
+            "name": "airberlin",
+            "screen_name": "airberlin"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/hcdu2OxLZw",
+            "expanded_url": "https://twitter.com/flySFO/status/728714939364347904/photo/1",
+            "id": "728714934482165760",
+            "id_str": "728714934482165760",
+            "indices": [
+              "74", 
+              "97"
+            ],
+            "media_url": "http://pbs.twimg.com/media/ChzqXzxU4AAuEJD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ChzqXzxU4AAuEJD.jpg",
+            "sizes": {
+              "large": {
+                "h": "680",
+                "resize": "fit",
+                "w": "1210"
+              },
+              "medium": {
+                "h": "674",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "382",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "728714939364347904",
+            "source_status_id_str": "728714939364347904",
+            "source_user_id": "16408759",
+            "source_user_id_str": "16408759",
+            "type": "photo",
+            "url": "https://t.co/hcdu2OxLZw"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @flySFO: Welcome back @airberlin ! #Dusseldorf #sfo #airberlin #avgeek https://t.co/hcdu2OxLZw",
+      "id": "728715193685938177",
+      "id_str": "728715193685938177",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729296043
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":728715193685938200
-    },
-    "wof:country":"US",
-    "wof:created":1602025842,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729296043,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025842,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729296043,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729296043,
-    "wof:lastmodified":1602186691,
-    "wof:name":"RT @flySFO: Welcome back @airberlin ! #Dusseldorf #sfo #airberlin #avgeek https://t.co/hcdu2OxLZw",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729296043,
+    "wof:lastmodified": 1602193906,
+    "wof:name": "RT @flySFO: Welcome back @airberlin ! #Dusseldorf #sfo #airberlin #avgeek https://t.co/hcdu2OxLZw",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

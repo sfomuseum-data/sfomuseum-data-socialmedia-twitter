@@ -2,197 +2,195 @@
   "id": 1729293357,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-05-11",
-    "date:cessation_upper":"2015-05-11",
-    "date:inception_lower":"2015-05-11",
-    "date:inception_upper":"2015-05-11",
-    "edtf:cessation":"2015-05-11T16:19:22-07:00",
-    "edtf:inception":"2015-05-11T16:19:22-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1431386362,
-        "created_at":"Mon May 11 23:19:22 +0000 2015",
-        "display_text_range":[
-            "0",
-            "103"
+    "date:cessation_lower": "2015-05-11",
+    "date:cessation_upper": "2015-05-11",
+    "date:inception_lower": "2015-05-11",
+    "date:inception_upper": "2015-05-11",
+    "edtf:cessation": "2015-05-11T16:19:22-07:00",
+    "edtf:inception": "2015-05-11T16:19:22-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1431386362,
+      "created_at": "Mon May 11 23:19:22 +0000 2015",
+      "display_text_range": [
+        "0", 
+        "103"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UX3a8r64Kb",
+            "expanded_url": "https://twitter.com/datachick/status/597902121162448896/photo/1",
+            "id": "597902121003016193",
+            "id_str": "597902121003016193",
+            "indices": [
+              "81", 
+              "103"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CEwsz6zWYAEONZF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CEwsz6zWYAEONZF.jpg",
+            "sizes": {
+              "large": {
+                "h": "640",
+                "resize": "fit",
+                "w": "640"
+              },
+              "medium": {
+                "h": "640",
+                "resize": "fit",
+                "w": "640"
+              },
+              "small": {
+                "h": "640",
+                "resize": "fit",
+                "w": "640"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "597902121162448896",
+            "source_status_id_str": "597902121162448896",
+            "source_user_id": "15534499",
+            "source_user_id_str": "15534499",
+            "type": "photo",
+            "url": "http://t.co/UX3a8r64Kb"
+          }
         ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/UX3a8r64Kb",
-                    "expanded_url":"https://twitter.com/datachick/status/597902121162448896/photo/1",
-                    "id":"597902121003016193",
-                    "id_str":"597902121003016193",
-                    "indices":[
-                        "81",
-                        "103"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CEwsz6zWYAEONZF.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CEwsz6zWYAEONZF.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"640",
-                            "resize":"fit",
-                            "w":"640"
-                        },
-                        "medium":{
-                            "h":"640",
-                            "resize":"fit",
-                            "w":"640"
-                        },
-                        "small":{
-                            "h":"640",
-                            "resize":"fit",
-                            "w":"640"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"597902121162448896",
-                    "source_status_id_str":"597902121162448896",
-                    "source_user_id":"15534499",
-                    "source_user_id_str":"15534499",
-                    "type":"photo",
-                    "url":"http://t.co/UX3a8r64Kb"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ift.tt/1F9RDr9",
+            "expanded_url": "http://ift.tt/1F9RDr9",
+            "indices": [
+              "58", 
+              "80"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"ift.tt/1F9RDr9",
-                    "expanded_url":"http://ift.tt/1F9RDr9",
-                    "indices":[
-                        "58",
-                        "80"
-                    ],
-                    "url":"http://t.co/Rl9pJwS5NP"
-                }
+            "url": "http://t.co/Rl9pJwS5NP"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "15534499",
+            "id_str": "15534499",
+            "indices": [
+              "3", 
+              "13"
             ],
-            "user_mentions":[
-                {
-                    "id":"15534499",
-                    "id_str":"15534499",
-                    "indices":[
-                        "3",
-                        "13"
-                    ],
-                    "name":"Karen L\u00f3pez",
-                    "screen_name":"datachick"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/UX3a8r64Kb",
-                    "expanded_url":"https://twitter.com/datachick/status/597902121162448896/photo/1",
-                    "id":"597902121003016193",
-                    "id_str":"597902121003016193",
-                    "indices":[
-                        "81",
-                        "103"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CEwsz6zWYAEONZF.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CEwsz6zWYAEONZF.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"640",
-                            "resize":"fit",
-                            "w":"640"
-                        },
-                        "medium":{
-                            "h":"640",
-                            "resize":"fit",
-                            "w":"640"
-                        },
-                        "small":{
-                            "h":"640",
-                            "resize":"fit",
-                            "w":"640"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"597902121162448896",
-                    "source_status_id_str":"597902121162448896",
-                    "source_user_id":"15534499",
-                    "source_user_id_str":"15534499",
-                    "type":"photo",
-                    "url":"http://t.co/UX3a8r64Kb"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @datachick: The Art Deco installation at SFO is lovely http://t.co/Rl9pJwS5NP http://t.co/UX3a8r64Kb",
-        "id":"597903854156525568",
-        "id_str":"597903854156525568",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "Karen López",
+            "screen_name": "datachick"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UX3a8r64Kb",
+            "expanded_url": "https://twitter.com/datachick/status/597902121162448896/photo/1",
+            "id": "597902121003016193",
+            "id_str": "597902121003016193",
+            "indices": [
+              "81", 
+              "103"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CEwsz6zWYAEONZF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CEwsz6zWYAEONZF.jpg",
+            "sizes": {
+              "large": {
+                "h": "640",
+                "resize": "fit",
+                "w": "640"
+              },
+              "medium": {
+                "h": "640",
+                "resize": "fit",
+                "w": "640"
+              },
+              "small": {
+                "h": "640",
+                "resize": "fit",
+                "w": "640"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "597902121162448896",
+            "source_status_id_str": "597902121162448896",
+            "source_user_id": "15534499",
+            "source_user_id_str": "15534499",
+            "type": "photo",
+            "url": "http://t.co/UX3a8r64Kb"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @datachick: The Art Deco installation at SFO is lovely http://t.co/Rl9pJwS5NP http://t.co/UX3a8r64Kb",
+      "id": "597903854156525568",
+      "id_str": "597903854156525568",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729293357
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":597903854156525600
-    },
-    "wof:country":"US",
-    "wof:created":1602025743,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729293357,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025743,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729293357,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729293357,
-    "wof:lastmodified":1602186673,
-    "wof:name":"RT @datachick: The Art Deco installation at SFO is lovely http://t.co/Rl9pJwS5NP http://t.co/UX3a8r64Kb",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729293357,
+    "wof:lastmodified": 1602193904,
+    "wof:name": "RT @datachick: The Art Deco installation at SFO is lovely http://t.co/Rl9pJwS5NP http://t.co/UX3a8r64Kb",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

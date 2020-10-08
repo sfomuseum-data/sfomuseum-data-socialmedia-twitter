@@ -2,183 +2,181 @@
   "id": 1729299891,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-04-03",
-    "date:cessation_upper":"2017-04-03",
-    "date:inception_lower":"2017-04-03",
-    "date:inception_upper":"2017-04-03",
-    "edtf:cessation":"2017-04-03T18:25:04-07:00",
-    "edtf:inception":"2017-04-03T18:25:04-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1491269104,
-        "created_at":"Tue Apr 04 01:25:04 +0000 2017",
-        "display_text_range":[
-            "0",
-            "164"
+    "date:cessation_lower": "2017-04-03",
+    "date:cessation_upper": "2017-04-03",
+    "date:inception_lower": "2017-04-03",
+    "date:inception_upper": "2017-04-03",
+    "edtf:cessation": "2017-04-03T18:25:04-07:00",
+    "edtf:inception": "2017-04-03T18:25:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1491269104,
+      "created_at": "Tue Apr 04 01:25:04 +0000 2017",
+      "display_text_range": [
+        "0", 
+        "164"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0", 
+              "11"
+            ],
+            "text": "EdithHeath"
+          }, 
+          {
+            "indices": [
+              "124", 
+              "140"
+            ],
+            "text": "AModernApproach"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "0",
-                        "11"
-                    ],
-                    "text":"EdithHeath"
-                },
-                {
-                    "indices":[
-                        "124",
-                        "140"
-                    ],
-                    "text":"AModernApproach"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2sx00ReG5x",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/849070282530750464/photo/1",
+            "id": "849070278189735937",
+            "id_str": "849070278189735937",
+            "indices": [
+              "141", 
+              "164"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/2sx00ReG5x",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/849070282530750464/photo/1",
-                    "id":"849070278189735937",
-                    "id_str":"849070278189735937",
-                    "indices":[
-                        "141",
-                        "164"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C8iA62DXYAE0Ahn.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C8iA62DXYAE0Ahn.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/2sx00ReG5x"
-                }
+            "media_url": "http://pbs.twimg.com/media/C8iA62DXYAE0Ahn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C8iA62DXYAE0Ahn.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2sx00ReG5x"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2sx00ReG5x",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/849070282530750464/photo/1",
+            "id": "849070278189735937",
+            "id_str": "849070278189735937",
+            "indices": [
+              "141", 
+              "164"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/2sx00ReG5x",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/849070282530750464/photo/1",
-                    "id":"849070278189735937",
-                    "id_str":"849070278189735937",
-                    "indices":[
-                        "141",
-                        "164"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C8iA62DXYAE0Ahn.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C8iA62DXYAE0Ahn.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/2sx00ReG5x"
-                }
-            ]
-        },
-        "favorite_count":"6",
-        "favorited":false,
-        "full_text":"#EdithHeath and her husband, Brian, made simple and elegant housewares at their factory in Sausalito, CA for over 50 years. #AModernApproach https://t.co/2sx00ReG5x",
-        "id":"849070282530750464",
-        "id_str":"849070282530750464",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"3",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/C8iA62DXYAE0Ahn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C8iA62DXYAE0Ahn.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2sx00ReG5x"
+          }
+        ]
+      },
+      "favorite_count": "6",
+      "favorited": false,
+      "full_text": "#EdithHeath and her husband, Brian, made simple and elegant housewares at their factory in Sausalito, CA for over 50 years. #AModernApproach https://t.co/2sx00ReG5x",
+      "id": "849070282530750464",
+      "id_str": "849070282530750464",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729299891
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":849070282530750500
-    },
-    "wof:country":"US",
-    "wof:created":1602025990,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299891,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025990,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299891,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299891,
-    "wof:lastmodified":1602186736,
-    "wof:name":"#EdithHeath and her husband, Brian, made simple and elegant housewares at their factory in Sausalito, CA for over 50 years. #AModernApproach https://t.co/2sx00ReG5x",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299891,
+    "wof:lastmodified": 1602193908,
+    "wof:name": "#EdithHeath and her husband, Brian, made simple and elegant housewares at their factory in Sausalito, CA for over 50 years. #AModernApproach https://t.co/2sx00ReG5x",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

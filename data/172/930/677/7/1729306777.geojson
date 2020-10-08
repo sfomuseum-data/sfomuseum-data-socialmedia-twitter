@@ -2,193 +2,191 @@
   "id": 1729306777,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-08-04",
-    "date:cessation_upper":"2019-08-04",
-    "date:inception_lower":"2019-08-04",
-    "date:inception_upper":"2019-08-04",
-    "edtf:cessation":"2019-08-04T11:00:40-07:00",
-    "edtf:inception":"2019-08-04T11:00:40-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1564941640,
-        "created_at":"Sun Aug 04 18:00:40 +0000 2019",
-        "display_text_range":[
-            "0",
-            "266"
+    "date:cessation_lower": "2019-08-04",
+    "date:cessation_upper": "2019-08-04",
+    "date:inception_lower": "2019-08-04",
+    "date:inception_upper": "2019-08-04",
+    "edtf:cessation": "2019-08-04T11:00:40-07:00",
+    "edtf:inception": "2019-08-04T11:00:40-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1564941640,
+      "created_at": "Sun Aug 04 18:00:40 +0000 2019",
+      "display_text_range": [
+        "0", 
+        "266"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "154", 
+              "167"
+            ],
+            "text": "JaclynWright"
+          }, 
+          {
+            "indices": [
+              "230", 
+              "242"
+            ],
+            "text": "photography"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "154",
-                        "167"
-                    ],
-                    "text":"JaclynWright"
-                },
-                {
-                    "indices":[
-                        "230",
-                        "242"
-                    ],
-                    "text":"photography"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YU5cuaeoZ6",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1158075292163944454/photo/1",
+            "id": "1158075289559359493",
+            "id_str": "1158075289559359493",
+            "indices": [
+              "243", 
+              "266"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/YU5cuaeoZ6",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1158075292163944454/photo/1",
-                    "id":"1158075289559359493",
-                    "id_str":"1158075289559359493",
-                    "indices":[
-                        "243",
-                        "266"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EBJPVxFX4AU1IzQ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EBJPVxFX4AU1IzQ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1601"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"961"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"544"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/YU5cuaeoZ6"
-                }
+            "media_url": "http://pbs.twimg.com/media/EBJPVxFX4AU1IzQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EBJPVxFX4AU1IzQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1601"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "961"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "544"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YU5cuaeoZ6"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2yw7PFy",
+            "expanded_url": "http://bit.ly/2yw7PFy",
+            "indices": [
+              "206", 
+              "229"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/2yw7PFy",
-                    "expanded_url":"http://bit.ly/2yw7PFy",
-                    "indices":[
-                        "206",
-                        "229"
-                    ],
-                    "url":"https://t.co/xpHsWyskOg"
-                }
+            "url": "https://t.co/xpHsWyskOg"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YU5cuaeoZ6",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1158075292163944454/photo/1",
+            "id": "1158075289559359493",
+            "id_str": "1158075289559359493",
+            "indices": [
+              "243", 
+              "266"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/YU5cuaeoZ6",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1158075292163944454/photo/1",
-                    "id":"1158075289559359493",
-                    "id_str":"1158075289559359493",
-                    "indices":[
-                        "243",
-                        "266"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EBJPVxFX4AU1IzQ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EBJPVxFX4AU1IzQ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1601"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"961"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"544"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/YU5cuaeoZ6"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"Alarmed by the lack of privacy in our increasingly web-based world where personal information is gathered and exploited by various entities, photographer #JaclynWright created \u201cThe Two-Dimensional Shadow.\u201d https://t.co/xpHsWyskOg #photography https://t.co/YU5cuaeoZ6",
-        "id":"1158075292163944454",
-        "id_str":"1158075292163944454",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/EBJPVxFX4AU1IzQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EBJPVxFX4AU1IzQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1601"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "961"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "544"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YU5cuaeoZ6"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Alarmed by the lack of privacy in our increasingly web-based world where personal information is gathered and exploited by various entities, photographer #JaclynWright created “The Two-Dimensional Shadow.” https://t.co/xpHsWyskOg #photography https://t.co/YU5cuaeoZ6",
+      "id": "1158075292163944454",
+      "id_str": "1158075292163944454",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729306777
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1158075292163944400
-    },
-    "wof:country":"US",
-    "wof:created":1602026252,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729306777,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026252,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729306777,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729306777,
-    "wof:lastmodified":1602186361,
-    "wof:name":"Alarmed by the lack of privacy in our increasingly web-based world where personal information is gathered and exploited by various entities, photographer #JaclynWright created \u201cThe Two-Dimensional Shadow.\u201d https://t.co/xpHsWyskOg #photography https://t.co/YU5cuaeoZ6",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729306777,
+    "wof:lastmodified": 1602193912,
+    "wof:name": "Alarmed by the lack of privacy in our increasingly web-based world where personal information is gathered and exploited by various entities, photographer #JaclynWright created “The Two-Dimensional Shadow.” https://t.co/xpHsWyskOg #photography https://t.co/YU5cuaeoZ6",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,176 +2,174 @@
   "id": 1729302703,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-03-24",
-    "date:cessation_upper":"2018-03-24",
-    "date:inception_lower":"2018-03-24",
-    "date:inception_upper":"2018-03-24",
-    "edtf:cessation":"2018-03-24T12:00:20-07:00",
-    "edtf:inception":"2018-03-24T12:00:20-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1521918020,
-        "created_at":"Sat Mar 24 19:00:20 +0000 2018",
-        "display_text_range":[
-            "0",
-            "243"
+    "date:cessation_lower": "2018-03-24",
+    "date:cessation_upper": "2018-03-24",
+    "date:inception_lower": "2018-03-24",
+    "date:inception_upper": "2018-03-24",
+    "edtf:cessation": "2018-03-24T12:00:20-07:00",
+    "edtf:inception": "2018-03-24T12:00:20-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1521918020,
+      "created_at": "Sat Mar 24 19:00:20 +0000 2018",
+      "display_text_range": [
+        "0", 
+        "243"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "32", 
+              "46"
+            ],
+            "text": "ThomasJackson"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "32",
-                        "46"
-                    ],
-                    "text":"ThomasJackson"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/wttA8Fzl23",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/977621152448335873/photo/1",
+            "id": "977621149457768451",
+            "id_str": "977621149457768451",
+            "indices": [
+              "220", 
+              "243"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/wttA8Fzl23",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/977621152448335873/photo/1",
-                    "id":"977621149457768451",
-                    "id_str":"977621149457768451",
-                    "indices":[
-                        "220",
-                        "243"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DZE1QXpW4AMA_pW.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DZE1QXpW4AMA_pW.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1564",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"938",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"532",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/wttA8Fzl23"
-                }
+            "media_url": "http://pbs.twimg.com/media/DZE1QXpW4AMA_pW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DZE1QXpW4AMA_pW.jpg",
+            "sizes": {
+              "large": {
+                "h": "1564",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "938",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "532",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/wttA8Fzl23"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/wttA8Fzl23",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/977621152448335873/photo/1",
+            "id": "977621149457768451",
+            "id_str": "977621149457768451",
+            "indices": [
+              "220", 
+              "243"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/wttA8Fzl23",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/977621152448335873/photo/1",
-                    "id":"977621149457768451",
-                    "id_str":"977621149457768451",
-                    "indices":[
-                        "220",
-                        "243"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DZE1QXpW4AMA_pW.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DZE1QXpW4AMA_pW.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1564",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"938",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"532",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/wttA8Fzl23"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"Working with a 4x5 film camera, #ThomasJackson creates large-scale photographs that meditate upon the complex relationship between the natural and the man-made, while inviting a fresh interpretation of everyday objects. https://t.co/wttA8Fzl23",
-        "id":"977621152448335873",
-        "id_str":"977621152448335873",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DZE1QXpW4AMA_pW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DZE1QXpW4AMA_pW.jpg",
+            "sizes": {
+              "large": {
+                "h": "1564",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "938",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "532",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/wttA8Fzl23"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Working with a 4x5 film camera, #ThomasJackson creates large-scale photographs that meditate upon the complex relationship between the natural and the man-made, while inviting a fresh interpretation of everyday objects. https://t.co/wttA8Fzl23",
+      "id": "977621152448335873",
+      "id_str": "977621152448335873",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729302703
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":977621152448335900
-    },
-    "wof:country":"US",
-    "wof:created":1602026094,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729302703,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026094,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729302703,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729302703,
-    "wof:lastmodified":1602186444,
-    "wof:name":"Working with a 4x5 film camera, #ThomasJackson creates large-scale photographs that meditate upon the complex relationship between the natural and the man-made, while inviting a fresh interpretation of everyday objects. https://t.co/wttA8Fzl23",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729302703,
+    "wof:lastmodified": 1602193910,
+    "wof:name": "Working with a 4x5 film camera, #ThomasJackson creates large-scale photographs that meditate upon the complex relationship between the natural and the man-made, while inviting a fresh interpretation of everyday objects. https://t.co/wttA8Fzl23",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

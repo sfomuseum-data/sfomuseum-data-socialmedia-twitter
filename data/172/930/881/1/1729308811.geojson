@@ -2,198 +2,196 @@
   "id": 1729308811,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-09-22",
-    "date:cessation_upper":"2020-09-22",
-    "date:inception_lower":"2020-09-22",
-    "date:inception_upper":"2020-09-22",
-    "edtf:cessation":"2020-09-22T15:40:46-07:00",
-    "edtf:inception":"2020-09-22T15:40:46-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1600814446,
-        "created_at":"Tue Sep 22 22:40:46 +0000 2020",
-        "display_text_range":[
-            "0",
-            "117"
+    "date:cessation_lower": "2020-09-22",
+    "date:cessation_upper": "2020-09-22",
+    "date:inception_lower": "2020-09-22",
+    "date:inception_upper": "2020-09-22",
+    "edtf:cessation": "2020-09-22T15:40:46-07:00",
+    "edtf:inception": "2020-09-22T15:40:46-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1600814446,
+      "created_at": "Tue Sep 22 22:40:46 +0000 2020",
+      "display_text_range": [
+        "0", 
+        "117"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "27", 
+              "42"
+            ],
+            "text": "WoodyDeOthello"
+          }, 
+          {
+            "indices": [
+              "78", 
+              "93"
+            ],
+            "text": "MuseumFromHome"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "27",
-                        "42"
-                    ],
-                    "text":"WoodyDeOthello"
-                },
-                {
-                    "indices":[
-                        "78",
-                        "93"
-                    ],
-                    "text":"MuseumFromHome"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/p7JxGExheG",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1308536746938826752/photo/1",
+            "id": "1308536470274097152",
+            "id_str": "1308536470274097152",
+            "indices": [
+              "94", 
+              "117"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/p7JxGExheG",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1308536746938826752/photo/1",
-                    "id":"1308536470274097152",
-                    "id_str":"1308536470274097152",
-                    "indices":[
-                        "94",
-                        "117"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Eija_J5UwAAaRrB.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Eija_J5UwAAaRrB.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/p7JxGExheG"
-                }
+            "media_url": "http://pbs.twimg.com/media/Eija_J5UwAAaRrB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eija_J5UwAAaRrB.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/p7JxGExheG"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/3kiuVFq",
+            "expanded_url": "https://bit.ly/3kiuVFq",
+            "indices": [
+              "54", 
+              "77"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/3kiuVFq",
-                    "expanded_url":"https://bit.ly/3kiuVFq",
-                    "indices":[
-                        "54",
-                        "77"
-                    ],
-                    "url":"https://t.co/dXXKlG0CS1"
-                }
+            "url": "https://t.co/dXXKlG0CS1"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/p7JxGExheG",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1308536746938826752/photo/1",
+            "id": "1308536470274097152",
+            "id_str": "1308536470274097152",
+            "indices": [
+              "94", 
+              "117"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/p7JxGExheG",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1308536746938826752/photo/1",
-                    "id":"1308536470274097152",
-                    "id_str":"1308536470274097152",
-                    "indices":[
-                        "94",
-                        "117"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Eija_J5UwAAaRrB.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Eija_J5UwAAaRrB.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/p7JxGExheG"
-                }
-            ]
-        },
-        "favorite_count":"5",
-        "favorited":false,
-        "full_text":"\u201cTime, Turn, and Light\u201d by #WoodyDeOthello online at: https://t.co/dXXKlG0CS1 #MuseumFromHome https://t.co/p7JxGExheG",
-        "id":"1308536746938826752",
-        "id_str":"1308536746938826752",
-        "in_reply_to_screen_name":"SFOMuseum",
-        "in_reply_to_status_id":"1308536744199897090",
-        "in_reply_to_status_id_str":"1308536744199897090",
-        "in_reply_to_user_id":"116329337",
-        "in_reply_to_user_id_str":"116329337",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/Eija_J5UwAAaRrB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eija_J5UwAAaRrB.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/p7JxGExheG"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "“Time, Turn, and Light” by #WoodyDeOthello online at: https://t.co/dXXKlG0CS1 #MuseumFromHome https://t.co/p7JxGExheG",
+      "id": "1308536746938826752",
+      "id_str": "1308536746938826752",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1308536744199897090",
+      "in_reply_to_status_id_str": "1308536744199897090",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637, 
+      1729308811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "twitter:id":1308536746938826800
-    },
-    "wof:country":"US",
-    "wof:created":1602026329,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729308811,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026329,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729308811,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729308811,
-    "wof:lastmodified":1602186265,
-    "wof:name":"\u201cTime, Turn, and Light\u201d by #WoodyDeOthello online at: https://t.co/dXXKlG0CS1 #MuseumFromHome https://t.co/p7JxGExheG",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729308811,
+    "wof:lastmodified": 1602193914,
+    "wof:name": "“Time, Turn, and Light” by #WoodyDeOthello online at: https://t.co/dXXKlG0CS1 #MuseumFromHome https://t.co/p7JxGExheG",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.386166,
-    37.616356,
-    -122.386166,
+    -122.386166, 
+    37.616356, 
+    -122.386166, 
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }
