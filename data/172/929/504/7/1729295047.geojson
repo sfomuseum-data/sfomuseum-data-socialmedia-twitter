@@ -2,166 +2,186 @@
   "id": 1729295047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-01-19T19:20:09-08:00",
-    "edtf:inception": "2016-01-19T19:20:09-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1453260009,
-      "created_at": "Wed Jan 20 03:20:09 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "108"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "73", 
-              "84"
-            ],
-            "text": "ToyStory20"
-          }
+    "date:cessation_lower":"2016-01-19",
+    "date:cessation_upper":"2016-01-19",
+    "date:inception_lower":"2016-01-19",
+    "date:inception_upper":"2016-01-19",
+    "edtf:cessation":"2016-01-19T19:20:09-08:00",
+    "edtf:inception":"2016-01-19T19:20:09-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1453260009,
+        "created_at":"Wed Jan 20 03:20:09 +0000 2016",
+        "display_text_range":[
+            "0",
+            "108"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/5haGfxVyjJ",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/689648580949340160/photo/1",
-            "id": "689648580387299328",
-            "id_str": "689648580387299328",
-            "indices": [
-              "85", 
-              "108"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "73",
+                        "84"
+                    ],
+                    "text":"ToyStory20"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CZIfut3WYAAvVSB.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CZIfut3WYAAvVSB.jpg",
-            "sizes": {
-              "large": {
-                "h": "2048",
-                "resize": "fit",
-                "w": "1771"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1038"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "588"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/5haGfxVyjJ"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/XiefL",
-            "expanded_url": "http://ow.ly/XiefL",
-            "indices": [
-              "49", 
-              "72"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/5haGfxVyjJ",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/689648580949340160/photo/1",
+                    "id":"689648580387299328",
+                    "id_str":"689648580387299328",
+                    "indices":[
+                        "85",
+                        "108"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CZIfut3WYAAvVSB.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CZIfut3WYAAvVSB.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2048",
+                            "resize":"fit",
+                            "w":"1771"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1038"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"588"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/5haGfxVyjJ"
+                }
             ],
-            "url": "https://t.co/yqUcFhOJ89"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/5haGfxVyjJ",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/689648580949340160/photo/1",
-            "id": "689648580387299328",
-            "id_str": "689648580387299328",
-            "indices": [
-              "85", 
-              "108"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/XiefL",
+                    "expanded_url":"http://ow.ly/XiefL",
+                    "indices":[
+                        "49",
+                        "72"
+                    ],
+                    "url":"https://t.co/yqUcFhOJ89"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CZIfut3WYAAvVSB.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CZIfut3WYAAvVSB.jpg",
-            "sizes": {
-              "large": {
-                "h": "2048",
-                "resize": "fit",
-                "w": "1771"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1038"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "588"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/5haGfxVyjJ"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "See more of our \"Toy Story at 20\" exhibition at: https://t.co/yqUcFhOJ89 #ToyStory20 https://t.co/5haGfxVyjJ",
-      "id": "689648580949340160",
-      "id_str": "689648580949340160",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/5haGfxVyjJ",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/689648580949340160/photo/1",
+                    "id":"689648580387299328",
+                    "id_str":"689648580387299328",
+                    "indices":[
+                        "85",
+                        "108"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CZIfut3WYAAvVSB.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CZIfut3WYAAvVSB.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2048",
+                            "resize":"fit",
+                            "w":"1771"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1038"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"588"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/5haGfxVyjJ"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"See more of our \"Toy Story at 20\" exhibition at: https://t.co/yqUcFhOJ89 #ToyStory20 https://t.co/5haGfxVyjJ",
+        "id":"689648580949340160",
+        "id_str":"689648580949340160",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 689648580949340200
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":689648580949340200
     },
-    "wof:country": "US",
-    "wof:created": 1602025805,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729295047,
-    "wof:lastmodified": 1602025805,
-    "wof:name": "Twitter message #689648580949340160",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025805,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729295047,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729295047,
+    "wof:lastmodified":1602186633,
+    "wof:name":"See more of our \"Toy Story at 20\" exhibition at: https://t.co/yqUcFhOJ89 #ToyStory20 https://t.co/5haGfxVyjJ",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

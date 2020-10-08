@@ -2,170 +2,190 @@
   "id": 1729300963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2017-08-22T10:05:08-07:00",
-    "edtf:inception": "2017-08-22T10:05:08-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1503421508,
-      "created_at": "Tue Aug 22 17:05:08 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "168"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "22", 
-              "35"
-            ],
-            "text": "SanFrancisco"
-          }, 
-          {
-            "indices": [
-              "81", 
-              "91"
-            ],
-            "text": "MimiPlumb"
-          }, 
-          {
-            "indices": [
-              "132", 
-              "144"
-            ],
-            "text": "photography"
-          }
+    "date:cessation_lower":"2017-08-22",
+    "date:cessation_upper":"2017-08-22",
+    "date:inception_lower":"2017-08-22",
+    "date:inception_upper":"2017-08-22",
+    "edtf:cessation":"2017-08-22T10:05:08-07:00",
+    "edtf:inception":"2017-08-22T10:05:08-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1503421508,
+        "created_at":"Tue Aug 22 17:05:08 +0000 2017",
+        "display_text_range":[
+            "0",
+            "168"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/1fFU9HnhZM",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/900041159162159104/photo/1",
-            "id": "900041155957714946",
-            "id_str": "900041155957714946",
-            "indices": [
-              "145", 
-              "168"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "22",
+                        "35"
+                    ],
+                    "text":"SanFrancisco"
+                },
+                {
+                    "indices":[
+                        "81",
+                        "91"
+                    ],
+                    "text":"MimiPlumb"
+                },
+                {
+                    "indices":[
+                        "132",
+                        "144"
+                    ],
+                    "text":"photography"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DH2WqagXcAIzNQe.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DH2WqagXcAIzNQe.jpg",
-            "sizes": {
-              "large": {
-                "h": "1295",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "777",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "440",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/1fFU9HnhZM"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/1fFU9HnhZM",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/900041159162159104/photo/1",
-            "id": "900041155957714946",
-            "id_str": "900041155957714946",
-            "indices": [
-              "145", 
-              "168"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/1fFU9HnhZM",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/900041159162159104/photo/1",
+                    "id":"900041155957714946",
+                    "id_str":"900041155957714946",
+                    "indices":[
+                        "145",
+                        "168"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DH2WqagXcAIzNQe.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DH2WqagXcAIzNQe.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1295",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"777",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"440",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/1fFU9HnhZM"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DH2WqagXcAIzNQe.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DH2WqagXcAIzNQe.jpg",
-            "sizes": {
-              "large": {
-                "h": "1295",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "777",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "440",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/1fFU9HnhZM"
-          }
-        ]
-      },
-      "favorite_count": "4",
-      "favorited": false,
-      "full_text": "Growing up outside of #SanFrancisco in Walnut Creek during the 1950s \u0026amp; ‘60s, #MimiPlumb was raised amidst a changing landscape. #photography https://t.co/1fFU9HnhZM",
-      "id": "900041159162159104",
-      "id_str": "900041159162159104",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/1fFU9HnhZM",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/900041159162159104/photo/1",
+                    "id":"900041155957714946",
+                    "id_str":"900041155957714946",
+                    "indices":[
+                        "145",
+                        "168"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DH2WqagXcAIzNQe.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DH2WqagXcAIzNQe.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1295",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"777",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"440",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/1fFU9HnhZM"
+                }
+            ]
+        },
+        "favorite_count":"4",
+        "favorited":false,
+        "full_text":"Growing up outside of #SanFrancisco in Walnut Creek during the 1950s &amp; \u201860s, #MimiPlumb was raised amidst a changing landscape. #photography https://t.co/1fFU9HnhZM",
+        "id":"900041159162159104",
+        "id_str":"900041159162159104",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 900041159162159100
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":900041159162159100
     },
-    "wof:country": "US",
-    "wof:created": 1602026029,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729300963,
-    "wof:lastmodified": 1602026029,
-    "wof:name": "Twitter message #900041159162159104",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026029,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729300963,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729300963,
+    "wof:lastmodified":1602186249,
+    "wof:name":"Growing up outside of #SanFrancisco in Walnut Creek during the 1950s &amp; \u201860s, #MimiPlumb was raised amidst a changing landscape. #photography https://t.co/1fFU9HnhZM",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

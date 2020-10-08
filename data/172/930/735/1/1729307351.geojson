@@ -2,163 +2,183 @@
   "id": 1729307351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-11-05T13:10:04-08:00",
-    "edtf:inception": "2019-11-05T13:10:04-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1572988204,
-      "created_at": "Tue Nov 05 21:10:04 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "304"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "258", 
-              "265"
-            ],
-            "text": "avgeek"
-          }, 
-          {
-            "indices": [
-              "266", 
-              "280"
-            ],
-            "text": "TravelTuesday"
-          }
+    "date:cessation_lower":"2019-11-05",
+    "date:cessation_upper":"2019-11-05",
+    "date:inception_lower":"2019-11-05",
+    "date:inception_upper":"2019-11-05",
+    "edtf:cessation":"2019-11-05T13:10:04-08:00",
+    "edtf:inception":"2019-11-05T13:10:04-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1572988204,
+        "created_at":"Tue Nov 05 21:10:04 +0000 2019",
+        "display_text_range":[
+            "0",
+            "304"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/7mQLBp4Ely",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1191825030340075521/photo/1",
-            "id": "1191825026594553857",
-            "id_str": "1191825026594553857",
-            "indices": [
-              "281", 
-              "304"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "258",
+                        "265"
+                    ],
+                    "text":"avgeek"
+                },
+                {
+                    "indices":[
+                        "266",
+                        "280"
+                    ],
+                    "text":"TravelTuesday"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EIo2jBCWwAEHwE4.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EIo2jBCWwAEHwE4.jpg",
-            "sizes": {
-              "large": {
-                "h": "1042",
-                "resize": "fit",
-                "w": "1840"
-              },
-              "medium": {
-                "h": "680",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "385",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/7mQLBp4Ely"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/7mQLBp4Ely",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1191825030340075521/photo/1",
-            "id": "1191825026594553857",
-            "id_str": "1191825026594553857",
-            "indices": [
-              "281", 
-              "304"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/7mQLBp4Ely",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1191825030340075521/photo/1",
+                    "id":"1191825026594553857",
+                    "id_str":"1191825026594553857",
+                    "indices":[
+                        "281",
+                        "304"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EIo2jBCWwAEHwE4.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EIo2jBCWwAEHwE4.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1042",
+                            "resize":"fit",
+                            "w":"1840"
+                        },
+                        "medium":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"385",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/7mQLBp4Ely"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EIo2jBCWwAEHwE4.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EIo2jBCWwAEHwE4.jpg",
-            "sizes": {
-              "large": {
-                "h": "1042",
-                "resize": "fit",
-                "w": "1840"
-              },
-              "medium": {
-                "h": "680",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "385",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/7mQLBp4Ely"
-          }
-        ]
-      },
-      "favorite_count": "30",
-      "favorited": false,
-      "full_text": "Australia’s Ansett Airlines was founded in 1935 by Sir Reginald Myles \"Reg\" Ansett. Service between Hamilton and Melbourne was inaugurated in 1936. In 1964, Ansett-ANA received delivery of its first pure turbojet, the Boeing 727. Did you ever fly on Ansett? #avgeek #TravelTuesday https://t.co/7mQLBp4Ely",
-      "id": "1191825030340075521",
-      "id_str": "1191825030340075521",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "4",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/7mQLBp4Ely",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1191825030340075521/photo/1",
+                    "id":"1191825026594553857",
+                    "id_str":"1191825026594553857",
+                    "indices":[
+                        "281",
+                        "304"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EIo2jBCWwAEHwE4.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EIo2jBCWwAEHwE4.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1042",
+                            "resize":"fit",
+                            "w":"1840"
+                        },
+                        "medium":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"385",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/7mQLBp4Ely"
+                }
+            ]
+        },
+        "favorite_count":"30",
+        "favorited":false,
+        "full_text":"Australia\u2019s Ansett Airlines was founded in 1935 by Sir Reginald Myles \"Reg\" Ansett. Service between Hamilton and Melbourne was inaugurated in 1936. In 1964, Ansett-ANA received delivery of its first pure turbojet, the Boeing 727. Did you ever fly on Ansett? #avgeek #TravelTuesday https://t.co/7mQLBp4Ely",
+        "id":"1191825030340075521",
+        "id_str":"1191825030340075521",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"4",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1191825030340075500
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1191825030340075500
     },
-    "wof:country": "US",
-    "wof:created": 1602026274,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729307351,
-    "wof:lastmodified": 1602026274,
-    "wof:name": "Twitter message #1191825030340075521",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026274,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729307351,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729307351,
+    "wof:lastmodified":1602186246,
+    "wof:name":"Australia\u2019s Ansett Airlines was founded in 1935 by Sir Reginald Myles \"Reg\" Ansett. Service between Hamilton and Melbourne was inaugurated in 1936. In 1964, Ansett-ANA received delivery of its first pure turbojet, the Boeing 727. Did you ever fly on Ansett? #avgeek #TravelTuesday https://t.co/7mQLBp4Ely",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

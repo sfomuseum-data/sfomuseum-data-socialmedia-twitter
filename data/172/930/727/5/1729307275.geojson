@@ -2,168 +2,188 @@
   "id": 1729307275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-10-30T11:54:19-07:00",
-    "edtf:inception": "2019-10-30T11:54:19-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1572461659,
-      "created_at": "Wed Oct 30 18:54:19 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "282"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "136", 
-              "151"
-            ],
-            "text": "MarvinLipofsky"
-          }, 
-          {
-            "indices": [
-              "241", 
-              "258"
-            ],
-            "text": "CaliforniaCrafts"
-          }
+    "date:cessation_lower":"2019-10-30",
+    "date:cessation_upper":"2019-10-30",
+    "date:inception_lower":"2019-10-30",
+    "date:inception_upper":"2019-10-30",
+    "edtf:cessation":"2019-10-30T11:54:19-07:00",
+    "edtf:inception":"2019-10-30T11:54:19-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1572461659,
+        "created_at":"Wed Oct 30 18:54:19 +0000 2019",
+        "display_text_range":[
+            "0",
+            "282"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/1Qr9f9VcdX",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1189616537813929984/photo/1",
-            "id": "1189616528079097856",
-            "id_str": "1189616528079097856",
-            "indices": [
-              "259", 
-              "282"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "136",
+                        "151"
+                    ],
+                    "text":"MarvinLipofsky"
+                },
+                {
+                    "indices":[
+                        "241",
+                        "258"
+                    ],
+                    "text":"CaliforniaCrafts"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EIJd7e8WkAAxksK.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EIJd7e8WkAAxksK.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1386"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "832"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "471"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/1Qr9f9VcdX"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/1Qr9f9VcdX",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1189616537813929984/photo/1",
-            "id": "1189616528079097856",
-            "id_str": "1189616528079097856",
-            "indices": [
-              "259", 
-              "282"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/1Qr9f9VcdX",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1189616537813929984/photo/1",
+                    "id":"1189616528079097856",
+                    "id_str":"1189616528079097856",
+                    "indices":[
+                        "259",
+                        "282"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EIJd7e8WkAAxksK.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EIJd7e8WkAAxksK.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1386"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"832"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"471"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/1Qr9f9VcdX"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EIJd7e8WkAAxksK.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EIJd7e8WkAAxksK.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1386"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "832"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "471"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/1Qr9f9VcdX"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "With assistance from Stefan Stefko in 1985, the form for “IGS II” was blown using a large, wooden mold. As with other works produced by #MarvinLipofsky overseas, “IGS II” was cut, ground, sandblasted, and finished at his studio in Berkeley. #CaliforniaCrafts https://t.co/1Qr9f9VcdX",
-      "id": "1189616537813929984",
-      "id_str": "1189616537813929984",
-      "in_reply_to_screen_name": "SFOMuseum",
-      "in_reply_to_status_id": "1189616523997921281",
-      "in_reply_to_status_id_str": "1189616523997921281",
-      "in_reply_to_user_id": "116329337",
-      "in_reply_to_user_id_str": "116329337",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/1Qr9f9VcdX",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1189616537813929984/photo/1",
+                    "id":"1189616528079097856",
+                    "id_str":"1189616528079097856",
+                    "indices":[
+                        "259",
+                        "282"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EIJd7e8WkAAxksK.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EIJd7e8WkAAxksK.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1386"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"832"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"471"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/1Qr9f9VcdX"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"With assistance from Stefan Stefko in 1985, the form for \u201cIGS II\u201d was blown using a large, wooden mold. As with other works produced by #MarvinLipofsky overseas, \u201cIGS II\u201d was cut, ground, sandblasted, and finished at his studio in Berkeley. #CaliforniaCrafts https://t.co/1Qr9f9VcdX",
+        "id":"1189616537813929984",
+        "id_str":"1189616537813929984",
+        "in_reply_to_screen_name":"SFOMuseum",
+        "in_reply_to_status_id":"1189616523997921281",
+        "in_reply_to_status_id_str":"1189616523997921281",
+        "in_reply_to_user_id":"116329337",
+        "in_reply_to_user_id_str":"116329337",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1189616537813930000
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1189616537813930000
     },
-    "wof:country": "US",
-    "wof:created": 1602026271,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729307275,
-    "wof:lastmodified": 1602026271,
-    "wof:name": "Twitter message #1189616537813929984",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026271,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729307275,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729307275,
+    "wof:lastmodified":1602186226,
+    "wof:name":"With assistance from Stefan Stefko in 1985, the form for \u201cIGS II\u201d was blown using a large, wooden mold. As with other works produced by #MarvinLipofsky overseas, \u201cIGS II\u201d was cut, ground, sandblasted, and finished at his studio in Berkeley. #CaliforniaCrafts https://t.co/1Qr9f9VcdX",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

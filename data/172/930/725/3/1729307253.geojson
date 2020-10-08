@@ -2,80 +2,100 @@
   "id": 1729307253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-10-15T10:47:57-07:00",
-    "edtf:inception": "2019-10-15T10:47:57-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1571161677,
-      "created_at": "Tue Oct 15 17:47:57 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "140"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "14848513",
-            "id_str": "14848513",
-            "indices": [
-              "3", 
-              "15"
-            ],
-            "name": "National Air and Space Museum",
-            "screen_name": "airandspace"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @airandspace: Today in 1910, this cat made history. \n\nKiddo became the first cat to attempt to cross the Atlantic by airship. (He wasn't…",
-      "id": "1184164020070150144",
-      "id_str": "1184164020070150144",
-      "lang": "en",
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-      "truncated": false
+    "date:cessation_lower":"2019-10-15",
+    "date:cessation_upper":"2019-10-15",
+    "date:inception_lower":"2019-10-15",
+    "date:inception_upper":"2019-10-15",
+    "edtf:cessation":"2019-10-15T10:47:57-07:00",
+    "edtf:inception":"2019-10-15T10:47:57-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1571161677,
+        "created_at":"Tue Oct 15 17:47:57 +0000 2019",
+        "display_text_range":[
+            "0",
+            "140"
+        ],
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"14848513",
+                    "id_str":"14848513",
+                    "indices":[
+                        "3",
+                        "15"
+                    ],
+                    "name":"National Air and Space Museum",
+                    "screen_name":"airandspace"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @airandspace: Today in 1910, this cat made history. \n\nKiddo became the first cat to attempt to cross the Atlantic by airship. (He wasn't\u2026",
+        "id":"1184164020070150144",
+        "id_str":"1184164020070150144",
+        "lang":"en",
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1184164020070150100
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1184164020070150100
     },
-    "wof:country": "US",
-    "wof:created": 1602026270,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729307253,
-    "wof:lastmodified": 1602026270,
-    "wof:name": "Twitter message #1184164020070150144",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026270,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729307253,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729307253,
+    "wof:lastmodified":1602186324,
+    "wof:name":"RT @airandspace: Today in 1910, this cat made history. \n\nKiddo became the first cat to attempt to cross the Atlantic by airship. (He wasn't\u2026",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

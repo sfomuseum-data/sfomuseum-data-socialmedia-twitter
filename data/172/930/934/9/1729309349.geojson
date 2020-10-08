@@ -2,80 +2,100 @@
   "id": 1729309349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2012-04-24T13:17:47-07:00",
-    "edtf:inception": "2012-04-24T13:17:47-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1335298667,
-      "created_at": "Tue Apr 24 20:17:47 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "144"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/HMpdrp",
-            "expanded_url": "http://bit.ly/HMpdrp",
-            "indices": [
-              "124", 
-              "144"
-            ],
-            "url": "http://t.co/5qAPCYj0"
-          }
+    "date:cessation_lower":"2012-04-24",
+    "date:cessation_upper":"2012-04-24",
+    "date:inception_lower":"2012-04-24",
+    "date:inception_upper":"2012-04-24",
+    "edtf:cessation":"2012-04-24T13:17:47-07:00",
+    "edtf:inception":"2012-04-24T13:17:47-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1335298667,
+        "created_at":"Tue Apr 24 20:17:47 +0000 2012",
+        "display_text_range":[
+            "0",
+            "144"
         ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "The Alaskan wilderness \u0026amp; all of its splendor shines thru in Heather Meader-McCausland's photos, on view in T1, post-TSA http://t.co/5qAPCYj0",
-      "id": "194882852813406209",
-      "id_str": "194882852813406209",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/HMpdrp",
+                    "expanded_url":"http://bit.ly/HMpdrp",
+                    "indices":[
+                        "124",
+                        "144"
+                    ],
+                    "url":"http://t.co/5qAPCYj0"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"The Alaskan wilderness &amp; all of its splendor shines thru in Heather Meader-McCausland's photos, on view in T1, post-TSA http://t.co/5qAPCYj0",
+        "id":"194882852813406209",
+        "id_str":"194882852813406209",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 194882852813406200
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":194882852813406200
     },
-    "wof:country": "US",
-    "wof:created": 1602026350,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729309349,
-    "wof:lastmodified": 1602026350,
-    "wof:name": "Twitter message #194882852813406209",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026350,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729309349,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729309349,
+    "wof:lastmodified":1602186358,
+    "wof:name":"The Alaskan wilderness &amp; all of its splendor shines thru in Heather Meader-McCausland's photos, on view in T1, post-TSA http://t.co/5qAPCYj0",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

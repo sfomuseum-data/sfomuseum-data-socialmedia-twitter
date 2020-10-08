@@ -2,156 +2,176 @@
   "id": 1729307849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-02-06T19:50:04-08:00",
-    "edtf:inception": "2020-02-06T19:50:04-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1581047404,
-      "created_at": "Fri Feb 07 03:50:04 +0000 2020",
-      "display_text_range": [
-        "0", 
-        "273"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "228", 
-              "249"
-            ],
-            "text": "HarveyMilkExhibition"
-          }
+    "date:cessation_lower":"2020-02-06",
+    "date:cessation_upper":"2020-02-06",
+    "date:inception_lower":"2020-02-06",
+    "date:inception_upper":"2020-02-06",
+    "edtf:cessation":"2020-02-06T19:50:04-08:00",
+    "edtf:inception":"2020-02-06T19:50:04-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1581047404,
+        "created_at":"Fri Feb 07 03:50:04 +0000 2020",
+        "display_text_range":[
+            "0",
+            "273"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/4ze42Q9tzz",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1225627761341083648/photo/1",
-            "id": "1225627758165995520",
-            "id_str": "1225627758165995520",
-            "indices": [
-              "250", 
-              "273"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "228",
+                        "249"
+                    ],
+                    "text":"HarveyMilkExhibition"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EQJN89BXsAArcc4.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EQJN89BXsAArcc4.jpg",
-            "sizes": {
-              "large": {
-                "h": "1352",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "811",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "460",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/4ze42Q9tzz"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/4ze42Q9tzz",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1225627761341083648/photo/1",
-            "id": "1225627758165995520",
-            "id_str": "1225627758165995520",
-            "indices": [
-              "250", 
-              "273"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/4ze42Q9tzz",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1225627761341083648/photo/1",
+                    "id":"1225627758165995520",
+                    "id_str":"1225627758165995520",
+                    "indices":[
+                        "250",
+                        "273"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EQJN89BXsAArcc4.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EQJN89BXsAArcc4.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1352",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"811",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"460",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/4ze42Q9tzz"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EQJN89BXsAArcc4.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EQJN89BXsAArcc4.jpg",
-            "sizes": {
-              "large": {
-                "h": "1352",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "811",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "460",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/4ze42Q9tzz"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "In a rally against Proposition 6, Harvey Milk is joined by his friends and political allies, including co-organizer of the “No on 6” campaign, teacher Tom Ammiano (b. 1941), holding the “Gay Teachers \u0026amp; School Workers” sign. #HarveyMilkExhibition https://t.co/4ze42Q9tzz",
-      "id": "1225627761341083648",
-      "id_str": "1225627761341083648",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/4ze42Q9tzz",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1225627761341083648/photo/1",
+                    "id":"1225627758165995520",
+                    "id_str":"1225627758165995520",
+                    "indices":[
+                        "250",
+                        "273"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EQJN89BXsAArcc4.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EQJN89BXsAArcc4.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1352",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"811",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"460",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/4ze42Q9tzz"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"In a rally against Proposition 6, Harvey Milk is joined by his friends and political allies, including co-organizer of the \u201cNo on 6\u201d campaign, teacher Tom Ammiano (b. 1941), holding the \u201cGay Teachers &amp; School Workers\u201d sign. #HarveyMilkExhibition https://t.co/4ze42Q9tzz",
+        "id":"1225627761341083648",
+        "id_str":"1225627761341083648",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1225627761341083600
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1225627761341083600
     },
-    "wof:country": "US",
-    "wof:created": 1602026293,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729307849,
-    "wof:lastmodified": 1602026293,
-    "wof:name": "Twitter message #1225627761341083648",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026293,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729307849,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729307849,
+    "wof:lastmodified":1602186409,
+    "wof:name":"In a rally against Proposition 6, Harvey Milk is joined by his friends and political allies, including co-organizer of the \u201cNo on 6\u201d campaign, teacher Tom Ammiano (b. 1941), holding the \u201cGay Teachers &amp; School Workers\u201d sign. #HarveyMilkExhibition https://t.co/4ze42Q9tzz",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

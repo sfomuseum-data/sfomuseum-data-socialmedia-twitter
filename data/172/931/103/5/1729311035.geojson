@@ -2,85 +2,105 @@
   "id": 1729311035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2012-11-01T16:43:28-07:00",
-    "edtf:inception": "2012-11-01T16:43:28-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1351813408,
-      "created_at": "Thu Nov 01 23:43:28 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "126"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/i/15huT",
-            "expanded_url": "http://ow.ly/i/15huT",
-            "indices": [
-              "67", 
-              "87"
-            ],
-            "url": "http://t.co/MTszzDhh"
-          }
+    "date:cessation_lower":"2012-11-01",
+    "date:cessation_upper":"2012-11-01",
+    "date:inception_lower":"2012-11-01",
+    "date:inception_upper":"2012-11-01",
+    "edtf:cessation":"2012-11-01T16:43:28-07:00",
+    "edtf:inception":"2012-11-01T16:43:28-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1351813408,
+        "created_at":"Thu Nov 01 23:43:28 +0000 2012",
+        "display_text_range":[
+            "0",
+            "126"
         ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "@dcdomain How about the 1950s The Money Game of Junior Executive?  http://t.co/MTszzDhh   Thanks for checking out our exhibit!",
-      "id": "264150695144468482",
-      "id_str": "264150695144468482",
-      "in_reply_to_screen_name": "CTZNChan",
-      "in_reply_to_status_id": "264129556221415426",
-      "in_reply_to_status_id_str": "264129556221415426",
-      "in_reply_to_user_id": "6089432",
-      "in_reply_to_user_id_str": "6089432",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/i/15huT",
+                    "expanded_url":"http://ow.ly/i/15huT",
+                    "indices":[
+                        "67",
+                        "87"
+                    ],
+                    "url":"http://t.co/MTszzDhh"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"@dcdomain How about the 1950s The Money Game of Junior Executive?  http://t.co/MTszzDhh   Thanks for checking out our exhibit!",
+        "id":"264150695144468482",
+        "id_str":"264150695144468482",
+        "in_reply_to_screen_name":"CTZNChan",
+        "in_reply_to_status_id":"264129556221415426",
+        "in_reply_to_status_id_str":"264129556221415426",
+        "in_reply_to_user_id":"6089432",
+        "in_reply_to_user_id_str":"6089432",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 264150695144468480
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":264150695144468480
     },
-    "wof:country": "US",
-    "wof:created": 1602026416,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729311035,
-    "wof:lastmodified": 1602026416,
-    "wof:name": "Twitter message #264150695144468482",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026416,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729311035,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729311035,
+    "wof:lastmodified":1602186485,
+    "wof:name":"@dcdomain How about the 1950s The Money Game of Junior Executive?  http://t.co/MTszzDhh   Thanks for checking out our exhibit!",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

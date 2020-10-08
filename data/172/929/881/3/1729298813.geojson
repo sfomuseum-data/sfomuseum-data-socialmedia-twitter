@@ -2,302 +2,322 @@
   "id": 1729298813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-12-14T12:56:39-08:00",
-    "edtf:inception": "2016-12-14T12:56:39-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1481748999,
-      "created_at": "Wed Dec 14 20:56:39 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "95"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "53", 
-              "57"
-            ],
-            "text": "sfo"
-          }, 
-          {
-            "indices": [
-              "58", 
-              "71"
-            ],
-            "text": "planespotter"
-          }
+    "date:cessation_lower":"2016-12-14",
+    "date:cessation_upper":"2016-12-14",
+    "date:inception_lower":"2016-12-14",
+    "date:inception_upper":"2016-12-14",
+    "edtf:cessation":"2016-12-14T12:56:39-08:00",
+    "edtf:inception":"2016-12-14T12:56:39-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1481748999,
+        "created_at":"Wed Dec 14 20:56:39 +0000 2016",
+        "display_text_range":[
+            "0",
+            "95"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/31co98urof",
-            "expanded_url": "https://twitter.com/flySFO/status/809135413923225600/photo/1",
-            "id": "809135390544171008",
-            "id_str": "809135390544171008",
-            "indices": [
-              "72", 
-              "95"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "53",
+                        "57"
+                    ],
+                    "text":"sfo"
+                },
+                {
+                    "indices":[
+                        "58",
+                        "71"
+                    ],
+                    "text":"planespotter"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CzqgWciVEAAqkgJ.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CzqgWciVEAAqkgJ.jpg",
-            "sizes": {
-              "large": {
-                "h": "2048",
-                "resize": "fit",
-                "w": "1536"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "900"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "809135413923225600",
-            "source_status_id_str": "809135413923225600",
-            "source_user_id": "16408759",
-            "source_user_id_str": "16408759",
-            "type": "photo",
-            "url": "https://t.co/31co98urof"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "16408759",
-            "id_str": "16408759",
-            "indices": [
-              "3", 
-              "10"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/31co98urof",
+                    "expanded_url":"https://twitter.com/flySFO/status/809135413923225600/photo/1",
+                    "id":"809135390544171008",
+                    "id_str":"809135390544171008",
+                    "indices":[
+                        "72",
+                        "95"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CzqgWciVEAAqkgJ.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CzqgWciVEAAqkgJ.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2048",
+                            "resize":"fit",
+                            "w":"1536"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"900"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"809135413923225600",
+                    "source_status_id_str":"809135413923225600",
+                    "source_user_id":"16408759",
+                    "source_user_id_str":"16408759",
+                    "type":"photo",
+                    "url":"https://t.co/31co98urof"
+                }
             ],
-            "name": "San Francisco International Airport (SFO) ✈️",
-            "screen_name": "flySFO"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/31co98urof",
-            "expanded_url": "https://twitter.com/flySFO/status/809135413923225600/photo/1",
-            "id": "809135390544171008",
-            "id_str": "809135390544171008",
-            "indices": [
-              "72", 
-              "95"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CzqgWciVEAAqkgJ.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CzqgWciVEAAqkgJ.jpg",
-            "sizes": {
-              "large": {
-                "h": "2048",
-                "resize": "fit",
-                "w": "1536"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "900"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "809135413923225600",
-            "source_status_id_str": "809135413923225600",
-            "source_user_id": "16408759",
-            "source_user_id_str": "16408759",
-            "type": "photo",
-            "url": "https://t.co/31co98urof"
-          }, 
-          {
-            "display_url": "pic.twitter.com/31co98urof",
-            "expanded_url": "https://twitter.com/flySFO/status/809135413923225600/photo/1",
-            "id": "809135390535741440",
-            "id_str": "809135390535741440",
-            "indices": [
-              "72", 
-              "95"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CzqgWcgUcAALjdS.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CzqgWcgUcAALjdS.jpg",
-            "sizes": {
-              "large": {
-                "h": "1536",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "900",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "809135413923225600",
-            "source_status_id_str": "809135413923225600",
-            "source_user_id": "16408759",
-            "source_user_id_str": "16408759",
-            "type": "photo",
-            "url": "https://t.co/31co98urof"
-          }, 
-          {
-            "display_url": "pic.twitter.com/31co98urof",
-            "expanded_url": "https://twitter.com/flySFO/status/809135413923225600/photo/1",
-            "id": "809135389998911488",
-            "id_str": "809135389998911488",
-            "indices": [
-              "72", 
-              "95"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CzqgWagVEAA9YGw.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CzqgWagVEAA9YGw.jpg",
-            "sizes": {
-              "large": {
-                "h": "1536",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "900",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "809135413923225600",
-            "source_status_id_str": "809135413923225600",
-            "source_user_id": "16408759",
-            "source_user_id_str": "16408759",
-            "type": "photo",
-            "url": "https://t.co/31co98urof"
-          }, 
-          {
-            "display_url": "pic.twitter.com/31co98urof",
-            "expanded_url": "https://twitter.com/flySFO/status/809135413923225600/photo/1",
-            "id": "809135389998911489",
-            "id_str": "809135389998911489",
-            "indices": [
-              "72", 
-              "95"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CzqgWagVEAEDgTf.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CzqgWagVEAEDgTf.jpg",
-            "sizes": {
-              "large": {
-                "h": "2048",
-                "resize": "fit",
-                "w": "1536"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "900"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "809135413923225600",
-            "source_status_id_str": "809135413923225600",
-            "source_user_id": "16408759",
-            "source_user_id_str": "16408759",
-            "type": "photo",
-            "url": "https://t.co/31co98urof"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @flySFO: New Alaska/Virgin America merger livery. #sfo #planespotter https://t.co/31co98urof",
-      "id": "809140065335066624",
-      "id_str": "809140065335066624",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"16408759",
+                    "id_str":"16408759",
+                    "indices":[
+                        "3",
+                        "10"
+                    ],
+                    "name":"San Francisco International Airport (SFO) \u2708\ufe0f",
+                    "screen_name":"flySFO"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/31co98urof",
+                    "expanded_url":"https://twitter.com/flySFO/status/809135413923225600/photo/1",
+                    "id":"809135390544171008",
+                    "id_str":"809135390544171008",
+                    "indices":[
+                        "72",
+                        "95"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CzqgWciVEAAqkgJ.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CzqgWciVEAAqkgJ.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2048",
+                            "resize":"fit",
+                            "w":"1536"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"900"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"809135413923225600",
+                    "source_status_id_str":"809135413923225600",
+                    "source_user_id":"16408759",
+                    "source_user_id_str":"16408759",
+                    "type":"photo",
+                    "url":"https://t.co/31co98urof"
+                },
+                {
+                    "display_url":"pic.twitter.com/31co98urof",
+                    "expanded_url":"https://twitter.com/flySFO/status/809135413923225600/photo/1",
+                    "id":"809135390535741440",
+                    "id_str":"809135390535741440",
+                    "indices":[
+                        "72",
+                        "95"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CzqgWcgUcAALjdS.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CzqgWcgUcAALjdS.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1536",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"900",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"809135413923225600",
+                    "source_status_id_str":"809135413923225600",
+                    "source_user_id":"16408759",
+                    "source_user_id_str":"16408759",
+                    "type":"photo",
+                    "url":"https://t.co/31co98urof"
+                },
+                {
+                    "display_url":"pic.twitter.com/31co98urof",
+                    "expanded_url":"https://twitter.com/flySFO/status/809135413923225600/photo/1",
+                    "id":"809135389998911488",
+                    "id_str":"809135389998911488",
+                    "indices":[
+                        "72",
+                        "95"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CzqgWagVEAA9YGw.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CzqgWagVEAA9YGw.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1536",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"900",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"809135413923225600",
+                    "source_status_id_str":"809135413923225600",
+                    "source_user_id":"16408759",
+                    "source_user_id_str":"16408759",
+                    "type":"photo",
+                    "url":"https://t.co/31co98urof"
+                },
+                {
+                    "display_url":"pic.twitter.com/31co98urof",
+                    "expanded_url":"https://twitter.com/flySFO/status/809135413923225600/photo/1",
+                    "id":"809135389998911489",
+                    "id_str":"809135389998911489",
+                    "indices":[
+                        "72",
+                        "95"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CzqgWagVEAEDgTf.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CzqgWagVEAEDgTf.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2048",
+                            "resize":"fit",
+                            "w":"1536"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"900"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"809135413923225600",
+                    "source_status_id_str":"809135413923225600",
+                    "source_user_id":"16408759",
+                    "source_user_id_str":"16408759",
+                    "type":"photo",
+                    "url":"https://t.co/31co98urof"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @flySFO: New Alaska/Virgin America merger livery. #sfo #planespotter https://t.co/31co98urof",
+        "id":"809140065335066624",
+        "id_str":"809140065335066624",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 809140065335066600
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":809140065335066600
     },
-    "wof:country": "US",
-    "wof:created": 1602025949,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729298813,
-    "wof:lastmodified": 1602025949,
-    "wof:name": "Twitter message #809140065335066624",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025949,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729298813,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729298813,
+    "wof:lastmodified":1602186576,
+    "wof:name":"RT @flySFO: New Alaska/Virgin America merger livery. #sfo #planespotter https://t.co/31co98urof",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

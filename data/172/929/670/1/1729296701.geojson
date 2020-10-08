@@ -2,156 +2,176 @@
   "id": 1729296701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-06-22T15:10:12-07:00",
-    "edtf:inception": "2016-06-22T15:10:12-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1466633412,
-      "created_at": "Wed Jun 22 22:10:12 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "132"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "92", 
-              "108"
-            ],
-            "text": "WomenInAviation"
-          }
+    "date:cessation_lower":"2016-06-22",
+    "date:cessation_upper":"2016-06-22",
+    "date:inception_lower":"2016-06-22",
+    "date:inception_upper":"2016-06-22",
+    "edtf:cessation":"2016-06-22T15:10:12-07:00",
+    "edtf:inception":"2016-06-22T15:10:12-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1466633412,
+        "created_at":"Wed Jun 22 22:10:12 +0000 2016",
+        "display_text_range":[
+            "0",
+            "132"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/ZP8D9cJ7o6",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/745740697324617729/photo/1",
-            "id": "745740690739572738",
-            "id_str": "745740690739572738",
-            "indices": [
-              "109", 
-              "132"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "92",
+                        "108"
+                    ],
+                    "text":"WomenInAviation"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CllnNQYWMAI9P8b.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CllnNQYWMAI9P8b.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "867"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "520"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "295"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/ZP8D9cJ7o6"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/ZP8D9cJ7o6",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/745740697324617729/photo/1",
-            "id": "745740690739572738",
-            "id_str": "745740690739572738",
-            "indices": [
-              "109", 
-              "132"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/ZP8D9cJ7o6",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/745740697324617729/photo/1",
+                    "id":"745740690739572738",
+                    "id_str":"745740690739572738",
+                    "indices":[
+                        "109",
+                        "132"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CllnNQYWMAI9P8b.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CllnNQYWMAI9P8b.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"867"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"520"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"295"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/ZP8D9cJ7o6"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CllnNQYWMAI9P8b.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CllnNQYWMAI9P8b.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "867"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "520"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "295"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/ZP8D9cJ7o6"
-          }
-        ]
-      },
-      "favorite_count": "4",
-      "favorited": false,
-      "full_text": "Swirling in a Sundance Yellow cape, this Hughes Airwest stewardess models her 1972 uniform. #WomenInAviation https://t.co/ZP8D9cJ7o6",
-      "id": "745740697324617729",
-      "id_str": "745740697324617729",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/ZP8D9cJ7o6",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/745740697324617729/photo/1",
+                    "id":"745740690739572738",
+                    "id_str":"745740690739572738",
+                    "indices":[
+                        "109",
+                        "132"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CllnNQYWMAI9P8b.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CllnNQYWMAI9P8b.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"867"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"520"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"295"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/ZP8D9cJ7o6"
+                }
+            ]
+        },
+        "favorite_count":"4",
+        "favorited":false,
+        "full_text":"Swirling in a Sundance Yellow cape, this Hughes Airwest stewardess models her 1972 uniform. #WomenInAviation https://t.co/ZP8D9cJ7o6",
+        "id":"745740697324617729",
+        "id_str":"745740697324617729",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 745740697324617700
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":745740697324617700
     },
-    "wof:country": "US",
-    "wof:created": 1602025868,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729296701,
-    "wof:lastmodified": 1602025868,
-    "wof:name": "Twitter message #745740697324617729",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025868,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729296701,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729296701,
+    "wof:lastmodified":1602186661,
+    "wof:name":"Swirling in a Sundance Yellow cape, this Hughes Airwest stewardess models her 1972 uniform. #WomenInAviation https://t.co/ZP8D9cJ7o6",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

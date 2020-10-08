@@ -2,187 +2,207 @@
   "id": 1729305683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-03-22T17:30:07-07:00",
-    "edtf:inception": "2019-03-22T17:30:07-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1553301007,
-      "created_at": "Sat Mar 23 00:30:07 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "198"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "119", 
-              "131"
-            ],
-            "text": "YayoiKusama"
-          }, 
-          {
-            "indices": [
-              "132", 
-              "139"
-            ],
-            "text": "Kusama"
-          }, 
-          {
-            "indices": [
-              "140", 
-              "159"
-            ],
-            "text": "WomensHistoryMonth"
-          }, 
-          {
-            "indices": [
-              "160", 
-              "174"
-            ],
-            "text": "5WomenArtists"
-          }
+    "date:cessation_lower":"2019-03-22",
+    "date:cessation_upper":"2019-03-22",
+    "date:inception_lower":"2019-03-22",
+    "date:inception_upper":"2019-03-22",
+    "edtf:cessation":"2019-03-22T17:30:07-07:00",
+    "edtf:inception":"2019-03-22T17:30:07-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1553301007,
+        "created_at":"Sat Mar 23 00:30:07 +0000 2019",
+        "display_text_range":[
+            "0",
+            "198"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/nNTqioNq9t",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1109250939326787584/photo/1",
-            "id": "1109250937078591488",
-            "id_str": "1109250937078591488",
-            "indices": [
-              "175", 
-              "198"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "119",
+                        "131"
+                    ],
+                    "text":"YayoiKusama"
+                },
+                {
+                    "indices":[
+                        "132",
+                        "139"
+                    ],
+                    "text":"Kusama"
+                },
+                {
+                    "indices":[
+                        "140",
+                        "159"
+                    ],
+                    "text":"WomensHistoryMonth"
+                },
+                {
+                    "indices":[
+                        "160",
+                        "174"
+                    ],
+                    "text":"5WomenArtists"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/D2TZ2adWsAACNKQ.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/D2TZ2adWsAACNKQ.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1353"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "812"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "460"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/nNTqioNq9t"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/KusamaSFO",
-            "expanded_url": "http://bit.ly/KusamaSFO",
-            "indices": [
-              "95", 
-              "118"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/nNTqioNq9t",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1109250939326787584/photo/1",
+                    "id":"1109250937078591488",
+                    "id_str":"1109250937078591488",
+                    "indices":[
+                        "175",
+                        "198"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/D2TZ2adWsAACNKQ.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/D2TZ2adWsAACNKQ.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1353"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"812"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"460"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/nNTqioNq9t"
+                }
             ],
-            "url": "https://t.co/GHvydbyyV9"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/nNTqioNq9t",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1109250939326787584/photo/1",
-            "id": "1109250937078591488",
-            "id_str": "1109250937078591488",
-            "indices": [
-              "175", 
-              "198"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/KusamaSFO",
+                    "expanded_url":"http://bit.ly/KusamaSFO",
+                    "indices":[
+                        "95",
+                        "118"
+                    ],
+                    "url":"https://t.co/GHvydbyyV9"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/D2TZ2adWsAACNKQ.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/D2TZ2adWsAACNKQ.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1353"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "812"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "460"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/nNTqioNq9t"
-          }
-        ]
-      },
-      "favorite_count": "2",
-      "favorited": false,
-      "full_text": "\"High Heels for Going to Heaven\" by Yayoi Kusama, is on display, post-security, in Terminal 1. https://t.co/GHvydbyyV9 #YayoiKusama #Kusama #WomensHistoryMonth #5WomenArtists https://t.co/nNTqioNq9t",
-      "id": "1109250939326787584",
-      "id_str": "1109250939326787584",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/nNTqioNq9t",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1109250939326787584/photo/1",
+                    "id":"1109250937078591488",
+                    "id_str":"1109250937078591488",
+                    "indices":[
+                        "175",
+                        "198"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/D2TZ2adWsAACNKQ.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/D2TZ2adWsAACNKQ.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1353"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"812"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"460"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/nNTqioNq9t"
+                }
+            ]
+        },
+        "favorite_count":"2",
+        "favorited":false,
+        "full_text":"\"High Heels for Going to Heaven\" by Yayoi Kusama, is on display, post-security, in Terminal 1. https://t.co/GHvydbyyV9 #YayoiKusama #Kusama #WomensHistoryMonth #5WomenArtists https://t.co/nNTqioNq9t",
+        "id":"1109250939326787584",
+        "id_str":"1109250939326787584",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1109250939326787600
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1109250939326787600
     },
-    "wof:country": "US",
-    "wof:created": 1602026210,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729305683,
-    "wof:lastmodified": 1602026210,
-    "wof:name": "Twitter message #1109250939326787584",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026210,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729305683,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729305683,
+    "wof:lastmodified":1602186254,
+    "wof:name":"\"High Heels for Going to Heaven\" by Yayoi Kusama, is on display, post-security, in Terminal 1. https://t.co/GHvydbyyV9 #YayoiKusama #Kusama #WomensHistoryMonth #5WomenArtists https://t.co/nNTqioNq9t",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

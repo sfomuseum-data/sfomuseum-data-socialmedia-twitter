@@ -2,126 +2,146 @@
   "id": 1729291327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2013-12-20T11:33:36-08:00",
-    "edtf:inception": "2013-12-20T11:33:36-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1387568016,
-      "created_at": "Fri Dec 20 19:33:36 +0000 2013",
-      "display_text_range": [
-        "0", 
-        "140"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "20", 
-              "30"
-            ],
-            "text": "traveling"
-          }, 
-          {
-            "indices": [
-              "80", 
-              "90"
-            ],
-            "text": "publicart"
-          }
+    "date:cessation_lower":"2013-12-20",
+    "date:cessation_upper":"2013-12-20",
+    "date:inception_lower":"2013-12-20",
+    "date:inception_upper":"2013-12-20",
+    "edtf:cessation":"2013-12-20T11:33:36-08:00",
+    "edtf:inception":"2013-12-20T11:33:36-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1387568016,
+        "created_at":"Fri Dec 20 19:33:36 +0000 2013",
+        "display_text_range":[
+            "0",
+            "140"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "artandarchitecture-sf.com",
-            "expanded_url": "http://www.artandarchitecture-sf.com/",
-            "indices": [
-              "102", 
-              "124"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "20",
+                        "30"
+                    ],
+                    "text":"traveling"
+                },
+                {
+                    "indices":[
+                        "80",
+                        "90"
+                    ],
+                    "text":"publicart"
+                }
             ],
-            "url": "http://t.co/QJaKA5XxT4"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "264902617",
-            "id_str": "264902617",
-            "indices": [
-              "3", 
-              "9"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"artandarchitecture-sf.com",
+                    "expanded_url":"http://www.artandarchitecture-sf.com/",
+                    "indices":[
+                        "102",
+                        "124"
+                    ],
+                    "url":"http://t.co/QJaKA5XxT4"
+                }
             ],
-            "name": "Art and Architecture",
-            "screen_name": "PQPP3"
-          }, 
-          {
-            "id": "16408759",
-            "id_str": "16408759",
-            "indices": [
-              "48", 
-              "55"
-            ],
-            "name": "San Francisco International Airport (SFO) ✈️",
-            "screen_name": "flySFO"
-          }, 
-          {
-            "id": "116329337",
-            "id_str": "116329337",
-            "indices": [
-              "91", 
-              "101"
-            ],
-            "name": "SFO Museum",
-            "screen_name": "SFOMuseum"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @PQPP3: If you r #traveling this season thru @flysfo check out all the great #publicart @SFOMuseum http://t.co/QJaKA5XxT4 http://t.co/I8…",
-      "id": "414116390577405952",
-      "id_str": "414116390577405952",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"264902617",
+                    "id_str":"264902617",
+                    "indices":[
+                        "3",
+                        "9"
+                    ],
+                    "name":"Art and Architecture",
+                    "screen_name":"PQPP3"
+                },
+                {
+                    "id":"16408759",
+                    "id_str":"16408759",
+                    "indices":[
+                        "48",
+                        "55"
+                    ],
+                    "name":"San Francisco International Airport (SFO) \u2708\ufe0f",
+                    "screen_name":"flySFO"
+                },
+                {
+                    "id":"116329337",
+                    "id_str":"116329337",
+                    "indices":[
+                        "91",
+                        "101"
+                    ],
+                    "name":"SFO Museum",
+                    "screen_name":"SFOMuseum"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @PQPP3: If you r #traveling this season thru @flysfo check out all the great #publicart @SFOMuseum http://t.co/QJaKA5XxT4 http://t.co/I8\u2026",
+        "id":"414116390577405952",
+        "id_str":"414116390577405952",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 414116390577405950
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":414116390577405950
     },
-    "wof:country": "US",
-    "wof:created": 1602025666,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729291327,
-    "wof:lastmodified": 1602025666,
-    "wof:name": "Twitter message #414116390577405952",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025666,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729291327,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729291327,
+    "wof:lastmodified":1602186591,
+    "wof:name":"RT @PQPP3: If you r #traveling this season thru @flysfo check out all the great #publicart @SFOMuseum http://t.co/QJaKA5XxT4 http://t.co/I8\u2026",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

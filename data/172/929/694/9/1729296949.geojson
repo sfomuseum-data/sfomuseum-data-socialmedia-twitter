@@ -2,91 +2,111 @@
   "id": 1729296949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-07-18T14:20:17-07:00",
-    "edtf:inception": "2016-07-18T14:20:17-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1468876817,
-      "created_at": "Mon Jul 18 21:20:17 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "138"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "wired.com/2016/07/where-…",
-            "expanded_url": "https://www.wired.com/2016/07/where-checked-bags-go-airport/",
-            "indices": [
-              "115", 
-              "138"
-            ],
-            "url": "https://t.co/Nd3LBHY6vL"
-          }
+    "date:cessation_lower":"2016-07-18",
+    "date:cessation_upper":"2016-07-18",
+    "date:inception_lower":"2016-07-18",
+    "date:inception_upper":"2016-07-18",
+    "edtf:cessation":"2016-07-18T14:20:17-07:00",
+    "edtf:inception":"2016-07-18T14:20:17-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1468876817,
+        "created_at":"Mon Jul 18 21:20:17 +0000 2016",
+        "display_text_range":[
+            "0",
+            "138"
         ],
-        "user_mentions": [
-          {
-            "id": "1344951",
-            "id_str": "1344951",
-            "indices": [
-              "100", 
-              "106"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"wired.com/2016/07/where-\u2026",
+                    "expanded_url":"https://www.wired.com/2016/07/where-checked-bags-go-airport/",
+                    "indices":[
+                        "115",
+                        "138"
+                    ],
+                    "url":"https://t.co/Nd3LBHY6vL"
+                }
             ],
-            "name": "WIRED",
-            "screen_name": "WIRED"
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "Ever wonder what your check-in bag's journey from your hand to the plane looks like? Check out this @WIRED​ video! https://t.co/Nd3LBHY6vL",
-      "id": "755150219554152449",
-      "id_str": "755150219554152449",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"1344951",
+                    "id_str":"1344951",
+                    "indices":[
+                        "100",
+                        "106"
+                    ],
+                    "name":"WIRED",
+                    "screen_name":"WIRED"
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"Ever wonder what your check-in bag's journey from your hand to the plane looks like? Check out this @WIRED\u200b video! https://t.co/Nd3LBHY6vL",
+        "id":"755150219554152449",
+        "id_str":"755150219554152449",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 755150219554152400
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":755150219554152400
     },
-    "wof:country": "US",
-    "wof:created": 1602025878,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729296949,
-    "wof:lastmodified": 1602025878,
-    "wof:name": "Twitter message #755150219554152449",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025878,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729296949,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729296949,
+    "wof:lastmodified":1602186723,
+    "wof:name":"Ever wonder what your check-in bag's journey from your hand to the plane looks like? Check out this @WIRED\u200b video! https://t.co/Nd3LBHY6vL",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

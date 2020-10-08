@@ -2,170 +2,190 @@
   "id": 1729307037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-09-19T11:13:19-07:00",
-    "edtf:inception": "2019-09-19T11:13:19-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1568916799,
-      "created_at": "Thu Sep 19 18:13:19 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "297"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "29", 
-              "36"
-            ],
-            "text": "Boeing"
-          }, 
-          {
-            "indices": [
-              "41", 
-              "55"
-            ],
-            "text": "Stratocruiser"
-          }, 
-          {
-            "indices": [
-              "266", 
-              "273"
-            ],
-            "text": "avgeek"
-          }
+    "date:cessation_lower":"2019-09-19",
+    "date:cessation_upper":"2019-09-19",
+    "date:inception_lower":"2019-09-19",
+    "date:inception_upper":"2019-09-19",
+    "edtf:cessation":"2019-09-19T11:13:19-07:00",
+    "edtf:inception":"2019-09-19T11:13:19-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1568916799,
+        "created_at":"Thu Sep 19 18:13:19 +0000 2019",
+        "display_text_range":[
+            "0",
+            "297"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/GQusYDrvTo",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1174748317709828096/photo/1",
-            "id": "1174748314551513088",
-            "id_str": "1174748314551513088",
-            "indices": [
-              "274", 
-              "297"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "29",
+                        "36"
+                    ],
+                    "text":"Boeing"
+                },
+                {
+                    "indices":[
+                        "41",
+                        "55"
+                    ],
+                    "text":"Stratocruiser"
+                },
+                {
+                    "indices":[
+                        "266",
+                        "273"
+                    ],
+                    "text":"avgeek"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EE2LXjVU8AAJ8q_.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EE2LXjVU8AAJ8q_.jpg",
-            "sizes": {
-              "large": {
-                "h": "1195",
-                "resize": "fit",
-                "w": "1723"
-              },
-              "medium": {
-                "h": "832",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "472",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/GQusYDrvTo"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/GQusYDrvTo",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1174748317709828096/photo/1",
-            "id": "1174748314551513088",
-            "id_str": "1174748314551513088",
-            "indices": [
-              "274", 
-              "297"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/GQusYDrvTo",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1174748317709828096/photo/1",
+                    "id":"1174748314551513088",
+                    "id_str":"1174748314551513088",
+                    "indices":[
+                        "274",
+                        "297"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EE2LXjVU8AAJ8q_.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EE2LXjVU8AAJ8q_.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1195",
+                            "resize":"fit",
+                            "w":"1723"
+                        },
+                        "medium":{
+                            "h":"832",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"472",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/GQusYDrvTo"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EE2LXjVU8AAJ8q_.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EE2LXjVU8AAJ8q_.jpg",
-            "sizes": {
-              "large": {
-                "h": "1195",
-                "resize": "fit",
-                "w": "1723"
-              },
-              "medium": {
-                "h": "832",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "472",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/GQusYDrvTo"
-          }
-        ]
-      },
-      "favorite_count": "55",
-      "favorited": false,
-      "full_text": "When introduced in 1949, the #Boeing 377 #Stratocruiser was considered the most luxurious airliner aloft. The Stratocruiser’s unique, “double-bubble” fuselage was equipped with two decks; the upper contained a main cabin, while the lower featured a cocktail lounge. #avgeek https://t.co/GQusYDrvTo",
-      "id": "1174748317709828096",
-      "id_str": "1174748317709828096",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "18",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/GQusYDrvTo",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1174748317709828096/photo/1",
+                    "id":"1174748314551513088",
+                    "id_str":"1174748314551513088",
+                    "indices":[
+                        "274",
+                        "297"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EE2LXjVU8AAJ8q_.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EE2LXjVU8AAJ8q_.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1195",
+                            "resize":"fit",
+                            "w":"1723"
+                        },
+                        "medium":{
+                            "h":"832",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"472",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/GQusYDrvTo"
+                }
+            ]
+        },
+        "favorite_count":"55",
+        "favorited":false,
+        "full_text":"When introduced in 1949, the #Boeing 377 #Stratocruiser was considered the most luxurious airliner aloft. The Stratocruiser\u2019s unique, \u201cdouble-bubble\u201d fuselage was equipped with two decks; the upper contained a main cabin, while the lower featured a cocktail lounge. #avgeek https://t.co/GQusYDrvTo",
+        "id":"1174748317709828096",
+        "id_str":"1174748317709828096",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"18",
+        "retweeted":false,
+        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1174748317709828000
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1174748317709828000
     },
-    "wof:country": "US",
-    "wof:created": 1602026262,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729307037,
-    "wof:lastmodified": 1602026262,
-    "wof:name": "Twitter message #1174748317709828096",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026262,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729307037,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729307037,
+    "wof:lastmodified":1602186437,
+    "wof:name":"When introduced in 1949, the #Boeing 377 #Stratocruiser was considered the most luxurious airliner aloft. The Stratocruiser\u2019s unique, \u201cdouble-bubble\u201d fuselage was equipped with two decks; the upper contained a main cabin, while the lower featured a cocktail lounge. #avgeek https://t.co/GQusYDrvTo",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,218 +2,238 @@
   "id": 1729307437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-12-04T09:53:02-08:00",
-    "edtf:inception": "2019-12-04T09:53:02-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1575481982,
-      "created_at": "Wed Dec 04 17:53:02 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "293"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "109", 
-              "114"
-            ],
-            "text": "Hopi"
-          }, 
-          {
-            "indices": [
-              "116", 
-              "123"
-            ],
-            "text": "Navajo"
-          }, 
-          {
-            "indices": [
-              "129", 
-              "133"
-            ],
-            "text": "Ute"
-          }, 
-          {
-            "indices": [
-              "255", 
-              "269"
-            ],
-            "text": "VideoArtsSFOM"
-          }
+    "date:cessation_lower":"2019-12-04",
+    "date:cessation_upper":"2019-12-04",
+    "date:inception_lower":"2019-12-04",
+    "date:inception_upper":"2019-12-04",
+    "edtf:cessation":"2019-12-04T09:53:02-08:00",
+    "edtf:inception":"2019-12-04T09:53:02-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1575481982,
+        "created_at":"Wed Dec 04 17:53:02 +0000 2019",
+        "display_text_range":[
+            "0",
+            "293"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/eldOS8tD6c",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1202284692591935488/video/1",
-            "id": "1202284591127511040",
-            "id_str": "1202284591127511040",
-            "indices": [
-              "270", 
-              "293"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202284591127511040/pu/img/uBjSbjL5IPGnEvrz.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202284591127511040/pu/img/uBjSbjL5IPGnEvrz.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/eldOS8tD6c"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/2P7Vy1K",
-            "expanded_url": "http://bit.ly/2P7Vy1K",
-            "indices": [
-              "231", 
-              "254"
-            ],
-            "url": "https://t.co/0GJ2OnNtsT"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "additional_media_info": {
-              "monetizable": false
-            },
-            "display_url": "pic.twitter.com/eldOS8tD6c",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1202284692591935488/video/1",
-            "id": "1202284591127511040",
-            "id_str": "1202284591127511040",
-            "indices": [
-              "270", 
-              "293"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202284591127511040/pu/img/uBjSbjL5IPGnEvrz.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202284591127511040/pu/img/uBjSbjL5IPGnEvrz.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "video",
-            "url": "https://t.co/eldOS8tD6c",
-            "video_info": {
-              "aspect_ratio": [
-                "16", 
-                "9"
-              ],
-              "duration_millis": "43001",
-              "variants": [
+        "entities":{
+            "hashtags":[
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1202284591127511040/pu/pl/Ekcqc_huQfMVrvDH.m3u8?tag=10"
-                }, 
+                    "indices":[
+                        "109",
+                        "114"
+                    ],
+                    "text":"Hopi"
+                },
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1202284591127511040/pu/vid/480x270/aAJj7a_hFlsnns0-.mp4?tag=10"
-                }, 
+                    "indices":[
+                        "116",
+                        "123"
+                    ],
+                    "text":"Navajo"
+                },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1202284591127511040/pu/vid/640x360/q-UN80mBi_2YfSpO.mp4?tag=10"
-                }, 
+                    "indices":[
+                        "129",
+                        "133"
+                    ],
+                    "text":"Ute"
+                },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1202284591127511040/pu/vid/1280x720/sDVCYTaJKMOyuY4_.mp4?tag=10"
+                    "indices":[
+                        "255",
+                        "269"
+                    ],
+                    "text":"VideoArtsSFOM"
                 }
-              ]
-            }
-          }
-        ]
-      },
-      "favorite_count": "2",
-      "favorited": false,
-      "full_text": "NOW PLAYING: \"Sacred Strides\" by Forest Woodward, Anna Callaghan, and Marie Sullivan. Relay runners from the #Hopi, #Navajo, and #Ute nations converge to send a message of unity and collective concern for a threatened public land. https://t.co/0GJ2OnNtsT #VideoArtsSFOM https://t.co/eldOS8tD6c",
-      "id": "1202284692591935488",
-      "id_str": "1202284692591935488",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "4",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-      "truncated": false
+            ],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/eldOS8tD6c",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1202284692591935488/video/1",
+                    "id":"1202284591127511040",
+                    "id_str":"1202284591127511040",
+                    "indices":[
+                        "270",
+                        "293"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/1202284591127511040/pu/img/uBjSbjL5IPGnEvrz.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/1202284591127511040/pu/img/uBjSbjL5IPGnEvrz.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/eldOS8tD6c"
+                }
+            ],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/2P7Vy1K",
+                    "expanded_url":"http://bit.ly/2P7Vy1K",
+                    "indices":[
+                        "231",
+                        "254"
+                    ],
+                    "url":"https://t.co/0GJ2OnNtsT"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "additional_media_info":{
+                        "monetizable":false
+                    },
+                    "display_url":"pic.twitter.com/eldOS8tD6c",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1202284692591935488/video/1",
+                    "id":"1202284591127511040",
+                    "id_str":"1202284591127511040",
+                    "indices":[
+                        "270",
+                        "293"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/1202284591127511040/pu/img/uBjSbjL5IPGnEvrz.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/1202284591127511040/pu/img/uBjSbjL5IPGnEvrz.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"video",
+                    "url":"https://t.co/eldOS8tD6c",
+                    "video_info":{
+                        "aspect_ratio":[
+                            "16",
+                            "9"
+                        ],
+                        "duration_millis":"43001",
+                        "variants":[
+                            {
+                                "content_type":"application/x-mpegURL",
+                                "url":"https://video.twimg.com/ext_tw_video/1202284591127511040/pu/pl/Ekcqc_huQfMVrvDH.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate":"256000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1202284591127511040/pu/vid/480x270/aAJj7a_hFlsnns0-.mp4?tag=10"
+                            },
+                            {
+                                "bitrate":"832000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1202284591127511040/pu/vid/640x360/q-UN80mBi_2YfSpO.mp4?tag=10"
+                            },
+                            {
+                                "bitrate":"2176000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1202284591127511040/pu/vid/1280x720/sDVCYTaJKMOyuY4_.mp4?tag=10"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count":"2",
+        "favorited":false,
+        "full_text":"NOW PLAYING: \"Sacred Strides\" by Forest Woodward, Anna Callaghan, and Marie Sullivan. Relay runners from the #Hopi, #Navajo, and #Ute nations converge to send a message of unity and collective concern for a threatened public land. https://t.co/0GJ2OnNtsT #VideoArtsSFOM https://t.co/eldOS8tD6c",
+        "id":"1202284692591935488",
+        "id_str":"1202284692591935488",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"4",
+        "retweeted":false,
+        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1202284692591935500
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1202284692591935500
     },
-    "wof:country": "US",
-    "wof:created": 1602026277,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729307437,
-    "wof:lastmodified": 1602026277,
-    "wof:name": "Twitter message #1202284692591935488",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026277,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729307437,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729307437,
+    "wof:lastmodified":1602186306,
+    "wof:name":"NOW PLAYING: \"Sacred Strides\" by Forest Woodward, Anna Callaghan, and Marie Sullivan. Relay runners from the #Hopi, #Navajo, and #Ute nations converge to send a message of unity and collective concern for a threatened public land. https://t.co/0GJ2OnNtsT #VideoArtsSFOM https://t.co/eldOS8tD6c",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

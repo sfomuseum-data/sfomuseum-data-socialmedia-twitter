@@ -2,166 +2,186 @@
   "id": 1729304453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2018-10-17T16:00:33-07:00",
-    "edtf:inception": "2018-10-17T16:00:33-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1539817233,
-      "created_at": "Wed Oct 17 23:00:33 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "291"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "59", 
-              "71"
-            ],
-            "text": "PanAmerican"
-          }
+    "date:cessation_lower":"2018-10-17",
+    "date:cessation_upper":"2018-10-17",
+    "date:inception_lower":"2018-10-17",
+    "date:inception_upper":"2018-10-17",
+    "edtf:cessation":"2018-10-17T16:00:33-07:00",
+    "edtf:inception":"2018-10-17T16:00:33-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1539817233,
+        "created_at":"Wed Oct 17 23:00:33 +0000 2018",
+        "display_text_range":[
+            "0",
+            "291"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/9OrOwGhlHu",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1052695892237709312/photo/1",
-            "id": "1052695889897299968",
-            "id_str": "1052695889897299968",
-            "indices": [
-              "268", 
-              "291"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "59",
+                        "71"
+                    ],
+                    "text":"PanAmerican"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DpvtVZ3XoAAAIDQ.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DpvtVZ3XoAAAIDQ.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1955"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1173"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "665"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/9OrOwGhlHu"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/2bGUhwP",
-            "expanded_url": "http://bit.ly/2bGUhwP",
-            "indices": [
-              "244", 
-              "267"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/9OrOwGhlHu",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1052695892237709312/photo/1",
+                    "id":"1052695889897299968",
+                    "id_str":"1052695889897299968",
+                    "indices":[
+                        "268",
+                        "291"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DpvtVZ3XoAAAIDQ.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DpvtVZ3XoAAAIDQ.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1955"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1173"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"665"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/9OrOwGhlHu"
+                }
             ],
-            "url": "https://t.co/cRvYfLlHsv"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/9OrOwGhlHu",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1052695892237709312/photo/1",
-            "id": "1052695889897299968",
-            "id_str": "1052695889897299968",
-            "indices": [
-              "268", 
-              "291"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/2bGUhwP",
+                    "expanded_url":"http://bit.ly/2bGUhwP",
+                    "indices":[
+                        "244",
+                        "267"
+                    ],
+                    "url":"https://t.co/cRvYfLlHsv"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DpvtVZ3XoAAAIDQ.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DpvtVZ3XoAAAIDQ.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1955"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1173"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "665"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/9OrOwGhlHu"
-          }
-        ]
-      },
-      "favorite_count": "9",
-      "favorited": false,
-      "full_text": "World Wings International, Inc., an organization of former #PanAmerican flight attendants, conducted career surveys among their former colleagues which were later donated to SFO Museum. Photos of a selection of participants are on our website: https://t.co/cRvYfLlHsv https://t.co/9OrOwGhlHu",
-      "id": "1052695892237709312",
-      "id_str": "1052695892237709312",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/9OrOwGhlHu",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1052695892237709312/photo/1",
+                    "id":"1052695889897299968",
+                    "id_str":"1052695889897299968",
+                    "indices":[
+                        "268",
+                        "291"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DpvtVZ3XoAAAIDQ.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DpvtVZ3XoAAAIDQ.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1955"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1173"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"665"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/9OrOwGhlHu"
+                }
+            ]
+        },
+        "favorite_count":"9",
+        "favorited":false,
+        "full_text":"World Wings International, Inc., an organization of former #PanAmerican flight attendants, conducted career surveys among their former colleagues which were later donated to SFO Museum. Photos of a selection of participants are on our website: https://t.co/cRvYfLlHsv https://t.co/9OrOwGhlHu",
+        "id":"1052695892237709312",
+        "id_str":"1052695892237709312",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1052695892237709300
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1052695892237709300
     },
-    "wof:country": "US",
-    "wof:created": 1602026163,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729304453,
-    "wof:lastmodified": 1602026163,
-    "wof:name": "Twitter message #1052695892237709312",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026163,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729304453,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729304453,
+    "wof:lastmodified":1602186310,
+    "wof:name":"World Wings International, Inc., an organization of former #PanAmerican flight attendants, conducted career surveys among their former colleagues which were later donated to SFO Museum. Photos of a selection of participants are on our website: https://t.co/cRvYfLlHsv https://t.co/9OrOwGhlHu",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

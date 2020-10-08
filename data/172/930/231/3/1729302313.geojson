@@ -2,184 +2,204 @@
   "id": 1729302313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2018-02-05T11:25:06-08:00",
-    "edtf:inception": "2018-02-05T11:25:06-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1517858706,
-      "created_at": "Mon Feb 05 19:25:06 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "185"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/3bOVVmN7J3",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/960595156087996417/photo/1",
-            "id": "960595150035701760",
-            "id_str": "960595150035701760",
-            "indices": [
-              "162", 
-              "185"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DVS4MxLXUAA7-1P.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DVS4MxLXUAA7-1P.jpg",
-            "sizes": {
-              "large": {
-                "h": "1473",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "884",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "501",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/3bOVVmN7J3"
-          }
+    "date:cessation_lower":"2018-02-05",
+    "date:cessation_upper":"2018-02-05",
+    "date:inception_lower":"2018-02-05",
+    "date:inception_upper":"2018-02-05",
+    "edtf:cessation":"2018-02-05T11:25:06-08:00",
+    "edtf:inception":"2018-02-05T11:25:06-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1517858706,
+        "created_at":"Mon Feb 05 19:25:06 +0000 2018",
+        "display_text_range":[
+            "0",
+            "185"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/3bOVVmN7J3",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/960595156087996417/photo/1",
-            "id": "960595150035701760",
-            "id_str": "960595150035701760",
-            "indices": [
-              "162", 
-              "185"
+        "entities":{
+            "hashtags":[],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/3bOVVmN7J3",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/960595156087996417/photo/1",
+                    "id":"960595150035701760",
+                    "id_str":"960595150035701760",
+                    "indices":[
+                        "162",
+                        "185"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DVS4MxLXUAA7-1P.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DVS4MxLXUAA7-1P.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1473",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"884",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"501",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/3bOVVmN7J3"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DVS4MxLXUAA7-1P.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DVS4MxLXUAA7-1P.jpg",
-            "sizes": {
-              "large": {
-                "h": "1473",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "884",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "501",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/3bOVVmN7J3"
-          }, 
-          {
-            "display_url": "pic.twitter.com/3bOVVmN7J3",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/960595156087996417/photo/1",
-            "id": "960595152023715841",
-            "id_str": "960595152023715841",
-            "indices": [
-              "162", 
-              "185"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DVS4M4lWAAEM3Xk.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DVS4M4lWAAEM3Xk.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1022"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "613"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "347"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/3bOVVmN7J3"
-          }
-        ]
-      },
-      "favorite_count": "6",
-      "favorited": false,
-      "full_text": "\"Completely New in Comfort and Fresh, Smart Styling\" TECO advertised their seats in TWA's Lockheed L-1049G Super Constellation as the ultimate passenger comfort. https://t.co/3bOVVmN7J3",
-      "id": "960595156087996417",
-      "id_str": "960595156087996417",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "3",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/3bOVVmN7J3",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/960595156087996417/photo/1",
+                    "id":"960595150035701760",
+                    "id_str":"960595150035701760",
+                    "indices":[
+                        "162",
+                        "185"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DVS4MxLXUAA7-1P.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DVS4MxLXUAA7-1P.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1473",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"884",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"501",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/3bOVVmN7J3"
+                },
+                {
+                    "display_url":"pic.twitter.com/3bOVVmN7J3",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/960595156087996417/photo/1",
+                    "id":"960595152023715841",
+                    "id_str":"960595152023715841",
+                    "indices":[
+                        "162",
+                        "185"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DVS4M4lWAAEM3Xk.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DVS4M4lWAAEM3Xk.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1022"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"613"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"347"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/3bOVVmN7J3"
+                }
+            ]
+        },
+        "favorite_count":"6",
+        "favorited":false,
+        "full_text":"\"Completely New in Comfort and Fresh, Smart Styling\" TECO advertised their seats in TWA's Lockheed L-1049G Super Constellation as the ultimate passenger comfort. https://t.co/3bOVVmN7J3",
+        "id":"960595156087996417",
+        "id_str":"960595156087996417",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"3",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 960595156087996400
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":960595156087996400
     },
-    "wof:country": "US",
-    "wof:created": 1602026078,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729302313,
-    "wof:lastmodified": 1602026078,
-    "wof:name": "Twitter message #960595156087996417",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026078,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729302313,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729302313,
+    "wof:lastmodified":1602186234,
+    "wof:name":"\"Completely New in Comfort and Fresh, Smart Styling\" TECO advertised their seats in TWA's Lockheed L-1049G Super Constellation as the ultimate passenger comfort. https://t.co/3bOVVmN7J3",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

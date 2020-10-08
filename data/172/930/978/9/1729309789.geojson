@@ -2,91 +2,111 @@
   "id": 1729309789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2012-06-13T13:05:25-07:00",
-    "edtf:inception": "2012-06-13T13:05:25-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1339617925,
-      "created_at": "Wed Jun 13 20:05:25 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "140"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/byKLr",
-            "expanded_url": "http://ow.ly/byKLr",
-            "indices": [
-              "99", 
-              "119"
-            ],
-            "url": "http://t.co/wlFYYf0s"
-          }
+    "date:cessation_lower":"2012-06-13",
+    "date:cessation_upper":"2012-06-13",
+    "date:inception_lower":"2012-06-13",
+    "date:inception_upper":"2012-06-13",
+    "edtf:cessation":"2012-06-13T13:05:25-07:00",
+    "edtf:inception":"2012-06-13T13:05:25-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1339617925,
+        "created_at":"Wed Jun 13 20:05:25 +0000 2012",
+        "display_text_range":[
+            "0",
+            "140"
         ],
-        "user_mentions": [
-          {
-            "id": "34749159",
-            "id_str": "34749159",
-            "indices": [
-              "76", 
-              "89"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/byKLr",
+                    "expanded_url":"http://ow.ly/byKLr",
+                    "indices":[
+                        "99",
+                        "119"
+                    ],
+                    "url":"http://t.co/wlFYYf0s"
+                }
             ],
-            "name": "Fowler Museum @ UCLA",
-            "screen_name": "FowlerMuseum"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "We've a new exhibit in the Intl Term: Sleeping Beauties: Headrests from the @FowlerMuseum at UCLA! http://t.co/wlFYYf0s  Pre-TSA \u0026amp; FREE!",
-      "id": "212999133655609346",
-      "id_str": "212999133655609346",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"34749159",
+                    "id_str":"34749159",
+                    "indices":[
+                        "76",
+                        "89"
+                    ],
+                    "name":"Fowler Museum @ UCLA",
+                    "screen_name":"FowlerMuseum"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"We've a new exhibit in the Intl Term: Sleeping Beauties: Headrests from the @FowlerMuseum at UCLA! http://t.co/wlFYYf0s  Pre-TSA &amp; FREE!",
+        "id":"212999133655609346",
+        "id_str":"212999133655609346",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 212999133655609340
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":212999133655609340
     },
-    "wof:country": "US",
-    "wof:created": 1602026368,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729309789,
-    "wof:lastmodified": 1602026368,
-    "wof:name": "Twitter message #212999133655609346",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026368,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729309789,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729309789,
+    "wof:lastmodified":1602186307,
+    "wof:name":"We've a new exhibit in the Intl Term: Sleeping Beauties: Headrests from the @FowlerMuseum at UCLA! http://t.co/wlFYYf0s  Pre-TSA &amp; FREE!",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,173 +2,193 @@
   "id": 1729305941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-04-21T10:10:07-07:00",
-    "edtf:inception": "2019-04-21T10:10:07-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1555866607,
-      "created_at": "Sun Apr 21 17:10:07 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "244"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "12", 
-              "21"
-            ],
-            "text": "SanMateo"
-          }, 
-          {
-            "indices": [
-              "22", 
-              "33"
-            ],
-            "text": "HighSchool"
-          }
+    "date:cessation_lower":"2019-04-21",
+    "date:cessation_upper":"2019-04-21",
+    "date:inception_lower":"2019-04-21",
+    "date:inception_upper":"2019-04-21",
+    "edtf:cessation":"2019-04-21T10:10:07-07:00",
+    "edtf:inception":"2019-04-21T10:10:07-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1555866607,
+        "created_at":"Sun Apr 21 17:10:07 +0000 2019",
+        "display_text_range":[
+            "0",
+            "244"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/9hf8fyUGLu",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1120011844759040001/photo/1",
-            "id": "1120011841663586306",
-            "id_str": "1120011841663586306",
-            "indices": [
-              "221", 
-              "244"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "12",
+                        "21"
+                    ],
+                    "text":"SanMateo"
+                },
+                {
+                    "indices":[
+                        "22",
+                        "33"
+                    ],
+                    "text":"HighSchool"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/D4sU1f6W0AIcmaU.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/D4sU1f6W0AIcmaU.jpg",
-            "sizes": {
-              "large": {
-                "h": "1382",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "829",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "470",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/9hf8fyUGLu"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/2UP7wSG",
-            "expanded_url": "http://bit.ly/2UP7wSG",
-            "indices": [
-              "197", 
-              "220"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/9hf8fyUGLu",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1120011844759040001/photo/1",
+                    "id":"1120011841663586306",
+                    "id_str":"1120011841663586306",
+                    "indices":[
+                        "221",
+                        "244"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/D4sU1f6W0AIcmaU.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/D4sU1f6W0AIcmaU.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1382",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"829",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"470",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/9hf8fyUGLu"
+                }
             ],
-            "url": "https://t.co/Uvm7Vr0vzM"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/9hf8fyUGLu",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1120011844759040001/photo/1",
-            "id": "1120011841663586306",
-            "id_str": "1120011841663586306",
-            "indices": [
-              "221", 
-              "244"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/2UP7wSG",
+                    "expanded_url":"http://bit.ly/2UP7wSG",
+                    "indices":[
+                        "197",
+                        "220"
+                    ],
+                    "url":"https://t.co/Uvm7Vr0vzM"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/D4sU1f6W0AIcmaU.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/D4sU1f6W0AIcmaU.jpg",
-            "sizes": {
-              "large": {
-                "h": "1382",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "829",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "470",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/9hf8fyUGLu"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Students of #SanMateo #HighSchool's art program are exposed to a broad arts curriculum, which includes a variety of traditional studio courses in addition to others that explore new digital media. https://t.co/Uvm7Vr0vzM https://t.co/9hf8fyUGLu",
-      "id": "1120011844759040001",
-      "id_str": "1120011844759040001",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/9hf8fyUGLu",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1120011844759040001/photo/1",
+                    "id":"1120011841663586306",
+                    "id_str":"1120011841663586306",
+                    "indices":[
+                        "221",
+                        "244"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/D4sU1f6W0AIcmaU.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/D4sU1f6W0AIcmaU.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1382",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"829",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"470",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/9hf8fyUGLu"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Students of #SanMateo #HighSchool's art program are exposed to a broad arts curriculum, which includes a variety of traditional studio courses in addition to others that explore new digital media. https://t.co/Uvm7Vr0vzM https://t.co/9hf8fyUGLu",
+        "id":"1120011844759040001",
+        "id_str":"1120011844759040001",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1120011844759040000
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1120011844759040000
     },
-    "wof:country": "US",
-    "wof:created": 1602026220,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729305941,
-    "wof:lastmodified": 1602026220,
-    "wof:name": "Twitter message #1120011844759040001",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026220,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729305941,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729305941,
+    "wof:lastmodified":1602186377,
+    "wof:name":"Students of #SanMateo #HighSchool's art program are exposed to a broad arts curriculum, which includes a variety of traditional studio courses in addition to others that explore new digital media. https://t.co/Uvm7Vr0vzM https://t.co/9hf8fyUGLu",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

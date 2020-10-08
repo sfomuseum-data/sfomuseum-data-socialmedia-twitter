@@ -2,167 +2,187 @@
   "id": 1729311769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2013-04-03T11:43:31-07:00",
-    "edtf:inception": "2013-04-03T11:43:31-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1365014611,
-      "created_at": "Wed Apr 03 18:43:31 +0000 2013",
-      "display_text_range": [
-        "0", 
-        "139"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/oX6c1XDnAw",
-            "expanded_url": "https://twitter.com/tcramer/status/319516249715527680/photo/1",
-            "id": "319516249723916288",
-            "id_str": "319516249723916288",
-            "indices": [
-              "117", 
-              "139"
-            ],
-            "media_url": "http://pbs.twimg.com/media/BG8mVhTCUAAa1Og.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/BG8mVhTCUAAa1Og.jpg",
-            "sizes": {
-              "large": {
-                "h": "480",
-                "resize": "fit",
-                "w": "640"
-              },
-              "medium": {
-                "h": "480",
-                "resize": "fit",
-                "w": "640"
-              },
-              "small": {
-                "h": "480",
-                "resize": "fit",
-                "w": "640"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "319516249715527680",
-            "source_status_id_str": "319516249715527680",
-            "source_user_id": "17345803",
-            "source_user_id_str": "17345803",
-            "type": "photo",
-            "url": "http://t.co/oX6c1XDnAw"
-          }
+    "date:cessation_lower":"2013-04-03",
+    "date:cessation_upper":"2013-04-03",
+    "date:inception_lower":"2013-04-03",
+    "date:inception_upper":"2013-04-03",
+    "edtf:cessation":"2013-04-03T11:43:31-07:00",
+    "edtf:inception":"2013-04-03T11:43:31-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1365014611,
+        "created_at":"Wed Apr 03 18:43:31 +0000 2013",
+        "display_text_range":[
+            "0",
+            "139"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "17345803",
-            "id_str": "17345803",
-            "indices": [
-              "3", 
-              "11"
+        "entities":{
+            "hashtags":[],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/oX6c1XDnAw",
+                    "expanded_url":"https://twitter.com/tcramer/status/319516249715527680/photo/1",
+                    "id":"319516249723916288",
+                    "id_str":"319516249723916288",
+                    "indices":[
+                        "117",
+                        "139"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/BG8mVhTCUAAa1Og.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/BG8mVhTCUAAa1Og.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"480",
+                            "resize":"fit",
+                            "w":"640"
+                        },
+                        "medium":{
+                            "h":"480",
+                            "resize":"fit",
+                            "w":"640"
+                        },
+                        "small":{
+                            "h":"480",
+                            "resize":"fit",
+                            "w":"640"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"319516249715527680",
+                    "source_status_id_str":"319516249715527680",
+                    "source_user_id":"17345803",
+                    "source_user_id_str":"17345803",
+                    "type":"photo",
+                    "url":"http://t.co/oX6c1XDnAw"
+                }
             ],
-            "name": "Tom Cramer",
-            "screen_name": "tcramer"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/oX6c1XDnAw",
-            "expanded_url": "https://twitter.com/tcramer/status/319516249715527680/photo/1",
-            "id": "319516249723916288",
-            "id_str": "319516249723916288",
-            "indices": [
-              "117", 
-              "139"
-            ],
-            "media_url": "http://pbs.twimg.com/media/BG8mVhTCUAAa1Og.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/BG8mVhTCUAAa1Og.jpg",
-            "sizes": {
-              "large": {
-                "h": "480",
-                "resize": "fit",
-                "w": "640"
-              },
-              "medium": {
-                "h": "480",
-                "resize": "fit",
-                "w": "640"
-              },
-              "small": {
-                "h": "480",
-                "resize": "fit",
-                "w": "640"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "319516249715527680",
-            "source_status_id_str": "319516249715527680",
-            "source_user_id": "17345803",
-            "source_user_id_str": "17345803",
-            "type": "photo",
-            "url": "http://t.co/oX6c1XDnAw"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @tcramer: Awesome new art exhibit at SFO from Recology's artist in residence program. Voila a styrofoam Hummer H1 http://t.co/oX6c1XDnAw",
-      "id": "319520554296164352",
-      "id_str": "319520554296164352",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"17345803",
+                    "id_str":"17345803",
+                    "indices":[
+                        "3",
+                        "11"
+                    ],
+                    "name":"Tom Cramer",
+                    "screen_name":"tcramer"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/oX6c1XDnAw",
+                    "expanded_url":"https://twitter.com/tcramer/status/319516249715527680/photo/1",
+                    "id":"319516249723916288",
+                    "id_str":"319516249723916288",
+                    "indices":[
+                        "117",
+                        "139"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/BG8mVhTCUAAa1Og.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/BG8mVhTCUAAa1Og.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"480",
+                            "resize":"fit",
+                            "w":"640"
+                        },
+                        "medium":{
+                            "h":"480",
+                            "resize":"fit",
+                            "w":"640"
+                        },
+                        "small":{
+                            "h":"480",
+                            "resize":"fit",
+                            "w":"640"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"319516249715527680",
+                    "source_status_id_str":"319516249715527680",
+                    "source_user_id":"17345803",
+                    "source_user_id_str":"17345803",
+                    "type":"photo",
+                    "url":"http://t.co/oX6c1XDnAw"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @tcramer: Awesome new art exhibit at SFO from Recology's artist in residence program. Voila a styrofoam Hummer H1 http://t.co/oX6c1XDnAw",
+        "id":"319520554296164352",
+        "id_str":"319520554296164352",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 319520554296164350
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":319520554296164350
     },
-    "wof:country": "US",
-    "wof:created": 1602026446,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729311769,
-    "wof:lastmodified": 1602026446,
-    "wof:name": "Twitter message #319520554296164352",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026446,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729311769,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729311769,
+    "wof:lastmodified":1602186505,
+    "wof:name":"RT @tcramer: Awesome new art exhibit at SFO from Recology's artist in residence program. Voila a styrofoam Hummer H1 http://t.co/oX6c1XDnAw",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,156 +2,176 @@
   "id": 1729296191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-05-19T19:15:10-07:00",
-    "edtf:inception": "2016-05-19T19:15:10-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1463710510,
-      "created_at": "Fri May 20 02:15:10 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "144"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "109", 
-              "120"
-            ],
-            "text": "SFOHistory"
-          }
+    "date:cessation_lower":"2016-05-19",
+    "date:cessation_upper":"2016-05-19",
+    "date:inception_lower":"2016-05-19",
+    "date:inception_upper":"2016-05-19",
+    "edtf:cessation":"2016-05-19T19:15:10-07:00",
+    "edtf:inception":"2016-05-19T19:15:10-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1463710510,
+        "created_at":"Fri May 20 02:15:10 +0000 2016",
+        "display_text_range":[
+            "0",
+            "144"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/m4uDzTZGgg",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/733481159234080768/photo/1",
-            "id": "733481154599366656",
-            "id_str": "733481154599366656",
-            "indices": [
-              "121", 
-              "144"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "109",
+                        "120"
+                    ],
+                    "text":"SFOHistory"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Ci3ZOVVWsAAVbOg.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Ci3ZOVVWsAAVbOg.jpg",
-            "sizes": {
-              "large": {
-                "h": "1376",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "826",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "468",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/m4uDzTZGgg"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/m4uDzTZGgg",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/733481159234080768/photo/1",
-            "id": "733481154599366656",
-            "id_str": "733481154599366656",
-            "indices": [
-              "121", 
-              "144"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/m4uDzTZGgg",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/733481159234080768/photo/1",
+                    "id":"733481154599366656",
+                    "id_str":"733481154599366656",
+                    "indices":[
+                        "121",
+                        "144"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Ci3ZOVVWsAAVbOg.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Ci3ZOVVWsAAVbOg.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1376",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"826",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"468",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/m4uDzTZGgg"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Ci3ZOVVWsAAVbOg.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Ci3ZOVVWsAAVbOg.jpg",
-            "sizes": {
-              "large": {
-                "h": "1376",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "826",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "468",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/m4uDzTZGgg"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Built with a steel frame fastened with nuts \u0026amp; bolts, Hangar No. 1 was constructed for quick disassembly. #SFOHistory https://t.co/m4uDzTZGgg",
-      "id": "733481159234080768",
-      "id_str": "733481159234080768",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/m4uDzTZGgg",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/733481159234080768/photo/1",
+                    "id":"733481154599366656",
+                    "id_str":"733481154599366656",
+                    "indices":[
+                        "121",
+                        "144"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Ci3ZOVVWsAAVbOg.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Ci3ZOVVWsAAVbOg.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1376",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"826",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"468",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/m4uDzTZGgg"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Built with a steel frame fastened with nuts &amp; bolts, Hangar No. 1 was constructed for quick disassembly. #SFOHistory https://t.co/m4uDzTZGgg",
+        "id":"733481159234080768",
+        "id_str":"733481159234080768",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 733481159234080800
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":733481159234080800
     },
-    "wof:country": "US",
-    "wof:created": 1602025847,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729296191,
-    "wof:lastmodified": 1602025847,
-    "wof:name": "Twitter message #733481159234080768",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025847,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729296191,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729296191,
+    "wof:lastmodified":1602186590,
+    "wof:name":"Built with a steel frame fastened with nuts &amp; bolts, Hangar No. 1 was constructed for quick disassembly. #SFOHistory https://t.co/m4uDzTZGgg",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

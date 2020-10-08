@@ -2,163 +2,183 @@
   "id": 1729305255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-01-31T10:55:05-08:00",
-    "edtf:inception": "2019-01-31T10:55:05-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1548960905,
-      "created_at": "Thu Jan 31 18:55:05 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "289"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "250", 
-              "260"
-            ],
-            "text": "SFHistory"
-          }, 
-          {
-            "indices": [
-              "261", 
-              "265"
-            ],
-            "text": "TBT"
-          }
+    "date:cessation_lower":"2019-01-31",
+    "date:cessation_upper":"2019-01-31",
+    "date:inception_lower":"2019-01-31",
+    "date:inception_upper":"2019-01-31",
+    "edtf:cessation":"2019-01-31T10:55:05-08:00",
+    "edtf:inception":"2019-01-31T10:55:05-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1548960905,
+        "created_at":"Thu Jan 31 18:55:05 +0000 2019",
+        "display_text_range":[
+            "0",
+            "289"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/u9fYvh06OS",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1091047231090802688/photo/1",
-            "id": "1091047228070858755",
-            "id_str": "1091047228070858755",
-            "indices": [
-              "266", 
-              "289"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "250",
+                        "260"
+                    ],
+                    "text":"SFHistory"
+                },
+                {
+                    "indices":[
+                        "261",
+                        "265"
+                    ],
+                    "text":"TBT"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DyQtrF5WkAMk-7s.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DyQtrF5WkAMk-7s.jpg",
-            "sizes": {
-              "large": {
-                "h": "1958",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "1175",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "666",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/u9fYvh06OS"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/u9fYvh06OS",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1091047231090802688/photo/1",
-            "id": "1091047228070858755",
-            "id_str": "1091047228070858755",
-            "indices": [
-              "266", 
-              "289"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/u9fYvh06OS",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1091047231090802688/photo/1",
+                    "id":"1091047228070858755",
+                    "id_str":"1091047228070858755",
+                    "indices":[
+                        "266",
+                        "289"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DyQtrF5WkAMk-7s.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DyQtrF5WkAMk-7s.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1958",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"1175",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"666",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/u9fYvh06OS"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DyQtrF5WkAMk-7s.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DyQtrF5WkAMk-7s.jpg",
-            "sizes": {
-              "large": {
-                "h": "1958",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "1175",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "666",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/u9fYvh06OS"
-          }
-        ]
-      },
-      "favorite_count": "7",
-      "favorited": false,
-      "full_text": "Did you know that in the 1960s, there was a heliport next to the Ferry Building in San Francisco? The San Francisco and Oakland (SFO) Helicopter Airlines operated local helicopter flights in the Bay Area. Did you ever fly on SFO Helicopter Airlines? #SFHistory #TBT https://t.co/u9fYvh06OS",
-      "id": "1091047231090802688",
-      "id_str": "1091047231090802688",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "3",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/u9fYvh06OS",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1091047231090802688/photo/1",
+                    "id":"1091047228070858755",
+                    "id_str":"1091047228070858755",
+                    "indices":[
+                        "266",
+                        "289"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DyQtrF5WkAMk-7s.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DyQtrF5WkAMk-7s.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1958",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"1175",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"666",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/u9fYvh06OS"
+                }
+            ]
+        },
+        "favorite_count":"7",
+        "favorited":false,
+        "full_text":"Did you know that in the 1960s, there was a heliport next to the Ferry Building in San Francisco? The San Francisco and Oakland (SFO) Helicopter Airlines operated local helicopter flights in the Bay Area. Did you ever fly on SFO Helicopter Airlines? #SFHistory #TBT https://t.co/u9fYvh06OS",
+        "id":"1091047231090802688",
+        "id_str":"1091047231090802688",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"3",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1091047231090802700
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1091047231090802700
     },
-    "wof:country": "US",
-    "wof:created": 1602026194,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729305255,
-    "wof:lastmodified": 1602026194,
-    "wof:name": "Twitter message #1091047231090802688",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026194,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729305255,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729305255,
+    "wof:lastmodified":1602186267,
+    "wof:name":"Did you know that in the 1960s, there was a heliport next to the Ferry Building in San Francisco? The San Francisco and Oakland (SFO) Helicopter Airlines operated local helicopter flights in the Bay Area. Did you ever fly on SFO Helicopter Airlines? #SFHistory #TBT https://t.co/u9fYvh06OS",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

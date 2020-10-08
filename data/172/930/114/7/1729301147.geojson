@@ -2,99 +2,119 @@
   "id": 1729301147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2017-09-13T12:45:37-07:00",
-    "edtf:inception": "2017-09-13T12:45:37-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1505331937,
-      "created_at": "Wed Sep 13 19:45:37 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "76"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "40", 
-              "52"
-            ],
-            "text": "askacurator"
-          }
+    "date:cessation_lower":"2017-09-13",
+    "date:cessation_upper":"2017-09-13",
+    "date:inception_lower":"2017-09-13",
+    "date:inception_upper":"2017-09-13",
+    "edtf:cessation":"2017-09-13T12:45:37-07:00",
+    "edtf:inception":"2017-09-13T12:45:37-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1505331937,
+        "created_at":"Wed Sep 13 19:45:37 +0000 2017",
+        "display_text_range":[
+            "0",
+            "76"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "twitter.com/ProfMassa/stat…",
-            "expanded_url": "https://twitter.com/ProfMassa/status/908053049947643907",
-            "indices": [
-              "53", 
-              "76"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "40",
+                        "52"
+                    ],
+                    "text":"askacurator"
+                }
             ],
-            "url": "https://t.co/9iA9l2NUzu"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "126447573",
-            "id_str": "126447573",
-            "indices": [
-              "3", 
-              "15"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"twitter.com/ProfMassa/stat\u2026",
+                    "expanded_url":"https://twitter.com/ProfMassa/status/908053049947643907",
+                    "indices":[
+                        "53",
+                        "76"
+                    ],
+                    "url":"https://t.co/9iA9l2NUzu"
+                }
             ],
-            "name": "Ask A Curator",
-            "screen_name": "AskACurator"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @AskACurator: Good questions for all #askacurator https://t.co/9iA9l2NUzu",
-      "id": "908054078281805824",
-      "id_str": "908054078281805824",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"126447573",
+                    "id_str":"126447573",
+                    "indices":[
+                        "3",
+                        "15"
+                    ],
+                    "name":"Ask A Curator",
+                    "screen_name":"AskACurator"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @AskACurator: Good questions for all #askacurator https://t.co/9iA9l2NUzu",
+        "id":"908054078281805824",
+        "id_str":"908054078281805824",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 908054078281805800
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":908054078281805800
     },
-    "wof:country": "US",
-    "wof:created": 1602026036,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729301147,
-    "wof:lastmodified": 1602026036,
-    "wof:name": "Twitter message #908054078281805824",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026036,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729301147,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729301147,
+    "wof:lastmodified":1602186260,
+    "wof:name":"RT @AskACurator: Good questions for all #askacurator https://t.co/9iA9l2NUzu",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

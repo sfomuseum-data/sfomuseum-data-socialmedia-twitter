@@ -2,93 +2,113 @@
   "id": 1729294565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2015-11-18T11:31:16-08:00",
-    "edtf:inception": "2015-11-18T11:31:16-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1447875076,
-      "created_at": "Wed Nov 18 19:31:16 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "103"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "92", 
-              "103"
-            ],
-            "text": "musesocial"
-          }
+    "date:cessation_lower":"2015-11-18",
+    "date:cessation_upper":"2015-11-18",
+    "date:inception_lower":"2015-11-18",
+    "date:inception_upper":"2015-11-18",
+    "edtf:cessation":"2015-11-18T11:31:16-08:00",
+    "edtf:inception":"2015-11-18T11:31:16-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1447875076,
+        "created_at":"Wed Nov 18 19:31:16 +0000 2015",
+        "display_text_range":[
+            "0",
+            "103"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "197133937",
-            "id_str": "197133937",
-            "indices": [
-              "15", 
-              "22"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "92",
+                        "103"
+                    ],
+                    "text":"musesocial"
+                }
             ],
-            "name": "Drew Mandinach",
-            "screen_name": "MNDNCH"
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "Thanks so much @MNDNCH! It was a pleasure talking to you! I will definitely check this out! #musesocial",
-      "id": "667062533455417344",
-      "id_str": "667062533455417344",
-      "in_reply_to_screen_name": "MNDNCH",
-      "in_reply_to_status_id": "667062177803534336",
-      "in_reply_to_status_id_str": "667062177803534336",
-      "in_reply_to_user_id": "197133937",
-      "in_reply_to_user_id_str": "197133937",
-      "lang": "en",
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"197133937",
+                    "id_str":"197133937",
+                    "indices":[
+                        "15",
+                        "22"
+                    ],
+                    "name":"Drew Mandinach",
+                    "screen_name":"MNDNCH"
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"Thanks so much @MNDNCH! It was a pleasure talking to you! I will definitely check this out! #musesocial",
+        "id":"667062533455417344",
+        "id_str":"667062533455417344",
+        "in_reply_to_screen_name":"MNDNCH",
+        "in_reply_to_status_id":"667062177803534336",
+        "in_reply_to_status_id_str":"667062177803534336",
+        "in_reply_to_user_id":"197133937",
+        "in_reply_to_user_id_str":"197133937",
+        "lang":"en",
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 667062533455417300
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":667062533455417300
     },
-    "wof:country": "US",
-    "wof:created": 1602025786,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729294565,
-    "wof:lastmodified": 1602025786,
-    "wof:name": "Twitter message #667062533455417344",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025786,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729294565,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729294565,
+    "wof:lastmodified":1602186576,
+    "wof:name":"Thanks so much @MNDNCH! It was a pleasure talking to you! I will definitely check this out! #musesocial",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,156 +2,176 @@
   "id": 1729305439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-02-14T18:45:04-08:00",
-    "edtf:inception": "2019-02-14T18:45:04-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1550198704,
-      "created_at": "Fri Feb 15 02:45:04 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "265"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "234", 
-              "241"
-            ],
-            "text": "avgeek"
-          }
+    "date:cessation_lower":"2019-02-14",
+    "date:cessation_upper":"2019-02-14",
+    "date:inception_lower":"2019-02-14",
+    "date:inception_upper":"2019-02-14",
+    "edtf:cessation":"2019-02-14T18:45:04-08:00",
+    "edtf:inception":"2019-02-14T18:45:04-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1550198704,
+        "created_at":"Fri Feb 15 02:45:04 +0000 2019",
+        "display_text_range":[
+            "0",
+            "265"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/NFwq3I47dw",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1096238936496717824/photo/1",
-            "id": "1096238933845987328",
-            "id_str": "1096238933845987328",
-            "indices": [
-              "242", 
-              "265"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "234",
+                        "241"
+                    ],
+                    "text":"avgeek"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DzafgJDX0AA41ez.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DzafgJDX0AA41ez.jpg",
-            "sizes": {
-              "large": {
-                "h": "1333",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "800",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/NFwq3I47dw"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/NFwq3I47dw",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1096238936496717824/photo/1",
-            "id": "1096238933845987328",
-            "id_str": "1096238933845987328",
-            "indices": [
-              "242", 
-              "265"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/NFwq3I47dw",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1096238936496717824/photo/1",
+                    "id":"1096238933845987328",
+                    "id_str":"1096238933845987328",
+                    "indices":[
+                        "242",
+                        "265"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DzafgJDX0AA41ez.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DzafgJDX0AA41ez.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1333",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"800",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/NFwq3I47dw"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DzafgJDX0AA41ez.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DzafgJDX0AA41ez.jpg",
-            "sizes": {
-              "large": {
-                "h": "1333",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "800",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/NFwq3I47dw"
-          }
-        ]
-      },
-      "favorite_count": "33",
-      "favorited": false,
-      "full_text": "United Air Lines introduced its first Boeing 747 in 1970 for the popular west coast-to-Hawai’i route. United furnished their “Captain’s Lounge” with namesake chairs in an open layout. What are your fondest memories of the Boeing 747? #avgeek https://t.co/NFwq3I47dw",
-      "id": "1096238936496717824",
-      "id_str": "1096238936496717824",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "12",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/NFwq3I47dw",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1096238936496717824/photo/1",
+                    "id":"1096238933845987328",
+                    "id_str":"1096238933845987328",
+                    "indices":[
+                        "242",
+                        "265"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DzafgJDX0AA41ez.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DzafgJDX0AA41ez.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1333",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"800",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/NFwq3I47dw"
+                }
+            ]
+        },
+        "favorite_count":"33",
+        "favorited":false,
+        "full_text":"United Air Lines introduced its first Boeing 747 in 1970 for the popular west coast-to-Hawai\u2019i route. United furnished their \u201cCaptain\u2019s Lounge\u201d with namesake chairs in an open layout. What are your fondest memories of the Boeing 747? #avgeek https://t.co/NFwq3I47dw",
+        "id":"1096238936496717824",
+        "id_str":"1096238936496717824",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"12",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1096238936496717800
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1096238936496717800
     },
-    "wof:country": "US",
-    "wof:created": 1602026201,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729305439,
-    "wof:lastmodified": 1602026201,
-    "wof:name": "Twitter message #1096238936496717824",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026201,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729305439,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729305439,
+    "wof:lastmodified":1602186427,
+    "wof:name":"United Air Lines introduced its first Boeing 747 in 1970 for the popular west coast-to-Hawai\u2019i route. United furnished their \u201cCaptain\u2019s Lounge\u201d with namesake chairs in an open layout. What are your fondest memories of the Boeing 747? #avgeek https://t.co/NFwq3I47dw",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,170 +2,190 @@
   "id": 1729298275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-10-28T18:05:07-07:00",
-    "edtf:inception": "2016-10-28T18:05:07-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1477703107,
-      "created_at": "Sat Oct 29 01:05:07 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "161"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "19", 
-              "26"
-            ],
-            "text": "United"
-          }, 
-          {
-            "indices": [
-              "52", 
-              "63"
-            ],
-            "text": "StanHerman"
-          }, 
-          {
-            "indices": [
-              "121", 
-              "137"
-            ],
-            "text": "FashionInFlight"
-          }
+    "date:cessation_lower":"2016-10-28",
+    "date:cessation_upper":"2016-10-28",
+    "date:inception_lower":"2016-10-28",
+    "date:inception_upper":"2016-10-28",
+    "edtf:cessation":"2016-10-28T18:05:07-07:00",
+    "edtf:inception":"2016-10-28T18:05:07-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1477703107,
+        "created_at":"Sat Oct 29 01:05:07 +0000 2016",
+        "display_text_range":[
+            "0",
+            "161"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/73UAUMOpnW",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/792170366726705152/photo/1",
-            "id": "792170363262210048",
-            "id_str": "792170363262210048",
-            "indices": [
-              "138", 
-              "161"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "19",
+                        "26"
+                    ],
+                    "text":"United"
+                },
+                {
+                    "indices":[
+                        "52",
+                        "63"
+                    ],
+                    "text":"StanHerman"
+                },
+                {
+                    "indices":[
+                        "121",
+                        "137"
+                    ],
+                    "text":"FashionInFlight"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Cv5av4_WEAA5VMM.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Cv5av4_WEAA5VMM.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1333"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "800"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "453"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/73UAUMOpnW"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/73UAUMOpnW",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/792170366726705152/photo/1",
-            "id": "792170363262210048",
-            "id_str": "792170363262210048",
-            "indices": [
-              "138", 
-              "161"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/73UAUMOpnW",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/792170366726705152/photo/1",
+                    "id":"792170363262210048",
+                    "id_str":"792170363262210048",
+                    "indices":[
+                        "138",
+                        "161"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Cv5av4_WEAA5VMM.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Cv5av4_WEAA5VMM.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1333"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"800"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"453"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/73UAUMOpnW"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Cv5av4_WEAA5VMM.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Cv5av4_WEAA5VMM.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1333"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "800"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "453"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/73UAUMOpnW"
-          }
-        ]
-      },
-      "favorite_count": "7",
-      "favorited": false,
-      "full_text": "From 1976 to 1981, #United’s cabin crewmembers wore #StanHerman’s western style all-season uniform called Classic U.S.A. #FashionInFlight https://t.co/73UAUMOpnW",
-      "id": "792170366726705152",
-      "id_str": "792170366726705152",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "2",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/73UAUMOpnW",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/792170366726705152/photo/1",
+                    "id":"792170363262210048",
+                    "id_str":"792170363262210048",
+                    "indices":[
+                        "138",
+                        "161"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Cv5av4_WEAA5VMM.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Cv5av4_WEAA5VMM.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1333"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"800"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"453"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/73UAUMOpnW"
+                }
+            ]
+        },
+        "favorite_count":"7",
+        "favorited":false,
+        "full_text":"From 1976 to 1981, #United\u2019s cabin crewmembers wore #StanHerman\u2019s western style all-season uniform called Classic U.S.A. #FashionInFlight https://t.co/73UAUMOpnW",
+        "id":"792170366726705152",
+        "id_str":"792170366726705152",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"2",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 792170366726705200
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":792170366726705200
     },
-    "wof:country": "US",
-    "wof:created": 1602025930,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729298275,
-    "wof:lastmodified": 1602025930,
-    "wof:name": "Twitter message #792170366726705152",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025930,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729298275,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729298275,
+    "wof:lastmodified":1602186697,
+    "wof:name":"From 1976 to 1981, #United\u2019s cabin crewmembers wore #StanHerman\u2019s western style all-season uniform called Classic U.S.A. #FashionInFlight https://t.co/73UAUMOpnW",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,177 +2,197 @@
   "id": 1729293987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2015-09-03T11:59:17-07:00",
-    "edtf:inception": "2015-09-03T11:59:17-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1441306757,
-      "created_at": "Thu Sep 03 18:59:17 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "135"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "37", 
-              "51"
-            ],
-            "text": "SFOWagbrigade"
-          }, 
-          {
-            "indices": [
-              "80", 
-              "84"
-            ],
-            "text": "sfo"
-          }, 
-          {
-            "indices": [
-              "102", 
-              "107"
-            ],
-            "text": "woof"
-          }, 
-          {
-            "indices": [
-              "108", 
-              "112"
-            ],
-            "text": "sfo"
-          }
+    "date:cessation_lower":"2015-09-03",
+    "date:cessation_upper":"2015-09-03",
+    "date:inception_lower":"2015-09-03",
+    "date:inception_upper":"2015-09-03",
+    "edtf:cessation":"2015-09-03T11:59:17-07:00",
+    "edtf:inception":"2015-09-03T11:59:17-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1441306757,
+        "created_at":"Thu Sep 03 18:59:17 +0000 2015",
+        "display_text_range":[
+            "0",
+            "135"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/5tQJEOofl9",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/639513008696336384/photo/1",
-            "id": "639513008461496320",
-            "id_str": "639513008461496320",
-            "indices": [
-              "113", 
-              "135"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "37",
+                        "51"
+                    ],
+                    "text":"SFOWagbrigade"
+                },
+                {
+                    "indices":[
+                        "80",
+                        "84"
+                    ],
+                    "text":"sfo"
+                },
+                {
+                    "indices":[
+                        "102",
+                        "107"
+                    ],
+                    "text":"woof"
+                },
+                {
+                    "indices":[
+                        "108",
+                        "112"
+                    ],
+                    "text":"sfo"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/COABsWKWwAAhQip.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/COABsWKWwAAhQip.jpg",
-            "sizes": {
-              "large": {
-                "h": "340",
-                "resize": "fit",
-                "w": "510"
-              },
-              "medium": {
-                "h": "340",
-                "resize": "fit",
-                "w": "510"
-              },
-              "small": {
-                "h": "340",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "http://t.co/5tQJEOofl9"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/5tQJEOofl9",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/639513008696336384/photo/1",
-            "id": "639513008461496320",
-            "id_str": "639513008461496320",
-            "indices": [
-              "113", 
-              "135"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/5tQJEOofl9",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/639513008696336384/photo/1",
+                    "id":"639513008461496320",
+                    "id_str":"639513008461496320",
+                    "indices":[
+                        "113",
+                        "135"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/COABsWKWwAAhQip.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/COABsWKWwAAhQip.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"340",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "medium":{
+                            "h":"340",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "small":{
+                            "h":"340",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"http://t.co/5tQJEOofl9"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/COABsWKWwAAhQip.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/COABsWKWwAAhQip.jpg",
-            "sizes": {
-              "large": {
-                "h": "340",
-                "resize": "fit",
-                "w": "510"
-              },
-              "medium": {
-                "h": "340",
-                "resize": "fit",
-                "w": "510"
-              },
-              "small": {
-                "h": "340",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "http://t.co/5tQJEOofl9"
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "There are now 25 therapy dogs in the #SFOWagbrigade so the next time you are at #sfo stop and say hi! #woof #sfo http://t.co/5tQJEOofl9",
-      "id": "639513008696336384",
-      "id_str": "639513008696336384",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/5tQJEOofl9",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/639513008696336384/photo/1",
+                    "id":"639513008461496320",
+                    "id_str":"639513008461496320",
+                    "indices":[
+                        "113",
+                        "135"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/COABsWKWwAAhQip.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/COABsWKWwAAhQip.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"340",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "medium":{
+                            "h":"340",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "small":{
+                            "h":"340",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"http://t.co/5tQJEOofl9"
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"There are now 25 therapy dogs in the #SFOWagbrigade so the next time you are at #sfo stop and say hi! #woof #sfo http://t.co/5tQJEOofl9",
+        "id":"639513008696336384",
+        "id_str":"639513008696336384",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 639513008696336400
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":639513008696336400
     },
-    "wof:country": "US",
-    "wof:created": 1602025765,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729293987,
-    "wof:lastmodified": 1602025765,
-    "wof:name": "Twitter message #639513008696336384",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025765,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729293987,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729293987,
+    "wof:lastmodified":1602186558,
+    "wof:name":"There are now 25 therapy dogs in the #SFOWagbrigade so the next time you are at #sfo stop and say hi! #woof #sfo http://t.co/5tQJEOofl9",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

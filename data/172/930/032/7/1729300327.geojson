@@ -2,80 +2,100 @@
   "id": 1729300327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2011-12-29T15:45:28-08:00",
-    "edtf:inception": "2011-12-29T15:45:28-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1325202328,
-      "created_at": "Thu Dec 29 23:45:28 +0000 2011",
-      "display_text_range": [
-        "0", 
-        "136"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/tpSg1d",
-            "expanded_url": "http://bit.ly/tpSg1d",
-            "indices": [
-              "116", 
-              "136"
-            ],
-            "url": "http://t.co/XuzoqSTh"
-          }
+    "date:cessation_lower":"2011-12-29",
+    "date:cessation_upper":"2011-12-29",
+    "date:inception_lower":"2011-12-29",
+    "date:inception_upper":"2011-12-29",
+    "edtf:cessation":"2011-12-29T15:45:28-08:00",
+    "edtf:inception":"2011-12-29T15:45:28-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1325202328,
+        "created_at":"Thu Dec 29 23:45:28 +0000 2011",
+        "display_text_range":[
+            "0",
+            "136"
         ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Edmund Culpeper, rock star of microscopy c.1720, designed a concave mirror to reflect light \u0026 illuminate specimens: http://t.co/XuzoqSTh",
-      "id": "152535735919054848",
-      "id_str": "152535735919054848",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/tpSg1d",
+                    "expanded_url":"http://bit.ly/tpSg1d",
+                    "indices":[
+                        "116",
+                        "136"
+                    ],
+                    "url":"http://t.co/XuzoqSTh"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Edmund Culpeper, rock star of microscopy c.1720, designed a concave mirror to reflect light & illuminate specimens: http://t.co/XuzoqSTh",
+        "id":"152535735919054848",
+        "id_str":"152535735919054848",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 152535735919054850
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":152535735919054850
     },
-    "wof:country": "US",
-    "wof:created": 1602026005,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729300327,
-    "wof:lastmodified": 1602026005,
-    "wof:name": "Twitter message #152535735919054848",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026005,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729300327,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729300327,
+    "wof:lastmodified":1602186247,
+    "wof:name":"Edmund Culpeper, rock star of microscopy c.1720, designed a concave mirror to reflect light & illuminate specimens: http://t.co/XuzoqSTh",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

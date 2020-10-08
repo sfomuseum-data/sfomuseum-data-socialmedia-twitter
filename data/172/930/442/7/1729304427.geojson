@@ -2,170 +2,190 @@
   "id": 1729304427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2018-10-07T22:19:10-07:00",
-    "edtf:inception": "2018-10-07T22:19:10-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1538975950,
-      "created_at": "Mon Oct 08 05:19:10 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "257"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "0", 
-              "10"
-            ],
-            "text": "Onthisday"
-          }, 
-          {
-            "indices": [
-              "20", 
-              "24"
-            ],
-            "text": "KLM"
-          }, 
-          {
-            "indices": [
-              "226", 
-              "233"
-            ],
-            "text": "avgeek"
-          }
+    "date:cessation_lower":"2018-10-07",
+    "date:cessation_upper":"2018-10-07",
+    "date:inception_lower":"2018-10-07",
+    "date:inception_upper":"2018-10-07",
+    "edtf:cessation":"2018-10-07T22:19:10-07:00",
+    "edtf:inception":"2018-10-07T22:19:10-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1538975950,
+        "created_at":"Mon Oct 08 05:19:10 +0000 2018",
+        "display_text_range":[
+            "0",
+            "257"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/VuJxQgl6cX",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1049167295908466688/photo/1",
-            "id": "1049167292309757953",
-            "id_str": "1049167292309757953",
-            "indices": [
-              "234", 
-              "257"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "0",
+                        "10"
+                    ],
+                    "text":"Onthisday"
+                },
+                {
+                    "indices":[
+                        "20",
+                        "24"
+                    ],
+                    "text":"KLM"
+                },
+                {
+                    "indices":[
+                        "226",
+                        "233"
+                    ],
+                    "text":"avgeek"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Do9kF_gU4AEOMi2.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Do9kF_gU4AEOMi2.jpg",
-            "sizes": {
-              "large": {
-                "h": "1430",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "858",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "486",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/VuJxQgl6cX"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/VuJxQgl6cX",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1049167295908466688/photo/1",
-            "id": "1049167292309757953",
-            "id_str": "1049167292309757953",
-            "indices": [
-              "234", 
-              "257"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/VuJxQgl6cX",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1049167295908466688/photo/1",
+                    "id":"1049167292309757953",
+                    "id_str":"1049167292309757953",
+                    "indices":[
+                        "234",
+                        "257"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Do9kF_gU4AEOMi2.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Do9kF_gU4AEOMi2.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1430",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"858",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"486",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/VuJxQgl6cX"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Do9kF_gU4AEOMi2.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Do9kF_gU4AEOMi2.jpg",
-            "sizes": {
-              "large": {
-                "h": "1430",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "858",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "486",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/VuJxQgl6cX"
-          }
-        ]
-      },
-      "favorite_count": "5",
-      "favorited": false,
-      "full_text": "#Onthisday in 1919, #KLM (Koninklijke Luchtvaart Maatschappij N.V., or KLM Royal Dutch Airlines) was founded. The company is the oldest airline in the world still operating under its original name. Have you ever flown on KLM? #avgeek https://t.co/VuJxQgl6cX",
-      "id": "1049167295908466688",
-      "id_str": "1049167295908466688",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/VuJxQgl6cX",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1049167295908466688/photo/1",
+                    "id":"1049167292309757953",
+                    "id_str":"1049167292309757953",
+                    "indices":[
+                        "234",
+                        "257"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Do9kF_gU4AEOMi2.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Do9kF_gU4AEOMi2.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1430",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"858",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"486",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/VuJxQgl6cX"
+                }
+            ]
+        },
+        "favorite_count":"5",
+        "favorited":false,
+        "full_text":"#Onthisday in 1919, #KLM (Koninklijke Luchtvaart Maatschappij N.V., or KLM Royal Dutch Airlines) was founded. The company is the oldest airline in the world still operating under its original name. Have you ever flown on KLM? #avgeek https://t.co/VuJxQgl6cX",
+        "id":"1049167295908466688",
+        "id_str":"1049167295908466688",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1049167295908466700
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1049167295908466700
     },
-    "wof:country": "US",
-    "wof:created": 1602026162,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729304427,
-    "wof:lastmodified": 1602026162,
-    "wof:name": "Twitter message #1049167295908466688",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026162,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729304427,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729304427,
+    "wof:lastmodified":1602186303,
+    "wof:name":"#Onthisday in 1919, #KLM (Koninklijke Luchtvaart Maatschappij N.V., or KLM Royal Dutch Airlines) was founded. The company is the oldest airline in the world still operating under its original name. Have you ever flown on KLM? #avgeek https://t.co/VuJxQgl6cX",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

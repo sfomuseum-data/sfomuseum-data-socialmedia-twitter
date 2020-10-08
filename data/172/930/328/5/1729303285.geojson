@@ -2,90 +2,110 @@
   "id": 1729303285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2018-05-30T17:06:09-07:00",
-    "edtf:inception": "2018-05-30T17:06:09-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1527725169,
-      "created_at": "Thu May 31 00:06:09 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "140"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "1192182541",
-            "id_str": "1192182541",
-            "indices": [
-              "3", 
-              "12"
-            ],
-            "name": "JDL",
-            "screen_name": "photoJDL"
-          }, 
-          {
-            "id": "5920532",
-            "id_str": "5920532",
-            "indices": [
-              "17", 
-              "23"
-            ],
-            "name": "Delta",
-            "screen_name": "Delta"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @photoJDL: As @Delta unveils its latest uniform, a look back to Harry Gilbert’s summer 1969 design as seen on a 1970 welcome aboard book…",
-      "id": "1001978098475241473",
-      "id_str": "1001978098475241473",
-      "lang": "en",
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+    "date:cessation_lower":"2018-05-30",
+    "date:cessation_upper":"2018-05-30",
+    "date:inception_lower":"2018-05-30",
+    "date:inception_upper":"2018-05-30",
+    "edtf:cessation":"2018-05-30T17:06:09-07:00",
+    "edtf:inception":"2018-05-30T17:06:09-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1527725169,
+        "created_at":"Thu May 31 00:06:09 +0000 2018",
+        "display_text_range":[
+            "0",
+            "140"
+        ],
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"1192182541",
+                    "id_str":"1192182541",
+                    "indices":[
+                        "3",
+                        "12"
+                    ],
+                    "name":"JDL",
+                    "screen_name":"photoJDL"
+                },
+                {
+                    "id":"5920532",
+                    "id_str":"5920532",
+                    "indices":[
+                        "17",
+                        "23"
+                    ],
+                    "name":"Delta",
+                    "screen_name":"Delta"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @photoJDL: As @Delta unveils its latest uniform, a look back to Harry Gilbert\u2019s summer 1969 design as seen on a 1970 welcome aboard book\u2026",
+        "id":"1001978098475241473",
+        "id_str":"1001978098475241473",
+        "lang":"en",
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1001978098475241500
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1001978098475241500
     },
-    "wof:country": "US",
-    "wof:created": 1602026118,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729303285,
-    "wof:lastmodified": 1602026118,
-    "wof:name": "Twitter message #1001978098475241473",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026118,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729303285,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729303285,
+    "wof:lastmodified":1602186207,
+    "wof:name":"RT @photoJDL: As @Delta unveils its latest uniform, a look back to Harry Gilbert\u2019s summer 1969 design as seen on a 1970 welcome aboard book\u2026",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

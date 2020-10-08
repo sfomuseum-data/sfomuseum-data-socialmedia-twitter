@@ -2,88 +2,108 @@
   "id": 1729296199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-05-19T18:15:10-07:00",
-    "edtf:inception": "2016-05-19T18:15:10-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1463706910,
-      "created_at": "Fri May 20 01:15:10 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "139"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "127", 
-              "139"
-            ],
-            "text": "TWASkyliner"
-          }
+    "date:cessation_lower":"2016-05-19",
+    "date:cessation_upper":"2016-05-19",
+    "date:inception_lower":"2016-05-19",
+    "date:inception_upper":"2016-05-19",
+    "edtf:cessation":"2016-05-19T18:15:10-07:00",
+    "edtf:inception":"2016-05-19T18:15:10-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1463706910,
+        "created_at":"Fri May 20 01:15:10 +0000 2016",
+        "display_text_range":[
+            "0",
+            "139"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/TWASkyliner",
-            "expanded_url": "http://bit.ly/TWASkyliner",
-            "indices": [
-              "103", 
-              "126"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "127",
+                        "139"
+                    ],
+                    "text":"TWASkyliner"
+                }
             ],
-            "url": "https://t.co/wzZLvG7ciR"
-          }
-        ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "\"Queen of the Skies: The Legacy of the Lockheed Constellation\" is on display, pre-security, in the IT. https://t.co/wzZLvG7ciR #TWASkyliner",
-      "id": "733466058477031424",
-      "id_str": "733466058477031424",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/TWASkyliner",
+                    "expanded_url":"http://bit.ly/TWASkyliner",
+                    "indices":[
+                        "103",
+                        "126"
+                    ],
+                    "url":"https://t.co/wzZLvG7ciR"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"\"Queen of the Skies: The Legacy of the Lockheed Constellation\" is on display, pre-security, in the IT. https://t.co/wzZLvG7ciR #TWASkyliner",
+        "id":"733466058477031424",
+        "id_str":"733466058477031424",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 733466058477031400
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":733466058477031400
     },
-    "wof:country": "US",
-    "wof:created": 1602025848,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729296199,
-    "wof:lastmodified": 1602025848,
-    "wof:name": "Twitter message #733466058477031424",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025848,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729296199,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729296199,
+    "wof:lastmodified":1602186589,
+    "wof:name":"\"Queen of the Skies: The Legacy of the Lockheed Constellation\" is on display, pre-security, in the IT. https://t.co/wzZLvG7ciR #TWASkyliner",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

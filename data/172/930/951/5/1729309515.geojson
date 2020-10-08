@@ -2,88 +2,108 @@
   "id": 1729309515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2012-05-09T09:56:59-07:00",
-    "edtf:inception": "2012-05-09T09:56:59-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1336582619,
-      "created_at": "Wed May 09 16:56:59 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "132"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "124", 
-              "132"
-            ],
-            "text": "AVgeeks"
-          }
+    "date:cessation_lower":"2012-05-09",
+    "date:cessation_upper":"2012-05-09",
+    "date:inception_lower":"2012-05-09",
+    "date:inception_upper":"2012-05-09",
+    "edtf:cessation":"2012-05-09T09:56:59-07:00",
+    "edtf:inception":"2012-05-09T09:56:59-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1336582619,
+        "created_at":"Wed May 09 16:56:59 +0000 2012",
+        "display_text_range":[
+            "0",
+            "132"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "yfrog.com/nw905fyj",
-            "expanded_url": "http://yfrog.com/nw905fyj",
-            "indices": [
-              "103", 
-              "123"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "124",
+                        "132"
+                    ],
+                    "text":"AVgeeks"
+                }
             ],
-            "url": "http://t.co/A0KUV23F"
-          }
-        ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Roald Amundsen congratulates aviator RIchard E. Byrd after his flight over the North Pole, OTD in 1926 http://t.co/A0KUV23F #AVgeeks",
-      "id": "200268139752198144",
-      "id_str": "200268139752198144",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"yfrog.com/nw905fyj",
+                    "expanded_url":"http://yfrog.com/nw905fyj",
+                    "indices":[
+                        "103",
+                        "123"
+                    ],
+                    "url":"http://t.co/A0KUV23F"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Roald Amundsen congratulates aviator RIchard E. Byrd after his flight over the North Pole, OTD in 1926 http://t.co/A0KUV23F #AVgeeks",
+        "id":"200268139752198144",
+        "id_str":"200268139752198144",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 200268139752198140
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":200268139752198140
     },
-    "wof:country": "US",
-    "wof:created": 1602026357,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729309515,
-    "wof:lastmodified": 1602026357,
-    "wof:name": "Twitter message #200268139752198144",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026357,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729309515,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729309515,
+    "wof:lastmodified":1602186254,
+    "wof:name":"Roald Amundsen congratulates aviator RIchard E. Byrd after his flight over the North Pole, OTD in 1926 http://t.co/A0KUV23F #AVgeeks",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

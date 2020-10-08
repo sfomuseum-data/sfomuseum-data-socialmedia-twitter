@@ -2,163 +2,183 @@
   "id": 1729308147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-04-01T20:07:53-07:00",
-    "edtf:inception": "2020-04-01T20:07:53-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1585796873,
-      "created_at": "Thu Apr 02 03:07:53 +0000 2020",
-      "display_text_range": [
-        "0", 
-        "292"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "236", 
-              "252"
-            ],
-            "text": "WomenInAviation"
-          }, 
-          {
-            "indices": [
-              "253", 
-              "268"
-            ],
-            "text": "MuseumFromHome"
-          }
+    "date:cessation_lower":"2020-04-01",
+    "date:cessation_upper":"2020-04-01",
+    "date:inception_lower":"2020-04-01",
+    "date:inception_upper":"2020-04-01",
+    "edtf:cessation":"2020-04-01T20:07:53-07:00",
+    "edtf:inception":"2020-04-01T20:07:53-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1585796873,
+        "created_at":"Thu Apr 02 03:07:53 +0000 2020",
+        "display_text_range":[
+            "0",
+            "292"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/hZIMDxsIew",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1245548481223286784/photo/1",
-            "id": "1245548477368750080",
-            "id_str": "1245548477368750080",
-            "indices": [
-              "269", 
-              "292"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "236",
+                        "252"
+                    ],
+                    "text":"WomenInAviation"
+                },
+                {
+                    "indices":[
+                        "253",
+                        "268"
+                    ],
+                    "text":"MuseumFromHome"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EUkTvbAX0AA5itL.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EUkTvbAX0AA5itL.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/hZIMDxsIew"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/hZIMDxsIew",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1245548481223286784/photo/1",
-            "id": "1245548477368750080",
-            "id_str": "1245548477368750080",
-            "indices": [
-              "269", 
-              "292"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/hZIMDxsIew",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1245548481223286784/photo/1",
+                    "id":"1245548477368750080",
+                    "id_str":"1245548477368750080",
+                    "indices":[
+                        "269",
+                        "292"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EUkTvbAX0AA5itL.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EUkTvbAX0AA5itL.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/hZIMDxsIew"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EUkTvbAX0AA5itL.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EUkTvbAX0AA5itL.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/hZIMDxsIew"
-          }
-        ]
-      },
-      "favorite_count": "37",
-      "favorited": false,
-      "full_text": "This 1945 TWA uniform was known as the “cutout” for the openwork TWA lettering on the shoulder. The triangular jacket flap could be unbuttoned to cover the TWA lettering, allowing the hostess to smoke or have a cocktail while off duty. #WomenInAviation #MuseumFromHome https://t.co/hZIMDxsIew",
-      "id": "1245548481223286784",
-      "id_str": "1245548481223286784",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "6",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/hZIMDxsIew",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1245548481223286784/photo/1",
+                    "id":"1245548477368750080",
+                    "id_str":"1245548477368750080",
+                    "indices":[
+                        "269",
+                        "292"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EUkTvbAX0AA5itL.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EUkTvbAX0AA5itL.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/hZIMDxsIew"
+                }
+            ]
+        },
+        "favorite_count":"37",
+        "favorited":false,
+        "full_text":"This 1945 TWA uniform was known as the \u201ccutout\u201d for the openwork TWA lettering on the shoulder. The triangular jacket flap could be unbuttoned to cover the TWA lettering, allowing the hostess to smoke or have a cocktail while off duty. #WomenInAviation #MuseumFromHome https://t.co/hZIMDxsIew",
+        "id":"1245548481223286784",
+        "id_str":"1245548481223286784",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"6",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1245548481223286800
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1245548481223286800
     },
-    "wof:country": "US",
-    "wof:created": 1602026305,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729308147,
-    "wof:lastmodified": 1602026305,
-    "wof:name": "Twitter message #1245548481223286784",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026305,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729308147,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729308147,
+    "wof:lastmodified":1602186289,
+    "wof:name":"This 1945 TWA uniform was known as the \u201ccutout\u201d for the openwork TWA lettering on the shoulder. The triangular jacket flap could be unbuttoned to cover the TWA lettering, allowing the hostess to smoke or have a cocktail while off duty. #WomenInAviation #MuseumFromHome https://t.co/hZIMDxsIew",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

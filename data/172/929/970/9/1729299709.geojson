@@ -2,85 +2,105 @@
   "id": 1729299709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2011-12-27T09:12:07-08:00",
-    "edtf:inception": "2011-12-27T09:12:07-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1325005927,
-      "created_at": "Tue Dec 27 17:12:07 +0000 2011",
-      "display_text_range": [
-        "0", 
-        "96"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "1229533054424641536",
-            "id_str": "1229533054424641536",
-            "indices": [
-              "0", 
-              "6"
-            ],
-            "name": "Astra",
-            "screen_name": "Astra"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "@astra Great bunch of photos from \"Revolutions per Minute\"! Thanks for checking out the exhibit!",
-      "id": "151711973548105728",
-      "id_str": "151711973548105728",
-      "in_reply_to_screen_name": "astragoblin",
-      "in_reply_to_status_id": "150470416903847936",
-      "in_reply_to_status_id_str": "150470416903847936",
-      "in_reply_to_user_id": "7713702",
-      "in_reply_to_user_id_str": "7713702",
-      "lang": "en",
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+    "date:cessation_lower":"2011-12-27",
+    "date:cessation_upper":"2011-12-27",
+    "date:inception_lower":"2011-12-27",
+    "date:inception_upper":"2011-12-27",
+    "edtf:cessation":"2011-12-27T09:12:07-08:00",
+    "edtf:inception":"2011-12-27T09:12:07-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1325005927,
+        "created_at":"Tue Dec 27 17:12:07 +0000 2011",
+        "display_text_range":[
+            "0",
+            "96"
+        ],
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"1229533054424641536",
+                    "id_str":"1229533054424641536",
+                    "indices":[
+                        "0",
+                        "6"
+                    ],
+                    "name":"Astra",
+                    "screen_name":"Astra"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"@astra Great bunch of photos from \"Revolutions per Minute\"! Thanks for checking out the exhibit!",
+        "id":"151711973548105728",
+        "id_str":"151711973548105728",
+        "in_reply_to_screen_name":"astragoblin",
+        "in_reply_to_status_id":"150470416903847936",
+        "in_reply_to_status_id_str":"150470416903847936",
+        "in_reply_to_user_id":"7713702",
+        "in_reply_to_user_id_str":"7713702",
+        "lang":"en",
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 151711973548105730
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":151711973548105730
     },
-    "wof:country": "US",
-    "wof:created": 1602025983,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729299709,
-    "wof:lastmodified": 1602025983,
-    "wof:name": "Twitter message #151711973548105728",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025983,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729299709,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729299709,
+    "wof:lastmodified":1602186538,
+    "wof:name":"@astra Great bunch of photos from \"Revolutions per Minute\"! Thanks for checking out the exhibit!",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

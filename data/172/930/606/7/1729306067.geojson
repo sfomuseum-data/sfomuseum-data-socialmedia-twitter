@@ -2,189 +2,209 @@
   "id": 1729306067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-05-09T17:04:39-07:00",
-    "edtf:inception": "2019-05-09T17:04:39-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1557446679,
-      "created_at": "Fri May 10 00:04:39 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "298"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/Fmd5bf07sI",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1126639146670313472/video/1",
-            "id": "1126639009055137793",
-            "id_str": "1126639009055137793",
-            "indices": [
-              "275", 
-              "298"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126639009055137793/pu/img/PKUdQNoxnvJokR00.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126639009055137793/pu/img/PKUdQNoxnvJokR00.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/Fmd5bf07sI"
-          }
+    "date:cessation_lower":"2019-05-09",
+    "date:cessation_upper":"2019-05-09",
+    "date:inception_lower":"2019-05-09",
+    "date:inception_upper":"2019-05-09",
+    "edtf:cessation":"2019-05-09T17:04:39-07:00",
+    "edtf:inception":"2019-05-09T17:04:39-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1557446679,
+        "created_at":"Fri May 10 00:04:39 +0000 2019",
+        "display_text_range":[
+            "0",
+            "298"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/2LwP6CX",
-            "expanded_url": "http://bit.ly/2LwP6CX",
-            "indices": [
-              "251", 
-              "274"
-            ],
-            "url": "https://t.co/jbcpo974j9"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "additional_media_info": {
-              "monetizable": false
-            },
-            "display_url": "pic.twitter.com/Fmd5bf07sI",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1126639146670313472/video/1",
-            "id": "1126639009055137793",
-            "id_str": "1126639009055137793",
-            "indices": [
-              "275", 
-              "298"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126639009055137793/pu/img/PKUdQNoxnvJokR00.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126639009055137793/pu/img/PKUdQNoxnvJokR00.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "video",
-            "url": "https://t.co/Fmd5bf07sI",
-            "video_info": {
-              "aspect_ratio": [
-                "16", 
-                "9"
-              ],
-              "duration_millis": "53428",
-              "variants": [
+        "entities":{
+            "hashtags":[],
+            "media":[
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1126639009055137793/pu/vid/1280x720/c-SH_HyyhZvBuj_-.mp4?tag=9"
-                }, 
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1126639009055137793/pu/pl/R3wKj--20rOAr5gA.m3u8?tag=9"
-                }, 
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1126639009055137793/pu/vid/640x360/4BOkKQ36AYx1roOW.mp4?tag=9"
-                }, 
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1126639009055137793/pu/vid/320x180/fr01dCILMxfPUAeO.mp4?tag=9"
+                    "display_url":"pic.twitter.com/Fmd5bf07sI",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1126639146670313472/video/1",
+                    "id":"1126639009055137793",
+                    "id_str":"1126639009055137793",
+                    "indices":[
+                        "275",
+                        "298"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/1126639009055137793/pu/img/PKUdQNoxnvJokR00.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/1126639009055137793/pu/img/PKUdQNoxnvJokR00.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/Fmd5bf07sI"
                 }
-              ]
-            }
-          }
-        ]
-      },
-      "favorite_count": "3",
-      "favorited": false,
-      "full_text": "NOW PLAYING: \"Swift Current: A Native American Cowboy\" by Thilo Gundelach. This short film profiles Swift Current, a member of Amskapi Pikuni (Blackfeet) Nation who maintains a connection with “the old ways” of his culture through rodeo bronc riding. https://t.co/jbcpo974j9 https://t.co/Fmd5bf07sI",
-      "id": "1126639146670313472",
-      "id_str": "1126639146670313472",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-      "truncated": false
+            ],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/2LwP6CX",
+                    "expanded_url":"http://bit.ly/2LwP6CX",
+                    "indices":[
+                        "251",
+                        "274"
+                    ],
+                    "url":"https://t.co/jbcpo974j9"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "additional_media_info":{
+                        "monetizable":false
+                    },
+                    "display_url":"pic.twitter.com/Fmd5bf07sI",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1126639146670313472/video/1",
+                    "id":"1126639009055137793",
+                    "id_str":"1126639009055137793",
+                    "indices":[
+                        "275",
+                        "298"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/1126639009055137793/pu/img/PKUdQNoxnvJokR00.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/1126639009055137793/pu/img/PKUdQNoxnvJokR00.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"video",
+                    "url":"https://t.co/Fmd5bf07sI",
+                    "video_info":{
+                        "aspect_ratio":[
+                            "16",
+                            "9"
+                        ],
+                        "duration_millis":"53428",
+                        "variants":[
+                            {
+                                "bitrate":"2176000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1126639009055137793/pu/vid/1280x720/c-SH_HyyhZvBuj_-.mp4?tag=9"
+                            },
+                            {
+                                "content_type":"application/x-mpegURL",
+                                "url":"https://video.twimg.com/ext_tw_video/1126639009055137793/pu/pl/R3wKj--20rOAr5gA.m3u8?tag=9"
+                            },
+                            {
+                                "bitrate":"832000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1126639009055137793/pu/vid/640x360/4BOkKQ36AYx1roOW.mp4?tag=9"
+                            },
+                            {
+                                "bitrate":"256000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1126639009055137793/pu/vid/320x180/fr01dCILMxfPUAeO.mp4?tag=9"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count":"3",
+        "favorited":false,
+        "full_text":"NOW PLAYING: \"Swift Current: A Native American Cowboy\" by Thilo Gundelach. This short film profiles Swift Current, a member of Amskapi Pikuni (Blackfeet) Nation who maintains a connection with \u201cthe old ways\u201d of his culture through rodeo bronc riding. https://t.co/jbcpo974j9 https://t.co/Fmd5bf07sI",
+        "id":"1126639146670313472",
+        "id_str":"1126639146670313472",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1126639146670313500
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1126639146670313500
     },
-    "wof:country": "US",
-    "wof:created": 1602026225,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729306067,
-    "wof:lastmodified": 1602026225,
-    "wof:name": "Twitter message #1126639146670313472",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026225,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729306067,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729306067,
+    "wof:lastmodified":1602186440,
+    "wof:name":"NOW PLAYING: \"Swift Current: A Native American Cowboy\" by Thilo Gundelach. This short film profiles Swift Current, a member of Amskapi Pikuni (Blackfeet) Nation who maintains a connection with \u201cthe old ways\u201d of his culture through rodeo bronc riding. https://t.co/jbcpo974j9 https://t.co/Fmd5bf07sI",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

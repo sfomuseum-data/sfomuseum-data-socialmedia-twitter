@@ -2,95 +2,115 @@
   "id": 1729295457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-03-09T19:25:05-08:00",
-    "edtf:inception": "2016-03-09T19:25:05-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1457580305,
-      "created_at": "Thu Mar 10 03:25:05 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "139"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "85", 
-              "94"
-            ],
-            "text": "PondFarm"
-          }, 
-          {
-            "indices": [
-              "120", 
-              "139"
-            ],
-            "text": "WomensHistoryMonth"
-          }
+    "date:cessation_lower":"2016-03-09",
+    "date:cessation_upper":"2016-03-09",
+    "date:inception_lower":"2016-03-09",
+    "date:inception_upper":"2016-03-09",
+    "edtf:cessation":"2016-03-09T19:25:05-08:00",
+    "edtf:inception":"2016-03-09T19:25:05-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1457580305,
+        "created_at":"Thu Mar 10 03:25:05 +0000 2016",
+        "display_text_range":[
+            "0",
+            "139"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/ZhfVB",
-            "expanded_url": "http://ow.ly/ZhfVB",
-            "indices": [
-              "96", 
-              "119"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "85",
+                        "94"
+                    ],
+                    "text":"PondFarm"
+                },
+                {
+                    "indices":[
+                        "120",
+                        "139"
+                    ],
+                    "text":"WomensHistoryMonth"
+                }
             ],
-            "url": "https://t.co/qaeLZ3WKsX"
-          }
-        ],
-        "user_mentions": []
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "Learn more about Marguerite Wildenhain in “A Potter’s Life: Marguerite Wildenhain at #PondFarm” https://t.co/qaeLZ3WKsX #WomensHistoryMonth",
-      "id": "707769214191460352",
-      "id_str": "707769214191460352",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/ZhfVB",
+                    "expanded_url":"http://ow.ly/ZhfVB",
+                    "indices":[
+                        "96",
+                        "119"
+                    ],
+                    "url":"https://t.co/qaeLZ3WKsX"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"Learn more about Marguerite Wildenhain in \u201cA Potter\u2019s Life: Marguerite Wildenhain at #PondFarm\u201d https://t.co/qaeLZ3WKsX #WomensHistoryMonth",
+        "id":"707769214191460352",
+        "id_str":"707769214191460352",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 707769214191460400
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":707769214191460400
     },
-    "wof:country": "US",
-    "wof:created": 1602025821,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729295457,
-    "wof:lastmodified": 1602025821,
-    "wof:name": "Twitter message #707769214191460352",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025821,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729295457,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729295457,
+    "wof:lastmodified":1602186734,
+    "wof:name":"Learn more about Marguerite Wildenhain in \u201cA Potter\u2019s Life: Marguerite Wildenhain at #PondFarm\u201d https://t.co/qaeLZ3WKsX #WomensHistoryMonth",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

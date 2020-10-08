@@ -2,174 +2,194 @@
   "id": 1729303609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2018-07-07T11:40:05-07:00",
-    "edtf:inception": "2018-07-07T11:40:05-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1530988805,
-      "created_at": "Sat Jul 07 18:40:05 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "175"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "39", 
-              "53"
-            ],
-            "text": "LeahRosenberg"
-          }, 
-          {
-            "indices": [
-              "135", 
-              "145"
-            ],
-            "text": "publicart"
-          }
+    "date:cessation_lower":"2018-07-07",
+    "date:cessation_upper":"2018-07-07",
+    "date:inception_lower":"2018-07-07",
+    "date:inception_upper":"2018-07-07",
+    "edtf:cessation":"2018-07-07T11:40:05-07:00",
+    "edtf:inception":"2018-07-07T11:40:05-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1530988805,
+        "created_at":"Sat Jul 07 18:40:05 +0000 2018",
+        "display_text_range":[
+            "0",
+            "175"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/x2FFdC2J0r",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1015666780906323968/photo/1",
-            "id": "1015666778545053696",
-            "id_str": "1015666778545053696",
-            "indices": [
-              "152", 
-              "175"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "39",
+                        "53"
+                    ],
+                    "text":"LeahRosenberg"
+                },
+                {
+                    "indices":[
+                        "135",
+                        "145"
+                    ],
+                    "text":"publicart"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DhhfjclX4AA4Npx.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DhhfjclX4AA4Npx.jpg",
-            "sizes": {
-              "large": {
-                "h": "1333",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "800",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/x2FFdC2J0r"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "18958334",
-            "id_str": "18958334",
-            "indices": [
-              "146", 
-              "151"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/x2FFdC2J0r",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1015666780906323968/photo/1",
+                    "id":"1015666778545053696",
+                    "id_str":"1015666778545053696",
+                    "indices":[
+                        "152",
+                        "175"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DhhfjclX4AA4Npx.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DhhfjclX4AA4Npx.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1333",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"800",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/x2FFdC2J0r"
+                }
             ],
-            "name": "SF Arts Commission",
-            "screen_name": "SFAC"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/x2FFdC2J0r",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1015666780906323968/photo/1",
-            "id": "1015666778545053696",
-            "id_str": "1015666778545053696",
-            "indices": [
-              "152", 
-              "175"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DhhfjclX4AA4Npx.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DhhfjclX4AA4Npx.jpg",
-            "sizes": {
-              "large": {
-                "h": "1333",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "800",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/x2FFdC2J0r"
-          }
-        ]
-      },
-      "favorite_count": "3",
-      "favorited": false,
-      "full_text": "Each strip in this colorful artwork by #LeahRosenberg corresponds to a landmark, moment, or object that is unique to our beloved city. #publicart @SFAC https://t.co/x2FFdC2J0r",
-      "id": "1015666780906323968",
-      "id_str": "1015666780906323968",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"18958334",
+                    "id_str":"18958334",
+                    "indices":[
+                        "146",
+                        "151"
+                    ],
+                    "name":"SF Arts Commission",
+                    "screen_name":"SFAC"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/x2FFdC2J0r",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1015666780906323968/photo/1",
+                    "id":"1015666778545053696",
+                    "id_str":"1015666778545053696",
+                    "indices":[
+                        "152",
+                        "175"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DhhfjclX4AA4Npx.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DhhfjclX4AA4Npx.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1333",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"800",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/x2FFdC2J0r"
+                }
+            ]
+        },
+        "favorite_count":"3",
+        "favorited":false,
+        "full_text":"Each strip in this colorful artwork by #LeahRosenberg corresponds to a landmark, moment, or object that is unique to our beloved city. #publicart @SFAC https://t.co/x2FFdC2J0r",
+        "id":"1015666780906323968",
+        "id_str":"1015666780906323968",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1015666780906324000
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1015666780906324000
     },
-    "wof:country": "US",
-    "wof:created": 1602026130,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729303609,
-    "wof:lastmodified": 1602026130,
-    "wof:name": "Twitter message #1015666780906323968",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026130,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729303609,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729303609,
+    "wof:lastmodified":1602186368,
+    "wof:name":"Each strip in this colorful artwork by #LeahRosenberg corresponds to a landmark, moment, or object that is unique to our beloved city. #publicart @SFAC https://t.co/x2FFdC2J0r",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

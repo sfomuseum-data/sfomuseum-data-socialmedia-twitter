@@ -2,90 +2,110 @@
   "id": 1729301531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2012-01-11T16:27:23-08:00",
-    "edtf:inception": "2012-01-11T16:27:23-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1326328043,
-      "created_at": "Thu Jan 12 00:27:23 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "140"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "15150956",
-            "id_str": "15150956",
-            "indices": [
-              "3", 
-              "14"
-            ],
-            "name": "Marc Massar",
-            "screen_name": "marcmassar"
-          }, 
-          {
-            "id": "116329337",
-            "id_str": "116329337",
-            "indices": [
-              "16", 
-              "26"
-            ],
-            "name": "SFO Museum",
-            "screen_name": "SFOMuseum"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @marcmassar: @SFOMuseum The displays were great. Lots of fun. The last tv in the row (23\" Zentih) was the same as my grandparents' th ...",
-      "id": "157257330512244737",
-      "id_str": "157257330512244737",
-      "lang": "en",
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
-      "truncated": false
+    "date:cessation_lower":"2012-01-11",
+    "date:cessation_upper":"2012-01-11",
+    "date:inception_lower":"2012-01-11",
+    "date:inception_upper":"2012-01-11",
+    "edtf:cessation":"2012-01-11T16:27:23-08:00",
+    "edtf:inception":"2012-01-11T16:27:23-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1326328043,
+        "created_at":"Thu Jan 12 00:27:23 +0000 2012",
+        "display_text_range":[
+            "0",
+            "140"
+        ],
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"15150956",
+                    "id_str":"15150956",
+                    "indices":[
+                        "3",
+                        "14"
+                    ],
+                    "name":"Marc Massar",
+                    "screen_name":"marcmassar"
+                },
+                {
+                    "id":"116329337",
+                    "id_str":"116329337",
+                    "indices":[
+                        "16",
+                        "26"
+                    ],
+                    "name":"SFO Museum",
+                    "screen_name":"SFOMuseum"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @marcmassar: @SFOMuseum The displays were great. Lots of fun. The last tv in the row (23\" Zentih) was the same as my grandparents' th ...",
+        "id":"157257330512244737",
+        "id_str":"157257330512244737",
+        "lang":"en",
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 157257330512244740
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":157257330512244740
     },
-    "wof:country": "US",
-    "wof:created": 1602026049,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729301531,
-    "wof:lastmodified": 1602026049,
-    "wof:name": "Twitter message #157257330512244737",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026049,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729301531,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729301531,
+    "wof:lastmodified":1602186442,
+    "wof:name":"RT @marcmassar: @SFOMuseum The displays were great. Lots of fun. The last tv in the row (23\" Zentih) was the same as my grandparents' th ...",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

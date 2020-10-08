@@ -2,163 +2,183 @@
   "id": 1729307875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-02-05T13:55:06-08:00",
-    "edtf:inception": "2020-02-05T13:55:06-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1580939706,
-      "created_at": "Wed Feb 05 21:55:06 +0000 2020",
-      "display_text_range": [
-        "0", 
-        "301"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "0", 
-              "10"
-            ],
-            "text": "OnThisDay"
-          }, 
-          {
-            "indices": [
-              "263", 
-              "276"
-            ],
-            "text": "LakerAirways"
-          }
+    "date:cessation_lower":"2020-02-05",
+    "date:cessation_upper":"2020-02-05",
+    "date:inception_lower":"2020-02-05",
+    "date:inception_upper":"2020-02-05",
+    "edtf:cessation":"2020-02-05T13:55:06-08:00",
+    "edtf:inception":"2020-02-05T13:55:06-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1580939706,
+        "created_at":"Wed Feb 05 21:55:06 +0000 2020",
+        "display_text_range":[
+            "0",
+            "301"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/oxElJRnQB9",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1225176045768323073/photo/1",
-            "id": "1225176042265968640",
-            "id_str": "1225176042265968640",
-            "indices": [
-              "278", 
-              "301"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "0",
+                        "10"
+                    ],
+                    "text":"OnThisDay"
+                },
+                {
+                    "indices":[
+                        "263",
+                        "276"
+                    ],
+                    "text":"LakerAirways"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EQCzHoKVAAAIQ9C.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EQCzHoKVAAAIQ9C.jpg",
-            "sizes": {
-              "large": {
-                "h": "1328",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "797",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "452",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/oxElJRnQB9"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/oxElJRnQB9",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1225176045768323073/photo/1",
-            "id": "1225176042265968640",
-            "id_str": "1225176042265968640",
-            "indices": [
-              "278", 
-              "301"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/oxElJRnQB9",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1225176045768323073/photo/1",
+                    "id":"1225176042265968640",
+                    "id_str":"1225176042265968640",
+                    "indices":[
+                        "278",
+                        "301"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EQCzHoKVAAAIQ9C.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EQCzHoKVAAAIQ9C.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1328",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"797",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"452",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/oxElJRnQB9"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EQCzHoKVAAAIQ9C.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EQCzHoKVAAAIQ9C.jpg",
-            "sizes": {
-              "large": {
-                "h": "1328",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "797",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "452",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/oxElJRnQB9"
-          }
-        ]
-      },
-      "favorite_count": "7",
-      "favorited": false,
-      "full_text": "#OnThisDay in 1982, Laker Airways declared bankruptcy, with aircraft still in service. One of the world’s first long-haul, low-cost carriers, flying from London Gatwick to New York, the airline helped pave the way for other low-cost airlines. Did you ever fly on #LakerAirways? https://t.co/oxElJRnQB9",
-      "id": "1225176045768323073",
-      "id_str": "1225176045768323073",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "2",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/oxElJRnQB9",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1225176045768323073/photo/1",
+                    "id":"1225176042265968640",
+                    "id_str":"1225176042265968640",
+                    "indices":[
+                        "278",
+                        "301"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EQCzHoKVAAAIQ9C.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EQCzHoKVAAAIQ9C.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1328",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"797",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"452",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/oxElJRnQB9"
+                }
+            ]
+        },
+        "favorite_count":"7",
+        "favorited":false,
+        "full_text":"#OnThisDay in 1982, Laker Airways declared bankruptcy, with aircraft still in service. One of the world\u2019s first long-haul, low-cost carriers, flying from London Gatwick to New York, the airline helped pave the way for other low-cost airlines. Did you ever fly on #LakerAirways? https://t.co/oxElJRnQB9",
+        "id":"1225176045768323073",
+        "id_str":"1225176045768323073",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"2",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1225176045768323000
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1225176045768323000
     },
-    "wof:country": "US",
-    "wof:created": 1602026294,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729307875,
-    "wof:lastmodified": 1602026294,
-    "wof:name": "Twitter message #1225176045768323073",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026294,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729307875,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729307875,
+    "wof:lastmodified":1602186226,
+    "wof:name":"#OnThisDay in 1982, Laker Airways declared bankruptcy, with aircraft still in service. One of the world\u2019s first long-haul, low-cost carriers, flying from London Gatwick to New York, the airline helped pave the way for other low-cost airlines. Did you ever fly on #LakerAirways? https://t.co/oxElJRnQB9",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

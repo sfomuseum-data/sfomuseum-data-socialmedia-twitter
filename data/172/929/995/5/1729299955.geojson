@@ -2,99 +2,119 @@
   "id": 1729299955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2017-04-25T16:34:31-07:00",
-    "edtf:inception": "2017-04-25T16:34:31-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1493163271,
-      "created_at": "Tue Apr 25 23:34:31 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "140"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "62", 
-              "71"
-            ],
-            "text": "BelugaXL"
-          }
+    "date:cessation_lower":"2017-04-25",
+    "date:cessation_upper":"2017-04-25",
+    "date:inception_lower":"2017-04-25",
+    "date:inception_upper":"2017-04-25",
+    "edtf:cessation":"2017-04-25T16:34:31-07:00",
+    "edtf:inception":"2017-04-25T16:34:31-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1493163271,
+        "created_at":"Tue Apr 25 23:34:31 +0000 2017",
+        "display_text_range":[
+            "0",
+            "140"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "goo.gl/BEbZfl",
-            "expanded_url": "https://goo.gl/BEbZfl",
-            "indices": [
-              "113", 
-              "136"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "62",
+                        "71"
+                    ],
+                    "text":"BelugaXL"
+                }
             ],
-            "url": "https://t.co/URBArengQs"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "15425377",
-            "id_str": "15425377",
-            "indices": [
-              "3", 
-              "10"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"goo.gl/BEbZfl",
+                    "expanded_url":"https://goo.gl/BEbZfl",
+                    "indices":[
+                        "113",
+                        "136"
+                    ],
+                    "url":"https://t.co/URBArengQs"
+                }
             ],
-            "name": "Airbus",
-            "screen_name": "Airbus"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @Airbus: Our employees have selected the livery of the 1st #BelugaXL. Hit ❤️ if you like it as much as we do! https://t.co/URBArengQs ht…",
-      "id": "857014991941009408",
-      "id_str": "857014991941009408",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"15425377",
+                    "id_str":"15425377",
+                    "indices":[
+                        "3",
+                        "10"
+                    ],
+                    "name":"Airbus",
+                    "screen_name":"Airbus"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @Airbus: Our employees have selected the livery of the 1st #BelugaXL. Hit \u2764\ufe0f if you like it as much as we do! https://t.co/URBArengQs ht\u2026",
+        "id":"857014991941009408",
+        "id_str":"857014991941009408",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 857014991941009400
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":857014991941009400
     },
-    "wof:country": "US",
-    "wof:created": 1602025992,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729299955,
-    "wof:lastmodified": 1602025992,
-    "wof:name": "Twitter message #857014991941009408",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025992,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729299955,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729299955,
+    "wof:lastmodified":1602186645,
+    "wof:name":"RT @Airbus: Our employees have selected the livery of the 1st #BelugaXL. Hit \u2764\ufe0f if you like it as much as we do! https://t.co/URBArengQs ht\u2026",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,116 +2,136 @@
   "id": 1729310955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2012-10-29T11:17:35-07:00",
-    "edtf:inception": "2012-10-29T11:17:35-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1351534655,
-      "created_at": "Mon Oct 29 18:17:35 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "119"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/T75Bmw",
-            "expanded_url": "http://bit.ly/T75Bmw",
-            "indices": [
-              "85", 
-              "105"
-            ],
-            "url": "http://t.co/jbEeMpn8"
-          }
+    "date:cessation_lower":"2012-10-29",
+    "date:cessation_upper":"2012-10-29",
+    "date:inception_lower":"2012-10-29",
+    "date:inception_upper":"2012-10-29",
+    "edtf:cessation":"2012-10-29T11:17:35-07:00",
+    "edtf:inception":"2012-10-29T11:17:35-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1351534655,
+        "created_at":"Mon Oct 29 18:17:35 +0000 2012",
+        "display_text_range":[
+            "0",
+            "119"
         ],
-        "user_mentions": [
-          {
-            "id": "82998214",
-            "id_str": "82998214",
-            "indices": [
-              "0", 
-              "8"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/T75Bmw",
+                    "expanded_url":"http://bit.ly/T75Bmw",
+                    "indices":[
+                        "85",
+                        "105"
+                    ],
+                    "url":"http://t.co/jbEeMpn8"
+                }
             ],
-            "name": "Mallory Burda",
-            "screen_name": "malburd"
-          }, 
-          {
-            "id": "28169211",
-            "id_str": "28169211",
-            "indices": [
-              "9", 
-              "22"
-            ],
-            "name": "Jesse Thomas",
-            "screen_name": "jessemthomas"
-          }, 
-          {
-            "id": "28454994",
-            "id_str": "28454994",
-            "indices": [
-              "47", 
-              "62"
-            ],
-            "name": "Specialized Bicycles",
-            "screen_name": "iamspecialized"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "@malburd @jessemthomas There is indeed a great @iamspecialized bike on display here! http://t.co/jbEeMpn8 Come visit :)",
-      "id": "262981522536157186",
-      "id_str": "262981522536157186",
-      "in_reply_to_screen_name": "malburd",
-      "in_reply_to_status_id": "262978243089551360",
-      "in_reply_to_status_id_str": "262978243089551360",
-      "in_reply_to_user_id": "82998214",
-      "in_reply_to_user_id_str": "82998214",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"82998214",
+                    "id_str":"82998214",
+                    "indices":[
+                        "0",
+                        "8"
+                    ],
+                    "name":"Mallory Burda",
+                    "screen_name":"malburd"
+                },
+                {
+                    "id":"28169211",
+                    "id_str":"28169211",
+                    "indices":[
+                        "9",
+                        "22"
+                    ],
+                    "name":"Jesse Thomas",
+                    "screen_name":"jessemthomas"
+                },
+                {
+                    "id":"28454994",
+                    "id_str":"28454994",
+                    "indices":[
+                        "47",
+                        "62"
+                    ],
+                    "name":"Specialized Bicycles",
+                    "screen_name":"iamspecialized"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"@malburd @jessemthomas There is indeed a great @iamspecialized bike on display here! http://t.co/jbEeMpn8 Come visit :)",
+        "id":"262981522536157186",
+        "id_str":"262981522536157186",
+        "in_reply_to_screen_name":"malburd",
+        "in_reply_to_status_id":"262978243089551360",
+        "in_reply_to_status_id_str":"262978243089551360",
+        "in_reply_to_user_id":"82998214",
+        "in_reply_to_user_id_str":"82998214",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 262981522536157200
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":262981522536157200
     },
-    "wof:country": "US",
-    "wof:created": 1602026413,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729310955,
-    "wof:lastmodified": 1602026413,
-    "wof:name": "Twitter message #262981522536157186",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026413,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729310955,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729310955,
+    "wof:lastmodified":1602186464,
+    "wof:name":"@malburd @jessemthomas There is indeed a great @iamspecialized bike on display here! http://t.co/jbEeMpn8 Come visit :)",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

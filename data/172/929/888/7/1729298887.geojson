@@ -2,156 +2,176 @@
   "id": 1729298887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-12-31T12:00:54-08:00",
-    "edtf:inception": "2016-12-31T12:00:54-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1483214454,
-      "created_at": "Sat Dec 31 20:00:54 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "159"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "125", 
-              "135"
-            ],
-            "text": "AlexRamos"
-          }
+    "date:cessation_lower":"2016-12-31",
+    "date:cessation_upper":"2016-12-31",
+    "date:inception_lower":"2016-12-31",
+    "date:inception_upper":"2016-12-31",
+    "edtf:cessation":"2016-12-31T12:00:54-08:00",
+    "edtf:inception":"2016-12-31T12:00:54-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1483214454,
+        "created_at":"Sat Dec 31 20:00:54 +0000 2016",
+        "display_text_range":[
+            "0",
+            "159"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/o0uDMweA9Z",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/815286630609289216/photo/1",
-            "id": "815286627736154117",
-            "id_str": "815286627736154117",
-            "indices": [
-              "136", 
-              "159"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "125",
+                        "135"
+                    ],
+                    "text":"AlexRamos"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/C1B63kxW8AUCTws.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C1B63kxW8AUCTws.jpg",
-            "sizes": {
-              "large": {
-                "h": "1339",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "803",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "455",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/o0uDMweA9Z"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/o0uDMweA9Z",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/815286630609289216/photo/1",
-            "id": "815286627736154117",
-            "id_str": "815286627736154117",
-            "indices": [
-              "136", 
-              "159"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/o0uDMweA9Z",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/815286630609289216/photo/1",
+                    "id":"815286627736154117",
+                    "id_str":"815286627736154117",
+                    "indices":[
+                        "136",
+                        "159"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C1B63kxW8AUCTws.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C1B63kxW8AUCTws.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1339",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"803",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"455",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/o0uDMweA9Z"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/C1B63kxW8AUCTws.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C1B63kxW8AUCTws.jpg",
-            "sizes": {
-              "large": {
-                "h": "1339",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "803",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "455",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/o0uDMweA9Z"
-          }
-        ]
-      },
-      "favorite_count": "4",
-      "favorited": false,
-      "full_text": "\"The railroads serve as a channel of escape and getaway; low enough in altitude to still enjoy the beauty of the landscape.\" #AlexRamos https://t.co/o0uDMweA9Z",
-      "id": "815286630609289216",
-      "id_str": "815286630609289216",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/o0uDMweA9Z",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/815286630609289216/photo/1",
+                    "id":"815286627736154117",
+                    "id_str":"815286627736154117",
+                    "indices":[
+                        "136",
+                        "159"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C1B63kxW8AUCTws.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C1B63kxW8AUCTws.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1339",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"803",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"455",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/o0uDMweA9Z"
+                }
+            ]
+        },
+        "favorite_count":"4",
+        "favorited":false,
+        "full_text":"\"The railroads serve as a channel of escape and getaway; low enough in altitude to still enjoy the beauty of the landscape.\" #AlexRamos https://t.co/o0uDMweA9Z",
+        "id":"815286630609289216",
+        "id_str":"815286630609289216",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 815286630609289200
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":815286630609289200
     },
-    "wof:country": "US",
-    "wof:created": 1602025952,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729298887,
-    "wof:lastmodified": 1602025952,
-    "wof:name": "Twitter message #815286630609289216",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025952,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729298887,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729298887,
+    "wof:lastmodified":1602186687,
+    "wof:name":"\"The railroads serve as a channel of escape and getaway; low enough in altitude to still enjoy the beauty of the landscape.\" #AlexRamos https://t.co/o0uDMweA9Z",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

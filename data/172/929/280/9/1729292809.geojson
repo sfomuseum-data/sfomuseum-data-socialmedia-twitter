@@ -2,100 +2,120 @@
   "id": 1729292809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2014-12-09T14:28:30-08:00",
-    "edtf:inception": "2014-12-09T14:28:30-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1418164110,
-      "created_at": "Tue Dec 09 22:28:30 +0000 2014",
-      "display_text_range": [
-        "0", 
-        "103"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "flysfo.com/museum/exhibit…",
-            "expanded_url": "http://www.flysfo.com/museum/exhibitions/world-characters",
-            "indices": [
-              "12", 
-              "34"
-            ],
-            "url": "http://t.co/cQmPMSxek6"
-          }, 
-          {
-            "display_url": "instagram.com/p/wQZoQxEXvn/",
-            "expanded_url": "http://instagram.com/p/wQZoQxEXvn/",
-            "indices": [
-              "81", 
-              "103"
-            ],
-            "url": "http://t.co/HMBhKUP6cb"
-          }
+    "date:cessation_lower":"2014-12-09",
+    "date:cessation_upper":"2014-12-09",
+    "date:inception_lower":"2014-12-09",
+    "date:inception_upper":"2014-12-09",
+    "edtf:cessation":"2014-12-09T14:28:30-08:00",
+    "edtf:inception":"2014-12-09T14:28:30-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1418164110,
+        "created_at":"Tue Dec 09 22:28:30 +0000 2014",
+        "display_text_range":[
+            "0",
+            "103"
         ],
-        "user_mentions": [
-          {
-            "id": "15226824",
-            "id_str": "15226824",
-            "indices": [
-              "3", 
-              "10"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"flysfo.com/museum/exhibit\u2026",
+                    "expanded_url":"http://www.flysfo.com/museum/exhibitions/world-characters",
+                    "indices":[
+                        "12",
+                        "34"
+                    ],
+                    "url":"http://t.co/cQmPMSxek6"
+                },
+                {
+                    "display_url":"instagram.com/p/wQZoQxEXvn/",
+                    "expanded_url":"http://instagram.com/p/wQZoQxEXvn/",
+                    "indices":[
+                        "81",
+                        "103"
+                    ],
+                    "url":"http://t.co/HMBhKUP6cb"
+                }
             ],
-            "name": "kokoe2",
-            "screen_name": "kokoe2"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @kokoe2: http://t.co/cQmPMSxek6\n\nBefore security! Anyone can go! @ SFO - San… http://t.co/HMBhKUP6cb",
-      "id": "542445710914764801",
-      "id_str": "542445710914764801",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"15226824",
+                    "id_str":"15226824",
+                    "indices":[
+                        "3",
+                        "10"
+                    ],
+                    "name":"kokoe2",
+                    "screen_name":"kokoe2"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @kokoe2: http://t.co/cQmPMSxek6\n\nBefore security! Anyone can go! @ SFO - San\u2026 http://t.co/HMBhKUP6cb",
+        "id":"542445710914764801",
+        "id_str":"542445710914764801",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 542445710914764800
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":542445710914764800
     },
-    "wof:country": "US",
-    "wof:created": 1602025721,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729292809,
-    "wof:lastmodified": 1602025721,
-    "wof:name": "Twitter message #542445710914764801",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025721,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729292809,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729292809,
+    "wof:lastmodified":1602186624,
+    "wof:name":"RT @kokoe2: http://t.co/cQmPMSxek6\n\nBefore security! Anyone can go! @ SFO - San\u2026 http://t.co/HMBhKUP6cb",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

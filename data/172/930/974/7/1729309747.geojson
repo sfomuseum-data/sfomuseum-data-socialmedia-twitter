@@ -2,114 +2,134 @@
   "id": 1729309747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2012-06-04T16:43:31-07:00",
-    "edtf:inception": "2012-06-04T16:43:31-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1338853411,
-      "created_at": "Mon Jun 04 23:43:31 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "131"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "29", 
-              "43"
-            ],
-            "text": "HughesAirWest"
-          }
+    "date:cessation_lower":"2012-06-04",
+    "date:cessation_upper":"2012-06-04",
+    "date:inception_lower":"2012-06-04",
+    "date:inception_upper":"2012-06-04",
+    "edtf:cessation":"2012-06-04T16:43:31-07:00",
+    "edtf:inception":"2012-06-04T16:43:31-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1338853411,
+        "created_at":"Mon Jun 04 23:43:31 +0000 2012",
+        "display_text_range":[
+            "0",
+            "131"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "yfrog.com/ocqo4fdmj",
-            "expanded_url": "http://yfrog.com/ocqo4fdmj",
-            "indices": [
-              "111", 
-              "131"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "29",
+                        "43"
+                    ],
+                    "text":"HughesAirWest"
+                }
             ],
-            "url": "http://t.co/dNihkZyt"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "41842642",
-            "id_str": "41842642",
-            "indices": [
-              "0", 
-              "15"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"yfrog.com/ocqo4fdmj",
+                    "expanded_url":"http://yfrog.com/ocqo4fdmj",
+                    "indices":[
+                        "111",
+                        "131"
+                    ],
+                    "url":"http://t.co/dNihkZyt"
+                }
             ],
-            "name": "James Mowdy | BSPOKE",
-            "screen_name": "JamesJetsOften"
-          }, 
-          {
-            "id": "16486110",
-            "id_str": "16486110",
-            "indices": [
-              "16", 
-              "28"
-            ],
-            "name": "Henry Harteveldt",
-            "screen_name": "hharteveldt"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "@JamesJetsOften @hharteveldt #HughesAirWest had the best go-go boots! They're an absolute MUST to bring back!! http://t.co/dNihkZyt",
-      "id": "209792528487161859",
-      "id_str": "209792528487161859",
-      "in_reply_to_screen_name": "JamesJetsOften",
-      "in_reply_to_status_id": "209786406644629506",
-      "in_reply_to_status_id_str": "209786406644629506",
-      "in_reply_to_user_id": "41842642",
-      "in_reply_to_user_id_str": "41842642",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"41842642",
+                    "id_str":"41842642",
+                    "indices":[
+                        "0",
+                        "15"
+                    ],
+                    "name":"James Mowdy | BSPOKE",
+                    "screen_name":"JamesJetsOften"
+                },
+                {
+                    "id":"16486110",
+                    "id_str":"16486110",
+                    "indices":[
+                        "16",
+                        "28"
+                    ],
+                    "name":"Henry Harteveldt",
+                    "screen_name":"hharteveldt"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"@JamesJetsOften @hharteveldt #HughesAirWest had the best go-go boots! They're an absolute MUST to bring back!! http://t.co/dNihkZyt",
+        "id":"209792528487161859",
+        "id_str":"209792528487161859",
+        "in_reply_to_screen_name":"JamesJetsOften",
+        "in_reply_to_status_id":"209786406644629506",
+        "in_reply_to_status_id_str":"209786406644629506",
+        "in_reply_to_user_id":"41842642",
+        "in_reply_to_user_id_str":"41842642",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 209792528487161860
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":209792528487161860
     },
-    "wof:country": "US",
-    "wof:created": 1602026367,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729309747,
-    "wof:lastmodified": 1602026367,
-    "wof:name": "Twitter message #209792528487161859",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026367,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729309747,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729309747,
+    "wof:lastmodified":1602186381,
+    "wof:name":"@JamesJetsOften @hharteveldt #HughesAirWest had the best go-go boots! They're an absolute MUST to bring back!! http://t.co/dNihkZyt",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

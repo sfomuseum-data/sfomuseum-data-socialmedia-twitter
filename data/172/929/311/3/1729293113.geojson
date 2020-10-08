@@ -2,80 +2,100 @@
   "id": 1729293113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2011-11-18T11:06:06-08:00",
-    "edtf:inception": "2011-11-18T11:06:06-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1321643166,
-      "created_at": "Fri Nov 18 19:06:06 +0000 2011",
-      "display_text_range": [
-        "0", 
-        "127"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "yfrog.com/gz7knezrj",
-            "expanded_url": "http://yfrog.com/gz7knezrj",
-            "indices": [
-              "107", 
-              "127"
-            ],
-            "url": "http://t.co/MKNyd3TQ"
-          }
+    "date:cessation_lower":"2011-11-18",
+    "date:cessation_upper":"2011-11-18",
+    "date:inception_lower":"2011-11-18",
+    "date:inception_upper":"2011-11-18",
+    "edtf:cessation":"2011-11-18T11:06:06-08:00",
+    "edtf:inception":"2011-11-18T11:06:06-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1321643166,
+        "created_at":"Fri Nov 18 19:06:06 +0000 2011",
+        "display_text_range":[
+            "0",
+            "127"
         ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "How many of you had this Andy Warhol-designed album (one of many he did) of The Velvet Underground \u0026 Nico? http://t.co/MKNyd3TQ",
-      "id": "137607530703618049",
-      "id_str": "137607530703618049",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"yfrog.com/gz7knezrj",
+                    "expanded_url":"http://yfrog.com/gz7knezrj",
+                    "indices":[
+                        "107",
+                        "127"
+                    ],
+                    "url":"http://t.co/MKNyd3TQ"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"How many of you had this Andy Warhol-designed album (one of many he did) of The Velvet Underground & Nico? http://t.co/MKNyd3TQ",
+        "id":"137607530703618049",
+        "id_str":"137607530703618049",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 137607530703618050
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":137607530703618050
     },
-    "wof:country": "US",
-    "wof:created": 1602025733,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729293113,
-    "wof:lastmodified": 1602025733,
-    "wof:name": "Twitter message #137607530703618049",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025733,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729293113,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729293113,
+    "wof:lastmodified":1602186675,
+    "wof:name":"How many of you had this Andy Warhol-designed album (one of many he did) of The Velvet Underground & Nico? http://t.co/MKNyd3TQ",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

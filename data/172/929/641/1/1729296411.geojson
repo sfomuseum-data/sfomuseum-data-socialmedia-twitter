@@ -2,185 +2,205 @@
   "id": 1729296411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-06-10T09:41:18-07:00",
-    "edtf:inception": "2016-06-10T09:41:18-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1465576878,
-      "created_at": "Fri Jun 10 16:41:18 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "132"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "101", 
-              "108"
-            ],
-            "text": "FlySFO"
-          }
+    "date:cessation_lower":"2016-06-10",
+    "date:cessation_upper":"2016-06-10",
+    "date:inception_lower":"2016-06-10",
+    "date:inception_upper":"2016-06-10",
+    "edtf:cessation":"2016-06-10T09:41:18-07:00",
+    "edtf:inception":"2016-06-10T09:41:18-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1465576878,
+        "created_at":"Fri Jun 10 16:41:18 +0000 2016",
+        "display_text_range":[
+            "0",
+            "132"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/N6WBzHm8Ki",
-            "expanded_url": "https://twitter.com/wow_air/status/741212814015074304/photo/1",
-            "id": "741212811066519552",
-            "id_str": "741212811066519552",
-            "indices": [
-              "109", 
-              "132"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "101",
+                        "108"
+                    ],
+                    "text":"FlySFO"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CklRH-KWsAAMn9g.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CklRH-KWsAAMn9g.jpg",
-            "sizes": {
-              "large": {
-                "h": "1125",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "741212814015074304",
-            "source_status_id_str": "741212814015074304",
-            "source_user_id": "399388492",
-            "source_user_id_str": "399388492",
-            "type": "photo",
-            "url": "https://t.co/N6WBzHm8Ki"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "399388492",
-            "id_str": "399388492",
-            "indices": [
-              "3", 
-              "11"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/N6WBzHm8Ki",
+                    "expanded_url":"https://twitter.com/wow_air/status/741212814015074304/photo/1",
+                    "id":"741212811066519552",
+                    "id_str":"741212811066519552",
+                    "indices":[
+                        "109",
+                        "132"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CklRH-KWsAAMn9g.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CklRH-KWsAAMn9g.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1125",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"741212814015074304",
+                    "source_status_id_str":"741212814015074304",
+                    "source_user_id":"399388492",
+                    "source_user_id_str":"399388492",
+                    "type":"photo",
+                    "url":"https://t.co/N6WBzHm8Ki"
+                }
             ],
-            "name": "WOW air",
-            "screen_name": "wow_air"
-          }, 
-          {
-            "id": "16408759",
-            "id_str": "16408759",
-            "indices": [
-              "80", 
-              "87"
-            ],
-            "name": "San Francisco International Airport (SFO) ✈️",
-            "screen_name": "flySFO"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/N6WBzHm8Ki",
-            "expanded_url": "https://twitter.com/wow_air/status/741212814015074304/photo/1",
-            "id": "741212811066519552",
-            "id_str": "741212811066519552",
-            "indices": [
-              "109", 
-              "132"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CklRH-KWsAAMn9g.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CklRH-KWsAAMn9g.jpg",
-            "sizes": {
-              "large": {
-                "h": "1125",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "741212814015074304",
-            "source_status_id_str": "741212814015074304",
-            "source_user_id": "399388492",
-            "source_user_id_str": "399388492",
-            "type": "photo",
-            "url": "https://t.co/N6WBzHm8Ki"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @wow_air: Yeah, we just touched down in San Fran for the first time ever and @FlySFO just lit up! #FlySFO https://t.co/N6WBzHm8Ki",
-      "id": "741309275407028224",
-      "id_str": "741309275407028224",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"399388492",
+                    "id_str":"399388492",
+                    "indices":[
+                        "3",
+                        "11"
+                    ],
+                    "name":"WOW air",
+                    "screen_name":"wow_air"
+                },
+                {
+                    "id":"16408759",
+                    "id_str":"16408759",
+                    "indices":[
+                        "80",
+                        "87"
+                    ],
+                    "name":"San Francisco International Airport (SFO) \u2708\ufe0f",
+                    "screen_name":"flySFO"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/N6WBzHm8Ki",
+                    "expanded_url":"https://twitter.com/wow_air/status/741212814015074304/photo/1",
+                    "id":"741212811066519552",
+                    "id_str":"741212811066519552",
+                    "indices":[
+                        "109",
+                        "132"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CklRH-KWsAAMn9g.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CklRH-KWsAAMn9g.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1125",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"741212814015074304",
+                    "source_status_id_str":"741212814015074304",
+                    "source_user_id":"399388492",
+                    "source_user_id_str":"399388492",
+                    "type":"photo",
+                    "url":"https://t.co/N6WBzHm8Ki"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @wow_air: Yeah, we just touched down in San Fran for the first time ever and @FlySFO just lit up! #FlySFO https://t.co/N6WBzHm8Ki",
+        "id":"741309275407028224",
+        "id_str":"741309275407028224",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 741309275407028200
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":741309275407028200
     },
-    "wof:country": "US",
-    "wof:created": 1602025856,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729296411,
-    "wof:lastmodified": 1602025856,
-    "wof:name": "Twitter message #741309275407028224",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025856,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729296411,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729296411,
+    "wof:lastmodified":1602186726,
+    "wof:name":"RT @wow_air: Yeah, we just touched down in San Fran for the first time ever and @FlySFO just lit up! #FlySFO https://t.co/N6WBzHm8Ki",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

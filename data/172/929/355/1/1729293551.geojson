@@ -2,167 +2,187 @@
   "id": 1729293551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2015-06-25T16:00:40-07:00",
-    "edtf:inception": "2015-06-25T16:00:40-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1435273240,
-      "created_at": "Thu Jun 25 23:00:40 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "100"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/531g5etSwO",
-            "expanded_url": "https://twitter.com/jenfoolery/status/614156777282637824/photo/1",
-            "id": "614156771981070336",
-            "id_str": "614156771981070336",
-            "indices": [
-              "78", 
-              "100"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CIXsVIZVEAAAnba.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CIXsVIZVEAAAnba.jpg",
-            "sizes": {
-              "large": {
-                "h": "774",
-                "resize": "fit",
-                "w": "1032"
-              },
-              "medium": {
-                "h": "774",
-                "resize": "fit",
-                "w": "1032"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "614156777282637824",
-            "source_status_id_str": "614156777282637824",
-            "source_user_id": "7120992",
-            "source_user_id_str": "7120992",
-            "type": "photo",
-            "url": "http://t.co/531g5etSwO"
-          }
+    "date:cessation_lower":"2015-06-25",
+    "date:cessation_upper":"2015-06-25",
+    "date:inception_lower":"2015-06-25",
+    "date:inception_upper":"2015-06-25",
+    "edtf:cessation":"2015-06-25T16:00:40-07:00",
+    "edtf:inception":"2015-06-25T16:00:40-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1435273240,
+        "created_at":"Thu Jun 25 23:00:40 +0000 2015",
+        "display_text_range":[
+            "0",
+            "100"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "7120992",
-            "id_str": "7120992",
-            "indices": [
-              "3", 
-              "14"
+        "entities":{
+            "hashtags":[],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/531g5etSwO",
+                    "expanded_url":"https://twitter.com/jenfoolery/status/614156777282637824/photo/1",
+                    "id":"614156771981070336",
+                    "id_str":"614156771981070336",
+                    "indices":[
+                        "78",
+                        "100"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CIXsVIZVEAAAnba.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CIXsVIZVEAAAnba.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"774",
+                            "resize":"fit",
+                            "w":"1032"
+                        },
+                        "medium":{
+                            "h":"774",
+                            "resize":"fit",
+                            "w":"1032"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"614156777282637824",
+                    "source_status_id_str":"614156777282637824",
+                    "source_user_id":"7120992",
+                    "source_user_id_str":"7120992",
+                    "type":"photo",
+                    "url":"http://t.co/531g5etSwO"
+                }
             ],
-            "name": "Jenny Reiswig",
-            "screen_name": "jenfoolery"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/531g5etSwO",
-            "expanded_url": "https://twitter.com/jenfoolery/status/614156777282637824/photo/1",
-            "id": "614156771981070336",
-            "id_str": "614156771981070336",
-            "indices": [
-              "78", 
-              "100"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CIXsVIZVEAAAnba.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CIXsVIZVEAAAnba.jpg",
-            "sizes": {
-              "large": {
-                "h": "774",
-                "resize": "fit",
-                "w": "1032"
-              },
-              "medium": {
-                "h": "774",
-                "resize": "fit",
-                "w": "1032"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "614156777282637824",
-            "source_status_id_str": "614156777282637824",
-            "source_user_id": "7120992",
-            "source_user_id_str": "7120992",
-            "type": "photo",
-            "url": "http://t.co/531g5etSwO"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @jenfoolery: Great monster memorabilia collection from Kirk Hammett at SFO http://t.co/531g5etSwO",
-      "id": "614206604670599168",
-      "id_str": "614206604670599168",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"7120992",
+                    "id_str":"7120992",
+                    "indices":[
+                        "3",
+                        "14"
+                    ],
+                    "name":"Jenny Reiswig",
+                    "screen_name":"jenfoolery"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/531g5etSwO",
+                    "expanded_url":"https://twitter.com/jenfoolery/status/614156777282637824/photo/1",
+                    "id":"614156771981070336",
+                    "id_str":"614156771981070336",
+                    "indices":[
+                        "78",
+                        "100"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CIXsVIZVEAAAnba.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CIXsVIZVEAAAnba.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"774",
+                            "resize":"fit",
+                            "w":"1032"
+                        },
+                        "medium":{
+                            "h":"774",
+                            "resize":"fit",
+                            "w":"1032"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"614156777282637824",
+                    "source_status_id_str":"614156777282637824",
+                    "source_user_id":"7120992",
+                    "source_user_id_str":"7120992",
+                    "type":"photo",
+                    "url":"http://t.co/531g5etSwO"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @jenfoolery: Great monster memorabilia collection from Kirk Hammett at SFO http://t.co/531g5etSwO",
+        "id":"614206604670599168",
+        "id_str":"614206604670599168",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 614206604670599200
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":614206604670599200
     },
-    "wof:country": "US",
-    "wof:created": 1602025749,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729293551,
-    "wof:lastmodified": 1602025749,
-    "wof:name": "Twitter message #614206604670599168",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025749,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729293551,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729293551,
+    "wof:lastmodified":1602186596,
+    "wof:name":"RT @jenfoolery: Great monster memorabilia collection from Kirk Hammett at SFO http://t.co/531g5etSwO",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

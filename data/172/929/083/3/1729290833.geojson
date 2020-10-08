@@ -2,196 +2,216 @@
   "id": 1729290833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2013-09-17T14:46:51-07:00",
-    "edtf:inception": "2013-09-17T14:46:51-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1379454411,
-      "created_at": "Tue Sep 17 21:46:51 +0000 2013",
-      "display_text_range": [
-        "0", 
-        "130"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "15", 
-              "24"
-            ],
-            "text": "recology"
-          }, 
-          {
-            "indices": [
-              "36", 
-              "40"
-            ],
-            "text": "sfo"
-          }, 
-          {
-            "indices": [
-              "65", 
-              "83"
-            ],
-            "text": "WallStreetjournal"
-          }, 
-          {
-            "indices": [
-              "88", 
-              "101"
-            ],
-            "text": "NewYorkTimes"
-          }
+    "date:cessation_lower":"2013-09-17",
+    "date:cessation_upper":"2013-09-17",
+    "date:inception_lower":"2013-09-17",
+    "date:inception_upper":"2013-09-17",
+    "edtf:cessation":"2013-09-17T14:46:51-07:00",
+    "edtf:inception":"2013-09-17T14:46:51-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1379454411,
+        "created_at":"Tue Sep 17 21:46:51 +0000 2013",
+        "display_text_range":[
+            "0",
+            "130"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/qzGvrfIA2l",
-            "expanded_url": "https://twitter.com/wallywolk/status/380083065998934016/photo/1",
-            "id": "380083065806020609",
-            "id_str": "380083065806020609",
-            "indices": [
-              "108", 
-              "130"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "15",
+                        "24"
+                    ],
+                    "text":"recology"
+                },
+                {
+                    "indices":[
+                        "36",
+                        "40"
+                    ],
+                    "text":"sfo"
+                },
+                {
+                    "indices":[
+                        "65",
+                        "83"
+                    ],
+                    "text":"WallStreetjournal"
+                },
+                {
+                    "indices":[
+                        "88",
+                        "101"
+                    ],
+                    "text":"NewYorkTimes"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/BUZTiNqCYAE0MbZ.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/BUZTiNqCYAE0MbZ.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "763"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "763"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "507"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "380083065998934016",
-            "source_status_id_str": "380083065998934016",
-            "source_user_id": "95779280",
-            "source_user_id_str": "95779280",
-            "type": "photo",
-            "url": "http://t.co/qzGvrfIA2l"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "95779280",
-            "id_str": "95779280",
-            "indices": [
-              "3", 
-              "13"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/qzGvrfIA2l",
+                    "expanded_url":"https://twitter.com/wallywolk/status/380083065998934016/photo/1",
+                    "id":"380083065806020609",
+                    "id_str":"380083065806020609",
+                    "indices":[
+                        "108",
+                        "130"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/BUZTiNqCYAE0MbZ.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/BUZTiNqCYAE0MbZ.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"763"
+                        },
+                        "medium":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"763"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"507"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"380083065998934016",
+                    "source_status_id_str":"380083065998934016",
+                    "source_user_id":"95779280",
+                    "source_user_id_str":"95779280",
+                    "type":"photo",
+                    "url":"http://t.co/qzGvrfIA2l"
+                }
             ],
-            "name": "Wally Wolk",
-            "screen_name": "wallywolk"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/qzGvrfIA2l",
-            "expanded_url": "https://twitter.com/wallywolk/status/380083065998934016/photo/1",
-            "id": "380083065806020609",
-            "id_str": "380083065806020609",
-            "indices": [
-              "108", 
-              "130"
-            ],
-            "media_url": "http://pbs.twimg.com/media/BUZTiNqCYAE0MbZ.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/BUZTiNqCYAE0MbZ.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "763"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "763"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "507"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "380083065998934016",
-            "source_status_id_str": "380083065998934016",
-            "source_user_id": "95779280",
-            "source_user_id_str": "95779280",
-            "type": "photo",
-            "url": "http://t.co/qzGvrfIA2l"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @wallywolk: #recology exhibit at #sfo is inspiring. Made from #WallStreetjournal and #NewYorkTimes bags. http://t.co/qzGvrfIA2l",
-      "id": "380085465996857344",
-      "id_str": "380085465996857344",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"95779280",
+                    "id_str":"95779280",
+                    "indices":[
+                        "3",
+                        "13"
+                    ],
+                    "name":"Wally Wolk",
+                    "screen_name":"wallywolk"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/qzGvrfIA2l",
+                    "expanded_url":"https://twitter.com/wallywolk/status/380083065998934016/photo/1",
+                    "id":"380083065806020609",
+                    "id_str":"380083065806020609",
+                    "indices":[
+                        "108",
+                        "130"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/BUZTiNqCYAE0MbZ.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/BUZTiNqCYAE0MbZ.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"763"
+                        },
+                        "medium":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"763"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"507"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"380083065998934016",
+                    "source_status_id_str":"380083065998934016",
+                    "source_user_id":"95779280",
+                    "source_user_id_str":"95779280",
+                    "type":"photo",
+                    "url":"http://t.co/qzGvrfIA2l"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @wallywolk: #recology exhibit at #sfo is inspiring. Made from #WallStreetjournal and #NewYorkTimes bags. http://t.co/qzGvrfIA2l",
+        "id":"380085465996857344",
+        "id_str":"380085465996857344",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 380085465996857340
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":380085465996857340
     },
-    "wof:country": "US",
-    "wof:created": 1602025648,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729290833,
-    "wof:lastmodified": 1602025648,
-    "wof:name": "Twitter message #380085465996857344",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025648,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729290833,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729290833,
+    "wof:lastmodified":1602186557,
+    "wof:name":"RT @wallywolk: #recology exhibit at #sfo is inspiring. Made from #WallStreetjournal and #NewYorkTimes bags. http://t.co/qzGvrfIA2l",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

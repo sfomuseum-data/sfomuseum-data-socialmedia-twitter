@@ -2,156 +2,176 @@
   "id": 1729302347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2018-01-31T12:55:07-08:00",
-    "edtf:inception": "2018-01-31T12:55:07-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1517432107,
-      "created_at": "Wed Jan 31 20:55:07 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "142"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "102", 
-              "118"
-            ],
-            "text": "WomeninAviation"
-          }
+    "date:cessation_lower":"2018-01-31",
+    "date:cessation_upper":"2018-01-31",
+    "date:inception_lower":"2018-01-31",
+    "date:inception_upper":"2018-01-31",
+    "edtf:cessation":"2018-01-31T12:55:07-08:00",
+    "edtf:inception":"2018-01-31T12:55:07-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1517432107,
+        "created_at":"Wed Jan 31 20:55:07 +0000 2018",
+        "display_text_range":[
+            "0",
+            "142"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/yyeH81jXoR",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/958805866744041474/photo/1",
-            "id": "958805862641909760",
-            "id_str": "958805862641909760",
-            "indices": [
-              "119", 
-              "142"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "102",
+                        "118"
+                    ],
+                    "text":"WomeninAviation"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DU5c2iNVQAAewq6.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DU5c2iNVQAAewq6.jpg",
-            "sizes": {
-              "large": {
-                "h": "1566",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "917",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "520",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/yyeH81jXoR"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/yyeH81jXoR",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/958805866744041474/photo/1",
-            "id": "958805862641909760",
-            "id_str": "958805862641909760",
-            "indices": [
-              "119", 
-              "142"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/yyeH81jXoR",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/958805866744041474/photo/1",
+                    "id":"958805862641909760",
+                    "id_str":"958805862641909760",
+                    "indices":[
+                        "119",
+                        "142"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DU5c2iNVQAAewq6.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DU5c2iNVQAAewq6.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1566",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"917",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"520",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/yyeH81jXoR"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DU5c2iNVQAAewq6.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DU5c2iNVQAAewq6.jpg",
-            "sizes": {
-              "large": {
-                "h": "1566",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "917",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "520",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/yyeH81jXoR"
-          }
-        ]
-      },
-      "favorite_count": "9",
-      "favorited": false,
-      "full_text": "This United Air Lines Douglas DC-3 flight crew was surely riding to work in style in this 1941 Buick. #WomeninAviation https://t.co/yyeH81jXoR",
-      "id": "958805866744041474",
-      "id_str": "958805866744041474",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "4",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/yyeH81jXoR",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/958805866744041474/photo/1",
+                    "id":"958805862641909760",
+                    "id_str":"958805862641909760",
+                    "indices":[
+                        "119",
+                        "142"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DU5c2iNVQAAewq6.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DU5c2iNVQAAewq6.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1566",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"917",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"520",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/yyeH81jXoR"
+                }
+            ]
+        },
+        "favorite_count":"9",
+        "favorited":false,
+        "full_text":"This United Air Lines Douglas DC-3 flight crew was surely riding to work in style in this 1941 Buick. #WomeninAviation https://t.co/yyeH81jXoR",
+        "id":"958805866744041474",
+        "id_str":"958805866744041474",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"4",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 958805866744041500
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":958805866744041500
     },
-    "wof:country": "US",
-    "wof:created": 1602026080,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729302347,
-    "wof:lastmodified": 1602026080,
-    "wof:name": "Twitter message #958805866744041474",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026080,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729302347,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729302347,
+    "wof:lastmodified":1602186399,
+    "wof:name":"This United Air Lines Douglas DC-3 flight crew was surely riding to work in style in this 1941 Buick. #WomeninAviation https://t.co/yyeH81jXoR",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

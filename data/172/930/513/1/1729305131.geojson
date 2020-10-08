@@ -2,170 +2,190 @@
   "id": 1729305131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-01-17T10:35:05-08:00",
-    "edtf:inception": "2019-01-17T10:35:05-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1547750105,
-      "created_at": "Thu Jan 17 18:35:05 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "227"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "0", 
-              "12"
-            ],
-            "text": "TaraCoomber"
-          }, 
-          {
-            "indices": [
-              "15", 
-              "24"
-            ],
-            "text": "Ammonite"
-          }, 
-          {
-            "indices": [
-              "189", 
-              "203"
-            ],
-            "text": "BritishSilver"
-          }
+    "date:cessation_lower":"2019-01-17",
+    "date:cessation_upper":"2019-01-17",
+    "date:inception_lower":"2019-01-17",
+    "date:inception_upper":"2019-01-17",
+    "edtf:cessation":"2019-01-17T10:35:05-08:00",
+    "edtf:inception":"2019-01-17T10:35:05-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1547750105,
+        "created_at":"Thu Jan 17 18:35:05 +0000 2019",
+        "display_text_range":[
+            "0",
+            "227"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/a8mdDRs7Lp",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1085968769388826630/photo/1",
-            "id": "1085968767249715205",
-            "id_str": "1085968767249715205",
-            "indices": [
-              "204", 
-              "227"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "0",
+                        "12"
+                    ],
+                    "text":"TaraCoomber"
+                },
+                {
+                    "indices":[
+                        "15",
+                        "24"
+                    ],
+                    "text":"Ammonite"
+                },
+                {
+                    "indices":[
+                        "189",
+                        "203"
+                    ],
+                    "text":"BritishSilver"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DxIi1xEWkAUCpbB.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DxIi1xEWkAUCpbB.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1333"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "800"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "453"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/a8mdDRs7Lp"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/a8mdDRs7Lp",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1085968769388826630/photo/1",
-            "id": "1085968767249715205",
-            "id_str": "1085968767249715205",
-            "indices": [
-              "204", 
-              "227"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/a8mdDRs7Lp",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1085968769388826630/photo/1",
+                    "id":"1085968767249715205",
+                    "id_str":"1085968767249715205",
+                    "indices":[
+                        "204",
+                        "227"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DxIi1xEWkAUCpbB.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DxIi1xEWkAUCpbB.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1333"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"800"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"453"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/a8mdDRs7Lp"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DxIi1xEWkAUCpbB.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DxIi1xEWkAUCpbB.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1333"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "800"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "453"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/a8mdDRs7Lp"
-          }
-        ]
-      },
-      "favorite_count": "3",
-      "favorited": false,
-      "full_text": "#TaraCoomber’s #Ammonite box, made for a desktop, is quite tactile and brilliantly incorporates a cross-section of a fossil for the ribbed, spiral-formed shell of the ancient sea creature. #BritishSilver https://t.co/a8mdDRs7Lp",
-      "id": "1085968769388826630",
-      "id_str": "1085968769388826630",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/a8mdDRs7Lp",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1085968769388826630/photo/1",
+                    "id":"1085968767249715205",
+                    "id_str":"1085968767249715205",
+                    "indices":[
+                        "204",
+                        "227"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DxIi1xEWkAUCpbB.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DxIi1xEWkAUCpbB.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1333"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"800"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"453"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/a8mdDRs7Lp"
+                }
+            ]
+        },
+        "favorite_count":"3",
+        "favorited":false,
+        "full_text":"#TaraCoomber\u2019s #Ammonite box, made for a desktop, is quite tactile and brilliantly incorporates a cross-section of a fossil for the ribbed, spiral-formed shell of the ancient sea creature. #BritishSilver https://t.co/a8mdDRs7Lp",
+        "id":"1085968769388826630",
+        "id_str":"1085968769388826630",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1085968769388826600
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1085968769388826600
     },
-    "wof:country": "US",
-    "wof:created": 1602026189,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729305131,
-    "wof:lastmodified": 1602026189,
-    "wof:name": "Twitter message #1085968769388826630",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026189,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729305131,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729305131,
+    "wof:lastmodified":1602186430,
+    "wof:name":"#TaraCoomber\u2019s #Ammonite box, made for a desktop, is quite tactile and brilliantly incorporates a cross-section of a fossil for the ribbed, spiral-formed shell of the ancient sea creature. #BritishSilver https://t.co/a8mdDRs7Lp",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

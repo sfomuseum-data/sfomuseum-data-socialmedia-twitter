@@ -2,216 +2,236 @@
   "id": 1729299675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2017-03-16T14:18:20-07:00",
-    "edtf:inception": "2017-03-16T14:18:20-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1489699100,
-      "created_at": "Thu Mar 16 21:18:20 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "138"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "21", 
-              "25"
-            ],
-            "text": "TBT"
-          }, 
-          {
-            "indices": [
-              "107", 
-              "114"
-            ],
-            "text": "avgeek"
-          }
+    "date:cessation_lower":"2017-03-16",
+    "date:cessation_upper":"2017-03-16",
+    "date:inception_lower":"2017-03-16",
+    "date:inception_upper":"2017-03-16",
+    "edtf:cessation":"2017-03-16T14:18:20-07:00",
+    "edtf:inception":"2017-03-16T14:18:20-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1489699100,
+        "created_at":"Thu Mar 16 21:18:20 +0000 2017",
+        "display_text_range":[
+            "0",
+            "138"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/Fgq1MKYcqE",
-            "expanded_url": "https://twitter.com/BoeingAirplanes/status/842465159692001280/video/1",
-            "id": "842464579523235841",
-            "id_str": "842464579523235841",
-            "indices": [
-              "115", 
-              "138"
-            ],
-            "media_url": "http://pbs.twimg.com/amplify_video_thumb/842464579523235841/img/1cKFAwUPXmVpjtUx.jpg",
-            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/842464579523235841/img/1cKFAwUPXmVpjtUx.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "842465159692001280",
-            "source_status_id_str": "842465159692001280",
-            "source_user_id": "22090282",
-            "source_user_id_str": "22090282",
-            "type": "photo",
-            "url": "https://t.co/Fgq1MKYcqE"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "22090282",
-            "id_str": "22090282",
-            "indices": [
-              "3", 
-              "19"
-            ],
-            "name": "Boeing Airplanes",
-            "screen_name": "BoeingAirplanes"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "additional_media_info": {
-              "description": "",
-              "embeddable": true,
-              "monetizable": false,
-              "title": ""
-            },
-            "display_url": "pic.twitter.com/Fgq1MKYcqE",
-            "expanded_url": "https://twitter.com/BoeingAirplanes/status/842465159692001280/video/1",
-            "id": "842464579523235841",
-            "id_str": "842464579523235841",
-            "indices": [
-              "115", 
-              "138"
-            ],
-            "media_url": "http://pbs.twimg.com/amplify_video_thumb/842464579523235841/img/1cKFAwUPXmVpjtUx.jpg",
-            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/842464579523235841/img/1cKFAwUPXmVpjtUx.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "842465159692001280",
-            "source_status_id_str": "842465159692001280",
-            "source_user_id": "22090282",
-            "source_user_id_str": "22090282",
-            "type": "video",
-            "url": "https://t.co/Fgq1MKYcqE",
-            "video_info": {
-              "aspect_ratio": [
-                "16", 
-                "9"
-              ],
-              "duration_millis": "175542",
-              "variants": [
+        "entities":{
+            "hashtags":[
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/842464579523235841/vid/1280x720/cbDZxoifAgcxruSc.mp4"
-                }, 
+                    "indices":[
+                        "21",
+                        "25"
+                    ],
+                    "text":"TBT"
+                },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/amplify_video/842464579523235841/pl/Fr_0ReR0U4SUB3AY.m3u8"
-                }, 
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/842464579523235841/vid/640x360/LjsmlHb6ol3tut6M.mp4"
-                }, 
-                {
-                  "bitrate": "320000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/842464579523235841/vid/320x180/mY9uXfekijPeo8lh.mp4"
+                    "indices":[
+                        "107",
+                        "114"
+                    ],
+                    "text":"avgeek"
                 }
-              ]
-            }
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @BoeingAirplanes: #TBT On this week just 6 years ago, the 747-8 Intercontinental made its first flight. #avgeek https://t.co/Fgq1MKYcqE",
-      "id": "842485208188252160",
-      "id_str": "842485208188252160",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-      "truncated": false
+            ],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/Fgq1MKYcqE",
+                    "expanded_url":"https://twitter.com/BoeingAirplanes/status/842465159692001280/video/1",
+                    "id":"842464579523235841",
+                    "id_str":"842464579523235841",
+                    "indices":[
+                        "115",
+                        "138"
+                    ],
+                    "media_url":"http://pbs.twimg.com/amplify_video_thumb/842464579523235841/img/1cKFAwUPXmVpjtUx.jpg",
+                    "media_url_https":"https://pbs.twimg.com/amplify_video_thumb/842464579523235841/img/1cKFAwUPXmVpjtUx.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"842465159692001280",
+                    "source_status_id_str":"842465159692001280",
+                    "source_user_id":"22090282",
+                    "source_user_id_str":"22090282",
+                    "type":"photo",
+                    "url":"https://t.co/Fgq1MKYcqE"
+                }
+            ],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"22090282",
+                    "id_str":"22090282",
+                    "indices":[
+                        "3",
+                        "19"
+                    ],
+                    "name":"Boeing Airplanes",
+                    "screen_name":"BoeingAirplanes"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "additional_media_info":{
+                        "description":"",
+                        "embeddable":true,
+                        "monetizable":false,
+                        "title":""
+                    },
+                    "display_url":"pic.twitter.com/Fgq1MKYcqE",
+                    "expanded_url":"https://twitter.com/BoeingAirplanes/status/842465159692001280/video/1",
+                    "id":"842464579523235841",
+                    "id_str":"842464579523235841",
+                    "indices":[
+                        "115",
+                        "138"
+                    ],
+                    "media_url":"http://pbs.twimg.com/amplify_video_thumb/842464579523235841/img/1cKFAwUPXmVpjtUx.jpg",
+                    "media_url_https":"https://pbs.twimg.com/amplify_video_thumb/842464579523235841/img/1cKFAwUPXmVpjtUx.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"842465159692001280",
+                    "source_status_id_str":"842465159692001280",
+                    "source_user_id":"22090282",
+                    "source_user_id_str":"22090282",
+                    "type":"video",
+                    "url":"https://t.co/Fgq1MKYcqE",
+                    "video_info":{
+                        "aspect_ratio":[
+                            "16",
+                            "9"
+                        ],
+                        "duration_millis":"175542",
+                        "variants":[
+                            {
+                                "bitrate":"2176000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/amplify_video/842464579523235841/vid/1280x720/cbDZxoifAgcxruSc.mp4"
+                            },
+                            {
+                                "content_type":"application/x-mpegURL",
+                                "url":"https://video.twimg.com/amplify_video/842464579523235841/pl/Fr_0ReR0U4SUB3AY.m3u8"
+                            },
+                            {
+                                "bitrate":"832000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/amplify_video/842464579523235841/vid/640x360/LjsmlHb6ol3tut6M.mp4"
+                            },
+                            {
+                                "bitrate":"320000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/amplify_video/842464579523235841/vid/320x180/mY9uXfekijPeo8lh.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @BoeingAirplanes: #TBT On this week just 6 years ago, the 747-8 Intercontinental made its first flight. #avgeek https://t.co/Fgq1MKYcqE",
+        "id":"842485208188252160",
+        "id_str":"842485208188252160",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 842485208188252200
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":842485208188252200
     },
-    "wof:country": "US",
-    "wof:created": 1602025981,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729299675,
-    "wof:lastmodified": 1602025981,
-    "wof:name": "Twitter message #842485208188252160",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025981,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729299675,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729299675,
+    "wof:lastmodified":1602186568,
+    "wof:name":"RT @BoeingAirplanes: #TBT On this week just 6 years ago, the 747-8 Intercontinental made its first flight. #avgeek https://t.co/Fgq1MKYcqE",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

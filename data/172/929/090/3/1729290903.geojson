@@ -2,88 +2,108 @@
   "id": 1729290903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2013-09-30T14:38:49-07:00",
-    "edtf:inception": "2013-09-30T14:38:49-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1380577129,
-      "created_at": "Mon Sep 30 21:38:49 +0000 2013",
-      "display_text_range": [
-        "0", 
-        "122"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "56", 
-              "65"
-            ],
-            "text": "aviation"
-          }
+    "date:cessation_lower":"2013-09-30",
+    "date:cessation_upper":"2013-09-30",
+    "date:inception_lower":"2013-09-30",
+    "date:inception_upper":"2013-09-30",
+    "edtf:cessation":"2013-09-30T14:38:49-07:00",
+    "edtf:inception":"2013-09-30T14:38:49-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1380577129,
+        "created_at":"Mon Sep 30 21:38:49 +0000 2013",
+        "display_text_range":[
+            "0",
+            "122"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "instagram.com/p/e5lTuMRk-h/",
-            "expanded_url": "http://instagram.com/p/e5lTuMRk-h/",
-            "indices": [
-              "100", 
-              "122"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "56",
+                        "65"
+                    ],
+                    "text":"aviation"
+                }
             ],
-            "url": "http://t.co/C7Ch4XEgWP"
-          }
-        ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Strong and lightweight, fiberglass was developed by the #aviation industry in the 1930s, replacing… http://t.co/C7Ch4XEgWP",
-      "id": "384794486288973824",
-      "id_str": "384794486288973824",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"instagram.com/p/e5lTuMRk-h/",
+                    "expanded_url":"http://instagram.com/p/e5lTuMRk-h/",
+                    "indices":[
+                        "100",
+                        "122"
+                    ],
+                    "url":"http://t.co/C7Ch4XEgWP"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Strong and lightweight, fiberglass was developed by the #aviation industry in the 1930s, replacing\u2026 http://t.co/C7Ch4XEgWP",
+        "id":"384794486288973824",
+        "id_str":"384794486288973824",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 384794486288973800
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":384794486288973800
     },
-    "wof:country": "US",
-    "wof:created": 1602025651,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729290903,
-    "wof:lastmodified": 1602025651,
-    "wof:name": "Twitter message #384794486288973824",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025651,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729290903,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729290903,
+    "wof:lastmodified":1602186637,
+    "wof:name":"Strong and lightweight, fiberglass was developed by the #aviation industry in the 1930s, replacing\u2026 http://t.co/C7Ch4XEgWP",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

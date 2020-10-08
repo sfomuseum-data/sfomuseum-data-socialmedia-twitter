@@ -2,96 +2,116 @@
   "id": 1729312105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2013-06-07T14:47:03-07:00",
-    "edtf:inception": "2013-06-07T14:47:03-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1370641623,
-      "created_at": "Fri Jun 07 21:47:03 +0000 2013",
-      "display_text_range": [
-        "0", 
-        "63"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "instagram.com/p/aRfG6VRk3O/",
-            "expanded_url": "http://instagram.com/p/aRfG6VRk3O/",
-            "indices": [
-              "41", 
-              "63"
-            ],
-            "url": "http://t.co/peaLb2JkOx"
-          }
+    "date:cessation_lower":"2013-06-07",
+    "date:cessation_upper":"2013-06-07",
+    "date:inception_lower":"2013-06-07",
+    "date:inception_upper":"2013-06-07",
+    "edtf:cessation":"2013-06-07T14:47:03-07:00",
+    "edtf:inception":"2013-06-07T14:47:03-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1370641623,
+        "created_at":"Fri Jun 07 21:47:03 +0000 2013",
+        "display_text_range":[
+            "0",
+            "63"
         ],
-        "user_mentions": [
-          {
-            "id": "9981572",
-            "id_str": "9981572",
-            "indices": [
-              "0", 
-              "11"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"instagram.com/p/aRfG6VRk3O/",
+                    "expanded_url":"http://instagram.com/p/aRfG6VRk3O/",
+                    "indices":[
+                        "41",
+                        "63"
+                    ],
+                    "url":"http://t.co/peaLb2JkOx"
+                }
             ],
-            "name": "Jeff Tabaco",
-            "screen_name": "jefftabaco"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "@jefftabaco It might seem unlikely, but: http://t.co/peaLb2JkOx",
-      "id": "343121955848859648",
-      "id_str": "343121955848859648",
-      "in_reply_to_screen_name": "jefftabaco",
-      "in_reply_to_status_id": "343117670574612480",
-      "in_reply_to_status_id_str": "343117670574612480",
-      "in_reply_to_user_id": "9981572",
-      "in_reply_to_user_id_str": "9981572",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"9981572",
+                    "id_str":"9981572",
+                    "indices":[
+                        "0",
+                        "11"
+                    ],
+                    "name":"Jeff Tabaco",
+                    "screen_name":"jefftabaco"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"@jefftabaco It might seem unlikely, but: http://t.co/peaLb2JkOx",
+        "id":"343121955848859648",
+        "id_str":"343121955848859648",
+        "in_reply_to_screen_name":"jefftabaco",
+        "in_reply_to_status_id":"343117670574612480",
+        "in_reply_to_status_id_str":"343117670574612480",
+        "in_reply_to_user_id":"9981572",
+        "in_reply_to_user_id_str":"9981572",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 343121955848859650
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":343121955848859650
     },
-    "wof:country": "US",
-    "wof:created": 1602026459,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729312105,
-    "wof:lastmodified": 1602026459,
-    "wof:name": "Twitter message #343121955848859648",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026459,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729312105,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729312105,
+    "wof:lastmodified":1602186483,
+    "wof:name":"@jefftabaco It might seem unlikely, but: http://t.co/peaLb2JkOx",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

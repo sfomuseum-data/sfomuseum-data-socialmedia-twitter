@@ -2,80 +2,100 @@
   "id": 1729292549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2014-09-10T15:29:40-07:00",
-    "edtf:inception": "2014-09-10T15:29:40-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1410388180,
-      "created_at": "Wed Sep 10 22:29:40 +0000 2014",
-      "display_text_range": [
-        "0", 
-        "121"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "instagram.com/p/syCNMpxk1j/",
-            "expanded_url": "http://instagram.com/p/syCNMpxk1j/",
-            "indices": [
-              "99", 
-              "121"
-            ],
-            "url": "http://t.co/imSXSqpgIf"
-          }
+    "date:cessation_lower":"2014-09-10",
+    "date:cessation_upper":"2014-09-10",
+    "date:inception_lower":"2014-09-10",
+    "date:inception_upper":"2014-09-10",
+    "edtf:cessation":"2014-09-10T15:29:40-07:00",
+    "edtf:inception":"2014-09-10T15:29:40-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1410388180,
+        "created_at":"Wed Sep 10 22:29:40 +0000 2014",
+        "display_text_range":[
+            "0",
+            "121"
         ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Fashion and technology have gone hand-in-hand long before wearable tech hit the scene! Air France… http://t.co/imSXSqpgIf",
-      "id": "509831099053514752",
-      "id_str": "509831099053514752",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
-      "truncated": false
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"instagram.com/p/syCNMpxk1j/",
+                    "expanded_url":"http://instagram.com/p/syCNMpxk1j/",
+                    "indices":[
+                        "99",
+                        "121"
+                    ],
+                    "url":"http://t.co/imSXSqpgIf"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Fashion and technology have gone hand-in-hand long before wearable tech hit the scene! Air France\u2026 http://t.co/imSXSqpgIf",
+        "id":"509831099053514752",
+        "id_str":"509831099053514752",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 509831099053514750
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":509831099053514750
     },
-    "wof:country": "US",
-    "wof:created": 1602025713,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729292549,
-    "wof:lastmodified": 1602025713,
-    "wof:name": "Twitter message #509831099053514752",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025713,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729292549,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729292549,
+    "wof:lastmodified":1602186522,
+    "wof:name":"Fashion and technology have gone hand-in-hand long before wearable tech hit the scene! Air France\u2026 http://t.co/imSXSqpgIf",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

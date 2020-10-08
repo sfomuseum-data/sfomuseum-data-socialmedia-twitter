@@ -2,198 +2,218 @@
   "id": 1729304795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2018-11-28T17:13:51-08:00",
-    "edtf:inception": "2018-11-28T17:13:51-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1543454031,
-      "created_at": "Thu Nov 29 01:13:51 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "101"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/rFzlNFLFB5",
-            "expanded_url": "https://twitter.com/flySFO/status/1067854919137353728/video/1",
-            "id": "1067854876984598529",
-            "id_str": "1067854876984598529",
-            "indices": [
-              "78", 
-              "101"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1067854876984598529/pu/img/Z9UvxnSeCVFTNLCN.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1067854876984598529/pu/img/Z9UvxnSeCVFTNLCN.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "1067854919137353728",
-            "source_status_id_str": "1067854919137353728",
-            "source_user_id": "16408759",
-            "source_user_id_str": "16408759",
-            "type": "photo",
-            "url": "https://t.co/rFzlNFLFB5"
-          }
+    "date:cessation_lower":"2018-11-28",
+    "date:cessation_upper":"2018-11-28",
+    "date:inception_lower":"2018-11-28",
+    "date:inception_upper":"2018-11-28",
+    "edtf:cessation":"2018-11-28T17:13:51-08:00",
+    "edtf:inception":"2018-11-28T17:13:51-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1543454031,
+        "created_at":"Thu Nov 29 01:13:51 +0000 2018",
+        "display_text_range":[
+            "0",
+            "101"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "16408759",
-            "id_str": "16408759",
-            "indices": [
-              "3", 
-              "10"
-            ],
-            "name": "San Francisco International Airport (SFO) ✈️",
-            "screen_name": "flySFO"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "additional_media_info": {
-              "monetizable": false
-            },
-            "display_url": "pic.twitter.com/rFzlNFLFB5",
-            "expanded_url": "https://twitter.com/flySFO/status/1067854919137353728/video/1",
-            "id": "1067854876984598529",
-            "id_str": "1067854876984598529",
-            "indices": [
-              "78", 
-              "101"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1067854876984598529/pu/img/Z9UvxnSeCVFTNLCN.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1067854876984598529/pu/img/Z9UvxnSeCVFTNLCN.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "1067854919137353728",
-            "source_status_id_str": "1067854919137353728",
-            "source_user_id": "16408759",
-            "source_user_id_str": "16408759",
-            "type": "video",
-            "url": "https://t.co/rFzlNFLFB5",
-            "video_info": {
-              "aspect_ratio": [
-                "16", 
-                "9"
-              ],
-              "duration_millis": "4757",
-              "variants": [
+        "entities":{
+            "hashtags":[],
+            "media":[
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1067854876984598529/pu/vid/1280x720/7DPGstEUL2u5PiEW.mp4?tag=5"
-                }, 
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1067854876984598529/pu/vid/640x360/YVs9gN8Y5aOFEr5-.mp4?tag=5"
-                }, 
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1067854876984598529/pu/vid/320x180/LWGISMHIKdXAtQ29.mp4?tag=5"
-                }, 
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1067854876984598529/pu/pl/i8enRFcNTFwar_WY.m3u8?tag=5"
+                    "display_url":"pic.twitter.com/rFzlNFLFB5",
+                    "expanded_url":"https://twitter.com/flySFO/status/1067854919137353728/video/1",
+                    "id":"1067854876984598529",
+                    "id_str":"1067854876984598529",
+                    "indices":[
+                        "78",
+                        "101"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/1067854876984598529/pu/img/Z9UvxnSeCVFTNLCN.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/1067854876984598529/pu/img/Z9UvxnSeCVFTNLCN.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"1067854919137353728",
+                    "source_status_id_str":"1067854919137353728",
+                    "source_user_id":"16408759",
+                    "source_user_id_str":"16408759",
+                    "type":"photo",
+                    "url":"https://t.co/rFzlNFLFB5"
                 }
-              ]
-            }
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @flySFO: We had a great time at our 2018 lighting ceremony last night! ❄️🌟 https://t.co/rFzlNFLFB5",
-      "id": "1067949730095742976",
-      "id_str": "1067949730095742976",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-      "truncated": false
+            ],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"16408759",
+                    "id_str":"16408759",
+                    "indices":[
+                        "3",
+                        "10"
+                    ],
+                    "name":"San Francisco International Airport (SFO) \u2708\ufe0f",
+                    "screen_name":"flySFO"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "additional_media_info":{
+                        "monetizable":false
+                    },
+                    "display_url":"pic.twitter.com/rFzlNFLFB5",
+                    "expanded_url":"https://twitter.com/flySFO/status/1067854919137353728/video/1",
+                    "id":"1067854876984598529",
+                    "id_str":"1067854876984598529",
+                    "indices":[
+                        "78",
+                        "101"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/1067854876984598529/pu/img/Z9UvxnSeCVFTNLCN.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/1067854876984598529/pu/img/Z9UvxnSeCVFTNLCN.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"1067854919137353728",
+                    "source_status_id_str":"1067854919137353728",
+                    "source_user_id":"16408759",
+                    "source_user_id_str":"16408759",
+                    "type":"video",
+                    "url":"https://t.co/rFzlNFLFB5",
+                    "video_info":{
+                        "aspect_ratio":[
+                            "16",
+                            "9"
+                        ],
+                        "duration_millis":"4757",
+                        "variants":[
+                            {
+                                "bitrate":"2176000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1067854876984598529/pu/vid/1280x720/7DPGstEUL2u5PiEW.mp4?tag=5"
+                            },
+                            {
+                                "bitrate":"832000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1067854876984598529/pu/vid/640x360/YVs9gN8Y5aOFEr5-.mp4?tag=5"
+                            },
+                            {
+                                "bitrate":"256000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1067854876984598529/pu/vid/320x180/LWGISMHIKdXAtQ29.mp4?tag=5"
+                            },
+                            {
+                                "content_type":"application/x-mpegURL",
+                                "url":"https://video.twimg.com/ext_tw_video/1067854876984598529/pu/pl/i8enRFcNTFwar_WY.m3u8?tag=5"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @flySFO: We had a great time at our 2018 lighting ceremony last night! \u2744\ufe0f\ud83c\udf1f https://t.co/rFzlNFLFB5",
+        "id":"1067949730095742976",
+        "id_str":"1067949730095742976",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1067949730095743000
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1067949730095743000
     },
-    "wof:country": "US",
-    "wof:created": 1602026176,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729304795,
-    "wof:lastmodified": 1602026176,
-    "wof:name": "Twitter message #1067949730095742976",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026176,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729304795,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729304795,
+    "wof:lastmodified":1602186350,
+    "wof:name":"RT @flySFO: We had a great time at our 2018 lighting ceremony last night! \u2744\ufe0f\ud83c\udf1f https://t.co/rFzlNFLFB5",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

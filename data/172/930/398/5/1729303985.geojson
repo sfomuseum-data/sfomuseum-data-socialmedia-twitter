@@ -2,163 +2,183 @@
   "id": 1729303985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2018-08-16T17:00:41-07:00",
-    "edtf:inception": "2018-08-16T17:00:41-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1534464041,
-      "created_at": "Fri Aug 17 00:00:41 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "175"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "84", 
-              "95"
-            ],
-            "text": "ballooning"
-          }, 
-          {
-            "indices": [
-              "138", 
-              "151"
-            ],
-            "text": "IntoTheEther"
-          }
+    "date:cessation_lower":"2018-08-16",
+    "date:cessation_upper":"2018-08-16",
+    "date:inception_lower":"2018-08-16",
+    "date:inception_upper":"2018-08-16",
+    "edtf:cessation":"2018-08-16T17:00:41-07:00",
+    "edtf:inception":"2018-08-16T17:00:41-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1534464041,
+        "created_at":"Fri Aug 17 00:00:41 +0000 2018",
+        "display_text_range":[
+            "0",
+            "175"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/MrdjYU35Jl",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1030242976700751872/photo/1",
-            "id": "1030242973945090049",
-            "id_str": "1030242973945090049",
-            "indices": [
-              "152", 
-              "175"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "84",
+                        "95"
+                    ],
+                    "text":"ballooning"
+                },
+                {
+                    "indices":[
+                        "138",
+                        "151"
+                    ],
+                    "text":"IntoTheEther"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Dkwohr5W0AET62v.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Dkwohr5W0AET62v.jpg",
-            "sizes": {
-              "large": {
-                "h": "1473",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "884",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "501",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/MrdjYU35Jl"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/MrdjYU35Jl",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1030242976700751872/photo/1",
-            "id": "1030242973945090049",
-            "id_str": "1030242973945090049",
-            "indices": [
-              "152", 
-              "175"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/MrdjYU35Jl",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1030242976700751872/photo/1",
+                    "id":"1030242973945090049",
+                    "id_str":"1030242973945090049",
+                    "indices":[
+                        "152",
+                        "175"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Dkwohr5W0AET62v.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Dkwohr5W0AET62v.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1473",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"884",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"501",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/MrdjYU35Jl"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Dkwohr5W0AET62v.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Dkwohr5W0AET62v.jpg",
-            "sizes": {
-              "large": {
-                "h": "1473",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "884",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "501",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/MrdjYU35Jl"
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "After retiring in the late 1800s, Henry Tracey Coxwell wrote a memoir detailing his #ballooning career without a single serious accident. #IntoTheEther https://t.co/MrdjYU35Jl",
-      "id": "1030242976700751872",
-      "id_str": "1030242976700751872",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/MrdjYU35Jl",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1030242976700751872/photo/1",
+                    "id":"1030242973945090049",
+                    "id_str":"1030242973945090049",
+                    "indices":[
+                        "152",
+                        "175"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Dkwohr5W0AET62v.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Dkwohr5W0AET62v.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1473",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"884",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"501",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/MrdjYU35Jl"
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"After retiring in the late 1800s, Henry Tracey Coxwell wrote a memoir detailing his #ballooning career without a single serious accident. #IntoTheEther https://t.co/MrdjYU35Jl",
+        "id":"1030242976700751872",
+        "id_str":"1030242976700751872",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1030242976700751900
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1030242976700751900
     },
-    "wof:country": "US",
-    "wof:created": 1602026145,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729303985,
-    "wof:lastmodified": 1602026145,
-    "wof:name": "Twitter message #1030242976700751872",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026145,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729303985,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729303985,
+    "wof:lastmodified":1602186245,
+    "wof:name":"After retiring in the late 1800s, Henry Tracey Coxwell wrote a memoir detailing his #ballooning career without a single serious accident. #IntoTheEther https://t.co/MrdjYU35Jl",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

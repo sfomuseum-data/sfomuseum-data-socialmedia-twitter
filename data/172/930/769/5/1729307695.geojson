@@ -2,184 +2,204 @@
   "id": 1729307695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-01-13T14:27:22-08:00",
-    "edtf:inception": "2020-01-13T14:27:22-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1578954442,
-      "created_at": "Mon Jan 13 22:27:22 +0000 2020",
-      "display_text_range": [
-        "0", 
-        "269"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "28", 
-              "37"
-            ],
-            "text": "Concorde"
-          }, 
-          {
-            "indices": [
-              "46", 
-              "54"
-            ],
-            "text": "Braniff"
-          }, 
-          {
-            "indices": [
-              "103", 
-              "107"
-            ],
-            "text": "SST"
-          }, 
-          {
-            "indices": [
-              "186", 
-              "196"
-            ],
-            "text": "onthisday"
-          }, 
-          {
-            "indices": [
-              "238", 
-              "245"
-            ],
-            "text": "avgeek"
-          }
+    "date:cessation_lower":"2020-01-13",
+    "date:cessation_upper":"2020-01-13",
+    "date:inception_lower":"2020-01-13",
+    "date:inception_upper":"2020-01-13",
+    "edtf:cessation":"2020-01-13T14:27:22-08:00",
+    "edtf:inception":"2020-01-13T14:27:22-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1578954442,
+        "created_at":"Mon Jan 13 22:27:22 +0000 2020",
+        "display_text_range":[
+            "0",
+            "269"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/9OexVAM0qG",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1216849243224399877/photo/1",
-            "id": "1216849240623849472",
-            "id_str": "1216849240623849472",
-            "indices": [
-              "246", 
-              "269"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "28",
+                        "37"
+                    ],
+                    "text":"Concorde"
+                },
+                {
+                    "indices":[
+                        "46",
+                        "54"
+                    ],
+                    "text":"Braniff"
+                },
+                {
+                    "indices":[
+                        "103",
+                        "107"
+                    ],
+                    "text":"SST"
+                },
+                {
+                    "indices":[
+                        "186",
+                        "196"
+                    ],
+                    "text":"onthisday"
+                },
+                {
+                    "indices":[
+                        "238",
+                        "245"
+                    ],
+                    "text":"avgeek"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EOMd7-yWoAAKH7g.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EOMd7-yWoAAKH7g.jpg",
-            "sizes": {
-              "large": {
-                "h": "1220",
-                "resize": "fit",
-                "w": "1755"
-              },
-              "medium": {
-                "h": "834",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "473",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/9OexVAM0qG"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/9OexVAM0qG",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1216849243224399877/photo/1",
-            "id": "1216849240623849472",
-            "id_str": "1216849240623849472",
-            "indices": [
-              "246", 
-              "269"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/9OexVAM0qG",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1216849243224399877/photo/1",
+                    "id":"1216849240623849472",
+                    "id_str":"1216849240623849472",
+                    "indices":[
+                        "246",
+                        "269"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EOMd7-yWoAAKH7g.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EOMd7-yWoAAKH7g.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1220",
+                            "resize":"fit",
+                            "w":"1755"
+                        },
+                        "medium":{
+                            "h":"834",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"473",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/9OexVAM0qG"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EOMd7-yWoAAKH7g.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EOMd7-yWoAAKH7g.jpg",
-            "sizes": {
-              "large": {
-                "h": "1220",
-                "resize": "fit",
-                "w": "1755"
-              },
-              "medium": {
-                "h": "834",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "473",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/9OexVAM0qG"
-          }
-        ]
-      },
-      "favorite_count": "138",
-      "favorited": false,
-      "full_text": "The inaugural flight of the #Concorde for the #Braniff International Airways and British Airways joint #SST service to London from Dallas-Fort Worth via Washington, D.C. was inaugurated #onthisday in 1979. Did you ever fly on a Concorde? #avgeek https://t.co/9OexVAM0qG",
-      "id": "1216849243224399877",
-      "id_str": "1216849243224399877",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "25",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/9OexVAM0qG",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1216849243224399877/photo/1",
+                    "id":"1216849240623849472",
+                    "id_str":"1216849240623849472",
+                    "indices":[
+                        "246",
+                        "269"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EOMd7-yWoAAKH7g.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EOMd7-yWoAAKH7g.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1220",
+                            "resize":"fit",
+                            "w":"1755"
+                        },
+                        "medium":{
+                            "h":"834",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"473",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/9OexVAM0qG"
+                }
+            ]
+        },
+        "favorite_count":"138",
+        "favorited":false,
+        "full_text":"The inaugural flight of the #Concorde for the #Braniff International Airways and British Airways joint #SST service to London from Dallas-Fort Worth via Washington, D.C. was inaugurated #onthisday in 1979. Did you ever fly on a Concorde? #avgeek https://t.co/9OexVAM0qG",
+        "id":"1216849243224399877",
+        "id_str":"1216849243224399877",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"25",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1216849243224400000
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1216849243224400000
     },
-    "wof:country": "US",
-    "wof:created": 1602026287,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729307695,
-    "wof:lastmodified": 1602026287,
-    "wof:name": "Twitter message #1216849243224399877",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026287,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729307695,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729307695,
+    "wof:lastmodified":1602186226,
+    "wof:name":"The inaugural flight of the #Concorde for the #Braniff International Airways and British Airways joint #SST service to London from Dallas-Fort Worth via Washington, D.C. was inaugurated #onthisday in 1979. Did you ever fly on a Concorde? #avgeek https://t.co/9OexVAM0qG",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

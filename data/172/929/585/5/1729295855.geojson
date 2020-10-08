@@ -2,257 +2,277 @@
   "id": 1729295855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-04-27T11:38:55-07:00",
-    "edtf:inception": "2016-04-27T11:38:55-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1461782335,
-      "created_at": "Wed Apr 27 18:38:55 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "129"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/FaF9mJCoXb",
-            "expanded_url": "https://twitter.com/airwaysmagazine/status/725378524668936197/photo/1",
-            "id": "725378517450522624",
-            "id_str": "725378517450522624",
-            "indices": [
-              "106", 
-              "129"
-            ],
-            "media_url": "http://pbs.twimg.com/media/ChEP6xxWgAAfhm6.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/ChEP6xxWgAAfhm6.jpg",
-            "sizes": {
-              "large": {
-                "h": "682",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "medium": {
-                "h": "682",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "725378524668936197",
-            "source_status_id_str": "725378524668936197",
-            "source_user_id": "54515483",
-            "source_user_id_str": "54515483",
-            "type": "photo",
-            "url": "https://t.co/FaF9mJCoXb"
-          }
+    "date:cessation_lower":"2016-04-27",
+    "date:cessation_upper":"2016-04-27",
+    "date:inception_lower":"2016-04-27",
+    "date:inception_upper":"2016-04-27",
+    "edtf:cessation":"2016-04-27T11:38:55-07:00",
+    "edtf:inception":"2016-04-27T11:38:55-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1461782335,
+        "created_at":"Wed Apr 27 18:38:55 +0000 2016",
+        "display_text_range":[
+            "0",
+            "129"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "airwaysnews.com/blog/2016/04/2…",
-            "expanded_url": "http://airwaysnews.com/blog/2016/04/27/museum-of-flight-completes-final-boeing-247d-flight/",
-            "indices": [
-              "82", 
-              "105"
+        "entities":{
+            "hashtags":[],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/FaF9mJCoXb",
+                    "expanded_url":"https://twitter.com/airwaysmagazine/status/725378524668936197/photo/1",
+                    "id":"725378517450522624",
+                    "id_str":"725378517450522624",
+                    "indices":[
+                        "106",
+                        "129"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/ChEP6xxWgAAfhm6.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/ChEP6xxWgAAfhm6.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"682",
+                            "resize":"fit",
+                            "w":"1024"
+                        },
+                        "medium":{
+                            "h":"682",
+                            "resize":"fit",
+                            "w":"1024"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"725378524668936197",
+                    "source_status_id_str":"725378524668936197",
+                    "source_user_id":"54515483",
+                    "source_user_id_str":"54515483",
+                    "type":"photo",
+                    "url":"https://t.co/FaF9mJCoXb"
+                }
             ],
-            "url": "https://t.co/hGQCJPkgz0"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "54515483",
-            "id_str": "54515483",
-            "indices": [
-              "3", 
-              "19"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"airwaysnews.com/blog/2016/04/2\u2026",
+                    "expanded_url":"http://airwaysnews.com/blog/2016/04/27/museum-of-flight-completes-final-boeing-247d-flight/",
+                    "indices":[
+                        "82",
+                        "105"
+                    ],
+                    "url":"https://t.co/hGQCJPkgz0"
+                }
             ],
-            "name": "Airways Magazine",
-            "screen_name": "airwaysmagazine"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/FaF9mJCoXb",
-            "expanded_url": "https://twitter.com/airwaysmagazine/status/725378524668936197/photo/1",
-            "id": "725378517450522624",
-            "id_str": "725378517450522624",
-            "indices": [
-              "106", 
-              "129"
-            ],
-            "media_url": "http://pbs.twimg.com/media/ChEP6xxWgAAfhm6.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/ChEP6xxWgAAfhm6.jpg",
-            "sizes": {
-              "large": {
-                "h": "682",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "medium": {
-                "h": "682",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "725378524668936197",
-            "source_status_id_str": "725378524668936197",
-            "source_user_id": "54515483",
-            "source_user_id_str": "54515483",
-            "type": "photo",
-            "url": "https://t.co/FaF9mJCoXb"
-          }, 
-          {
-            "display_url": "pic.twitter.com/FaF9mJCoXb",
-            "expanded_url": "https://twitter.com/airwaysmagazine/status/725378524668936197/photo/1",
-            "id": "725378517458931712",
-            "id_str": "725378517458931712",
-            "indices": [
-              "106", 
-              "129"
-            ],
-            "media_url": "http://pbs.twimg.com/media/ChEP6xzW0AAnXO5.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/ChEP6xzW0AAnXO5.jpg",
-            "sizes": {
-              "large": {
-                "h": "683",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "medium": {
-                "h": "683",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "small": {
-                "h": "454",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "725378524668936197",
-            "source_status_id_str": "725378524668936197",
-            "source_user_id": "54515483",
-            "source_user_id_str": "54515483",
-            "type": "photo",
-            "url": "https://t.co/FaF9mJCoXb"
-          }, 
-          {
-            "display_url": "pic.twitter.com/FaF9mJCoXb",
-            "expanded_url": "https://twitter.com/airwaysmagazine/status/725378524668936197/photo/1",
-            "id": "725378517463121920",
-            "id_str": "725378517463121920",
-            "indices": [
-              "106", 
-              "129"
-            ],
-            "media_url": "http://pbs.twimg.com/media/ChEP6x0WwAAGnpU.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/ChEP6x0WwAAGnpU.jpg",
-            "sizes": {
-              "large": {
-                "h": "683",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "medium": {
-                "h": "683",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "small": {
-                "h": "454",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "725378524668936197",
-            "source_status_id_str": "725378524668936197",
-            "source_user_id": "54515483",
-            "source_user_id_str": "54515483",
-            "type": "photo",
-            "url": "https://t.co/FaF9mJCoXb"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @airwaysmagazine: The Museum of Flight completes the final Boeing 247D flight.\nhttps://t.co/hGQCJPkgz0 https://t.co/FaF9mJCoXb",
-      "id": "725393806816890881",
-      "id_str": "725393806816890881",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"54515483",
+                    "id_str":"54515483",
+                    "indices":[
+                        "3",
+                        "19"
+                    ],
+                    "name":"Airways Magazine",
+                    "screen_name":"airwaysmagazine"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/FaF9mJCoXb",
+                    "expanded_url":"https://twitter.com/airwaysmagazine/status/725378524668936197/photo/1",
+                    "id":"725378517450522624",
+                    "id_str":"725378517450522624",
+                    "indices":[
+                        "106",
+                        "129"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/ChEP6xxWgAAfhm6.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/ChEP6xxWgAAfhm6.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"682",
+                            "resize":"fit",
+                            "w":"1024"
+                        },
+                        "medium":{
+                            "h":"682",
+                            "resize":"fit",
+                            "w":"1024"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"725378524668936197",
+                    "source_status_id_str":"725378524668936197",
+                    "source_user_id":"54515483",
+                    "source_user_id_str":"54515483",
+                    "type":"photo",
+                    "url":"https://t.co/FaF9mJCoXb"
+                },
+                {
+                    "display_url":"pic.twitter.com/FaF9mJCoXb",
+                    "expanded_url":"https://twitter.com/airwaysmagazine/status/725378524668936197/photo/1",
+                    "id":"725378517458931712",
+                    "id_str":"725378517458931712",
+                    "indices":[
+                        "106",
+                        "129"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/ChEP6xzW0AAnXO5.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/ChEP6xzW0AAnXO5.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"683",
+                            "resize":"fit",
+                            "w":"1024"
+                        },
+                        "medium":{
+                            "h":"683",
+                            "resize":"fit",
+                            "w":"1024"
+                        },
+                        "small":{
+                            "h":"454",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"725378524668936197",
+                    "source_status_id_str":"725378524668936197",
+                    "source_user_id":"54515483",
+                    "source_user_id_str":"54515483",
+                    "type":"photo",
+                    "url":"https://t.co/FaF9mJCoXb"
+                },
+                {
+                    "display_url":"pic.twitter.com/FaF9mJCoXb",
+                    "expanded_url":"https://twitter.com/airwaysmagazine/status/725378524668936197/photo/1",
+                    "id":"725378517463121920",
+                    "id_str":"725378517463121920",
+                    "indices":[
+                        "106",
+                        "129"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/ChEP6x0WwAAGnpU.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/ChEP6x0WwAAGnpU.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"683",
+                            "resize":"fit",
+                            "w":"1024"
+                        },
+                        "medium":{
+                            "h":"683",
+                            "resize":"fit",
+                            "w":"1024"
+                        },
+                        "small":{
+                            "h":"454",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"725378524668936197",
+                    "source_status_id_str":"725378524668936197",
+                    "source_user_id":"54515483",
+                    "source_user_id_str":"54515483",
+                    "type":"photo",
+                    "url":"https://t.co/FaF9mJCoXb"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @airwaysmagazine: The Museum of Flight completes the final Boeing 247D flight.\nhttps://t.co/hGQCJPkgz0 https://t.co/FaF9mJCoXb",
+        "id":"725393806816890881",
+        "id_str":"725393806816890881",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 725393806816890900
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":725393806816890900
     },
-    "wof:country": "US",
-    "wof:created": 1602025834,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729295855,
-    "wof:lastmodified": 1602025834,
-    "wof:name": "Twitter message #725393806816890881",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025834,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729295855,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729295855,
+    "wof:lastmodified":1602186677,
+    "wof:name":"RT @airwaysmagazine: The Museum of Flight completes the final Boeing 247D flight.\nhttps://t.co/hGQCJPkgz0 https://t.co/FaF9mJCoXb",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,93 +2,113 @@
   "id": 1729308293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-04-15T13:55:46-07:00",
-    "edtf:inception": "2020-04-15T13:55:46-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1586984146,
-      "created_at": "Wed Apr 15 20:55:46 +0000 2020",
-      "display_text_range": [
-        "0", 
-        "206"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "191", 
-              "206"
-            ],
-            "text": "MuseumFromHome"
-          }
+    "date:cessation_lower":"2020-04-15",
+    "date:cessation_upper":"2020-04-15",
+    "date:inception_lower":"2020-04-15",
+    "date:inception_upper":"2020-04-15",
+    "edtf:cessation":"2020-04-15T13:55:46-07:00",
+    "edtf:inception":"2020-04-15T13:55:46-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1586984146,
+        "created_at":"Wed Apr 15 20:55:46 +0000 2020",
+        "display_text_range":[
+            "0",
+            "206"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "davidrumsey.com",
-            "expanded_url": "https://www.davidrumsey.com/",
-            "indices": [
-              "167", 
-              "190"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "191",
+                        "206"
+                    ],
+                    "text":"MuseumFromHome"
+                }
             ],
-            "url": "https://t.co/6wIDOy2Rb2"
-          }
-        ],
-        "user_mentions": []
-      },
-      "favorite_count": "4",
-      "favorited": false,
-      "full_text": "Looking for a new rabbit hole? Dive into the over 98,000 maps - celestial, maritime, children’s, data visualization, and more - available online from this collection: https://t.co/6wIDOy2Rb2 #MuseumFromHome",
-      "id": "1250528264348512256",
-      "id_str": "1250528264348512256",
-      "in_reply_to_screen_name": "SFOMuseum",
-      "in_reply_to_status_id": "1250528261815205888",
-      "in_reply_to_status_id_str": "1250528261815205888",
-      "in_reply_to_user_id": "116329337",
-      "in_reply_to_user_id_str": "116329337",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"davidrumsey.com",
+                    "expanded_url":"https://www.davidrumsey.com/",
+                    "indices":[
+                        "167",
+                        "190"
+                    ],
+                    "url":"https://t.co/6wIDOy2Rb2"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"4",
+        "favorited":false,
+        "full_text":"Looking for a new rabbit hole? Dive into the over 98,000 maps - celestial, maritime, children\u2019s, data visualization, and more - available online from this collection: https://t.co/6wIDOy2Rb2 #MuseumFromHome",
+        "id":"1250528264348512256",
+        "id_str":"1250528264348512256",
+        "in_reply_to_screen_name":"SFOMuseum",
+        "in_reply_to_status_id":"1250528261815205888",
+        "in_reply_to_status_id_str":"1250528261815205888",
+        "in_reply_to_user_id":"116329337",
+        "in_reply_to_user_id_str":"116329337",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1250528264348512300
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1250528264348512300
     },
-    "wof:country": "US",
-    "wof:created": 1602026310,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729308293,
-    "wof:lastmodified": 1602026310,
-    "wof:name": "Twitter message #1250528264348512256",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026310,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729308293,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729308293,
+    "wof:lastmodified":1602186274,
+    "wof:name":"Looking for a new rabbit hole? Dive into the over 98,000 maps - celestial, maritime, children\u2019s, data visualization, and more - available online from this collection: https://t.co/6wIDOy2Rb2 #MuseumFromHome",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

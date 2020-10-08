@@ -2,100 +2,120 @@
   "id": 1729290695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2013-09-05T10:55:36-07:00",
-    "edtf:inception": "2013-09-05T10:55:36-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1378403736,
-      "created_at": "Thu Sep 05 17:55:36 +0000 2013",
-      "display_text_range": [
-        "0", 
-        "140"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "34006429",
-            "id_str": "34006429",
-            "indices": [
-              "3", 
-              "18"
-            ],
-            "name": "Collectors Weekly",
-            "screen_name": "collectorswkly"
-          }, 
-          {
-            "id": "116329337",
-            "id_str": "116329337",
-            "indices": [
-              "67", 
-              "77"
-            ],
-            "name": "SFO Museum",
-            "screen_name": "SFOMuseum"
-          }, 
-          {
-            "id": "19201304",
-            "id_str": "19201304",
-            "indices": [
-              "82", 
-              "91"
-            ],
-            "name": "KQED Arts \u0026 Culture",
-            "screen_name": "KQEDarts"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @collectorswkly: CW's Ben Marks visits America's Cup exhibition @SFOMuseum for @KQEDarts. When America's Cup Was Actually a Boat Race \nh…",
-      "id": "375678614915653632",
-      "id_str": "375678614915653632",
-      "lang": "en",
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+    "date:cessation_lower":"2013-09-05",
+    "date:cessation_upper":"2013-09-05",
+    "date:inception_lower":"2013-09-05",
+    "date:inception_upper":"2013-09-05",
+    "edtf:cessation":"2013-09-05T10:55:36-07:00",
+    "edtf:inception":"2013-09-05T10:55:36-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1378403736,
+        "created_at":"Thu Sep 05 17:55:36 +0000 2013",
+        "display_text_range":[
+            "0",
+            "140"
+        ],
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"34006429",
+                    "id_str":"34006429",
+                    "indices":[
+                        "3",
+                        "18"
+                    ],
+                    "name":"Collectors Weekly",
+                    "screen_name":"collectorswkly"
+                },
+                {
+                    "id":"116329337",
+                    "id_str":"116329337",
+                    "indices":[
+                        "67",
+                        "77"
+                    ],
+                    "name":"SFO Museum",
+                    "screen_name":"SFOMuseum"
+                },
+                {
+                    "id":"19201304",
+                    "id_str":"19201304",
+                    "indices":[
+                        "82",
+                        "91"
+                    ],
+                    "name":"KQED Arts & Culture",
+                    "screen_name":"KQEDarts"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @collectorswkly: CW's Ben Marks visits America's Cup exhibition @SFOMuseum for @KQEDarts. When America's Cup Was Actually a Boat Race \nh\u2026",
+        "id":"375678614915653632",
+        "id_str":"375678614915653632",
+        "lang":"en",
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 375678614915653600
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":375678614915653600
     },
-    "wof:country": "US",
-    "wof:created": 1602025642,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729290695,
-    "wof:lastmodified": 1602025642,
-    "wof:name": "Twitter message #375678614915653632",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025642,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729290695,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729290695,
+    "wof:lastmodified":1602186564,
+    "wof:name":"RT @collectorswkly: CW's Ben Marks visits America's Cup exhibition @SFOMuseum for @KQEDarts. When America's Cup Was Actually a Boat Race \nh\u2026",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

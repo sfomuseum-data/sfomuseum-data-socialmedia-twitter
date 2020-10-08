@@ -2,180 +2,200 @@
   "id": 1729298051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-10-07T10:39:52-07:00",
-    "edtf:inception": "2016-10-07T10:39:52-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1475861992,
-      "created_at": "Fri Oct 07 17:39:52 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "92"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/isgrpqRiOT",
-            "expanded_url": "https://twitter.com/KLM/status/784302253532250112/photo/1",
-            "id": "782937856620716032",
-            "id_str": "782937856620716032",
-            "indices": [
-              "69", 
-              "92"
-            ],
-            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Ct2N1RkVYAANBCc.jpg",
-            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ct2N1RkVYAANBCc.jpg",
-            "sizes": {
-              "large": {
-                "h": "270",
-                "resize": "fit",
-                "w": "480"
-              },
-              "medium": {
-                "h": "270",
-                "resize": "fit",
-                "w": "480"
-              },
-              "small": {
-                "h": "270",
-                "resize": "fit",
-                "w": "480"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "784302253532250112",
-            "source_status_id_str": "784302253532250112",
-            "source_user_id": "56377143",
-            "source_user_id_str": "56377143",
-            "type": "photo",
-            "url": "https://t.co/isgrpqRiOT"
-          }
+    "date:cessation_lower":"2016-10-07",
+    "date:cessation_upper":"2016-10-07",
+    "date:inception_lower":"2016-10-07",
+    "date:inception_upper":"2016-10-07",
+    "edtf:cessation":"2016-10-07T10:39:52-07:00",
+    "edtf:inception":"2016-10-07T10:39:52-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1475861992,
+        "created_at":"Fri Oct 07 17:39:52 +0000 2016",
+        "display_text_range":[
+            "0",
+            "92"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "56377143",
-            "id_str": "56377143",
-            "indices": [
-              "3", 
-              "7"
-            ],
-            "name": "KLM",
-            "screen_name": "KLM"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/isgrpqRiOT",
-            "expanded_url": "https://twitter.com/KLM/status/784302253532250112/photo/1",
-            "id": "782937856620716032",
-            "id_str": "782937856620716032",
-            "indices": [
-              "69", 
-              "92"
-            ],
-            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Ct2N1RkVYAANBCc.jpg",
-            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ct2N1RkVYAANBCc.jpg",
-            "sizes": {
-              "large": {
-                "h": "270",
-                "resize": "fit",
-                "w": "480"
-              },
-              "medium": {
-                "h": "270",
-                "resize": "fit",
-                "w": "480"
-              },
-              "small": {
-                "h": "270",
-                "resize": "fit",
-                "w": "480"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "784302253532250112",
-            "source_status_id_str": "784302253532250112",
-            "source_user_id": "56377143",
-            "source_user_id_str": "56377143",
-            "type": "animated_gif",
-            "url": "https://t.co/isgrpqRiOT",
-            "video_info": {
-              "aspect_ratio": [
-                "16", 
-                "9"
-              ],
-              "variants": [
+        "entities":{
+            "hashtags":[],
+            "media":[
                 {
-                  "bitrate": "0",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/tweet_video/Ct2N1RkVYAANBCc.mp4"
+                    "display_url":"pic.twitter.com/isgrpqRiOT",
+                    "expanded_url":"https://twitter.com/KLM/status/784302253532250112/photo/1",
+                    "id":"782937856620716032",
+                    "id_str":"782937856620716032",
+                    "indices":[
+                        "69",
+                        "92"
+                    ],
+                    "media_url":"http://pbs.twimg.com/tweet_video_thumb/Ct2N1RkVYAANBCc.jpg",
+                    "media_url_https":"https://pbs.twimg.com/tweet_video_thumb/Ct2N1RkVYAANBCc.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"270",
+                            "resize":"fit",
+                            "w":"480"
+                        },
+                        "medium":{
+                            "h":"270",
+                            "resize":"fit",
+                            "w":"480"
+                        },
+                        "small":{
+                            "h":"270",
+                            "resize":"fit",
+                            "w":"480"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"784302253532250112",
+                    "source_status_id_str":"784302253532250112",
+                    "source_user_id":"56377143",
+                    "source_user_id_str":"56377143",
+                    "type":"photo",
+                    "url":"https://t.co/isgrpqRiOT"
                 }
-              ]
-            }
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @KLM: ♫ Happy birthday to us.. ♫ How many windows did you count?! https://t.co/isgrpqRiOT",
-      "id": "784448168926834688",
-      "id_str": "784448168926834688",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            ],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"56377143",
+                    "id_str":"56377143",
+                    "indices":[
+                        "3",
+                        "7"
+                    ],
+                    "name":"KLM",
+                    "screen_name":"KLM"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/isgrpqRiOT",
+                    "expanded_url":"https://twitter.com/KLM/status/784302253532250112/photo/1",
+                    "id":"782937856620716032",
+                    "id_str":"782937856620716032",
+                    "indices":[
+                        "69",
+                        "92"
+                    ],
+                    "media_url":"http://pbs.twimg.com/tweet_video_thumb/Ct2N1RkVYAANBCc.jpg",
+                    "media_url_https":"https://pbs.twimg.com/tweet_video_thumb/Ct2N1RkVYAANBCc.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"270",
+                            "resize":"fit",
+                            "w":"480"
+                        },
+                        "medium":{
+                            "h":"270",
+                            "resize":"fit",
+                            "w":"480"
+                        },
+                        "small":{
+                            "h":"270",
+                            "resize":"fit",
+                            "w":"480"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"784302253532250112",
+                    "source_status_id_str":"784302253532250112",
+                    "source_user_id":"56377143",
+                    "source_user_id_str":"56377143",
+                    "type":"animated_gif",
+                    "url":"https://t.co/isgrpqRiOT",
+                    "video_info":{
+                        "aspect_ratio":[
+                            "16",
+                            "9"
+                        ],
+                        "variants":[
+                            {
+                                "bitrate":"0",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/tweet_video/Ct2N1RkVYAANBCc.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @KLM: \u266b Happy birthday to us.. \u266b How many windows did you count?! https://t.co/isgrpqRiOT",
+        "id":"784448168926834688",
+        "id_str":"784448168926834688",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 784448168926834700
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":784448168926834700
     },
-    "wof:country": "US",
-    "wof:created": 1602025921,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729298051,
-    "wof:lastmodified": 1602025921,
-    "wof:name": "Twitter message #784448168926834688",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025921,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729298051,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729298051,
+    "wof:lastmodified":1602186528,
+    "wof:name":"RT @KLM: \u266b Happy birthday to us.. \u266b How many windows did you count?! https://t.co/isgrpqRiOT",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

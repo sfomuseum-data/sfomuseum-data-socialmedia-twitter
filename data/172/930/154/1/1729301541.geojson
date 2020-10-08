@@ -2,77 +2,97 @@
   "id": 1729301541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2012-01-11T11:30:25-08:00",
-    "edtf:inception": "2012-01-11T11:30:25-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1326310225,
-      "created_at": "Wed Jan 11 19:30:25 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "98"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "90", 
-              "98"
-            ],
-            "text": "AVgeeks"
-          }
+    "date:cessation_lower":"2012-01-11",
+    "date:cessation_upper":"2012-01-11",
+    "date:inception_lower":"2012-01-11",
+    "date:inception_upper":"2012-01-11",
+    "edtf:cessation":"2012-01-11T11:30:25-08:00",
+    "edtf:inception":"2012-01-11T11:30:25-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1326310225,
+        "created_at":"Wed Jan 11 19:30:25 +0000 2012",
+        "display_text_range":[
+            "0",
+            "98"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Amelia Earhart became the first person to fly solo from Hawaii to California OTD in 1935. #AVgeeks",
-      "id": "157182596239994880",
-      "id_str": "157182596239994880",
-      "lang": "en",
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "90",
+                        "98"
+                    ],
+                    "text":"AVgeeks"
+                }
+            ],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Amelia Earhart became the first person to fly solo from Hawaii to California OTD in 1935. #AVgeeks",
+        "id":"157182596239994880",
+        "id_str":"157182596239994880",
+        "lang":"en",
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 157182596239994880
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":157182596239994880
     },
-    "wof:country": "US",
-    "wof:created": 1602026050,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729301541,
-    "wof:lastmodified": 1602026050,
-    "wof:name": "Twitter message #157182596239994880",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026050,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729301541,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729301541,
+    "wof:lastmodified":1602186298,
+    "wof:name":"Amelia Earhart became the first person to fly solo from Hawaii to California OTD in 1935. #AVgeeks",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

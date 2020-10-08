@@ -2,88 +2,108 @@
   "id": 1729312369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2013-07-18T13:53:58-07:00",
-    "edtf:inception": "2013-07-18T13:53:58-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1374180838,
-      "created_at": "Thu Jul 18 20:53:58 +0000 2013",
-      "display_text_range": [
-        "0", 
-        "105"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "73", 
-              "82"
-            ],
-            "text": "Basketry"
-          }
+    "date:cessation_lower":"2013-07-18",
+    "date:cessation_upper":"2013-07-18",
+    "date:inception_lower":"2013-07-18",
+    "date:inception_upper":"2013-07-18",
+    "edtf:cessation":"2013-07-18T13:53:58-07:00",
+    "edtf:inception":"2013-07-18T13:53:58-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1374180838,
+        "created_at":"Thu Jul 18 20:53:58 +0000 2013",
+        "display_text_range":[
+            "0",
+            "105"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "instagram.com/p/b69niqRkxz/",
-            "expanded_url": "http://instagram.com/p/b69niqRkxz/",
-            "indices": [
-              "83", 
-              "105"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "73",
+                        "82"
+                    ],
+                    "text":"Basketry"
+                }
             ],
-            "url": "http://t.co/1ANqcSVxCl"
-          }
-        ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Making sure everything is 'just so' for our newest exhibit of Philippine #Basketry http://t.co/1ANqcSVxCl",
-      "id": "357966498918187008",
-      "id_str": "357966498918187008",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"instagram.com/p/b69niqRkxz/",
+                    "expanded_url":"http://instagram.com/p/b69niqRkxz/",
+                    "indices":[
+                        "83",
+                        "105"
+                    ],
+                    "url":"http://t.co/1ANqcSVxCl"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Making sure everything is 'just so' for our newest exhibit of Philippine #Basketry http://t.co/1ANqcSVxCl",
+        "id":"357966498918187008",
+        "id_str":"357966498918187008",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 357966498918187000
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":357966498918187000
     },
-    "wof:country": "US",
-    "wof:created": 1602026469,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729312369,
-    "wof:lastmodified": 1602026469,
-    "wof:name": "Twitter message #357966498918187008",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026469,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729312369,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729312369,
+    "wof:lastmodified":1602186475,
+    "wof:name":"Making sure everything is 'just so' for our newest exhibit of Philippine #Basketry http://t.co/1ANqcSVxCl",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

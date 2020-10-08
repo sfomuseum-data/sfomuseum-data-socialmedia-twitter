@@ -2,156 +2,176 @@
   "id": 1729307839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-02-07T09:02:18-08:00",
-    "edtf:inception": "2020-02-07T09:02:18-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1581094938,
-      "created_at": "Fri Feb 07 17:02:18 +0000 2020",
-      "display_text_range": [
-        "0", 
-        "270"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "232", 
-              "246"
-            ],
-            "text": "StanleyGreene"
-          }
+    "date:cessation_lower":"2020-02-07",
+    "date:cessation_upper":"2020-02-07",
+    "date:inception_lower":"2020-02-07",
+    "date:inception_upper":"2020-02-07",
+    "edtf:cessation":"2020-02-07T09:02:18-08:00",
+    "edtf:inception":"2020-02-07T09:02:18-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1581094938,
+        "created_at":"Fri Feb 07 17:02:18 +0000 2020",
+        "display_text_range":[
+            "0",
+            "270"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/PHa1wlb3eT",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1225827133815128065/photo/1",
-            "id": "1225827129843167232",
-            "id_str": "1225827129843167232",
-            "indices": [
-              "247", 
-              "270"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "232",
+                        "246"
+                    ],
+                    "text":"StanleyGreene"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EQMDR6ZWsAAhh2b.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EQMDR6ZWsAAhh2b.jpg",
-            "sizes": {
-              "large": {
-                "h": "1331",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "799",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/PHa1wlb3eT"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/PHa1wlb3eT",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1225827133815128065/photo/1",
-            "id": "1225827129843167232",
-            "id_str": "1225827129843167232",
-            "indices": [
-              "247", 
-              "270"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/PHa1wlb3eT",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1225827133815128065/photo/1",
+                    "id":"1225827129843167232",
+                    "id_str":"1225827129843167232",
+                    "indices":[
+                        "247",
+                        "270"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EQMDR6ZWsAAhh2b.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EQMDR6ZWsAAhh2b.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1331",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"799",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/PHa1wlb3eT"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EQMDR6ZWsAAhh2b.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EQMDR6ZWsAAhh2b.jpg",
-            "sizes": {
-              "large": {
-                "h": "1331",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "799",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/PHa1wlb3eT"
-          }
-        ]
-      },
-      "favorite_count": "10",
-      "favorited": false,
-      "full_text": "“In the Inuit language, we use the word Sila for ice. But Sila also means much more than Ice. It means weather, climate, environment, sky, and indeed, the universe.” —Aqqaluk Lynge, former President of the Inuit Circumpolar Council #StanleyGreene https://t.co/PHa1wlb3eT",
-      "id": "1225827133815128065",
-      "id_str": "1225827133815128065",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/PHa1wlb3eT",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1225827133815128065/photo/1",
+                    "id":"1225827129843167232",
+                    "id_str":"1225827129843167232",
+                    "indices":[
+                        "247",
+                        "270"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EQMDR6ZWsAAhh2b.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EQMDR6ZWsAAhh2b.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1331",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"799",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/PHa1wlb3eT"
+                }
+            ]
+        },
+        "favorite_count":"10",
+        "favorited":false,
+        "full_text":"\u201cIn the Inuit language, we use the word Sila for ice. But Sila also means much more than Ice. It means weather, climate, environment, sky, and indeed, the universe.\u201d \u2014Aqqaluk Lynge, former President of the Inuit Circumpolar Council #StanleyGreene https://t.co/PHa1wlb3eT",
+        "id":"1225827133815128065",
+        "id_str":"1225827133815128065",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1225827133815128000
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1225827133815128000
     },
-    "wof:country": "US",
-    "wof:created": 1602026293,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729307839,
-    "wof:lastmodified": 1602026293,
-    "wof:name": "Twitter message #1225827133815128065",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026293,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729307839,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729307839,
+    "wof:lastmodified":1602186443,
+    "wof:name":"\u201cIn the Inuit language, we use the word Sila for ice. But Sila also means much more than Ice. It means weather, climate, environment, sky, and indeed, the universe.\u201d \u2014Aqqaluk Lynge, former President of the Inuit Circumpolar Council #StanleyGreene https://t.co/PHa1wlb3eT",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,177 +2,197 @@
   "id": 1729306537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2012-02-13T09:04:00-08:00",
-    "edtf:inception": "2012-02-13T09:04:00-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1329152640,
-      "created_at": "Mon Feb 13 17:04:00 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "100"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/lD0vkqvX",
-            "expanded_url": "https://twitter.com/valkolton/status/168160327236730880/photo/1",
-            "id": "168160327236730882",
-            "id_str": "168160327236730882",
-            "indices": [
-              "80", 
-              "100"
-            ],
-            "media_url": "http://pbs.twimg.com/media/AlVs7TpCQAIJimN.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/AlVs7TpCQAIJimN.jpg",
-            "sizes": {
-              "large": {
-                "h": "816",
-                "resize": "fit",
-                "w": "612"
-              },
-              "medium": {
-                "h": "816",
-                "resize": "fit",
-                "w": "612"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "168160327236730880",
-            "source_status_id_str": "168160327236730880",
-            "source_user_id": "23638588",
-            "source_user_id_str": "23638588",
-            "type": "photo",
-            "url": "http://t.co/lD0vkqvX"
-          }
+    "date:cessation_lower":"2012-02-13",
+    "date:cessation_upper":"2012-02-13",
+    "date:inception_lower":"2012-02-13",
+    "date:inception_upper":"2012-02-13",
+    "edtf:cessation":"2012-02-13T09:04:00-08:00",
+    "edtf:inception":"2012-02-13T09:04:00-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1329152640,
+        "created_at":"Mon Feb 13 17:04:00 +0000 2012",
+        "display_text_range":[
+            "0",
+            "100"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "18958334",
-            "id_str": "18958334",
-            "indices": [
-              "17", 
-              "22"
+        "entities":{
+            "hashtags":[],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/lD0vkqvX",
+                    "expanded_url":"https://twitter.com/valkolton/status/168160327236730880/photo/1",
+                    "id":"168160327236730882",
+                    "id_str":"168160327236730882",
+                    "indices":[
+                        "80",
+                        "100"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/AlVs7TpCQAIJimN.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/AlVs7TpCQAIJimN.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"816",
+                            "resize":"fit",
+                            "w":"612"
+                        },
+                        "medium":{
+                            "h":"816",
+                            "resize":"fit",
+                            "w":"612"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"168160327236730880",
+                    "source_status_id_str":"168160327236730880",
+                    "source_user_id":"23638588",
+                    "source_user_id_str":"23638588",
+                    "type":"photo",
+                    "url":"http://t.co/lD0vkqvX"
+                }
             ],
-            "name": "SF Arts Commission",
-            "screen_name": "SFAC"
-          }, 
-          {
-            "id": "23638588",
-            "id_str": "23638588",
-            "indices": [
-              "39", 
-              "49"
-            ],
-            "name": "Val Kolton",
-            "screen_name": "valkolton"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/lD0vkqvX",
-            "expanded_url": "https://twitter.com/valkolton/status/168160327236730880/photo/1",
-            "id": "168160327236730882",
-            "id_str": "168160327236730882",
-            "indices": [
-              "80", 
-              "100"
-            ],
-            "media_url": "http://pbs.twimg.com/media/AlVs7TpCQAIJimN.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/AlVs7TpCQAIJimN.jpg",
-            "sizes": {
-              "large": {
-                "h": "816",
-                "resize": "fit",
-                "w": "612"
-              },
-              "medium": {
-                "h": "816",
-                "resize": "fit",
-                "w": "612"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "168160327236730880",
-            "source_status_id_str": "168160327236730880",
-            "source_user_id": "23638588",
-            "source_user_id_str": "23638588",
-            "type": "photo",
-            "url": "http://t.co/lD0vkqvX"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "You found our (\u0026 @SFAC's) Pomodoro! RT @valkolton: Sfo airport has amazing art! http://t.co/lD0vkqvX",
-      "id": "169104546730221568",
-      "id_str": "169104546730221568",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"18958334",
+                    "id_str":"18958334",
+                    "indices":[
+                        "17",
+                        "22"
+                    ],
+                    "name":"SF Arts Commission",
+                    "screen_name":"SFAC"
+                },
+                {
+                    "id":"23638588",
+                    "id_str":"23638588",
+                    "indices":[
+                        "39",
+                        "49"
+                    ],
+                    "name":"Val Kolton",
+                    "screen_name":"valkolton"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/lD0vkqvX",
+                    "expanded_url":"https://twitter.com/valkolton/status/168160327236730880/photo/1",
+                    "id":"168160327236730882",
+                    "id_str":"168160327236730882",
+                    "indices":[
+                        "80",
+                        "100"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/AlVs7TpCQAIJimN.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/AlVs7TpCQAIJimN.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"816",
+                            "resize":"fit",
+                            "w":"612"
+                        },
+                        "medium":{
+                            "h":"816",
+                            "resize":"fit",
+                            "w":"612"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"168160327236730880",
+                    "source_status_id_str":"168160327236730880",
+                    "source_user_id":"23638588",
+                    "source_user_id_str":"23638588",
+                    "type":"photo",
+                    "url":"http://t.co/lD0vkqvX"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"You found our (& @SFAC's) Pomodoro! RT @valkolton: Sfo airport has amazing art! http://t.co/lD0vkqvX",
+        "id":"169104546730221568",
+        "id_str":"169104546730221568",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 169104546730221570
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":169104546730221570
     },
-    "wof:country": "US",
-    "wof:created": 1602026243,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729306537,
-    "wof:lastmodified": 1602026243,
-    "wof:name": "Twitter message #169104546730221568",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026243,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729306537,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729306537,
+    "wof:lastmodified":1602186220,
+    "wof:name":"You found our (& @SFAC's) Pomodoro! RT @valkolton: Sfo airport has amazing art! http://t.co/lD0vkqvX",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,166 +2,186 @@
   "id": 1729305883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-04-07T13:00:24-07:00",
-    "edtf:inception": "2019-04-07T13:00:24-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1554667224,
-      "created_at": "Sun Apr 07 20:00:24 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "131"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "29", 
-              "42"
-            ],
-            "text": "PhilipCheung"
-          }
+    "date:cessation_lower":"2019-04-07",
+    "date:cessation_upper":"2019-04-07",
+    "date:inception_lower":"2019-04-07",
+    "date:inception_upper":"2019-04-07",
+    "edtf:cessation":"2019-04-07T13:00:24-07:00",
+    "edtf:inception":"2019-04-07T13:00:24-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1554667224,
+        "created_at":"Sun Apr 07 20:00:24 +0000 2019",
+        "display_text_range":[
+            "0",
+            "131"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/sfPMim3NoQ",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1114981270889611265/photo/1",
-            "id": "1114981267576172544",
-            "id_str": "1114981267576172544",
-            "indices": [
-              "108", 
-              "131"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "29",
+                        "42"
+                    ],
+                    "text":"PhilipCheung"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/D3k1jjEXsAAq4uw.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/D3k1jjEXsAAq4uw.jpg",
-            "sizes": {
-              "large": {
-                "h": "1498",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "899",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "509",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/sfPMim3NoQ"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/2TBbfib",
-            "expanded_url": "http://bit.ly/2TBbfib",
-            "indices": [
-              "84", 
-              "107"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/sfPMim3NoQ",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1114981270889611265/photo/1",
+                    "id":"1114981267576172544",
+                    "id_str":"1114981267576172544",
+                    "indices":[
+                        "108",
+                        "131"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/D3k1jjEXsAAq4uw.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/D3k1jjEXsAAq4uw.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1498",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"899",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"509",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/sfPMim3NoQ"
+                }
             ],
-            "url": "https://t.co/upNlGh3FEz"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/sfPMim3NoQ",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1114981270889611265/photo/1",
-            "id": "1114981267576172544",
-            "id_str": "1114981267576172544",
-            "indices": [
-              "108", 
-              "131"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/2TBbfib",
+                    "expanded_url":"http://bit.ly/2TBbfib",
+                    "indices":[
+                        "84",
+                        "107"
+                    ],
+                    "url":"https://t.co/upNlGh3FEz"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/D3k1jjEXsAAq4uw.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/D3k1jjEXsAAq4uw.jpg",
-            "sizes": {
-              "large": {
-                "h": "1498",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "899",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "509",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/sfPMim3NoQ"
-          }
-        ]
-      },
-      "favorite_count": "2",
-      "favorited": false,
-      "full_text": "See \"The Central Pacific\" by #PhilipCheung, on display, pre-security in Terminal 3. https://t.co/upNlGh3FEz https://t.co/sfPMim3NoQ",
-      "id": "1114981270889611265",
-      "id_str": "1114981270889611265",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/sfPMim3NoQ",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1114981270889611265/photo/1",
+                    "id":"1114981267576172544",
+                    "id_str":"1114981267576172544",
+                    "indices":[
+                        "108",
+                        "131"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/D3k1jjEXsAAq4uw.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/D3k1jjEXsAAq4uw.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1498",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"899",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"509",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/sfPMim3NoQ"
+                }
+            ]
+        },
+        "favorite_count":"2",
+        "favorited":false,
+        "full_text":"See \"The Central Pacific\" by #PhilipCheung, on display, pre-security in Terminal 3. https://t.co/upNlGh3FEz https://t.co/sfPMim3NoQ",
+        "id":"1114981270889611265",
+        "id_str":"1114981270889611265",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1114981270889611300
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1114981270889611300
     },
-    "wof:country": "US",
-    "wof:created": 1602026217,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729305883,
-    "wof:lastmodified": 1602026217,
-    "wof:name": "Twitter message #1114981270889611265",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026217,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729305883,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729305883,
+    "wof:lastmodified":1602186210,
+    "wof:name":"See \"The Central Pacific\" by #PhilipCheung, on display, pre-security in Terminal 3. https://t.co/upNlGh3FEz https://t.co/sfPMim3NoQ",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

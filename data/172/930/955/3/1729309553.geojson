@@ -2,99 +2,119 @@
   "id": 1729309553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2012-05-21T11:40:01-07:00",
-    "edtf:inception": "2012-05-21T11:40:01-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1337625601,
-      "created_at": "Mon May 21 18:40:01 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "129"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "120", 
-              "129"
-            ],
-            "text": "aviation"
-          }
+    "date:cessation_lower":"2012-05-21",
+    "date:cessation_upper":"2012-05-21",
+    "date:inception_lower":"2012-05-21",
+    "date:inception_upper":"2012-05-21",
+    "edtf:cessation":"2012-05-21T11:40:01-07:00",
+    "edtf:inception":"2012-05-21T11:40:01-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1337625601,
+        "created_at":"Mon May 21 18:40:01 +0000 2012",
+        "display_text_range":[
+            "0",
+            "129"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/KfRm8Z",
-            "expanded_url": "http://bit.ly/KfRm8Z",
-            "indices": [
-              "81", 
-              "101"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "120",
+                        "129"
+                    ],
+                    "text":"aviation"
+                }
             ],
-            "url": "http://t.co/wuQZX6wx"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "15438913",
-            "id_str": "15438913",
-            "indices": [
-              "107", 
-              "118"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/KfRm8Z",
+                    "expanded_url":"http://bit.ly/KfRm8Z",
+                    "indices":[
+                        "81",
+                        "101"
+                    ],
+                    "url":"http://t.co/wuQZX6wx"
+                }
             ],
-            "name": "Daily Mail Online",
-            "screen_name": "MailOnline"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Amazing eclipse photo from the Philippines is an airline logo waiting to happen: http://t.co/wuQZX6wx (via @MailOnline) #aviation",
-      "id": "204642720059359233",
-      "id_str": "204642720059359233",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"15438913",
+                    "id_str":"15438913",
+                    "indices":[
+                        "107",
+                        "118"
+                    ],
+                    "name":"Daily Mail Online",
+                    "screen_name":"MailOnline"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Amazing eclipse photo from the Philippines is an airline logo waiting to happen: http://t.co/wuQZX6wx (via @MailOnline) #aviation",
+        "id":"204642720059359233",
+        "id_str":"204642720059359233",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 204642720059359230
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":204642720059359230
     },
-    "wof:country": "US",
-    "wof:created": 1602026358,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729309553,
-    "wof:lastmodified": 1602026358,
-    "wof:name": "Twitter message #204642720059359233",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026358,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729309553,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729309553,
+    "wof:lastmodified":1602186328,
+    "wof:name":"Amazing eclipse photo from the Philippines is an airline logo waiting to happen: http://t.co/wuQZX6wx (via @MailOnline) #aviation",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

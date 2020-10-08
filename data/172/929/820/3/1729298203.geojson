@@ -2,177 +2,197 @@
   "id": 1729298203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-10-14T13:57:43-07:00",
-    "edtf:inception": "2016-10-14T13:57:43-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1476478663,
-      "created_at": "Fri Oct 14 20:57:43 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "123"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/M9nWqm3Wl7",
-            "expanded_url": "https://twitter.com/usatodaytravel/status/787029830982336512/photo/1",
-            "id": "787029828797079552",
-            "id_str": "787029828797079552",
-            "indices": [
-              "100", 
-              "123"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CuwXdZ0WIAAsE-3.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CuwXdZ0WIAAsE-3.jpg",
-            "sizes": {
-              "large": {
-                "h": "401",
-                "resize": "fit",
-                "w": "534"
-              },
-              "medium": {
-                "h": "401",
-                "resize": "fit",
-                "w": "534"
-              },
-              "small": {
-                "h": "401",
-                "resize": "fit",
-                "w": "534"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "787029830982336512",
-            "source_status_id_str": "787029830982336512",
-            "source_user_id": "24016767",
-            "source_user_id_str": "24016767",
-            "type": "photo",
-            "url": "https://t.co/M9nWqm3Wl7"
-          }
+    "date:cessation_lower":"2016-10-14",
+    "date:cessation_upper":"2016-10-14",
+    "date:inception_lower":"2016-10-14",
+    "date:inception_upper":"2016-10-14",
+    "edtf:cessation":"2016-10-14T13:57:43-07:00",
+    "edtf:inception":"2016-10-14T13:57:43-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1476478663,
+        "created_at":"Fri Oct 14 20:57:43 +0000 2016",
+        "display_text_range":[
+            "0",
+            "123"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "usat.ly/2dTI0Z8",
-            "expanded_url": "http://usat.ly/2dTI0Z8",
-            "indices": [
-              "76", 
-              "99"
+        "entities":{
+            "hashtags":[],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/M9nWqm3Wl7",
+                    "expanded_url":"https://twitter.com/usatodaytravel/status/787029830982336512/photo/1",
+                    "id":"787029828797079552",
+                    "id_str":"787029828797079552",
+                    "indices":[
+                        "100",
+                        "123"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CuwXdZ0WIAAsE-3.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CuwXdZ0WIAAsE-3.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"401",
+                            "resize":"fit",
+                            "w":"534"
+                        },
+                        "medium":{
+                            "h":"401",
+                            "resize":"fit",
+                            "w":"534"
+                        },
+                        "small":{
+                            "h":"401",
+                            "resize":"fit",
+                            "w":"534"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"787029830982336512",
+                    "source_status_id_str":"787029830982336512",
+                    "source_user_id":"24016767",
+                    "source_user_id_str":"24016767",
+                    "type":"photo",
+                    "url":"https://t.co/M9nWqm3Wl7"
+                }
             ],
-            "url": "https://t.co/A9BHWk0xds"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "24016767",
-            "id_str": "24016767",
-            "indices": [
-              "3", 
-              "18"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"usat.ly/2dTI0Z8",
+                    "expanded_url":"http://usat.ly/2dTI0Z8",
+                    "indices":[
+                        "76",
+                        "99"
+                    ],
+                    "url":"https://t.co/A9BHWk0xds"
+                }
             ],
-            "name": "USA TODAY Travel",
-            "screen_name": "usatodaytravel"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/M9nWqm3Wl7",
-            "expanded_url": "https://twitter.com/usatodaytravel/status/787029830982336512/photo/1",
-            "id": "787029828797079552",
-            "id_str": "787029828797079552",
-            "indices": [
-              "100", 
-              "123"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CuwXdZ0WIAAsE-3.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CuwXdZ0WIAAsE-3.jpg",
-            "sizes": {
-              "large": {
-                "h": "401",
-                "resize": "fit",
-                "w": "534"
-              },
-              "medium": {
-                "h": "401",
-                "resize": "fit",
-                "w": "534"
-              },
-              "small": {
-                "h": "401",
-                "resize": "fit",
-                "w": "534"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "787029830982336512",
-            "source_status_id_str": "787029830982336512",
-            "source_user_id": "24016767",
-            "source_user_id_str": "24016767",
-            "type": "photo",
-            "url": "https://t.co/M9nWqm3Wl7"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @usatodaytravel: Relive Pan Am's glory days — without leaving the ground https://t.co/A9BHWk0xds https://t.co/M9nWqm3Wl7",
-      "id": "787034675441197056",
-      "id_str": "787034675441197056",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"24016767",
+                    "id_str":"24016767",
+                    "indices":[
+                        "3",
+                        "18"
+                    ],
+                    "name":"USA TODAY Travel",
+                    "screen_name":"usatodaytravel"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/M9nWqm3Wl7",
+                    "expanded_url":"https://twitter.com/usatodaytravel/status/787029830982336512/photo/1",
+                    "id":"787029828797079552",
+                    "id_str":"787029828797079552",
+                    "indices":[
+                        "100",
+                        "123"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CuwXdZ0WIAAsE-3.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CuwXdZ0WIAAsE-3.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"401",
+                            "resize":"fit",
+                            "w":"534"
+                        },
+                        "medium":{
+                            "h":"401",
+                            "resize":"fit",
+                            "w":"534"
+                        },
+                        "small":{
+                            "h":"401",
+                            "resize":"fit",
+                            "w":"534"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"787029830982336512",
+                    "source_status_id_str":"787029830982336512",
+                    "source_user_id":"24016767",
+                    "source_user_id_str":"24016767",
+                    "type":"photo",
+                    "url":"https://t.co/M9nWqm3Wl7"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @usatodaytravel: Relive Pan Am's glory days \u2014 without leaving the ground https://t.co/A9BHWk0xds https://t.co/M9nWqm3Wl7",
+        "id":"787034675441197056",
+        "id_str":"787034675441197056",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 787034675441197000
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":787034675441197000
     },
-    "wof:country": "US",
-    "wof:created": 1602025927,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729298203,
-    "wof:lastmodified": 1602025927,
-    "wof:name": "Twitter message #787034675441197056",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025927,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729298203,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729298203,
+    "wof:lastmodified":1602186613,
+    "wof:name":"RT @usatodaytravel: Relive Pan Am's glory days \u2014 without leaving the ground https://t.co/A9BHWk0xds https://t.co/M9nWqm3Wl7",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

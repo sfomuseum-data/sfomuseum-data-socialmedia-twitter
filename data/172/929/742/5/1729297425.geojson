@@ -2,99 +2,119 @@
   "id": 1729297425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-08-16T13:22:23-07:00",
-    "edtf:inception": "2016-08-16T13:22:23-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1471378943,
-      "created_at": "Tue Aug 16 20:22:23 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "74"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "40", 
-              "50"
-            ],
-            "text": "nosmoking"
-          }
+    "date:cessation_lower":"2016-08-16",
+    "date:cessation_upper":"2016-08-16",
+    "date:inception_lower":"2016-08-16",
+    "date:inception_upper":"2016-08-16",
+    "edtf:cessation":"2016-08-16T13:22:23-07:00",
+    "edtf:inception":"2016-08-16T13:22:23-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1471378943,
+        "created_at":"Tue Aug 16 20:22:23 +0000 2016",
+        "display_text_range":[
+            "0",
+            "74"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "twitter.com/royalscottking…",
-            "expanded_url": "https://twitter.com/royalscottking/status/764872131154812928",
-            "indices": [
-              "51", 
-              "74"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "40",
+                        "50"
+                    ],
+                    "text":"nosmoking"
+                }
             ],
-            "url": "https://t.co/CO1sMAQsN9"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "30257798",
-            "id_str": "30257798",
-            "indices": [
-              "3", 
-              "19"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"twitter.com/royalscottking\u2026",
+                    "expanded_url":"https://twitter.com/royalscottking/status/764872131154812928",
+                    "indices":[
+                        "51",
+                        "74"
+                    ],
+                    "url":"https://t.co/CO1sMAQsN9"
+                }
             ],
-            "name": "Evergreen Museum",
-            "screen_name": "EvergreenMuseum"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @EvergreenMuseum: Sign of the times. #nosmoking https://t.co/CO1sMAQsN9",
-      "id": "765644900280983552",
-      "id_str": "765644900280983552",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"30257798",
+                    "id_str":"30257798",
+                    "indices":[
+                        "3",
+                        "19"
+                    ],
+                    "name":"Evergreen Museum",
+                    "screen_name":"EvergreenMuseum"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @EvergreenMuseum: Sign of the times. #nosmoking https://t.co/CO1sMAQsN9",
+        "id":"765644900280983552",
+        "id_str":"765644900280983552",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 765644900280983600
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":765644900280983600
     },
-    "wof:country": "US",
-    "wof:created": 1602025897,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729297425,
-    "wof:lastmodified": 1602025897,
-    "wof:name": "Twitter message #765644900280983552",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025897,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729297425,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729297425,
+    "wof:lastmodified":1602186557,
+    "wof:name":"RT @EvergreenMuseum: Sign of the times. #nosmoking https://t.co/CO1sMAQsN9",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

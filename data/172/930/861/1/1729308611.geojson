@@ -2,163 +2,183 @@
   "id": 1729308611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-07-14T10:05:05-07:00",
-    "edtf:inception": "2020-07-14T10:05:05-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1594746305,
-      "created_at": "Tue Jul 14 17:05:05 +0000 2020",
-      "display_text_range": [
-        "0", 
-        "231"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "184", 
-              "191"
-            ],
-            "text": "avgeek"
-          }, 
-          {
-            "indices": [
-              "192", 
-              "207"
-            ],
-            "text": "MuseumFromHome"
-          }
+    "date:cessation_lower":"2020-07-14",
+    "date:cessation_upper":"2020-07-14",
+    "date:inception_lower":"2020-07-14",
+    "date:inception_upper":"2020-07-14",
+    "edtf:cessation":"2020-07-14T10:05:05-07:00",
+    "edtf:inception":"2020-07-14T10:05:05-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1594746305,
+        "created_at":"Tue Jul 14 17:05:05 +0000 2020",
+        "display_text_range":[
+            "0",
+            "231"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/vAdEh4gAne",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1283085118467461120/photo/1",
-            "id": "1283085115971833857",
-            "id_str": "1283085115971833857",
-            "indices": [
-              "208", 
-              "231"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "184",
+                        "191"
+                    ],
+                    "text":"avgeek"
+                },
+                {
+                    "indices":[
+                        "192",
+                        "207"
+                    ],
+                    "text":"MuseumFromHome"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Ec5vHWoXkAEXvZx.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Ec5vHWoXkAEXvZx.jpg",
-            "sizes": {
-              "large": {
-                "h": "1960",
-                "resize": "fit",
-                "w": "1240"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "759"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "430"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/vAdEh4gAne"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/vAdEh4gAne",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1283085118467461120/photo/1",
-            "id": "1283085115971833857",
-            "id_str": "1283085115971833857",
-            "indices": [
-              "208", 
-              "231"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/vAdEh4gAne",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1283085118467461120/photo/1",
+                    "id":"1283085115971833857",
+                    "id_str":"1283085115971833857",
+                    "indices":[
+                        "208",
+                        "231"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Ec5vHWoXkAEXvZx.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Ec5vHWoXkAEXvZx.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1960",
+                            "resize":"fit",
+                            "w":"1240"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"759"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"430"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/vAdEh4gAne"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Ec5vHWoXkAEXvZx.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Ec5vHWoXkAEXvZx.jpg",
-            "sizes": {
-              "large": {
-                "h": "1960",
-                "resize": "fit",
-                "w": "1240"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "759"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "430"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/vAdEh4gAne"
-          }
-        ]
-      },
-      "favorite_count": "23",
-      "favorited": false,
-      "full_text": "Happy Bastille Day! Bastille Day, the national day of France, commemorates the Storming of the Bastille in 1789, the flashpoint of the French Revolution. Have you ever been to France? #avgeek #MuseumFromHome https://t.co/vAdEh4gAne",
-      "id": "1283085118467461120",
-      "id_str": "1283085118467461120",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "3",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/vAdEh4gAne",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1283085118467461120/photo/1",
+                    "id":"1283085115971833857",
+                    "id_str":"1283085115971833857",
+                    "indices":[
+                        "208",
+                        "231"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Ec5vHWoXkAEXvZx.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Ec5vHWoXkAEXvZx.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1960",
+                            "resize":"fit",
+                            "w":"1240"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"759"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"430"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/vAdEh4gAne"
+                }
+            ]
+        },
+        "favorite_count":"23",
+        "favorited":false,
+        "full_text":"Happy Bastille Day! Bastille Day, the national day of France, commemorates the Storming of the Bastille in 1789, the flashpoint of the French Revolution. Have you ever been to France? #avgeek #MuseumFromHome https://t.co/vAdEh4gAne",
+        "id":"1283085118467461120",
+        "id_str":"1283085118467461120",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"3",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1283085118467461000
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1283085118467461000
     },
-    "wof:country": "US",
-    "wof:created": 1602026322,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729308611,
-    "wof:lastmodified": 1602026322,
-    "wof:name": "Twitter message #1283085118467461120",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026322,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729308611,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729308611,
+    "wof:lastmodified":1602186313,
+    "wof:name":"Happy Bastille Day! Bastille Day, the national day of France, commemorates the Storming of the Bastille in 1789, the flashpoint of the French Revolution. Have you ever been to France? #avgeek #MuseumFromHome https://t.co/vAdEh4gAne",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

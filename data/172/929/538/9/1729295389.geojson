@@ -2,91 +2,111 @@
   "id": 1729295389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2011-12-02T12:28:34-08:00",
-    "edtf:inception": "2011-12-02T12:28:34-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1322857714,
-      "created_at": "Fri Dec 02 20:28:34 +0000 2011",
-      "display_text_range": [
-        "0", 
-        "96"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/sQvN6x",
-            "expanded_url": "http://bit.ly/sQvN6x",
-            "indices": [
-              "76", 
-              "96"
-            ],
-            "url": "http://t.co/6ET0pVlg"
-          }
+    "date:cessation_lower":"2011-12-02",
+    "date:cessation_upper":"2011-12-02",
+    "date:inception_lower":"2011-12-02",
+    "date:inception_upper":"2011-12-02",
+    "edtf:cessation":"2011-12-02T12:28:34-08:00",
+    "edtf:inception":"2011-12-02T12:28:34-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1322857714,
+        "created_at":"Fri Dec 02 20:28:34 +0000 2011",
+        "display_text_range":[
+            "0",
+            "96"
         ],
-        "user_mentions": [
-          {
-            "id": "21543254",
-            "id_str": "21543254",
-            "indices": [
-              "41", 
-              "49"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/sQvN6x",
+                    "expanded_url":"http://bit.ly/sQvN6x",
+                    "indices":[
+                        "76",
+                        "96"
+                    ],
+                    "url":"http://t.co/6ET0pVlg"
+                }
             ],
-            "name": "DJ Q*BERT",
-            "screen_name": "DJQbert"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "We are SO pumped for our power hour with @DJQbert! Tonight! 7pm! T2! Free!! http://t.co/6ET0pVlg",
-      "id": "142701712761827328",
-      "id_str": "142701712761827328",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"21543254",
+                    "id_str":"21543254",
+                    "indices":[
+                        "41",
+                        "49"
+                    ],
+                    "name":"DJ Q*BERT",
+                    "screen_name":"DJQbert"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"We are SO pumped for our power hour with @DJQbert! Tonight! 7pm! T2! Free!! http://t.co/6ET0pVlg",
+        "id":"142701712761827328",
+        "id_str":"142701712761827328",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 142701712761827330
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":142701712761827330
     },
-    "wof:country": "US",
-    "wof:created": 1602025818,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729295389,
-    "wof:lastmodified": 1602025818,
-    "wof:name": "Twitter message #142701712761827328",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025818,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729295389,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729295389,
+    "wof:lastmodified":1602186749,
+    "wof:name":"We are SO pumped for our power hour with @DJQbert! Tonight! 7pm! T2! Free!! http://t.co/6ET0pVlg",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

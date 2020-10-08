@@ -2,159 +2,179 @@
   "id": 1729300685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2017-07-23T11:00:38-07:00",
-    "edtf:inception": "2017-07-23T11:00:38-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1500832838,
-      "created_at": "Sun Jul 23 18:00:38 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "164"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/GJDg6kL1x9",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/889183487965749250/photo/1",
-            "id": "889183484203470849",
-            "id_str": "889183484203470849",
-            "indices": [
-              "141", 
-              "164"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DFcDqvQXkAEWx1t.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DFcDqvQXkAEWx1t.jpg",
-            "sizes": {
-              "large": {
-                "h": "1125",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/GJDg6kL1x9"
-          }
+    "date:cessation_lower":"2017-07-23",
+    "date:cessation_upper":"2017-07-23",
+    "date:inception_lower":"2017-07-23",
+    "date:inception_upper":"2017-07-23",
+    "edtf:cessation":"2017-07-23T11:00:38-07:00",
+    "edtf:inception":"2017-07-23T11:00:38-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1500832838,
+        "created_at":"Sun Jul 23 18:00:38 +0000 2017",
+        "display_text_range":[
+            "0",
+            "164"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "408676321",
-            "id_str": "408676321",
-            "indices": [
-              "15", 
-              "30"
+        "entities":{
+            "hashtags":[],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/GJDg6kL1x9",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/889183487965749250/photo/1",
+                    "id":"889183484203470849",
+                    "id_str":"889183484203470849",
+                    "indices":[
+                        "141",
+                        "164"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DFcDqvQXkAEWx1t.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DFcDqvQXkAEWx1t.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1125",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/GJDg6kL1x9"
+                }
             ],
-            "name": "Mike Kelley",
-            "screen_name": "mpkelleydotcom"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/GJDg6kL1x9",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/889183487965749250/photo/1",
-            "id": "889183484203470849",
-            "id_str": "889183484203470849",
-            "indices": [
-              "141", 
-              "164"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DFcDqvQXkAEWx1t.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DFcDqvQXkAEWx1t.jpg",
-            "sizes": {
-              "large": {
-                "h": "1125",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/GJDg6kL1x9"
-          }
-        ]
-      },
-      "favorite_count": "21",
-      "favorited": false,
-      "full_text": "Mike Kelley’s (@mpkelleydotcom) Airportraits uses multiple exposures to illustrate our busy skies that cannot be achieved in a single photo. https://t.co/GJDg6kL1x9",
-      "id": "889183487965749250",
-      "id_str": "889183487965749250",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "10",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"408676321",
+                    "id_str":"408676321",
+                    "indices":[
+                        "15",
+                        "30"
+                    ],
+                    "name":"Mike Kelley",
+                    "screen_name":"mpkelleydotcom"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/GJDg6kL1x9",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/889183487965749250/photo/1",
+                    "id":"889183484203470849",
+                    "id_str":"889183484203470849",
+                    "indices":[
+                        "141",
+                        "164"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DFcDqvQXkAEWx1t.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DFcDqvQXkAEWx1t.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1125",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/GJDg6kL1x9"
+                }
+            ]
+        },
+        "favorite_count":"21",
+        "favorited":false,
+        "full_text":"Mike Kelley\u2019s (@mpkelleydotcom) Airportraits uses multiple exposures to illustrate our busy skies that cannot be achieved in a single photo. https://t.co/GJDg6kL1x9",
+        "id":"889183487965749250",
+        "id_str":"889183487965749250",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"10",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 889183487965749200
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":889183487965749200
     },
-    "wof:country": "US",
-    "wof:created": 1602026019,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729300685,
-    "wof:lastmodified": 1602026019,
-    "wof:name": "Twitter message #889183487965749250",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026019,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729300685,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729300685,
+    "wof:lastmodified":1602186395,
+    "wof:name":"Mike Kelley\u2019s (@mpkelleydotcom) Airportraits uses multiple exposures to illustrate our busy skies that cannot be achieved in a single photo. https://t.co/GJDg6kL1x9",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

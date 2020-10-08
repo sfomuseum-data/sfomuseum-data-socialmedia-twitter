@@ -2,191 +2,211 @@
   "id": 1729304537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2018-10-22T18:01:05-07:00",
-    "edtf:inception": "2018-10-22T18:01:05-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1540256465,
-      "created_at": "Tue Oct 23 01:01:05 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "295"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "243", 
-              "254"
-            ],
-            "text": "HarveyMilk"
-          }, 
-          {
-            "indices": [
-              "255", 
-              "260"
-            ],
-            "text": "LGBT"
-          }, 
-          {
-            "indices": [
-              "261", 
-              "271"
-            ],
-            "text": "gayrights"
-          }
+    "date:cessation_lower":"2018-10-22",
+    "date:cessation_upper":"2018-10-22",
+    "date:inception_lower":"2018-10-22",
+    "date:inception_upper":"2018-10-22",
+    "edtf:cessation":"2018-10-22T18:01:05-07:00",
+    "edtf:inception":"2018-10-22T18:01:05-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1540256465,
+        "created_at":"Tue Oct 23 01:01:05 +0000 2018",
+        "display_text_range":[
+            "0",
+            "295"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/jWn5j4cvlS",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1054538164436647936/photo/1",
-            "id": "1054538160183631873",
-            "id_str": "1054538160183631873",
-            "indices": [
-              "272", 
-              "295"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "243",
+                        "254"
+                    ],
+                    "text":"HarveyMilk"
+                },
+                {
+                    "indices":[
+                        "255",
+                        "260"
+                    ],
+                    "text":"LGBT"
+                },
+                {
+                    "indices":[
+                        "261",
+                        "271"
+                    ],
+                    "text":"gayrights"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DqJ43pfW4AEmA3m.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DqJ43pfW4AEmA3m.jpg",
-            "sizes": {
-              "large": {
-                "h": "1301",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "762",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "432",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/jWn5j4cvlS"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/OTQn50jtNmj",
-            "expanded_url": "http://ow.ly/OTQn50jtNmj",
-            "indices": [
-              "219", 
-              "242"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/jWn5j4cvlS",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1054538164436647936/photo/1",
+                    "id":"1054538160183631873",
+                    "id_str":"1054538160183631873",
+                    "indices":[
+                        "272",
+                        "295"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DqJ43pfW4AEmA3m.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DqJ43pfW4AEmA3m.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1301",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"762",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"432",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/jWn5j4cvlS"
+                }
             ],
-            "url": "https://t.co/Soh1uLdxZD"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "16408759",
-            "id_str": "16408759",
-            "indices": [
-              "155", 
-              "162"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/OTQn50jtNmj",
+                    "expanded_url":"http://ow.ly/OTQn50jtNmj",
+                    "indices":[
+                        "219",
+                        "242"
+                    ],
+                    "url":"https://t.co/Soh1uLdxZD"
+                }
             ],
-            "name": "San Francisco International Airport (SFO) ✈️",
-            "screen_name": "flySFO"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/jWn5j4cvlS",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1054538164436647936/photo/1",
-            "id": "1054538160183631873",
-            "id_str": "1054538160183631873",
-            "indices": [
-              "272", 
-              "295"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DqJ43pfW4AEmA3m.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DqJ43pfW4AEmA3m.jpg",
-            "sizes": {
-              "large": {
-                "h": "1301",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "762",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "432",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/jWn5j4cvlS"
-          }
-        ]
-      },
-      "favorite_count": "12",
-      "favorited": false,
-      "full_text": "SFO Museum invites the public to contribute original photos on the life of San Francisco Supervisor Harvey B. Milk for consideration in two exhibitions in @flySFO’s new Terminal 1: The Harvey B. Milk Terminal. Details: https://t.co/Soh1uLdxZD #HarveyMilk #LGBT #gayrights https://t.co/jWn5j4cvlS",
-      "id": "1054538164436647936",
-      "id_str": "1054538164436647936",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "4",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"16408759",
+                    "id_str":"16408759",
+                    "indices":[
+                        "155",
+                        "162"
+                    ],
+                    "name":"San Francisco International Airport (SFO) \u2708\ufe0f",
+                    "screen_name":"flySFO"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/jWn5j4cvlS",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1054538164436647936/photo/1",
+                    "id":"1054538160183631873",
+                    "id_str":"1054538160183631873",
+                    "indices":[
+                        "272",
+                        "295"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DqJ43pfW4AEmA3m.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DqJ43pfW4AEmA3m.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1301",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"762",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"432",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/jWn5j4cvlS"
+                }
+            ]
+        },
+        "favorite_count":"12",
+        "favorited":false,
+        "full_text":"SFO Museum invites the public to contribute original photos on the life of San Francisco Supervisor Harvey B. Milk for consideration in two exhibitions in @flySFO\u2019s new Terminal 1: The Harvey B. Milk Terminal. Details: https://t.co/Soh1uLdxZD #HarveyMilk #LGBT #gayrights https://t.co/jWn5j4cvlS",
+        "id":"1054538164436647936",
+        "id_str":"1054538164436647936",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"4",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1054538164436648000
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1054538164436648000
     },
-    "wof:country": "US",
-    "wof:created": 1602026166,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729304537,
-    "wof:lastmodified": 1602026166,
-    "wof:name": "Twitter message #1054538164436647936",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026166,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729304537,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729304537,
+    "wof:lastmodified":1602186430,
+    "wof:name":"SFO Museum invites the public to contribute original photos on the life of San Francisco Supervisor Harvey B. Milk for consideration in two exhibitions in @flySFO\u2019s new Terminal 1: The Harvey B. Milk Terminal. Details: https://t.co/Soh1uLdxZD #HarveyMilk #LGBT #gayrights https://t.co/jWn5j4cvlS",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

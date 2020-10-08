@@ -2,170 +2,190 @@
   "id": 1729303945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2018-08-24T16:45:04-07:00",
-    "edtf:inception": "2018-08-24T16:45:04-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1535154304,
-      "created_at": "Fri Aug 24 23:45:04 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "239"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "32", 
-              "39"
-            ],
-            "text": "French"
-          }, 
-          {
-            "indices": [
-              "114", 
-              "123"
-            ],
-            "text": "airliner"
-          }, 
-          {
-            "indices": [
-              "196", 
-              "215"
-            ],
-            "text": "AviationEvolutions"
-          }
+    "date:cessation_lower":"2018-08-24",
+    "date:cessation_upper":"2018-08-24",
+    "date:inception_lower":"2018-08-24",
+    "date:inception_upper":"2018-08-24",
+    "edtf:cessation":"2018-08-24T16:45:04-07:00",
+    "edtf:inception":"2018-08-24T16:45:04-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1535154304,
+        "created_at":"Fri Aug 24 23:45:04 +0000 2018",
+        "display_text_range":[
+            "0",
+            "239"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/b00uUJ0aLO",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1033138151089418240/photo/1",
-            "id": "1033138148677767168",
-            "id_str": "1033138148677767168",
-            "indices": [
-              "216", 
-              "239"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "32",
+                        "39"
+                    ],
+                    "text":"French"
+                },
+                {
+                    "indices":[
+                        "114",
+                        "123"
+                    ],
+                    "text":"airliner"
+                },
+                {
+                    "indices":[
+                        "196",
+                        "215"
+                    ],
+                    "text":"AviationEvolutions"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DlZxrCPX0AA3EWJ.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DlZxrCPX0AA3EWJ.jpg",
-            "sizes": {
-              "large": {
-                "h": "1591",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "955",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "541",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/b00uUJ0aLO"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/b00uUJ0aLO",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1033138151089418240/photo/1",
-            "id": "1033138148677767168",
-            "id_str": "1033138148677767168",
-            "indices": [
-              "216", 
-              "239"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/b00uUJ0aLO",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1033138151089418240/photo/1",
+                    "id":"1033138148677767168",
+                    "id_str":"1033138148677767168",
+                    "indices":[
+                        "216",
+                        "239"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DlZxrCPX0AA3EWJ.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DlZxrCPX0AA3EWJ.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1591",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"955",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"541",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/b00uUJ0aLO"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DlZxrCPX0AA3EWJ.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DlZxrCPX0AA3EWJ.jpg",
-            "sizes": {
-              "large": {
-                "h": "1591",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "955",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "541",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/b00uUJ0aLO"
-          }
-        ]
-      },
-      "favorite_count": "12",
-      "favorited": false,
-      "full_text": "At the end of World War II, the #French aircraft manufacturer Breguet began designing a large-capacity, mid-range #airliner that would ultimately become the four-engine, double-deck 763 Provence. #AviationEvolutions https://t.co/b00uUJ0aLO",
-      "id": "1033138151089418240",
-      "id_str": "1033138151089418240",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "5",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/b00uUJ0aLO",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1033138151089418240/photo/1",
+                    "id":"1033138148677767168",
+                    "id_str":"1033138148677767168",
+                    "indices":[
+                        "216",
+                        "239"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DlZxrCPX0AA3EWJ.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DlZxrCPX0AA3EWJ.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1591",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"955",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"541",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/b00uUJ0aLO"
+                }
+            ]
+        },
+        "favorite_count":"12",
+        "favorited":false,
+        "full_text":"At the end of World War II, the #French aircraft manufacturer Breguet began designing a large-capacity, mid-range #airliner that would ultimately become the four-engine, double-deck 763 Provence. #AviationEvolutions https://t.co/b00uUJ0aLO",
+        "id":"1033138151089418240",
+        "id_str":"1033138151089418240",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"5",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1033138151089418200
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1033138151089418200
     },
-    "wof:country": "US",
-    "wof:created": 1602026143,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729303945,
-    "wof:lastmodified": 1602026143,
-    "wof:name": "Twitter message #1033138151089418240",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026143,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729303945,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729303945,
+    "wof:lastmodified":1602186380,
+    "wof:name":"At the end of World War II, the #French aircraft manufacturer Breguet began designing a large-capacity, mid-range #airliner that would ultimately become the four-engine, double-deck 763 Provence. #AviationEvolutions https://t.co/b00uUJ0aLO",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

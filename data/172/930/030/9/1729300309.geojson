@@ -2,93 +2,113 @@
   "id": 1729300309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2012-01-03T09:36:08-08:00",
-    "edtf:inception": "2012-01-03T09:36:08-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1325612168,
-      "created_at": "Tue Jan 03 17:36:08 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "126"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "15374039",
-            "id_str": "15374039",
-            "indices": [
-              "0", 
-              "15"
-            ],
-            "name": "Nathan Adkisson",
-            "screen_name": "nathanadkisson"
-          }, 
-          {
-            "id": "75528877",
-            "id_str": "75528877",
-            "indices": [
-              "16", 
-              "30"
-            ],
-            "name": "G-Squared",
-            "screen_name": "TheDjGSquared"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "@nathanadkisson @TheDjGSquared Thanks for checking out our exhibit, \"Revolutions per Minute\" over the weekend! Happy New Year!",
-      "id": "154254732192522241",
-      "id_str": "154254732192522241",
-      "in_reply_to_screen_name": "nathanadkisson",
-      "in_reply_to_user_id": "15374039",
-      "in_reply_to_user_id_str": "15374039",
-      "lang": "en",
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+    "date:cessation_lower":"2012-01-03",
+    "date:cessation_upper":"2012-01-03",
+    "date:inception_lower":"2012-01-03",
+    "date:inception_upper":"2012-01-03",
+    "edtf:cessation":"2012-01-03T09:36:08-08:00",
+    "edtf:inception":"2012-01-03T09:36:08-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1325612168,
+        "created_at":"Tue Jan 03 17:36:08 +0000 2012",
+        "display_text_range":[
+            "0",
+            "126"
+        ],
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"15374039",
+                    "id_str":"15374039",
+                    "indices":[
+                        "0",
+                        "15"
+                    ],
+                    "name":"Nathan Adkisson",
+                    "screen_name":"nathanadkisson"
+                },
+                {
+                    "id":"75528877",
+                    "id_str":"75528877",
+                    "indices":[
+                        "16",
+                        "30"
+                    ],
+                    "name":"G-Squared",
+                    "screen_name":"TheDjGSquared"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"@nathanadkisson @TheDjGSquared Thanks for checking out our exhibit, \"Revolutions per Minute\" over the weekend! Happy New Year!",
+        "id":"154254732192522241",
+        "id_str":"154254732192522241",
+        "in_reply_to_screen_name":"nathanadkisson",
+        "in_reply_to_user_id":"15374039",
+        "in_reply_to_user_id_str":"15374039",
+        "lang":"en",
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 154254732192522240
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":154254732192522240
     },
-    "wof:country": "US",
-    "wof:created": 1602026004,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729300309,
-    "wof:lastmodified": 1602026004,
-    "wof:name": "Twitter message #154254732192522241",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026004,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729300309,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729300309,
+    "wof:lastmodified":1602186286,
+    "wof:name":"@nathanadkisson @TheDjGSquared Thanks for checking out our exhibit, \"Revolutions per Minute\" over the weekend! Happy New Year!",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

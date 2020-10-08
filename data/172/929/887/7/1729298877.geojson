@@ -2,285 +2,305 @@
   "id": 1729298877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-12-19T20:00:17-08:00",
-    "edtf:inception": "2016-12-19T20:00:17-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1482206417,
-      "created_at": "Tue Dec 20 04:00:17 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "163"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "78", 
-              "85"
-            ],
-            "text": "United"
-          }, 
-          {
-            "indices": [
-              "104", 
-              "112"
-            ],
-            "text": "recipes"
-          }, 
-          {
-            "indices": [
-              "121", 
-              "131"
-            ],
-            "text": "Mainliner"
-          }, 
-          {
-            "indices": [
-              "132", 
-              "138"
-            ],
-            "text": "chefs"
-          }
+    "date:cessation_lower":"2016-12-19",
+    "date:cessation_upper":"2016-12-19",
+    "date:inception_lower":"2016-12-19",
+    "date:inception_upper":"2016-12-19",
+    "edtf:cessation":"2016-12-19T20:00:17-08:00",
+    "edtf:inception":"2016-12-19T20:00:17-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1482206417,
+        "created_at":"Tue Dec 20 04:00:17 +0000 2016",
+        "display_text_range":[
+            "0",
+            "163"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/uI29778ygY",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/811058617889812480/photo/1",
-            "id": "811058612219088896",
-            "id_str": "811058612219088896",
-            "indices": [
-              "140", 
-              "163"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "78",
+                        "85"
+                    ],
+                    "text":"United"
+                },
+                {
+                    "indices":[
+                        "104",
+                        "112"
+                    ],
+                    "text":"recipes"
+                },
+                {
+                    "indices":[
+                        "121",
+                        "131"
+                    ],
+                    "text":"Mainliner"
+                },
+                {
+                    "indices":[
+                        "132",
+                        "138"
+                    ],
+                    "text":"chefs"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/C0F1grlXEAA55YF.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C0F1grlXEAA55YF.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1326"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "796"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "451"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/uI29778ygY"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/uI29778ygY",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/811058617889812480/photo/1",
-            "id": "811058612219088896",
-            "id_str": "811058612219088896",
-            "indices": [
-              "140", 
-              "163"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/uI29778ygY",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/811058617889812480/photo/1",
+                    "id":"811058612219088896",
+                    "id_str":"811058612219088896",
+                    "indices":[
+                        "140",
+                        "163"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C0F1grlXEAA55YF.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C0F1grlXEAA55YF.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1326"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"796"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"451"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/uI29778ygY"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/C0F1grlXEAA55YF.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C0F1grlXEAA55YF.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1326"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "796"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "451"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/uI29778ygY"
-          }, 
-          {
-            "display_url": "pic.twitter.com/uI29778ygY",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/811058617889812480/photo/1",
-            "id": "811058613263495168",
-            "id_str": "811058613263495168",
-            "indices": [
-              "140", 
-              "163"
-            ],
-            "media_url": "http://pbs.twimg.com/media/C0F1gveXcAAmcPr.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C0F1gveXcAAmcPr.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1318"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "791"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "448"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/uI29778ygY"
-          }, 
-          {
-            "display_url": "pic.twitter.com/uI29778ygY",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/811058617889812480/photo/1",
-            "id": "811058613376655360",
-            "id_str": "811058613376655360",
-            "indices": [
-              "140", 
-              "163"
-            ],
-            "media_url": "http://pbs.twimg.com/media/C0F1gv5WIAAlneI.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C0F1gv5WIAAlneI.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1310"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "786"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "445"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/uI29778ygY"
-          }, 
-          {
-            "display_url": "pic.twitter.com/uI29778ygY",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/811058617889812480/photo/1",
-            "id": "811058612550430720",
-            "id_str": "811058612550430720",
-            "indices": [
-              "140", 
-              "163"
-            ],
-            "media_url": "http://pbs.twimg.com/media/C0F1gs0W8AAM1mr.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C0F1gs0W8AAM1mr.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1334"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "800"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "454"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/uI29778ygY"
-          }
-        ]
-      },
-      "favorite_count": "9",
-      "favorited": false,
-      "full_text": "What were United chef's cooking in airline kitchens and at home in 1954? This #United brochure features #recipes from 11 #Mainliner #chefs. https://t.co/uI29778ygY",
-      "id": "811058617889812480",
-      "id_str": "811058617889812480",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/uI29778ygY",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/811058617889812480/photo/1",
+                    "id":"811058612219088896",
+                    "id_str":"811058612219088896",
+                    "indices":[
+                        "140",
+                        "163"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C0F1grlXEAA55YF.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C0F1grlXEAA55YF.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1326"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"796"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"451"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/uI29778ygY"
+                },
+                {
+                    "display_url":"pic.twitter.com/uI29778ygY",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/811058617889812480/photo/1",
+                    "id":"811058613263495168",
+                    "id_str":"811058613263495168",
+                    "indices":[
+                        "140",
+                        "163"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C0F1gveXcAAmcPr.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C0F1gveXcAAmcPr.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1318"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"791"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"448"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/uI29778ygY"
+                },
+                {
+                    "display_url":"pic.twitter.com/uI29778ygY",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/811058617889812480/photo/1",
+                    "id":"811058613376655360",
+                    "id_str":"811058613376655360",
+                    "indices":[
+                        "140",
+                        "163"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C0F1gv5WIAAlneI.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C0F1gv5WIAAlneI.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1310"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"786"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"445"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/uI29778ygY"
+                },
+                {
+                    "display_url":"pic.twitter.com/uI29778ygY",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/811058617889812480/photo/1",
+                    "id":"811058612550430720",
+                    "id_str":"811058612550430720",
+                    "indices":[
+                        "140",
+                        "163"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C0F1gs0W8AAM1mr.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C0F1gs0W8AAM1mr.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1334"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"800"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"454"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/uI29778ygY"
+                }
+            ]
+        },
+        "favorite_count":"9",
+        "favorited":false,
+        "full_text":"What were United chef's cooking in airline kitchens and at home in 1954? This #United brochure features #recipes from 11 #Mainliner #chefs. https://t.co/uI29778ygY",
+        "id":"811058617889812480",
+        "id_str":"811058617889812480",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 811058617889812500
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":811058617889812500
     },
-    "wof:country": "US",
-    "wof:created": 1602025951,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729298877,
-    "wof:lastmodified": 1602025951,
-    "wof:name": "Twitter message #811058617889812480",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025951,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729298877,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729298877,
+    "wof:lastmodified":1602186714,
+    "wof:name":"What were United chef's cooking in airline kitchens and at home in 1954? This #United brochure features #recipes from 11 #Mainliner #chefs. https://t.co/uI29778ygY",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

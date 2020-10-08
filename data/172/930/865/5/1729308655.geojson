@@ -2,185 +2,205 @@
   "id": 1729308655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-08-03T12:20:53-07:00",
-    "edtf:inception": "2020-08-03T12:20:53-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1596482453,
-      "created_at": "Mon Aug 03 19:20:53 +0000 2020",
-      "display_text_range": [
-        "0", 
-        "117"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "20", 
-              "33"
-            ],
-            "text": "FrankLobdell"
-          }, 
-          {
-            "indices": [
-              "72", 
-              "77"
-            ],
-            "text": "SFAC"
-          }, 
-          {
-            "indices": [
-              "78", 
-              "93"
-            ],
-            "text": "MuseumFromHome"
-          }
+    "date:cessation_lower":"2020-08-03",
+    "date:cessation_upper":"2020-08-03",
+    "date:inception_lower":"2020-08-03",
+    "date:inception_upper":"2020-08-03",
+    "edtf:cessation":"2020-08-03T12:20:53-07:00",
+    "edtf:inception":"2020-08-03T12:20:53-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1596482453,
+        "created_at":"Mon Aug 03 19:20:53 +0000 2020",
+        "display_text_range":[
+            "0",
+            "117"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/q20xlN9syf",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1290367051106639872/photo/1",
-            "id": "1290366350477598720",
-            "id_str": "1290366350477598720",
-            "indices": [
-              "94", 
-              "117"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "20",
+                        "33"
+                    ],
+                    "text":"FrankLobdell"
+                },
+                {
+                    "indices":[
+                        "72",
+                        "77"
+                    ],
+                    "text":"SFAC"
+                },
+                {
+                    "indices":[
+                        "78",
+                        "93"
+                    ],
+                    "text":"MuseumFromHome"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EehNW-5VoAAJnvv.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EehNW-5VoAAJnvv.jpg",
-            "sizes": {
-              "large": {
-                "h": "1333",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "800",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/q20xlN9syf"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/2X1nxVK",
-            "expanded_url": "https://bit.ly/2X1nxVK",
-            "indices": [
-              "48", 
-              "71"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/q20xlN9syf",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1290367051106639872/photo/1",
+                    "id":"1290366350477598720",
+                    "id_str":"1290366350477598720",
+                    "indices":[
+                        "94",
+                        "117"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EehNW-5VoAAJnvv.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EehNW-5VoAAJnvv.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1333",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"800",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/q20xlN9syf"
+                }
             ],
-            "url": "https://t.co/p3Ft1oYtaY"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/q20xlN9syf",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1290367051106639872/photo/1",
-            "id": "1290366350477598720",
-            "id_str": "1290366350477598720",
-            "indices": [
-              "94", 
-              "117"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/2X1nxVK",
+                    "expanded_url":"https://bit.ly/2X1nxVK",
+                    "indices":[
+                        "48",
+                        "71"
+                    ],
+                    "url":"https://t.co/p3Ft1oYtaY"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EehNW-5VoAAJnvv.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EehNW-5VoAAJnvv.jpg",
-            "sizes": {
-              "large": {
-                "h": "1333",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "800",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/q20xlN9syf"
-          }
-        ]
-      },
-      "favorite_count": "4",
-      "favorited": false,
-      "full_text": "“Yale Portfolio” by #FrankLobdell is online at: https://t.co/p3Ft1oYtaY #SFAC #MuseumFromHome https://t.co/q20xlN9syf",
-      "id": "1290367051106639872",
-      "id_str": "1290367051106639872",
-      "in_reply_to_screen_name": "SFOMuseum",
-      "in_reply_to_status_id": "1290367048426516481",
-      "in_reply_to_status_id_str": "1290367048426516481",
-      "in_reply_to_user_id": "116329337",
-      "in_reply_to_user_id_str": "116329337",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/q20xlN9syf",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1290367051106639872/photo/1",
+                    "id":"1290366350477598720",
+                    "id_str":"1290366350477598720",
+                    "indices":[
+                        "94",
+                        "117"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EehNW-5VoAAJnvv.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EehNW-5VoAAJnvv.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1333",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"800",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/q20xlN9syf"
+                }
+            ]
+        },
+        "favorite_count":"4",
+        "favorited":false,
+        "full_text":"\u201cYale Portfolio\u201d by #FrankLobdell is online at: https://t.co/p3Ft1oYtaY #SFAC #MuseumFromHome https://t.co/q20xlN9syf",
+        "id":"1290367051106639872",
+        "id_str":"1290367051106639872",
+        "in_reply_to_screen_name":"SFOMuseum",
+        "in_reply_to_status_id":"1290367048426516481",
+        "in_reply_to_status_id_str":"1290367048426516481",
+        "in_reply_to_user_id":"116329337",
+        "in_reply_to_user_id_str":"116329337",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1290367051106640000
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1290367051106640000
     },
-    "wof:country": "US",
-    "wof:created": 1602026323,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729308655,
-    "wof:lastmodified": 1602026323,
-    "wof:name": "Twitter message #1290367051106639872",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026323,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729308655,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729308655,
+    "wof:lastmodified":1602186449,
+    "wof:name":"\u201cYale Portfolio\u201d by #FrankLobdell is online at: https://t.co/p3Ft1oYtaY #SFAC #MuseumFromHome https://t.co/q20xlN9syf",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

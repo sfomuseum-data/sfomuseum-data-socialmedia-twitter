@@ -2,177 +2,197 @@
   "id": 1729300119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2017-05-04T11:11:56-07:00",
-    "edtf:inception": "2017-05-04T11:11:56-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1493921516,
-      "created_at": "Thu May 04 18:11:56 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "116"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/ei6ljiH5rl",
-            "expanded_url": "https://twitter.com/JetPhotos/status/859643181956255745/photo/1",
-            "id": "859643079451701249",
-            "id_str": "859643079451701249",
-            "indices": [
-              "93", 
-              "116"
-            ],
-            "media_url": "http://pbs.twimg.com/media/C-4Q04BXcAEkfFT.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C-4Q04BXcAEkfFT.jpg",
-            "sizes": {
-              "large": {
-                "h": "872",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "818",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "463",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "859643181956255745",
-            "source_status_id_str": "859643181956255745",
-            "source_user_id": "104644955",
-            "source_user_id_str": "104644955",
-            "type": "photo",
-            "url": "https://t.co/ei6ljiH5rl"
-          }
+    "date:cessation_lower":"2017-05-04",
+    "date:cessation_upper":"2017-05-04",
+    "date:inception_lower":"2017-05-04",
+    "date:inception_upper":"2017-05-04",
+    "edtf:cessation":"2017-05-04T11:11:56-07:00",
+    "edtf:inception":"2017-05-04T11:11:56-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1493921516,
+        "created_at":"Thu May 04 18:11:56 +0000 2017",
+        "display_text_range":[
+            "0",
+            "116"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "jetphotos.com/photo/8576659",
-            "expanded_url": "https://www.jetphotos.com/photo/8576659",
-            "indices": [
-              "58", 
-              "81"
+        "entities":{
+            "hashtags":[],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/ei6ljiH5rl",
+                    "expanded_url":"https://twitter.com/JetPhotos/status/859643181956255745/photo/1",
+                    "id":"859643079451701249",
+                    "id_str":"859643079451701249",
+                    "indices":[
+                        "93",
+                        "116"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C-4Q04BXcAEkfFT.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C-4Q04BXcAEkfFT.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"872",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"818",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"463",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"859643181956255745",
+                    "source_status_id_str":"859643181956255745",
+                    "source_user_id":"104644955",
+                    "source_user_id_str":"104644955",
+                    "type":"photo",
+                    "url":"https://t.co/ei6ljiH5rl"
+                }
             ],
-            "url": "https://t.co/4YBO372lPX"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "104644955",
-            "id_str": "104644955",
-            "indices": [
-              "3", 
-              "13"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"jetphotos.com/photo/8576659",
+                    "expanded_url":"https://www.jetphotos.com/photo/8576659",
+                    "indices":[
+                        "58",
+                        "81"
+                    ],
+                    "url":"https://t.co/4YBO372lPX"
+                }
             ],
-            "name": "JetPhotos",
-            "screen_name": "JetPhotos"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/ei6ljiH5rl",
-            "expanded_url": "https://twitter.com/JetPhotos/status/859643181956255745/photo/1",
-            "id": "859643079451701249",
-            "id_str": "859643079451701249",
-            "indices": [
-              "93", 
-              "116"
-            ],
-            "media_url": "http://pbs.twimg.com/media/C-4Q04BXcAEkfFT.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C-4Q04BXcAEkfFT.jpg",
-            "sizes": {
-              "large": {
-                "h": "872",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "818",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "463",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "859643181956255745",
-            "source_status_id_str": "859643181956255745",
-            "source_user_id": "104644955",
-            "source_user_id_str": "104644955",
-            "type": "photo",
-            "url": "https://t.co/ei6ljiH5rl"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @JetPhotos: The ANA C-3PO 777 banking away from Osaka. https://t.co/4YBO372lPX © raptan22 https://t.co/ei6ljiH5rl",
-      "id": "860195301444825092",
-      "id_str": "860195301444825092",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"104644955",
+                    "id_str":"104644955",
+                    "indices":[
+                        "3",
+                        "13"
+                    ],
+                    "name":"JetPhotos",
+                    "screen_name":"JetPhotos"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/ei6ljiH5rl",
+                    "expanded_url":"https://twitter.com/JetPhotos/status/859643181956255745/photo/1",
+                    "id":"859643079451701249",
+                    "id_str":"859643079451701249",
+                    "indices":[
+                        "93",
+                        "116"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C-4Q04BXcAEkfFT.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C-4Q04BXcAEkfFT.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"872",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"818",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"463",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"859643181956255745",
+                    "source_status_id_str":"859643181956255745",
+                    "source_user_id":"104644955",
+                    "source_user_id_str":"104644955",
+                    "type":"photo",
+                    "url":"https://t.co/ei6ljiH5rl"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @JetPhotos: The ANA C-3PO 777 banking away from Osaka. https://t.co/4YBO372lPX \u00a9 raptan22 https://t.co/ei6ljiH5rl",
+        "id":"860195301444825092",
+        "id_str":"860195301444825092",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 860195301444825100
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":860195301444825100
     },
-    "wof:country": "US",
-    "wof:created": 1602025998,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729300119,
-    "wof:lastmodified": 1602025998,
-    "wof:name": "Twitter message #860195301444825092",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025998,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729300119,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729300119,
+    "wof:lastmodified":1602186393,
+    "wof:name":"RT @JetPhotos: The ANA C-3PO 777 banking away from Osaka. https://t.co/4YBO372lPX \u00a9 raptan22 https://t.co/ei6ljiH5rl",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

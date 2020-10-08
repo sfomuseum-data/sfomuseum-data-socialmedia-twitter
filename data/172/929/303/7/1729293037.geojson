@@ -2,185 +2,205 @@
   "id": 1729293037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2015-02-11T16:23:41-08:00",
-    "edtf:inception": "2015-02-11T16:23:41-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1423700621,
-      "created_at": "Thu Feb 12 00:23:41 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "129"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "96", 
-              "106"
-            ],
-            "text": "bozscaggs"
-          }
+    "date:cessation_lower":"2015-02-11",
+    "date:cessation_upper":"2015-02-11",
+    "date:inception_lower":"2015-02-11",
+    "date:inception_upper":"2015-02-11",
+    "edtf:cessation":"2015-02-11T16:23:41-08:00",
+    "edtf:inception":"2015-02-11T16:23:41-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1423700621,
+        "created_at":"Thu Feb 12 00:23:41 +0000 2015",
+        "display_text_range":[
+            "0",
+            "129"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/UBNZDsMaJS",
-            "expanded_url": "https://twitter.com/redclayco/status/565660213928542208/photo/1",
-            "id": "565660126145970176",
-            "id_str": "565660126145970176",
-            "indices": [
-              "107", 
-              "129"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "96",
+                        "106"
+                    ],
+                    "text":"bozscaggs"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/B9mg40KIgAAOeaI.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/B9mg40KIgAAOeaI.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "565660213928542208",
-            "source_status_id_str": "565660213928542208",
-            "source_user_id": "234866569",
-            "source_user_id_str": "234866569",
-            "type": "photo",
-            "url": "http://t.co/UBNZDsMaJS"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "234866569",
-            "id_str": "234866569",
-            "indices": [
-              "3", 
-              "13"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/UBNZDsMaJS",
+                    "expanded_url":"https://twitter.com/redclayco/status/565660213928542208/photo/1",
+                    "id":"565660126145970176",
+                    "id_str":"565660126145970176",
+                    "indices":[
+                        "107",
+                        "129"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/B9mg40KIgAAOeaI.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/B9mg40KIgAAOeaI.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"768"
+                        },
+                        "medium":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"768"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"565660213928542208",
+                    "source_status_id_str":"565660213928542208",
+                    "source_user_id":"234866569",
+                    "source_user_id_str":"234866569",
+                    "type":"photo",
+                    "url":"http://t.co/UBNZDsMaJS"
+                }
             ],
-            "name": "Red Clay",
-            "screen_name": "redclayco"
-          }, 
-          {
-            "id": "116329337",
-            "id_str": "116329337",
-            "indices": [
-              "41", 
-              "51"
-            ],
-            "name": "SFO Museum",
-            "screen_name": "SFOMuseum"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/UBNZDsMaJS",
-            "expanded_url": "https://twitter.com/redclayco/status/565660213928542208/photo/1",
-            "id": "565660126145970176",
-            "id_str": "565660126145970176",
-            "indices": [
-              "107", 
-              "129"
-            ],
-            "media_url": "http://pbs.twimg.com/media/B9mg40KIgAAOeaI.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/B9mg40KIgAAOeaI.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "565660213928542208",
-            "source_status_id_str": "565660213928542208",
-            "source_user_id": "234866569",
-            "source_user_id_str": "234866569",
-            "type": "photo",
-            "url": "http://t.co/UBNZDsMaJS"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @redclayco: Rock poster exhibition at @SFOMuseum  seriously guys this museum has it going on #bozscaggs http://t.co/UBNZDsMaJS",
-      "id": "565667521505021953",
-      "id_str": "565667521505021953",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"234866569",
+                    "id_str":"234866569",
+                    "indices":[
+                        "3",
+                        "13"
+                    ],
+                    "name":"Red Clay",
+                    "screen_name":"redclayco"
+                },
+                {
+                    "id":"116329337",
+                    "id_str":"116329337",
+                    "indices":[
+                        "41",
+                        "51"
+                    ],
+                    "name":"SFO Museum",
+                    "screen_name":"SFOMuseum"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/UBNZDsMaJS",
+                    "expanded_url":"https://twitter.com/redclayco/status/565660213928542208/photo/1",
+                    "id":"565660126145970176",
+                    "id_str":"565660126145970176",
+                    "indices":[
+                        "107",
+                        "129"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/B9mg40KIgAAOeaI.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/B9mg40KIgAAOeaI.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"768"
+                        },
+                        "medium":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"768"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"565660213928542208",
+                    "source_status_id_str":"565660213928542208",
+                    "source_user_id":"234866569",
+                    "source_user_id_str":"234866569",
+                    "type":"photo",
+                    "url":"http://t.co/UBNZDsMaJS"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @redclayco: Rock poster exhibition at @SFOMuseum  seriously guys this museum has it going on #bozscaggs http://t.co/UBNZDsMaJS",
+        "id":"565667521505021953",
+        "id_str":"565667521505021953",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 565667521505021950
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":565667521505021950
     },
-    "wof:country": "US",
-    "wof:created": 1602025730,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729293037,
-    "wof:lastmodified": 1602025730,
-    "wof:name": "Twitter message #565667521505021953",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025730,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729293037,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729293037,
+    "wof:lastmodified":1602186517,
+    "wof:name":"RT @redclayco: Rock poster exhibition at @SFOMuseum  seriously guys this museum has it going on #bozscaggs http://t.co/UBNZDsMaJS",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

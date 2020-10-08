@@ -2,156 +2,176 @@
   "id": 1729294877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2015-12-29T18:30:16-08:00",
-    "edtf:inception": "2015-12-29T18:30:16-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1451442616,
-      "created_at": "Wed Dec 30 02:30:16 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "136"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "98", 
-              "112"
-            ],
-            "text": "TravelTuesday"
-          }
+    "date:cessation_lower":"2015-12-29",
+    "date:cessation_upper":"2015-12-29",
+    "date:inception_lower":"2015-12-29",
+    "date:inception_upper":"2015-12-29",
+    "edtf:cessation":"2015-12-29T18:30:16-08:00",
+    "edtf:inception":"2015-12-29T18:30:16-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1451442616,
+        "created_at":"Wed Dec 30 02:30:16 +0000 2015",
+        "display_text_range":[
+            "0",
+            "136"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/AO1qgBeUFq",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/682025883121614848/photo/1",
-            "id": "682025882777686017",
-            "id_str": "682025882777686017",
-            "indices": [
-              "113", 
-              "136"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "98",
+                        "112"
+                    ],
+                    "text":"TravelTuesday"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CXcK7UaWEAEhzj9.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CXcK7UaWEAEhzj9.jpg",
-            "sizes": {
-              "large": {
-                "h": "1212",
-                "resize": "fit",
-                "w": "1209"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1197"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "678"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/AO1qgBeUFq"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/AO1qgBeUFq",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/682025883121614848/photo/1",
-            "id": "682025882777686017",
-            "id_str": "682025882777686017",
-            "indices": [
-              "113", 
-              "136"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/AO1qgBeUFq",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/682025883121614848/photo/1",
+                    "id":"682025882777686017",
+                    "id_str":"682025882777686017",
+                    "indices":[
+                        "113",
+                        "136"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CXcK7UaWEAEhzj9.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CXcK7UaWEAEhzj9.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1212",
+                            "resize":"fit",
+                            "w":"1209"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1197"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"678"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/AO1qgBeUFq"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CXcK7UaWEAEhzj9.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CXcK7UaWEAEhzj9.jpg",
-            "sizes": {
-              "large": {
-                "h": "1212",
-                "resize": "fit",
-                "w": "1209"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1197"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "678"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/AO1qgBeUFq"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "CAAC (Civil Aviation Administration of China) began service to the US \u0026amp; SFO in the mid-1980s. #TravelTuesday https://t.co/AO1qgBeUFq",
-      "id": "682025883121614848",
-      "id_str": "682025883121614848",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/AO1qgBeUFq",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/682025883121614848/photo/1",
+                    "id":"682025882777686017",
+                    "id_str":"682025882777686017",
+                    "indices":[
+                        "113",
+                        "136"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CXcK7UaWEAEhzj9.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CXcK7UaWEAEhzj9.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1212",
+                            "resize":"fit",
+                            "w":"1209"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1197"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"678"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/AO1qgBeUFq"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"CAAC (Civil Aviation Administration of China) began service to the US &amp; SFO in the mid-1980s. #TravelTuesday https://t.co/AO1qgBeUFq",
+        "id":"682025883121614848",
+        "id_str":"682025883121614848",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 682025883121614800
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":682025883121614800
     },
-    "wof:country": "US",
-    "wof:created": 1602025798,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729294877,
-    "wof:lastmodified": 1602025798,
-    "wof:name": "Twitter message #682025883121614848",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025798,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729294877,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729294877,
+    "wof:lastmodified":1602186748,
+    "wof:name":"CAAC (Civil Aviation Administration of China) began service to the US &amp; SFO in the mid-1980s. #TravelTuesday https://t.co/AO1qgBeUFq",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

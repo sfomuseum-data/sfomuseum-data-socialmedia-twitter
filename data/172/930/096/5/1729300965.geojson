@@ -2,90 +2,110 @@
   "id": 1729300965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2012-01-04T09:13:35-08:00",
-    "edtf:inception": "2012-01-04T09:13:35-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1325697215,
-      "created_at": "Wed Jan 04 17:13:35 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "116"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "410106856",
-            "id_str": "410106856",
-            "indices": [
-              "3", 
-              "11"
-            ],
-            "name": "Royce Hamano",
-            "screen_name": "roycemh"
-          }, 
-          {
-            "id": "116329337",
-            "id_str": "116329337",
-            "indices": [
-              "13", 
-              "23"
-            ],
-            "name": "SFO Museum",
-            "screen_name": "SFOMuseum"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @roycemh: @SFOMuseum Thank you for the exhibits! Always love seeing them when I pass through SFO. Happy New Year!",
-      "id": "154611442610483200",
-      "id_str": "154611442610483200",
-      "lang": "en",
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+    "date:cessation_lower":"2012-01-04",
+    "date:cessation_upper":"2012-01-04",
+    "date:inception_lower":"2012-01-04",
+    "date:inception_upper":"2012-01-04",
+    "edtf:cessation":"2012-01-04T09:13:35-08:00",
+    "edtf:inception":"2012-01-04T09:13:35-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1325697215,
+        "created_at":"Wed Jan 04 17:13:35 +0000 2012",
+        "display_text_range":[
+            "0",
+            "116"
+        ],
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"410106856",
+                    "id_str":"410106856",
+                    "indices":[
+                        "3",
+                        "11"
+                    ],
+                    "name":"Royce Hamano",
+                    "screen_name":"roycemh"
+                },
+                {
+                    "id":"116329337",
+                    "id_str":"116329337",
+                    "indices":[
+                        "13",
+                        "23"
+                    ],
+                    "name":"SFO Museum",
+                    "screen_name":"SFOMuseum"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @roycemh: @SFOMuseum Thank you for the exhibits! Always love seeing them when I pass through SFO. Happy New Year!",
+        "id":"154611442610483200",
+        "id_str":"154611442610483200",
+        "lang":"en",
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 154611442610483200
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":154611442610483200
     },
-    "wof:country": "US",
-    "wof:created": 1602026029,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729300965,
-    "wof:lastmodified": 1602026029,
-    "wof:name": "Twitter message #154611442610483200",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026029,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729300965,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729300965,
+    "wof:lastmodified":1602186249,
+    "wof:name":"RT @roycemh: @SFOMuseum Thank you for the exhibits! Always love seeing them when I pass through SFO. Happy New Year!",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

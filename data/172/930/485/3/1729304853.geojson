@@ -2,100 +2,120 @@
   "id": 1729304853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2018-12-05T11:15:39-08:00",
-    "edtf:inception": "2018-12-05T11:15:39-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1544037339,
-      "created_at": "Wed Dec 05 19:15:39 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "122"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "airlinemaps.tumblr.com/post/180136163…",
-            "expanded_url": "http://airlinemaps.tumblr.com/post/180136163922/avianca-60th-anniversary-map-1979-an-avianca-60th",
-            "indices": [
-              "75", 
-              "98"
-            ],
-            "url": "https://t.co/scy5HvcPuy"
-          }, 
-          {
-            "display_url": "twitter.com/Avianca/status…",
-            "expanded_url": "https://twitter.com/Avianca/status/1070301769643679744",
-            "indices": [
-              "99", 
-              "122"
-            ],
-            "url": "https://t.co/0FmtKnpXPn"
-          }
+    "date:cessation_lower":"2018-12-05",
+    "date:cessation_upper":"2018-12-05",
+    "date:inception_lower":"2018-12-05",
+    "date:inception_upper":"2018-12-05",
+    "edtf:cessation":"2018-12-05T11:15:39-08:00",
+    "edtf:inception":"2018-12-05T11:15:39-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1544037339,
+        "created_at":"Wed Dec 05 19:15:39 +0000 2018",
+        "display_text_range":[
+            "0",
+            "122"
         ],
-        "user_mentions": [
-          {
-            "id": "3609709582",
-            "id_str": "3609709582",
-            "indices": [
-              "3", 
-              "15"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"airlinemaps.tumblr.com/post/180136163\u2026",
+                    "expanded_url":"http://airlinemaps.tumblr.com/post/180136163922/avianca-60th-anniversary-map-1979-an-avianca-60th",
+                    "indices":[
+                        "75",
+                        "98"
+                    ],
+                    "url":"https://t.co/scy5HvcPuy"
+                },
+                {
+                    "display_url":"twitter.com/Avianca/status\u2026",
+                    "expanded_url":"https://twitter.com/Avianca/status/1070301769643679744",
+                    "indices":[
+                        "99",
+                        "122"
+                    ],
+                    "url":"https://t.co/0FmtKnpXPn"
+                }
             ],
-            "name": "Airline Maps",
-            "screen_name": "airlinemaps"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @airlinemaps: Happy 99th birthday Avianca! 🎂\n\nA throwback to your 60th: https://t.co/scy5HvcPuy https://t.co/0FmtKnpXPn",
-      "id": "1070396297822105601",
-      "id_str": "1070396297822105601",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"3609709582",
+                    "id_str":"3609709582",
+                    "indices":[
+                        "3",
+                        "15"
+                    ],
+                    "name":"Airline Maps",
+                    "screen_name":"airlinemaps"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @airlinemaps: Happy 99th birthday Avianca! \ud83c\udf82\n\nA throwback to your 60th: https://t.co/scy5HvcPuy https://t.co/0FmtKnpXPn",
+        "id":"1070396297822105601",
+        "id_str":"1070396297822105601",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1070396297822105600
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1070396297822105600
     },
-    "wof:country": "US",
-    "wof:created": 1602026178,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729304853,
-    "wof:lastmodified": 1602026178,
-    "wof:name": "Twitter message #1070396297822105601",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026178,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729304853,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729304853,
+    "wof:lastmodified":1602186407,
+    "wof:name":"RT @airlinemaps: Happy 99th birthday Avianca! \ud83c\udf82\n\nA throwback to your 60th: https://t.co/scy5HvcPuy https://t.co/0FmtKnpXPn",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,166 +2,186 @@
   "id": 1729293477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2015-06-18T13:54:12-07:00",
-    "edtf:inception": "2015-06-18T13:54:12-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1434660852,
-      "created_at": "Thu Jun 18 20:54:12 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "143"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "110", 
-              "120"
-            ],
-            "text": "AgeOfDeco"
-          }
+    "date:cessation_lower":"2015-06-18",
+    "date:cessation_upper":"2015-06-18",
+    "date:inception_lower":"2015-06-18",
+    "date:inception_upper":"2015-06-18",
+    "edtf:cessation":"2015-06-18T13:54:12-07:00",
+    "edtf:inception":"2015-06-18T13:54:12-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1434660852,
+        "created_at":"Thu Jun 18 20:54:12 +0000 2015",
+        "display_text_range":[
+            "0",
+            "143"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/VHJ2dvq9dy",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/611638061949145088/photo/1",
-            "id": "611638061588320256",
-            "id_str": "611638061588320256",
-            "indices": [
-              "121", 
-              "143"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "110",
+                        "120"
+                    ],
+                    "text":"AgeOfDeco"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CHz5k5AUkAAer_9.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CHz5k5AUkAAer_9.jpg",
-            "sizes": {
-              "large": {
-                "h": "530",
-                "resize": "fit",
-                "w": "720"
-              },
-              "medium": {
-                "h": "530",
-                "resize": "fit",
-                "w": "720"
-              },
-              "small": {
-                "h": "501",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "http://t.co/VHJ2dvq9dy"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/OviLJ",
-            "expanded_url": "http://ow.ly/OviLJ",
-            "indices": [
-              "87", 
-              "109"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/VHJ2dvq9dy",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/611638061949145088/photo/1",
+                    "id":"611638061588320256",
+                    "id_str":"611638061588320256",
+                    "indices":[
+                        "121",
+                        "143"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CHz5k5AUkAAer_9.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CHz5k5AUkAAer_9.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"530",
+                            "resize":"fit",
+                            "w":"720"
+                        },
+                        "medium":{
+                            "h":"530",
+                            "resize":"fit",
+                            "w":"720"
+                        },
+                        "small":{
+                            "h":"501",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"http://t.co/VHJ2dvq9dy"
+                }
             ],
-            "url": "http://t.co/RDN6ApppAL"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/VHJ2dvq9dy",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/611638061949145088/photo/1",
-            "id": "611638061588320256",
-            "id_str": "611638061588320256",
-            "indices": [
-              "121", 
-              "143"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/OviLJ",
+                    "expanded_url":"http://ow.ly/OviLJ",
+                    "indices":[
+                        "87",
+                        "109"
+                    ],
+                    "url":"http://t.co/RDN6ApppAL"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CHz5k5AUkAAer_9.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CHz5k5AUkAAer_9.jpg",
-            "sizes": {
-              "large": {
-                "h": "530",
-                "resize": "fit",
-                "w": "720"
-              },
-              "medium": {
-                "h": "530",
-                "resize": "fit",
-                "w": "720"
-              },
-              "small": {
-                "h": "501",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "http://t.co/VHJ2dvq9dy"
-          }
-        ]
-      },
-      "favorite_count": "3",
-      "favorited": false,
-      "full_text": "Thanks to Kodak's Brownie, cameras were portable (\u0026amp; stylish!) even 100 years ago:  http://t.co/RDN6ApppAL #AgeOfDeco http://t.co/VHJ2dvq9dy",
-      "id": "611638061949145088",
-      "id_str": "611638061949145088",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/VHJ2dvq9dy",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/611638061949145088/photo/1",
+                    "id":"611638061588320256",
+                    "id_str":"611638061588320256",
+                    "indices":[
+                        "121",
+                        "143"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CHz5k5AUkAAer_9.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CHz5k5AUkAAer_9.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"530",
+                            "resize":"fit",
+                            "w":"720"
+                        },
+                        "medium":{
+                            "h":"530",
+                            "resize":"fit",
+                            "w":"720"
+                        },
+                        "small":{
+                            "h":"501",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"http://t.co/VHJ2dvq9dy"
+                }
+            ]
+        },
+        "favorite_count":"3",
+        "favorited":false,
+        "full_text":"Thanks to Kodak's Brownie, cameras were portable (&amp; stylish!) even 100 years ago:  http://t.co/RDN6ApppAL #AgeOfDeco http://t.co/VHJ2dvq9dy",
+        "id":"611638061949145088",
+        "id_str":"611638061949145088",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 611638061949145100
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":611638061949145100
     },
-    "wof:country": "US",
-    "wof:created": 1602025746,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729293477,
-    "wof:lastmodified": 1602025746,
-    "wof:name": "Twitter message #611638061949145088",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025746,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729293477,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729293477,
+    "wof:lastmodified":1602186599,
+    "wof:name":"Thanks to Kodak's Brownie, cameras were portable (&amp; stylish!) even 100 years ago:  http://t.co/RDN6ApppAL #AgeOfDeco http://t.co/VHJ2dvq9dy",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,156 +2,176 @@
   "id": 1729304989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2018-12-16T12:00:34-08:00",
-    "edtf:inception": "2018-12-16T12:00:34-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1544990434,
-      "created_at": "Sun Dec 16 20:00:34 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "298"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "129", 
-              "142"
-            ],
-            "text": "MichealLight"
-          }
+    "date:cessation_lower":"2018-12-16",
+    "date:cessation_upper":"2018-12-16",
+    "date:inception_lower":"2018-12-16",
+    "date:inception_upper":"2018-12-16",
+    "edtf:cessation":"2018-12-16T12:00:34-08:00",
+    "edtf:inception":"2018-12-16T12:00:34-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1544990434,
+        "created_at":"Sun Dec 16 20:00:34 +0000 2018",
+        "display_text_range":[
+            "0",
+            "298"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/gpKkQyX7Kk",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1074393869742161920/photo/1",
-            "id": "1074393866697097216",
-            "id_str": "1074393866697097216",
-            "indices": [
-              "275", 
-              "298"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "129",
+                        "142"
+                    ],
+                    "text":"MichealLight"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DukDh4VWwAASsoz.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DukDh4VWwAASsoz.jpg",
-            "sizes": {
-              "large": {
-                "h": "1600",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "960",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "544",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/gpKkQyX7Kk"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/gpKkQyX7Kk",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1074393869742161920/photo/1",
-            "id": "1074393866697097216",
-            "id_str": "1074393866697097216",
-            "indices": [
-              "275", 
-              "298"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/gpKkQyX7Kk",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1074393869742161920/photo/1",
+                    "id":"1074393866697097216",
+                    "id_str":"1074393866697097216",
+                    "indices":[
+                        "275",
+                        "298"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DukDh4VWwAASsoz.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DukDh4VWwAASsoz.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1600",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"960",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"544",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/gpKkQyX7Kk"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DukDh4VWwAASsoz.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DukDh4VWwAASsoz.jpg",
-            "sizes": {
-              "large": {
-                "h": "1600",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "960",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "544",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/gpKkQyX7Kk"
-          }
-        ]
-      },
-      "favorite_count": "3",
-      "favorited": false,
-      "full_text": "Visually referencing the way molten lava flows through cracks in the earth’s surface to reveal glowing rifts of energy and heat, #MichealLight’s images of Los Angeles evoke a sense of awe and offer a place to ponder the rapid development and sheer scale of cities worldwide. https://t.co/gpKkQyX7Kk",
-      "id": "1074393869742161920",
-      "id_str": "1074393869742161920",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "2",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/gpKkQyX7Kk",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1074393869742161920/photo/1",
+                    "id":"1074393866697097216",
+                    "id_str":"1074393866697097216",
+                    "indices":[
+                        "275",
+                        "298"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DukDh4VWwAASsoz.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DukDh4VWwAASsoz.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1600",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"960",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"544",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/gpKkQyX7Kk"
+                }
+            ]
+        },
+        "favorite_count":"3",
+        "favorited":false,
+        "full_text":"Visually referencing the way molten lava flows through cracks in the earth\u2019s surface to reveal glowing rifts of energy and heat, #MichealLight\u2019s images of Los Angeles evoke a sense of awe and offer a place to ponder the rapid development and sheer scale of cities worldwide. https://t.co/gpKkQyX7Kk",
+        "id":"1074393869742161920",
+        "id_str":"1074393869742161920",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"2",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 1074393869742161900
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":1074393869742161900
     },
-    "wof:country": "US",
-    "wof:created": 1602026183,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729304989,
-    "wof:lastmodified": 1602026183,
-    "wof:name": "Twitter message #1074393869742161920",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602026183,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729304989,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729304989,
+    "wof:lastmodified":1602186315,
+    "wof:name":"Visually referencing the way molten lava flows through cracks in the earth\u2019s surface to reveal glowing rifts of energy and heat, #MichealLight\u2019s images of Los Angeles evoke a sense of awe and offer a place to ponder the rapid development and sheer scale of cities worldwide. https://t.co/gpKkQyX7Kk",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

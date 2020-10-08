@@ -2,91 +2,111 @@
   "id": 1729290967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2013-11-04T11:37:50-08:00",
-    "edtf:inception": "2013-11-04T11:37:50-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1383593870,
-      "created_at": "Mon Nov 04 19:37:50 +0000 2013",
-      "display_text_range": [
-        "0", 
-        "137"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/qtX5N",
-            "expanded_url": "http://ow.ly/qtX5N",
-            "indices": [
-              "115", 
-              "137"
-            ],
-            "url": "http://t.co/O4WZZjxYTS"
-          }
+    "date:cessation_lower":"2013-11-04",
+    "date:cessation_upper":"2013-11-04",
+    "date:inception_lower":"2013-11-04",
+    "date:inception_upper":"2013-11-04",
+    "edtf:cessation":"2013-11-04T11:37:50-08:00",
+    "edtf:inception":"2013-11-04T11:37:50-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1383593870,
+        "created_at":"Mon Nov 04 19:37:50 +0000 2013",
+        "display_text_range":[
+            "0",
+            "137"
         ],
-        "user_mentions": [
-          {
-            "id": "260907612",
-            "id_str": "260907612",
-            "indices": [
-              "64", 
-              "71"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/qtX5N",
+                    "expanded_url":"http://ow.ly/qtX5N",
+                    "indices":[
+                        "115",
+                        "137"
+                    ],
+                    "url":"http://t.co/O4WZZjxYTS"
+                }
             ],
-            "name": "United Airlines",
-            "screen_name": "united"
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "The history of an airline through its uniforms: see 80 years of @United's fashion, on view in our Aviation Museum. http://t.co/O4WZZjxYTS",
-      "id": "397447615367118849",
-      "id_str": "397447615367118849",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "4",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"260907612",
+                    "id_str":"260907612",
+                    "indices":[
+                        "64",
+                        "71"
+                    ],
+                    "name":"United Airlines",
+                    "screen_name":"united"
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"The history of an airline through its uniforms: see 80 years of @United's fashion, on view in our Aviation Museum. http://t.co/O4WZZjxYTS",
+        "id":"397447615367118849",
+        "id_str":"397447615367118849",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"4",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 397447615367118850
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":397447615367118850
     },
-    "wof:country": "US",
-    "wof:created": 1602025653,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729290967,
-    "wof:lastmodified": 1602025653,
-    "wof:name": "Twitter message #397447615367118849",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025653,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729290967,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729290967,
+    "wof:lastmodified":1602186562,
+    "wof:name":"The history of an airline through its uniforms: see 80 years of @United's fashion, on view in our Aviation Museum. http://t.co/O4WZZjxYTS",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,102 +2,122 @@
   "id": 1729295593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-03-29T11:52:18-07:00",
-    "edtf:inception": "2016-03-29T11:52:18-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1459277538,
-      "created_at": "Tue Mar 29 18:52:18 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "139"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "123", 
-              "139"
-            ],
-            "text": "EssentialPurses"
-          }
+    "date:cessation_lower":"2016-03-29",
+    "date:cessation_upper":"2016-03-29",
+    "date:inception_lower":"2016-03-29",
+    "date:inception_upper":"2016-03-29",
+    "edtf:cessation":"2016-03-29T11:52:18-07:00",
+    "edtf:inception":"2016-03-29T11:52:18-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1459277538,
+        "created_at":"Tue Mar 29 18:52:18 +0000 2016",
+        "display_text_range":[
+            "0",
+            "139"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/103kUm",
-            "expanded_url": "http://ow.ly/103kUm",
-            "indices": [
-              "99", 
-              "122"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "123",
+                        "139"
+                    ],
+                    "text":"EssentialPurses"
+                }
             ],
-            "url": "https://t.co/SSqMFCMI90"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "16602233",
-            "id_str": "16602233",
-            "indices": [
-              "0", 
-              "15"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/103kUm",
+                    "expanded_url":"http://ow.ly/103kUm",
+                    "indices":[
+                        "99",
+                        "122"
+                    ],
+                    "url":"https://t.co/SSqMFCMI90"
+                }
             ],
-            "name": "Christine Trần (she/her)",
-            "screen_name": "_christinetran"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "@_christinetran Find out more about vintage leather bags at our online exhibit of Essential Style! https://t.co/SSqMFCMI90 #EssentialPurses",
-      "id": "714887926631571456",
-      "id_str": "714887926631571456",
-      "in_reply_to_screen_name": "_christinetran",
-      "in_reply_to_user_id": "16602233",
-      "in_reply_to_user_id_str": "16602233",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"16602233",
+                    "id_str":"16602233",
+                    "indices":[
+                        "0",
+                        "15"
+                    ],
+                    "name":"Christine Tr\u1ea7n (she/her)",
+                    "screen_name":"_christinetran"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"@_christinetran Find out more about vintage leather bags at our online exhibit of Essential Style! https://t.co/SSqMFCMI90 #EssentialPurses",
+        "id":"714887926631571456",
+        "id_str":"714887926631571456",
+        "in_reply_to_screen_name":"_christinetran",
+        "in_reply_to_user_id":"16602233",
+        "in_reply_to_user_id_str":"16602233",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [],
-    "wof:concordances": {
-      "twitter:id": 714887926631571500
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "twitter:id":714887926631571500
     },
-    "wof:country": "US",
-    "wof:created": 1602025825,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": {
-      "building_id": 1159160869,
-      "campus_id": 102527513,
-      "continent_id": 102191575,
-      "country_id": 85633793,
-      "county_id": 102087579,
-      "locality_id": 85922583,
-      "neighbourhood_id": -1,
-      "region_id": 85688637
-    },
-    "wof:id": 1729295593,
-    "wof:lastmodified": 1602025825,
-    "wof:name": "Twitter message #714887926631571456",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:country":"US",
+    "wof:created":1602025825,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729295593,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1729295593,
+    "wof:lastmodified":1602186552,
+    "wof:name":"@_christinetran Find out more about vintage leather bags at our online exhibit of Essential Style! https://t.co/SSqMFCMI90 #EssentialPurses",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }
