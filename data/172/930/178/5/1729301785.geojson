@@ -2,188 +2,187 @@
   "id": 1729301785,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2017-11-20",
-    "date:cessation_upper": "2017-11-20",
-    "date:inception_lower": "2017-11-20",
-    "date:inception_upper": "2017-11-20",
-    "edtf:cessation": "2017-11-20T13:50:08-08:00",
-    "edtf:inception": "2017-11-20T13:50:08-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1511214608,
-      "created_at": "Mon Nov 20 21:50:08 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "170"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "103", 
-              "110"
-            ],
-            "text": "United"
-          }, 
-          {
-            "indices": [
-              "126", 
-              "138"
-            ],
-            "text": "TheMainline"
-          }, 
-          {
-            "indices": [
-              "139", 
-              "146"
-            ],
-            "text": "Hawaii"
-          }
+    "date:cessation_lower":"2017-11-20",
+    "date:cessation_upper":"2017-11-20",
+    "date:inception_lower":"2017-11-20",
+    "date:inception_upper":"2017-11-20",
+    "edtf:cessation":"2017-11-20T13:50:08-08:00",
+    "edtf:inception":"2017-11-20T13:50:08-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1511214608,
+        "created_at":"Mon Nov 20 21:50:08 +0000 2017",
+        "display_text_range":[
+            "0",
+            "170"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/o2VqOLueHf",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/932727786061647872/photo/1",
-            "id": "932727781938614273",
-            "id_str": "932727781938614273",
-            "indices": [
-              "147", 
-              "170"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "103",
+                        "110"
+                    ],
+                    "text":"United"
+                },
+                {
+                    "indices":[
+                        "126",
+                        "138"
+                    ],
+                    "text":"TheMainline"
+                },
+                {
+                    "indices":[
+                        "139",
+                        "146"
+                    ],
+                    "text":"Hawaii"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DPG2-dKW0AE8_FP.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DPG2-dKW0AE8_FP.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "915"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "549"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "311"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/o2VqOLueHf"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/o2VqOLueHf",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/932727786061647872/photo/1",
-            "id": "932727781938614273",
-            "id_str": "932727781938614273",
-            "indices": [
-              "147", 
-              "170"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/o2VqOLueHf",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/932727786061647872/photo/1",
+                    "id":"932727781938614273",
+                    "id_str":"932727781938614273",
+                    "indices":[
+                        "147",
+                        "170"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DPG2-dKW0AE8_FP.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DPG2-dKW0AE8_FP.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"915"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"549"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"311"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/o2VqOLueHf"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DPG2-dKW0AE8_FP.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DPG2-dKW0AE8_FP.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "915"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "549"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "311"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/o2VqOLueHf"
-          }
-        ]
-      },
-      "favorite_count": "5",
-      "favorited": false,
-      "full_text": "In an effort to promote the Islands, the Hawaiian Junior Chamber of Commerce organized Aloha Week with #United’s sponsorship. #TheMainline #Hawaii https://t.co/o2VqOLueHf",
-      "id": "932727786061647872",
-      "id_str": "932727786061647872",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/o2VqOLueHf",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/932727786061647872/photo/1",
+                    "id":"932727781938614273",
+                    "id_str":"932727781938614273",
+                    "indices":[
+                        "147",
+                        "170"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DPG2-dKW0AE8_FP.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DPG2-dKW0AE8_FP.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"915"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"549"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"311"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/o2VqOLueHf"
+                }
+            ]
+        },
+        "favorite_count":"5",
+        "favorited":false,
+        "full_text":"In an effort to promote the Islands, the Hawaiian Junior Chamber of Commerce organized Aloha Week with #United\u2019s sponsorship. #TheMainline #Hawaii https://t.co/o2VqOLueHf",
+        "id":"932727786061647872",
+        "id_str":"932727786061647872",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729301785
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026058,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729301785,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026058,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729301785,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729301785,
-    "wof:lastmodified": 1602193909,
-    "wof:name": "In an effort to promote the Islands, the Hawaiian Junior Chamber of Commerce organized Aloha Week with #United’s sponsorship. #TheMainline #Hawaii https://t.co/o2VqOLueHf",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729301785,
+    "wof:lastmodified":1602634437,
+    "wof:name":"In an effort to promote the Islands, the Hawaiian Junior Chamber of Commerce organized Aloha Week with #United\u2019s sponsorship. #TheMainline #Hawaii https://t.co/o2VqOLueHf",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

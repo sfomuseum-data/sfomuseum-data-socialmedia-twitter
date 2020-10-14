@@ -2,174 +2,173 @@
   "id": 1729302527,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2018-02-23",
-    "date:cessation_upper": "2018-02-23",
-    "date:inception_lower": "2018-02-23",
-    "date:inception_upper": "2018-02-23",
-    "edtf:cessation": "2018-02-23T18:00:10-08:00",
-    "edtf:inception": "2018-02-23T18:00:10-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1519437610,
-      "created_at": "Sat Feb 24 02:00:10 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "173"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "137", 
-              "149"
-            ],
-            "text": "TheMainLine"
-          }
+    "date:cessation_lower":"2018-02-23",
+    "date:cessation_upper":"2018-02-23",
+    "date:inception_lower":"2018-02-23",
+    "date:inception_upper":"2018-02-23",
+    "edtf:cessation":"2018-02-23T18:00:10-08:00",
+    "edtf:inception":"2018-02-23T18:00:10-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1519437610,
+        "created_at":"Sat Feb 24 02:00:10 +0000 2018",
+        "display_text_range":[
+            "0",
+            "173"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/kgNNDfYCOb",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/967217559383826432/photo/1",
-            "id": "967217554732314624",
-            "id_str": "967217554732314624",
-            "indices": [
-              "150", 
-              "173"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "137",
+                        "149"
+                    ],
+                    "text":"TheMainLine"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DWw_PdJXcAABZUR.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DWw_PdJXcAABZUR.jpg",
-            "sizes": {
-              "large": {
-                "h": "1333",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "800",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/kgNNDfYCOb"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/kgNNDfYCOb",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/967217559383826432/photo/1",
-            "id": "967217554732314624",
-            "id_str": "967217554732314624",
-            "indices": [
-              "150", 
-              "173"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/kgNNDfYCOb",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/967217559383826432/photo/1",
+                    "id":"967217554732314624",
+                    "id_str":"967217554732314624",
+                    "indices":[
+                        "150",
+                        "173"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DWw_PdJXcAABZUR.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DWw_PdJXcAABZUR.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1333",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"800",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/kgNNDfYCOb"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DWw_PdJXcAABZUR.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DWw_PdJXcAABZUR.jpg",
-            "sizes": {
-              "large": {
-                "h": "1333",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "800",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/kgNNDfYCOb"
-          }
-        ]
-      },
-      "favorite_count": "10",
-      "favorited": false,
-      "full_text": "United Air Lines purchased two Link Flight Trainers in 1934 for their pilots at the Boeing School of Aeronautics in Oakland, California. #TheMainLine https://t.co/kgNNDfYCOb",
-      "id": "967217559383826432",
-      "id_str": "967217559383826432",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "6",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/kgNNDfYCOb",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/967217559383826432/photo/1",
+                    "id":"967217554732314624",
+                    "id_str":"967217554732314624",
+                    "indices":[
+                        "150",
+                        "173"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DWw_PdJXcAABZUR.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DWw_PdJXcAABZUR.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1333",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"800",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/kgNNDfYCOb"
+                }
+            ]
+        },
+        "favorite_count":"10",
+        "favorited":false,
+        "full_text":"United Air Lines purchased two Link Flight Trainers in 1934 for their pilots at the Boeing School of Aeronautics in Oakland, California. #TheMainLine https://t.co/kgNNDfYCOb",
+        "id":"967217559383826432",
+        "id_str":"967217559383826432",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"6",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729302527
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026087,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729302527,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026087,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729302527,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729302527,
-    "wof:lastmodified": 1602193910,
-    "wof:name": "United Air Lines purchased two Link Flight Trainers in 1934 for their pilots at the Boeing School of Aeronautics in Oakland, California. #TheMainLine https://t.co/kgNNDfYCOb",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729302527,
+    "wof:lastmodified":1602634409,
+    "wof:name":"United Air Lines purchased two Link Flight Trainers in 1934 for their pilots at the Boeing School of Aeronautics in Oakland, California. #TheMainLine https://t.co/kgNNDfYCOb",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

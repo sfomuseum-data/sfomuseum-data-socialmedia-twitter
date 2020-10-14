@@ -2,210 +2,209 @@
   "id": 1729296503,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2016-06-20",
-    "date:cessation_upper": "2016-06-20",
-    "date:inception_lower": "2016-06-20",
-    "date:inception_upper": "2016-06-20",
-    "edtf:cessation": "2016-06-20T14:24:02-07:00",
-    "edtf:inception": "2016-06-20T14:24:02-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1466457842,
-      "created_at": "Mon Jun 20 21:24:02 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "92"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "39", 
-              "43"
-            ],
-            "text": "sfo"
-          }, 
-          {
-            "indices": [
-              "44", 
-              "51"
-            ],
-            "text": "avgeek"
-          }
+    "date:cessation_lower":"2016-06-20",
+    "date:cessation_upper":"2016-06-20",
+    "date:inception_lower":"2016-06-20",
+    "date:inception_upper":"2016-06-20",
+    "edtf:cessation":"2016-06-20T14:24:02-07:00",
+    "edtf:inception":"2016-06-20T14:24:02-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1466457842,
+        "created_at":"Mon Jun 20 21:24:02 +0000 2016",
+        "display_text_range":[
+            "0",
+            "92"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/BsGuGHUE2n",
-            "expanded_url": "https://twitter.com/flySFO/status/744971590635397121/photo/1",
-            "id": "744971587657424896",
-            "id_str": "744971587657424896",
-            "indices": [
-              "69", 
-              "92"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "39",
+                        "43"
+                    ],
+                    "text":"sfo"
+                },
+                {
+                    "indices":[
+                        "44",
+                        "51"
+                    ],
+                    "text":"avgeek"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/ClartkIUYAANWCW.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/ClartkIUYAANWCW.jpg",
-            "sizes": {
-              "large": {
-                "h": "640",
-                "resize": "fit",
-                "w": "480"
-              },
-              "medium": {
-                "h": "640",
-                "resize": "fit",
-                "w": "480"
-              },
-              "small": {
-                "h": "640",
-                "resize": "fit",
-                "w": "480"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "744971590635397121",
-            "source_status_id_str": "744971590635397121",
-            "source_user_id": "16408759",
-            "source_user_id_str": "16408759",
-            "type": "photo",
-            "url": "https://t.co/BsGuGHUE2n"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "16408759",
-            "id_str": "16408759",
-            "indices": [
-              "3", 
-              "10"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/BsGuGHUE2n",
+                    "expanded_url":"https://twitter.com/flySFO/status/744971590635397121/photo/1",
+                    "id":"744971587657424896",
+                    "id_str":"744971587657424896",
+                    "indices":[
+                        "69",
+                        "92"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/ClartkIUYAANWCW.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/ClartkIUYAANWCW.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"640",
+                            "resize":"fit",
+                            "w":"480"
+                        },
+                        "medium":{
+                            "h":"640",
+                            "resize":"fit",
+                            "w":"480"
+                        },
+                        "small":{
+                            "h":"640",
+                            "resize":"fit",
+                            "w":"480"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"744971590635397121",
+                    "source_status_id_str":"744971590635397121",
+                    "source_user_id":"16408759",
+                    "source_user_id_str":"16408759",
+                    "type":"photo",
+                    "url":"https://t.co/BsGuGHUE2n"
+                }
             ],
-            "name": "San Francisco International Airport (SFO) ✈️",
-            "screen_name": "flySFO"
-          }, 
-          {
-            "id": "120150558",
-            "id_str": "120150558",
-            "indices": [
-              "52", 
-              "68"
-            ],
-            "name": "Saudi Embassy",
-            "screen_name": "SaudiEmbassyUSA"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/BsGuGHUE2n",
-            "expanded_url": "https://twitter.com/flySFO/status/744971590635397121/photo/1",
-            "id": "744971587657424896",
-            "id_str": "744971587657424896",
-            "indices": [
-              "69", 
-              "92"
-            ],
-            "media_url": "http://pbs.twimg.com/media/ClartkIUYAANWCW.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/ClartkIUYAANWCW.jpg",
-            "sizes": {
-              "large": {
-                "h": "640",
-                "resize": "fit",
-                "w": "480"
-              },
-              "medium": {
-                "h": "640",
-                "resize": "fit",
-                "w": "480"
-              },
-              "small": {
-                "h": "640",
-                "resize": "fit",
-                "w": "480"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "744971590635397121",
-            "source_status_id_str": "744971590635397121",
-            "source_user_id": "16408759",
-            "source_user_id_str": "16408759",
-            "type": "photo",
-            "url": "https://t.co/BsGuGHUE2n"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @flySFO: Saudi Arabian Prince visit #sfo #avgeek @SaudiEmbassyUSA https://t.co/BsGuGHUE2n",
-      "id": "745004305518723072",
-      "id_str": "745004305518723072",
-      "lang": "it",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"16408759",
+                    "id_str":"16408759",
+                    "indices":[
+                        "3",
+                        "10"
+                    ],
+                    "name":"San Francisco International Airport (SFO) \u2708\ufe0f",
+                    "screen_name":"flySFO"
+                },
+                {
+                    "id":"120150558",
+                    "id_str":"120150558",
+                    "indices":[
+                        "52",
+                        "68"
+                    ],
+                    "name":"Saudi Embassy",
+                    "screen_name":"SaudiEmbassyUSA"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/BsGuGHUE2n",
+                    "expanded_url":"https://twitter.com/flySFO/status/744971590635397121/photo/1",
+                    "id":"744971587657424896",
+                    "id_str":"744971587657424896",
+                    "indices":[
+                        "69",
+                        "92"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/ClartkIUYAANWCW.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/ClartkIUYAANWCW.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"640",
+                            "resize":"fit",
+                            "w":"480"
+                        },
+                        "medium":{
+                            "h":"640",
+                            "resize":"fit",
+                            "w":"480"
+                        },
+                        "small":{
+                            "h":"640",
+                            "resize":"fit",
+                            "w":"480"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"744971590635397121",
+                    "source_status_id_str":"744971590635397121",
+                    "source_user_id":"16408759",
+                    "source_user_id_str":"16408759",
+                    "type":"photo",
+                    "url":"https://t.co/BsGuGHUE2n"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @flySFO: Saudi Arabian Prince visit #sfo #avgeek @SaudiEmbassyUSA https://t.co/BsGuGHUE2n",
+        "id":"745004305518723072",
+        "id_str":"745004305518723072",
+        "lang":"it",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729296503
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025860,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729296503,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025860,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729296503,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729296503,
-    "wof:lastmodified": 1602193906,
-    "wof:name": "RT @flySFO: Saudi Arabian Prince visit #sfo #avgeek @SaudiEmbassyUSA https://t.co/BsGuGHUE2n",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729296503,
+    "wof:lastmodified":1602634550,
+    "wof:name":"RT @flySFO: Saudi Arabian Prince visit #sfo #avgeek @SaudiEmbassyUSA https://t.co/BsGuGHUE2n",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

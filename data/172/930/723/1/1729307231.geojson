@@ -2,198 +2,197 @@
   "id": 1729307231,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-10-16",
-    "date:cessation_upper": "2019-10-16",
-    "date:inception_lower": "2019-10-16",
-    "date:inception_upper": "2019-10-16",
-    "edtf:cessation": "2019-10-16T13:10:06-07:00",
-    "edtf:inception": "2019-10-16T13:10:06-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1571256606,
-      "created_at": "Wed Oct 16 20:10:06 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "300"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "35", 
-              "44"
-            ],
-            "text": "Sikorsky"
-          }, 
-          {
-            "indices": [
-              "107", 
-              "113"
-            ],
-            "text": "PanAm"
-          }, 
-          {
-            "indices": [
-              "269", 
-              "276"
-            ],
-            "text": "avgeek"
-          }
+    "date:cessation_lower":"2019-10-16",
+    "date:cessation_upper":"2019-10-16",
+    "date:inception_lower":"2019-10-16",
+    "date:inception_upper":"2019-10-16",
+    "edtf:cessation":"2019-10-16T13:10:06-07:00",
+    "edtf:inception":"2019-10-16T13:10:06-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1571256606,
+        "created_at":"Wed Oct 16 20:10:06 +0000 2019",
+        "display_text_range":[
+            "0",
+            "300"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/u4I5dXNKwR",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1184562181553250304/photo/1",
-            "id": "1184562177811853313",
-            "id_str": "1184562177811853313",
-            "indices": [
-              "277", 
-              "300"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "35",
+                        "44"
+                    ],
+                    "text":"Sikorsky"
+                },
+                {
+                    "indices":[
+                        "107",
+                        "113"
+                    ],
+                    "text":"PanAm"
+                },
+                {
+                    "indices":[
+                        "269",
+                        "276"
+                    ],
+                    "text":"avgeek"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EHBpBk7WsAEM8Iv.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EHBpBk7WsAEM8Iv.jpg",
-            "sizes": {
-              "large": {
-                "h": "1311",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "787",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "446",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/u4I5dXNKwR"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/chinaclipper",
-            "expanded_url": "http://bit.ly/chinaclipper",
-            "indices": [
-              "245", 
-              "268"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/u4I5dXNKwR",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1184562181553250304/photo/1",
+                    "id":"1184562177811853313",
+                    "id_str":"1184562177811853313",
+                    "indices":[
+                        "277",
+                        "300"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EHBpBk7WsAEM8Iv.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EHBpBk7WsAEM8Iv.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1311",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"787",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"446",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/u4I5dXNKwR"
+                }
             ],
-            "url": "https://t.co/MPq52tNOXk"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/u4I5dXNKwR",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1184562181553250304/photo/1",
-            "id": "1184562177811853313",
-            "id_str": "1184562177811853313",
-            "indices": [
-              "277", 
-              "300"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/chinaclipper",
+                    "expanded_url":"http://bit.ly/chinaclipper",
+                    "indices":[
+                        "245",
+                        "268"
+                    ],
+                    "url":"https://t.co/MPq52tNOXk"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EHBpBk7WsAEM8Iv.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EHBpBk7WsAEM8Iv.jpg",
-            "sizes": {
-              "large": {
-                "h": "1311",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "787",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "446",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/u4I5dXNKwR"
-          }
-        ]
-      },
-      "favorite_count": "9",
-      "favorited": false,
-      "full_text": "In 1923, Igor Sikorsky founded the #Sikorsky Aero Engineering Corporation. The S-42, was developed to meet #PanAm's requirement for a large, long-range, trans-oceanic flying boat. Shown here is the Pan Am Clipper S-42 in flight over SF in 1935. https://t.co/MPq52tNOXk #avgeek https://t.co/u4I5dXNKwR",
-      "id": "1184562181553250304",
-      "id_str": "1184562181553250304",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "5",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/u4I5dXNKwR",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1184562181553250304/photo/1",
+                    "id":"1184562177811853313",
+                    "id_str":"1184562177811853313",
+                    "indices":[
+                        "277",
+                        "300"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EHBpBk7WsAEM8Iv.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EHBpBk7WsAEM8Iv.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1311",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"787",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"446",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/u4I5dXNKwR"
+                }
+            ]
+        },
+        "favorite_count":"9",
+        "favorited":false,
+        "full_text":"In 1923, Igor Sikorsky founded the #Sikorsky Aero Engineering Corporation. The S-42, was developed to meet #PanAm's requirement for a large, long-range, trans-oceanic flying boat. Shown here is the Pan Am Clipper S-42 in flight over SF in 1935. https://t.co/MPq52tNOXk #avgeek https://t.co/u4I5dXNKwR",
+        "id":"1184562181553250304",
+        "id_str":"1184562181553250304",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"5",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729307231
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026269,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729307231,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026269,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729307231,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729307231,
-    "wof:lastmodified": 1602193913,
-    "wof:name": "In 1923, Igor Sikorsky founded the #Sikorsky Aero Engineering Corporation. The S-42, was developed to meet #PanAm's requirement for a large, long-range, trans-oceanic flying boat. Shown here is the Pan Am Clipper S-42 in flight over SF in 1935. https://t.co/MPq52tNOXk #avgeek https://t.co/u4I5dXNKwR",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729307231,
+    "wof:lastmodified":1602634305,
+    "wof:name":"In 1923, Igor Sikorsky founded the #Sikorsky Aero Engineering Corporation. The S-42, was developed to meet #PanAm's requirement for a large, long-range, trans-oceanic flying boat. Shown here is the Pan Am Clipper S-42 in flight over SF in 1935. https://t.co/MPq52tNOXk #avgeek https://t.co/u4I5dXNKwR",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,176 +2,175 @@
   "id": 1729294699,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2015-12-16",
-    "date:cessation_upper": "2015-12-16",
-    "date:inception_lower": "2015-12-16",
-    "date:inception_upper": "2015-12-16",
-    "edtf:cessation": "2015-12-16T20:25:13-08:00",
-    "edtf:inception": "2015-12-16T20:25:13-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1450326313,
-      "created_at": "Thu Dec 17 04:25:13 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "131"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/UHluTQPXDQ",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/677343768945762304/photo/1",
-            "id": "677343768589303808",
-            "id_str": "677343768589303808",
-            "indices": [
-              "108", 
-              "131"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CWZokZ2XAAA9Bjr.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CWZokZ2XAAA9Bjr.jpg",
-            "sizes": {
-              "large": {
-                "h": "1653",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "969",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "549",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/UHluTQPXDQ"
-          }
+    "date:cessation_lower":"2015-12-16",
+    "date:cessation_upper":"2015-12-16",
+    "date:inception_lower":"2015-12-16",
+    "date:inception_upper":"2015-12-16",
+    "edtf:cessation":"2015-12-16T20:25:13-08:00",
+    "edtf:inception":"2015-12-16T20:25:13-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1450326313,
+        "created_at":"Thu Dec 17 04:25:13 +0000 2015",
+        "display_text_range":[
+            "0",
+            "131"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "sfomuseum.tumblr.com/post/135327454…",
-            "expanded_url": "http://sfomuseum.tumblr.com/post/135327454816/the-newspaper-blurb-accompanying-these-photos-of-a",
-            "indices": [
-              "84", 
-              "107"
+        "entities":{
+            "hashtags":[],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/UHluTQPXDQ",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/677343768945762304/photo/1",
+                    "id":"677343768589303808",
+                    "id_str":"677343768589303808",
+                    "indices":[
+                        "108",
+                        "131"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CWZokZ2XAAA9Bjr.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CWZokZ2XAAA9Bjr.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1653",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"969",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"549",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/UHluTQPXDQ"
+                }
             ],
-            "url": "https://t.co/817NtLav38"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/UHluTQPXDQ",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/677343768945762304/photo/1",
-            "id": "677343768589303808",
-            "id_str": "677343768589303808",
-            "indices": [
-              "108", 
-              "131"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"sfomuseum.tumblr.com/post/135327454\u2026",
+                    "expanded_url":"http://sfomuseum.tumblr.com/post/135327454816/the-newspaper-blurb-accompanying-these-photos-of-a",
+                    "indices":[
+                        "84",
+                        "107"
+                    ],
+                    "url":"https://t.co/817NtLav38"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CWZokZ2XAAA9Bjr.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CWZokZ2XAAA9Bjr.jpg",
-            "sizes": {
-              "large": {
-                "h": "1653",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "969",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "549",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/UHluTQPXDQ"
-          }
-        ]
-      },
-      "favorite_count": "2",
-      "favorited": false,
-      "full_text": "Read more about the 1940s Pan American Stratocruiser cockpit simulator at SFO here: https://t.co/817NtLav38 https://t.co/UHluTQPXDQ",
-      "id": "677343768945762304",
-      "id_str": "677343768945762304",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/UHluTQPXDQ",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/677343768945762304/photo/1",
+                    "id":"677343768589303808",
+                    "id_str":"677343768589303808",
+                    "indices":[
+                        "108",
+                        "131"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CWZokZ2XAAA9Bjr.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CWZokZ2XAAA9Bjr.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1653",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"969",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"549",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/UHluTQPXDQ"
+                }
+            ]
+        },
+        "favorite_count":"2",
+        "favorited":false,
+        "full_text":"Read more about the 1940s Pan American Stratocruiser cockpit simulator at SFO here: https://t.co/817NtLav38 https://t.co/UHluTQPXDQ",
+        "id":"677343768945762304",
+        "id_str":"677343768945762304",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729294699
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025791,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729294699,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025791,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729294699,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729294699,
-    "wof:lastmodified": 1602193905,
-    "wof:name": "Read more about the 1940s Pan American Stratocruiser cockpit simulator at SFO here: https://t.co/817NtLav38 https://t.co/UHluTQPXDQ",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729294699,
+    "wof:lastmodified":1602634648,
+    "wof:name":"Read more about the 1940s Pan American Stratocruiser cockpit simulator at SFO here: https://t.co/817NtLav38 https://t.co/UHluTQPXDQ",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,122 +2,121 @@
   "id": 1729300267,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2017-06-02",
-    "date:cessation_upper": "2017-06-02",
-    "date:inception_lower": "2017-06-02",
-    "date:inception_upper": "2017-06-02",
-    "edtf:cessation": "2017-06-02T09:17:35-07:00",
-    "edtf:inception": "2017-06-02T09:17:35-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1496420255,
-      "created_at": "Fri Jun 02 16:17:35 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "114"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "64", 
-              "78"
-            ],
-            "text": "TheTypewriter"
-          }
+    "date:cessation_lower":"2017-06-02",
+    "date:cessation_upper":"2017-06-02",
+    "date:inception_lower":"2017-06-02",
+    "date:inception_upper":"2017-06-02",
+    "edtf:cessation":"2017-06-02T09:17:35-07:00",
+    "edtf:inception":"2017-06-02T09:17:35-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1496420255,
+        "created_at":"Fri Jun 02 16:17:35 +0000 2017",
+        "display_text_range":[
+            "0",
+            "114"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/Thetypewriter",
-            "expanded_url": "http://bit.ly/Thetypewriter",
-            "indices": [
-              "91", 
-              "114"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "64",
+                        "78"
+                    ],
+                    "text":"TheTypewriter"
+                }
             ],
-            "url": "https://t.co/Nph1wFWx99"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "41060630",
-            "id_str": "41060630",
-            "indices": [
-              "0", 
-              "11"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/Thetypewriter",
+                    "expanded_url":"http://bit.ly/Thetypewriter",
+                    "indices":[
+                        "91",
+                        "114"
+                    ],
+                    "url":"https://t.co/Nph1wFWx99"
+                }
             ],
-            "name": "Tia Carrere",
-            "screen_name": "TiaCarrere"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "@TiaCarrere Thanks so much for stopping by! We hope you enjoyed #TheTypewriter exhibition! https://t.co/Nph1wFWx99",
-      "id": "870675773174108160",
-      "id_str": "870675773174108160",
-      "in_reply_to_screen_name": "TiaCarrere",
-      "in_reply_to_status_id": "870671826325651458",
-      "in_reply_to_status_id_str": "870671826325651458",
-      "in_reply_to_user_id": "41060630",
-      "in_reply_to_user_id_str": "41060630",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"41060630",
+                    "id_str":"41060630",
+                    "indices":[
+                        "0",
+                        "11"
+                    ],
+                    "name":"Tia Carrere",
+                    "screen_name":"TiaCarrere"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"@TiaCarrere Thanks so much for stopping by! We hope you enjoyed #TheTypewriter exhibition! https://t.co/Nph1wFWx99",
+        "id":"870675773174108160",
+        "id_str":"870675773174108160",
+        "in_reply_to_screen_name":"TiaCarrere",
+        "in_reply_to_status_id":"870671826325651458",
+        "in_reply_to_status_id_str":"870671826325651458",
+        "in_reply_to_user_id":"41060630",
+        "in_reply_to_user_id_str":"41060630",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729300267
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026003,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729300267,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026003,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729300267,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729300267,
-    "wof:lastmodified": 1602193909,
-    "wof:name": "@TiaCarrere Thanks so much for stopping by! We hope you enjoyed #TheTypewriter exhibition! https://t.co/Nph1wFWx99",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729300267,
+    "wof:lastmodified":1602634373,
+    "wof:name":"@TiaCarrere Thanks so much for stopping by! We hope you enjoyed #TheTypewriter exhibition! https://t.co/Nph1wFWx99",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

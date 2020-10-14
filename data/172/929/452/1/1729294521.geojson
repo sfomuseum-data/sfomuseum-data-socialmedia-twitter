@@ -2,138 +2,137 @@
   "id": 1729294521,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2015-11-09",
-    "date:cessation_upper": "2015-11-09",
-    "date:inception_lower": "2015-11-09",
-    "date:inception_upper": "2015-11-09",
-    "edtf:cessation": "2015-11-09T10:30:37-08:00",
-    "edtf:inception": "2015-11-09T10:30:37-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1447093837,
-      "created_at": "Mon Nov 09 18:30:37 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "138"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "31", 
-              "43"
-            ],
-            "text": "kirkhammett"
-          }, 
-          {
-            "indices": [
-              "44", 
-              "52"
-            ],
-            "text": "monster"
-          }, 
-          {
-            "indices": [
-              "53", 
-              "60"
-            ],
-            "text": "guitar"
-          }, 
-          {
-            "indices": [
-              "72", 
-              "76"
-            ],
-            "text": "sfo"
-          }
+    "date:cessation_lower":"2015-11-09",
+    "date:cessation_upper":"2015-11-09",
+    "date:inception_lower":"2015-11-09",
+    "date:inception_upper":"2015-11-09",
+    "edtf:cessation":"2015-11-09T10:30:37-08:00",
+    "edtf:inception":"2015-11-09T10:30:37-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1447093837,
+        "created_at":"Mon Nov 09 18:30:37 +0000 2015",
+        "display_text_range":[
+            "0",
+            "138"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "instagram.com/p/9w71Vwv3fA/",
-            "expanded_url": "https://instagram.com/p/9w71Vwv3fA/",
-            "indices": [
-              "115", 
-              "138"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "31",
+                        "43"
+                    ],
+                    "text":"kirkhammett"
+                },
+                {
+                    "indices":[
+                        "44",
+                        "52"
+                    ],
+                    "text":"monster"
+                },
+                {
+                    "indices":[
+                        "53",
+                        "60"
+                    ],
+                    "text":"guitar"
+                },
+                {
+                    "indices":[
+                        "72",
+                        "76"
+                    ],
+                    "text":"sfo"
+                }
             ],
-            "url": "https://t.co/lyNpb1BWSc"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "103983752",
-            "id_str": "103983752",
-            "indices": [
-              "3", 
-              "14"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"instagram.com/p/9w71Vwv3fA/",
+                    "expanded_url":"https://instagram.com/p/9w71Vwv3fA/",
+                    "indices":[
+                        "115",
+                        "138"
+                    ],
+                    "url":"https://t.co/lyNpb1BWSc"
+                }
             ],
-            "name": "Christine Hansen",
-            "screen_name": "cmhansen33"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @cmhansen33: Pretty awesome #kirkhammett #monster #guitar exhibit at #sfo.... Grateful for the cultural moment… https://t.co/lyNpb1BWSc",
-      "id": "663785779546726400",
-      "id_str": "663785779546726400",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"103983752",
+                    "id_str":"103983752",
+                    "indices":[
+                        "3",
+                        "14"
+                    ],
+                    "name":"Christine Hansen",
+                    "screen_name":"cmhansen33"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @cmhansen33: Pretty awesome #kirkhammett #monster #guitar exhibit at #sfo.... Grateful for the cultural moment\u2026 https://t.co/lyNpb1BWSc",
+        "id":"663785779546726400",
+        "id_str":"663785779546726400",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729294521
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025785,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729294521,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025785,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729294521,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729294521,
-    "wof:lastmodified": 1602193905,
-    "wof:name": "RT @cmhansen33: Pretty awesome #kirkhammett #monster #guitar exhibit at #sfo.... Grateful for the cultural moment… https://t.co/lyNpb1BWSc",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729294521,
+    "wof:lastmodified":1602634531,
+    "wof:name":"RT @cmhansen33: Pretty awesome #kirkhammett #monster #guitar exhibit at #sfo.... Grateful for the cultural moment\u2026 https://t.co/lyNpb1BWSc",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

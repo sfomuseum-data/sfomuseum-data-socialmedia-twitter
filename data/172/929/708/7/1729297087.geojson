@@ -2,138 +2,137 @@
   "id": 1729297087,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2016-07-25",
-    "date:cessation_upper": "2016-07-25",
-    "date:inception_lower": "2016-07-25",
-    "date:inception_upper": "2016-07-25",
-    "edtf:cessation": "2016-07-25T13:50:56-07:00",
-    "edtf:inception": "2016-07-25T13:50:56-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1469479856,
-      "created_at": "Mon Jul 25 20:50:56 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "140"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "77", 
-              "94"
-            ],
-            "text": "LeanIntoAviation"
-          }, 
-          {
-            "indices": [
-              "95", 
-              "111"
-            ],
-            "text": "WomenInAviation"
-          }, 
-          {
-            "indices": [
-              "112", 
-              "119"
-            ],
-            "text": "AvGeek"
-          }, 
-          {
-            "indices": [
-              "120", 
-              "127"
-            ],
-            "text": "Pilots"
-          }
+    "date:cessation_lower":"2016-07-25",
+    "date:cessation_upper":"2016-07-25",
+    "date:inception_lower":"2016-07-25",
+    "date:inception_upper":"2016-07-25",
+    "edtf:cessation":"2016-07-25T13:50:56-07:00",
+    "edtf:inception":"2016-07-25T13:50:56-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1469479856,
+        "created_at":"Mon Jul 25 20:50:56 +0000 2016",
+        "display_text_range":[
+            "0",
+            "140"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "runwaygirlnetwork.com/2016/07/25/boe…",
-            "expanded_url": "https://www.runwaygirlnetwork.com/2016/07/25/boeing-to-women-aviation-needs-you/",
-            "indices": [
-              "53", 
-              "76"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "77",
+                        "94"
+                    ],
+                    "text":"LeanIntoAviation"
+                },
+                {
+                    "indices":[
+                        "95",
+                        "111"
+                    ],
+                    "text":"WomenInAviation"
+                },
+                {
+                    "indices":[
+                        "112",
+                        "119"
+                    ],
+                    "text":"AvGeek"
+                },
+                {
+                    "indices":[
+                        "120",
+                        "127"
+                    ],
+                    "text":"Pilots"
+                }
             ],
-            "url": "https://t.co/kDhTod0uJf"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "17542672",
-            "id_str": "17542672",
-            "indices": [
-              "3", 
-              "14"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"runwaygirlnetwork.com/2016/07/25/boe\u2026",
+                    "expanded_url":"https://www.runwaygirlnetwork.com/2016/07/25/boeing-to-women-aviation-needs-you/",
+                    "indices":[
+                        "53",
+                        "76"
+                    ],
+                    "url":"https://t.co/kDhTod0uJf"
+                }
             ],
-            "name": "Runway Girl Network 🏳️‍🌈",
-            "screen_name": "RunwayGirl"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @RunwayGirl: Boeing to Women: Aviation needs you! https://t.co/kDhTod0uJf #LeanIntoAviation #WomenInAviation #AvGeek #Pilots https://t.c…",
-      "id": "757679551199776770",
-      "id_str": "757679551199776770",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"17542672",
+                    "id_str":"17542672",
+                    "indices":[
+                        "3",
+                        "14"
+                    ],
+                    "name":"Runway Girl Network \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                    "screen_name":"RunwayGirl"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @RunwayGirl: Boeing to Women: Aviation needs you! https://t.co/kDhTod0uJf #LeanIntoAviation #WomenInAviation #AvGeek #Pilots https://t.c\u2026",
+        "id":"757679551199776770",
+        "id_str":"757679551199776770",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729297087
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025884,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729297087,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025884,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729297087,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729297087,
-    "wof:lastmodified": 1602193906,
-    "wof:name": "RT @RunwayGirl: Boeing to Women: Aviation needs you! https://t.co/kDhTod0uJf #LeanIntoAviation #WomenInAviation #AvGeek #Pilots https://t.c…",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729297087,
+    "wof:lastmodified":1602634459,
+    "wof:name":"RT @RunwayGirl: Boeing to Women: Aviation needs you! https://t.co/kDhTod0uJf #LeanIntoAviation #WomenInAviation #AvGeek #Pilots https://t.c\u2026",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

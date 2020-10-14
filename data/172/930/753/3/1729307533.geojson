@@ -2,181 +2,180 @@
   "id": 1729307533,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-12-06",
-    "date:cessation_upper": "2019-12-06",
-    "date:inception_lower": "2019-12-06",
-    "date:inception_upper": "2019-12-06",
-    "edtf:cessation": "2019-12-06T10:49:16-08:00",
-    "edtf:inception": "2019-12-06T10:49:16-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1575658156,
-      "created_at": "Fri Dec 06 18:49:16 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "299"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "261", 
-              "268"
-            ],
-            "text": "avgeek"
-          }, 
-          {
-            "indices": [
-              "269", 
-              "275"
-            ],
-            "text": "PanAm"
-          }
+    "date:cessation_lower":"2019-12-06",
+    "date:cessation_upper":"2019-12-06",
+    "date:inception_lower":"2019-12-06",
+    "date:inception_upper":"2019-12-06",
+    "edtf:cessation":"2019-12-06T10:49:16-08:00",
+    "edtf:inception":"2019-12-06T10:49:16-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1575658156,
+        "created_at":"Fri Dec 06 18:49:16 +0000 2019",
+        "display_text_range":[
+            "0",
+            "299"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/Ja4Wq56QNk",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1203023617275117568/photo/1",
-            "id": "1203023612913029120",
-            "id_str": "1203023612913029120",
-            "indices": [
-              "276", 
-              "299"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "261",
+                        "268"
+                    ],
+                    "text":"avgeek"
+                },
+                {
+                    "indices":[
+                        "269",
+                        "275"
+                    ],
+                    "text":"PanAm"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/ELH_miAWkAALrhh.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/ELH_miAWkAALrhh.jpg",
-            "sizes": {
-              "large": {
-                "h": "1149",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "689",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "391",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/Ja4Wq56QNk"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/Ja4Wq56QNk",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1203023617275117568/photo/1",
-            "id": "1203023612913029120",
-            "id_str": "1203023612913029120",
-            "indices": [
-              "276", 
-              "299"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/Ja4Wq56QNk",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1203023617275117568/photo/1",
+                    "id":"1203023612913029120",
+                    "id_str":"1203023612913029120",
+                    "indices":[
+                        "276",
+                        "299"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/ELH_miAWkAALrhh.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/ELH_miAWkAALrhh.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1149",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"689",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"391",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/Ja4Wq56QNk"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/ELH_miAWkAALrhh.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/ELH_miAWkAALrhh.jpg",
-            "sizes": {
-              "large": {
-                "h": "1149",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "689",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "391",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/Ja4Wq56QNk"
-          }
-        ]
-      },
-      "favorite_count": "37",
-      "favorited": false,
-      "full_text": "Can you imagine a roundtrip flight from the Philippine capital of Manila, to California taking 15 days? In 1935, the first scheduled transpacific airmail flight took 8 days to reach Manila from Alameda, and 4 days to come back, for a total of 123 flight hours. #avgeek #PanAm https://t.co/Ja4Wq56QNk",
-      "id": "1203023617275117568",
-      "id_str": "1203023617275117568",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "13",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/Ja4Wq56QNk",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1203023617275117568/photo/1",
+                    "id":"1203023612913029120",
+                    "id_str":"1203023612913029120",
+                    "indices":[
+                        "276",
+                        "299"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/ELH_miAWkAALrhh.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/ELH_miAWkAALrhh.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1149",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"689",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"391",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/Ja4Wq56QNk"
+                }
+            ]
+        },
+        "favorite_count":"37",
+        "favorited":false,
+        "full_text":"Can you imagine a roundtrip flight from the Philippine capital of Manila, to California taking 15 days? In 1935, the first scheduled transpacific airmail flight took 8 days to reach Manila from Alameda, and 4 days to come back, for a total of 123 flight hours. #avgeek #PanAm https://t.co/Ja4Wq56QNk",
+        "id":"1203023617275117568",
+        "id_str":"1203023617275117568",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"13",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729307533
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026280,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729307533,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026280,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729307533,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729307533,
-    "wof:lastmodified": 1602193913,
-    "wof:name": "Can you imagine a roundtrip flight from the Philippine capital of Manila, to California taking 15 days? In 1935, the first scheduled transpacific airmail flight took 8 days to reach Manila from Alameda, and 4 days to come back, for a total of 123 flight hours. #avgeek #PanAm https://t.co/Ja4Wq56QNk",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729307533,
+    "wof:lastmodified":1602634202,
+    "wof:name":"Can you imagine a roundtrip flight from the Philippine capital of Manila, to California taking 15 days? In 1935, the first scheduled transpacific airmail flight took 8 days to reach Manila from Alameda, and 4 days to come back, for a total of 123 flight hours. #avgeek #PanAm https://t.co/Ja4Wq56QNk",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

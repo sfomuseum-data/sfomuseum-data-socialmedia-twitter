@@ -2,202 +2,201 @@
   "id": 1729303251,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2018-05-22",
-    "date:cessation_upper": "2018-05-22",
-    "date:inception_lower": "2018-05-22",
-    "date:inception_upper": "2018-05-22",
-    "edtf:cessation": "2018-05-22T13:20:06-07:00",
-    "edtf:inception": "2018-05-22T13:20:06-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1527020406,
-      "created_at": "Tue May 22 20:20:06 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "255"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "24", 
-              "33"
-            ],
-            "text": "Lockheed"
-          }, 
-          {
-            "indices": [
-              "69", 
-              "83"
-            ],
-            "text": "Constellation"
-          }, 
-          {
-            "indices": [
-              "163", 
-              "172"
-            ],
-            "text": "airliner"
-          }, 
-          {
-            "indices": [
-              "208", 
-              "215"
-            ],
-            "text": "Qantas"
-          }, 
-          {
-            "indices": [
-              "217", 
-              "231"
-            ],
-            "text": "TravelTuesday"
-          }
+    "date:cessation_lower":"2018-05-22",
+    "date:cessation_upper":"2018-05-22",
+    "date:inception_lower":"2018-05-22",
+    "date:inception_upper":"2018-05-22",
+    "edtf:cessation":"2018-05-22T13:20:06-07:00",
+    "edtf:inception":"2018-05-22T13:20:06-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1527020406,
+        "created_at":"Tue May 22 20:20:06 +0000 2018",
+        "display_text_range":[
+            "0",
+            "255"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/QWkvUi6kTO",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/999022109161553920/photo/1",
-            "id": "999022105617350657",
-            "id_str": "999022105617350657",
-            "indices": [
-              "232", 
-              "255"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "24",
+                        "33"
+                    ],
+                    "text":"Lockheed"
+                },
+                {
+                    "indices":[
+                        "69",
+                        "83"
+                    ],
+                    "text":"Constellation"
+                },
+                {
+                    "indices":[
+                        "163",
+                        "172"
+                    ],
+                    "text":"airliner"
+                },
+                {
+                    "indices":[
+                        "208",
+                        "215"
+                    ],
+                    "text":"Qantas"
+                },
+                {
+                    "indices":[
+                        "217",
+                        "231"
+                    ],
+                    "text":"TravelTuesday"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Dd09T-AVwAE6RQ7.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Dd09T-AVwAE6RQ7.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1286"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "772"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "437"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/QWkvUi6kTO"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/QWkvUi6kTO",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/999022109161553920/photo/1",
-            "id": "999022105617350657",
-            "id_str": "999022105617350657",
-            "indices": [
-              "232", 
-              "255"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/QWkvUi6kTO",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/999022109161553920/photo/1",
+                    "id":"999022105617350657",
+                    "id_str":"999022105617350657",
+                    "indices":[
+                        "232",
+                        "255"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Dd09T-AVwAE6RQ7.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Dd09T-AVwAE6RQ7.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1286"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"772"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"437"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/QWkvUi6kTO"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Dd09T-AVwAE6RQ7.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Dd09T-AVwAE6RQ7.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1286"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "772"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "437"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/QWkvUi6kTO"
-          }
-        ]
-      },
-      "favorite_count": "5",
-      "favorited": false,
-      "full_text": "Introduced in 1947, the #Lockheed L-749 was the first version of the #Constellation designed for the commercial market after WWII. This poster offers views of the #airliner’s interior. Have you ever flown on #Qantas? #TravelTuesday https://t.co/QWkvUi6kTO",
-      "id": "999022109161553920",
-      "id_str": "999022109161553920",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "3",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/QWkvUi6kTO",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/999022109161553920/photo/1",
+                    "id":"999022105617350657",
+                    "id_str":"999022105617350657",
+                    "indices":[
+                        "232",
+                        "255"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Dd09T-AVwAE6RQ7.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Dd09T-AVwAE6RQ7.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1286"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"772"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"437"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/QWkvUi6kTO"
+                }
+            ]
+        },
+        "favorite_count":"5",
+        "favorited":false,
+        "full_text":"Introduced in 1947, the #Lockheed L-749 was the first version of the #Constellation designed for the commercial market after WWII. This poster offers views of the #airliner\u2019s interior. Have you ever flown on #Qantas? #TravelTuesday https://t.co/QWkvUi6kTO",
+        "id":"999022109161553920",
+        "id_str":"999022109161553920",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"3",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729303251
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026116,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729303251,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026116,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729303251,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729303251,
-    "wof:lastmodified": 1602193910,
-    "wof:name": "Introduced in 1947, the #Lockheed L-749 was the first version of the #Constellation designed for the commercial market after WWII. This poster offers views of the #airliner’s interior. Have you ever flown on #Qantas? #TravelTuesday https://t.co/QWkvUi6kTO",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729303251,
+    "wof:lastmodified":1602634313,
+    "wof:name":"Introduced in 1947, the #Lockheed L-749 was the first version of the #Constellation designed for the commercial market after WWII. This poster offers views of the #airliner\u2019s interior. Have you ever flown on #Qantas? #TravelTuesday https://t.co/QWkvUi6kTO",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

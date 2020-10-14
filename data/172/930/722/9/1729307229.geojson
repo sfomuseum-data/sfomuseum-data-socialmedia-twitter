@@ -2,188 +2,187 @@
   "id": 1729307229,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-10-15",
-    "date:cessation_upper": "2019-10-15",
-    "date:inception_lower": "2019-10-15",
-    "date:inception_upper": "2019-10-15",
-    "edtf:cessation": "2019-10-15T17:45:03-07:00",
-    "edtf:inception": "2019-10-15T17:45:03-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1571186703,
-      "created_at": "Wed Oct 16 00:45:03 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "189"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "136", 
-              "143"
-            ],
-            "text": "avgeek"
-          }, 
-          {
-            "indices": [
-              "144", 
-              "150"
-            ],
-            "text": "PanAm"
-          }, 
-          {
-            "indices": [
-              "151", 
-              "165"
-            ],
-            "text": "TravelTuesday"
-          }
+    "date:cessation_lower":"2019-10-15",
+    "date:cessation_upper":"2019-10-15",
+    "date:inception_lower":"2019-10-15",
+    "date:inception_upper":"2019-10-15",
+    "edtf:cessation":"2019-10-15T17:45:03-07:00",
+    "edtf:inception":"2019-10-15T17:45:03-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1571186703,
+        "created_at":"Wed Oct 16 00:45:03 +0000 2019",
+        "display_text_range":[
+            "0",
+            "189"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/mehl7qNCve",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1184268987644989444/photo/1",
-            "id": "1184268983043809282",
-            "id_str": "1184268983043809282",
-            "indices": [
-              "166", 
-              "189"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "136",
+                        "143"
+                    ],
+                    "text":"avgeek"
+                },
+                {
+                    "indices":[
+                        "144",
+                        "150"
+                    ],
+                    "text":"PanAm"
+                },
+                {
+                    "indices":[
+                        "151",
+                        "165"
+                    ],
+                    "text":"TravelTuesday"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EG9eXZTW4AIQuuY.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EG9eXZTW4AIQuuY.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1569"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "941"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "533"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/mehl7qNCve"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/mehl7qNCve",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1184268987644989444/photo/1",
-            "id": "1184268983043809282",
-            "id_str": "1184268983043809282",
-            "indices": [
-              "166", 
-              "189"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/mehl7qNCve",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1184268987644989444/photo/1",
+                    "id":"1184268983043809282",
+                    "id_str":"1184268983043809282",
+                    "indices":[
+                        "166",
+                        "189"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EG9eXZTW4AIQuuY.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EG9eXZTW4AIQuuY.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1569"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"941"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"533"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/mehl7qNCve"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EG9eXZTW4AIQuuY.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EG9eXZTW4AIQuuY.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1569"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "941"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "533"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/mehl7qNCve"
-          }
-        ]
-      },
-      "favorite_count": "16",
-      "favorited": false,
-      "full_text": "Coming in 2020, we will be presenting a photo exhibition on Pan American Airways in South America. Have you ever been to South America? #avgeek #PanAm #TravelTuesday https://t.co/mehl7qNCve",
-      "id": "1184268987644989444",
-      "id_str": "1184268987644989444",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "5",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/mehl7qNCve",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1184268987644989444/photo/1",
+                    "id":"1184268983043809282",
+                    "id_str":"1184268983043809282",
+                    "indices":[
+                        "166",
+                        "189"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EG9eXZTW4AIQuuY.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EG9eXZTW4AIQuuY.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1569"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"941"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"533"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/mehl7qNCve"
+                }
+            ]
+        },
+        "favorite_count":"16",
+        "favorited":false,
+        "full_text":"Coming in 2020, we will be presenting a photo exhibition on Pan American Airways in South America. Have you ever been to South America? #avgeek #PanAm #TravelTuesday https://t.co/mehl7qNCve",
+        "id":"1184268987644989444",
+        "id_str":"1184268987644989444",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"5",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729307229
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026269,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729307229,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026269,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729307229,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729307229,
-    "wof:lastmodified": 1602193913,
-    "wof:name": "Coming in 2020, we will be presenting a photo exhibition on Pan American Airways in South America. Have you ever been to South America? #avgeek #PanAm #TravelTuesday https://t.co/mehl7qNCve",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729307229,
+    "wof:lastmodified":1602634283,
+    "wof:name":"Coming in 2020, we will be presenting a photo exhibition on Pan American Airways in South America. Have you ever been to South America? #avgeek #PanAm #TravelTuesday https://t.co/mehl7qNCve",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

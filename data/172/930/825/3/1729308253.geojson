@@ -2,202 +2,201 @@
   "id": 1729308253,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2020-04-03",
-    "date:cessation_upper": "2020-04-03",
-    "date:inception_lower": "2020-04-03",
-    "date:inception_upper": "2020-04-03",
-    "edtf:cessation": "2020-04-03T19:45:04-07:00",
-    "edtf:inception": "2020-04-03T19:45:04-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1585968304,
-      "created_at": "Sat Apr 04 02:45:04 +0000 2020",
-      "display_text_range": [
-        "0", 
-        "164"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "56", 
-              "73"
-            ],
-            "text": "MangaDrawingClub"
-          }, 
-          {
-            "indices": [
-              "109", 
-              "124"
-            ],
-            "text": "MuseumFromHome"
-          }
+    "date:cessation_lower":"2020-04-03",
+    "date:cessation_upper":"2020-04-03",
+    "date:inception_lower":"2020-04-03",
+    "date:inception_upper":"2020-04-03",
+    "edtf:cessation":"2020-04-03T19:45:04-07:00",
+    "edtf:inception":"2020-04-03T19:45:04-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1585968304,
+        "created_at":"Sat Apr 04 02:45:04 +0000 2020",
+        "display_text_range":[
+            "0",
+            "164"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/vzeEdLRlC5",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1246267513522073601/photo/1",
-            "id": "1246267509759770627",
-            "id_str": "1246267509759770627",
-            "indices": [
-              "141", 
-              "164"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "56",
+                        "73"
+                    ],
+                    "text":"MangaDrawingClub"
+                },
+                {
+                    "indices":[
+                        "109",
+                        "124"
+                    ],
+                    "text":"MuseumFromHome"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/EUuhsnZXgAMxRW6.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EUuhsnZXgAMxRW6.jpg",
-            "sizes": {
-              "large": {
-                "h": "1499",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "899",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/vzeEdLRlC5"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/2v4hapo",
-            "expanded_url": "http://bit.ly/2v4hapo",
-            "indices": [
-              "85", 
-              "108"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/vzeEdLRlC5",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1246267513522073601/photo/1",
+                    "id":"1246267509759770627",
+                    "id_str":"1246267509759770627",
+                    "indices":[
+                        "141",
+                        "164"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EUuhsnZXgAMxRW6.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EUuhsnZXgAMxRW6.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1499",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"899",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/vzeEdLRlC5"
+                }
             ],
-            "url": "https://t.co/rqMqJf9PGR"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "4838256152",
-            "id_str": "4838256152",
-            "indices": [
-              "125", 
-              "140"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/2v4hapo",
+                    "expanded_url":"http://bit.ly/2v4hapo",
+                    "indices":[
+                        "85",
+                        "108"
+                    ],
+                    "url":"https://t.co/rqMqJf9PGR"
+                }
             ],
-            "name": "Art School of SF Bay",
-            "screen_name": "artschoolsfbay"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/vzeEdLRlC5",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1246267513522073601/photo/1",
-            "id": "1246267509759770627",
-            "id_str": "1246267509759770627",
-            "indices": [
-              "141", 
-              "164"
-            ],
-            "media_url": "http://pbs.twimg.com/media/EUuhsnZXgAMxRW6.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/EUuhsnZXgAMxRW6.jpg",
-            "sizes": {
-              "large": {
-                "h": "1499",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "899",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/vzeEdLRlC5"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "See drawings from the Art School of San Francisco Bay’s #MangaDrawingClub online at: https://t.co/rqMqJf9PGR #MuseumFromHome @artschoolsfbay https://t.co/vzeEdLRlC5",
-      "id": "1246267513522073601",
-      "id_str": "1246267513522073601",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"4838256152",
+                    "id_str":"4838256152",
+                    "indices":[
+                        "125",
+                        "140"
+                    ],
+                    "name":"Art School of SF Bay",
+                    "screen_name":"artschoolsfbay"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/vzeEdLRlC5",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1246267513522073601/photo/1",
+                    "id":"1246267509759770627",
+                    "id_str":"1246267509759770627",
+                    "indices":[
+                        "141",
+                        "164"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/EUuhsnZXgAMxRW6.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/EUuhsnZXgAMxRW6.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1499",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"899",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/vzeEdLRlC5"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"See drawings from the Art School of San Francisco Bay\u2019s #MangaDrawingClub online at: https://t.co/rqMqJf9PGR #MuseumFromHome @artschoolsfbay https://t.co/vzeEdLRlC5",
+        "id":"1246267513522073601",
+        "id_str":"1246267513522073601",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729308253
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026308,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729308253,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026308,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729308253,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729308253,
-    "wof:lastmodified": 1602193913,
-    "wof:name": "See drawings from the Art School of San Francisco Bay’s #MangaDrawingClub online at: https://t.co/rqMqJf9PGR #MuseumFromHome @artschoolsfbay https://t.co/vzeEdLRlC5",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729308253,
+    "wof:lastmodified":1602634374,
+    "wof:name":"See drawings from the Art School of San Francisco Bay\u2019s #MangaDrawingClub online at: https://t.co/rqMqJf9PGR #MuseumFromHome @artschoolsfbay https://t.co/vzeEdLRlC5",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

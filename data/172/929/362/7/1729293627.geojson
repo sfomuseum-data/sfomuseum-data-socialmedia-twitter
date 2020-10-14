@@ -2,203 +2,202 @@
   "id": 1729293627,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2015-07-23",
-    "date:cessation_upper": "2015-07-23",
-    "date:inception_lower": "2015-07-23",
-    "date:inception_upper": "2015-07-23",
-    "edtf:cessation": "2015-07-23T16:16:49-07:00",
-    "edtf:inception": "2015-07-23T16:16:49-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1437693409,
-      "created_at": "Thu Jul 23 23:16:49 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "124"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "96", 
-              "101"
-            ],
-            "text": "SDCC"
-          }
+    "date:cessation_lower":"2015-07-23",
+    "date:cessation_upper":"2015-07-23",
+    "date:inception_lower":"2015-07-23",
+    "date:inception_upper":"2015-07-23",
+    "edtf:cessation":"2015-07-23T16:16:49-07:00",
+    "edtf:inception":"2015-07-23T16:16:49-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1437693409,
+        "created_at":"Thu Jul 23 23:16:49 +0000 2015",
+        "display_text_range":[
+            "0",
+            "124"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/wxD0bLvTJu",
-            "expanded_url": "https://twitter.com/RoadTrip/status/618717687141634048/photo/1",
-            "id": "618717680057454592",
-            "id_str": "618717680057454592",
-            "indices": [
-              "102", 
-              "124"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "96",
+                        "101"
+                    ],
+                    "text":"SDCC"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CJYgc7AUEAAXqO_.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CJYgc7AUEAAXqO_.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1023"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1023"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "679"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "618717687141634048",
-            "source_status_id_str": "618717687141634048",
-            "source_user_id": "7441122",
-            "source_user_id_str": "7441122",
-            "type": "photo",
-            "url": "http://t.co/wxD0bLvTJu"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "7441122",
-            "id_str": "7441122",
-            "indices": [
-              "3", 
-              "12"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/wxD0bLvTJu",
+                    "expanded_url":"https://twitter.com/RoadTrip/status/618717687141634048/photo/1",
+                    "id":"618717680057454592",
+                    "id_str":"618717680057454592",
+                    "indices":[
+                        "102",
+                        "124"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CJYgc7AUEAAXqO_.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CJYgc7AUEAAXqO_.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"1023"
+                        },
+                        "medium":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"1023"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"679"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"618717687141634048",
+                    "source_status_id_str":"618717687141634048",
+                    "source_user_id":"7441122",
+                    "source_user_id_str":"7441122",
+                    "type":"photo",
+                    "url":"http://t.co/wxD0bLvTJu"
+                }
             ],
-            "name": "Road Trip",
-            "screen_name": "RoadTrip"
-          }, 
-          {
-            "id": "260907612",
-            "id_str": "260907612",
-            "indices": [
-              "65", 
-              "72"
-            ],
-            "name": "United Airlines",
-            "screen_name": "united"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/wxD0bLvTJu",
-            "expanded_url": "https://twitter.com/RoadTrip/status/618717687141634048/photo/1",
-            "id": "618717680057454592",
-            "id_str": "618717680057454592",
-            "indices": [
-              "102", 
-              "124"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CJYgc7AUEAAXqO_.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CJYgc7AUEAAXqO_.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1023"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1023"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "679"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "618717687141634048",
-            "source_status_id_str": "618717687141634048",
-            "source_user_id": "7441122",
-            "source_user_id_str": "7441122",
-            "type": "photo",
-            "url": "http://t.co/wxD0bLvTJu"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @RoadTrip: Art Deco-era airplane shaker and flasks at the SFO @United terminal on the way to #SDCC http://t.co/wxD0bLvTJu",
-      "id": "624357530651639808",
-      "id_str": "624357530651639808",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"7441122",
+                    "id_str":"7441122",
+                    "indices":[
+                        "3",
+                        "12"
+                    ],
+                    "name":"Road Trip",
+                    "screen_name":"RoadTrip"
+                },
+                {
+                    "id":"260907612",
+                    "id_str":"260907612",
+                    "indices":[
+                        "65",
+                        "72"
+                    ],
+                    "name":"United Airlines",
+                    "screen_name":"united"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/wxD0bLvTJu",
+                    "expanded_url":"https://twitter.com/RoadTrip/status/618717687141634048/photo/1",
+                    "id":"618717680057454592",
+                    "id_str":"618717680057454592",
+                    "indices":[
+                        "102",
+                        "124"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CJYgc7AUEAAXqO_.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CJYgc7AUEAAXqO_.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"1023"
+                        },
+                        "medium":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"1023"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"679"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"618717687141634048",
+                    "source_status_id_str":"618717687141634048",
+                    "source_user_id":"7441122",
+                    "source_user_id_str":"7441122",
+                    "type":"photo",
+                    "url":"http://t.co/wxD0bLvTJu"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @RoadTrip: Art Deco-era airplane shaker and flasks at the SFO @United terminal on the way to #SDCC http://t.co/wxD0bLvTJu",
+        "id":"624357530651639808",
+        "id_str":"624357530651639808",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729293627
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025751,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729293627,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025751,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729293627,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729293627,
-    "wof:lastmodified": 1602193904,
-    "wof:name": "RT @RoadTrip: Art Deco-era airplane shaker and flasks at the SFO @United terminal on the way to #SDCC http://t.co/wxD0bLvTJu",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729293627,
+    "wof:lastmodified":1602634455,
+    "wof:name":"RT @RoadTrip: Art Deco-era airplane shaker and flasks at the SFO @United terminal on the way to #SDCC http://t.co/wxD0bLvTJu",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

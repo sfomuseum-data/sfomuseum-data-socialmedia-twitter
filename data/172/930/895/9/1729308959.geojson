@@ -2,98 +2,97 @@
   "id": 1729308959,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2012-03-13",
-    "date:cessation_upper": "2012-03-13",
-    "date:inception_lower": "2012-03-13",
-    "date:inception_upper": "2012-03-13",
-    "edtf:cessation": "2012-03-13T14:45:20-07:00",
-    "edtf:inception": "2012-03-13T14:45:20-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1331675120,
-      "created_at": "Tue Mar 13 21:45:20 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "136"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/A5z1wv",
-            "expanded_url": "http://bit.ly/A5z1wv",
-            "indices": [
-              "116", 
-              "136"
-            ],
-            "url": "http://t.co/wcxycS3s"
-          }
+    "date:cessation_lower":"2012-03-13",
+    "date:cessation_upper":"2012-03-13",
+    "date:inception_lower":"2012-03-13",
+    "date:inception_upper":"2012-03-13",
+    "edtf:cessation":"2012-03-13T14:45:20-07:00",
+    "edtf:inception":"2012-03-13T14:45:20-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1331675120,
+        "created_at":"Tue Mar 13 21:45:20 +0000 2012",
+        "display_text_range":[
+            "0",
+            "136"
         ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "It's tea time! In the 1930s, United Air Lines used lightweight Bakelite serving ware for their \"Mainline\" services. http://t.co/wcxycS3s",
-      "id": "179684596726759425",
-      "id_str": "179684596726759425",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/A5z1wv",
+                    "expanded_url":"http://bit.ly/A5z1wv",
+                    "indices":[
+                        "116",
+                        "136"
+                    ],
+                    "url":"http://t.co/wcxycS3s"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"It's tea time! In the 1930s, United Air Lines used lightweight Bakelite serving ware for their \"Mainline\" services. http://t.co/wcxycS3s",
+        "id":"179684596726759425",
+        "id_str":"179684596726759425",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729308959
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026334,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729308959,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026334,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729308959,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729308959,
-    "wof:lastmodified": 1602193914,
-    "wof:name": "It's tea time! In the 1930s, United Air Lines used lightweight Bakelite serving ware for their \"Mainline\" services. http://t.co/wcxycS3s",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729308959,
+    "wof:lastmodified":1602634253,
+    "wof:name":"It's tea time! In the 1930s, United Air Lines used lightweight Bakelite serving ware for their \"Mainline\" services. http://t.co/wcxycS3s",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

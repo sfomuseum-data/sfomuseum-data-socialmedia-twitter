@@ -2,181 +2,180 @@
   "id": 1729305023,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2018-12-30",
-    "date:cessation_upper": "2018-12-30",
-    "date:inception_lower": "2018-12-30",
-    "date:inception_upper": "2018-12-30",
-    "edtf:cessation": "2018-12-30T12:00:36-08:00",
-    "edtf:inception": "2018-12-30T12:00:36-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1546200036,
-      "created_at": "Sun Dec 30 20:00:36 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "178"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "0", 
-              "15"
-            ],
-            "text": "FirstExposures"
-          }, 
-          {
-            "indices": [
-              "23", 
-              "29"
-            ],
-            "text": "youth"
-          }
+    "date:cessation_lower":"2018-12-30",
+    "date:cessation_upper":"2018-12-30",
+    "date:inception_lower":"2018-12-30",
+    "date:inception_upper":"2018-12-30",
+    "edtf:cessation":"2018-12-30T12:00:36-08:00",
+    "edtf:inception":"2018-12-30T12:00:36-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1546200036,
+        "created_at":"Sun Dec 30 20:00:36 +0000 2018",
+        "display_text_range":[
+            "0",
+            "178"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/SmQnOXt52E",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1079467308005969920/photo/1",
-            "id": "1079467306063986689",
-            "id_str": "1079467306063986689",
-            "indices": [
-              "155", 
-              "178"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "0",
+                        "15"
+                    ],
+                    "text":"FirstExposures"
+                },
+                {
+                    "indices":[
+                        "23",
+                        "29"
+                    ],
+                    "text":"youth"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DvsJy6yXgAE0m6g.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DvsJy6yXgAE0m6g.jpg",
-            "sizes": {
-              "large": {
-                "h": "1333",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "800",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/SmQnOXt52E"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/SmQnOXt52E",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1079467308005969920/photo/1",
-            "id": "1079467306063986689",
-            "id_str": "1079467306063986689",
-            "indices": [
-              "155", 
-              "178"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/SmQnOXt52E",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1079467308005969920/photo/1",
+                    "id":"1079467306063986689",
+                    "id_str":"1079467306063986689",
+                    "indices":[
+                        "155",
+                        "178"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DvsJy6yXgAE0m6g.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DvsJy6yXgAE0m6g.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1333",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"800",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/SmQnOXt52E"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DvsJy6yXgAE0m6g.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DvsJy6yXgAE0m6g.jpg",
-            "sizes": {
-              "large": {
-                "h": "1333",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "800",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/SmQnOXt52E"
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "#FirstExposures serves #youth ages 11 to 18 and provides a venue for them to enhance self-confidence, develop creativity, and gain a passion for learning. https://t.co/SmQnOXt52E",
-      "id": "1079467308005969920",
-      "id_str": "1079467308005969920",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/SmQnOXt52E",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1079467308005969920/photo/1",
+                    "id":"1079467306063986689",
+                    "id_str":"1079467306063986689",
+                    "indices":[
+                        "155",
+                        "178"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DvsJy6yXgAE0m6g.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DvsJy6yXgAE0m6g.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1333",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"800",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/SmQnOXt52E"
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"#FirstExposures serves #youth ages 11 to 18 and provides a venue for them to enhance self-confidence, develop creativity, and gain a passion for learning. https://t.co/SmQnOXt52E",
+        "id":"1079467308005969920",
+        "id_str":"1079467308005969920",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729305023
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026184,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729305023,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026184,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729305023,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729305023,
-    "wof:lastmodified": 1602193911,
-    "wof:name": "#FirstExposures serves #youth ages 11 to 18 and provides a venue for them to enhance self-confidence, develop creativity, and gain a passion for learning. https://t.co/SmQnOXt52E",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729305023,
+    "wof:lastmodified":1602634196,
+    "wof:name":"#FirstExposures serves #youth ages 11 to 18 and provides a venue for them to enhance self-confidence, develop creativity, and gain a passion for learning. https://t.co/SmQnOXt52E",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

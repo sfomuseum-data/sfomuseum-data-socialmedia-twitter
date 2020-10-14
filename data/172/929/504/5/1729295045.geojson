@@ -2,224 +2,223 @@
   "id": 1729295045,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2016-01-19",
-    "date:cessation_upper": "2016-01-19",
-    "date:inception_lower": "2016-01-19",
-    "date:inception_upper": "2016-01-19",
-    "edtf:cessation": "2016-01-19T09:51:09-08:00",
-    "edtf:inception": "2016-01-19T09:51:09-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1453225869,
-      "created_at": "Tue Jan 19 17:51:09 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "97"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "13", 
-              "19"
-            ],
-            "text": "Pixar"
-          }, 
-          {
-            "indices": [
-              "20", 
-              "29"
-            ],
-            "text": "ToyStory"
-          }, 
-          {
-            "indices": [
-              "51", 
-              "55"
-            ],
-            "text": "SFO"
-          }, 
-          {
-            "indices": [
-              "56", 
-              "62"
-            ],
-            "text": "Woody"
-          }
+    "date:cessation_lower":"2016-01-19",
+    "date:cessation_upper":"2016-01-19",
+    "date:inception_lower":"2016-01-19",
+    "date:inception_upper":"2016-01-19",
+    "edtf:cessation":"2016-01-19T09:51:09-08:00",
+    "edtf:inception":"2016-01-19T09:51:09-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1453225869,
+        "created_at":"Tue Jan 19 17:51:09 +0000 2016",
+        "display_text_range":[
+            "0",
+            "97"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/fFze1ZN3oG",
-            "expanded_url": "https://twitter.com/sfo1977/status/688779913743056898/photo/1",
-            "id": "688779913050996737",
-            "id_str": "688779913050996737",
-            "indices": [
-              "74", 
-              "97"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "13",
+                        "19"
+                    ],
+                    "text":"Pixar"
+                },
+                {
+                    "indices":[
+                        "20",
+                        "29"
+                    ],
+                    "text":"ToyStory"
+                },
+                {
+                    "indices":[
+                        "51",
+                        "55"
+                    ],
+                    "text":"SFO"
+                },
+                {
+                    "indices":[
+                        "56",
+                        "62"
+                    ],
+                    "text":"Woody"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CY8Jrn3UQAEnSU9.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CY8Jrn3UQAEnSU9.jpg",
-            "sizes": {
-              "large": {
-                "h": "1536",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "900",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "688779913743056898",
-            "source_status_id_str": "688779913743056898",
-            "source_user_id": "2200431649",
-            "source_user_id_str": "2200431649",
-            "type": "photo",
-            "url": "https://t.co/fFze1ZN3oG"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "2200431649",
-            "id_str": "2200431649",
-            "indices": [
-              "3", 
-              "11"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/fFze1ZN3oG",
+                    "expanded_url":"https://twitter.com/sfo1977/status/688779913743056898/photo/1",
+                    "id":"688779913050996737",
+                    "id_str":"688779913050996737",
+                    "indices":[
+                        "74",
+                        "97"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CY8Jrn3UQAEnSU9.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CY8Jrn3UQAEnSU9.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1536",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"900",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"688779913743056898",
+                    "source_status_id_str":"688779913743056898",
+                    "source_user_id":"2200431649",
+                    "source_user_id_str":"2200431649",
+                    "type":"photo",
+                    "url":"https://t.co/fFze1ZN3oG"
+                }
             ],
-            "name": "SFO Traveler",
-            "screen_name": "sfo1977"
-          }, 
-          {
-            "id": "116329337",
-            "id_str": "116329337",
-            "indices": [
-              "63", 
-              "73"
-            ],
-            "name": "SFO Museum",
-            "screen_name": "SFOMuseum"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/fFze1ZN3oG",
-            "expanded_url": "https://twitter.com/sfo1977/status/688779913743056898/photo/1",
-            "id": "688779913050996737",
-            "id_str": "688779913050996737",
-            "indices": [
-              "74", 
-              "97"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CY8Jrn3UQAEnSU9.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CY8Jrn3UQAEnSU9.jpg",
-            "sizes": {
-              "large": {
-                "h": "1536",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "900",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "688779913743056898",
-            "source_status_id_str": "688779913743056898",
-            "source_user_id": "2200431649",
-            "source_user_id_str": "2200431649",
-            "type": "photo",
-            "url": "https://t.co/fFze1ZN3oG"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @sfo1977: #Pixar #ToyStory at Twenty Exhibit at #SFO #Woody @SFOMuseum https://t.co/fFze1ZN3oG",
-      "id": "689505385980399616",
-      "id_str": "689505385980399616",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"2200431649",
+                    "id_str":"2200431649",
+                    "indices":[
+                        "3",
+                        "11"
+                    ],
+                    "name":"SFO Traveler",
+                    "screen_name":"sfo1977"
+                },
+                {
+                    "id":"116329337",
+                    "id_str":"116329337",
+                    "indices":[
+                        "63",
+                        "73"
+                    ],
+                    "name":"SFO Museum",
+                    "screen_name":"SFOMuseum"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/fFze1ZN3oG",
+                    "expanded_url":"https://twitter.com/sfo1977/status/688779913743056898/photo/1",
+                    "id":"688779913050996737",
+                    "id_str":"688779913050996737",
+                    "indices":[
+                        "74",
+                        "97"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CY8Jrn3UQAEnSU9.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CY8Jrn3UQAEnSU9.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1536",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"900",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"688779913743056898",
+                    "source_status_id_str":"688779913743056898",
+                    "source_user_id":"2200431649",
+                    "source_user_id_str":"2200431649",
+                    "type":"photo",
+                    "url":"https://t.co/fFze1ZN3oG"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @sfo1977: #Pixar #ToyStory at Twenty Exhibit at #SFO #Woody @SFOMuseum https://t.co/fFze1ZN3oG",
+        "id":"689505385980399616",
+        "id_str":"689505385980399616",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729295045
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025805,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729295045,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025805,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729295045,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729295045,
-    "wof:lastmodified": 1602193905,
-    "wof:name": "RT @sfo1977: #Pixar #ToyStory at Twenty Exhibit at #SFO #Woody @SFOMuseum https://t.co/fFze1ZN3oG",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729295045,
+    "wof:lastmodified":1602634471,
+    "wof:name":"RT @sfo1977: #Pixar #ToyStory at Twenty Exhibit at #SFO #Woody @SFOMuseum https://t.co/fFze1ZN3oG",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

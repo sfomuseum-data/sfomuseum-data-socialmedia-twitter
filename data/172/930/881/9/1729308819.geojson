@@ -2,181 +2,180 @@
   "id": 1729308819,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2020-09-15",
-    "date:cessation_upper": "2020-09-15",
-    "date:inception_lower": "2020-09-15",
-    "date:inception_upper": "2020-09-15",
-    "edtf:cessation": "2020-09-15T16:15:03-07:00",
-    "edtf:inception": "2020-09-15T16:15:03-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1600211703,
-      "created_at": "Tue Sep 15 23:15:03 +0000 2020",
-      "display_text_range": [
-        "0", 
-        "276"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "225", 
-              "240"
-            ],
-            "text": "MuseumFromHome"
-          }, 
-          {
-            "indices": [
-              "241", 
-              "252"
-            ],
-            "text": "SFOHistory"
-          }
+    "date:cessation_lower":"2020-09-15",
+    "date:cessation_upper":"2020-09-15",
+    "date:inception_lower":"2020-09-15",
+    "date:inception_upper":"2020-09-15",
+    "edtf:cessation":"2020-09-15T16:15:03-07:00",
+    "edtf:inception":"2020-09-15T16:15:03-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1600211703,
+        "created_at":"Tue Sep 15 23:15:03 +0000 2020",
+        "display_text_range":[
+            "0",
+            "276"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/8SzFz1cVOl",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1306008661358239751/photo/1",
-            "id": "1306008657436512256",
-            "id_str": "1306008657436512256",
-            "indices": [
-              "253", 
-              "276"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "225",
+                        "240"
+                    ],
+                    "text":"MuseumFromHome"
+                },
+                {
+                    "indices":[
+                        "241",
+                        "252"
+                    ],
+                    "text":"SFOHistory"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Eh_f9FQWkAAckzm.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Eh_f9FQWkAAckzm.jpg",
-            "sizes": {
-              "large": {
-                "h": "1584",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "950",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "539",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/8SzFz1cVOl"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/8SzFz1cVOl",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1306008661358239751/photo/1",
-            "id": "1306008657436512256",
-            "id_str": "1306008657436512256",
-            "indices": [
-              "253", 
-              "276"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/8SzFz1cVOl",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1306008661358239751/photo/1",
+                    "id":"1306008657436512256",
+                    "id_str":"1306008657436512256",
+                    "indices":[
+                        "253",
+                        "276"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Eh_f9FQWkAAckzm.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Eh_f9FQWkAAckzm.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1584",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"950",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"539",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/8SzFz1cVOl"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Eh_f9FQWkAAckzm.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Eh_f9FQWkAAckzm.jpg",
-            "sizes": {
-              "large": {
-                "h": "1584",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "950",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "539",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/8SzFz1cVOl"
-          }
-        ]
-      },
-      "favorite_count": "9",
-      "favorited": false,
-      "full_text": "On September 15, 1963, the South Terminal (now Harvey Milk Terminal 1) was dedicated at San Francisco International Airport. This was the first major addition since the Central Terminal (now Terminal 2) was completed in 1954.#MuseumFromHome #SFOHistory https://t.co/8SzFz1cVOl",
-      "id": "1306008661358239751",
-      "id_str": "1306008661358239751",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "2",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/8SzFz1cVOl",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1306008661358239751/photo/1",
+                    "id":"1306008657436512256",
+                    "id_str":"1306008657436512256",
+                    "indices":[
+                        "253",
+                        "276"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Eh_f9FQWkAAckzm.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Eh_f9FQWkAAckzm.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1584",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"950",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"539",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/8SzFz1cVOl"
+                }
+            ]
+        },
+        "favorite_count":"9",
+        "favorited":false,
+        "full_text":"On September 15, 1963, the South Terminal (now Harvey Milk Terminal 1) was dedicated at San Francisco International Airport. This was the first major addition since the Central Terminal (now Terminal 2) was completed in 1954.#MuseumFromHome #SFOHistory https://t.co/8SzFz1cVOl",
+        "id":"1306008661358239751",
+        "id_str":"1306008661358239751",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"2",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729308819
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026329,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729308819,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026329,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729308819,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729308819,
-    "wof:lastmodified": 1602193914,
-    "wof:name": "On September 15, 1963, the South Terminal (now Harvey Milk Terminal 1) was dedicated at San Francisco International Airport. This was the first major addition since the Central Terminal (now Terminal 2) was completed in 1954.#MuseumFromHome #SFOHistory https://t.co/8SzFz1cVOl",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729308819,
+    "wof:lastmodified":1602634243,
+    "wof:name":"On September 15, 1963, the South Terminal (now Harvey Milk Terminal 1) was dedicated at San Francisco International Airport. This was the first major addition since the Central Terminal (now Terminal 2) was completed in 1954.#MuseumFromHome #SFOHistory https://t.co/8SzFz1cVOl",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,98 +2,97 @@
   "id": 1729291337,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2013-12-18",
-    "date:cessation_upper": "2013-12-18",
-    "date:inception_lower": "2013-12-18",
-    "date:inception_upper": "2013-12-18",
-    "edtf:cessation": "2013-12-18T14:14:10-08:00",
-    "edtf:inception": "2013-12-18T14:14:10-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1387404850,
-      "created_at": "Wed Dec 18 22:14:10 +0000 2013",
-      "display_text_range": [
-        "0", 
-        "144"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/rTNGA",
-            "expanded_url": "http://ow.ly/rTNGA",
-            "indices": [
-              "122", 
-              "144"
-            ],
-            "url": "http://t.co/S0xzspWTii"
-          }
+    "date:cessation_lower":"2013-12-18",
+    "date:cessation_upper":"2013-12-18",
+    "date:inception_lower":"2013-12-18",
+    "date:inception_upper":"2013-12-18",
+    "edtf:cessation":"2013-12-18T14:14:10-08:00",
+    "edtf:inception":"2013-12-18T14:14:10-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1387404850,
+        "created_at":"Wed Dec 18 22:14:10 +0000 2013",
+        "display_text_range":[
+            "0",
+            "144"
         ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "We have a new photo exhibit! Kenneth Leaf's B\u0026amp;W images from Sutro Baths capture haunting coastal beauty. View online: http://t.co/S0xzspWTii",
-      "id": "413432023156797440",
-      "id_str": "413432023156797440",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "3",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/rTNGA",
+                    "expanded_url":"http://ow.ly/rTNGA",
+                    "indices":[
+                        "122",
+                        "144"
+                    ],
+                    "url":"http://t.co/S0xzspWTii"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"We have a new photo exhibit! Kenneth Leaf's B&amp;W images from Sutro Baths capture haunting coastal beauty. View online: http://t.co/S0xzspWTii",
+        "id":"413432023156797440",
+        "id_str":"413432023156797440",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"3",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729291337
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025667,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729291337,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025667,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729291337,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729291337,
-    "wof:lastmodified": 1602193903,
-    "wof:name": "We have a new photo exhibit! Kenneth Leaf's B\u0026amp;W images from Sutro Baths capture haunting coastal beauty. View online: http://t.co/S0xzspWTii",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729291337,
+    "wof:lastmodified":1602634466,
+    "wof:name":"We have a new photo exhibit! Kenneth Leaf's B&amp;W images from Sutro Baths capture haunting coastal beauty. View online: http://t.co/S0xzspWTii",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

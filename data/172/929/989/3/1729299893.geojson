@@ -2,181 +2,180 @@
   "id": 1729299893,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2017-04-03",
-    "date:cessation_upper": "2017-04-03",
-    "date:inception_lower": "2017-04-03",
-    "date:inception_upper": "2017-04-03",
-    "edtf:cessation": "2017-04-03T18:00:15-07:00",
-    "edtf:inception": "2017-04-03T18:00:15-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1491267615,
-      "created_at": "Tue Apr 04 01:00:15 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "168"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "116", 
-              "127"
-            ],
-            "text": "EdithHeath"
-          }, 
-          {
-            "indices": [
-              "128", 
-              "144"
-            ],
-            "text": "AModernApproach"
-          }
+    "date:cessation_lower":"2017-04-03",
+    "date:cessation_upper":"2017-04-03",
+    "date:inception_lower":"2017-04-03",
+    "date:inception_upper":"2017-04-03",
+    "edtf:cessation":"2017-04-03T18:00:15-07:00",
+    "edtf:inception":"2017-04-03T18:00:15-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1491267615,
+        "created_at":"Tue Apr 04 01:00:15 +0000 2017",
+        "display_text_range":[
+            "0",
+            "168"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/5pxgAeyv4h",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/849064035026915328/photo/1",
-            "id": "849064027502374912",
-            "id_str": "849064027502374912",
-            "indices": [
-              "145", 
-              "168"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "116",
+                        "127"
+                    ],
+                    "text":"EdithHeath"
+                },
+                {
+                    "indices":[
+                        "128",
+                        "144"
+                    ],
+                    "text":"AModernApproach"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/C8h7PAbXcAANuM4.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C8h7PAbXcAANuM4.jpg",
-            "sizes": {
-              "large": {
-                "h": "1473",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "884",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "501",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/5pxgAeyv4h"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/5pxgAeyv4h",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/849064035026915328/photo/1",
-            "id": "849064027502374912",
-            "id_str": "849064027502374912",
-            "indices": [
-              "145", 
-              "168"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/5pxgAeyv4h",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/849064035026915328/photo/1",
+                    "id":"849064027502374912",
+                    "id_str":"849064027502374912",
+                    "indices":[
+                        "145",
+                        "168"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C8h7PAbXcAANuM4.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C8h7PAbXcAANuM4.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1473",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"884",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"501",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/5pxgAeyv4h"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/C8h7PAbXcAANuM4.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C8h7PAbXcAANuM4.jpg",
-            "sizes": {
-              "large": {
-                "h": "1473",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "884",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "501",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/5pxgAeyv4h"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "\"I wanted to do something that was as nice to use \u0026amp; as beautiful for everyday use as it was for Sunday’s best.” #EdithHeath #AModernApproach https://t.co/5pxgAeyv4h",
-      "id": "849064035026915328",
-      "id_str": "849064035026915328",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "2",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/5pxgAeyv4h",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/849064035026915328/photo/1",
+                    "id":"849064027502374912",
+                    "id_str":"849064027502374912",
+                    "indices":[
+                        "145",
+                        "168"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C8h7PAbXcAANuM4.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C8h7PAbXcAANuM4.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1473",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"884",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"501",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/5pxgAeyv4h"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"\"I wanted to do something that was as nice to use &amp; as beautiful for everyday use as it was for Sunday\u2019s best.\u201d #EdithHeath #AModernApproach https://t.co/5pxgAeyv4h",
+        "id":"849064035026915328",
+        "id_str":"849064035026915328",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"2",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729299893
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025990,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729299893,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025990,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729299893,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729299893,
-    "wof:lastmodified": 1602193908,
-    "wof:name": "\"I wanted to do something that was as nice to use \u0026amp; as beautiful for everyday use as it was for Sunday’s best.” #EdithHeath #AModernApproach https://t.co/5pxgAeyv4h",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729299893,
+    "wof:lastmodified":1602634689,
+    "wof:name":"\"I wanted to do something that was as nice to use &amp; as beautiful for everyday use as it was for Sunday\u2019s best.\u201d #EdithHeath #AModernApproach https://t.co/5pxgAeyv4h",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

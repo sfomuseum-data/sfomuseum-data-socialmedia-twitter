@@ -2,188 +2,187 @@
   "id": 1729304119,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2018-09-07",
-    "date:cessation_upper": "2018-09-07",
-    "date:inception_lower": "2018-09-07",
-    "date:inception_upper": "2018-09-07",
-    "edtf:cessation": "2018-09-07T19:45:04-07:00",
-    "edtf:inception": "2018-09-07T19:45:04-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1536374704,
-      "created_at": "Sat Sep 08 02:45:04 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "279"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "79", 
-              "95"
-            ],
-            "text": "ArhoolieRecords"
-          }, 
-          {
-            "indices": [
-              "228", 
-              "244"
-            ],
-            "text": "behindthescenes"
-          }, 
-          {
-            "indices": [
-              "245", 
-              "255"
-            ],
-            "text": "sneakpeek"
-          }
+    "date:cessation_lower":"2018-09-07",
+    "date:cessation_upper":"2018-09-07",
+    "date:inception_lower":"2018-09-07",
+    "date:inception_upper":"2018-09-07",
+    "edtf:cessation":"2018-09-07T19:45:04-07:00",
+    "edtf:inception":"2018-09-07T19:45:04-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1536374704,
+        "created_at":"Sat Sep 08 02:45:04 +0000 2018",
+        "display_text_range":[
+            "0",
+            "279"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/XKwYIoXzsM",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1038256881096171521/photo/1",
-            "id": "1038256878508273669",
-            "id_str": "1038256878508273669",
-            "indices": [
-              "256", 
-              "279"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "79",
+                        "95"
+                    ],
+                    "text":"ArhoolieRecords"
+                },
+                {
+                    "indices":[
+                        "228",
+                        "244"
+                    ],
+                    "text":"behindthescenes"
+                },
+                {
+                    "indices":[
+                        "245",
+                        "255"
+                    ],
+                    "text":"sneakpeek"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DmihIU0XcAUjp4E.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DmihIU0XcAUjp4E.jpg",
-            "sizes": {
-              "large": {
-                "h": "1500",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "900",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/XKwYIoXzsM"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/XKwYIoXzsM",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1038256881096171521/photo/1",
-            "id": "1038256878508273669",
-            "id_str": "1038256878508273669",
-            "indices": [
-              "256", 
-              "279"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/XKwYIoXzsM",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1038256881096171521/photo/1",
+                    "id":"1038256878508273669",
+                    "id_str":"1038256878508273669",
+                    "indices":[
+                        "256",
+                        "279"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DmihIU0XcAUjp4E.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DmihIU0XcAUjp4E.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1500",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"900",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/XKwYIoXzsM"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DmihIU0XcAUjp4E.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DmihIU0XcAUjp4E.jpg",
-            "sizes": {
-              "large": {
-                "h": "1500",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "900",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/XKwYIoXzsM"
-          }
-        ]
-      },
-      "favorite_count": "6",
-      "favorited": false,
-      "full_text": "What's going on in the museum? We're getting ready for our upcoming exhibit on #ArhoolieRecords. In the meantime, these posters are being stored in flat files that keep out light and dust, in secure, climate-controlled storage. #behindthescenes #sneakpeek https://t.co/XKwYIoXzsM",
-      "id": "1038256881096171521",
-      "id_str": "1038256881096171521",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "2",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/XKwYIoXzsM",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1038256881096171521/photo/1",
+                    "id":"1038256878508273669",
+                    "id_str":"1038256878508273669",
+                    "indices":[
+                        "256",
+                        "279"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DmihIU0XcAUjp4E.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DmihIU0XcAUjp4E.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1500",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"900",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/XKwYIoXzsM"
+                }
+            ]
+        },
+        "favorite_count":"6",
+        "favorited":false,
+        "full_text":"What's going on in the museum? We're getting ready for our upcoming exhibit on #ArhoolieRecords. In the meantime, these posters are being stored in flat files that keep out light and dust, in secure, climate-controlled storage. #behindthescenes #sneakpeek https://t.co/XKwYIoXzsM",
+        "id":"1038256881096171521",
+        "id_str":"1038256881096171521",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"2",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729304119
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026151,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729304119,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026151,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729304119,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729304119,
-    "wof:lastmodified": 1602193911,
-    "wof:name": "What's going on in the museum? We're getting ready for our upcoming exhibit on #ArhoolieRecords. In the meantime, these posters are being stored in flat files that keep out light and dust, in secure, climate-controlled storage. #behindthescenes #sneakpeek https://t.co/XKwYIoXzsM",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729304119,
+    "wof:lastmodified":1602634362,
+    "wof:name":"What's going on in the museum? We're getting ready for our upcoming exhibit on #ArhoolieRecords. In the meantime, these posters are being stored in flat files that keep out light and dust, in secure, climate-controlled storage. #behindthescenes #sneakpeek https://t.co/XKwYIoXzsM",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

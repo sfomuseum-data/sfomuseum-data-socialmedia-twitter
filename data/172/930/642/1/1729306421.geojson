@@ -2,195 +2,194 @@
   "id": 1729306421,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-06-24",
-    "date:cessation_upper": "2019-06-24",
-    "date:inception_lower": "2019-06-24",
-    "date:inception_upper": "2019-06-24",
-    "edtf:cessation": "2019-06-24T19:35:03-07:00",
-    "edtf:inception": "2019-06-24T19:35:03-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1561430103,
-      "created_at": "Tue Jun 25 02:35:03 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "292"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "248", 
-              "261"
-            ],
-            "text": "museummonday"
-          }
+    "date:cessation_lower":"2019-06-24",
+    "date:cessation_upper":"2019-06-24",
+    "date:inception_lower":"2019-06-24",
+    "date:inception_upper":"2019-06-24",
+    "edtf:cessation":"2019-06-24T19:35:03-07:00",
+    "edtf:inception":"2019-06-24T19:35:03-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1561430103,
+        "created_at":"Tue Jun 25 02:35:03 +0000 2019",
+        "display_text_range":[
+            "0",
+            "292"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/UrhborPOfC",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1143346840382902272/photo/1",
-            "id": "1143346837841166336",
-            "id_str": "1143346837841166336",
-            "indices": [
-              "269", 
-              "292"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "248",
+                        "261"
+                    ],
+                    "text":"museummonday"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/D9375CyWwAAn0Ic.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/D9375CyWwAAn0Ic.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1500"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "900"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/UrhborPOfC"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/2KAJciU",
-            "expanded_url": "http://bit.ly/2KAJciU",
-            "indices": [
-              "224", 
-              "247"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/UrhborPOfC",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1143346840382902272/photo/1",
+                    "id":"1143346837841166336",
+                    "id_str":"1143346837841166336",
+                    "indices":[
+                        "269",
+                        "292"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/D9375CyWwAAn0Ic.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/D9375CyWwAAn0Ic.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1500"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"900"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/UrhborPOfC"
+                }
             ],
-            "url": "https://t.co/WITQT64iYi"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "18958334",
-            "id_str": "18958334",
-            "indices": [
-              "263", 
-              "268"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/2KAJciU",
+                    "expanded_url":"http://bit.ly/2KAJciU",
+                    "indices":[
+                        "224",
+                        "247"
+                    ],
+                    "url":"https://t.co/WITQT64iYi"
+                }
             ],
-            "name": "SF Arts Commission",
-            "screen_name": "SFAC"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/UrhborPOfC",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1143346840382902272/photo/1",
-            "id": "1143346837841166336",
-            "id_str": "1143346837841166336",
-            "indices": [
-              "269", 
-              "292"
-            ],
-            "media_url": "http://pbs.twimg.com/media/D9375CyWwAAn0Ic.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/D9375CyWwAAn0Ic.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1500"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "900"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/UrhborPOfC"
-          }
-        ]
-      },
-      "favorite_count": "5",
-      "favorited": false,
-      "full_text": "Did you know that 2% of the budget of civic construction projects in SF goes towards funding public art? The new Harvey Milk Terminal 1 will have several new works of art installed including this tile mosaic by Jason Jägel. https://t.co/WITQT64iYi #museummonday  @SFAC https://t.co/UrhborPOfC",
-      "id": "1143346840382902272",
-      "id_str": "1143346840382902272",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "4",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"18958334",
+                    "id_str":"18958334",
+                    "indices":[
+                        "263",
+                        "268"
+                    ],
+                    "name":"SF Arts Commission",
+                    "screen_name":"SFAC"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/UrhborPOfC",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1143346840382902272/photo/1",
+                    "id":"1143346837841166336",
+                    "id_str":"1143346837841166336",
+                    "indices":[
+                        "269",
+                        "292"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/D9375CyWwAAn0Ic.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/D9375CyWwAAn0Ic.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1500"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"900"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/UrhborPOfC"
+                }
+            ]
+        },
+        "favorite_count":"5",
+        "favorited":false,
+        "full_text":"Did you know that 2% of the budget of civic construction projects in SF goes towards funding public art? The new Harvey Milk Terminal 1 will have several new works of art installed including this tile mosaic by Jason J\u00e4gel. https://t.co/WITQT64iYi #museummonday  @SFAC https://t.co/UrhborPOfC",
+        "id":"1143346840382902272",
+        "id_str":"1143346840382902272",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"4",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729306421
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026238,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729306421,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026238,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729306421,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729306421,
-    "wof:lastmodified": 1602193912,
-    "wof:name": "Did you know that 2% of the budget of civic construction projects in SF goes towards funding public art? The new Harvey Milk Terminal 1 will have several new works of art installed including this tile mosaic by Jason Jägel. https://t.co/WITQT64iYi #museummonday  @SFAC https://t.co/UrhborPOfC",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729306421,
+    "wof:lastmodified":1602634236,
+    "wof:name":"Did you know that 2% of the budget of civic construction projects in SF goes towards funding public art? The new Harvey Milk Terminal 1 will have several new works of art installed including this tile mosaic by Jason J\u00e4gel. https://t.co/WITQT64iYi #museummonday  @SFAC https://t.co/UrhborPOfC",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

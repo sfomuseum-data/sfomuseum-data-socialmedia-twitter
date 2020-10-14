@@ -2,119 +2,118 @@
   "id": 1729310939,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2012-10-29",
-    "date:cessation_upper": "2012-10-29",
-    "date:inception_lower": "2012-10-29",
-    "date:inception_upper": "2012-10-29",
-    "edtf:cessation": "2012-10-29T17:01:02-07:00",
-    "edtf:inception": "2012-10-29T17:01:02-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1351555262,
-      "created_at": "Tue Oct 30 00:01:02 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "136"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "youtu.be/f4CizzE-zZo",
-            "expanded_url": "http://youtu.be/f4CizzE-zZo",
-            "indices": [
-              "8", 
-              "28"
-            ],
-            "url": "http://t.co/vbrXZI6k"
-          }
+    "date:cessation_lower":"2012-10-29",
+    "date:cessation_upper":"2012-10-29",
+    "date:inception_lower":"2012-10-29",
+    "date:inception_upper":"2012-10-29",
+    "edtf:cessation":"2012-10-29T17:01:02-07:00",
+    "edtf:inception":"2012-10-29T17:01:02-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1351555262,
+        "created_at":"Tue Oct 30 00:01:02 +0000 2012",
+        "display_text_range":[
+            "0",
+            "136"
         ],
-        "user_mentions": [
-          {
-            "id": "60958756",
-            "id_str": "60958756",
-            "indices": [
-              "32", 
-              "44"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"youtu.be/f4CizzE-zZo",
+                    "expanded_url":"http://youtu.be/f4CizzE-zZo",
+                    "indices":[
+                        "8",
+                        "28"
+                    ],
+                    "url":"http://t.co/vbrXZI6k"
+                }
             ],
-            "name": "TrustGorton",
-            "screen_name": "TrustGorton"
-          }, 
-          {
-            "id": "116329337",
-            "id_str": "116329337",
-            "indices": [
-              "46", 
-              "56"
-            ],
-            "name": "SFO Museum",
-            "screen_name": "SFOMuseum"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Indeed! http://t.co/vbrXZI6k RT @TrustGorton: @SFOMuseum I remember the day when Krishna \u0026amp; airports meant a whole different thing...",
-      "id": "263067956093800448",
-      "id_str": "263067956093800448",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"60958756",
+                    "id_str":"60958756",
+                    "indices":[
+                        "32",
+                        "44"
+                    ],
+                    "name":"TrustGorton",
+                    "screen_name":"TrustGorton"
+                },
+                {
+                    "id":"116329337",
+                    "id_str":"116329337",
+                    "indices":[
+                        "46",
+                        "56"
+                    ],
+                    "name":"SFO Museum",
+                    "screen_name":"SFOMuseum"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Indeed! http://t.co/vbrXZI6k RT @TrustGorton: @SFOMuseum I remember the day when Krishna &amp; airports meant a whole different thing...",
+        "id":"263067956093800448",
+        "id_str":"263067956093800448",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729310939
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026412,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729310939,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026412,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729310939,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729310939,
-    "wof:lastmodified": 1602193915,
-    "wof:name": "Indeed! http://t.co/vbrXZI6k RT @TrustGorton: @SFOMuseum I remember the day when Krishna \u0026amp; airports meant a whole different thing...",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729310939,
+    "wof:lastmodified":1602634175,
+    "wof:name":"Indeed! http://t.co/vbrXZI6k RT @TrustGorton: @SFOMuseum I remember the day when Krishna &amp; airports meant a whole different thing...",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

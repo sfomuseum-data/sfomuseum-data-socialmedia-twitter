@@ -2,147 +2,146 @@
   "id": 1729295971,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2011-12-02",
-    "date:cessation_upper": "2011-12-02",
-    "date:inception_lower": "2011-12-02",
-    "date:inception_upper": "2011-12-02",
-    "edtf:cessation": "2011-12-02T19:41:24-08:00",
-    "edtf:inception": "2011-12-02T19:41:24-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1322883684,
-      "created_at": "Sat Dec 03 03:41:24 +0000 2011",
-      "display_text_range": [
-        "0", 
-        "100"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "53", 
-              "60"
-            ],
-            "text": "isport"
-          }, 
-          {
-            "indices": [
-              "61", 
-              "69"
-            ],
-            "text": "monster"
-          }, 
-          {
-            "indices": [
-              "70", 
-              "77"
-            ],
-            "text": "SFOgig"
-          }, 
-          {
-            "indices": [
-              "87", 
-              "100"
-            ],
-            "text": "thatswhatsup"
-          }
+    "date:cessation_lower":"2011-12-02",
+    "date:cessation_upper":"2011-12-02",
+    "date:inception_lower":"2011-12-02",
+    "date:inception_upper":"2011-12-02",
+    "edtf:cessation":"2011-12-02T19:41:24-08:00",
+    "edtf:inception":"2011-12-02T19:41:24-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1322883684,
+        "created_at":"Sat Dec 03 03:41:24 +0000 2011",
+        "display_text_range":[
+            "0",
+            "100"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "25165865",
-            "id_str": "25165865",
-            "indices": [
-              "3", 
-              "16"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "53",
+                        "60"
+                    ],
+                    "text":"isport"
+                },
+                {
+                    "indices":[
+                        "61",
+                        "69"
+                    ],
+                    "text":"monster"
+                },
+                {
+                    "indices":[
+                        "70",
+                        "77"
+                    ],
+                    "text":"SFOgig"
+                },
+                {
+                    "indices":[
+                        "87",
+                        "100"
+                    ],
+                    "text":"thatswhatsup"
+                }
             ],
-            "name": "flava (ღ˘⌣˘ღ) ♫",
-            "screen_name": "flavavicious"
-          }, 
-          {
-            "id": "537683659",
-            "id_str": "537683659",
-            "indices": [
-              "39", 
-              "52"
-            ],
-            "name": "Monster Products",
-            "screen_name": "MonsterCable"
-          }, 
-          {
-            "id": "21543254",
-            "id_str": "21543254",
-            "indices": [
-              "78", 
-              "86"
-            ],
-            "name": "DJ Q*BERT",
-            "screen_name": "DJQbert"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @flavavicious: Okay, one more time: @monstercable #isport #monster #SFOgig @djqbert #thatswhatsup",
-      "id": "142810639511982081",
-      "id_str": "142810639511982081",
-      "lang": "en",
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"25165865",
+                    "id_str":"25165865",
+                    "indices":[
+                        "3",
+                        "16"
+                    ],
+                    "name":"flava (\u10e6\u02d8\u2323\u02d8\u10e6) \u266b",
+                    "screen_name":"flavavicious"
+                },
+                {
+                    "id":"537683659",
+                    "id_str":"537683659",
+                    "indices":[
+                        "39",
+                        "52"
+                    ],
+                    "name":"Monster Products",
+                    "screen_name":"MonsterCable"
+                },
+                {
+                    "id":"21543254",
+                    "id_str":"21543254",
+                    "indices":[
+                        "78",
+                        "86"
+                    ],
+                    "name":"DJ Q*BERT",
+                    "screen_name":"DJQbert"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @flavavicious: Okay, one more time: @monstercable #isport #monster #SFOgig @djqbert #thatswhatsup",
+        "id":"142810639511982081",
+        "id_str":"142810639511982081",
+        "lang":"en",
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729295971
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025840,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729295971,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025840,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729295971,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729295971,
-    "wof:lastmodified": 1602193906,
-    "wof:name": "RT @flavavicious: Okay, one more time: @monstercable #isport #monster #SFOgig @djqbert #thatswhatsup",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729295971,
+    "wof:lastmodified":1602634599,
+    "wof:name":"RT @flavavicious: Okay, one more time: @monstercable #isport #monster #SFOgig @djqbert #thatswhatsup",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

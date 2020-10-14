@@ -2,212 +2,211 @@
   "id": 1729304863,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2018-12-05",
-    "date:cessation_upper": "2018-12-05",
-    "date:inception_lower": "2018-12-05",
-    "date:inception_upper": "2018-12-05",
-    "edtf:cessation": "2018-12-05T13:44:27-08:00",
-    "edtf:inception": "2018-12-05T13:44:27-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1544046267,
-      "created_at": "Wed Dec 05 21:44:27 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "292"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "242", 
-              "258"
-            ],
-            "text": "storyofarhoolie"
-          }, 
-          {
-            "indices": [
-              "259", 
-              "268"
-            ],
-            "text": "arhoolie"
-          }
+    "date:cessation_lower":"2018-12-05",
+    "date:cessation_upper":"2018-12-05",
+    "date:inception_lower":"2018-12-05",
+    "date:inception_upper":"2018-12-05",
+    "edtf:cessation":"2018-12-05T13:44:27-08:00",
+    "edtf:inception":"2018-12-05T13:44:27-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1544046267,
+        "created_at":"Wed Dec 05 21:44:27 +0000 2018",
+        "display_text_range":[
+            "0",
+            "292"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/EDCgYBVsC1",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1070433744845041664/video/1",
-            "id": "1070433574069854208",
-            "id_str": "1070433574069854208",
-            "indices": [
-              "269", 
-              "292"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1070433574069854208/pu/img/av2iDOpYojvfTTab.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1070433574069854208/pu/img/av2iDOpYojvfTTab.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/EDCgYBVsC1"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "additional_media_info": {
-              "monetizable": false
-            },
-            "display_url": "pic.twitter.com/EDCgYBVsC1",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1070433744845041664/video/1",
-            "id": "1070433574069854208",
-            "id_str": "1070433574069854208",
-            "indices": [
-              "269", 
-              "292"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1070433574069854208/pu/img/av2iDOpYojvfTTab.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1070433574069854208/pu/img/av2iDOpYojvfTTab.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "video",
-            "url": "https://t.co/EDCgYBVsC1",
-            "video_info": {
-              "aspect_ratio": [
-                "16", 
-                "9"
-              ],
-              "duration_millis": "29997",
-              "variants": [
+        "entities":{
+            "hashtags":[
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1070433574069854208/pu/vid/320x180/oJaMZbhrjBs0AOzE.mp4?tag=6"
-                }, 
+                    "indices":[
+                        "242",
+                        "258"
+                    ],
+                    "text":"storyofarhoolie"
+                },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1070433574069854208/pu/vid/640x360/5m8iTP5jPZAmLNSK.mp4?tag=6"
-                }, 
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1070433574069854208/pu/vid/1280x720/mjpIvgJxE2-QrlZ7.mp4?tag=6"
-                }, 
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1070433574069854208/pu/pl/Go7jtKpFzx-_7VTW.m3u8?tag=6"
+                    "indices":[
+                        "259",
+                        "268"
+                    ],
+                    "text":"arhoolie"
                 }
-              ]
-            }
-          }
-        ]
-      },
-      "favorite_count": "10",
-      "favorited": false,
-      "full_text": "Sisters María and Juanita Mendoza were born in Monterrey, Mexico. Although their sister Lydia would become the most famous member of the family, Juanita and María also achieved acclaim as the duet Las Hermanas Mendoza beginning in the 1950s. #storyofarhoolie #arhoolie https://t.co/EDCgYBVsC1",
-      "id": "1070433744845041664",
-      "id_str": "1070433744845041664",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "3",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-      "truncated": false
+            ],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/EDCgYBVsC1",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1070433744845041664/video/1",
+                    "id":"1070433574069854208",
+                    "id_str":"1070433574069854208",
+                    "indices":[
+                        "269",
+                        "292"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/1070433574069854208/pu/img/av2iDOpYojvfTTab.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/1070433574069854208/pu/img/av2iDOpYojvfTTab.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/EDCgYBVsC1"
+                }
+            ],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "additional_media_info":{
+                        "monetizable":false
+                    },
+                    "display_url":"pic.twitter.com/EDCgYBVsC1",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1070433744845041664/video/1",
+                    "id":"1070433574069854208",
+                    "id_str":"1070433574069854208",
+                    "indices":[
+                        "269",
+                        "292"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/1070433574069854208/pu/img/av2iDOpYojvfTTab.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/1070433574069854208/pu/img/av2iDOpYojvfTTab.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"video",
+                    "url":"https://t.co/EDCgYBVsC1",
+                    "video_info":{
+                        "aspect_ratio":[
+                            "16",
+                            "9"
+                        ],
+                        "duration_millis":"29997",
+                        "variants":[
+                            {
+                                "bitrate":"256000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1070433574069854208/pu/vid/320x180/oJaMZbhrjBs0AOzE.mp4?tag=6"
+                            },
+                            {
+                                "bitrate":"832000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1070433574069854208/pu/vid/640x360/5m8iTP5jPZAmLNSK.mp4?tag=6"
+                            },
+                            {
+                                "bitrate":"2176000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1070433574069854208/pu/vid/1280x720/mjpIvgJxE2-QrlZ7.mp4?tag=6"
+                            },
+                            {
+                                "content_type":"application/x-mpegURL",
+                                "url":"https://video.twimg.com/ext_tw_video/1070433574069854208/pu/pl/Go7jtKpFzx-_7VTW.m3u8?tag=6"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count":"10",
+        "favorited":false,
+        "full_text":"Sisters Mar\u00eda and Juanita Mendoza were born in Monterrey, Mexico. Although their sister Lydia would become the most famous member of the family, Juanita and Mar\u00eda also achieved acclaim as the duet Las Hermanas Mendoza beginning in the 1950s. #storyofarhoolie #arhoolie https://t.co/EDCgYBVsC1",
+        "id":"1070433744845041664",
+        "id_str":"1070433744845041664",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"3",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729304863
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026178,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729304863,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026178,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729304863,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729304863,
-    "wof:lastmodified": 1602193911,
-    "wof:name": "Sisters María and Juanita Mendoza were born in Monterrey, Mexico. Although their sister Lydia would become the most famous member of the family, Juanita and María also achieved acclaim as the duet Las Hermanas Mendoza beginning in the 1950s. #storyofarhoolie #arhoolie https://t.co/EDCgYBVsC1",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729304863,
+    "wof:lastmodified":1602634360,
+    "wof:name":"Sisters Mar\u00eda and Juanita Mendoza were born in Monterrey, Mexico. Although their sister Lydia would become the most famous member of the family, Juanita and Mar\u00eda also achieved acclaim as the duet Las Hermanas Mendoza beginning in the 1950s. #storyofarhoolie #arhoolie https://t.co/EDCgYBVsC1",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

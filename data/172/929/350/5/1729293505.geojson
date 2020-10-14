@@ -2,174 +2,173 @@
   "id": 1729293505,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2015-07-14",
-    "date:cessation_upper": "2015-07-14",
-    "date:inception_lower": "2015-07-14",
-    "date:inception_upper": "2015-07-14",
-    "edtf:cessation": "2015-07-14T16:55:19-07:00",
-    "edtf:inception": "2015-07-14T16:55:19-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1436918119,
-      "created_at": "Tue Jul 14 23:55:19 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "140"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "46", 
-              "60"
-            ],
-            "text": "traveltuesday"
-          }
+    "date:cessation_lower":"2015-07-14",
+    "date:cessation_upper":"2015-07-14",
+    "date:inception_lower":"2015-07-14",
+    "date:inception_upper":"2015-07-14",
+    "edtf:cessation":"2015-07-14T16:55:19-07:00",
+    "edtf:inception":"2015-07-14T16:55:19-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1436918119,
+        "created_at":"Tue Jul 14 23:55:19 +0000 2015",
+        "display_text_range":[
+            "0",
+            "140"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/UXoDyBnUHp",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/621105727826993152/photo/1",
-            "id": "621105727168364544",
-            "id_str": "621105727168364544",
-            "indices": [
-              "118", 
-              "140"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "46",
+                        "60"
+                    ],
+                    "text":"traveltuesday"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CJ6cXjvUwAABTEB.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CJ6cXjvUwAABTEB.jpg",
-            "sizes": {
-              "large": {
-                "h": "1624",
-                "resize": "fit",
-                "w": "1624"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "http://t.co/UXoDyBnUHp"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/UXoDyBnUHp",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/621105727826993152/photo/1",
-            "id": "621105727168364544",
-            "id_str": "621105727168364544",
-            "indices": [
-              "118", 
-              "140"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/UXoDyBnUHp",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/621105727826993152/photo/1",
+                    "id":"621105727168364544",
+                    "id_str":"621105727168364544",
+                    "indices":[
+                        "118",
+                        "140"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CJ6cXjvUwAABTEB.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CJ6cXjvUwAABTEB.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1624",
+                            "resize":"fit",
+                            "w":"1624"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"http://t.co/UXoDyBnUHp"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CJ6cXjvUwAABTEB.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CJ6cXjvUwAABTEB.jpg",
-            "sizes": {
-              "large": {
-                "h": "1624",
-                "resize": "fit",
-                "w": "1624"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "http://t.co/UXoDyBnUHp"
-          }
-        ]
-      },
-      "favorite_count": "2",
-      "favorited": false,
-      "full_text": "Our photographer, Chad, would go to Japan for #traveltuesday. From Japan Air Lines inaugural flight from SF to Tokyo! http://t.co/UXoDyBnUHp",
-      "id": "621105727826993152",
-      "id_str": "621105727826993152",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/UXoDyBnUHp",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/621105727826993152/photo/1",
+                    "id":"621105727168364544",
+                    "id_str":"621105727168364544",
+                    "indices":[
+                        "118",
+                        "140"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CJ6cXjvUwAABTEB.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CJ6cXjvUwAABTEB.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1624",
+                            "resize":"fit",
+                            "w":"1624"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"http://t.co/UXoDyBnUHp"
+                }
+            ]
+        },
+        "favorite_count":"2",
+        "favorited":false,
+        "full_text":"Our photographer, Chad, would go to Japan for #traveltuesday. From Japan Air Lines inaugural flight from SF to Tokyo! http://t.co/UXoDyBnUHp",
+        "id":"621105727826993152",
+        "id_str":"621105727826993152",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729293505
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025748,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729293505,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025748,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729293505,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729293505,
-    "wof:lastmodified": 1602193904,
-    "wof:name": "Our photographer, Chad, would go to Japan for #traveltuesday. From Japan Air Lines inaugural flight from SF to Tokyo! http://t.co/UXoDyBnUHp",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729293505,
+    "wof:lastmodified":1602634589,
+    "wof:name":"Our photographer, Chad, would go to Japan for #traveltuesday. From Japan Air Lines inaugural flight from SF to Tokyo! http://t.co/UXoDyBnUHp",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

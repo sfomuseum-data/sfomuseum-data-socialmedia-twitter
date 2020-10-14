@@ -2,202 +2,201 @@
   "id": 1729295223,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2016-02-22",
-    "date:cessation_upper": "2016-02-22",
-    "date:inception_lower": "2016-02-22",
-    "date:inception_upper": "2016-02-22",
-    "edtf:cessation": "2016-02-22T16:30:46-08:00",
-    "edtf:inception": "2016-02-22T16:30:46-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1456187446,
-      "created_at": "Tue Feb 23 00:30:46 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "139"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/OA9pYaZOtT",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/701927140137299968/photo/1",
-            "id": "701927139067559936",
-            "id_str": "701927139067559936",
-            "indices": [
-              "116", 
-              "139"
-            ],
-            "media_url": "http://pbs.twimg.com/media/Cb2_A5ZUAAAZ4wM.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Cb2_A5ZUAAAZ4wM.jpg",
-            "sizes": {
-              "large": {
-                "h": "1621",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "950",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "538",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/OA9pYaZOtT"
-          }
+    "date:cessation_lower":"2016-02-22",
+    "date:cessation_upper":"2016-02-22",
+    "date:inception_lower":"2016-02-22",
+    "date:inception_upper":"2016-02-22",
+    "edtf:cessation":"2016-02-22T16:30:46-08:00",
+    "edtf:inception":"2016-02-22T16:30:46-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1456187446,
+        "created_at":"Tue Feb 23 00:30:46 +0000 2016",
+        "display_text_range":[
+            "0",
+            "139"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/OA9pYaZOtT",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/701927140137299968/photo/1",
-            "id": "701927139067559936",
-            "id_str": "701927139067559936",
-            "indices": [
-              "116", 
-              "139"
+        "entities":{
+            "hashtags":[],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/OA9pYaZOtT",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/701927140137299968/photo/1",
+                    "id":"701927139067559936",
+                    "id_str":"701927139067559936",
+                    "indices":[
+                        "116",
+                        "139"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Cb2_A5ZUAAAZ4wM.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Cb2_A5ZUAAAZ4wM.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1621",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"950",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"538",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/OA9pYaZOtT"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Cb2_A5ZUAAAZ4wM.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Cb2_A5ZUAAAZ4wM.jpg",
-            "sizes": {
-              "large": {
-                "h": "1621",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "950",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "538",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/OA9pYaZOtT"
-          }, 
-          {
-            "display_url": "pic.twitter.com/OA9pYaZOtT",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/701927140137299968/photo/1",
-            "id": "701927133518635009",
-            "id_str": "701927133518635009",
-            "indices": [
-              "116", 
-              "139"
-            ],
-            "media_url": "http://pbs.twimg.com/media/Cb2_AkuWIAEH1-L.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Cb2_AkuWIAEH1-L.jpg",
-            "sizes": {
-              "large": {
-                "h": "2048",
-                "resize": "fit",
-                "w": "1616"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "947"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "536"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/OA9pYaZOtT"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "These promotional shots by United depict the comfort and luxury of flying on a DC-3. Have you ever flown on a DC-3? https://t.co/OA9pYaZOtT",
-      "id": "701927140137299968",
-      "id_str": "701927140137299968",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/OA9pYaZOtT",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/701927140137299968/photo/1",
+                    "id":"701927139067559936",
+                    "id_str":"701927139067559936",
+                    "indices":[
+                        "116",
+                        "139"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Cb2_A5ZUAAAZ4wM.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Cb2_A5ZUAAAZ4wM.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1621",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"950",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"538",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/OA9pYaZOtT"
+                },
+                {
+                    "display_url":"pic.twitter.com/OA9pYaZOtT",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/701927140137299968/photo/1",
+                    "id":"701927133518635009",
+                    "id_str":"701927133518635009",
+                    "indices":[
+                        "116",
+                        "139"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Cb2_AkuWIAEH1-L.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Cb2_AkuWIAEH1-L.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2048",
+                            "resize":"fit",
+                            "w":"1616"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"947"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"536"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/OA9pYaZOtT"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"These promotional shots by United depict the comfort and luxury of flying on a DC-3. Have you ever flown on a DC-3? https://t.co/OA9pYaZOtT",
+        "id":"701927140137299968",
+        "id_str":"701927140137299968",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729295223
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025811,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729295223,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025811,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729295223,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729295223,
-    "wof:lastmodified": 1602193905,
-    "wof:name": "These promotional shots by United depict the comfort and luxury of flying on a DC-3. Have you ever flown on a DC-3? https://t.co/OA9pYaZOtT",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729295223,
+    "wof:lastmodified":1602634691,
+    "wof:name":"These promotional shots by United depict the comfort and luxury of flying on a DC-3. Have you ever flown on a DC-3? https://t.co/OA9pYaZOtT",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

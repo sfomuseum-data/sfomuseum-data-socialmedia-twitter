@@ -2,224 +2,223 @@
   "id": 1729301433,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2017-10-24",
-    "date:cessation_upper": "2017-10-24",
-    "date:inception_lower": "2017-10-24",
-    "date:inception_upper": "2017-10-24",
-    "edtf:cessation": "2017-10-24T11:25:05-07:00",
-    "edtf:inception": "2017-10-24T11:25:05-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1508869505,
-      "created_at": "Tue Oct 24 18:25:05 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "114"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "0", 
-              "10"
-            ],
-            "text": "OnThisDay"
-          }, 
-          {
-            "indices": [
-              "71", 
-              "82"
-            ],
-            "text": "SFOHistory"
-          }, 
-          {
-            "indices": [
-              "83", 
-              "90"
-            ],
-            "text": "avgeek"
-          }
+    "date:cessation_lower":"2017-10-24",
+    "date:cessation_upper":"2017-10-24",
+    "date:inception_lower":"2017-10-24",
+    "date:inception_upper":"2017-10-24",
+    "edtf:cessation":"2017-10-24T11:25:05-07:00",
+    "edtf:inception":"2017-10-24T11:25:05-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1508869505,
+        "created_at":"Tue Oct 24 18:25:05 +0000 2017",
+        "display_text_range":[
+            "0",
+            "114"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/zFfqjQPavs",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/922891713936584705/photo/1",
-            "id": "922891709431894016",
-            "id_str": "922891709431894016",
-            "indices": [
-              "91", 
-              "114"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "0",
+                        "10"
+                    ],
+                    "text":"OnThisDay"
+                },
+                {
+                    "indices":[
+                        "71",
+                        "82"
+                    ],
+                    "text":"SFOHistory"
+                },
+                {
+                    "indices":[
+                        "83",
+                        "90"
+                    ],
+                    "text":"avgeek"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DM7FHrrXUAAINse.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DM7FHrrXUAAINse.jpg",
-            "sizes": {
-              "large": {
-                "h": "1508",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "905",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "513",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/zFfqjQPavs"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/zFfqjQPavs",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/922891713936584705/photo/1",
-            "id": "922891709431894016",
-            "id_str": "922891709431894016",
-            "indices": [
-              "91", 
-              "114"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/zFfqjQPavs",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/922891713936584705/photo/1",
+                    "id":"922891709431894016",
+                    "id_str":"922891709431894016",
+                    "indices":[
+                        "91",
+                        "114"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DM7FHrrXUAAINse.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DM7FHrrXUAAINse.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1508",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"905",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"513",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/zFfqjQPavs"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DM7FHrrXUAAINse.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DM7FHrrXUAAINse.jpg",
-            "sizes": {
-              "large": {
-                "h": "1508",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "905",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "513",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/zFfqjQPavs"
-          }, 
-          {
-            "display_url": "pic.twitter.com/zFfqjQPavs",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/922891713936584705/photo/1",
-            "id": "922891708731396097",
-            "id_str": "922891708731396097",
-            "indices": [
-              "91", 
-              "114"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DM7FHpEWkAEml8e.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DM7FHpEWkAEml8e.jpg",
-            "sizes": {
-              "large": {
-                "h": "1511",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "907",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "514",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/zFfqjQPavs"
-          }
-        ]
-      },
-      "favorite_count": "8",
-      "favorited": false,
-      "full_text": "#OnThisDay in 1937 the second passenger building at SFO was dedicated. #SFOHistory #avgeek https://t.co/zFfqjQPavs",
-      "id": "922891713936584705",
-      "id_str": "922891713936584705",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "3",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/zFfqjQPavs",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/922891713936584705/photo/1",
+                    "id":"922891709431894016",
+                    "id_str":"922891709431894016",
+                    "indices":[
+                        "91",
+                        "114"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DM7FHrrXUAAINse.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DM7FHrrXUAAINse.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1508",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"905",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"513",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/zFfqjQPavs"
+                },
+                {
+                    "display_url":"pic.twitter.com/zFfqjQPavs",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/922891713936584705/photo/1",
+                    "id":"922891708731396097",
+                    "id_str":"922891708731396097",
+                    "indices":[
+                        "91",
+                        "114"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DM7FHpEWkAEml8e.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DM7FHpEWkAEml8e.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1511",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"907",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"514",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/zFfqjQPavs"
+                }
+            ]
+        },
+        "favorite_count":"8",
+        "favorited":false,
+        "full_text":"#OnThisDay in 1937 the second passenger building at SFO was dedicated. #SFOHistory #avgeek https://t.co/zFfqjQPavs",
+        "id":"922891713936584705",
+        "id_str":"922891713936584705",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"3",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729301433
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026046,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729301433,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026046,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729301433,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729301433,
-    "wof:lastmodified": 1602193909,
-    "wof:name": "#OnThisDay in 1937 the second passenger building at SFO was dedicated. #SFOHistory #avgeek https://t.co/zFfqjQPavs",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729301433,
+    "wof:lastmodified":1602634298,
+    "wof:name":"#OnThisDay in 1937 the second passenger building at SFO was dedicated. #SFOHistory #avgeek https://t.co/zFfqjQPavs",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

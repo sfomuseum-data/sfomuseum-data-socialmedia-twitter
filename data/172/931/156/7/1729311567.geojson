@@ -2,98 +2,97 @@
   "id": 1729311567,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2013-03-11",
-    "date:cessation_upper": "2013-03-11",
-    "date:inception_lower": "2013-03-11",
-    "date:inception_upper": "2013-03-11",
-    "edtf:cessation": "2013-03-11T09:38:14-07:00",
-    "edtf:inception": "2013-03-11T09:38:14-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1363019894,
-      "created_at": "Mon Mar 11 16:38:14 +0000 2013",
-      "display_text_range": [
-        "0", 
-        "126"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/vwaZyS",
-            "expanded_url": "http://bit.ly/vwaZyS",
-            "indices": [
-              "66", 
-              "88"
-            ],
-            "url": "http://t.co/DEoMBQoxSY"
-          }
+    "date:cessation_lower":"2013-03-11",
+    "date:cessation_upper":"2013-03-11",
+    "date:inception_lower":"2013-03-11",
+    "date:inception_upper":"2013-03-11",
+    "edtf:cessation":"2013-03-11T09:38:14-07:00",
+    "edtf:inception":"2013-03-11T09:38:14-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1363019894,
+        "created_at":"Mon Mar 11 16:38:14 +0000 2013",
+        "display_text_range":[
+            "0",
+            "126"
         ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Also new on view is Fred Lyon: San Francisco Yesterday 1948-1958: http://t.co/DEoMBQoxSY  Photos are pre-TSA in T2, open 24/7.",
-      "id": "311154106679033856",
-      "id_str": "311154106679033856",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "2",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/vwaZyS",
+                    "expanded_url":"http://bit.ly/vwaZyS",
+                    "indices":[
+                        "66",
+                        "88"
+                    ],
+                    "url":"http://t.co/DEoMBQoxSY"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Also new on view is Fred Lyon: San Francisco Yesterday 1948-1958: http://t.co/DEoMBQoxSY  Photos are pre-TSA in T2, open 24/7.",
+        "id":"311154106679033856",
+        "id_str":"311154106679033856",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"2",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729311567
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026437,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729311567,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026437,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729311567,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729311567,
-    "wof:lastmodified": 1602193915,
-    "wof:name": "Also new on view is Fred Lyon: San Francisco Yesterday 1948-1958: http://t.co/DEoMBQoxSY  Photos are pre-TSA in T2, open 24/7.",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729311567,
+    "wof:lastmodified":1602634122,
+    "wof:name":"Also new on view is Fred Lyon: San Francisco Yesterday 1948-1958: http://t.co/DEoMBQoxSY  Photos are pre-TSA in T2, open 24/7.",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

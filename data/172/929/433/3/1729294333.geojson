@@ -2,185 +2,184 @@
   "id": 1729294333,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2015-10-19",
-    "date:cessation_upper": "2015-10-19",
-    "date:inception_lower": "2015-10-19",
-    "date:inception_upper": "2015-10-19",
-    "edtf:cessation": "2015-10-19T20:00:57-07:00",
-    "edtf:inception": "2015-10-19T20:00:57-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1445310057,
-      "created_at": "Tue Oct 20 03:00:57 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "144"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "106", 
-              "120"
-            ],
-            "text": "KirksMonsters"
-          }
+    "date:cessation_lower":"2015-10-19",
+    "date:cessation_upper":"2015-10-19",
+    "date:inception_lower":"2015-10-19",
+    "date:inception_upper":"2015-10-19",
+    "edtf:cessation":"2015-10-19T20:00:57-07:00",
+    "edtf:inception":"2015-10-19T20:00:57-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1445310057,
+        "created_at":"Tue Oct 20 03:00:57 +0000 2015",
+        "display_text_range":[
+            "0",
+            "144"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/L3wGQ8RuU7",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/656304066373505024/photo/1",
-            "id": "656304065836634112",
-            "id_str": "656304065836634112",
-            "indices": [
-              "121", 
-              "144"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "106",
+                        "120"
+                    ],
+                    "text":"KirksMonsters"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CRupEhTWUAAiDpv.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CRupEhTWUAAiDpv.jpg",
-            "sizes": {
-              "large": {
-                "h": "2048",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/L3wGQ8RuU7"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "2188934334",
-            "id_str": "2188934334",
-            "indices": [
-              "1", 
-              "13"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/L3wGQ8RuU7",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/656304066373505024/photo/1",
+                    "id":"656304065836634112",
+                    "id_str":"656304065836634112",
+                    "indices":[
+                        "121",
+                        "144"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CRupEhTWUAAiDpv.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CRupEhTWUAAiDpv.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2048",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/L3wGQ8RuU7"
+                }
             ],
-            "name": "Kirk Hammett",
-            "screen_name": "KirkHammett"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/L3wGQ8RuU7",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/656304066373505024/photo/1",
-            "id": "656304065836634112",
-            "id_str": "656304065836634112",
-            "indices": [
-              "121", 
-              "144"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CRupEhTWUAAiDpv.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CRupEhTWUAAiDpv.jpg",
-            "sizes": {
-              "large": {
-                "h": "2048",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/L3wGQ8RuU7"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": ".@KirkHammett's 2 obsessions, guitars \u0026amp; classic monsters, combine for the ultimate collectors' items. #KirksMonsters https://t.co/L3wGQ8RuU7",
-      "id": "656304066373505024",
-      "id_str": "656304066373505024",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"2188934334",
+                    "id_str":"2188934334",
+                    "indices":[
+                        "1",
+                        "13"
+                    ],
+                    "name":"Kirk Hammett",
+                    "screen_name":"KirkHammett"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/L3wGQ8RuU7",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/656304066373505024/photo/1",
+                    "id":"656304065836634112",
+                    "id_str":"656304065836634112",
+                    "indices":[
+                        "121",
+                        "144"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CRupEhTWUAAiDpv.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CRupEhTWUAAiDpv.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2048",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/L3wGQ8RuU7"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":".@KirkHammett's 2 obsessions, guitars &amp; classic monsters, combine for the ultimate collectors' items. #KirksMonsters https://t.co/L3wGQ8RuU7",
+        "id":"656304066373505024",
+        "id_str":"656304066373505024",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729294333
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025779,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729294333,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025779,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729294333,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729294333,
-    "wof:lastmodified": 1602193905,
-    "wof:name": ".@KirkHammett's 2 obsessions, guitars \u0026amp; classic monsters, combine for the ultimate collectors' items. #KirksMonsters https://t.co/L3wGQ8RuU7",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729294333,
+    "wof:lastmodified":1602634659,
+    "wof:name":".@KirkHammett's 2 obsessions, guitars &amp; classic monsters, combine for the ultimate collectors' items. #KirksMonsters https://t.co/L3wGQ8RuU7",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

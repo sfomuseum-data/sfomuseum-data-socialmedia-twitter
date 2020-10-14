@@ -2,215 +2,214 @@
   "id": 1729306957,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-09-16",
-    "date:cessation_upper": "2019-09-16",
-    "date:inception_lower": "2019-09-16",
-    "date:inception_upper": "2019-09-16",
-    "edtf:cessation": "2019-09-16T18:17:05-07:00",
-    "edtf:inception": "2019-09-16T18:17:05-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1568683025,
-      "created_at": "Tue Sep 17 01:17:05 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "242"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "204", 
-              "218"
-            ],
-            "text": "VideoArtsSFOM"
-          }
+    "date:cessation_lower":"2019-09-16",
+    "date:cessation_upper":"2019-09-16",
+    "date:inception_lower":"2019-09-16",
+    "date:inception_upper":"2019-09-16",
+    "edtf:cessation":"2019-09-16T18:17:05-07:00",
+    "edtf:inception":"2019-09-16T18:17:05-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1568683025,
+        "created_at":"Tue Sep 17 01:17:05 +0000 2019",
+        "display_text_range":[
+            "0",
+            "242"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/S9fElEMtpU",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1173767799698644992/video/1",
-            "id": "1173767738931548160",
-            "id_str": "1173767738931548160",
-            "indices": [
-              "219", 
-              "242"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1173767738931548160/pu/img/3Z7Nbqj6ovsotO9t.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1173767738931548160/pu/img/3Z7Nbqj6ovsotO9t.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/S9fElEMtpU"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/2knAYzd",
-            "expanded_url": "http://bit.ly/2knAYzd",
-            "indices": [
-              "180", 
-              "203"
-            ],
-            "url": "https://t.co/cSVwTCl9I4"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "additional_media_info": {
-              "monetizable": false
-            },
-            "display_url": "pic.twitter.com/S9fElEMtpU",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1173767799698644992/video/1",
-            "id": "1173767738931548160",
-            "id_str": "1173767738931548160",
-            "indices": [
-              "219", 
-              "242"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1173767738931548160/pu/img/3Z7Nbqj6ovsotO9t.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1173767738931548160/pu/img/3Z7Nbqj6ovsotO9t.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "video",
-            "url": "https://t.co/S9fElEMtpU",
-            "video_info": {
-              "aspect_ratio": [
-                "16", 
-                "9"
-              ],
-              "duration_millis": "34280",
-              "variants": [
+        "entities":{
+            "hashtags":[
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1173767738931548160/pu/vid/640x360/kdQkvn7IOMvK-bng.mp4?tag=10"
-                }, 
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1173767738931548160/pu/vid/1280x720/ff-HxUG7jFPpsizh.mp4?tag=10"
-                }, 
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1173767738931548160/pu/pl/VBkPY7L7liEo1Khz.m3u8?tag=10"
-                }, 
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1173767738931548160/pu/vid/480x270/nvMSlHIpj_jVup2b.mp4?tag=10"
+                    "indices":[
+                        "204",
+                        "218"
+                    ],
+                    "text":"VideoArtsSFOM"
                 }
-              ]
-            }
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "NOW PLAYING: “Dans les Vagues Noires des Premiers Océans” by Rubod \u0026amp; Stroudinsky. Organic life somehow emerges beneath the black waves of the first oceans in this composition. https://t.co/cSVwTCl9I4 #VideoArtsSFOM https://t.co/S9fElEMtpU",
-      "id": "1173767799698644992",
-      "id_str": "1173767799698644992",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-      "truncated": false
+            ],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/S9fElEMtpU",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1173767799698644992/video/1",
+                    "id":"1173767738931548160",
+                    "id_str":"1173767738931548160",
+                    "indices":[
+                        "219",
+                        "242"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/1173767738931548160/pu/img/3Z7Nbqj6ovsotO9t.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/1173767738931548160/pu/img/3Z7Nbqj6ovsotO9t.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/S9fElEMtpU"
+                }
+            ],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/2knAYzd",
+                    "expanded_url":"http://bit.ly/2knAYzd",
+                    "indices":[
+                        "180",
+                        "203"
+                    ],
+                    "url":"https://t.co/cSVwTCl9I4"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "additional_media_info":{
+                        "monetizable":false
+                    },
+                    "display_url":"pic.twitter.com/S9fElEMtpU",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1173767799698644992/video/1",
+                    "id":"1173767738931548160",
+                    "id_str":"1173767738931548160",
+                    "indices":[
+                        "219",
+                        "242"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/1173767738931548160/pu/img/3Z7Nbqj6ovsotO9t.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/1173767738931548160/pu/img/3Z7Nbqj6ovsotO9t.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"video",
+                    "url":"https://t.co/S9fElEMtpU",
+                    "video_info":{
+                        "aspect_ratio":[
+                            "16",
+                            "9"
+                        ],
+                        "duration_millis":"34280",
+                        "variants":[
+                            {
+                                "bitrate":"832000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1173767738931548160/pu/vid/640x360/kdQkvn7IOMvK-bng.mp4?tag=10"
+                            },
+                            {
+                                "bitrate":"2176000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1173767738931548160/pu/vid/1280x720/ff-HxUG7jFPpsizh.mp4?tag=10"
+                            },
+                            {
+                                "content_type":"application/x-mpegURL",
+                                "url":"https://video.twimg.com/ext_tw_video/1173767738931548160/pu/pl/VBkPY7L7liEo1Khz.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate":"256000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1173767738931548160/pu/vid/480x270/nvMSlHIpj_jVup2b.mp4?tag=10"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"NOW PLAYING: \u201cDans les Vagues Noires des Premiers Oc\u00e9ans\u201d by Rubod &amp; Stroudinsky. Organic life somehow emerges beneath the black waves of the first oceans in this composition. https://t.co/cSVwTCl9I4 #VideoArtsSFOM https://t.co/S9fElEMtpU",
+        "id":"1173767799698644992",
+        "id_str":"1173767799698644992",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729306957
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026259,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729306957,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026259,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729306957,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729306957,
-    "wof:lastmodified": 1602193912,
-    "wof:name": "NOW PLAYING: “Dans les Vagues Noires des Premiers Océans” by Rubod \u0026amp; Stroudinsky. Organic life somehow emerges beneath the black waves of the first oceans in this composition. https://t.co/cSVwTCl9I4 #VideoArtsSFOM https://t.co/S9fElEMtpU",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729306957,
+    "wof:lastmodified":1602634278,
+    "wof:name":"NOW PLAYING: \u201cDans les Vagues Noires des Premiers Oc\u00e9ans\u201d by Rubod &amp; Stroudinsky. Organic life somehow emerges beneath the black waves of the first oceans in this composition. https://t.co/cSVwTCl9I4 #VideoArtsSFOM https://t.co/S9fElEMtpU",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

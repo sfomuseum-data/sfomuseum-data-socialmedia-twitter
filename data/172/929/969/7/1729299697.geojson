@@ -2,185 +2,184 @@
   "id": 1729299697,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2011-12-28",
-    "date:cessation_upper": "2011-12-28",
-    "date:inception_lower": "2011-12-28",
-    "date:inception_upper": "2011-12-28",
-    "edtf:cessation": "2011-12-28T13:35:01-08:00",
-    "edtf:inception": "2011-12-28T13:35:01-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1325108101,
-      "created_at": "Wed Dec 28 21:35:01 +0000 2011",
-      "display_text_range": [
-        "0", 
-        "140"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/vvwr0VjH",
-            "expanded_url": "https://twitter.com/ilyaf/status/152049192423002114/photo/1",
-            "id": "152049192431390721",
-            "id_str": "152049192431390721",
-            "indices": [
-              "120", 
-              "140"
-            ],
-            "media_url": "http://pbs.twimg.com/media/Ahwv71dCEAEKwCL.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Ahwv71dCEAEKwCL.jpg",
-            "sizes": {
-              "large": {
-                "h": "648",
-                "resize": "fit",
-                "w": "484"
-              },
-              "medium": {
-                "h": "648",
-                "resize": "fit",
-                "w": "484"
-              },
-              "small": {
-                "h": "648",
-                "resize": "fit",
-                "w": "484"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "152049192423002114",
-            "source_status_id_str": "152049192423002114",
-            "source_user_id": "14158807",
-            "source_user_id_str": "14158807",
-            "type": "photo",
-            "url": "http://t.co/vvwr0VjH"
-          }
+    "date:cessation_lower":"2011-12-28",
+    "date:cessation_upper":"2011-12-28",
+    "date:inception_lower":"2011-12-28",
+    "date:inception_upper":"2011-12-28",
+    "edtf:cessation":"2011-12-28T13:35:01-08:00",
+    "edtf:inception":"2011-12-28T13:35:01-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1325108101,
+        "created_at":"Wed Dec 28 21:35:01 +0000 2011",
+        "display_text_range":[
+            "0",
+            "140"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "14158807",
-            "id_str": "14158807",
-            "indices": [
-              "24", 
-              "30"
+        "entities":{
+            "hashtags":[],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/vvwr0VjH",
+                    "expanded_url":"https://twitter.com/ilyaf/status/152049192423002114/photo/1",
+                    "id":"152049192431390721",
+                    "id_str":"152049192431390721",
+                    "indices":[
+                        "120",
+                        "140"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Ahwv71dCEAEKwCL.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Ahwv71dCEAEKwCL.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"648",
+                            "resize":"fit",
+                            "w":"484"
+                        },
+                        "medium":{
+                            "h":"648",
+                            "resize":"fit",
+                            "w":"484"
+                        },
+                        "small":{
+                            "h":"648",
+                            "resize":"fit",
+                            "w":"484"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"152049192423002114",
+                    "source_status_id_str":"152049192423002114",
+                    "source_user_id":"14158807",
+                    "source_user_id_str":"14158807",
+                    "type":"photo",
+                    "url":"http://t.co/vvwr0VjH"
+                }
             ],
-            "name": "Ilya Fushman",
-            "screen_name": "ilyaf"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/vvwr0VjH",
-            "expanded_url": "https://twitter.com/ilyaf/status/152049192423002114/photo/1",
-            "id": "152049192431390721",
-            "id_str": "152049192431390721",
-            "indices": [
-              "120", 
-              "140"
-            ],
-            "media_url": "http://pbs.twimg.com/media/Ahwv71dCEAEKwCL.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Ahwv71dCEAEKwCL.jpg",
-            "sizes": {
-              "large": {
-                "h": "648",
-                "resize": "fit",
-                "w": "484"
-              },
-              "medium": {
-                "h": "648",
-                "resize": "fit",
-                "w": "484"
-              },
-              "small": {
-                "h": "648",
-                "resize": "fit",
-                "w": "484"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "152049192423002114",
-            "source_status_id_str": "152049192423002114",
-            "source_user_id": "14158807",
-            "source_user_id_str": "14158807",
-            "type": "photo",
-            "url": "http://t.co/vvwr0VjH"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Blab off - apt name! RT @ilyaf: Eliminating commercials seems to have been a long effort in the US. Cool exhibit at SFO http://t.co/vvwr0VjH",
-      "id": "152140519139590144",
-      "id_str": "152140519139590144",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"14158807",
+                    "id_str":"14158807",
+                    "indices":[
+                        "24",
+                        "30"
+                    ],
+                    "name":"Ilya Fushman",
+                    "screen_name":"ilyaf"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/vvwr0VjH",
+                    "expanded_url":"https://twitter.com/ilyaf/status/152049192423002114/photo/1",
+                    "id":"152049192431390721",
+                    "id_str":"152049192431390721",
+                    "indices":[
+                        "120",
+                        "140"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Ahwv71dCEAEKwCL.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Ahwv71dCEAEKwCL.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"648",
+                            "resize":"fit",
+                            "w":"484"
+                        },
+                        "medium":{
+                            "h":"648",
+                            "resize":"fit",
+                            "w":"484"
+                        },
+                        "small":{
+                            "h":"648",
+                            "resize":"fit",
+                            "w":"484"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"152049192423002114",
+                    "source_status_id_str":"152049192423002114",
+                    "source_user_id":"14158807",
+                    "source_user_id_str":"14158807",
+                    "type":"photo",
+                    "url":"http://t.co/vvwr0VjH"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Blab off - apt name! RT @ilyaf: Eliminating commercials seems to have been a long effort in the US. Cool exhibit at SFO http://t.co/vvwr0VjH",
+        "id":"152140519139590144",
+        "id_str":"152140519139590144",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729299697
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025982,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729299697,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025982,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729299697,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729299697,
-    "wof:lastmodified": 1602193908,
-    "wof:name": "Blab off - apt name! RT @ilyaf: Eliminating commercials seems to have been a long effort in the US. Cool exhibit at SFO http://t.co/vvwr0VjH",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729299697,
+    "wof:lastmodified":1602634606,
+    "wof:name":"Blab off - apt name! RT @ilyaf: Eliminating commercials seems to have been a long effort in the US. Cool exhibit at SFO http://t.co/vvwr0VjH",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

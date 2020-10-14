@@ -2,174 +2,173 @@
   "id": 1729294573,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2015-11-17",
-    "date:cessation_upper": "2015-11-17",
-    "date:inception_lower": "2015-11-17",
-    "date:inception_upper": "2015-11-17",
-    "edtf:cessation": "2015-11-17T18:21:19-08:00",
-    "edtf:inception": "2015-11-17T18:21:19-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1447813279,
-      "created_at": "Wed Nov 18 02:21:19 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "134"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "96", 
-              "110"
-            ],
-            "text": "TravelTuesday"
-          }
+    "date:cessation_lower":"2015-11-17",
+    "date:cessation_upper":"2015-11-17",
+    "date:inception_lower":"2015-11-17",
+    "date:inception_upper":"2015-11-17",
+    "edtf:cessation":"2015-11-17T18:21:19-08:00",
+    "edtf:inception":"2015-11-17T18:21:19-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1447813279,
+        "created_at":"Wed Nov 18 02:21:19 +0000 2015",
+        "display_text_range":[
+            "0",
+            "134"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/OgRbQobg3B",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/666803340253097984/photo/1",
-            "id": "666803227866718208",
-            "id_str": "666803227866718208",
-            "indices": [
-              "111", 
-              "134"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "96",
+                        "110"
+                    ],
+                    "text":"TravelTuesday"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CUD2ALwUYAAj8gE.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CUD2ALwUYAAj8gE.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "910"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "910"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "604"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/OgRbQobg3B"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/OgRbQobg3B",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/666803340253097984/photo/1",
-            "id": "666803227866718208",
-            "id_str": "666803227866718208",
-            "indices": [
-              "111", 
-              "134"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/OgRbQobg3B",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/666803340253097984/photo/1",
+                    "id":"666803227866718208",
+                    "id_str":"666803227866718208",
+                    "indices":[
+                        "111",
+                        "134"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CUD2ALwUYAAj8gE.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CUD2ALwUYAAj8gE.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"910"
+                        },
+                        "medium":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"910"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"604"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/OgRbQobg3B"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CUD2ALwUYAAj8gE.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CUD2ALwUYAAj8gE.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "910"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "910"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "604"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/OgRbQobg3B"
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "After almost 60 hours of travel, Pan Am's first scheduled transpacific flight landed in Manila. #TravelTuesday https://t.co/OgRbQobg3B",
-      "id": "666803340253097984",
-      "id_str": "666803340253097984",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "2",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/OgRbQobg3B",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/666803340253097984/photo/1",
+                    "id":"666803227866718208",
+                    "id_str":"666803227866718208",
+                    "indices":[
+                        "111",
+                        "134"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CUD2ALwUYAAj8gE.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CUD2ALwUYAAj8gE.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"910"
+                        },
+                        "medium":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"910"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"604"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/OgRbQobg3B"
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"After almost 60 hours of travel, Pan Am's first scheduled transpacific flight landed in Manila. #TravelTuesday https://t.co/OgRbQobg3B",
+        "id":"666803340253097984",
+        "id_str":"666803340253097984",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"2",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729294573
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025787,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729294573,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025787,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729294573,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729294573,
-    "wof:lastmodified": 1602193905,
-    "wof:name": "After almost 60 hours of travel, Pan Am's first scheduled transpacific flight landed in Manila. #TravelTuesday https://t.co/OgRbQobg3B",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729294573,
+    "wof:lastmodified":1602634663,
+    "wof:name":"After almost 60 hours of travel, Pan Am's first scheduled transpacific flight landed in Manila. #TravelTuesday https://t.co/OgRbQobg3B",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

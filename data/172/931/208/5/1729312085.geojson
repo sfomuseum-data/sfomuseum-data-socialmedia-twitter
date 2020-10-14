@@ -2,109 +2,108 @@
   "id": 1729312085,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2013-05-23",
-    "date:cessation_upper": "2013-05-23",
-    "date:inception_lower": "2013-05-23",
-    "date:inception_upper": "2013-05-23",
-    "edtf:cessation": "2013-05-23T15:08:37-07:00",
-    "edtf:inception": "2013-05-23T15:08:37-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1369346917,
-      "created_at": "Thu May 23 22:08:37 +0000 2013",
-      "display_text_range": [
-        "0", 
-        "139"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "instagram.com/p/ZqshuAwlDB/",
-            "expanded_url": "http://instagram.com/p/ZqshuAwlDB/",
-            "indices": [
-              "117", 
-              "139"
-            ],
-            "url": "http://t.co/BM3BUWrGbi"
-          }
+    "date:cessation_lower":"2013-05-23",
+    "date:cessation_upper":"2013-05-23",
+    "date:inception_lower":"2013-05-23",
+    "date:inception_upper":"2013-05-23",
+    "edtf:cessation":"2013-05-23T15:08:37-07:00",
+    "edtf:inception":"2013-05-23T15:08:37-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1369346917,
+        "created_at":"Thu May 23 22:08:37 +0000 2013",
+        "display_text_range":[
+            "0",
+            "139"
         ],
-        "user_mentions": [
-          {
-            "id": "15092465",
-            "id_str": "15092465",
-            "indices": [
-              "13", 
-              "19"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"instagram.com/p/ZqshuAwlDB/",
+                    "expanded_url":"http://instagram.com/p/ZqshuAwlDB/",
+                    "indices":[
+                        "117",
+                        "139"
+                    ],
+                    "url":"http://t.co/BM3BUWrGbi"
+                }
             ],
-            "name": "Kevin Mao",
-            "screen_name": "k_mao"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Gorgeous! RT @k_mao: I can't be the only one who takes a photo of SFO's ceiling every time I'm there, right?\nHeaded… http://t.co/BM3BUWrGbi",
-      "id": "337691563046088704",
-      "id_str": "337691563046088704",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"15092465",
+                    "id_str":"15092465",
+                    "indices":[
+                        "13",
+                        "19"
+                    ],
+                    "name":"Kevin Mao",
+                    "screen_name":"k_mao"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Gorgeous! RT @k_mao: I can't be the only one who takes a photo of SFO's ceiling every time I'm there, right?\nHeaded\u2026 http://t.co/BM3BUWrGbi",
+        "id":"337691563046088704",
+        "id_str":"337691563046088704",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729312085
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026458,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729312085,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026458,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729312085,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729312085,
-    "wof:lastmodified": 1602193915,
-    "wof:name": "Gorgeous! RT @k_mao: I can't be the only one who takes a photo of SFO's ceiling every time I'm there, right?\nHeaded… http://t.co/BM3BUWrGbi",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729312085,
+    "wof:lastmodified":1602634173,
+    "wof:name":"Gorgeous! RT @k_mao: I can't be the only one who takes a photo of SFO's ceiling every time I'm there, right?\nHeaded\u2026 http://t.co/BM3BUWrGbi",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

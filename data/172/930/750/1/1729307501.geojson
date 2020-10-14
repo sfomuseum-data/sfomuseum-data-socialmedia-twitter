@@ -2,196 +2,195 @@
   "id": 1729307501,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-12-13",
-    "date:cessation_upper": "2019-12-13",
-    "date:inception_lower": "2019-12-13",
-    "date:inception_upper": "2019-12-13",
-    "edtf:cessation": "2019-12-13T09:04:40-08:00",
-    "edtf:inception": "2019-12-13T09:04:40-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1576256680,
-      "created_at": "Fri Dec 13 17:04:40 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "301"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "160", 
-              "171"
-            ],
-            "text": "HarveyMilk"
-          }, 
-          {
-            "indices": [
-              "256", 
-              "277"
-            ],
-            "text": "HarveyMilkExhibition"
-          }
+    "date:cessation_lower":"2019-12-13",
+    "date:cessation_upper":"2019-12-13",
+    "date:inception_lower":"2019-12-13",
+    "date:inception_upper":"2019-12-13",
+    "edtf:cessation":"2019-12-13T09:04:40-08:00",
+    "edtf:inception":"2019-12-13T09:04:40-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1576256680,
+        "created_at":"Fri Dec 13 17:04:40 +0000 2019",
+        "display_text_range":[
+            "0",
+            "301"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/xvNs5O2WDb",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1205534008815173632/photo/1",
-            "id": "1205534003572301825",
-            "id_str": "1205534003572301825",
-            "indices": [
-              "278", 
-              "301"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "160",
+                        "171"
+                    ],
+                    "text":"HarveyMilk"
+                },
+                {
+                    "indices":[
+                        "256",
+                        "277"
+                    ],
+                    "text":"HarveyMilkExhibition"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/ELrqyf-U4AEt-gP.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/ELrqyf-U4AEt-gP.jpg",
-            "sizes": {
-              "large": {
-                "h": "1387",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "832",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "472",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/xvNs5O2WDb"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/HarveyMilkExhi…",
-            "expanded_url": "http://bit.ly/HarveyMilkExhibition",
-            "indices": [
-              "232", 
-              "255"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/xvNs5O2WDb",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1205534008815173632/photo/1",
+                    "id":"1205534003572301825",
+                    "id_str":"1205534003572301825",
+                    "indices":[
+                        "278",
+                        "301"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/ELrqyf-U4AEt-gP.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/ELrqyf-U4AEt-gP.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1387",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"832",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"472",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/xvNs5O2WDb"
+                }
             ],
-            "url": "https://t.co/eGYmHGjUIn"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/xvNs5O2WDb",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1205534008815173632/photo/1",
-            "id": "1205534003572301825",
-            "id_str": "1205534003572301825",
-            "indices": [
-              "278", 
-              "301"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/HarveyMilkExhi\u2026",
+                    "expanded_url":"http://bit.ly/HarveyMilkExhibition",
+                    "indices":[
+                        "232",
+                        "255"
+                    ],
+                    "url":"https://t.co/eGYmHGjUIn"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/ELrqyf-U4AEt-gP.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/ELrqyf-U4AEt-gP.jpg",
-            "sizes": {
-              "large": {
-                "h": "1387",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "832",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "472",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/xvNs5O2WDb"
-          }
-        ]
-      },
-      "favorite_count": "6",
-      "favorited": false,
-      "full_text": "Harvey Bernard Milk (1930–78) was a visionary human rights leader, a groundbreaking political luminary, and a seminal figure of the LGBTQ rights movement. See “#HarveyMilk: Messenger of Hope” on display post-security in Terminal 1. https://t.co/eGYmHGjUIn #HarveyMilkExhibition https://t.co/xvNs5O2WDb",
-      "id": "1205534008815173632",
-      "id_str": "1205534008815173632",
-      "in_reply_to_screen_name": "SFOMuseum",
-      "in_reply_to_status_id": "1205534001093496832",
-      "in_reply_to_status_id_str": "1205534001093496832",
-      "in_reply_to_user_id": "116329337",
-      "in_reply_to_user_id_str": "116329337",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "3",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/xvNs5O2WDb",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1205534008815173632/photo/1",
+                    "id":"1205534003572301825",
+                    "id_str":"1205534003572301825",
+                    "indices":[
+                        "278",
+                        "301"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/ELrqyf-U4AEt-gP.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/ELrqyf-U4AEt-gP.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1387",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"832",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"472",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/xvNs5O2WDb"
+                }
+            ]
+        },
+        "favorite_count":"6",
+        "favorited":false,
+        "full_text":"Harvey Bernard Milk (1930\u201378) was a visionary human rights leader, a groundbreaking political luminary, and a seminal figure of the LGBTQ rights movement. See \u201c#HarveyMilk: Messenger of Hope\u201d on display post-security in Terminal 1. https://t.co/eGYmHGjUIn #HarveyMilkExhibition https://t.co/xvNs5O2WDb",
+        "id":"1205534008815173632",
+        "id_str":"1205534008815173632",
+        "in_reply_to_screen_name":"SFOMuseum",
+        "in_reply_to_status_id":"1205534001093496832",
+        "in_reply_to_status_id_str":"1205534001093496832",
+        "in_reply_to_user_id":"116329337",
+        "in_reply_to_user_id_str":"116329337",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"3",
+        "retweeted":false,
+        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729307501
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026279,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729307501,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026279,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729307501,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729307501,
-    "wof:lastmodified": 1602193913,
-    "wof:name": "Harvey Bernard Milk (1930–78) was a visionary human rights leader, a groundbreaking political luminary, and a seminal figure of the LGBTQ rights movement. See “#HarveyMilk: Messenger of Hope” on display post-security in Terminal 1. https://t.co/eGYmHGjUIn #HarveyMilkExhibition https://t.co/xvNs5O2WDb",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729307501,
+    "wof:lastmodified":1602634339,
+    "wof:name":"Harvey Bernard Milk (1930\u201378) was a visionary human rights leader, a groundbreaking political luminary, and a seminal figure of the LGBTQ rights movement. See \u201c#HarveyMilk: Messenger of Hope\u201d on display post-security in Terminal 1. https://t.co/eGYmHGjUIn #HarveyMilkExhibition https://t.co/xvNs5O2WDb",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

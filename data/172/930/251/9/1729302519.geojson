@@ -2,181 +2,180 @@
   "id": 1729302519,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2018-02-24",
-    "date:cessation_upper": "2018-02-24",
-    "date:inception_lower": "2018-02-24",
-    "date:inception_upper": "2018-02-24",
-    "edtf:cessation": "2018-02-24T13:00:17-08:00",
-    "edtf:inception": "2018-02-24T13:00:17-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1519506017,
-      "created_at": "Sat Feb 24 21:00:17 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "193"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "27", 
-              "34"
-            ],
-            "text": "RJMuna"
-          }, 
-          {
-            "indices": [
-              "134", 
-              "150"
-            ],
-            "text": "AlonzoKingLINES"
-          }
+    "date:cessation_lower":"2018-02-24",
+    "date:cessation_upper":"2018-02-24",
+    "date:inception_lower":"2018-02-24",
+    "date:inception_upper":"2018-02-24",
+    "edtf:cessation":"2018-02-24T13:00:17-08:00",
+    "edtf:inception":"2018-02-24T13:00:17-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1519506017,
+        "created_at":"Sat Feb 24 21:00:17 +0000 2018",
+        "display_text_range":[
+            "0",
+            "193"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/S9kZr9rlZB",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/967504479317786624/photo/1",
-            "id": "967504476755161093",
-            "id_str": "967504476755161093",
-            "indices": [
-              "170", 
-              "193"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "27",
+                        "34"
+                    ],
+                    "text":"RJMuna"
+                },
+                {
+                    "indices":[
+                        "134",
+                        "150"
+                    ],
+                    "text":"AlonzoKingLINES"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DW1EMg-XcAUmCtg.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DW1EMg-XcAUmCtg.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1600"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "960"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "544"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/S9kZr9rlZB"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/S9kZr9rlZB",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/967504479317786624/photo/1",
-            "id": "967504476755161093",
-            "id_str": "967504476755161093",
-            "indices": [
-              "170", 
-              "193"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/S9kZr9rlZB",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/967504479317786624/photo/1",
+                    "id":"967504476755161093",
+                    "id_str":"967504476755161093",
+                    "indices":[
+                        "170",
+                        "193"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DW1EMg-XcAUmCtg.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DW1EMg-XcAUmCtg.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1600"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"960"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"544"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/S9kZr9rlZB"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DW1EMg-XcAUmCtg.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DW1EMg-XcAUmCtg.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1600"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "960"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "544"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/S9kZr9rlZB"
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "San Francisco-based artist #RJMuna has been photographing dance in the Bay Area for over twenty years and has been collaborating with #AlonzoKingLINES Ballet since 2009. https://t.co/S9kZr9rlZB",
-      "id": "967504479317786624",
-      "id_str": "967504479317786624",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/S9kZr9rlZB",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/967504479317786624/photo/1",
+                    "id":"967504476755161093",
+                    "id_str":"967504476755161093",
+                    "indices":[
+                        "170",
+                        "193"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DW1EMg-XcAUmCtg.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DW1EMg-XcAUmCtg.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1600"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"960"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"544"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/S9kZr9rlZB"
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"San Francisco-based artist #RJMuna has been photographing dance in the Bay Area for over twenty years and has been collaborating with #AlonzoKingLINES Ballet since 2009. https://t.co/S9kZr9rlZB",
+        "id":"967504479317786624",
+        "id_str":"967504479317786624",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729302519
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026087,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729302519,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026087,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729302519,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729302519,
-    "wof:lastmodified": 1602193910,
-    "wof:name": "San Francisco-based artist #RJMuna has been photographing dance in the Bay Area for over twenty years and has been collaborating with #AlonzoKingLINES Ballet since 2009. https://t.co/S9kZr9rlZB",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729302519,
+    "wof:lastmodified":1602634270,
+    "wof:name":"San Francisco-based artist #RJMuna has been photographing dance in the Bay Area for over twenty years and has been collaborating with #AlonzoKingLINES Ballet since 2009. https://t.co/S9kZr9rlZB",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

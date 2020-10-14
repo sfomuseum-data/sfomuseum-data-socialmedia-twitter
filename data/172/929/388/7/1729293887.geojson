@@ -2,134 +2,133 @@
   "id": 1729293887,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2015-08-18",
-    "date:cessation_upper": "2015-08-18",
-    "date:inception_lower": "2015-08-18",
-    "date:inception_upper": "2015-08-18",
-    "edtf:cessation": "2015-08-18T11:50:03-07:00",
-    "edtf:inception": "2015-08-18T11:50:03-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1439923803,
-      "created_at": "Tue Aug 18 18:50:03 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "136"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "85", 
-              "105"
-            ],
-            "text": "NationalAviationDay"
-          }, 
-          {
-            "indices": [
-              "106", 
-              "113"
-            ],
-            "text": "AVGeek"
-          }
+    "date:cessation_lower":"2015-08-18",
+    "date:cessation_upper":"2015-08-18",
+    "date:inception_lower":"2015-08-18",
+    "date:inception_upper":"2015-08-18",
+    "edtf:cessation":"2015-08-18T11:50:03-07:00",
+    "edtf:inception":"2015-08-18T11:50:03-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1439923803,
+        "created_at":"Tue Aug 18 18:50:03 +0000 2015",
+        "display_text_range":[
+            "0",
+            "136"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "cnn.com/2015/08/17/tra…",
-            "expanded_url": "http://www.cnn.com/2015/08/17/travel/national-aviation-day-feat/",
-            "indices": [
-              "114", 
-              "136"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "85",
+                        "105"
+                    ],
+                    "text":"NationalAviationDay"
+                },
+                {
+                    "indices":[
+                        "106",
+                        "113"
+                    ],
+                    "text":"AVGeek"
+                }
             ],
-            "url": "http://t.co/3m61trDQlD"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "742747086",
-            "id_str": "742747086",
-            "indices": [
-              "3", 
-              "19"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"cnn.com/2015/08/17/tra\u2026",
+                    "expanded_url":"http://www.cnn.com/2015/08/17/travel/national-aviation-day-feat/",
+                    "indices":[
+                        "114",
+                        "136"
+                    ],
+                    "url":"http://t.co/3m61trDQlD"
+                }
             ],
-            "name": "✨The Solar System✨",
-            "screen_name": "The_SolarSystem"
-          }, 
-          {
-            "id": "759251",
-            "id_str": "759251",
-            "indices": [
-              "80", 
-              "84"
-            ],
-            "name": "CNN",
-            "screen_name": "CNN"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @The_SolarSystem: Dear aviation: Are you OK? You need a day to yourself ~via @CNN #NationalAviationDay #AVGeek http://t.co/3m61trDQlD",
-      "id": "633712477579137024",
-      "id_str": "633712477579137024",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"742747086",
+                    "id_str":"742747086",
+                    "indices":[
+                        "3",
+                        "19"
+                    ],
+                    "name":"\u2728The Solar System\u2728",
+                    "screen_name":"The_SolarSystem"
+                },
+                {
+                    "id":"759251",
+                    "id_str":"759251",
+                    "indices":[
+                        "80",
+                        "84"
+                    ],
+                    "name":"CNN",
+                    "screen_name":"CNN"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @The_SolarSystem: Dear aviation: Are you OK? You need a day to yourself ~via @CNN #NationalAviationDay #AVGeek http://t.co/3m61trDQlD",
+        "id":"633712477579137024",
+        "id_str":"633712477579137024",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729293887
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025761,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729293887,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025761,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729293887,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729293887,
-    "wof:lastmodified": 1602193904,
-    "wof:name": "RT @The_SolarSystem: Dear aviation: Are you OK? You need a day to yourself ~via @CNN #NationalAviationDay #AVGeek http://t.co/3m61trDQlD",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729293887,
+    "wof:lastmodified":1602634708,
+    "wof:name":"RT @The_SolarSystem: Dear aviation: Are you OK? You need a day to yourself ~via @CNN #NationalAviationDay #AVGeek http://t.co/3m61trDQlD",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

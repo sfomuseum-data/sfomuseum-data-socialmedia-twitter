@@ -2,184 +2,183 @@
   "id": 1729305339,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-02-14",
-    "date:cessation_upper": "2019-02-14",
-    "date:inception_lower": "2019-02-14",
-    "date:inception_upper": "2019-02-14",
-    "edtf:cessation": "2019-02-14T11:45:32-08:00",
-    "edtf:inception": "2019-02-14T11:45:32-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1550173532,
-      "created_at": "Thu Feb 14 19:45:32 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "299"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "60", 
-              "74"
-            ],
-            "text": "ValentinesDay"
-          }
+    "date:cessation_lower":"2019-02-14",
+    "date:cessation_upper":"2019-02-14",
+    "date:inception_lower":"2019-02-14",
+    "date:inception_upper":"2019-02-14",
+    "edtf:cessation":"2019-02-14T11:45:32-08:00",
+    "edtf:inception":"2019-02-14T11:45:32-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1550173532,
+        "created_at":"Thu Feb 14 19:45:32 +0000 2019",
+        "display_text_range":[
+            "0",
+            "299"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/PsgdmvNWIU",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1096133357732225024/photo/1",
-            "id": "1096133348341104640",
-            "id_str": "1096133348341104640",
-            "indices": [
-              "276", 
-              "299"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "60",
+                        "74"
+                    ],
+                    "text":"ValentinesDay"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DzY_eQZUwAAML0q.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DzY_eQZUwAAML0q.jpg",
-            "sizes": {
-              "large": {
-                "h": "2048",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/PsgdmvNWIU"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/VideoArtsSFO",
-            "expanded_url": "http://bit.ly/VideoArtsSFO",
-            "indices": [
-              "252", 
-              "275"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/PsgdmvNWIU",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1096133357732225024/photo/1",
+                    "id":"1096133348341104640",
+                    "id_str":"1096133348341104640",
+                    "indices":[
+                        "276",
+                        "299"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DzY_eQZUwAAML0q.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DzY_eQZUwAAML0q.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2048",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/PsgdmvNWIU"
+                }
             ],
-            "url": "https://t.co/DxTr0Su0zZ"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/PsgdmvNWIU",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1096133357732225024/photo/1",
-            "id": "1096133348341104640",
-            "id_str": "1096133348341104640",
-            "indices": [
-              "276", 
-              "299"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/VideoArtsSFO",
+                    "expanded_url":"http://bit.ly/VideoArtsSFO",
+                    "indices":[
+                        "252",
+                        "275"
+                    ],
+                    "url":"https://t.co/DxTr0Su0zZ"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DzY_eQZUwAAML0q.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DzY_eQZUwAAML0q.jpg",
-            "sizes": {
-              "large": {
-                "h": "2048",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/PsgdmvNWIU"
-          }
-        ]
-      },
-      "favorite_count": "3",
-      "favorited": false,
-      "full_text": "If you’re flying through SFO, treat yourself to our special #ValentinesDay programming in our Video Arts gallery. Four romantic relationships are explored by filmmakers Tomoki Misato, Katy Wang, Tingting Liu, and Åsa Lucander in their animated shorts. https://t.co/DxTr0Su0zZ https://t.co/PsgdmvNWIU",
-      "id": "1096133357732225024",
-      "id_str": "1096133357732225024",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/PsgdmvNWIU",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1096133357732225024/photo/1",
+                    "id":"1096133348341104640",
+                    "id_str":"1096133348341104640",
+                    "indices":[
+                        "276",
+                        "299"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DzY_eQZUwAAML0q.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DzY_eQZUwAAML0q.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2048",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/PsgdmvNWIU"
+                }
+            ]
+        },
+        "favorite_count":"3",
+        "favorited":false,
+        "full_text":"If you\u2019re flying through SFO, treat yourself to our special #ValentinesDay programming in our Video Arts gallery. Four romantic relationships are explored by filmmakers Tomoki Misato, Katy Wang, Tingting Liu, and \u00c5sa Lucander in their animated shorts. https://t.co/DxTr0Su0zZ https://t.co/PsgdmvNWIU",
+        "id":"1096133357732225024",
+        "id_str":"1096133357732225024",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729305339
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026197,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729305339,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026197,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729305339,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729305339,
-    "wof:lastmodified": 1602193911,
-    "wof:name": "If you’re flying through SFO, treat yourself to our special #ValentinesDay programming in our Video Arts gallery. Four romantic relationships are explored by filmmakers Tomoki Misato, Katy Wang, Tingting Liu, and Åsa Lucander in their animated shorts. https://t.co/DxTr0Su0zZ https://t.co/PsgdmvNWIU",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729305339,
+    "wof:lastmodified":1602634192,
+    "wof:name":"If you\u2019re flying through SFO, treat yourself to our special #ValentinesDay programming in our Video Arts gallery. Four romantic relationships are explored by filmmakers Tomoki Misato, Katy Wang, Tingting Liu, and \u00c5sa Lucander in their animated shorts. https://t.co/DxTr0Su0zZ https://t.co/PsgdmvNWIU",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

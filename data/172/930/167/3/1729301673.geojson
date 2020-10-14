@@ -2,283 +2,282 @@
   "id": 1729301673,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2017-11-07",
-    "date:cessation_upper": "2017-11-07",
-    "date:inception_lower": "2017-11-07",
-    "date:inception_upper": "2017-11-07",
-    "edtf:cessation": "2017-11-07T11:01:48-08:00",
-    "edtf:inception": "2017-11-07T11:01:48-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1510081308,
-      "created_at": "Tue Nov 07 19:01:48 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "130"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "92", 
-              "106"
-            ],
-            "text": "UA747Farewell"
-          }
+    "date:cessation_lower":"2017-11-07",
+    "date:cessation_upper":"2017-11-07",
+    "date:inception_lower":"2017-11-07",
+    "date:inception_upper":"2017-11-07",
+    "edtf:cessation":"2017-11-07T11:01:48-08:00",
+    "edtf:inception":"2017-11-07T11:01:48-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1510081308,
+        "created_at":"Tue Nov 07 19:01:48 +0000 2017",
+        "display_text_range":[
+            "0",
+            "130"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/cwmXS3SRAP",
-            "expanded_url": "https://twitter.com/seanlewiswgn/status/927944967594549248/photo/1",
-            "id": "927944960023846912",
-            "id_str": "927944960023846912",
-            "indices": [
-              "107", 
-              "130"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "92",
+                        "106"
+                    ],
+                    "text":"UA747Farewell"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DOC5BlFV4AAP4lB.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DOC5BlFV4AAP4lB.jpg",
-            "sizes": {
-              "large": {
-                "h": "960",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "563",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "319",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "927944967594549248",
-            "source_status_id_str": "927944967594549248",
-            "source_user_id": "21890177",
-            "source_user_id_str": "21890177",
-            "type": "photo",
-            "url": "https://t.co/cwmXS3SRAP"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "21890177",
-            "id_str": "21890177",
-            "indices": [
-              "3", 
-              "16"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/cwmXS3SRAP",
+                    "expanded_url":"https://twitter.com/seanlewiswgn/status/927944967594549248/photo/1",
+                    "id":"927944960023846912",
+                    "id_str":"927944960023846912",
+                    "indices":[
+                        "107",
+                        "130"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DOC5BlFV4AAP4lB.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DOC5BlFV4AAP4lB.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"960",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"563",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"319",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"927944967594549248",
+                    "source_status_id_str":"927944967594549248",
+                    "source_user_id":"21890177",
+                    "source_user_id_str":"21890177",
+                    "type":"photo",
+                    "url":"https://t.co/cwmXS3SRAP"
+                }
             ],
-            "name": "Sean Lewis",
-            "screen_name": "seanlewiswgn"
-          }, 
-          {
-            "id": "260907612",
-            "id_str": "260907612",
-            "indices": [
-              "57", 
-              "64"
-            ],
-            "name": "United Airlines",
-            "screen_name": "united"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/cwmXS3SRAP",
-            "expanded_url": "https://twitter.com/seanlewiswgn/status/927944967594549248/photo/1",
-            "id": "927944960023846912",
-            "id_str": "927944960023846912",
-            "indices": [
-              "107", 
-              "130"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DOC5BlFV4AAP4lB.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DOC5BlFV4AAP4lB.jpg",
-            "sizes": {
-              "large": {
-                "h": "960",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "563",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "319",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "927944967594549248",
-            "source_status_id_str": "927944967594549248",
-            "source_user_id": "21890177",
-            "source_user_id_str": "21890177",
-            "type": "photo",
-            "url": "https://t.co/cwmXS3SRAP"
-          }, 
-          {
-            "display_url": "pic.twitter.com/cwmXS3SRAP",
-            "expanded_url": "https://twitter.com/seanlewiswgn/status/927944967594549248/photo/1",
-            "id": "927944960023728129",
-            "id_str": "927944960023728129",
-            "indices": [
-              "107", 
-              "130"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DOC5BlFUEAE2BOd.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DOC5BlFUEAE2BOd.jpg",
-            "sizes": {
-              "large": {
-                "h": "2048",
-                "resize": "fit",
-                "w": "1536"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "900"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "927944967594549248",
-            "source_status_id_str": "927944967594549248",
-            "source_user_id": "21890177",
-            "source_user_id_str": "21890177",
-            "type": "photo",
-            "url": "https://t.co/cwmXS3SRAP"
-          }, 
-          {
-            "display_url": "pic.twitter.com/cwmXS3SRAP",
-            "expanded_url": "https://twitter.com/seanlewiswgn/status/927944967594549248/photo/1",
-            "id": "927944960040566784",
-            "id_str": "927944960040566784",
-            "indices": [
-              "107", 
-              "130"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DOC5BlJVAAArBcv.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DOC5BlJVAAArBcv.jpg",
-            "sizes": {
-              "large": {
-                "h": "2048",
-                "resize": "fit",
-                "w": "1536"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "900"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "927944967594549248",
-            "source_status_id_str": "927944967594549248",
-            "source_user_id": "21890177",
-            "source_user_id_str": "21890177",
-            "type": "photo",
-            "url": "https://t.co/cwmXS3SRAP"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @seanlewiswgn: A huge crowd \u0026amp; personal stories as @United retires 747 after 47 years #UA747Farewell https://t.co/cwmXS3SRAP",
-      "id": "927974382206566400",
-      "id_str": "927974382206566400",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"21890177",
+                    "id_str":"21890177",
+                    "indices":[
+                        "3",
+                        "16"
+                    ],
+                    "name":"Sean Lewis",
+                    "screen_name":"seanlewiswgn"
+                },
+                {
+                    "id":"260907612",
+                    "id_str":"260907612",
+                    "indices":[
+                        "57",
+                        "64"
+                    ],
+                    "name":"United Airlines",
+                    "screen_name":"united"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/cwmXS3SRAP",
+                    "expanded_url":"https://twitter.com/seanlewiswgn/status/927944967594549248/photo/1",
+                    "id":"927944960023846912",
+                    "id_str":"927944960023846912",
+                    "indices":[
+                        "107",
+                        "130"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DOC5BlFV4AAP4lB.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DOC5BlFV4AAP4lB.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"960",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"563",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"319",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"927944967594549248",
+                    "source_status_id_str":"927944967594549248",
+                    "source_user_id":"21890177",
+                    "source_user_id_str":"21890177",
+                    "type":"photo",
+                    "url":"https://t.co/cwmXS3SRAP"
+                },
+                {
+                    "display_url":"pic.twitter.com/cwmXS3SRAP",
+                    "expanded_url":"https://twitter.com/seanlewiswgn/status/927944967594549248/photo/1",
+                    "id":"927944960023728129",
+                    "id_str":"927944960023728129",
+                    "indices":[
+                        "107",
+                        "130"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DOC5BlFUEAE2BOd.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DOC5BlFUEAE2BOd.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2048",
+                            "resize":"fit",
+                            "w":"1536"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"900"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"927944967594549248",
+                    "source_status_id_str":"927944967594549248",
+                    "source_user_id":"21890177",
+                    "source_user_id_str":"21890177",
+                    "type":"photo",
+                    "url":"https://t.co/cwmXS3SRAP"
+                },
+                {
+                    "display_url":"pic.twitter.com/cwmXS3SRAP",
+                    "expanded_url":"https://twitter.com/seanlewiswgn/status/927944967594549248/photo/1",
+                    "id":"927944960040566784",
+                    "id_str":"927944960040566784",
+                    "indices":[
+                        "107",
+                        "130"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DOC5BlJVAAArBcv.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DOC5BlJVAAArBcv.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2048",
+                            "resize":"fit",
+                            "w":"1536"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"900"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"510"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"927944967594549248",
+                    "source_status_id_str":"927944967594549248",
+                    "source_user_id":"21890177",
+                    "source_user_id_str":"21890177",
+                    "type":"photo",
+                    "url":"https://t.co/cwmXS3SRAP"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @seanlewiswgn: A huge crowd &amp; personal stories as @United retires 747 after 47 years #UA747Farewell https://t.co/cwmXS3SRAP",
+        "id":"927974382206566400",
+        "id_str":"927974382206566400",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729301673
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026054,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729301673,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026054,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729301673,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729301673,
-    "wof:lastmodified": 1602193909,
-    "wof:name": "RT @seanlewiswgn: A huge crowd \u0026amp; personal stories as @United retires 747 after 47 years #UA747Farewell https://t.co/cwmXS3SRAP",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729301673,
+    "wof:lastmodified":1602634212,
+    "wof:name":"RT @seanlewiswgn: A huge crowd &amp; personal stories as @United retires 747 after 47 years #UA747Farewell https://t.co/cwmXS3SRAP",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

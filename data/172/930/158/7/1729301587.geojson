@@ -2,333 +2,332 @@
   "id": 1729301587,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2017-11-07",
-    "date:cessation_upper": "2017-11-07",
-    "date:inception_lower": "2017-11-07",
-    "date:inception_upper": "2017-11-07",
-    "edtf:cessation": "2017-11-07T09:12:34-08:00",
-    "edtf:inception": "2017-11-07T09:12:34-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1510074754,
-      "created_at": "Tue Nov 07 17:12:34 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "132"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "94", 
-              "108"
-            ],
-            "text": "UA747Farewell"
-          }
+    "date:cessation_lower":"2017-11-07",
+    "date:cessation_upper":"2017-11-07",
+    "date:inception_lower":"2017-11-07",
+    "date:inception_upper":"2017-11-07",
+    "edtf:cessation":"2017-11-07T09:12:34-08:00",
+    "edtf:inception":"2017-11-07T09:12:34-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1510074754,
+        "created_at":"Tue Nov 07 17:12:34 +0000 2017",
+        "display_text_range":[
+            "0",
+            "132"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/4kL9g3VEea",
-            "expanded_url": "https://twitter.com/AirlineGeeks/status/927925253979779072/photo/1",
-            "id": "927925235831025664",
-            "id_str": "927925235831025664",
-            "indices": [
-              "109", 
-              "132"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "94",
+                        "108"
+                    ],
+                    "text":"UA747Farewell"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DOCnFevUMAAhQ9y.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DOCnFevUMAAhQ9y.jpg",
-            "sizes": {
-              "large": {
-                "h": "1536",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "900",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "927925253979779072",
-            "source_status_id_str": "927925253979779072",
-            "source_user_id": "330504751",
-            "source_user_id_str": "330504751",
-            "type": "photo",
-            "url": "https://t.co/4kL9g3VEea"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "330504751",
-            "id_str": "330504751",
-            "indices": [
-              "3", 
-              "16"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/4kL9g3VEea",
+                    "expanded_url":"https://twitter.com/AirlineGeeks/status/927925253979779072/photo/1",
+                    "id":"927925235831025664",
+                    "id_str":"927925235831025664",
+                    "indices":[
+                        "109",
+                        "132"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DOCnFevUMAAhQ9y.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DOCnFevUMAAhQ9y.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1536",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"900",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"927925253979779072",
+                    "source_status_id_str":"927925253979779072",
+                    "source_user_id":"330504751",
+                    "source_user_id_str":"330504751",
+                    "type":"photo",
+                    "url":"https://t.co/4kL9g3VEea"
+                }
             ],
-            "name": "AirlineGeeks",
-            "screen_name": "AirlineGeeks"
-          }, 
-          {
-            "id": "16408759",
-            "id_str": "16408759",
-            "indices": [
-              "44", 
-              "51"
-            ],
-            "name": "San Francisco International Airport (SFO) ✈️",
-            "screen_name": "flySFO"
-          }, 
-          {
-            "id": "260907612",
-            "id_str": "260907612",
-            "indices": [
-              "58", 
-              "65"
-            ],
-            "name": "United Airlines",
-            "screen_name": "united"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/4kL9g3VEea",
-            "expanded_url": "https://twitter.com/AirlineGeeks/status/927925253979779072/photo/1",
-            "id": "927925235831025664",
-            "id_str": "927925235831025664",
-            "indices": [
-              "109", 
-              "132"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DOCnFevUMAAhQ9y.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DOCnFevUMAAhQ9y.jpg",
-            "sizes": {
-              "large": {
-                "h": "1536",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "900",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "927925253979779072",
-            "source_status_id_str": "927925253979779072",
-            "source_user_id": "330504751",
-            "source_user_id_str": "330504751",
-            "type": "photo",
-            "url": "https://t.co/4kL9g3VEea"
-          }, 
-          {
-            "display_url": "pic.twitter.com/4kL9g3VEea",
-            "expanded_url": "https://twitter.com/AirlineGeeks/status/927925253979779072/photo/1",
-            "id": "927925235843608576",
-            "id_str": "927925235843608576",
-            "indices": [
-              "109", 
-              "132"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DOCnFeyUMAAhx56.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DOCnFeyUMAAhx56.jpg",
-            "sizes": {
-              "large": {
-                "h": "1536",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "900",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "927925253979779072",
-            "source_status_id_str": "927925253979779072",
-            "source_user_id": "330504751",
-            "source_user_id_str": "330504751",
-            "type": "photo",
-            "url": "https://t.co/4kL9g3VEea"
-          }, 
-          {
-            "display_url": "pic.twitter.com/4kL9g3VEea",
-            "expanded_url": "https://twitter.com/AirlineGeeks/status/927925253979779072/photo/1",
-            "id": "927925235831136256",
-            "id_str": "927925235831136256",
-            "indices": [
-              "109", 
-              "132"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DOCnFevV4AAdsXv.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DOCnFevV4AAdsXv.jpg",
-            "sizes": {
-              "large": {
-                "h": "1536",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "900",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "927925253979779072",
-            "source_status_id_str": "927925253979779072",
-            "source_user_id": "330504751",
-            "source_user_id_str": "330504751",
-            "type": "photo",
-            "url": "https://t.co/4kL9g3VEea"
-          }, 
-          {
-            "display_url": "pic.twitter.com/4kL9g3VEea",
-            "expanded_url": "https://twitter.com/AirlineGeeks/status/927925253979779072/photo/1",
-            "id": "927925235810148355",
-            "id_str": "927925235810148355",
-            "indices": [
-              "109", 
-              "132"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DOCnFeqVoAMLJEs.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DOCnFeqVoAMLJEs.jpg",
-            "sizes": {
-              "large": {
-                "h": "1536",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "900",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "927925253979779072",
-            "source_status_id_str": "927925253979779072",
-            "source_user_id": "330504751",
-            "source_user_id_str": "330504751",
-            "type": "photo",
-            "url": "https://t.co/4kL9g3VEea"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @AirlineGeeks: Good morning from Gate 86 @flySFO where @United’s last 747 will depart from #UA747Farewell https://t.co/4kL9g3VEea",
-      "id": "927946894814277633",
-      "id_str": "927946894814277633",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"330504751",
+                    "id_str":"330504751",
+                    "indices":[
+                        "3",
+                        "16"
+                    ],
+                    "name":"AirlineGeeks",
+                    "screen_name":"AirlineGeeks"
+                },
+                {
+                    "id":"16408759",
+                    "id_str":"16408759",
+                    "indices":[
+                        "44",
+                        "51"
+                    ],
+                    "name":"San Francisco International Airport (SFO) \u2708\ufe0f",
+                    "screen_name":"flySFO"
+                },
+                {
+                    "id":"260907612",
+                    "id_str":"260907612",
+                    "indices":[
+                        "58",
+                        "65"
+                    ],
+                    "name":"United Airlines",
+                    "screen_name":"united"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/4kL9g3VEea",
+                    "expanded_url":"https://twitter.com/AirlineGeeks/status/927925253979779072/photo/1",
+                    "id":"927925235831025664",
+                    "id_str":"927925235831025664",
+                    "indices":[
+                        "109",
+                        "132"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DOCnFevUMAAhQ9y.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DOCnFevUMAAhQ9y.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1536",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"900",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"927925253979779072",
+                    "source_status_id_str":"927925253979779072",
+                    "source_user_id":"330504751",
+                    "source_user_id_str":"330504751",
+                    "type":"photo",
+                    "url":"https://t.co/4kL9g3VEea"
+                },
+                {
+                    "display_url":"pic.twitter.com/4kL9g3VEea",
+                    "expanded_url":"https://twitter.com/AirlineGeeks/status/927925253979779072/photo/1",
+                    "id":"927925235843608576",
+                    "id_str":"927925235843608576",
+                    "indices":[
+                        "109",
+                        "132"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DOCnFeyUMAAhx56.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DOCnFeyUMAAhx56.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1536",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"900",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"927925253979779072",
+                    "source_status_id_str":"927925253979779072",
+                    "source_user_id":"330504751",
+                    "source_user_id_str":"330504751",
+                    "type":"photo",
+                    "url":"https://t.co/4kL9g3VEea"
+                },
+                {
+                    "display_url":"pic.twitter.com/4kL9g3VEea",
+                    "expanded_url":"https://twitter.com/AirlineGeeks/status/927925253979779072/photo/1",
+                    "id":"927925235831136256",
+                    "id_str":"927925235831136256",
+                    "indices":[
+                        "109",
+                        "132"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DOCnFevV4AAdsXv.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DOCnFevV4AAdsXv.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1536",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"900",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"927925253979779072",
+                    "source_status_id_str":"927925253979779072",
+                    "source_user_id":"330504751",
+                    "source_user_id_str":"330504751",
+                    "type":"photo",
+                    "url":"https://t.co/4kL9g3VEea"
+                },
+                {
+                    "display_url":"pic.twitter.com/4kL9g3VEea",
+                    "expanded_url":"https://twitter.com/AirlineGeeks/status/927925253979779072/photo/1",
+                    "id":"927925235810148355",
+                    "id_str":"927925235810148355",
+                    "indices":[
+                        "109",
+                        "132"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DOCnFeqVoAMLJEs.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DOCnFeqVoAMLJEs.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1536",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"900",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"927925253979779072",
+                    "source_status_id_str":"927925253979779072",
+                    "source_user_id":"330504751",
+                    "source_user_id_str":"330504751",
+                    "type":"photo",
+                    "url":"https://t.co/4kL9g3VEea"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @AirlineGeeks: Good morning from Gate 86 @flySFO where @United\u2019s last 747 will depart from #UA747Farewell https://t.co/4kL9g3VEea",
+        "id":"927946894814277633",
+        "id_str":"927946894814277633",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729301587
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026051,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729301587,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026051,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729301587,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729301587,
-    "wof:lastmodified": 1602193909,
-    "wof:name": "RT @AirlineGeeks: Good morning from Gate 86 @flySFO where @United’s last 747 will depart from #UA747Farewell https://t.co/4kL9g3VEea",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729301587,
+    "wof:lastmodified":1602634211,
+    "wof:name":"RT @AirlineGeeks: Good morning from Gate 86 @flySFO where @United\u2019s last 747 will depart from #UA747Farewell https://t.co/4kL9g3VEea",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

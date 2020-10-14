@@ -2,195 +2,194 @@
   "id": 1729304591,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2018-10-27",
-    "date:cessation_upper": "2018-10-27",
-    "date:inception_lower": "2018-10-27",
-    "date:inception_upper": "2018-10-27",
-    "edtf:cessation": "2018-10-27T12:15:05-07:00",
-    "edtf:inception": "2018-10-27T12:15:05-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1540667705,
-      "created_at": "Sat Oct 27 19:15:05 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "241"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "0", 
-              "7"
-            ],
-            "text": "Warhol"
-          }, 
-          {
-            "indices": [
-              "10", 
-              "15"
-            ],
-            "text": "cats"
-          }, 
-          {
-            "indices": [
-              "59", 
-              "66"
-            ],
-            "text": "kitten"
-          }, 
-          {
-            "indices": [
-              "208", 
-              "217"
-            ],
-            "text": "Caticons"
-          }
+    "date:cessation_lower":"2018-10-27",
+    "date:cessation_upper":"2018-10-27",
+    "date:inception_lower":"2018-10-27",
+    "date:inception_upper":"2018-10-27",
+    "edtf:cessation":"2018-10-27T12:15:05-07:00",
+    "edtf:inception":"2018-10-27T12:15:05-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1540667705,
+        "created_at":"Sat Oct 27 19:15:05 +0000 2018",
+        "display_text_range":[
+            "0",
+            "241"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/sEnQlOJoEd",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1056263028545634304/photo/1",
-            "id": "1056263025957724160",
-            "id_str": "1056263025957724160",
-            "indices": [
-              "218", 
-              "241"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "0",
+                        "7"
+                    ],
+                    "text":"Warhol"
+                },
+                {
+                    "indices":[
+                        "10",
+                        "15"
+                    ],
+                    "text":"cats"
+                },
+                {
+                    "indices":[
+                        "59",
+                        "66"
+                    ],
+                    "text":"kitten"
+                },
+                {
+                    "indices":[
+                        "208",
+                        "217"
+                    ],
+                    "text":"Caticons"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DqiZoDOW4AAYsaI.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DqiZoDOW4AAYsaI.jpg",
-            "sizes": {
-              "large": {
-                "h": "1333",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "800",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/sEnQlOJoEd"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/sEnQlOJoEd",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1056263028545634304/photo/1",
-            "id": "1056263025957724160",
-            "id_str": "1056263025957724160",
-            "indices": [
-              "218", 
-              "241"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/sEnQlOJoEd",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1056263028545634304/photo/1",
+                    "id":"1056263025957724160",
+                    "id_str":"1056263025957724160",
+                    "indices":[
+                        "218",
+                        "241"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DqiZoDOW4AAYsaI.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DqiZoDOW4AAYsaI.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1333",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"800",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/sEnQlOJoEd"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DqiZoDOW4AAYsaI.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DqiZoDOW4AAYsaI.jpg",
-            "sizes": {
-              "large": {
-                "h": "1333",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "800",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/sEnQlOJoEd"
-          }
-        ]
-      },
-      "favorite_count": "4",
-      "favorited": false,
-      "full_text": "#Warhol's #cats had numerous litters and Warhol named each #kitten after their father, Sam. “25 Cats Name Sam and One Blue Pussy” was released in a limited edition initially intended for friends and clients. #Caticons https://t.co/sEnQlOJoEd",
-      "id": "1056263028545634304",
-      "id_str": "1056263028545634304",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/sEnQlOJoEd",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1056263028545634304/photo/1",
+                    "id":"1056263025957724160",
+                    "id_str":"1056263025957724160",
+                    "indices":[
+                        "218",
+                        "241"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DqiZoDOW4AAYsaI.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DqiZoDOW4AAYsaI.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1333",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"800",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/sEnQlOJoEd"
+                }
+            ]
+        },
+        "favorite_count":"4",
+        "favorited":false,
+        "full_text":"#Warhol's #cats had numerous litters and Warhol named each #kitten after their father, Sam. \u201c25 Cats Name Sam and One Blue Pussy\u201d was released in a limited edition initially intended for friends and clients. #Caticons https://t.co/sEnQlOJoEd",
+        "id":"1056263028545634304",
+        "id_str":"1056263028545634304",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729304591
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026168,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729304591,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026168,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729304591,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729304591,
-    "wof:lastmodified": 1602193911,
-    "wof:name": "#Warhol's #cats had numerous litters and Warhol named each #kitten after their father, Sam. “25 Cats Name Sam and One Blue Pussy” was released in a limited edition initially intended for friends and clients. #Caticons https://t.co/sEnQlOJoEd",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729304591,
+    "wof:lastmodified":1602634400,
+    "wof:name":"#Warhol's #cats had numerous litters and Warhol named each #kitten after their father, Sam. \u201c25 Cats Name Sam and One Blue Pussy\u201d was released in a limited edition initially intended for friends and clients. #Caticons https://t.co/sEnQlOJoEd",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

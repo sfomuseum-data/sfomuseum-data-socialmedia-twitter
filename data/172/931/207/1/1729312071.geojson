@@ -2,124 +2,123 @@
   "id": 1729312071,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2013-05-28",
-    "date:cessation_upper": "2013-05-28",
-    "date:inception_lower": "2013-05-28",
-    "date:inception_upper": "2013-05-28",
-    "edtf:cessation": "2013-05-28T09:46:06-07:00",
-    "edtf:inception": "2013-05-28T09:46:06-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1369759566,
-      "created_at": "Tue May 28 16:46:06 +0000 2013",
-      "display_text_range": [
-        "0", 
-        "142"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/lte52",
-            "expanded_url": "http://ow.ly/lte52",
-            "indices": [
-              "120", 
-              "142"
-            ],
-            "url": "http://t.co/QoE7ITatrI"
-          }
+    "date:cessation_lower":"2013-05-28",
+    "date:cessation_upper":"2013-05-28",
+    "date:inception_lower":"2013-05-28",
+    "date:inception_upper":"2013-05-28",
+    "edtf:cessation":"2013-05-28T09:46:06-07:00",
+    "edtf:inception":"2013-05-28T09:46:06-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1369759566,
+        "created_at":"Tue May 28 16:46:06 +0000 2013",
+        "display_text_range":[
+            "0",
+            "142"
         ],
-        "user_mentions": [
-          {
-            "id": "120506960",
-            "id_str": "120506960",
-            "indices": [
-              "0", 
-              "6"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/lte52",
+                    "expanded_url":"http://ow.ly/lte52",
+                    "indices":[
+                        "120",
+                        "142"
+                    ],
+                    "url":"http://t.co/QoE7ITatrI"
+                }
             ],
-            "name": "Adrian Sandoval",
-            "screen_name": "EBwiz"
-          }, 
-          {
-            "id": "1371271159",
-            "id_str": "1371271159",
-            "indices": [
-              "7", 
-              "18"
-            ],
-            "name": "Tomm Hulett is Screaming Inside his Heart",
-            "screen_name": "Hypnocrite"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "@ebwiz @hypnocrite Let's Play! (our board game exhibit) closed last week \u0026amp; has been replaced w/ From Ship to Shore: http://t.co/QoE7ITatrI",
-      "id": "339422338695172096",
-      "id_str": "339422338695172096",
-      "in_reply_to_screen_name": "EBwiz",
-      "in_reply_to_status_id": "339124697306378240",
-      "in_reply_to_status_id_str": "339124697306378240",
-      "in_reply_to_user_id": "120506960",
-      "in_reply_to_user_id_str": "120506960",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"120506960",
+                    "id_str":"120506960",
+                    "indices":[
+                        "0",
+                        "6"
+                    ],
+                    "name":"Adrian Sandoval",
+                    "screen_name":"EBwiz"
+                },
+                {
+                    "id":"1371271159",
+                    "id_str":"1371271159",
+                    "indices":[
+                        "7",
+                        "18"
+                    ],
+                    "name":"Tomm Hulett is Screaming Inside his Heart",
+                    "screen_name":"Hypnocrite"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"@ebwiz @hypnocrite Let's Play! (our board game exhibit) closed last week &amp; has been replaced w/ From Ship to Shore: http://t.co/QoE7ITatrI",
+        "id":"339422338695172096",
+        "id_str":"339422338695172096",
+        "in_reply_to_screen_name":"EBwiz",
+        "in_reply_to_status_id":"339124697306378240",
+        "in_reply_to_status_id_str":"339124697306378240",
+        "in_reply_to_user_id":"120506960",
+        "in_reply_to_user_id_str":"120506960",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729312071
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026457,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729312071,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026457,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729312071,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729312071,
-    "wof:lastmodified": 1602193915,
-    "wof:name": "@ebwiz @hypnocrite Let's Play! (our board game exhibit) closed last week \u0026amp; has been replaced w/ From Ship to Shore: http://t.co/QoE7ITatrI",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729312071,
+    "wof:lastmodified":1602634169,
+    "wof:name":"@ebwiz @hypnocrite Let's Play! (our board game exhibit) closed last week &amp; has been replaced w/ From Ship to Shore: http://t.co/QoE7ITatrI",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

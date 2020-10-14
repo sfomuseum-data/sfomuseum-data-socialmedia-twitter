@@ -2,98 +2,97 @@
   "id": 1729292957,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2015-02-05",
-    "date:cessation_upper": "2015-02-05",
-    "date:inception_lower": "2015-02-05",
-    "date:inception_upper": "2015-02-05",
-    "edtf:cessation": "2015-02-05T14:49:20-08:00",
-    "edtf:inception": "2015-02-05T14:49:20-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1423176560,
-      "created_at": "Thu Feb 05 22:49:20 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "126"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "instagram.com/p/yvKGqwxkys/",
-            "expanded_url": "http://instagram.com/p/yvKGqwxkys/",
-            "indices": [
-              "104", 
-              "126"
-            ],
-            "url": "http://t.co/zAGEgG7HzZ"
-          }
+    "date:cessation_lower":"2015-02-05",
+    "date:cessation_upper":"2015-02-05",
+    "date:inception_lower":"2015-02-05",
+    "date:inception_upper":"2015-02-05",
+    "edtf:cessation":"2015-02-05T14:49:20-08:00",
+    "edtf:inception":"2015-02-05T14:49:20-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1423176560,
+        "created_at":"Thu Feb 05 22:49:20 +0000 2015",
+        "display_text_range":[
+            "0",
+            "126"
         ],
-        "user_mentions": []
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "Hedy Lamarr (1914-2000), known for her exoticism and alluring looks, was billed as \"the most beautiful… http://t.co/zAGEgG7HzZ",
-      "id": "563469449672814592",
-      "id_str": "563469449672814592",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "2",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
-      "truncated": false
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"instagram.com/p/yvKGqwxkys/",
+                    "expanded_url":"http://instagram.com/p/yvKGqwxkys/",
+                    "indices":[
+                        "104",
+                        "126"
+                    ],
+                    "url":"http://t.co/zAGEgG7HzZ"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"Hedy Lamarr (1914-2000), known for her exoticism and alluring looks, was billed as \"the most beautiful\u2026 http://t.co/zAGEgG7HzZ",
+        "id":"563469449672814592",
+        "id_str":"563469449672814592",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"2",
+        "retweeted":false,
+        "source":"<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729292957
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025727,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729292957,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025727,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729292957,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729292957,
-    "wof:lastmodified": 1602193904,
-    "wof:name": "Hedy Lamarr (1914-2000), known for her exoticism and alluring looks, was billed as \"the most beautiful… http://t.co/zAGEgG7HzZ",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729292957,
+    "wof:lastmodified":1602634524,
+    "wof:name":"Hedy Lamarr (1914-2000), known for her exoticism and alluring looks, was billed as \"the most beautiful\u2026 http://t.co/zAGEgG7HzZ",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

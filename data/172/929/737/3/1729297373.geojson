@@ -2,174 +2,173 @@
   "id": 1729297373,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2016-08-09",
-    "date:cessation_upper": "2016-08-09",
-    "date:inception_lower": "2016-08-09",
-    "date:inception_upper": "2016-08-09",
-    "edtf:cessation": "2016-08-09T19:10:07-07:00",
-    "edtf:inception": "2016-08-09T19:10:07-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1470795007,
-      "created_at": "Wed Aug 10 02:10:07 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "139"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "101", 
-              "115"
-            ],
-            "text": "TravelTuesday"
-          }
+    "date:cessation_lower":"2016-08-09",
+    "date:cessation_upper":"2016-08-09",
+    "date:inception_lower":"2016-08-09",
+    "date:inception_upper":"2016-08-09",
+    "edtf:cessation":"2016-08-09T19:10:07-07:00",
+    "edtf:inception":"2016-08-09T19:10:07-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1470795007,
+        "created_at":"Wed Aug 10 02:10:07 +0000 2016",
+        "display_text_range":[
+            "0",
+            "139"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/UvFqi5czsu",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/763195691871170560/photo/1",
-            "id": "763195688658333698",
-            "id_str": "763195688658333698",
-            "indices": [
-              "116", 
-              "139"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "101",
+                        "115"
+                    ],
+                    "text":"TravelTuesday"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Cpdqb2yW8AI9YLq.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Cpdqb2yW8AI9YLq.jpg",
-            "sizes": {
-              "large": {
-                "h": "1310",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "786",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "445",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/UvFqi5czsu"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/UvFqi5czsu",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/763195691871170560/photo/1",
-            "id": "763195688658333698",
-            "id_str": "763195688658333698",
-            "indices": [
-              "116", 
-              "139"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/UvFqi5czsu",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/763195691871170560/photo/1",
+                    "id":"763195688658333698",
+                    "id_str":"763195688658333698",
+                    "indices":[
+                        "116",
+                        "139"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Cpdqb2yW8AI9YLq.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Cpdqb2yW8AI9YLq.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1310",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"786",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"445",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/UvFqi5czsu"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Cpdqb2yW8AI9YLq.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Cpdqb2yW8AI9YLq.jpg",
-            "sizes": {
-              "large": {
-                "h": "1310",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "786",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "445",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/UvFqi5czsu"
-          }
-        ]
-      },
-      "favorite_count": "4",
-      "favorited": false,
-      "full_text": "Philippine Air Lines (PAL) was established in 1941 by various businessmen, including Andrés Soriano. #TravelTuesday https://t.co/UvFqi5czsu",
-      "id": "763195691871170560",
-      "id_str": "763195691871170560",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/UvFqi5czsu",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/763195691871170560/photo/1",
+                    "id":"763195688658333698",
+                    "id_str":"763195688658333698",
+                    "indices":[
+                        "116",
+                        "139"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Cpdqb2yW8AI9YLq.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Cpdqb2yW8AI9YLq.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1310",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"786",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"445",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/UvFqi5czsu"
+                }
+            ]
+        },
+        "favorite_count":"4",
+        "favorited":false,
+        "full_text":"Philippine Air Lines (PAL) was established in 1941 by various businessmen, including Andr\u00e9s Soriano. #TravelTuesday https://t.co/UvFqi5czsu",
+        "id":"763195691871170560",
+        "id_str":"763195691871170560",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729297373
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025895,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729297373,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025895,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729297373,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729297373,
-    "wof:lastmodified": 1602193906,
-    "wof:name": "Philippine Air Lines (PAL) was established in 1941 by various businessmen, including Andrés Soriano. #TravelTuesday https://t.co/UvFqi5czsu",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729297373,
+    "wof:lastmodified":1602634461,
+    "wof:name":"Philippine Air Lines (PAL) was established in 1941 by various businessmen, including Andr\u00e9s Soriano. #TravelTuesday https://t.co/UvFqi5czsu",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

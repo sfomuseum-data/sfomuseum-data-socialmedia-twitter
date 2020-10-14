@@ -2,188 +2,187 @@
   "id": 1729302937,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2018-04-12",
-    "date:cessation_upper": "2018-04-12",
-    "date:inception_lower": "2018-04-12",
-    "date:inception_upper": "2018-04-12",
-    "edtf:cessation": "2018-04-12T12:45:07-07:00",
-    "edtf:inception": "2018-04-12T12:45:07-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1523562307,
-      "created_at": "Thu Apr 12 19:45:07 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "265"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "214", 
-              "223"
-            ],
-            "text": "Bakelite"
-          }, 
-          {
-            "indices": [
-              "225", 
-              "234"
-            ],
-            "text": "RadioSFO"
-          }, 
-          {
-            "indices": [
-              "235", 
-              "241"
-            ],
-            "text": "radio"
-          }
+    "date:cessation_lower":"2018-04-12",
+    "date:cessation_upper":"2018-04-12",
+    "date:inception_lower":"2018-04-12",
+    "date:inception_upper":"2018-04-12",
+    "edtf:cessation":"2018-04-12T12:45:07-07:00",
+    "edtf:inception":"2018-04-12T12:45:07-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1523562307,
+        "created_at":"Thu Apr 12 19:45:07 +0000 2018",
+        "display_text_range":[
+            "0",
+            "265"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/WJCcDNYLm3",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/984517790139895810/photo/1",
-            "id": "984517786784301056",
-            "id_str": "984517786784301056",
-            "indices": [
-              "242", 
-              "265"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "214",
+                        "223"
+                    ],
+                    "text":"Bakelite"
+                },
+                {
+                    "indices":[
+                        "225",
+                        "234"
+                    ],
+                    "text":"RadioSFO"
+                },
+                {
+                    "indices":[
+                        "235",
+                        "241"
+                    ],
+                    "text":"radio"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Dam1tfxVAAAXgXy.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Dam1tfxVAAAXgXy.jpg",
-            "sizes": {
-              "large": {
-                "h": "1333",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "800",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/WJCcDNYLm3"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/WJCcDNYLm3",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/984517790139895810/photo/1",
-            "id": "984517786784301056",
-            "id_str": "984517786784301056",
-            "indices": [
-              "242", 
-              "265"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/WJCcDNYLm3",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/984517790139895810/photo/1",
+                    "id":"984517786784301056",
+                    "id_str":"984517786784301056",
+                    "indices":[
+                        "242",
+                        "265"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Dam1tfxVAAAXgXy.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Dam1tfxVAAAXgXy.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1333",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"800",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/WJCcDNYLm3"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/Dam1tfxVAAAXgXy.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Dam1tfxVAAAXgXy.jpg",
-            "sizes": {
-              "large": {
-                "h": "1333",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "800",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "453",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/WJCcDNYLm3"
-          }
-        ]
-      },
-      "favorite_count": "9",
-      "favorited": false,
-      "full_text": "While the color of Bakelite was initially a translucent amber, the addition of fillers and heat in the manufacturing process changed the plastic into its characteristically opaque, dark brown color. Do you own any #Bakelite? #RadioSFO #radio https://t.co/WJCcDNYLm3",
-      "id": "984517790139895810",
-      "id_str": "984517790139895810",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "3",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/WJCcDNYLm3",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/984517790139895810/photo/1",
+                    "id":"984517786784301056",
+                    "id_str":"984517786784301056",
+                    "indices":[
+                        "242",
+                        "265"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/Dam1tfxVAAAXgXy.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/Dam1tfxVAAAXgXy.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1333",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"800",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"453",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/WJCcDNYLm3"
+                }
+            ]
+        },
+        "favorite_count":"9",
+        "favorited":false,
+        "full_text":"While the color of Bakelite was initially a translucent amber, the addition of fillers and heat in the manufacturing process changed the plastic into its characteristically opaque, dark brown color. Do you own any #Bakelite? #RadioSFO #radio https://t.co/WJCcDNYLm3",
+        "id":"984517790139895810",
+        "id_str":"984517790139895810",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"3",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729302937
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026104,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729302937,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026104,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729302937,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729302937,
-    "wof:lastmodified": 1602193910,
-    "wof:name": "While the color of Bakelite was initially a translucent amber, the addition of fillers and heat in the manufacturing process changed the plastic into its characteristically opaque, dark brown color. Do you own any #Bakelite? #RadioSFO #radio https://t.co/WJCcDNYLm3",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729302937,
+    "wof:lastmodified":1602634269,
+    "wof:name":"While the color of Bakelite was initially a translucent amber, the addition of fillers and heat in the manufacturing process changed the plastic into its characteristically opaque, dark brown color. Do you own any #Bakelite? #RadioSFO #radio https://t.co/WJCcDNYLm3",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,174 +2,173 @@
   "id": 1729306133,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-05-16",
-    "date:cessation_upper": "2019-05-16",
-    "date:inception_lower": "2019-05-16",
-    "date:inception_upper": "2019-05-16",
-    "edtf:cessation": "2019-05-16T17:40:04-07:00",
-    "edtf:inception": "2019-05-16T17:40:04-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1558053604,
-      "created_at": "Fri May 17 00:40:04 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "302"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "271", 
-              "278"
-            ],
-            "text": "avgeek"
-          }
+    "date:cessation_lower":"2019-05-16",
+    "date:cessation_upper":"2019-05-16",
+    "date:inception_lower":"2019-05-16",
+    "date:inception_upper":"2019-05-16",
+    "edtf:cessation":"2019-05-16T17:40:04-07:00",
+    "edtf:inception":"2019-05-16T17:40:04-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1558053604,
+        "created_at":"Fri May 17 00:40:04 +0000 2019",
+        "display_text_range":[
+            "0",
+            "302"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/cpi8DmBoOf",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1129184775313477634/photo/1",
-            "id": "1129184773140897793",
-            "id_str": "1129184773140897793",
-            "indices": [
-              "279", 
-              "302"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "271",
+                        "278"
+                    ],
+                    "text":"avgeek"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/D6urkYjX4AEpGFO.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/D6urkYjX4AEpGFO.jpg",
-            "sizes": {
-              "large": {
-                "h": "1591",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "955",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "541",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/cpi8DmBoOf"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/cpi8DmBoOf",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1129184775313477634/photo/1",
-            "id": "1129184773140897793",
-            "id_str": "1129184773140897793",
-            "indices": [
-              "279", 
-              "302"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/cpi8DmBoOf",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1129184775313477634/photo/1",
+                    "id":"1129184773140897793",
+                    "id_str":"1129184773140897793",
+                    "indices":[
+                        "279",
+                        "302"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/D6urkYjX4AEpGFO.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/D6urkYjX4AEpGFO.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1591",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"955",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"541",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/cpi8DmBoOf"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/D6urkYjX4AEpGFO.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/D6urkYjX4AEpGFO.jpg",
-            "sizes": {
-              "large": {
-                "h": "1591",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "955",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "541",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/cpi8DmBoOf"
-          }
-        ]
-      },
-      "favorite_count": "51",
-      "favorited": false,
-      "full_text": "The first Airbus A380, the world's largest capacity commercial passenger jet, took off on its maiden flight on April 27, 2005. Currently, four airlines - Emirates, Air France, British Airways, and Lufthansa - fly the planes to SFO. Have you ever flown on an Airbus A380? #avgeek https://t.co/cpi8DmBoOf",
-      "id": "1129184775313477634",
-      "id_str": "1129184775313477634",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "9",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/cpi8DmBoOf",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1129184775313477634/photo/1",
+                    "id":"1129184773140897793",
+                    "id_str":"1129184773140897793",
+                    "indices":[
+                        "279",
+                        "302"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/D6urkYjX4AEpGFO.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/D6urkYjX4AEpGFO.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1591",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"955",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"541",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/cpi8DmBoOf"
+                }
+            ]
+        },
+        "favorite_count":"51",
+        "favorited":false,
+        "full_text":"The first Airbus A380, the world's largest capacity commercial passenger jet, took off on its maiden flight on April 27, 2005. Currently, four airlines - Emirates, Air France, British Airways, and Lufthansa - fly the planes to SFO. Have you ever flown on an Airbus A380? #avgeek https://t.co/cpi8DmBoOf",
+        "id":"1129184775313477634",
+        "id_str":"1129184775313477634",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"9",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729306133
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026227,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729306133,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026227,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729306133,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729306133,
-    "wof:lastmodified": 1602193912,
-    "wof:name": "The first Airbus A380, the world's largest capacity commercial passenger jet, took off on its maiden flight on April 27, 2005. Currently, four airlines - Emirates, Air France, British Airways, and Lufthansa - fly the planes to SFO. Have you ever flown on an Airbus A380? #avgeek https://t.co/cpi8DmBoOf",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729306133,
+    "wof:lastmodified":1602634348,
+    "wof:name":"The first Airbus A380, the world's largest capacity commercial passenger jet, took off on its maiden flight on April 27, 2005. Currently, four airlines - Emirates, Air France, British Airways, and Lufthansa - fly the planes to SFO. Have you ever flown on an Airbus A380? #avgeek https://t.co/cpi8DmBoOf",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

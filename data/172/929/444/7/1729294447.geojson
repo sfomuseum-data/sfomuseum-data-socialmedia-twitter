@@ -2,203 +2,202 @@
   "id": 1729294447,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2015-11-02",
-    "date:cessation_upper": "2015-11-02",
-    "date:inception_lower": "2015-11-02",
-    "date:inception_upper": "2015-11-02",
-    "edtf:cessation": "2015-11-02T10:03:56-08:00",
-    "edtf:inception": "2015-11-02T10:03:56-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1446487436,
-      "created_at": "Mon Nov 02 18:03:56 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "91"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "56", 
-              "67"
-            ],
-            "text": "SamFrancis"
-          }
+    "date:cessation_lower":"2015-11-02",
+    "date:cessation_upper":"2015-11-02",
+    "date:inception_lower":"2015-11-02",
+    "date:inception_upper":"2015-11-02",
+    "edtf:cessation":"2015-11-02T10:03:56-08:00",
+    "edtf:inception":"2015-11-02T10:03:56-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1446487436,
+        "created_at":"Mon Nov 02 18:03:56 +0000 2015",
+        "display_text_range":[
+            "0",
+            "91"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/9e6o2dSKue",
-            "expanded_url": "https://twitter.com/charlieadamski/status/661226358236839936/photo/1",
-            "id": "661226345695830016",
-            "id_str": "661226345695830016",
-            "indices": [
-              "68", 
-              "91"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "56",
+                        "67"
+                    ],
+                    "text":"SamFrancis"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CS0l26tUYAAzGJM.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CS0l26tUYAAzGJM.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "661226358236839936",
-            "source_status_id_str": "661226358236839936",
-            "source_user_id": "572267538",
-            "source_user_id_str": "572267538",
-            "type": "photo",
-            "url": "https://t.co/9e6o2dSKue"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "572267538",
-            "id_str": "572267538",
-            "indices": [
-              "3", 
-              "18"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/9e6o2dSKue",
+                    "expanded_url":"https://twitter.com/charlieadamski/status/661226358236839936/photo/1",
+                    "id":"661226345695830016",
+                    "id_str":"661226345695830016",
+                    "indices":[
+                        "68",
+                        "91"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CS0l26tUYAAzGJM.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CS0l26tUYAAzGJM.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"1024"
+                        },
+                        "medium":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"1024"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"661226358236839936",
+                    "source_status_id_str":"661226358236839936",
+                    "source_user_id":"572267538",
+                    "source_user_id_str":"572267538",
+                    "type":"photo",
+                    "url":"https://t.co/9e6o2dSKue"
+                }
             ],
-            "name": "Charlie Adamski",
-            "screen_name": "charlieadamski"
-          }, 
-          {
-            "id": "116329337",
-            "id_str": "116329337",
-            "indices": [
-              "45", 
-              "55"
-            ],
-            "name": "SFO Museum",
-            "screen_name": "SFOMuseum"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/9e6o2dSKue",
-            "expanded_url": "https://twitter.com/charlieadamski/status/661226358236839936/photo/1",
-            "id": "661226345695830016",
-            "id_str": "661226345695830016",
-            "indices": [
-              "68", 
-              "91"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CS0l26tUYAAzGJM.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CS0l26tUYAAzGJM.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "661226358236839936",
-            "source_status_id_str": "661226358236839936",
-            "source_user_id": "572267538",
-            "source_user_id_str": "572267538",
-            "type": "photo",
-            "url": "https://t.co/9e6o2dSKue"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @charlieadamski: Art in unexpected places @SFOMuseum #SamFrancis https://t.co/9e6o2dSKue",
-      "id": "661242351441063936",
-      "id_str": "661242351441063936",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"572267538",
+                    "id_str":"572267538",
+                    "indices":[
+                        "3",
+                        "18"
+                    ],
+                    "name":"Charlie Adamski",
+                    "screen_name":"charlieadamski"
+                },
+                {
+                    "id":"116329337",
+                    "id_str":"116329337",
+                    "indices":[
+                        "45",
+                        "55"
+                    ],
+                    "name":"SFO Museum",
+                    "screen_name":"SFOMuseum"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/9e6o2dSKue",
+                    "expanded_url":"https://twitter.com/charlieadamski/status/661226358236839936/photo/1",
+                    "id":"661226345695830016",
+                    "id_str":"661226345695830016",
+                    "indices":[
+                        "68",
+                        "91"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CS0l26tUYAAzGJM.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CS0l26tUYAAzGJM.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"1024"
+                        },
+                        "medium":{
+                            "h":"1024",
+                            "resize":"fit",
+                            "w":"1024"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"661226358236839936",
+                    "source_status_id_str":"661226358236839936",
+                    "source_user_id":"572267538",
+                    "source_user_id_str":"572267538",
+                    "type":"photo",
+                    "url":"https://t.co/9e6o2dSKue"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @charlieadamski: Art in unexpected places @SFOMuseum #SamFrancis https://t.co/9e6o2dSKue",
+        "id":"661242351441063936",
+        "id_str":"661242351441063936",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729294447
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025782,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729294447,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025782,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729294447,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729294447,
-    "wof:lastmodified": 1602193905,
-    "wof:name": "RT @charlieadamski: Art in unexpected places @SFOMuseum #SamFrancis https://t.co/9e6o2dSKue",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729294447,
+    "wof:lastmodified":1602634625,
+    "wof:name":"RT @charlieadamski: Art in unexpected places @SFOMuseum #SamFrancis https://t.co/9e6o2dSKue",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

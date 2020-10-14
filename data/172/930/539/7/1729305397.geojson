@@ -2,226 +2,225 @@
   "id": 1729305397,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-02-21",
-    "date:cessation_upper": "2019-02-21",
-    "date:inception_lower": "2019-02-21",
-    "date:inception_upper": "2019-02-21",
-    "edtf:cessation": "2019-02-21T19:22:46-08:00",
-    "edtf:inception": "2019-02-21T19:22:46-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1550805766,
-      "created_at": "Fri Feb 22 03:22:46 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "188"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "0", 
-              "18"
-            ],
-            "text": "SantiagoJiménezSr"
-          }, 
-          {
-            "indices": [
-              "42", 
-              "48"
-            ],
-            "text": "Texas"
-          }, 
-          {
-            "indices": [
-              "68", 
-              "78"
-            ],
-            "text": "accordion"
-          }, 
-          {
-            "indices": [
-              "148", 
-              "164"
-            ],
-            "text": "storyofarhoolie"
-          }
+    "date:cessation_lower":"2019-02-21",
+    "date:cessation_upper":"2019-02-21",
+    "date:inception_lower":"2019-02-21",
+    "date:inception_upper":"2019-02-21",
+    "edtf:cessation":"2019-02-21T19:22:46-08:00",
+    "edtf:inception":"2019-02-21T19:22:46-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1550805766,
+        "created_at":"Fri Feb 22 03:22:46 +0000 2019",
+        "display_text_range":[
+            "0",
+            "188"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/AbPnvsIlcS",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1098785141860646913/video/1",
-            "id": "1098785038999511040",
-            "id_str": "1098785038999511040",
-            "indices": [
-              "165", 
-              "188"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1098785038999511040/pu/img/ceiR4JrbMfcQnz4p.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1098785038999511040/pu/img/ceiR4JrbMfcQnz4p.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/AbPnvsIlcS"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "additional_media_info": {
-              "monetizable": false
-            },
-            "display_url": "pic.twitter.com/AbPnvsIlcS",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1098785141860646913/video/1",
-            "id": "1098785038999511040",
-            "id_str": "1098785038999511040",
-            "indices": [
-              "165", 
-              "188"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1098785038999511040/pu/img/ceiR4JrbMfcQnz4p.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1098785038999511040/pu/img/ceiR4JrbMfcQnz4p.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "video",
-            "url": "https://t.co/AbPnvsIlcS",
-            "video_info": {
-              "aspect_ratio": [
-                "16", 
-                "9"
-              ],
-              "duration_millis": "29997",
-              "variants": [
+        "entities":{
+            "hashtags":[
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/vid/640x360/0fqiUeimlEG9Uc7D.mp4?tag=6"
-                }, 
+                    "indices":[
+                        "0",
+                        "18"
+                    ],
+                    "text":"SantiagoJim\u00e9nezSr"
+                },
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/vid/320x180/nd1Z1kIWSKiKzymy.mp4?tag=6"
-                }, 
+                    "indices":[
+                        "42",
+                        "48"
+                    ],
+                    "text":"Texas"
+                },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/pl/2QwXRj18Sa-VQtBc.m3u8?tag=6"
-                }, 
+                    "indices":[
+                        "68",
+                        "78"
+                    ],
+                    "text":"accordion"
+                },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/vid/1280x720/AWKhW_7ZxD63eJOt.mp4?tag=6"
+                    "indices":[
+                        "148",
+                        "164"
+                    ],
+                    "text":"storyofarhoolie"
                 }
-              ]
-            }
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "#SantiagoJiménezSr., born in San Antonio, #Texas, began to play the #accordion at the age of eight. His father Patricio, also played the accordion. #storyofarhoolie https://t.co/AbPnvsIlcS",
-      "id": "1098785141860646913",
-      "id_str": "1098785141860646913",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+            ],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/AbPnvsIlcS",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1098785141860646913/video/1",
+                    "id":"1098785038999511040",
+                    "id_str":"1098785038999511040",
+                    "indices":[
+                        "165",
+                        "188"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/1098785038999511040/pu/img/ceiR4JrbMfcQnz4p.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/1098785038999511040/pu/img/ceiR4JrbMfcQnz4p.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/AbPnvsIlcS"
+                }
+            ],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "additional_media_info":{
+                        "monetizable":false
+                    },
+                    "display_url":"pic.twitter.com/AbPnvsIlcS",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1098785141860646913/video/1",
+                    "id":"1098785038999511040",
+                    "id_str":"1098785038999511040",
+                    "indices":[
+                        "165",
+                        "188"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/1098785038999511040/pu/img/ceiR4JrbMfcQnz4p.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/1098785038999511040/pu/img/ceiR4JrbMfcQnz4p.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"video",
+                    "url":"https://t.co/AbPnvsIlcS",
+                    "video_info":{
+                        "aspect_ratio":[
+                            "16",
+                            "9"
+                        ],
+                        "duration_millis":"29997",
+                        "variants":[
+                            {
+                                "bitrate":"832000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1098785038999511040/pu/vid/640x360/0fqiUeimlEG9Uc7D.mp4?tag=6"
+                            },
+                            {
+                                "bitrate":"256000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1098785038999511040/pu/vid/320x180/nd1Z1kIWSKiKzymy.mp4?tag=6"
+                            },
+                            {
+                                "content_type":"application/x-mpegURL",
+                                "url":"https://video.twimg.com/ext_tw_video/1098785038999511040/pu/pl/2QwXRj18Sa-VQtBc.m3u8?tag=6"
+                            },
+                            {
+                                "bitrate":"2176000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1098785038999511040/pu/vid/1280x720/AWKhW_7ZxD63eJOt.mp4?tag=6"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"#SantiagoJim\u00e9nezSr., born in San Antonio, #Texas, began to play the #accordion at the age of eight. His father Patricio, also played the accordion. #storyofarhoolie https://t.co/AbPnvsIlcS",
+        "id":"1098785141860646913",
+        "id_str":"1098785141860646913",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729305397
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026199,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729305397,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026199,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729305397,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729305397,
-    "wof:lastmodified": 1602193911,
-    "wof:name": "#SantiagoJiménezSr., born in San Antonio, #Texas, began to play the #accordion at the age of eight. His father Patricio, also played the accordion. #storyofarhoolie https://t.co/AbPnvsIlcS",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729305397,
+    "wof:lastmodified":1602634318,
+    "wof:name":"#SantiagoJim\u00e9nezSr., born in San Antonio, #Texas, began to play the #accordion at the age of eight. His father Patricio, also played the accordion. #storyofarhoolie https://t.co/AbPnvsIlcS",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

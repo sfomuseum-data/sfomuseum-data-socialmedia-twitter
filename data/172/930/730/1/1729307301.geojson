@@ -2,215 +2,214 @@
   "id": 1729307301,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-10-24",
-    "date:cessation_upper": "2019-10-24",
-    "date:inception_lower": "2019-10-24",
-    "date:inception_upper": "2019-10-24",
-    "edtf:cessation": "2019-10-24T20:57:51-07:00",
-    "edtf:inception": "2019-10-24T20:57:51-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1571975871,
-      "created_at": "Fri Oct 25 03:57:51 +0000 2019",
-      "display_text_range": [
-        "0", 
-        "298"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "260", 
-              "274"
-            ],
-            "text": "VideoArtsSFOM"
-          }
+    "date:cessation_lower":"2019-10-24",
+    "date:cessation_upper":"2019-10-24",
+    "date:inception_lower":"2019-10-24",
+    "date:inception_upper":"2019-10-24",
+    "edtf:cessation":"2019-10-24T20:57:51-07:00",
+    "edtf:inception":"2019-10-24T20:57:51-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1571975871,
+        "created_at":"Fri Oct 25 03:57:51 +0000 2019",
+        "display_text_range":[
+            "0",
+            "298"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/z56ZJZMFvR",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1187578995463749632/video/1",
-            "id": "1187578915956510721",
-            "id_str": "1187578915956510721",
-            "indices": [
-              "275", 
-              "298"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1187578915956510721/pu/img/Wco0kPe0JUnBlseR.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1187578915956510721/pu/img/Wco0kPe0JUnBlseR.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1718"
-              },
-              "medium": {
-                "h": "503",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "285",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/z56ZJZMFvR"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/2p2pWBT",
-            "expanded_url": "http://bit.ly/2p2pWBT",
-            "indices": [
-              "236", 
-              "259"
-            ],
-            "url": "https://t.co/iHRZzBI1OL"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "additional_media_info": {
-              "monetizable": false
-            },
-            "display_url": "pic.twitter.com/z56ZJZMFvR",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1187578995463749632/video/1",
-            "id": "1187578915956510721",
-            "id_str": "1187578915956510721",
-            "indices": [
-              "275", 
-              "298"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1187578915956510721/pu/img/Wco0kPe0JUnBlseR.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1187578915956510721/pu/img/Wco0kPe0JUnBlseR.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1718"
-              },
-              "medium": {
-                "h": "503",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "285",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "video",
-            "url": "https://t.co/z56ZJZMFvR",
-            "video_info": {
-              "aspect_ratio": [
-                "859", 
-                "360"
-              ],
-              "duration_millis": "25901",
-              "variants": [
+        "entities":{
+            "hashtags":[
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1187578915956510721/pu/vid/1718x720/X71yRcH7_bMAHXP6.mp4?tag=10"
-                }, 
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1187578915956510721/pu/vid/858x360/Dn3ZQu1Mick-KBrw.mp4?tag=10"
-                }, 
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1187578915956510721/pu/vid/644x270/uIqyXKYTz1kIFuxl.mp4?tag=10"
-                }, 
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1187578915956510721/pu/pl/VvqLip9iyKichM8_.m3u8?tag=10"
+                    "indices":[
+                        "260",
+                        "274"
+                    ],
+                    "text":"VideoArtsSFOM"
                 }
-              ]
-            }
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "NOW PLAYING: “Emptying the Tank” by Caroline Monnet.  Monnet presents a striking portrait of mixed martial artist Ashley Nichols, who joins the ceremonial traits of Muay Thai with the spiritual observances of her own Chippewa ancestry. https://t.co/iHRZzBI1OL #VideoArtsSFOM https://t.co/z56ZJZMFvR",
-      "id": "1187578995463749632",
-      "id_str": "1187578995463749632",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
-      "truncated": false
+            ],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/z56ZJZMFvR",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1187578995463749632/video/1",
+                    "id":"1187578915956510721",
+                    "id_str":"1187578915956510721",
+                    "indices":[
+                        "275",
+                        "298"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/1187578915956510721/pu/img/Wco0kPe0JUnBlseR.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/1187578915956510721/pu/img/Wco0kPe0JUnBlseR.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1718"
+                        },
+                        "medium":{
+                            "h":"503",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"285",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/z56ZJZMFvR"
+                }
+            ],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/2p2pWBT",
+                    "expanded_url":"http://bit.ly/2p2pWBT",
+                    "indices":[
+                        "236",
+                        "259"
+                    ],
+                    "url":"https://t.co/iHRZzBI1OL"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "additional_media_info":{
+                        "monetizable":false
+                    },
+                    "display_url":"pic.twitter.com/z56ZJZMFvR",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1187578995463749632/video/1",
+                    "id":"1187578915956510721",
+                    "id_str":"1187578915956510721",
+                    "indices":[
+                        "275",
+                        "298"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/1187578915956510721/pu/img/Wco0kPe0JUnBlseR.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/1187578915956510721/pu/img/Wco0kPe0JUnBlseR.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1718"
+                        },
+                        "medium":{
+                            "h":"503",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"285",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"video",
+                    "url":"https://t.co/z56ZJZMFvR",
+                    "video_info":{
+                        "aspect_ratio":[
+                            "859",
+                            "360"
+                        ],
+                        "duration_millis":"25901",
+                        "variants":[
+                            {
+                                "bitrate":"2176000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1187578915956510721/pu/vid/1718x720/X71yRcH7_bMAHXP6.mp4?tag=10"
+                            },
+                            {
+                                "bitrate":"832000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1187578915956510721/pu/vid/858x360/Dn3ZQu1Mick-KBrw.mp4?tag=10"
+                            },
+                            {
+                                "bitrate":"256000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/1187578915956510721/pu/vid/644x270/uIqyXKYTz1kIFuxl.mp4?tag=10"
+                            },
+                            {
+                                "content_type":"application/x-mpegURL",
+                                "url":"https://video.twimg.com/ext_tw_video/1187578915956510721/pu/pl/VvqLip9iyKichM8_.m3u8?tag=10"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"NOW PLAYING: \u201cEmptying the Tank\u201d by Caroline Monnet.  Monnet presents a striking portrait of mixed martial artist Ashley Nichols, who joins the ceremonial traits of Muay Thai with the spiritual observances of her own Chippewa ancestry. https://t.co/iHRZzBI1OL #VideoArtsSFOM https://t.co/z56ZJZMFvR",
+        "id":"1187578995463749632",
+        "id_str":"1187578995463749632",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729307301
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026272,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729307301,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026272,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729307301,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729307301,
-    "wof:lastmodified": 1602193913,
-    "wof:name": "NOW PLAYING: “Emptying the Tank” by Caroline Monnet.  Monnet presents a striking portrait of mixed martial artist Ashley Nichols, who joins the ceremonial traits of Muay Thai with the spiritual observances of her own Chippewa ancestry. https://t.co/iHRZzBI1OL #VideoArtsSFOM https://t.co/z56ZJZMFvR",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729307301,
+    "wof:lastmodified":1602634196,
+    "wof:name":"NOW PLAYING: \u201cEmptying the Tank\u201d by Caroline Monnet.  Monnet presents a striking portrait of mixed martial artist Ashley Nichols, who joins the ceremonial traits of Muay Thai with the spiritual observances of her own Chippewa ancestry. https://t.co/iHRZzBI1OL #VideoArtsSFOM https://t.co/z56ZJZMFvR",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,120 +2,119 @@
   "id": 1729292143,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2014-06-24",
-    "date:cessation_upper": "2014-06-24",
-    "date:inception_lower": "2014-06-24",
-    "date:inception_upper": "2014-06-24",
-    "edtf:cessation": "2014-06-24T10:26:23-07:00",
-    "edtf:inception": "2014-06-24T10:26:23-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1403630783,
-      "created_at": "Tue Jun 24 17:26:23 +0000 2014",
-      "display_text_range": [
-        "0", 
-        "142"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "18", 
-              "26"
-            ],
-            "text": "Vessels"
-          }, 
-          {
-            "indices": [
-              "50", 
-              "58"
-            ],
-            "text": "AdIcons"
-          }, 
-          {
-            "indices": [
-              "86", 
-              "95"
-            ],
-            "text": "AAAEarts"
-          }
+    "date:cessation_lower":"2014-06-24",
+    "date:cessation_upper":"2014-06-24",
+    "date:inception_lower":"2014-06-24",
+    "date:inception_upper":"2014-06-24",
+    "edtf:cessation":"2014-06-24T10:26:23-07:00",
+    "edtf:inception":"2014-06-24T10:26:23-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1403630783,
+        "created_at":"Tue Jun 24 17:26:23 +0000 2014",
+        "display_text_range":[
+            "0",
+            "142"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/yoXiz",
-            "expanded_url": "http://ow.ly/yoXiz",
-            "indices": [
-              "120", 
-              "142"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "18",
+                        "26"
+                    ],
+                    "text":"Vessels"
+                },
+                {
+                    "indices":[
+                        "50",
+                        "58"
+                    ],
+                    "text":"AdIcons"
+                },
+                {
+                    "indices":[
+                        "86",
+                        "95"
+                    ],
+                    "text":"AAAEarts"
+                }
             ],
-            "url": "http://t.co/EGrFdttjYw"
-          }
-        ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "It's a busy week! #Vessels closes in the IT \u0026amp; #AdIcons opens. Plus, we're hosting #AAAEarts in the Aviation Museum: http://t.co/EGrFdttjYw",
-      "id": "481488521946222593",
-      "id_str": "481488521946222593",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/yoXiz",
+                    "expanded_url":"http://ow.ly/yoXiz",
+                    "indices":[
+                        "120",
+                        "142"
+                    ],
+                    "url":"http://t.co/EGrFdttjYw"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"It's a busy week! #Vessels closes in the IT &amp; #AdIcons opens. Plus, we're hosting #AAAEarts in the Aviation Museum: http://t.co/EGrFdttjYw",
+        "id":"481488521946222593",
+        "id_str":"481488521946222593",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729292143
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025698,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729292143,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025698,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729292143,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729292143,
-    "wof:lastmodified": 1602193904,
-    "wof:name": "It's a busy week! #Vessels closes in the IT \u0026amp; #AdIcons opens. Plus, we're hosting #AAAEarts in the Aviation Museum: http://t.co/EGrFdttjYw",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729292143,
+    "wof:lastmodified":1602634642,
+    "wof:name":"It's a busy week! #Vessels closes in the IT &amp; #AdIcons opens. Plus, we're hosting #AAAEarts in the Aviation Museum: http://t.co/EGrFdttjYw",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

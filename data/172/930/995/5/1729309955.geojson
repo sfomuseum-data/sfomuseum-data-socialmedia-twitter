@@ -2,109 +2,108 @@
   "id": 1729309955,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2012-07-09",
-    "date:cessation_upper": "2012-07-09",
-    "date:inception_lower": "2012-07-09",
-    "date:inception_upper": "2012-07-09",
-    "edtf:cessation": "2012-07-09T13:04:56-07:00",
-    "edtf:inception": "2012-07-09T13:04:56-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1341864296,
-      "created_at": "Mon Jul 09 20:04:56 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "125"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "instagr.am/p/M33A2FRkzY/",
-            "expanded_url": "http://instagr.am/p/M33A2FRkzY/",
-            "indices": [
-              "105", 
-              "125"
-            ],
-            "url": "http://t.co/K0sS839t"
-          }
+    "date:cessation_lower":"2012-07-09",
+    "date:cessation_upper":"2012-07-09",
+    "date:inception_lower":"2012-07-09",
+    "date:inception_upper":"2012-07-09",
+    "edtf:cessation":"2012-07-09T13:04:56-07:00",
+    "edtf:inception":"2012-07-09T13:04:56-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1341864296,
+        "created_at":"Mon Jul 09 20:04:56 +0000 2012",
+        "display_text_range":[
+            "0",
+            "125"
         ],
-        "user_mentions": [
-          {
-            "id": "23781348",
-            "id_str": "23781348",
-            "indices": [
-              "15", 
-              "26"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"instagr.am/p/M33A2FRkzY/",
+                    "expanded_url":"http://instagr.am/p/M33A2FRkzY/",
+                    "indices":[
+                        "105",
+                        "125"
+                    ],
+                    "url":"http://t.co/K0sS839t"
+                }
             ],
-            "name": "J Henry Fair",
-            "screen_name": "JHenryFair"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Be sure to see @jhenryfair's photo exhibit, \"Abstractions of Destruction,\" pre-TSA, between T2 \u0026amp; T3! http://t.co/K0sS839t",
-      "id": "222421098581594112",
-      "id_str": "222421098581594112",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"23781348",
+                    "id_str":"23781348",
+                    "indices":[
+                        "15",
+                        "26"
+                    ],
+                    "name":"J Henry Fair",
+                    "screen_name":"JHenryFair"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Be sure to see @jhenryfair's photo exhibit, \"Abstractions of Destruction,\" pre-TSA, between T2 &amp; T3! http://t.co/K0sS839t",
+        "id":"222421098581594112",
+        "id_str":"222421098581594112",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729309955
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026374,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729309955,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026374,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729309955,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729309955,
-    "wof:lastmodified": 1602193914,
-    "wof:name": "Be sure to see @jhenryfair's photo exhibit, \"Abstractions of Destruction,\" pre-TSA, between T2 \u0026amp; T3! http://t.co/K0sS839t",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729309955,
+    "wof:lastmodified":1602634317,
+    "wof:name":"Be sure to see @jhenryfair's photo exhibit, \"Abstractions of Destruction,\" pre-TSA, between T2 &amp; T3! http://t.co/K0sS839t",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

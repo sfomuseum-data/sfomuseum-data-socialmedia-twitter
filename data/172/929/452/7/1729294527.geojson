@@ -2,166 +2,165 @@
   "id": 1729294527,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2015-11-06",
-    "date:cessation_upper": "2015-11-06",
-    "date:inception_lower": "2015-11-06",
-    "date:inception_upper": "2015-11-06",
-    "edtf:cessation": "2015-11-06T20:00:39-08:00",
-    "edtf:inception": "2015-11-06T20:00:39-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1446868839,
-      "created_at": "Sat Nov 07 04:00:39 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "142"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/WwGYJOTLB4",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/662842069963153412/photo/1",
-            "id": "662842069417861121",
-            "id_str": "662842069417861121",
-            "indices": [
-              "119", 
-              "142"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CTLjWanWIAEn_28.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CTLjWanWIAEn_28.jpg",
-            "sizes": {
-              "large": {
-                "h": "1683",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "986",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "559",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/WwGYJOTLB4"
-          }
+    "date:cessation_lower":"2015-11-06",
+    "date:cessation_upper":"2015-11-06",
+    "date:inception_lower":"2015-11-06",
+    "date:inception_upper":"2015-11-06",
+    "edtf:cessation":"2015-11-06T20:00:39-08:00",
+    "edtf:inception":"2015-11-06T20:00:39-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1446868839,
+        "created_at":"Sat Nov 07 04:00:39 +0000 2015",
+        "display_text_range":[
+            "0",
+            "142"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/WwGYJOTLB4",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/662842069963153412/photo/1",
-            "id": "662842069417861121",
-            "id_str": "662842069417861121",
-            "indices": [
-              "119", 
-              "142"
+        "entities":{
+            "hashtags":[],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/WwGYJOTLB4",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/662842069963153412/photo/1",
+                    "id":"662842069417861121",
+                    "id_str":"662842069417861121",
+                    "indices":[
+                        "119",
+                        "142"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CTLjWanWIAEn_28.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CTLjWanWIAEn_28.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1683",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"986",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"559",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/WwGYJOTLB4"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CTLjWanWIAEn_28.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CTLjWanWIAEn_28.jpg",
-            "sizes": {
-              "large": {
-                "h": "1683",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "986",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "559",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/WwGYJOTLB4"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Our collection is full of gems like this amazing black \u0026amp; white photograph of the Golden Gate Bridge taken in 1935! https://t.co/WwGYJOTLB4",
-      "id": "662842069963153412",
-      "id_str": "662842069963153412",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/WwGYJOTLB4",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/662842069963153412/photo/1",
+                    "id":"662842069417861121",
+                    "id_str":"662842069417861121",
+                    "indices":[
+                        "119",
+                        "142"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CTLjWanWIAEn_28.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CTLjWanWIAEn_28.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1683",
+                            "resize":"fit",
+                            "w":"2048"
+                        },
+                        "medium":{
+                            "h":"986",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"559",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/WwGYJOTLB4"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Our collection is full of gems like this amazing black &amp; white photograph of the Golden Gate Bridge taken in 1935! https://t.co/WwGYJOTLB4",
+        "id":"662842069963153412",
+        "id_str":"662842069963153412",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729294527
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025785,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729294527,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025785,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729294527,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729294527,
-    "wof:lastmodified": 1602193905,
-    "wof:name": "Our collection is full of gems like this amazing black \u0026amp; white photograph of the Golden Gate Bridge taken in 1935! https://t.co/WwGYJOTLB4",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729294527,
+    "wof:lastmodified":1602634531,
+    "wof:name":"Our collection is full of gems like this amazing black &amp; white photograph of the Golden Gate Bridge taken in 1935! https://t.co/WwGYJOTLB4",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

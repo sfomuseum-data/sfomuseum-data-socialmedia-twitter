@@ -2,212 +2,211 @@
   "id": 1729302969,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2018-04-09",
-    "date:cessation_upper": "2018-04-09",
-    "date:inception_lower": "2018-04-09",
-    "date:inception_upper": "2018-04-09",
-    "edtf:cessation": "2018-04-09T15:05:09-07:00",
-    "edtf:inception": "2018-04-09T15:05:09-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1523311509,
-      "created_at": "Mon Apr 09 22:05:09 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "234"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "182", 
-              "188"
-            ],
-            "text": "skate"
-          }, 
-          {
-            "indices": [
-              "196", 
-              "210"
-            ],
-            "text": "VideoArtsSFOM"
-          }
+    "date:cessation_lower":"2018-04-09",
+    "date:cessation_upper":"2018-04-09",
+    "date:inception_lower":"2018-04-09",
+    "date:inception_upper":"2018-04-09",
+    "edtf:cessation":"2018-04-09T15:05:09-07:00",
+    "edtf:inception":"2018-04-09T15:05:09-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1523311509,
+        "created_at":"Mon Apr 09 22:05:09 +0000 2018",
+        "display_text_range":[
+            "0",
+            "234"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/vrQYJH7S3B",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/983465866615373824/video/1",
-            "id": "983465803067502592",
-            "id_str": "983465803067502592",
-            "indices": [
-              "211", 
-              "234"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/983465803067502592/pu/img/89lF8531sUtsGM57.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/983465803067502592/pu/img/89lF8531sUtsGM57.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/vrQYJH7S3B"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "additional_media_info": {
-              "monetizable": false
-            },
-            "display_url": "pic.twitter.com/vrQYJH7S3B",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/983465866615373824/video/1",
-            "id": "983465803067502592",
-            "id_str": "983465803067502592",
-            "indices": [
-              "211", 
-              "234"
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/983465803067502592/pu/img/89lF8531sUtsGM57.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/983465803067502592/pu/img/89lF8531sUtsGM57.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "1280"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "video",
-            "url": "https://t.co/vrQYJH7S3B",
-            "video_info": {
-              "aspect_ratio": [
-                "16", 
-                "9"
-              ],
-              "duration_millis": "24800",
-              "variants": [
+        "entities":{
+            "hashtags":[
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/983465803067502592/pu/pl/W8fByX-7HUJxUqqA.m3u8?tag=2"
-                }, 
+                    "indices":[
+                        "182",
+                        "188"
+                    ],
+                    "text":"skate"
+                },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/983465803067502592/pu/vid/640x360/yaK8yHrxX6nn9zg8.mp4?tag=2"
-                }, 
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/983465803067502592/pu/vid/1280x720/NUwRYCIVjSSqW7Bu.mp4?tag=2"
-                }, 
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/983465803067502592/pu/vid/320x180/9GuXU4xSJz4BlnGS.mp4?tag=2"
+                    "indices":[
+                        "196",
+                        "210"
+                    ],
+                    "text":"VideoArtsSFOM"
                 }
-              ]
-            }
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "NOW PLAYING: '\"SOWLE\" Tribute' BY AG Rojas and Corbett Jones. This documentary profiles a trio of sisters as they find their solace in the concrete bowls and half pipes of Houston's #skate parks. #VideoArtsSFOM https://t.co/vrQYJH7S3B",
-      "id": "983465866615373824",
-      "id_str": "983465866615373824",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
-      "truncated": false
+            ],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/vrQYJH7S3B",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/983465866615373824/video/1",
+                    "id":"983465803067502592",
+                    "id_str":"983465803067502592",
+                    "indices":[
+                        "211",
+                        "234"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/983465803067502592/pu/img/89lF8531sUtsGM57.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/983465803067502592/pu/img/89lF8531sUtsGM57.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/vrQYJH7S3B"
+                }
+            ],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "additional_media_info":{
+                        "monetizable":false
+                    },
+                    "display_url":"pic.twitter.com/vrQYJH7S3B",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/983465866615373824/video/1",
+                    "id":"983465803067502592",
+                    "id_str":"983465803067502592",
+                    "indices":[
+                        "211",
+                        "234"
+                    ],
+                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/983465803067502592/pu/img/89lF8531sUtsGM57.jpg",
+                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/983465803067502592/pu/img/89lF8531sUtsGM57.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"720",
+                            "resize":"fit",
+                            "w":"1280"
+                        },
+                        "medium":{
+                            "h":"675",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"video",
+                    "url":"https://t.co/vrQYJH7S3B",
+                    "video_info":{
+                        "aspect_ratio":[
+                            "16",
+                            "9"
+                        ],
+                        "duration_millis":"24800",
+                        "variants":[
+                            {
+                                "content_type":"application/x-mpegURL",
+                                "url":"https://video.twimg.com/ext_tw_video/983465803067502592/pu/pl/W8fByX-7HUJxUqqA.m3u8?tag=2"
+                            },
+                            {
+                                "bitrate":"832000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/983465803067502592/pu/vid/640x360/yaK8yHrxX6nn9zg8.mp4?tag=2"
+                            },
+                            {
+                                "bitrate":"2176000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/983465803067502592/pu/vid/1280x720/NUwRYCIVjSSqW7Bu.mp4?tag=2"
+                            },
+                            {
+                                "bitrate":"256000",
+                                "content_type":"video/mp4",
+                                "url":"https://video.twimg.com/ext_tw_video/983465803067502592/pu/vid/320x180/9GuXU4xSJz4BlnGS.mp4?tag=2"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"NOW PLAYING: '\"SOWLE\" Tribute' BY AG Rojas and Corbett Jones. This documentary profiles a trio of sisters as they find their solace in the concrete bowls and half pipes of Houston's #skate parks. #VideoArtsSFOM https://t.co/vrQYJH7S3B",
+        "id":"983465866615373824",
+        "id_str":"983465866615373824",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729302969
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026105,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729302969,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026105,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729302969,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729302969,
-    "wof:lastmodified": 1602193910,
-    "wof:name": "NOW PLAYING: '\"SOWLE\" Tribute' BY AG Rojas and Corbett Jones. This documentary profiles a trio of sisters as they find their solace in the concrete bowls and half pipes of Houston's #skate parks. #VideoArtsSFOM https://t.co/vrQYJH7S3B",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729302969,
+    "wof:lastmodified":1602634391,
+    "wof:name":"NOW PLAYING: '\"SOWLE\" Tribute' BY AG Rojas and Corbett Jones. This documentary profiles a trio of sisters as they find their solace in the concrete bowls and half pipes of Houston's #skate parks. #VideoArtsSFOM https://t.co/vrQYJH7S3B",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

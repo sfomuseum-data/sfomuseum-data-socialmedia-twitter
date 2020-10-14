@@ -2,185 +2,184 @@
   "id": 1729309709,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2012-05-29",
-    "date:cessation_upper": "2012-05-29",
-    "date:inception_lower": "2012-05-29",
-    "date:inception_upper": "2012-05-29",
-    "edtf:cessation": "2012-05-29T09:16:56-07:00",
-    "edtf:inception": "2012-05-29T09:16:56-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1338308216,
-      "created_at": "Tue May 29 16:16:56 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "133"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/pnw2sqoz",
-            "expanded_url": "https://twitter.com/msquinn/status/207243572418842625/photo/1",
-            "id": "207243572423036928",
-            "id_str": "207243572423036928",
-            "indices": [
-              "113", 
-              "133"
-            ],
-            "media_url": "http://pbs.twimg.com/media/AuBG7lxCEAATZNr.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/AuBG7lxCEAATZNr.jpg",
-            "sizes": {
-              "large": {
-                "h": "968",
-                "resize": "fit",
-                "w": "1296"
-              },
-              "medium": {
-                "h": "896",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "508",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "207243572418842625",
-            "source_status_id_str": "207243572418842625",
-            "source_user_id": "15293504",
-            "source_user_id_str": "15293504",
-            "type": "photo",
-            "url": "http://t.co/pnw2sqoz"
-          }
+    "date:cessation_lower":"2012-05-29",
+    "date:cessation_upper":"2012-05-29",
+    "date:inception_lower":"2012-05-29",
+    "date:inception_upper":"2012-05-29",
+    "edtf:cessation":"2012-05-29T09:16:56-07:00",
+    "edtf:inception":"2012-05-29T09:16:56-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1338308216,
+        "created_at":"Tue May 29 16:16:56 +0000 2012",
+        "display_text_range":[
+            "0",
+            "133"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "15293504",
-            "id_str": "15293504",
-            "indices": [
-              "21", 
-              "29"
+        "entities":{
+            "hashtags":[],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/pnw2sqoz",
+                    "expanded_url":"https://twitter.com/msquinn/status/207243572418842625/photo/1",
+                    "id":"207243572423036928",
+                    "id_str":"207243572423036928",
+                    "indices":[
+                        "113",
+                        "133"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/AuBG7lxCEAATZNr.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/AuBG7lxCEAATZNr.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"968",
+                            "resize":"fit",
+                            "w":"1296"
+                        },
+                        "medium":{
+                            "h":"896",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"508",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"207243572418842625",
+                    "source_status_id_str":"207243572418842625",
+                    "source_user_id":"15293504",
+                    "source_user_id_str":"15293504",
+                    "type":"photo",
+                    "url":"http://t.co/pnw2sqoz"
+                }
             ],
-            "name": "Megan Quinn",
-            "screen_name": "msquinn"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/pnw2sqoz",
-            "expanded_url": "https://twitter.com/msquinn/status/207243572418842625/photo/1",
-            "id": "207243572423036928",
-            "id_str": "207243572423036928",
-            "indices": [
-              "113", 
-              "133"
-            ],
-            "media_url": "http://pbs.twimg.com/media/AuBG7lxCEAATZNr.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/AuBG7lxCEAATZNr.jpg",
-            "sizes": {
-              "large": {
-                "h": "968",
-                "resize": "fit",
-                "w": "1296"
-              },
-              "medium": {
-                "h": "896",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "508",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "207243572418842625",
-            "source_status_id_str": "207243572418842625",
-            "source_user_id": "15293504",
-            "source_user_id_str": "15293504",
-            "type": "photo",
-            "url": "http://t.co/pnw2sqoz"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "We've got it all! RT @msquinn: SFO is the only accredited museum within an airport. And airport within a museum. http://t.co/pnw2sqoz",
-      "id": "207505817149255680",
-      "id_str": "207505817149255680",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"15293504",
+                    "id_str":"15293504",
+                    "indices":[
+                        "21",
+                        "29"
+                    ],
+                    "name":"Megan Quinn",
+                    "screen_name":"msquinn"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/pnw2sqoz",
+                    "expanded_url":"https://twitter.com/msquinn/status/207243572418842625/photo/1",
+                    "id":"207243572423036928",
+                    "id_str":"207243572423036928",
+                    "indices":[
+                        "113",
+                        "133"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/AuBG7lxCEAATZNr.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/AuBG7lxCEAATZNr.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"968",
+                            "resize":"fit",
+                            "w":"1296"
+                        },
+                        "medium":{
+                            "h":"896",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"508",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"207243572418842625",
+                    "source_status_id_str":"207243572418842625",
+                    "source_user_id":"15293504",
+                    "source_user_id_str":"15293504",
+                    "type":"photo",
+                    "url":"http://t.co/pnw2sqoz"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"We've got it all! RT @msquinn: SFO is the only accredited museum within an airport. And airport within a museum. http://t.co/pnw2sqoz",
+        "id":"207505817149255680",
+        "id_str":"207505817149255680",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729309709
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026365,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729309709,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026365,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729309709,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729309709,
-    "wof:lastmodified": 1602193914,
-    "wof:name": "We've got it all! RT @msquinn: SFO is the only accredited museum within an airport. And airport within a museum. http://t.co/pnw2sqoz",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729309709,
+    "wof:lastmodified":1602634285,
+    "wof:name":"We've got it all! RT @msquinn: SFO is the only accredited museum within an airport. And airport within a museum. http://t.co/pnw2sqoz",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

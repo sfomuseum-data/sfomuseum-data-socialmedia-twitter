@@ -2,181 +2,180 @@
   "id": 1729293949,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2015-09-09",
-    "date:cessation_upper": "2015-09-09",
-    "date:inception_lower": "2015-09-09",
-    "date:inception_upper": "2015-09-09",
-    "edtf:cessation": "2015-09-09T14:00:45-07:00",
-    "edtf:inception": "2015-09-09T14:00:45-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1441832445,
-      "created_at": "Wed Sep 09 21:00:45 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "109"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "50", 
-              "74"
-            ],
-            "text": "HappyBirthdayCalifornia"
-          }, 
-          {
-            "indices": [
-              "75", 
-              "86"
-            ],
-            "text": "ILoveYouCA"
-          }
+    "date:cessation_lower":"2015-09-09",
+    "date:cessation_upper":"2015-09-09",
+    "date:inception_lower":"2015-09-09",
+    "date:inception_upper":"2015-09-09",
+    "edtf:cessation":"2015-09-09T14:00:45-07:00",
+    "edtf:inception":"2015-09-09T14:00:45-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1441832445,
+        "created_at":"Wed Sep 09 21:00:45 +0000 2015",
+        "display_text_range":[
+            "0",
+            "109"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/3qMJAsPQmu",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/641717905604935682/photo/1",
-            "id": "641717905202114566",
-            "id_str": "641717905202114566",
-            "indices": [
-              "87", 
-              "109"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "50",
+                        "74"
+                    ],
+                    "text":"HappyBirthdayCalifornia"
+                },
+                {
+                    "indices":[
+                        "75",
+                        "86"
+                    ],
+                    "text":"ILoveYouCA"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/COfXCOmUcAYG6lK.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/COfXCOmUcAYG6lK.jpg",
-            "sizes": {
-              "large": {
-                "h": "1233",
-                "resize": "fit",
-                "w": "1056"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1028"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "582"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "http://t.co/3qMJAsPQmu"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/3qMJAsPQmu",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/641717905604935682/photo/1",
-            "id": "641717905202114566",
-            "id_str": "641717905202114566",
-            "indices": [
-              "87", 
-              "109"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/3qMJAsPQmu",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/641717905604935682/photo/1",
+                    "id":"641717905202114566",
+                    "id_str":"641717905202114566",
+                    "indices":[
+                        "87",
+                        "109"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/COfXCOmUcAYG6lK.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/COfXCOmUcAYG6lK.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1233",
+                            "resize":"fit",
+                            "w":"1056"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1028"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"582"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"http://t.co/3qMJAsPQmu"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/COfXCOmUcAYG6lK.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/COfXCOmUcAYG6lK.jpg",
-            "sizes": {
-              "large": {
-                "h": "1233",
-                "resize": "fit",
-                "w": "1056"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1028"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "582"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "http://t.co/3qMJAsPQmu"
-          }
-        ]
-      },
-      "favorite_count": "2",
-      "favorited": false,
-      "full_text": "Can you name any of the California state emblems? #HappyBirthdayCalifornia #ILoveYouCA http://t.co/3qMJAsPQmu",
-      "id": "641717905604935682",
-      "id_str": "641717905604935682",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/3qMJAsPQmu",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/641717905604935682/photo/1",
+                    "id":"641717905202114566",
+                    "id_str":"641717905202114566",
+                    "indices":[
+                        "87",
+                        "109"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/COfXCOmUcAYG6lK.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/COfXCOmUcAYG6lK.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1233",
+                            "resize":"fit",
+                            "w":"1056"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1028"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"582"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"http://t.co/3qMJAsPQmu"
+                }
+            ]
+        },
+        "favorite_count":"2",
+        "favorited":false,
+        "full_text":"Can you name any of the California state emblems? #HappyBirthdayCalifornia #ILoveYouCA http://t.co/3qMJAsPQmu",
+        "id":"641717905604935682",
+        "id_str":"641717905604935682",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729293949
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025764,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729293949,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025764,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729293949,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729293949,
-    "wof:lastmodified": 1602193905,
-    "wof:name": "Can you name any of the California state emblems? #HappyBirthdayCalifornia #ILoveYouCA http://t.co/3qMJAsPQmu",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729293949,
+    "wof:lastmodified":1602634607,
+    "wof:name":"Can you name any of the California state emblems? #HappyBirthdayCalifornia #ILoveYouCA http://t.co/3qMJAsPQmu",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

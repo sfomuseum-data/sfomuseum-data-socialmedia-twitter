@@ -2,109 +2,108 @@
   "id": 1729309451,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2011-10-12",
-    "date:cessation_upper": "2011-10-12",
-    "date:inception_lower": "2011-10-12",
-    "date:inception_upper": "2011-10-12",
-    "edtf:cessation": "2011-10-12T11:20:02-07:00",
-    "edtf:inception": "2011-10-12T11:20:02-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1318443602,
-      "created_at": "Wed Oct 12 18:20:02 +0000 2011",
-      "display_text_range": [
-        "0", 
-        "136"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/rnRNOI",
-            "expanded_url": "http://bit.ly/rnRNOI",
-            "indices": [
-              "116", 
-              "136"
-            ],
-            "url": "http://t.co/4XxYGvP5"
-          }
+    "date:cessation_lower":"2011-10-12",
+    "date:cessation_upper":"2011-10-12",
+    "date:inception_lower":"2011-10-12",
+    "date:inception_upper":"2011-10-12",
+    "edtf:cessation":"2011-10-12T11:20:02-07:00",
+    "edtf:inception":"2011-10-12T11:20:02-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1318443602,
+        "created_at":"Wed Oct 12 18:20:02 +0000 2011",
+        "display_text_range":[
+            "0",
+            "136"
         ],
-        "user_mentions": [
-          {
-            "id": "42760374",
-            "id_str": "42760374",
-            "indices": [
-              "23", 
-              "33"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/rnRNOI",
+                    "expanded_url":"http://bit.ly/rnRNOI",
+                    "indices":[
+                        "116",
+                        "136"
+                    ],
+                    "url":"http://t.co/4XxYGvP5"
+                }
             ],
-            "name": "Lloyd Kahn",
-            "screen_name": "lloydkahn"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Aw, shucks! Thanks! RT @lloydkahn: Duck decoy exhibit at SFO airport: They always have wonderful exhibits in the IT http://t.co/4XxYGvP5",
-      "id": "124187587689713664",
-      "id_str": "124187587689713664",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"42760374",
+                    "id_str":"42760374",
+                    "indices":[
+                        "23",
+                        "33"
+                    ],
+                    "name":"Lloyd Kahn",
+                    "screen_name":"lloydkahn"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Aw, shucks! Thanks! RT @lloydkahn: Duck decoy exhibit at SFO airport: They always have wonderful exhibits in the IT http://t.co/4XxYGvP5",
+        "id":"124187587689713664",
+        "id_str":"124187587689713664",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729309451
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026354,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729309451,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026354,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729309451,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729309451,
-    "wof:lastmodified": 1602193914,
-    "wof:name": "Aw, shucks! Thanks! RT @lloydkahn: Duck decoy exhibit at SFO airport: They always have wonderful exhibits in the IT http://t.co/4XxYGvP5",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729309451,
+    "wof:lastmodified":1602634427,
+    "wof:name":"Aw, shucks! Thanks! RT @lloydkahn: Duck decoy exhibit at SFO airport: They always have wonderful exhibits in the IT http://t.co/4XxYGvP5",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

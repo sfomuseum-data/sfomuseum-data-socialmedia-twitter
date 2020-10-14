@@ -2,95 +2,94 @@
   "id": 1729297039,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2016-07-18",
-    "date:cessation_upper": "2016-07-18",
-    "date:inception_lower": "2016-07-18",
-    "date:inception_upper": "2016-07-18",
-    "edtf:cessation": "2016-07-18T19:45:06-07:00",
-    "edtf:inception": "2016-07-18T19:45:06-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1468896306,
-      "created_at": "Tue Jul 19 02:45:06 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "136"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "119", 
-              "136"
-            ],
-            "text": "ArtAndDisability"
-          }
+    "date:cessation_lower":"2016-07-18",
+    "date:cessation_upper":"2016-07-18",
+    "date:inception_lower":"2016-07-18",
+    "date:inception_upper":"2016-07-18",
+    "edtf:cessation":"2016-07-18T19:45:06-07:00",
+    "edtf:inception":"2016-07-18T19:45:06-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1468896306,
+        "created_at":"Tue Jul 19 02:45:06 +0000 2016",
+        "display_text_range":[
+            "0",
+            "136"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Wiggins’ also practices ceramic sculpture. His sculptures display the virtuosity \u0026amp; joyful spirit of his drawings.  #ArtAndDisability",
-      "id": "755231963083075584",
-      "id_str": "755231963083075584",
-      "lang": "en",
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "119",
+                        "136"
+                    ],
+                    "text":"ArtAndDisability"
+                }
+            ],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Wiggins\u2019 also practices ceramic sculpture. His sculptures display the virtuosity &amp; joyful spirit of his drawings.  #ArtAndDisability",
+        "id":"755231963083075584",
+        "id_str":"755231963083075584",
+        "lang":"en",
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729297039
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025882,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729297039,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025882,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729297039,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729297039,
-    "wof:lastmodified": 1602193906,
-    "wof:name": "Wiggins’ also practices ceramic sculpture. His sculptures display the virtuosity \u0026amp; joyful spirit of his drawings.  #ArtAndDisability",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729297039,
+    "wof:lastmodified":1602634605,
+    "wof:name":"Wiggins\u2019 also practices ceramic sculpture. His sculptures display the virtuosity &amp; joyful spirit of his drawings.  #ArtAndDisability",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,205 +2,204 @@
   "id": 1729291191,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2013-12-16",
-    "date:cessation_upper": "2013-12-16",
-    "date:inception_lower": "2013-12-16",
-    "date:inception_upper": "2013-12-16",
-    "edtf:cessation": "2013-12-16T10:50:01-08:00",
-    "edtf:inception": "2013-12-16T10:50:01-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1387219801,
-      "created_at": "Mon Dec 16 18:50:01 +0000 2013",
-      "display_text_range": [
-        "0", 
-        "139"
-      ],
-      "entities": {
-        "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/a9SWbtpa0M",
-            "expanded_url": "https://twitter.com/TelstarLogistic/status/412642425501278208/photo/1",
-            "id": "412642425383821312",
-            "id_str": "412642425383821312",
-            "indices": [
-              "117", 
-              "139"
-            ],
-            "media_url": "http://pbs.twimg.com/media/BboAGYBCIAAfLeq.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/BboAGYBCIAAfLeq.jpg",
-            "sizes": {
-              "large": {
-                "h": "540",
-                "resize": "fit",
-                "w": "720"
-              },
-              "medium": {
-                "h": "540",
-                "resize": "fit",
-                "w": "720"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "412642425501278208",
-            "source_status_id_str": "412642425501278208",
-            "source_user_id": "1598411",
-            "source_user_id_str": "1598411",
-            "type": "photo",
-            "url": "http://t.co/a9SWbtpa0M"
-          }
+    "date:cessation_lower":"2013-12-16",
+    "date:cessation_upper":"2013-12-16",
+    "date:inception_lower":"2013-12-16",
+    "date:inception_upper":"2013-12-16",
+    "edtf:cessation":"2013-12-16T10:50:01-08:00",
+    "edtf:inception":"2013-12-16T10:50:01-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1387219801,
+        "created_at":"Mon Dec 16 18:50:01 +0000 2013",
+        "display_text_range":[
+            "0",
+            "139"
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "1598411",
-            "id_str": "1598411",
-            "indices": [
-              "12", 
-              "28"
+        "entities":{
+            "hashtags":[],
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/a9SWbtpa0M",
+                    "expanded_url":"https://twitter.com/TelstarLogistic/status/412642425501278208/photo/1",
+                    "id":"412642425383821312",
+                    "id_str":"412642425383821312",
+                    "indices":[
+                        "117",
+                        "139"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/BboAGYBCIAAfLeq.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/BboAGYBCIAAfLeq.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"540",
+                            "resize":"fit",
+                            "w":"720"
+                        },
+                        "medium":{
+                            "h":"540",
+                            "resize":"fit",
+                            "w":"720"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"412642425501278208",
+                    "source_status_id_str":"412642425501278208",
+                    "source_user_id":"1598411",
+                    "source_user_id_str":"1598411",
+                    "type":"photo",
+                    "url":"http://t.co/a9SWbtpa0M"
+                }
             ],
-            "name": "Todd Lappin",
-            "screen_name": "TelstarLogistic"
-          }, 
-          {
-            "id": "35028425",
-            "id_str": "35028425",
-            "indices": [
-              "96", 
-              "105"
-            ],
-            "name": "Pan Am",
-            "screen_name": "FlyPanAm"
-          }, 
-          {
-            "id": "116329337",
-            "id_str": "116329337",
-            "indices": [
-              "106", 
-              "116"
-            ],
-            "name": "SFO Museum",
-            "screen_name": "SFOMuseum"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/a9SWbtpa0M",
-            "expanded_url": "https://twitter.com/TelstarLogistic/status/412642425501278208/photo/1",
-            "id": "412642425383821312",
-            "id_str": "412642425383821312",
-            "indices": [
-              "117", 
-              "139"
-            ],
-            "media_url": "http://pbs.twimg.com/media/BboAGYBCIAAfLeq.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/BboAGYBCIAAfLeq.jpg",
-            "sizes": {
-              "large": {
-                "h": "540",
-                "resize": "fit",
-                "w": "720"
-              },
-              "medium": {
-                "h": "540",
-                "resize": "fit",
-                "w": "720"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "412642425501278208",
-            "source_status_id_str": "412642425501278208",
-            "source_user_id": "1598411",
-            "source_user_id_str": "1598411",
-            "type": "photo",
-            "url": "http://t.co/a9SWbtpa0M"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Love it! RT @TelstarLogistic: The Perfect Xmas Gift for Your Jet Set Pet: (pic by Ben Smith) cc @FlyPanAm @SFOMuseum http://t.co/a9SWbtpa0M",
-      "id": "412655871534305280",
-      "id_str": "412655871534305280",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "2",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"1598411",
+                    "id_str":"1598411",
+                    "indices":[
+                        "12",
+                        "28"
+                    ],
+                    "name":"Todd Lappin",
+                    "screen_name":"TelstarLogistic"
+                },
+                {
+                    "id":"35028425",
+                    "id_str":"35028425",
+                    "indices":[
+                        "96",
+                        "105"
+                    ],
+                    "name":"Pan Am",
+                    "screen_name":"FlyPanAm"
+                },
+                {
+                    "id":"116329337",
+                    "id_str":"116329337",
+                    "indices":[
+                        "106",
+                        "116"
+                    ],
+                    "name":"SFO Museum",
+                    "screen_name":"SFOMuseum"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/a9SWbtpa0M",
+                    "expanded_url":"https://twitter.com/TelstarLogistic/status/412642425501278208/photo/1",
+                    "id":"412642425383821312",
+                    "id_str":"412642425383821312",
+                    "indices":[
+                        "117",
+                        "139"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/BboAGYBCIAAfLeq.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/BboAGYBCIAAfLeq.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"540",
+                            "resize":"fit",
+                            "w":"720"
+                        },
+                        "medium":{
+                            "h":"540",
+                            "resize":"fit",
+                            "w":"720"
+                        },
+                        "small":{
+                            "h":"510",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"412642425501278208",
+                    "source_status_id_str":"412642425501278208",
+                    "source_user_id":"1598411",
+                    "source_user_id_str":"1598411",
+                    "type":"photo",
+                    "url":"http://t.co/a9SWbtpa0M"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Love it! RT @TelstarLogistic: The Perfect Xmas Gift for Your Jet Set Pet: (pic by Ben Smith) cc @FlyPanAm @SFOMuseum http://t.co/a9SWbtpa0M",
+        "id":"412655871534305280",
+        "id_str":"412655871534305280",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"2",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729291191
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025661,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729291191,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025661,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729291191,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729291191,
-    "wof:lastmodified": 1602193903,
-    "wof:name": "Love it! RT @TelstarLogistic: The Perfect Xmas Gift for Your Jet Set Pet: (pic by Ben Smith) cc @FlyPanAm @SFOMuseum http://t.co/a9SWbtpa0M",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729291191,
+    "wof:lastmodified":1602634579,
+    "wof:name":"Love it! RT @TelstarLogistic: The Perfect Xmas Gift for Your Jet Set Pet: (pic by Ben Smith) cc @FlyPanAm @SFOMuseum http://t.co/a9SWbtpa0M",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

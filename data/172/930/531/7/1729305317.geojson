@@ -2,109 +2,108 @@
   "id": 1729305317,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2012-02-02",
-    "date:cessation_upper": "2012-02-02",
-    "date:inception_lower": "2012-02-02",
-    "date:inception_upper": "2012-02-02",
-    "edtf:cessation": "2012-02-02T16:25:15-08:00",
-    "edtf:inception": "2012-02-02T16:25:15-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1328228715,
-      "created_at": "Fri Feb 03 00:25:15 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "115"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "4sq.com/yKqJt5",
-            "expanded_url": "http://4sq.com/yKqJt5",
-            "indices": [
-              "95", 
-              "115"
-            ],
-            "url": "http://t.co/bTZ5NVSC"
-          }
+    "date:cessation_lower":"2012-02-02",
+    "date:cessation_upper":"2012-02-02",
+    "date:inception_lower":"2012-02-02",
+    "date:inception_upper":"2012-02-02",
+    "edtf:cessation":"2012-02-02T16:25:15-08:00",
+    "edtf:inception":"2012-02-02T16:25:15-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1328228715,
+        "created_at":"Fri Feb 03 00:25:15 +0000 2012",
+        "display_text_range":[
+            "0",
+            "115"
         ],
-        "user_mentions": [
-          {
-            "id": "14548676",
-            "id_str": "14548676",
-            "indices": [
-              "27", 
-              "37"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"4sq.com/yKqJt5",
+                    "expanded_url":"http://4sq.com/yKqJt5",
+                    "indices":[
+                        "95",
+                        "115"
+                    ],
+                    "url":"http://t.co/bTZ5NVSC"
+                }
             ],
-            "name": "Sen. Brant Feldman",
-            "screen_name": "AGMSports"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "*blush* Why, thank you! RT @AGMSports: Very pretty in here (@ SFO Aviation Library and Museum) http://t.co/bTZ5NVSC",
-      "id": "165229323387805700",
-      "id_str": "165229323387805700",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"14548676",
+                    "id_str":"14548676",
+                    "indices":[
+                        "27",
+                        "37"
+                    ],
+                    "name":"Sen. Brant Feldman",
+                    "screen_name":"AGMSports"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"*blush* Why, thank you! RT @AGMSports: Very pretty in here (@ SFO Aviation Library and Museum) http://t.co/bTZ5NVSC",
+        "id":"165229323387805700",
+        "id_str":"165229323387805700",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729305317
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026196,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729305317,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026196,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729305317,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729305317,
-    "wof:lastmodified": 1602193911,
-    "wof:name": "*blush* Why, thank you! RT @AGMSports: Very pretty in here (@ SFO Aviation Library and Museum) http://t.co/bTZ5NVSC",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729305317,
+    "wof:lastmodified":1602634334,
+    "wof:name":"*blush* Why, thank you! RT @AGMSports: Very pretty in here (@ SFO Aviation Library and Museum) http://t.co/bTZ5NVSC",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

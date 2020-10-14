@@ -2,145 +2,144 @@
   "id": 1729308971,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2012-03-12",
-    "date:cessation_upper": "2012-03-12",
-    "date:inception_lower": "2012-03-12",
-    "date:inception_upper": "2012-03-12",
-    "edtf:cessation": "2012-03-12T16:30:01-07:00",
-    "edtf:inception": "2012-03-12T16:30:01-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1331595001,
-      "created_at": "Mon Mar 12 23:30:01 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "137"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "81", 
-              "85"
-            ],
-            "text": "SFO"
-          }, 
-          {
-            "indices": [
-              "108", 
-              "115"
-            ],
-            "text": "travel"
-          }, 
-          {
-            "indices": [
-              "116", 
-              "124"
-            ],
-            "text": "airport"
-          }, 
-          {
-            "indices": [
-              "125", 
-              "129"
-            ],
-            "text": "art"
-          }, 
-          {
-            "indices": [
-              "130", 
-              "137"
-            ],
-            "text": "sewing"
-          }
+    "date:cessation_lower":"2012-03-12",
+    "date:cessation_upper":"2012-03-12",
+    "date:inception_lower":"2012-03-12",
+    "date:inception_upper":"2012-03-12",
+    "edtf:cessation":"2012-03-12T16:30:01-07:00",
+    "edtf:inception":"2012-03-12T16:30:01-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1331595001,
+        "created_at":"Mon Mar 12 23:30:01 +0000 2012",
+        "display_text_range":[
+            "0",
+            "137"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/9AlRn",
-            "expanded_url": "http://ow.ly/9AlRn",
-            "indices": [
-              "87", 
-              "107"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "81",
+                        "85"
+                    ],
+                    "text":"SFO"
+                },
+                {
+                    "indices":[
+                        "108",
+                        "115"
+                    ],
+                    "text":"travel"
+                },
+                {
+                    "indices":[
+                        "116",
+                        "124"
+                    ],
+                    "text":"airport"
+                },
+                {
+                    "indices":[
+                        "125",
+                        "129"
+                    ],
+                    "text":"art"
+                },
+                {
+                    "indices":[
+                        "130",
+                        "137"
+                    ],
+                    "text":"sewing"
+                }
             ],
-            "url": "http://t.co/D6WHnVHX"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "45217275",
-            "id_str": "45217275",
-            "indices": [
-              "40", 
-              "55"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/9AlRn",
+                    "expanded_url":"http://ow.ly/9AlRn",
+                    "indices":[
+                        "87",
+                        "107"
+                    ],
+                    "url":"http://t.co/D6WHnVHX"
+                }
             ],
-            "name": "Harriet Baskas",
-            "screen_name": "StuckatAirport"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "We're \"sew\" happy about the exhibit! MT @StuckatAirport: Things are \"sew-sew\" at #SFO. http://t.co/D6WHnVHX #travel #airport #art #sewing",
-      "id": "179348550591856640",
-      "id_str": "179348550591856640",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"45217275",
+                    "id_str":"45217275",
+                    "indices":[
+                        "40",
+                        "55"
+                    ],
+                    "name":"Harriet Baskas",
+                    "screen_name":"StuckatAirport"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"We're \"sew\" happy about the exhibit! MT @StuckatAirport: Things are \"sew-sew\" at #SFO. http://t.co/D6WHnVHX #travel #airport #art #sewing",
+        "id":"179348550591856640",
+        "id_str":"179348550591856640",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729308971
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026335,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729308971,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026335,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729308971,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729308971,
-    "wof:lastmodified": 1602193914,
-    "wof:name": "We're \"sew\" happy about the exhibit! MT @StuckatAirport: Things are \"sew-sew\" at #SFO. http://t.co/D6WHnVHX #travel #airport #art #sewing",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729308971,
+    "wof:lastmodified":1602634410,
+    "wof:name":"We're \"sew\" happy about the exhibit! MT @StuckatAirport: Things are \"sew-sew\" at #SFO. http://t.co/D6WHnVHX #travel #airport #art #sewing",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

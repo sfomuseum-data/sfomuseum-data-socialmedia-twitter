@@ -2,191 +2,190 @@
   "id": 1729301317,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2017-10-06",
-    "date:cessation_upper": "2017-10-06",
-    "date:inception_lower": "2017-10-06",
-    "date:inception_upper": "2017-10-06",
-    "edtf:cessation": "2017-10-06T15:15:09-07:00",
-    "edtf:inception": "2017-10-06T15:15:09-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1507328109,
-      "created_at": "Fri Oct 06 22:15:09 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "154"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "17", 
-              "29"
-            ],
-            "text": "typewriters"
-          }, 
-          {
-            "indices": [
-              "34", 
-              "48"
-            ],
-            "text": "TheTypewriter"
-          }
+    "date:cessation_lower":"2017-10-06",
+    "date:cessation_upper":"2017-10-06",
+    "date:inception_lower":"2017-10-06",
+    "date:inception_upper":"2017-10-06",
+    "edtf:cessation":"2017-10-06T15:15:09-07:00",
+    "edtf:inception":"2017-10-06T15:15:09-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1507328109,
+        "created_at":"Fri Oct 06 22:15:09 +0000 2017",
+        "display_text_range":[
+            "0",
+            "154"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/6PTESm08MZ",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/916426629387255809/photo/1",
-            "id": "916426626434588673",
-            "id_str": "916426626434588673",
-            "indices": [
-              "131", 
-              "154"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "17",
+                        "29"
+                    ],
+                    "text":"typewriters"
+                },
+                {
+                    "indices":[
+                        "34",
+                        "48"
+                    ],
+                    "text":"TheTypewriter"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DLfNKUtX4AEmUfR.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DLfNKUtX4AEmUfR.jpg",
-            "sizes": {
-              "large": {
-                "h": "1429",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "857",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "486",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/6PTESm08MZ"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/Thetypewriter",
-            "expanded_url": "http://bit.ly/Thetypewriter",
-            "indices": [
-              "107", 
-              "130"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/6PTESm08MZ",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/916426629387255809/photo/1",
+                    "id":"916426626434588673",
+                    "id_str":"916426626434588673",
+                    "indices":[
+                        "131",
+                        "154"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DLfNKUtX4AEmUfR.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DLfNKUtX4AEmUfR.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1429",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"857",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"486",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/6PTESm08MZ"
+                }
             ],
-            "url": "https://t.co/Nph1wGe8xJ"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/6PTESm08MZ",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/916426629387255809/photo/1",
-            "id": "916426626434588673",
-            "id_str": "916426626434588673",
-            "indices": [
-              "131", 
-              "154"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/Thetypewriter",
+                    "expanded_url":"http://bit.ly/Thetypewriter",
+                    "indices":[
+                        "107",
+                        "130"
+                    ],
+                    "url":"https://t.co/Nph1wGe8xJ"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DLfNKUtX4AEmUfR.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DLfNKUtX4AEmUfR.jpg",
-            "sizes": {
-              "large": {
-                "h": "1429",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "857",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "486",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/6PTESm08MZ"
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "Learn more about #typewriters in \"#TheTypewriter: An Innovation in Writing\", post-security, in Terminal 2. https://t.co/Nph1wGe8xJ https://t.co/6PTESm08MZ",
-      "id": "916426629387255809",
-      "id_str": "916426629387255809",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/6PTESm08MZ",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/916426629387255809/photo/1",
+                    "id":"916426626434588673",
+                    "id_str":"916426626434588673",
+                    "indices":[
+                        "131",
+                        "154"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DLfNKUtX4AEmUfR.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DLfNKUtX4AEmUfR.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1429",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"857",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"486",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/6PTESm08MZ"
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"Learn more about #typewriters in \"#TheTypewriter: An Innovation in Writing\", post-security, in Terminal 2. https://t.co/Nph1wGe8xJ https://t.co/6PTESm08MZ",
+        "id":"916426629387255809",
+        "id_str":"916426629387255809",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729301317
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026043,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729301317,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026043,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729301317,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729301317,
-    "wof:lastmodified": 1602193909,
-    "wof:name": "Learn more about #typewriters in \"#TheTypewriter: An Innovation in Writing\", post-security, in Terminal 2. https://t.co/Nph1wGe8xJ https://t.co/6PTESm08MZ",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729301317,
+    "wof:lastmodified":1602634322,
+    "wof:name":"Learn more about #typewriters in \"#TheTypewriter: An Innovation in Writing\", post-security, in Terminal 2. https://t.co/Nph1wGe8xJ https://t.co/6PTESm08MZ",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

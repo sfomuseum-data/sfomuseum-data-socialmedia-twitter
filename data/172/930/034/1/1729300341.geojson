@@ -2,98 +2,97 @@
   "id": 1729300341,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2011-12-29",
-    "date:cessation_upper": "2011-12-29",
-    "date:inception_lower": "2011-12-29",
-    "date:inception_upper": "2011-12-29",
-    "edtf:cessation": "2011-12-29T13:50:56-08:00",
-    "edtf:inception": "2011-12-29T13:50:56-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1325195456,
-      "created_at": "Thu Dec 29 21:50:56 +0000 2011",
-      "display_text_range": [
-        "0", 
-        "131"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/rNGyD2",
-            "expanded_url": "http://bit.ly/rNGyD2",
-            "indices": [
-              "111", 
-              "131"
-            ],
-            "url": "http://t.co/qI58VJ9d"
-          }
+    "date:cessation_lower":"2011-12-29",
+    "date:cessation_upper":"2011-12-29",
+    "date:inception_lower":"2011-12-29",
+    "date:inception_upper":"2011-12-29",
+    "edtf:cessation":"2011-12-29T13:50:56-08:00",
+    "edtf:inception":"2011-12-29T13:50:56-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1325195456,
+        "created_at":"Thu Dec 29 21:50:56 +0000 2011",
+        "display_text_range":[
+            "0",
+            "131"
         ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "The effects in Noah Wilson's photos are particularly haunting in this print of an unknown California location: http://t.co/qI58VJ9d",
-      "id": "152506913911865344",
-      "id_str": "152506913911865344",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/rNGyD2",
+                    "expanded_url":"http://bit.ly/rNGyD2",
+                    "indices":[
+                        "111",
+                        "131"
+                    ],
+                    "url":"http://t.co/qI58VJ9d"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"The effects in Noah Wilson's photos are particularly haunting in this print of an unknown California location: http://t.co/qI58VJ9d",
+        "id":"152506913911865344",
+        "id_str":"152506913911865344",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729300341
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026005,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729300341,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026005,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729300341,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729300341,
-    "wof:lastmodified": 1602193909,
-    "wof:name": "The effects in Noah Wilson's photos are particularly haunting in this print of an unknown California location: http://t.co/qI58VJ9d",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729300341,
+    "wof:lastmodified":1602634395,
+    "wof:name":"The effects in Noah Wilson's photos are particularly haunting in this print of an unknown California location: http://t.co/qI58VJ9d",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

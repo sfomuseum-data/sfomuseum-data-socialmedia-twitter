@@ -2,103 +2,102 @@
   "id": 1729310313,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2012-08-06",
-    "date:cessation_upper": "2012-08-06",
-    "date:inception_lower": "2012-08-06",
-    "date:inception_upper": "2012-08-06",
-    "edtf:cessation": "2012-08-06T10:10:19-07:00",
-    "edtf:inception": "2012-08-06T10:10:19-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1344273019,
-      "created_at": "Mon Aug 06 17:10:19 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "92"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "263996020",
-            "id_str": "263996020",
-            "indices": [
-              "0", 
-              "9"
-            ],
-            "name": "Faith Thompson Ako",
-            "screen_name": "faithako"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "@faithako Mahalo nui loa! Thanks for checking out the museum \u0026amp; library over the weekend!",
-      "id": "232524012599799808",
-      "id_str": "232524012599799808",
-      "in_reply_to_screen_name": "faithako",
-      "in_reply_to_status_id": "231934822367502336",
-      "in_reply_to_status_id_str": "231934822367502336",
-      "in_reply_to_user_id": "263996020",
-      "in_reply_to_user_id_str": "263996020",
-      "lang": "en",
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+    "date:cessation_lower":"2012-08-06",
+    "date:cessation_upper":"2012-08-06",
+    "date:inception_lower":"2012-08-06",
+    "date:inception_upper":"2012-08-06",
+    "edtf:cessation":"2012-08-06T10:10:19-07:00",
+    "edtf:inception":"2012-08-06T10:10:19-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1344273019,
+        "created_at":"Mon Aug 06 17:10:19 +0000 2012",
+        "display_text_range":[
+            "0",
+            "92"
+        ],
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"263996020",
+                    "id_str":"263996020",
+                    "indices":[
+                        "0",
+                        "9"
+                    ],
+                    "name":"Faith Thompson Ako",
+                    "screen_name":"faithako"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"@faithako Mahalo nui loa! Thanks for checking out the museum &amp; library over the weekend!",
+        "id":"232524012599799808",
+        "id_str":"232524012599799808",
+        "in_reply_to_screen_name":"faithako",
+        "in_reply_to_status_id":"231934822367502336",
+        "in_reply_to_status_id_str":"231934822367502336",
+        "in_reply_to_user_id":"263996020",
+        "in_reply_to_user_id_str":"263996020",
+        "lang":"en",
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729310313
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026388,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729310313,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026388,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729310313,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729310313,
-    "wof:lastmodified": 1602193914,
-    "wof:name": "@faithako Mahalo nui loa! Thanks for checking out the museum \u0026amp; library over the weekend!",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729310313,
+    "wof:lastmodified":1602634138,
+    "wof:name":"@faithako Mahalo nui loa! Thanks for checking out the museum &amp; library over the weekend!",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

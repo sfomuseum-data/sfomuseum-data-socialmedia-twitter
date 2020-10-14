@@ -2,138 +2,137 @@
   "id": 1729291377,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2014-01-08",
-    "date:cessation_upper": "2014-01-08",
-    "date:inception_lower": "2014-01-08",
-    "date:inception_upper": "2014-01-08",
-    "edtf:cessation": "2014-01-08T13:42:12-08:00",
-    "edtf:inception": "2014-01-08T13:42:12-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1389217332,
-      "created_at": "Wed Jan 08 21:42:12 +0000 2014",
-      "display_text_range": [
-        "0", 
-        "117"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "93", 
-              "100"
-            ],
-            "text": "travel"
-          }, 
-          {
-            "indices": [
-              "101", 
-              "105"
-            ],
-            "text": "SFO"
-          }, 
-          {
-            "indices": [
-              "106", 
-              "113"
-            ],
-            "text": "museum"
-          }, 
-          {
-            "indices": [
-              "114", 
-              "117"
-            ],
-            "text": "lp"
-          }
+    "date:cessation_lower":"2014-01-08",
+    "date:cessation_upper":"2014-01-08",
+    "date:inception_lower":"2014-01-08",
+    "date:inception_upper":"2014-01-08",
+    "edtf:cessation":"2014-01-08T13:42:12-08:00",
+    "edtf:inception":"2014-01-08T13:42:12-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1389217332,
+        "created_at":"Wed Jan 08 21:42:12 +0000 2014",
+        "display_text_range":[
+            "0",
+            "117"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/sdYCP",
-            "expanded_url": "http://ow.ly/sdYCP",
-            "indices": [
-              "70", 
-              "92"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "93",
+                        "100"
+                    ],
+                    "text":"travel"
+                },
+                {
+                    "indices":[
+                        "101",
+                        "105"
+                    ],
+                    "text":"SFO"
+                },
+                {
+                    "indices":[
+                        "106",
+                        "113"
+                    ],
+                    "text":"museum"
+                },
+                {
+                    "indices":[
+                        "114",
+                        "117"
+                    ],
+                    "text":"lp"
+                }
             ],
-            "url": "http://t.co/Mwo15aGfq3"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "529681093",
-            "id_str": "529681093",
-            "indices": [
-              "3", 
-              "14"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/sdYCP",
+                    "expanded_url":"http://ow.ly/sdYCP",
+                    "indices":[
+                        "70",
+                        "92"
+                    ],
+                    "url":"http://t.co/Mwo15aGfq3"
+                }
             ],
-            "name": "Emmanuel",
-            "screen_name": "ManuBarack"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @ManuBarack: 8 airports around the world with awesome art exhibits http://t.co/Mwo15aGfq3 #travel #SFO #museum #lp",
-      "id": "421034126092038145",
-      "id_str": "421034126092038145",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"529681093",
+                    "id_str":"529681093",
+                    "indices":[
+                        "3",
+                        "14"
+                    ],
+                    "name":"Emmanuel",
+                    "screen_name":"ManuBarack"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @ManuBarack: 8 airports around the world with awesome art exhibits http://t.co/Mwo15aGfq3 #travel #SFO #museum #lp",
+        "id":"421034126092038145",
+        "id_str":"421034126092038145",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729291377
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025668,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729291377,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025668,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729291377,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729291377,
-    "wof:lastmodified": 1602193903,
-    "wof:name": "RT @ManuBarack: 8 airports around the world with awesome art exhibits http://t.co/Mwo15aGfq3 #travel #SFO #museum #lp",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729291377,
+    "wof:lastmodified":1602634613,
+    "wof:name":"RT @ManuBarack: 8 airports around the world with awesome art exhibits http://t.co/Mwo15aGfq3 #travel #SFO #museum #lp",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,106 +2,105 @@
   "id": 1729294373,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2015-10-28",
-    "date:cessation_upper": "2015-10-28",
-    "date:inception_lower": "2015-10-28",
-    "date:inception_upper": "2015-10-28",
-    "edtf:cessation": "2015-10-28T20:20:05-07:00",
-    "edtf:inception": "2015-10-28T20:20:05-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1446088805,
-      "created_at": "Thu Oct 29 03:20:05 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "138"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "122", 
-              "138"
-            ],
-            "text": "WomeninAviation"
-          }
+    "date:cessation_lower":"2015-10-28",
+    "date:cessation_upper":"2015-10-28",
+    "date:inception_lower":"2015-10-28",
+    "date:inception_upper":"2015-10-28",
+    "edtf:cessation":"2015-10-28T20:20:05-07:00",
+    "edtf:inception":"2015-10-28T20:20:05-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1446088805,
+        "created_at":"Thu Oct 29 03:20:05 +0000 2015",
+        "display_text_range":[
+            "0",
+            "138"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "sfomuseum.tumblr.com/post/132123520…",
-            "expanded_url": "http://sfomuseum.tumblr.com/post/132123520141/bonnie-jones-moon-worked-for-pan-american-world",
-            "indices": [
-              "97", 
-              "120"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "122",
+                        "138"
+                    ],
+                    "text":"WomeninAviation"
+                }
             ],
-            "url": "https://t.co/JQvItsWIl2"
-          }
-        ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Bonnie Jones Moon worked for Pan Am from 1972 to 1989. Discover her flight attendant story here: https://t.co/JQvItsWIl2  #WomeninAviation",
-      "id": "659570370459148288",
-      "id_str": "659570370459148288",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"sfomuseum.tumblr.com/post/132123520\u2026",
+                    "expanded_url":"http://sfomuseum.tumblr.com/post/132123520141/bonnie-jones-moon-worked-for-pan-american-world",
+                    "indices":[
+                        "97",
+                        "120"
+                    ],
+                    "url":"https://t.co/JQvItsWIl2"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Bonnie Jones Moon worked for Pan Am from 1972 to 1989. Discover her flight attendant story here: https://t.co/JQvItsWIl2  #WomeninAviation",
+        "id":"659570370459148288",
+        "id_str":"659570370459148288",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729294373
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025780,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729294373,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025780,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729294373,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729294373,
-    "wof:lastmodified": 1602193905,
-    "wof:name": "Bonnie Jones Moon worked for Pan Am from 1972 to 1989. Discover her flight attendant story here: https://t.co/JQvItsWIl2  #WomeninAviation",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729294373,
+    "wof:lastmodified":1602634523,
+    "wof:name":"Bonnie Jones Moon worked for Pan Am from 1972 to 1989. Discover her flight attendant story here: https://t.co/JQvItsWIl2  #WomeninAviation",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

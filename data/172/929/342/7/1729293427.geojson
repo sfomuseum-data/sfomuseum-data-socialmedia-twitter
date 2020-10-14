@@ -2,193 +2,192 @@
   "id": 1729293427,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2015-05-22",
-    "date:cessation_upper": "2015-05-22",
-    "date:inception_lower": "2015-05-22",
-    "date:inception_upper": "2015-05-22",
-    "edtf:cessation": "2015-05-22T09:32:52-07:00",
-    "edtf:inception": "2015-05-22T09:32:52-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1432312372,
-      "created_at": "Fri May 22 16:32:52 +0000 2015",
-      "display_text_range": [
-        "0", 
-        "106"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "71", 
-              "83"
-            ],
-            "text": "BlackLagoon"
-          }
+    "date:cessation_lower":"2015-05-22",
+    "date:cessation_upper":"2015-05-22",
+    "date:inception_lower":"2015-05-22",
+    "date:inception_upper":"2015-05-22",
+    "edtf:cessation":"2015-05-22T09:32:52-07:00",
+    "edtf:inception":"2015-05-22T09:32:52-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1432312372,
+        "created_at":"Fri May 22 16:32:52 +0000 2015",
+        "display_text_range":[
+            "0",
+            "106"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/4GfG1d2oX5",
-            "expanded_url": "https://twitter.com/JimLecinski/status/601781552943603713/photo/1",
-            "id": "601781545670696960",
-            "id_str": "601781545670696960",
-            "indices": [
-              "84", 
-              "106"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "71",
+                        "83"
+                    ],
+                    "text":"BlackLagoon"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CFn1IJ4WYAA4gel.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CFn1IJ4WYAA4gel.jpg",
-            "sizes": {
-              "large": {
-                "h": "608",
-                "resize": "fit",
-                "w": "1080"
-              },
-              "medium": {
-                "h": "608",
-                "resize": "fit",
-                "w": "1080"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "601781552943603713",
-            "source_status_id_str": "601781552943603713",
-            "source_user_id": "16380310",
-            "source_user_id_str": "16380310",
-            "type": "photo",
-            "url": "http://t.co/4GfG1d2oX5"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "16380310",
-            "id_str": "16380310",
-            "indices": [
-              "3", 
-              "15"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/4GfG1d2oX5",
+                    "expanded_url":"https://twitter.com/JimLecinski/status/601781552943603713/photo/1",
+                    "id":"601781545670696960",
+                    "id_str":"601781545670696960",
+                    "indices":[
+                        "84",
+                        "106"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CFn1IJ4WYAA4gel.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CFn1IJ4WYAA4gel.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"608",
+                            "resize":"fit",
+                            "w":"1080"
+                        },
+                        "medium":{
+                            "h":"608",
+                            "resize":"fit",
+                            "w":"1080"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"601781552943603713",
+                    "source_status_id_str":"601781552943603713",
+                    "source_user_id":"16380310",
+                    "source_user_id_str":"16380310",
+                    "type":"photo",
+                    "url":"http://t.co/4GfG1d2oX5"
+                }
             ],
-            "name": "Jim Lecinski",
-            "screen_name": "JimLecinski"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/4GfG1d2oX5",
-            "expanded_url": "https://twitter.com/JimLecinski/status/601781552943603713/photo/1",
-            "id": "601781545670696960",
-            "id_str": "601781545670696960",
-            "indices": [
-              "84", 
-              "106"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CFn1IJ4WYAA4gel.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CFn1IJ4WYAA4gel.jpg",
-            "sizes": {
-              "large": {
-                "h": "608",
-                "resize": "fit",
-                "w": "1080"
-              },
-              "medium": {
-                "h": "608",
-                "resize": "fit",
-                "w": "1080"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "601781552943603713",
-            "source_status_id_str": "601781552943603713",
-            "source_user_id": "16380310",
-            "source_user_id_str": "16380310",
-            "type": "photo",
-            "url": "http://t.co/4GfG1d2oX5"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @JimLecinski: My favorite 50s monster on display this week at SFO.  #BlackLagoon http://t.co/4GfG1d2oX5",
-      "id": "601787825588203520",
-      "id_str": "601787825588203520",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"16380310",
+                    "id_str":"16380310",
+                    "indices":[
+                        "3",
+                        "15"
+                    ],
+                    "name":"Jim Lecinski",
+                    "screen_name":"JimLecinski"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/4GfG1d2oX5",
+                    "expanded_url":"https://twitter.com/JimLecinski/status/601781552943603713/photo/1",
+                    "id":"601781545670696960",
+                    "id_str":"601781545670696960",
+                    "indices":[
+                        "84",
+                        "106"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CFn1IJ4WYAA4gel.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CFn1IJ4WYAA4gel.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"608",
+                            "resize":"fit",
+                            "w":"1080"
+                        },
+                        "medium":{
+                            "h":"608",
+                            "resize":"fit",
+                            "w":"1080"
+                        },
+                        "small":{
+                            "h":"383",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"601781552943603713",
+                    "source_status_id_str":"601781552943603713",
+                    "source_user_id":"16380310",
+                    "source_user_id_str":"16380310",
+                    "type":"photo",
+                    "url":"http://t.co/4GfG1d2oX5"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @JimLecinski: My favorite 50s monster on display this week at SFO.  #BlackLagoon http://t.co/4GfG1d2oX5",
+        "id":"601787825588203520",
+        "id_str":"601787825588203520",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729293427
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025745,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729293427,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025745,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729293427,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729293427,
-    "wof:lastmodified": 1602193904,
-    "wof:name": "RT @JimLecinski: My favorite 50s monster on display this week at SFO.  #BlackLagoon http://t.co/4GfG1d2oX5",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729293427,
+    "wof:lastmodified":1602634685,
+    "wof:name":"RT @JimLecinski: My favorite 50s monster on display this week at SFO.  #BlackLagoon http://t.co/4GfG1d2oX5",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

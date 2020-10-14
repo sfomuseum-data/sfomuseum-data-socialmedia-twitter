@@ -2,162 +2,161 @@
   "id": 1729310233,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2012-08-03",
-    "date:cessation_upper": "2012-08-03",
-    "date:inception_lower": "2012-08-03",
-    "date:inception_upper": "2012-08-03",
-    "edtf:cessation": "2012-08-03T11:52:28-07:00",
-    "edtf:inception": "2012-08-03T11:52:28-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1344019948,
-      "created_at": "Fri Aug 03 18:52:28 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "136"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "54", 
-              "69"
-            ],
-            "text": "MuseumOlympics"
-          }
+    "date:cessation_lower":"2012-08-03",
+    "date:cessation_upper":"2012-08-03",
+    "date:inception_lower":"2012-08-03",
+    "date:inception_upper":"2012-08-03",
+    "edtf:cessation":"2012-08-03T11:52:28-07:00",
+    "edtf:inception":"2012-08-03T11:52:28-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1344019948,
+        "created_at":"Fri Aug 03 18:52:28 +0000 2012",
+        "display_text_range":[
+            "0",
+            "136"
         ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "nyti.ms/bM9RTB",
-            "expanded_url": "http://nyti.ms/bM9RTB",
-            "indices": [
-              "77", 
-              "97"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "54",
+                        "69"
+                    ],
+                    "text":"MuseumOlympics"
+                }
             ],
-            "url": "http://t.co/toKLBsa0"
-          }
-        ],
-        "user_mentions": [
-          {
-            "id": "17844854",
-            "id_str": "17844854",
-            "indices": [
-              "0", 
-              "15"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"nyti.ms/bM9RTB",
+                    "expanded_url":"http://nyti.ms/bM9RTB",
+                    "indices":[
+                        "77",
+                        "97"
+                    ],
+                    "url":"http://t.co/toKLBsa0"
+                }
             ],
-            "name": "Asian Art Museum",
-            "screen_name": "asianartmuseum"
-          }, 
-          {
-            "id": "15907760",
-            "id_str": "15907760",
-            "indices": [
-              "16", 
-              "21"
-            ],
-            "name": "YBCA",
-            "screen_name": "ybca"
-          }, 
-          {
-            "id": "16017753",
-            "id_str": "16017753",
-            "indices": [
-              "22", 
-              "33"
-            ],
-            "name": "CA AcademyOfSciences",
-            "screen_name": "calacademy"
-          }, 
-          {
-            "id": "596876310",
-            "id_str": "596876310",
-            "indices": [
-              "34", 
-              "45"
-            ],
-            "name": "SOCP Museum/Library",
-            "screen_name": "SOCPMuseum"
-          }, 
-          {
-            "id": "7614292",
-            "id_str": "7614292",
-            "indices": [
-              "98", 
-              "113"
-            ],
-            "name": "Brooklyn Museum",
-            "screen_name": "brooklynmuseum"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "@asianartmuseum @ybca @calacademy @SOCPMuseum Hipster #MuseumOlympics redux? http://t.co/toKLBsa0 @brooklynmuseum has been practicing...",
-      "id": "231462555455991809",
-      "id_str": "231462555455991809",
-      "in_reply_to_screen_name": "asianartmuseum",
-      "in_reply_to_status_id": "231457999519117313",
-      "in_reply_to_status_id_str": "231457999519117313",
-      "in_reply_to_user_id": "17844854",
-      "in_reply_to_user_id_str": "17844854",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"17844854",
+                    "id_str":"17844854",
+                    "indices":[
+                        "0",
+                        "15"
+                    ],
+                    "name":"Asian Art Museum",
+                    "screen_name":"asianartmuseum"
+                },
+                {
+                    "id":"15907760",
+                    "id_str":"15907760",
+                    "indices":[
+                        "16",
+                        "21"
+                    ],
+                    "name":"YBCA",
+                    "screen_name":"ybca"
+                },
+                {
+                    "id":"16017753",
+                    "id_str":"16017753",
+                    "indices":[
+                        "22",
+                        "33"
+                    ],
+                    "name":"CA AcademyOfSciences",
+                    "screen_name":"calacademy"
+                },
+                {
+                    "id":"596876310",
+                    "id_str":"596876310",
+                    "indices":[
+                        "34",
+                        "45"
+                    ],
+                    "name":"SOCP Museum/Library",
+                    "screen_name":"SOCPMuseum"
+                },
+                {
+                    "id":"7614292",
+                    "id_str":"7614292",
+                    "indices":[
+                        "98",
+                        "113"
+                    ],
+                    "name":"Brooklyn Museum",
+                    "screen_name":"brooklynmuseum"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"@asianartmuseum @ybca @calacademy @SOCPMuseum Hipster #MuseumOlympics redux? http://t.co/toKLBsa0 @brooklynmuseum has been practicing...",
+        "id":"231462555455991809",
+        "id_str":"231462555455991809",
+        "in_reply_to_screen_name":"asianartmuseum",
+        "in_reply_to_status_id":"231457999519117313",
+        "in_reply_to_status_id_str":"231457999519117313",
+        "in_reply_to_user_id":"17844854",
+        "in_reply_to_user_id_str":"17844854",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729310233
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026385,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729310233,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026385,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729310233,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729310233,
-    "wof:lastmodified": 1602193914,
-    "wof:name": "@asianartmuseum @ybca @calacademy @SOCPMuseum Hipster #MuseumOlympics redux? http://t.co/toKLBsa0 @brooklynmuseum has been practicing...",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729310233,
+    "wof:lastmodified":1602634124,
+    "wof:name":"@asianartmuseum @ybca @calacademy @SOCPMuseum Hipster #MuseumOlympics redux? http://t.co/toKLBsa0 @brooklynmuseum has been practicing...",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,217 +2,216 @@
   "id": 1729304611,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2018-11-09",
-    "date:cessation_upper": "2018-11-09",
-    "date:inception_lower": "2018-11-09",
-    "date:inception_upper": "2018-11-09",
-    "edtf:cessation": "2018-11-09T14:56:34-08:00",
-    "edtf:inception": "2018-11-09T14:56:34-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1541804194,
-      "created_at": "Fri Nov 09 22:56:34 +0000 2018",
-      "display_text_range": [
-        "0", 
-        "277"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "231", 
-              "245"
-            ],
-            "text": "BritishSilver"
-          }, 
-          {
-            "indices": [
-              "246", 
-              "253"
-            ],
-            "text": "silver"
-          }
+    "date:cessation_lower":"2018-11-09",
+    "date:cessation_upper":"2018-11-09",
+    "date:inception_lower":"2018-11-09",
+    "date:inception_upper":"2018-11-09",
+    "edtf:cessation":"2018-11-09T14:56:34-08:00",
+    "edtf:inception":"2018-11-09T14:56:34-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1541804194,
+        "created_at":"Fri Nov 09 22:56:34 +0000 2018",
+        "display_text_range":[
+            "0",
+            "277"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/aL1L2UMNoF",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1061029812675010561/photo/1",
-            "id": "1061029810489753600",
-            "id_str": "1061029810489753600",
-            "indices": [
-              "254", 
-              "277"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "231",
+                        "245"
+                    ],
+                    "text":"BritishSilver"
+                },
+                {
+                    "indices":[
+                        "246",
+                        "253"
+                    ],
+                    "text":"silver"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DrmI_bZXgAA732D.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DrmI_bZXgAA732D.jpg",
-            "sizes": {
-              "large": {
-                "h": "1473",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "884",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "501",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/aL1L2UMNoF"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/aL1L2UMNoF",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1061029812675010561/photo/1",
-            "id": "1061029810489753600",
-            "id_str": "1061029810489753600",
-            "indices": [
-              "254", 
-              "277"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/aL1L2UMNoF",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1061029812675010561/photo/1",
+                    "id":"1061029810489753600",
+                    "id_str":"1061029810489753600",
+                    "indices":[
+                        "254",
+                        "277"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DrmI_bZXgAA732D.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DrmI_bZXgAA732D.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1473",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"884",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"501",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/aL1L2UMNoF"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/DrmI_bZXgAA732D.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DrmI_bZXgAA732D.jpg",
-            "sizes": {
-              "large": {
-                "h": "1473",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "884",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "501",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/aL1L2UMNoF"
-          }, 
-          {
-            "display_url": "pic.twitter.com/aL1L2UMNoF",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/1061029812675010561/photo/1",
-            "id": "1061029809579532290",
-            "id_str": "1061029809579532290",
-            "indices": [
-              "254", 
-              "277"
-            ],
-            "media_url": "http://pbs.twimg.com/media/DrmI_YAWoAICJib.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DrmI_YAWoAICJib.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1714"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1028"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "583"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/aL1L2UMNoF"
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "\"Behind the world of the artisan is…that desire to take an inanimate material, and bring it to life in a form or image that will sing out; that desire to pay homage to my surroundings, to my creativity..\" - Michael Lloyd (b. 1950) #BritishSilver #silver https://t.co/aL1L2UMNoF",
-      "id": "1061029812675010561",
-      "id_str": "1061029812675010561",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/aL1L2UMNoF",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1061029812675010561/photo/1",
+                    "id":"1061029810489753600",
+                    "id_str":"1061029810489753600",
+                    "indices":[
+                        "254",
+                        "277"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DrmI_bZXgAA732D.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DrmI_bZXgAA732D.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"1473",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"884",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"501",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/aL1L2UMNoF"
+                },
+                {
+                    "display_url":"pic.twitter.com/aL1L2UMNoF",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/1061029812675010561/photo/1",
+                    "id":"1061029809579532290",
+                    "id_str":"1061029809579532290",
+                    "indices":[
+                        "254",
+                        "277"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/DrmI_YAWoAICJib.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/DrmI_YAWoAICJib.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1714"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1028"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"583"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/aL1L2UMNoF"
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"\"Behind the world of the artisan is\u2026that desire to take an inanimate material, and bring it to life in a form or image that will sing out; that desire to pay homage to my surroundings, to my creativity..\" - Michael Lloyd (b. 1950) #BritishSilver #silver https://t.co/aL1L2UMNoF",
+        "id":"1061029812675010561",
+        "id_str":"1061029812675010561",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729304611
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026169,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729304611,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026169,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729304611,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729304611,
-    "wof:lastmodified": 1602193911,
-    "wof:name": "\"Behind the world of the artisan is…that desire to take an inanimate material, and bring it to life in a form or image that will sing out; that desire to pay homage to my surroundings, to my creativity..\" - Michael Lloyd (b. 1950) #BritishSilver #silver https://t.co/aL1L2UMNoF",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729304611,
+    "wof:lastmodified":1602634399,
+    "wof:name":"\"Behind the world of the artisan is\u2026that desire to take an inanimate material, and bring it to life in a form or image that will sing out; that desire to pay homage to my surroundings, to my creativity..\" - Michael Lloyd (b. 1950) #BritishSilver #silver https://t.co/aL1L2UMNoF",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

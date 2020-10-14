@@ -2,103 +2,102 @@
   "id": 1729309875,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2012-06-19",
-    "date:cessation_upper": "2012-06-19",
-    "date:inception_lower": "2012-06-19",
-    "date:inception_upper": "2012-06-19",
-    "edtf:cessation": "2012-06-19T10:23:26-07:00",
-    "edtf:inception": "2012-06-19T10:23:26-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1340126606,
-      "created_at": "Tue Jun 19 17:23:26 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "73"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "374077902",
-            "id_str": "374077902",
-            "indices": [
-              "0", 
-              "14"
-            ],
-            "name": "Agnes Nowakowski DACM LAc",
-            "screen_name": "AgnesKnowsLAc"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "@AgnesKnowsLAc Great photo! Thanks for checking out Threading the Needle!",
-      "id": "215132697331376128",
-      "id_str": "215132697331376128",
-      "in_reply_to_screen_name": "AgnesKnowsLAc",
-      "in_reply_to_status_id": "215118333954101249",
-      "in_reply_to_status_id_str": "215118333954101249",
-      "in_reply_to_user_id": "374077902",
-      "in_reply_to_user_id_str": "374077902",
-      "lang": "en",
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
-      "truncated": false
+    "date:cessation_lower":"2012-06-19",
+    "date:cessation_upper":"2012-06-19",
+    "date:inception_lower":"2012-06-19",
+    "date:inception_upper":"2012-06-19",
+    "edtf:cessation":"2012-06-19T10:23:26-07:00",
+    "edtf:inception":"2012-06-19T10:23:26-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1340126606,
+        "created_at":"Tue Jun 19 17:23:26 +0000 2012",
+        "display_text_range":[
+            "0",
+            "73"
+        ],
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"374077902",
+                    "id_str":"374077902",
+                    "indices":[
+                        "0",
+                        "14"
+                    ],
+                    "name":"Agnes Nowakowski DACM LAc",
+                    "screen_name":"AgnesKnowsLAc"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"@AgnesKnowsLAc Great photo! Thanks for checking out Threading the Needle!",
+        "id":"215132697331376128",
+        "id_str":"215132697331376128",
+        "in_reply_to_screen_name":"AgnesKnowsLAc",
+        "in_reply_to_status_id":"215118333954101249",
+        "in_reply_to_status_id_str":"215118333954101249",
+        "in_reply_to_user_id":"374077902",
+        "in_reply_to_user_id_str":"374077902",
+        "lang":"en",
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729309875
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026371,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729309875,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026371,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729309875,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729309875,
-    "wof:lastmodified": 1602193914,
-    "wof:name": "@AgnesKnowsLAc Great photo! Thanks for checking out Threading the Needle!",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729309875,
+    "wof:lastmodified":1602634420,
+    "wof:name":"@AgnesKnowsLAc Great photo! Thanks for checking out Threading the Needle!",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

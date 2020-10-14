@@ -2,109 +2,108 @@
   "id": 1729291791,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2014-03-24",
-    "date:cessation_upper": "2014-03-24",
-    "date:inception_lower": "2014-03-24",
-    "date:inception_upper": "2014-03-24",
-    "edtf:cessation": "2014-03-24T13:31:18-07:00",
-    "edtf:inception": "2014-03-24T13:31:18-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1395693078,
-      "created_at": "Mon Mar 24 20:31:18 +0000 2014",
-      "display_text_range": [
-        "0", 
-        "144"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/uUZT7",
-            "expanded_url": "http://ow.ly/uUZT7",
-            "indices": [
-              "101", 
-              "123"
-            ],
-            "url": "http://t.co/LBeI1NjXNg"
-          }
+    "date:cessation_lower":"2014-03-24",
+    "date:cessation_upper":"2014-03-24",
+    "date:inception_lower":"2014-03-24",
+    "date:inception_upper":"2014-03-24",
+    "edtf:cessation":"2014-03-24T13:31:18-07:00",
+    "edtf:inception":"2014-03-24T13:31:18-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1395693078,
+        "created_at":"Mon Mar 24 20:31:18 +0000 2014",
+        "display_text_range":[
+            "0",
+            "144"
         ],
-        "user_mentions": [
-          {
-            "id": "20688961",
-            "id_str": "20688961",
-            "indices": [
-              "128", 
-              "144"
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/uUZT7",
+                    "expanded_url":"http://ow.ly/uUZT7",
+                    "indices":[
+                        "101",
+                        "123"
+                    ],
+                    "url":"http://t.co/LBeI1NjXNg"
+                }
             ],
-            "name": "Future of Museums",
-            "screen_name": "futureofmuseums"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "Dubai wants not just art but *museums* in metro stations, adding culture \u0026amp; humanity to commutes: http://t.co/LBeI1NjXNg via @futureofmuseums",
-      "id": "448195370439700480",
-      "id_str": "448195370439700480",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[
+                {
+                    "id":"20688961",
+                    "id_str":"20688961",
+                    "indices":[
+                        "128",
+                        "144"
+                    ],
+                    "name":"Future of Museums",
+                    "screen_name":"futureofmuseums"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"Dubai wants not just art but *museums* in metro stations, adding culture &amp; humanity to commutes: http://t.co/LBeI1NjXNg via @futureofmuseums",
+        "id":"448195370439700480",
+        "id_str":"448195370439700480",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729291791
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025684,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729291791,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025684,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729291791,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729291791,
-    "wof:lastmodified": 1602193904,
-    "wof:name": "Dubai wants not just art but *museums* in metro stations, adding culture \u0026amp; humanity to commutes: http://t.co/LBeI1NjXNg via @futureofmuseums",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729291791,
+    "wof:lastmodified":1602634692,
+    "wof:name":"Dubai wants not just art but *museums* in metro stations, adding culture &amp; humanity to commutes: http://t.co/LBeI1NjXNg via @futureofmuseums",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

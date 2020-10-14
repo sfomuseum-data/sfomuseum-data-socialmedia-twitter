@@ -2,98 +2,97 @@
   "id": 1729309385,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2012-04-20",
-    "date:cessation_upper": "2012-04-20",
-    "date:inception_lower": "2012-04-20",
-    "date:inception_upper": "2012-04-20",
-    "edtf:cessation": "2012-04-20T09:33:22-07:00",
-    "edtf:inception": "2012-04-20T09:33:22-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1334939602,
-      "created_at": "Fri Apr 20 16:33:22 +0000 2012",
-      "display_text_range": [
-        "0", 
-        "133"
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/1KU3d5",
-            "expanded_url": "http://ow.ly/1KU3d5",
-            "indices": [
-              "113", 
-              "133"
-            ],
-            "url": "http://t.co/dFY0Y9Sb"
-          }
+    "date:cessation_lower":"2012-04-20",
+    "date:cessation_upper":"2012-04-20",
+    "date:inception_lower":"2012-04-20",
+    "date:inception_upper":"2012-04-20",
+    "edtf:cessation":"2012-04-20T09:33:22-07:00",
+    "edtf:inception":"2012-04-20T09:33:22-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1334939602,
+        "created_at":"Fri Apr 20 16:33:22 +0000 2012",
+        "display_text_range":[
+            "0",
+            "133"
         ],
-        "user_mentions": []
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "The electron microscope was demo'd OTD in 1940, w/ a magnification of 100,000x. Quite a contrast to 20x in 1660! http://t.co/dFY0Y9Sb",
-      "id": "193376824405934080",
-      "id_str": "193376824405934080",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+        "entities":{
+            "hashtags":[],
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"ow.ly/1KU3d5",
+                    "expanded_url":"http://ow.ly/1KU3d5",
+                    "indices":[
+                        "113",
+                        "133"
+                    ],
+                    "url":"http://t.co/dFY0Y9Sb"
+                }
+            ],
+            "user_mentions":[]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"The electron microscope was demo'd OTD in 1940, w/ a magnification of 100,000x. Quite a contrast to 20x in 1660! http://t.co/dFY0Y9Sb",
+        "id":"193376824405934080",
+        "id_str":"193376824405934080",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729309385
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602026351,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729309385,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602026351,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729309385,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729309385,
-    "wof:lastmodified": 1602193914,
-    "wof:name": "The electron microscope was demo'd OTD in 1940, w/ a magnification of 100,000x. Quite a contrast to 20x in 1660! http://t.co/dFY0Y9Sb",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729309385,
+    "wof:lastmodified":1602634187,
+    "wof:name":"The electron microscope was demo'd OTD in 1940, w/ a magnification of 100,000x. Quite a contrast to 20x in 1660! http://t.co/dFY0Y9Sb",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,174 +2,173 @@
   "id": 1729297399,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2016-08-17",
-    "date:cessation_upper": "2016-08-17",
-    "date:inception_lower": "2016-08-17",
-    "date:inception_upper": "2016-08-17",
-    "edtf:cessation": "2016-08-17T17:41:10-07:00",
-    "edtf:inception": "2016-08-17T17:41:10-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1471480870,
-      "created_at": "Thu Aug 18 00:41:10 +0000 2016",
-      "display_text_range": [
-        "0", 
-        "122"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "85", 
-              "98"
-            ],
-            "text": "TerraCognito"
-          }
+    "date:cessation_lower":"2016-08-17",
+    "date:cessation_upper":"2016-08-17",
+    "date:inception_lower":"2016-08-17",
+    "date:inception_upper":"2016-08-17",
+    "edtf:cessation":"2016-08-17T17:41:10-07:00",
+    "edtf:inception":"2016-08-17T17:41:10-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1471480870,
+        "created_at":"Thu Aug 18 00:41:10 +0000 2016",
+        "display_text_range":[
+            "0",
+            "122"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/qNoVyFqcXh",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/766072409422168064/photo/1",
-            "id": "766072406721097728",
-            "id_str": "766072406721097728",
-            "indices": [
-              "99", 
-              "122"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "85",
+                        "98"
+                    ],
+                    "text":"TerraCognito"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CqGiy4rW8AAk5EE.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CqGiy4rW8AAk5EE.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1724"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1034"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "586"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/qNoVyFqcXh"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/qNoVyFqcXh",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/766072409422168064/photo/1",
-            "id": "766072406721097728",
-            "id_str": "766072406721097728",
-            "indices": [
-              "99", 
-              "122"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/qNoVyFqcXh",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/766072409422168064/photo/1",
+                    "id":"766072406721097728",
+                    "id_str":"766072406721097728",
+                    "indices":[
+                        "99",
+                        "122"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CqGiy4rW8AAk5EE.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CqGiy4rW8AAk5EE.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1724"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1034"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"586"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/qNoVyFqcXh"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/CqGiy4rW8AAk5EE.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CqGiy4rW8AAk5EE.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1724"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1034"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "586"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/qNoVyFqcXh"
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "Married in 1910, Osa and Martin Johnson conducted four African safaris in the 1920s. #TerraCognito https://t.co/qNoVyFqcXh",
-      "id": "766072409422168064",
-      "id_str": "766072409422168064",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/qNoVyFqcXh",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/766072409422168064/photo/1",
+                    "id":"766072406721097728",
+                    "id_str":"766072406721097728",
+                    "indices":[
+                        "99",
+                        "122"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/CqGiy4rW8AAk5EE.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/CqGiy4rW8AAk5EE.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1724"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1034"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"586"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/qNoVyFqcXh"
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"Married in 1910, Osa and Martin Johnson conducted four African safaris in the 1920s. #TerraCognito https://t.co/qNoVyFqcXh",
+        "id":"766072409422168064",
+        "id_str":"766072409422168064",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729297399
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025896,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729297399,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025896,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729297399,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729297399,
-    "wof:lastmodified": 1602193906,
-    "wof:name": "Married in 1910, Osa and Martin Johnson conducted four African safaris in the 1920s. #TerraCognito https://t.co/qNoVyFqcXh",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729297399,
+    "wof:lastmodified":1602634454,
+    "wof:name":"Married in 1910, Osa and Martin Johnson conducted four African safaris in the 1920s. #TerraCognito https://t.co/qNoVyFqcXh",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

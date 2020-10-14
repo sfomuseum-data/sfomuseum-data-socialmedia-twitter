@@ -2,193 +2,192 @@
   "id": 1729299287,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2017-02-14",
-    "date:cessation_upper": "2017-02-14",
-    "date:inception_lower": "2017-02-14",
-    "date:inception_upper": "2017-02-14",
-    "edtf:cessation": "2017-02-14T14:05:37-08:00",
-    "edtf:inception": "2017-02-14T14:05:37-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1487109937,
-      "created_at": "Tue Feb 14 22:05:37 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "63"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "35", 
-              "39"
-            ],
-            "text": "sfo"
-          }
+    "date:cessation_lower":"2017-02-14",
+    "date:cessation_upper":"2017-02-14",
+    "date:inception_lower":"2017-02-14",
+    "date:inception_upper":"2017-02-14",
+    "edtf:cessation":"2017-02-14T14:05:37-08:00",
+    "edtf:inception":"2017-02-14T14:05:37-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1487109937,
+        "created_at":"Tue Feb 14 22:05:37 +0000 2017",
+        "display_text_range":[
+            "0",
+            "63"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/LlXZZaoPlB",
-            "expanded_url": "https://twitter.com/flySFO/status/831550091706052609/photo/1",
-            "id": "831550078787596288",
-            "id_str": "831550078787596288",
-            "indices": [
-              "40", 
-              "63"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "35",
+                        "39"
+                    ],
+                    "text":"sfo"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/C4pCZBMVMAA7_G-.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C4pCZBMVMAA7_G-.jpg",
-            "sizes": {
-              "large": {
-                "h": "631",
-                "resize": "fit",
-                "w": "1201"
-              },
-              "medium": {
-                "h": "630",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "357",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "831550091706052609",
-            "source_status_id_str": "831550091706052609",
-            "source_user_id": "16408759",
-            "source_user_id_str": "16408759",
-            "type": "photo",
-            "url": "https://t.co/LlXZZaoPlB"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "16408759",
-            "id_str": "16408759",
-            "indices": [
-              "3", 
-              "10"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/LlXZZaoPlB",
+                    "expanded_url":"https://twitter.com/flySFO/status/831550091706052609/photo/1",
+                    "id":"831550078787596288",
+                    "id_str":"831550078787596288",
+                    "indices":[
+                        "40",
+                        "63"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C4pCZBMVMAA7_G-.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C4pCZBMVMAA7_G-.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"631",
+                            "resize":"fit",
+                            "w":"1201"
+                        },
+                        "medium":{
+                            "h":"630",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"357",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"831550091706052609",
+                    "source_status_id_str":"831550091706052609",
+                    "source_user_id":"16408759",
+                    "source_user_id_str":"16408759",
+                    "type":"photo",
+                    "url":"https://t.co/LlXZZaoPlB"
+                }
             ],
-            "name": "San Francisco International Airport (SFO) ✈️",
-            "screen_name": "flySFO"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/LlXZZaoPlB",
-            "expanded_url": "https://twitter.com/flySFO/status/831550091706052609/photo/1",
-            "id": "831550078787596288",
-            "id_str": "831550078787596288",
-            "indices": [
-              "40", 
-              "63"
-            ],
-            "media_url": "http://pbs.twimg.com/media/C4pCZBMVMAA7_G-.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C4pCZBMVMAA7_G-.jpg",
-            "sizes": {
-              "large": {
-                "h": "631",
-                "resize": "fit",
-                "w": "1201"
-              },
-              "medium": {
-                "h": "630",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "357",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "831550091706052609",
-            "source_status_id_str": "831550091706052609",
-            "source_user_id": "16408759",
-            "source_user_id_str": "16408759",
-            "type": "photo",
-            "url": "https://t.co/LlXZZaoPlB"
-          }
-        ]
-      },
-      "favorite_count": "0",
-      "favorited": false,
-      "full_text": "RT @flySFO: Happy Valentine's Day! #sfo https://t.co/LlXZZaoPlB",
-      "id": "831625469141344256",
-      "id_str": "831625469141344256",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "0",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[
+                {
+                    "id":"16408759",
+                    "id_str":"16408759",
+                    "indices":[
+                        "3",
+                        "10"
+                    ],
+                    "name":"San Francisco International Airport (SFO) \u2708\ufe0f",
+                    "screen_name":"flySFO"
+                }
+            ]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/LlXZZaoPlB",
+                    "expanded_url":"https://twitter.com/flySFO/status/831550091706052609/photo/1",
+                    "id":"831550078787596288",
+                    "id_str":"831550078787596288",
+                    "indices":[
+                        "40",
+                        "63"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C4pCZBMVMAA7_G-.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C4pCZBMVMAA7_G-.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"631",
+                            "resize":"fit",
+                            "w":"1201"
+                        },
+                        "medium":{
+                            "h":"630",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"357",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "source_status_id":"831550091706052609",
+                    "source_status_id_str":"831550091706052609",
+                    "source_user_id":"16408759",
+                    "source_user_id_str":"16408759",
+                    "type":"photo",
+                    "url":"https://t.co/LlXZZaoPlB"
+                }
+            ]
+        },
+        "favorite_count":"0",
+        "favorited":false,
+        "full_text":"RT @flySFO: Happy Valentine's Day! #sfo https://t.co/LlXZZaoPlB",
+        "id":"831625469141344256",
+        "id_str":"831625469141344256",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"0",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729299287
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025966,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729299287,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025966,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729299287,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729299287,
-    "wof:lastmodified": 1602193908,
-    "wof:name": "RT @flySFO: Happy Valentine's Day! #sfo https://t.co/LlXZZaoPlB",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729299287,
+    "wof:lastmodified":1602634698,
+    "wof:name":"RT @flySFO: Happy Valentine's Day! #sfo https://t.co/LlXZZaoPlB",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,198 +2,197 @@
   "id": 1729299167,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2017-01-19",
-    "date:cessation_upper": "2017-01-19",
-    "date:inception_lower": "2017-01-19",
-    "date:inception_upper": "2017-01-19",
-    "edtf:cessation": "2017-01-19T19:45:10-08:00",
-    "edtf:inception": "2017-01-19T19:45:10-08:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1484883910,
-      "created_at": "Fri Jan 20 03:45:10 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "161"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "109", 
-              "120"
-            ],
-            "text": "SFOHistory"
-          }, 
-          {
-            "indices": [
-              "121", 
-              "125"
-            ],
-            "text": "TBT"
-          }, 
-          {
-            "indices": [
-              "126", 
-              "137"
-            ],
-            "text": "airportart"
-          }
+    "date:cessation_lower":"2017-01-19",
+    "date:cessation_upper":"2017-01-19",
+    "date:inception_lower":"2017-01-19",
+    "date:inception_upper":"2017-01-19",
+    "edtf:cessation":"2017-01-19T19:45:10-08:00",
+    "edtf:inception":"2017-01-19T19:45:10-08:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1484883910,
+        "created_at":"Fri Jan 20 03:45:10 +0000 2017",
+        "display_text_range":[
+            "0",
+            "161"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/LQipcmRGXf",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/822288834729746433/photo/1",
-            "id": "822288831600848900",
-            "id_str": "822288831600848900",
-            "indices": [
-              "138", 
-              "161"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "109",
+                        "120"
+                    ],
+                    "text":"SFOHistory"
+                },
+                {
+                    "indices":[
+                        "121",
+                        "125"
+                    ],
+                    "text":"TBT"
+                },
+                {
+                    "indices":[
+                        "126",
+                        "137"
+                    ],
+                    "text":"airportart"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/C2lbVe5W8AQMR9l.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C2lbVe5W8AQMR9l.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1368"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "821"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "465"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/LQipcmRGXf"
-          }
-        ],
-        "symbols": [],
-        "urls": [
-          {
-            "display_url": "bit.ly/2iXroj6",
-            "expanded_url": "http://bit.ly/2iXroj6",
-            "indices": [
-              "85", 
-              "108"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/LQipcmRGXf",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/822288834729746433/photo/1",
+                    "id":"822288831600848900",
+                    "id_str":"822288831600848900",
+                    "indices":[
+                        "138",
+                        "161"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C2lbVe5W8AQMR9l.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C2lbVe5W8AQMR9l.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1368"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"821"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"465"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/LQipcmRGXf"
+                }
             ],
-            "url": "https://t.co/kh7V8hBUma"
-          }
-        ],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/LQipcmRGXf",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/822288834729746433/photo/1",
-            "id": "822288831600848900",
-            "id_str": "822288831600848900",
-            "indices": [
-              "138", 
-              "161"
+            "symbols":[],
+            "urls":[
+                {
+                    "display_url":"bit.ly/2iXroj6",
+                    "expanded_url":"http://bit.ly/2iXroj6",
+                    "indices":[
+                        "85",
+                        "108"
+                    ],
+                    "url":"https://t.co/kh7V8hBUma"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/C2lbVe5W8AQMR9l.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C2lbVe5W8AQMR9l.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "1368"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "821"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "465"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/LQipcmRGXf"
-          }
-        ]
-      },
-      "favorite_count": "3",
-      "favorited": false,
-      "full_text": "Do you remember when \"Conquest of Space\" by Rufino Tamayo was located in Terminal 2? https://t.co/kh7V8hBUma #SFOHistory #TBT #airportart https://t.co/LQipcmRGXf",
-      "id": "822288834729746433",
-      "id_str": "822288834729746433",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "2",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/LQipcmRGXf",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/822288834729746433/photo/1",
+                    "id":"822288831600848900",
+                    "id_str":"822288831600848900",
+                    "indices":[
+                        "138",
+                        "161"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C2lbVe5W8AQMR9l.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C2lbVe5W8AQMR9l.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"1368"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"821"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"465"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/LQipcmRGXf"
+                }
+            ]
+        },
+        "favorite_count":"3",
+        "favorited":false,
+        "full_text":"Do you remember when \"Conquest of Space\" by Rufino Tamayo was located in Terminal 2? https://t.co/kh7V8hBUma #SFOHistory #TBT #airportart https://t.co/LQipcmRGXf",
+        "id":"822288834729746433",
+        "id_str":"822288834729746433",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"2",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729299167
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025962,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729299167,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025962,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729299167,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729299167,
-    "wof:lastmodified": 1602193908,
-    "wof:name": "Do you remember when \"Conquest of Space\" by Rufino Tamayo was located in Terminal 2? https://t.co/kh7V8hBUma #SFOHistory #TBT #airportart https://t.co/LQipcmRGXf",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729299167,
+    "wof:lastmodified":1602634677,
+    "wof:name":"Do you remember when \"Conquest of Space\" by Rufino Tamayo was located in Terminal 2? https://t.co/kh7V8hBUma #SFOHistory #TBT #airportart https://t.co/LQipcmRGXf",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

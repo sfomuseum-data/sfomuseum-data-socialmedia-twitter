@@ -2,181 +2,180 @@
   "id": 1729299571,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2017-03-13",
-    "date:cessation_upper": "2017-03-13",
-    "date:inception_lower": "2017-03-13",
-    "date:inception_upper": "2017-03-13",
-    "edtf:cessation": "2017-03-13T19:45:05-07:00",
-    "edtf:inception": "2017-03-13T19:45:05-07:00",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "tweet",
-    "src:geom": "sfomuseum",
-    "twitter:tweet": {
-      "created": 1489459505,
-      "created_at": "Tue Mar 14 02:45:05 +0000 2017",
-      "display_text_range": [
-        "0", 
-        "166"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "36", 
-              "49"
-            ],
-            "text": "PrintToPlate"
-          }, 
-          {
-            "indices": [
-              "72", 
-              "85"
-            ],
-            "text": "Transferware"
-          }
+    "date:cessation_lower":"2017-03-13",
+    "date:cessation_upper":"2017-03-13",
+    "date:inception_lower":"2017-03-13",
+    "date:inception_upper":"2017-03-13",
+    "edtf:cessation":"2017-03-13T19:45:05-07:00",
+    "edtf:inception":"2017-03-13T19:45:05-07:00",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"tweet",
+    "src:geom":"sfomuseum",
+    "twitter:tweet":{
+        "created":1489459505,
+        "created_at":"Tue Mar 14 02:45:05 +0000 2017",
+        "display_text_range":[
+            "0",
+            "166"
         ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/MZN6hRaFqC",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/841480273434951680/photo/1",
-            "id": "841480269450354689",
-            "id_str": "841480269450354689",
-            "indices": [
-              "143", 
-              "166"
+        "entities":{
+            "hashtags":[
+                {
+                    "indices":[
+                        "36",
+                        "49"
+                    ],
+                    "text":"PrintToPlate"
+                },
+                {
+                    "indices":[
+                        "72",
+                        "85"
+                    ],
+                    "text":"Transferware"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/C62J2MIWoAECutq.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C62J2MIWoAECutq.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/MZN6hRaFqC"
-          }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/MZN6hRaFqC",
-            "expanded_url": "https://twitter.com/SFOMuseum/status/841480273434951680/photo/1",
-            "id": "841480269450354689",
-            "id_str": "841480269450354689",
-            "indices": [
-              "143", 
-              "166"
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/MZN6hRaFqC",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/841480273434951680/photo/1",
+                    "id":"841480269450354689",
+                    "id_str":"841480269450354689",
+                    "indices":[
+                        "143",
+                        "166"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C62J2MIWoAECutq.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C62J2MIWoAECutq.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/MZN6hRaFqC"
+                }
             ],
-            "media_url": "http://pbs.twimg.com/media/C62J2MIWoAECutq.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/C62J2MIWoAECutq.jpg",
-            "sizes": {
-              "large": {
-                "h": "2000",
-                "resize": "fit",
-                "w": "2000"
-              },
-              "medium": {
-                "h": "1200",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/MZN6hRaFqC"
-          }
-        ]
-      },
-      "favorite_count": "1",
-      "favorited": false,
-      "full_text": "This is your last week to see \"From #PrintToPlate: Views of the East on #Transferware\" featuring pottery \u0026amp; prints of scenes from the East. https://t.co/MZN6hRaFqC",
-      "id": "841480273434951680",
-      "id_str": "841480273434951680",
-      "lang": "en",
-      "possibly_sensitive": false,
-      "retweet_count": "1",
-      "retweeted": false,
-      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
-      "truncated": false
+            "symbols":[],
+            "urls":[],
+            "user_mentions":[]
+        },
+        "extended_entities":{
+            "media":[
+                {
+                    "display_url":"pic.twitter.com/MZN6hRaFqC",
+                    "expanded_url":"https://twitter.com/SFOMuseum/status/841480273434951680/photo/1",
+                    "id":"841480269450354689",
+                    "id_str":"841480269450354689",
+                    "indices":[
+                        "143",
+                        "166"
+                    ],
+                    "media_url":"http://pbs.twimg.com/media/C62J2MIWoAECutq.jpg",
+                    "media_url_https":"https://pbs.twimg.com/media/C62J2MIWoAECutq.jpg",
+                    "sizes":{
+                        "large":{
+                            "h":"2000",
+                            "resize":"fit",
+                            "w":"2000"
+                        },
+                        "medium":{
+                            "h":"1200",
+                            "resize":"fit",
+                            "w":"1200"
+                        },
+                        "small":{
+                            "h":"680",
+                            "resize":"fit",
+                            "w":"680"
+                        },
+                        "thumb":{
+                            "h":"150",
+                            "resize":"crop",
+                            "w":"150"
+                        }
+                    },
+                    "type":"photo",
+                    "url":"https://t.co/MZN6hRaFqC"
+                }
+            ]
+        },
+        "favorite_count":"1",
+        "favorited":false,
+        "full_text":"This is your last week to see \"From #PrintToPlate: Views of the East on #Transferware\" featuring pottery &amp; prints of scenes from the East. https://t.co/MZN6hRaFqC",
+        "id":"841480273434951680",
+        "id_str":"841480273434951680",
+        "lang":"en",
+        "possibly_sensitive":false,
+        "retweet_count":"1",
+        "retweeted":false,
+        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated":false
     },
-    "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159160869, 
-      85688637, 
-      1729299571
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159160869,
+        85688637
     ],
-    "wof:breaches": [],
-    "wof:country": "US",
-    "wof:created": 1602025978,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159160869,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "custom_id": 1729299571,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637
-      }
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1602025978,
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy":[
+        {
+            "building_id":1159160869,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "custom_id":1729299571,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637
+        }
     ],
-    "wof:id": 1729299571,
-    "wof:lastmodified": 1602193908,
-    "wof:name": "This is your last week to see \"From #PrintToPlate: Views of the East on #Transferware\" featuring pottery \u0026amp; prints of scenes from the East. https://t.co/MZN6hRaFqC",
-    "wof:parent_id": 1159160869,
-    "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-twitter",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
-  },
+    "wof:id":1729299571,
+    "wof:lastmodified":1602634586,
+    "wof:name":"This is your last week to see \"From #PrintToPlate: Views of the East on #Transferware\" featuring pottery &amp; prints of scenes from the East. https://t.co/MZN6hRaFqC",
+    "wof:parent_id":1159160869,
+    "wof:placetype":"custom",
+    "wof:repo":"sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
-  ],
+],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }
