@@ -2,116 +2,116 @@
   "id": 1729292747,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2014-11-20",
-    "date:cessation_upper":"2014-11-20",
-    "date:inception_lower":"2014-11-20",
-    "date:inception_upper":"2014-11-20",
-    "edtf:cessation":"2014-11-20T17:10:41-08:00",
-    "edtf:inception":"2014-11-20T17:10:41-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1416532241,
-        "created_at":"Fri Nov 21 01:10:41 +0000 2014",
-        "display_text_range":[
-            "0",
-            "138"
+    "date:cessation_lower": "2014-11-21",
+    "date:cessation_upper": "2014-11-21",
+    "date:inception_lower": "2014-11-21",
+    "date:inception_upper": "2014-11-21",
+    "edtf:cessation": "2014-11-20T17:10:41-08:00",
+    "edtf:inception": "2014-11-20T17:10:41-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1416532241,
+      "created_at": "Fri Nov 21 01:10:41 +0000 2014",
+      "display_text_range": [
+        "0",
+        "138"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "134",
+              "138"
+            ],
+            "text": "tbt"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "134",
-                        "138"
-                    ],
-                    "text":"tbt"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/EDtpJ",
+            "expanded_url": "http://ow.ly/EDtpJ",
+            "indices": [
+              "111",
+              "133"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"ow.ly/EDtpJ",
-                    "expanded_url":"http://ow.ly/EDtpJ",
-                    "indices":[
-                        "111",
-                        "133"
-                    ],
-                    "url":"http://t.co/iq6PZm11QG"
-                }
+            "url": "http://t.co/iq6PZm11QG"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "16408759",
+            "id_str": "16408759",
+            "indices": [
+              "94",
+              "101"
             ],
-            "user_mentions":[
-                {
-                    "id":"16408759",
-                    "id_str":"16408759",
-                    "indices":[
-                        "94",
-                        "101"
-                    ],
-                    "name":"San Francisco International Airport (SFO) \u2708\ufe0f",
-                    "screen_name":"flySFO"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"The crowds were huge (&amp; on the airfield!) at the celebration of the new Terminal Building @flySFO in 1954: http://t.co/iq6PZm11QG #tbt",
-        "id":"535601157054693376",
-        "id_str":"535601157054693376",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "screen_name": "flySFO"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "The crowds were huge (\u0026amp; on the airfield!) at the celebration of the new Terminal Building @flySFO in 1954: http://t.co/iq6PZm11QG #tbt",
+      "id": "535601157054693376",
+      "id_str": "535601157054693376",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025720,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729292747,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025720,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729292747,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729292747,
-    "wof:lastmodified":1602634489,
-    "wof:name":"The crowds were huge (&amp; on the airfield!) at the celebration of the new Terminal Building @flySFO in 1954: http://t.co/iq6PZm11QG #tbt",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729292747,
+    "wof:lastmodified": 1650064635,
+    "wof:name": "The crowds were huge (\u0026amp; on the airfield!) at the celebration of the new Terminal Building @flySFO in 1954: http://t.co/iq6PZm11QG #tbt",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,183 +2,183 @@
   "id": 1729303817,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-08-08",
-    "date:cessation_upper":"2018-08-08",
-    "date:inception_lower":"2018-08-08",
-    "date:inception_upper":"2018-08-08",
-    "edtf:cessation":"2018-08-08T12:10:10-07:00",
-    "edtf:inception":"2018-08-08T12:10:10-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1533755410,
-        "created_at":"Wed Aug 08 19:10:10 +0000 2018",
-        "display_text_range":[
-            "0",
-            "232"
+    "date:cessation_lower": "2018-08-08",
+    "date:cessation_upper": "2018-08-08",
+    "date:inception_lower": "2018-08-08",
+    "date:inception_upper": "2018-08-08",
+    "edtf:cessation": "2018-08-08T12:10:10-07:00",
+    "edtf:inception": "2018-08-08T12:10:10-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1533755410,
+      "created_at": "Wed Aug 08 19:10:10 +0000 2018",
+      "display_text_range": [
+        "0",
+        "232"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "165",
+              "184"
+            ],
+            "text": "AviationEvolutions"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "165",
-                        "184"
-                    ],
-                    "text":"AviationEvolutions"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/l5IllhwJnS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1027270763924127745/photo/1",
+            "id": "1027270760916758528",
+            "id_str": "1027270760916758528",
+            "indices": [
+              "209",
+              "232"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/l5IllhwJnS",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1027270763924127745/photo/1",
-                    "id":"1027270760916758528",
-                    "id_str":"1027270760916758528",
-                    "indices":[
-                        "209",
-                        "232"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DkGZUHiWsAAZxOL.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DkGZUHiWsAAZxOL.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/l5IllhwJnS"
-                }
+            "media_url": "http://pbs.twimg.com/media/DkGZUHiWsAAZxOL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DkGZUHiWsAAZxOL.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/l5IllhwJnS"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/AviationEvolut…",
+            "expanded_url": "http://bit.ly/AviationEvolutions",
+            "indices": [
+              "185",
+              "208"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/AviationEvolut\u2026",
-                    "expanded_url":"http://bit.ly/AviationEvolutions",
-                    "indices":[
-                        "185",
-                        "208"
-                    ],
-                    "url":"https://t.co/lZ4ZbaBqmp"
-                }
+            "url": "https://t.co/lZ4ZbaBqmp"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/l5IllhwJnS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1027270763924127745/photo/1",
+            "id": "1027270760916758528",
+            "id_str": "1027270760916758528",
+            "indices": [
+              "209",
+              "232"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/l5IllhwJnS",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1027270763924127745/photo/1",
-                    "id":"1027270760916758528",
-                    "id_str":"1027270760916758528",
-                    "indices":[
-                        "209",
-                        "232"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DkGZUHiWsAAZxOL.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DkGZUHiWsAAZxOL.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/l5IllhwJnS"
-                }
-            ]
-        },
-        "favorite_count":"14",
-        "favorited":false,
-        "full_text":"See \"Aviation Evolutions: The Jim Lund 1:72 Scale Model Airplane Collection\", which features more than 200 models, on display, pre-security, in the Aviation Museum. #AviationEvolutions https://t.co/lZ4ZbaBqmp https://t.co/l5IllhwJnS",
-        "id":"1027270763924127745",
-        "id_str":"1027270763924127745",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DkGZUHiWsAAZxOL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DkGZUHiWsAAZxOL.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/l5IllhwJnS"
+          }
+        ]
+      },
+      "favorite_count": "13",
+      "favorited": false,
+      "full_text": "See \"Aviation Evolutions: The Jim Lund 1:72 Scale Model Airplane Collection\", which features more than 200 models, on display, pre-security, in the Aviation Museum. #AviationEvolutions https://t.co/lZ4ZbaBqmp https://t.co/l5IllhwJnS",
+      "id": "1027270763924127745",
+      "id_str": "1027270763924127745",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026139,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729303817,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026139,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729303817,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729303817,
-    "wof:lastmodified":1602634436,
-    "wof:name":"See \"Aviation Evolutions: The Jim Lund 1:72 Scale Model Airplane Collection\", which features more than 200 models, on display, pre-security, in the Aviation Museum. #AviationEvolutions https://t.co/lZ4ZbaBqmp https://t.co/l5IllhwJnS",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729303817,
+    "wof:lastmodified": 1650064641,
+    "wof:name": "See \"Aviation Evolutions: The Jim Lund 1:72 Scale Model Airplane Collection\", which features more than 200 models, on display, pre-security, in the Aviation Museum. #AviationEvolutions https://t.co/lZ4ZbaBqmp https://t.co/l5IllhwJnS",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

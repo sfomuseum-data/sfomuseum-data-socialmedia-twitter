@@ -2,123 +2,123 @@
   "id": 1729310645,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-09-20",
-    "date:cessation_upper":"2012-09-20",
-    "date:inception_lower":"2012-09-20",
-    "date:inception_upper":"2012-09-20",
-    "edtf:cessation":"2012-09-20T11:04:12-07:00",
-    "edtf:inception":"2012-09-20T11:04:12-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1348164252,
-        "created_at":"Thu Sep 20 18:04:12 +0000 2012",
-        "display_text_range":[
-            "0",
-            "140"
+    "date:cessation_lower": "2012-09-20",
+    "date:cessation_upper": "2012-09-20",
+    "date:inception_lower": "2012-09-20",
+    "date:inception_upper": "2012-09-20",
+    "edtf:cessation": "2012-09-20T11:04:12-07:00",
+    "edtf:inception": "2012-09-20T11:04:12-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1348164252,
+      "created_at": "Thu Sep 20 18:04:12 +0000 2012",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "116",
+              "124"
+            ],
+            "text": "museums"
+          },
+          {
+            "indices": [
+              "125",
+              "129"
+            ],
+            "text": "art"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "116",
-                        "124"
-                    ],
-                    "text":"museums"
-                },
-                {
-                    "indices":[
-                        "125",
-                        "129"
-                    ],
-                    "text":"art"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/oLpckS",
+            "expanded_url": "http://bit.ly/oLpckS",
+            "indices": [
+              "63",
+              "83"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/oLpckS",
-                    "expanded_url":"http://bit.ly/oLpckS",
-                    "indices":[
-                        "63",
-                        "83"
-                    ],
-                    "url":"http://t.co/4urQo0Z3"
-                }
+            "url": "http://t.co/4urQo0Z3"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "124274848",
+            "id_str": "124274848",
+            "indices": [
+              "3",
+              "18"
             ],
-            "user_mentions":[
-                {
-                    "id":"124274848",
-                    "id_str":"124274848",
-                    "indices":[
-                        "3",
-                        "18"
-                    ],
-                    "name":"Raphael Rosen",
-                    "screen_name":"raphaelrosen22"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @raphaelrosen22: Another cool exhibition at the SFO Museum: http://t.co/4urQo0Z3 Levi Strauss Advertising as Art #museums #art #desig ...",
-        "id":"248845027667742720",
-        "id_str":"248845027667742720",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "Raphael Rosen",
+            "screen_name": "raphaelrosen22"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @raphaelrosen22: Another cool exhibition at the SFO Museum: http://t.co/4urQo0Z3 Levi Strauss Advertising as Art #museums #art #desig ...",
+      "id": "248845027667742720",
+      "id_str": "248845027667742720",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026400,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729310645,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026400,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729310645,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729310645,
-    "wof:lastmodified":1602634141,
-    "wof:name":"RT @raphaelrosen22: Another cool exhibition at the SFO Museum: http://t.co/4urQo0Z3 Levi Strauss Advertising as Art #museums #art #desig ...",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729310645,
+    "wof:lastmodified": 1650064711,
+    "wof:name": "RT @raphaelrosen22: Another cool exhibition at the SFO Museum: http://t.co/4urQo0Z3 Levi Strauss Advertising as Art #museums #art #desig ...",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

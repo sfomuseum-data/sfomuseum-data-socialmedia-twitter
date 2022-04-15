@@ -1,0 +1,229 @@
+{
+  "id": 1763511603,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-01-15",
+    "date:cessation_upper": "2021-01-15",
+    "date:inception_lower": "2021-01-15",
+    "date:inception_upper": "2021-01-15",
+    "edtf:cessation": "2021-01-15T11:17:00-08:00",
+    "edtf:inception": "2021-01-15T11:17:00-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1610738220,
+      "created_at": "Fri Jan 15 19:17:00 +0000 2021",
+      "display_text_range": [
+        "0",
+        "128"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "60",
+              "71"
+            ],
+            "text": "studentart"
+          },
+          {
+            "indices": [
+              "72",
+              "84"
+            ],
+            "text": "photography"
+          },
+          {
+            "indices": [
+              "85",
+              "104"
+            ],
+            "text": "AlternativeProcess"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/R1DqAFvI6o",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1350160070907031555/photo/1",
+            "id": "1350137129955848193",
+            "id_str": "1350137129955848193",
+            "indices": [
+              "105",
+              "128"
+            ],
+            "media_url": "http://pbs.twimg.com/media/ErymkP0VcAEE-uj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ErymkP0VcAEE-uj.jpg",
+            "sizes": {
+              "large": {
+                "h": "1500",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/R1DqAFvI6o"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/34x2Vc9",
+            "expanded_url": "https://bit.ly/34x2Vc9",
+            "indices": [
+              "36",
+              "59"
+            ],
+            "url": "https://t.co/HD1UU9YPC2"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/R1DqAFvI6o",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1350160070907031555/photo/1",
+            "id": "1350137129955848193",
+            "id_str": "1350137129955848193",
+            "indices": [
+              "105",
+              "128"
+            ],
+            "media_url": "http://pbs.twimg.com/media/ErymkP0VcAEE-uj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ErymkP0VcAEE-uj.jpg",
+            "sizes": {
+              "large": {
+                "h": "1500",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/R1DqAFvI6o"
+          },
+          {
+            "display_url": "pic.twitter.com/R1DqAFvI6o",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1350160070907031555/photo/1",
+            "id": "1350137184402038789",
+            "id_str": "1350137184402038789",
+            "indices": [
+              "105",
+              "128"
+            ],
+            "media_url": "http://pbs.twimg.com/media/ErymnapUYAU4LjY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ErymnapUYAU4LjY.jpg",
+            "sizes": {
+              "large": {
+                "h": "1500",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/R1DqAFvI6o"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "“Alternative Process” is online at: https://t.co/HD1UU9YPC2\n#studentart #photography #AlternativeProcess https://t.co/R1DqAFvI6o",
+      "id": "1350160070907031555",
+      "id_str": "1350160070907031555",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064659,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763511603,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763511603,
+    "wof:lastmodified": 1650064659,
+    "wof:name": "“Alternative Process” is online at: https://t.co/HD1UU9YPC2\n#studentart #photography #AlternativeProcess https://t.co/R1DqAFvI6o",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

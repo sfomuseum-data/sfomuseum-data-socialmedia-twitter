@@ -2,314 +2,314 @@
   "id": 1729299035,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-01-13",
-    "date:cessation_upper":"2017-01-13",
-    "date:inception_lower":"2017-01-13",
-    "date:inception_upper":"2017-01-13",
-    "edtf:cessation":"2017-01-13T20:00:38-08:00",
-    "edtf:inception":"2017-01-13T20:00:38-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1484366438,
-        "created_at":"Sat Jan 14 04:00:38 +0000 2017",
-        "display_text_range":[
-            "0",
-            "122"
+    "date:cessation_lower": "2017-01-14",
+    "date:cessation_upper": "2017-01-14",
+    "date:inception_lower": "2017-01-14",
+    "date:inception_upper": "2017-01-14",
+    "edtf:cessation": "2017-01-13T20:00:38-08:00",
+    "edtf:inception": "2017-01-13T20:00:38-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1484366438,
+      "created_at": "Sat Jan 14 04:00:38 +0000 2017",
+      "display_text_range": [
+        "0",
+        "122"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jIG5Lv9M2S",
+            "expanded_url": "https://twitter.com/airwaysmagazine/status/820118293696679936/photo/1",
+            "id": "820118291033321473",
+            "id_str": "820118291033321473",
+            "indices": [
+              "99",
+              "122"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C2GlPZLXcAEL2qU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2GlPZLXcAEL2qU.jpg",
+            "sizes": {
+              "large": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "820118293696679936",
+            "source_status_id_str": "820118293696679936",
+            "source_user_id": "54515483",
+            "source_user_id_str": "54515483",
+            "type": "photo",
+            "url": "https://t.co/jIG5Lv9M2S"
+          }
         ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/jIG5Lv9M2S",
-                    "expanded_url":"https://twitter.com/airwaysmagazine/status/820118293696679936/photo/1",
-                    "id":"820118291033321473",
-                    "id_str":"820118291033321473",
-                    "indices":[
-                        "99",
-                        "122"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C2GlPZLXcAEL2qU.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C2GlPZLXcAEL2qU.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"820118293696679936",
-                    "source_status_id_str":"820118293696679936",
-                    "source_user_id":"54515483",
-                    "source_user_id_str":"54515483",
-                    "type":"photo",
-                    "url":"https://t.co/jIG5Lv9M2S"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/cewb307ZDDN",
+            "expanded_url": "http://ow.ly/cewb307ZDDN",
+            "indices": [
+              "75",
+              "98"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"ow.ly/cewb307ZDDN",
-                    "expanded_url":"http://ow.ly/cewb307ZDDN",
-                    "indices":[
-                        "75",
-                        "98"
-                    ],
-                    "url":"https://t.co/fffXZNOmzD"
-                }
+            "url": "https://t.co/fffXZNOmzD"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "54515483",
+            "id_str": "54515483",
+            "indices": [
+              "3",
+              "19"
             ],
-            "user_mentions":[
-                {
-                    "id":"54515483",
-                    "id_str":"54515483",
-                    "indices":[
-                        "3",
-                        "19"
-                    ],
-                    "name":"Airways Magazine",
-                    "screen_name":"airwaysmagazine"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/jIG5Lv9M2S",
-                    "expanded_url":"https://twitter.com/airwaysmagazine/status/820118293696679936/photo/1",
-                    "id":"820118291033321473",
-                    "id_str":"820118291033321473",
-                    "indices":[
-                        "99",
-                        "122"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C2GlPZLXcAEL2qU.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C2GlPZLXcAEL2qU.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"820118293696679936",
-                    "source_status_id_str":"820118293696679936",
-                    "source_user_id":"54515483",
-                    "source_user_id_str":"54515483",
-                    "type":"photo",
-                    "url":"https://t.co/jIG5Lv9M2S"
-                },
-                {
-                    "display_url":"pic.twitter.com/jIG5Lv9M2S",
-                    "expanded_url":"https://twitter.com/airwaysmagazine/status/820118293696679936/photo/1",
-                    "id":"820118290496364544",
-                    "id_str":"820118290496364544",
-                    "indices":[
-                        "99",
-                        "122"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C2GlPXLWIAAEMV3.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C2GlPXLWIAAEMV3.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"577",
-                            "resize":"fit",
-                            "w":"900"
-                        },
-                        "medium":{
-                            "h":"577",
-                            "resize":"fit",
-                            "w":"900"
-                        },
-                        "small":{
-                            "h":"436",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"820118293696679936",
-                    "source_status_id_str":"820118293696679936",
-                    "source_user_id":"54515483",
-                    "source_user_id_str":"54515483",
-                    "type":"photo",
-                    "url":"https://t.co/jIG5Lv9M2S"
-                },
-                {
-                    "display_url":"pic.twitter.com/jIG5Lv9M2S",
-                    "expanded_url":"https://twitter.com/airwaysmagazine/status/820118293696679936/photo/1",
-                    "id":"820118290831962116",
-                    "id_str":"820118290831962116",
-                    "indices":[
-                        "99",
-                        "122"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C2GlPYbW8AQHeTw.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C2GlPYbW8AQHeTw.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"820118293696679936",
-                    "source_status_id_str":"820118293696679936",
-                    "source_user_id":"54515483",
-                    "source_user_id_str":"54515483",
-                    "type":"photo",
-                    "url":"https://t.co/jIG5Lv9M2S"
-                },
-                {
-                    "display_url":"pic.twitter.com/jIG5Lv9M2S",
-                    "expanded_url":"https://twitter.com/airwaysmagazine/status/820118293696679936/photo/1",
-                    "id":"820118290718670849",
-                    "id_str":"820118290718670849",
-                    "indices":[
-                        "99",
-                        "122"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C2GlPYAWQAEbIqv.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C2GlPYAWQAEbIqv.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"820118293696679936",
-                    "source_status_id_str":"820118293696679936",
-                    "source_user_id":"54515483",
-                    "source_user_id_str":"54515483",
-                    "type":"photo",
-                    "url":"https://t.co/jIG5Lv9M2S"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @airwaysmagazine: Airways Review: Pan Am History, Design &amp; Identity\nhttps://t.co/fffXZNOmzD https://t.co/jIG5Lv9M2S",
-        "id":"820118399321657344",
-        "id_str":"820118399321657344",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "truncated":false
+            "name": "Airways Magazine",
+            "screen_name": "airwaysmagazine"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jIG5Lv9M2S",
+            "expanded_url": "https://twitter.com/airwaysmagazine/status/820118293696679936/photo/1",
+            "id": "820118291033321473",
+            "id_str": "820118291033321473",
+            "indices": [
+              "99",
+              "122"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C2GlPZLXcAEL2qU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2GlPZLXcAEL2qU.jpg",
+            "sizes": {
+              "large": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "820118293696679936",
+            "source_status_id_str": "820118293696679936",
+            "source_user_id": "54515483",
+            "source_user_id_str": "54515483",
+            "type": "photo",
+            "url": "https://t.co/jIG5Lv9M2S"
+          },
+          {
+            "display_url": "pic.twitter.com/jIG5Lv9M2S",
+            "expanded_url": "https://twitter.com/airwaysmagazine/status/820118293696679936/photo/1",
+            "id": "820118290496364544",
+            "id_str": "820118290496364544",
+            "indices": [
+              "99",
+              "122"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C2GlPXLWIAAEMV3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2GlPXLWIAAEMV3.jpg",
+            "sizes": {
+              "large": {
+                "h": "577",
+                "resize": "fit",
+                "w": "900"
+              },
+              "medium": {
+                "h": "577",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "436",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "820118293696679936",
+            "source_status_id_str": "820118293696679936",
+            "source_user_id": "54515483",
+            "source_user_id_str": "54515483",
+            "type": "photo",
+            "url": "https://t.co/jIG5Lv9M2S"
+          },
+          {
+            "display_url": "pic.twitter.com/jIG5Lv9M2S",
+            "expanded_url": "https://twitter.com/airwaysmagazine/status/820118293696679936/photo/1",
+            "id": "820118290831962116",
+            "id_str": "820118290831962116",
+            "indices": [
+              "99",
+              "122"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C2GlPYbW8AQHeTw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2GlPYbW8AQHeTw.jpg",
+            "sizes": {
+              "large": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "820118293696679936",
+            "source_status_id_str": "820118293696679936",
+            "source_user_id": "54515483",
+            "source_user_id_str": "54515483",
+            "type": "photo",
+            "url": "https://t.co/jIG5Lv9M2S"
+          },
+          {
+            "display_url": "pic.twitter.com/jIG5Lv9M2S",
+            "expanded_url": "https://twitter.com/airwaysmagazine/status/820118293696679936/photo/1",
+            "id": "820118290718670849",
+            "id_str": "820118290718670849",
+            "indices": [
+              "99",
+              "122"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C2GlPYAWQAEbIqv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2GlPYAWQAEbIqv.jpg",
+            "sizes": {
+              "large": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "820118293696679936",
+            "source_status_id_str": "820118293696679936",
+            "source_user_id": "54515483",
+            "source_user_id_str": "54515483",
+            "type": "photo",
+            "url": "https://t.co/jIG5Lv9M2S"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @airwaysmagazine: Airways Review: Pan Am History, Design \u0026amp; Identity\nhttps://t.co/fffXZNOmzD https://t.co/jIG5Lv9M2S",
+      "id": "820118399321657344",
+      "id_str": "820118399321657344",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025957,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299035,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025957,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299035,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299035,
-    "wof:lastmodified":1602634598,
-    "wof:name":"RT @airwaysmagazine: Airways Review: Pan Am History, Design &amp; Identity\nhttps://t.co/fffXZNOmzD https://t.co/jIG5Lv9M2S",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299035,
+    "wof:lastmodified": 1650064639,
+    "wof:name": "RT @airwaysmagazine: Airways Review: Pan Am History, Design \u0026amp; Identity\nhttps://t.co/fffXZNOmzD https://t.co/jIG5Lv9M2S",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -1,0 +1,183 @@
+{
+  "id": 1763511595,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-01-16",
+    "date:cessation_upper": "2021-01-16",
+    "date:inception_lower": "2021-01-16",
+    "date:inception_upper": "2021-01-16",
+    "edtf:cessation": "2021-01-15T17:11:00-08:00",
+    "edtf:inception": "2021-01-15T17:11:00-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1610759460,
+      "created_at": "Sat Jan 16 01:11:00 +0000 2021",
+      "display_text_range": [
+        "0",
+        "283"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "230",
+              "236"
+            ],
+            "text": "PanAm"
+          },
+          {
+            "indices": [
+              "237",
+              "243"
+            ],
+            "text": "PaxEx"
+          },
+          {
+            "indices": [
+              "244",
+              "259"
+            ],
+            "text": "MuseumFromHome"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/On3AXJHEOk",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1350249157559255043/photo/1",
+            "id": "1346257855226159105",
+            "id_str": "1346257855226159105",
+            "indices": [
+              "260",
+              "283"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eq7eYvTVoAEYXf4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eq7eYvTVoAEYXf4.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/On3AXJHEOk"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/On3AXJHEOk",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1350249157559255043/photo/1",
+            "id": "1346257855226159105",
+            "id_str": "1346257855226159105",
+            "indices": [
+              "260",
+              "283"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eq7eYvTVoAEYXf4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eq7eYvTVoAEYXf4.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/On3AXJHEOk"
+          }
+        ]
+      },
+      "favorite_count": "12",
+      "favorited": false,
+      "full_text": "In 1947 Pan American World Airways added Sleeperette passenger seats to its Douglas DC-4 airliners. Initially used exclusively on transpacific flights, Sleeperettes featured scientifically engineered comfort for long haul flights #PanAm #PaxEx #MuseumFromHome https://t.co/On3AXJHEOk",
+      "id": "1350249157559255043",
+      "id_str": "1350249157559255043",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064659,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763511595,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763511595,
+    "wof:lastmodified": 1650064659,
+    "wof:name": "In 1947 Pan American World Airways added Sleeperette passenger seats to its Douglas DC-4 airliners. Initially used exclusively on transpacific flights, Sleeperettes featured scientifically engineered comfort for long haul flights #PanAm #PaxEx #MuseumFromHome https://t.co/On3AXJHEOk",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

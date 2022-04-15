@@ -2,102 +2,102 @@
   "id": 1729300555,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-06-30",
-    "date:cessation_upper":"2017-06-30",
-    "date:inception_lower":"2017-06-30",
-    "date:inception_upper":"2017-06-30",
-    "edtf:cessation":"2017-06-30T09:28:08-07:00",
-    "edtf:inception":"2017-06-30T09:28:08-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1498840088,
-        "created_at":"Fri Jun 30 16:28:08 +0000 2017",
-        "display_text_range":[
-            "0",
-            "60"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"67675423",
-                    "id_str":"67675423",
-                    "indices":[
-                        "0",
-                        "5"
-                    ],
-                    "name":"SFCenterfortheBook",
-                    "screen_name":"SFCB"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"@SFCB Thanks so much for the invite! We will check it out! \ud83d\ude04",
-        "id":"880825289244160000",
-        "id_str":"880825289244160000",
-        "in_reply_to_screen_name":"SFCB",
-        "in_reply_to_status_id":"880604242808979456",
-        "in_reply_to_status_id_str":"880604242808979456",
-        "in_reply_to_user_id":"67675423",
-        "in_reply_to_user_id_str":"67675423",
-        "lang":"en",
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated":false
+    "date:cessation_lower": "2017-06-30",
+    "date:cessation_upper": "2017-06-30",
+    "date:inception_lower": "2017-06-30",
+    "date:inception_upper": "2017-06-30",
+    "edtf:cessation": "2017-06-30T09:28:08-07:00",
+    "edtf:inception": "2017-06-30T09:28:08-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1498840088,
+      "created_at": "Fri Jun 30 16:28:08 +0000 2017",
+      "display_text_range": [
+        "0",
+        "60"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "67675423",
+            "id_str": "67675423",
+            "indices": [
+              "0",
+              "5"
+            ],
+            "name": "SFCenterfortheBook",
+            "screen_name": "SFCB"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@SFCB Thanks so much for the invite! We will check it out! 😄",
+      "id": "880825289244160000",
+      "id_str": "880825289244160000",
+      "in_reply_to_screen_name": "SFCB",
+      "in_reply_to_status_id": "880604242808979456",
+      "in_reply_to_status_id_str": "880604242808979456",
+      "in_reply_to_user_id": "67675423",
+      "in_reply_to_user_id_str": "67675423",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026014,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729300555,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026014,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729300555,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729300555,
-    "wof:lastmodified":1602634268,
-    "wof:name":"@SFCB Thanks so much for the invite! We will check it out! \ud83d\ude04",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729300555,
+    "wof:lastmodified": 1650064639,
+    "wof:name": "@SFCB Thanks so much for the invite! We will check it out! 😄",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

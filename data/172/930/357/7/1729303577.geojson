@@ -2,183 +2,183 @@
   "id": 1729303577,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-06-27",
-    "date:cessation_upper":"2018-06-27",
-    "date:inception_lower":"2018-06-27",
-    "date:inception_upper":"2018-06-27",
-    "edtf:cessation":"2018-06-27T18:25:04-07:00",
-    "edtf:inception":"2018-06-27T18:25:04-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1530149104,
-        "created_at":"Thu Jun 28 01:25:04 +0000 2018",
-        "display_text_range":[
-            "0",
-            "222"
+    "date:cessation_lower": "2018-06-28",
+    "date:cessation_upper": "2018-06-28",
+    "date:inception_lower": "2018-06-28",
+    "date:inception_upper": "2018-06-28",
+    "edtf:cessation": "2018-06-27T18:25:04-07:00",
+    "edtf:inception": "2018-06-27T18:25:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1530149104,
+      "created_at": "Thu Jun 28 01:25:04 +0000 2018",
+      "display_text_range": [
+        "0",
+        "222"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "155",
+              "173"
+            ],
+            "text": "KoreanWarMemorial"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "155",
-                        "173"
-                    ],
-                    "text":"KoreanWarMemorial"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/1HplSear0N",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1012144820805087232/photo/1",
+            "id": "1012144818061901825",
+            "id_str": "1012144818061901825",
+            "indices": [
+              "199",
+              "222"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/1HplSear0N",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1012144820805087232/photo/1",
-                    "id":"1012144818061901825",
-                    "id_str":"1012144818061901825",
-                    "indices":[
-                        "199",
-                        "222"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DgvcWXXVAAEYvfo.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DgvcWXXVAAEYvfo.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/1HplSear0N"
-                }
+            "media_url": "http://pbs.twimg.com/media/DgvcWXXVAAEYvfo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DgvcWXXVAAEYvfo.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/1HplSear0N"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2ymCPdF",
+            "expanded_url": "http://bit.ly/2ymCPdF",
+            "indices": [
+              "175",
+              "198"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/2ymCPdF",
-                    "expanded_url":"http://bit.ly/2ymCPdF",
-                    "indices":[
-                        "175",
-                        "198"
-                    ],
-                    "url":"https://t.co/5WOK2iFAOM"
-                }
+            "url": "https://t.co/5WOK2iFAOM"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/1HplSear0N",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1012144820805087232/photo/1",
+            "id": "1012144818061901825",
+            "id_str": "1012144818061901825",
+            "indices": [
+              "199",
+              "222"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/1HplSear0N",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1012144820805087232/photo/1",
-                    "id":"1012144818061901825",
-                    "id_str":"1012144818061901825",
-                    "indices":[
-                        "199",
-                        "222"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DgvcWXXVAAEYvfo.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DgvcWXXVAAEYvfo.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/1HplSear0N"
-                }
-            ]
-        },
-        "favorite_count":"3",
-        "favorited":false,
-        "full_text":"In recognition of the sixty-fifth anniversary of the Korean Armistice Agreement, SFO Museum is proud to present a photographic survey of the San Francisco #KoreanWarMemorial. https://t.co/5WOK2iFAOM https://t.co/1HplSear0N",
-        "id":"1012144820805087232",
-        "id_str":"1012144820805087232",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DgvcWXXVAAEYvfo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DgvcWXXVAAEYvfo.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/1HplSear0N"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "In recognition of the sixty-fifth anniversary of the Korean Armistice Agreement, SFO Museum is proud to present a photographic survey of the San Francisco #KoreanWarMemorial. https://t.co/5WOK2iFAOM https://t.co/1HplSear0N",
+      "id": "1012144820805087232",
+      "id_str": "1012144820805087232",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026129,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729303577,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026129,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729303577,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729303577,
-    "wof:lastmodified":1602634321,
-    "wof:name":"In recognition of the sixty-fifth anniversary of the Korean Armistice Agreement, SFO Museum is proud to present a photographic survey of the San Francisco #KoreanWarMemorial. https://t.co/5WOK2iFAOM https://t.co/1HplSear0N",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729303577,
+    "wof:lastmodified": 1650064641,
+    "wof:name": "In recognition of the sixty-fifth anniversary of the Korean Armistice Agreement, SFO Museum is proud to present a photographic survey of the San Francisco #KoreanWarMemorial. https://t.co/5WOK2iFAOM https://t.co/1HplSear0N",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

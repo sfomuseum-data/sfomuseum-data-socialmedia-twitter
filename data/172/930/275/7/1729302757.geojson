@@ -2,180 +2,180 @@
   "id": 1729302757,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-03-20",
-    "date:cessation_upper":"2018-03-20",
-    "date:inception_lower":"2018-03-20",
-    "date:inception_upper":"2018-03-20",
-    "edtf:cessation":"2018-03-20T18:15:05-07:00",
-    "edtf:inception":"2018-03-20T18:15:05-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1521594905,
-        "created_at":"Wed Mar 21 01:15:05 +0000 2018",
-        "display_text_range":[
-            "0",
-            "177"
+    "date:cessation_lower": "2018-03-21",
+    "date:cessation_upper": "2018-03-21",
+    "date:inception_lower": "2018-03-21",
+    "date:inception_upper": "2018-03-21",
+    "edtf:cessation": "2018-03-20T18:15:05-07:00",
+    "edtf:inception": "2018-03-20T18:15:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1521594905,
+      "created_at": "Wed Mar 21 01:15:05 +0000 2018",
+      "display_text_range": [
+        "0",
+        "177"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "19",
+              "23"
+            ],
+            "text": "cat"
+          },
+          {
+            "indices": [
+              "139",
+              "153"
+            ],
+            "text": "beckoningcats"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "19",
-                        "23"
-                    ],
-                    "text":"cat"
-                },
-                {
-                    "indices":[
-                        "139",
-                        "153"
-                    ],
-                    "text":"beckoningcats"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WNJ5GYlrJv",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/976265909017989120/photo/1",
+            "id": "976265906732109830",
+            "id_str": "976265906732109830",
+            "indices": [
+              "154",
+              "177"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/WNJ5GYlrJv",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/976265909017989120/photo/1",
-                    "id":"976265906732109830",
-                    "id_str":"976265906732109830",
-                    "indices":[
-                        "154",
-                        "177"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DYxkq3EXkAY2fI1.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DYxkq3EXkAY2fI1.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/WNJ5GYlrJv"
-                }
+            "media_url": "http://pbs.twimg.com/media/DYxkq3EXkAY2fI1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DYxkq3EXkAY2fI1.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/WNJ5GYlrJv"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WNJ5GYlrJv",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/976265909017989120/photo/1",
+            "id": "976265906732109830",
+            "id_str": "976265906732109830",
+            "indices": [
+              "154",
+              "177"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/WNJ5GYlrJv",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/976265909017989120/photo/1",
-                    "id":"976265906732109830",
-                    "id_str":"976265906732109830",
-                    "indices":[
-                        "154",
-                        "177"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DYxkq3EXkAY2fI1.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DYxkq3EXkAY2fI1.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/WNJ5GYlrJv"
-                }
-            ]
-        },
-        "favorite_count":"5",
-        "favorited":false,
-        "full_text":"The Hatsutatsu-san #cat is closely modeled after the beloved Fukusuke, another Japanese lucky figure; its exact date of origin is unknown. #beckoningcats https://t.co/WNJ5GYlrJv",
-        "id":"976265909017989120",
-        "id_str":"976265909017989120",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DYxkq3EXkAY2fI1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DYxkq3EXkAY2fI1.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/WNJ5GYlrJv"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "The Hatsutatsu-san #cat is closely modeled after the beloved Fukusuke, another Japanese lucky figure; its exact date of origin is unknown. #beckoningcats https://t.co/WNJ5GYlrJv",
+      "id": "976265909017989120",
+      "id_str": "976265909017989120",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026097,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729302757,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026097,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729302757,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729302757,
-    "wof:lastmodified":1602634249,
-    "wof:name":"The Hatsutatsu-san #cat is closely modeled after the beloved Fukusuke, another Japanese lucky figure; its exact date of origin is unknown. #beckoningcats https://t.co/WNJ5GYlrJv",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729302757,
+    "wof:lastmodified": 1650064641,
+    "wof:name": "The Hatsutatsu-san #cat is closely modeled after the beloved Fukusuke, another Japanese lucky figure; its exact date of origin is unknown. #beckoningcats https://t.co/WNJ5GYlrJv",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

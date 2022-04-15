@@ -2,230 +2,230 @@
   "id": 1729298365,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-10-31",
-    "date:cessation_upper":"2016-10-31",
-    "date:inception_lower":"2016-10-31",
-    "date:inception_upper":"2016-10-31",
-    "edtf:cessation":"2016-10-31T17:30:14-07:00",
-    "edtf:inception":"2016-10-31T17:30:14-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1477960214,
-        "created_at":"Tue Nov 01 00:30:14 +0000 2016",
-        "display_text_range":[
-            "0",
-            "149"
+    "date:cessation_lower": "2016-11-01",
+    "date:cessation_upper": "2016-11-01",
+    "date:inception_lower": "2016-11-01",
+    "date:inception_upper": "2016-11-01",
+    "edtf:cessation": "2016-10-31T17:30:14-07:00",
+    "edtf:inception": "2016-10-31T17:30:14-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1477960214,
+      "created_at": "Tue Nov 01 00:30:14 +0000 2016",
+      "display_text_range": [
+        "0",
+        "149"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0",
+              "15"
+            ],
+            "text": "HappyHalloween"
+          },
+          {
+            "indices": [
+              "46",
+              "53"
+            ],
+            "text": "spoopy"
+          },
+          {
+            "indices": [
+              "96",
+              "102"
+            ],
+            "text": "Ouija"
+          },
+          {
+            "indices": [
+              "110",
+              "125"
+            ],
+            "text": "OuijaAndBeyond"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "0",
-                        "15"
-                    ],
-                    "text":"HappyHalloween"
-                },
-                {
-                    "indices":[
-                        "46",
-                        "53"
-                    ],
-                    "text":"spoopy"
-                },
-                {
-                    "indices":[
-                        "96",
-                        "102"
-                    ],
-                    "text":"Ouija"
-                },
-                {
-                    "indices":[
-                        "110",
-                        "125"
-                    ],
-                    "text":"OuijaAndBeyond"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jiMUPf7kJr",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/793248749346779137/photo/1",
+            "id": "793248745588678656",
+            "id_str": "793248745588678656",
+            "indices": [
+              "126",
+              "149"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/jiMUPf7kJr",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/793248749346779137/photo/1",
-                    "id":"793248745588678656",
-                    "id_str":"793248745588678656",
-                    "indices":[
-                        "126",
-                        "149"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CwIviANWYAASWpP.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CwIviANWYAASWpP.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"992",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"595",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"337",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/jiMUPf7kJr"
-                }
+            "media_url": "http://pbs.twimg.com/media/CwIviANWYAASWpP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwIviANWYAASWpP.jpg",
+            "sizes": {
+              "large": {
+                "h": "992",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "595",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "337",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/jiMUPf7kJr"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jiMUPf7kJr",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/793248749346779137/photo/1",
+            "id": "793248745588678656",
+            "id_str": "793248745588678656",
+            "indices": [
+              "126",
+              "149"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/jiMUPf7kJr",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/793248749346779137/photo/1",
-                    "id":"793248745588678656",
-                    "id_str":"793248745588678656",
-                    "indices":[
-                        "126",
-                        "149"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CwIviANWYAASWpP.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CwIviANWYAASWpP.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"992",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"595",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"337",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/jiMUPf7kJr"
-                },
-                {
-                    "display_url":"pic.twitter.com/jiMUPf7kJr",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/793248749346779137/photo/1",
-                    "id":"793248745894838272",
-                    "id_str":"793248745894838272",
-                    "indices":[
-                        "126",
-                        "149"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CwIviBWWAAA5y9s.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CwIviBWWAAA5y9s.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"963",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"578",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"327",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/jiMUPf7kJr"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"#HappyHalloween! How are you celebrating this #spoopy holiday? Maybe with a s\u00e9ance? Try using a #Ouija board! #OuijaAndBeyond https://t.co/jiMUPf7kJr",
-        "id":"793248749346779137",
-        "id_str":"793248749346779137",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/CwIviANWYAASWpP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwIviANWYAASWpP.jpg",
+            "sizes": {
+              "large": {
+                "h": "992",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "595",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "337",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/jiMUPf7kJr"
+          },
+          {
+            "display_url": "pic.twitter.com/jiMUPf7kJr",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/793248749346779137/photo/1",
+            "id": "793248745894838272",
+            "id_str": "793248745894838272",
+            "indices": [
+              "126",
+              "149"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CwIviBWWAAA5y9s.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwIviBWWAAA5y9s.jpg",
+            "sizes": {
+              "large": {
+                "h": "963",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "578",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "327",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/jiMUPf7kJr"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "#HappyHalloween! How are you celebrating this #spoopy holiday? Maybe with a séance? Try using a #Ouija board! #OuijaAndBeyond https://t.co/jiMUPf7kJr",
+      "id": "793248749346779137",
+      "id_str": "793248749346779137",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025933,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729298365,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025933,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729298365,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729298365,
-    "wof:lastmodified":1602634650,
-    "wof:name":"#HappyHalloween! How are you celebrating this #spoopy holiday? Maybe with a s\u00e9ance? Try using a #Ouija board! #OuijaAndBeyond https://t.co/jiMUPf7kJr",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729298365,
+    "wof:lastmodified": 1650064638,
+    "wof:name": "#HappyHalloween! How are you celebrating this #spoopy holiday? Maybe with a séance? Try using a #Ouija board! #OuijaAndBeyond https://t.co/jiMUPf7kJr",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

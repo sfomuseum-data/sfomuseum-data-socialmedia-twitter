@@ -2,113 +2,113 @@
   "id": 1729299695,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-12-27",
-    "date:cessation_upper":"2011-12-27",
-    "date:inception_lower":"2011-12-27",
-    "date:inception_upper":"2011-12-27",
-    "edtf:cessation":"2011-12-27T16:25:08-08:00",
-    "edtf:inception":"2011-12-27T16:25:08-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1325031908,
-        "created_at":"Wed Dec 28 00:25:08 +0000 2011",
-        "display_text_range":[
-            "0",
-            "120"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"youtu.be/nA1C9k8pvcw",
-                    "expanded_url":"http://youtu.be/nA1C9k8pvcw",
-                    "indices":[
-                        "76",
-                        "96"
-                    ],
-                    "url":"http://t.co/6QGvuuaz"
-                }
+    "date:cessation_lower": "2011-12-28",
+    "date:cessation_upper": "2011-12-28",
+    "date:inception_lower": "2011-12-28",
+    "date:inception_upper": "2011-12-28",
+    "edtf:cessation": "2011-12-27T16:25:08-08:00",
+    "edtf:inception": "2011-12-27T16:25:08-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1325031908,
+      "created_at": "Wed Dec 28 00:25:08 +0000 2011",
+      "display_text_range": [
+        "0",
+        "120"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/nA1C9k8pvcw",
+            "expanded_url": "http://youtu.be/nA1C9k8pvcw",
+            "indices": [
+              "76",
+              "96"
             ],
-            "user_mentions":[
-                {
-                    "id":"16337640",
-                    "id_str":"16337640",
-                    "indices":[
-                        "0",
-                        "9"
-                    ],
-                    "name":"Dug North",
-                    "screen_name":"dugnorth"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"@dugnorth Great memory! We have some footage of select automata on youtube: http://t.co/6QGvuuaz  Pierrot begins 14s in.",
-        "id":"151820944388792322",
-        "id_str":"151820944388792322",
-        "in_reply_to_screen_name":"dugnorth",
-        "in_reply_to_status_id":"151818958813667328",
-        "in_reply_to_status_id_str":"151818958813667328",
-        "in_reply_to_user_id":"16337640",
-        "in_reply_to_user_id_str":"16337640",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-        "truncated":false
+            "url": "http://t.co/6QGvuuaz"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "16337640",
+            "id_str": "16337640",
+            "indices": [
+              "0",
+              "9"
+            ],
+            "name": "Dug North",
+            "screen_name": "dugnorth"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@dugnorth Great memory! We have some footage of select automata on youtube: http://t.co/6QGvuuaz  Pierrot begins 14s in.",
+      "id": "151820944388792322",
+      "id_str": "151820944388792322",
+      "in_reply_to_screen_name": "dugnorth",
+      "in_reply_to_status_id": "151818958813667328",
+      "in_reply_to_status_id_str": "151818958813667328",
+      "in_reply_to_user_id": "16337640",
+      "in_reply_to_user_id_str": "16337640",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025982,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299695,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025982,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299695,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299695,
-    "wof:lastmodified":1602634606,
-    "wof:name":"@dugnorth Great memory! We have some footage of select automata on youtube: http://t.co/6QGvuuaz  Pierrot begins 14s in.",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299695,
+    "wof:lastmodified": 1650064639,
+    "wof:name": "@dugnorth Great memory! We have some footage of select automata on youtube: http://t.co/6QGvuuaz  Pierrot begins 14s in.",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

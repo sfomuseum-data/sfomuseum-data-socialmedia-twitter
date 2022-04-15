@@ -2,173 +2,173 @@
   "id": 1729297893,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-09-22",
-    "date:cessation_upper":"2016-09-22",
-    "date:inception_lower":"2016-09-22",
-    "date:inception_upper":"2016-09-22",
-    "edtf:cessation":"2016-09-22T16:05:13-07:00",
-    "edtf:inception":"2016-09-22T16:05:13-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1474585513,
-        "created_at":"Thu Sep 22 23:05:13 +0000 2016",
-        "display_text_range":[
-            "0",
-            "139"
+    "date:cessation_lower": "2016-09-22",
+    "date:cessation_upper": "2016-09-22",
+    "date:inception_lower": "2016-09-22",
+    "date:inception_upper": "2016-09-22",
+    "edtf:cessation": "2016-09-22T16:05:13-07:00",
+    "edtf:inception": "2016-09-22T16:05:13-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1474585513,
+      "created_at": "Thu Sep 22 23:05:13 +0000 2016",
+      "display_text_range": [
+        "0",
+        "139"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "102",
+              "115"
+            ],
+            "text": "PrintToPlate"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "102",
-                        "115"
-                    ],
-                    "text":"PrintToPlate"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/e3g8CzMZQB",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/779094229935095808/photo/1",
+            "id": "779094223782117376",
+            "id_str": "779094223782117376",
+            "indices": [
+              "116",
+              "139"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/e3g8CzMZQB",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/779094229935095808/photo/1",
-                    "id":"779094223782117376",
-                    "id_str":"779094223782117376",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cs_mEZcXgAAXRZ5.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cs_mEZcXgAAXRZ5.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2048",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/e3g8CzMZQB"
-                }
+            "media_url": "http://pbs.twimg.com/media/Cs_mEZcXgAAXRZ5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cs_mEZcXgAAXRZ5.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/e3g8CzMZQB"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/e3g8CzMZQB",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/779094229935095808/photo/1",
+            "id": "779094223782117376",
+            "id_str": "779094223782117376",
+            "indices": [
+              "116",
+              "139"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/e3g8CzMZQB",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/779094229935095808/photo/1",
-                    "id":"779094223782117376",
-                    "id_str":"779094223782117376",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cs_mEZcXgAAXRZ5.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cs_mEZcXgAAXRZ5.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2048",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/e3g8CzMZQB"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"Staffordshire manufacturer James &amp; Ralph Clews were clearly inspired by Samuel Howitt's aquatint. #PrintToPlate https://t.co/e3g8CzMZQB",
-        "id":"779094229935095808",
-        "id_str":"779094229935095808",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/Cs_mEZcXgAAXRZ5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cs_mEZcXgAAXRZ5.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/e3g8CzMZQB"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Staffordshire manufacturer James \u0026amp; Ralph Clews were clearly inspired by Samuel Howitt's aquatint. #PrintToPlate https://t.co/e3g8CzMZQB",
+      "id": "779094229935095808",
+      "id_str": "779094229935095808",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025915,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729297893,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025915,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729297893,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729297893,
-    "wof:lastmodified":1602634696,
-    "wof:name":"Staffordshire manufacturer James &amp; Ralph Clews were clearly inspired by Samuel Howitt's aquatint. #PrintToPlate https://t.co/e3g8CzMZQB",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729297893,
+    "wof:lastmodified": 1650064638,
+    "wof:name": "Staffordshire manufacturer James \u0026amp; Ralph Clews were clearly inspired by Samuel Howitt's aquatint. #PrintToPlate https://t.co/e3g8CzMZQB",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

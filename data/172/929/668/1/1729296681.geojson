@@ -2,283 +2,283 @@
   "id": 1729296681,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-06-24",
-    "date:cessation_upper":"2016-06-24",
-    "date:inception_lower":"2016-06-24",
-    "date:inception_upper":"2016-06-24",
-    "edtf:cessation":"2016-06-24T19:20:07-07:00",
-    "edtf:inception":"2016-06-24T19:20:07-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1466821207,
-        "created_at":"Sat Jun 25 02:20:07 +0000 2016",
-        "display_text_range":[
-            "0",
-            "139"
+    "date:cessation_lower": "2016-06-25",
+    "date:cessation_upper": "2016-06-25",
+    "date:inception_lower": "2016-06-25",
+    "date:inception_upper": "2016-06-25",
+    "edtf:cessation": "2016-06-24T19:20:07-07:00",
+    "edtf:inception": "2016-06-24T19:20:07-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1466821207,
+      "created_at": "Sat Jun 25 02:20:07 +0000 2016",
+      "display_text_range": [
+        "0",
+        "139"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XzciO7nPS2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/746528366640119808/photo/1",
+            "id": "746528363158855680",
+            "id_str": "746528363158855680",
+            "indices": [
+              "116",
+              "139"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Clwzl0zWYAAyHrE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Clwzl0zWYAAyHrE.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XzciO7nPS2"
+          }
         ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XzciO7nPS2",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/746528366640119808/photo/1",
-                    "id":"746528363158855680",
-                    "id_str":"746528363158855680",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Clwzl0zWYAAyHrE.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Clwzl0zWYAAyHrE.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XzciO7nPS2"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/1XoaUil",
+            "expanded_url": "http://bit.ly/1XoaUil",
+            "indices": [
+              "92",
+              "115"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/1XoaUil",
-                    "expanded_url":"http://bit.ly/1XoaUil",
-                    "indices":[
-                        "92",
-                        "115"
-                    ],
-                    "url":"https://t.co/zs6TOotrvf"
-                }
+            "url": "https://t.co/zs6TOotrvf"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XzciO7nPS2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/746528366640119808/photo/1",
+            "id": "746528363158855680",
+            "id_str": "746528363158855680",
+            "indices": [
+              "116",
+              "139"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XzciO7nPS2",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/746528366640119808/photo/1",
-                    "id":"746528363158855680",
-                    "id_str":"746528363158855680",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Clwzl0zWYAAyHrE.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Clwzl0zWYAAyHrE.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XzciO7nPS2"
-                },
-                {
-                    "display_url":"pic.twitter.com/XzciO7nPS2",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/746528366640119808/photo/1",
-                    "id":"746528363016224768",
-                    "id_str":"746528363016224768",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Clwzl0RWAAARRK4.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Clwzl0RWAAARRK4.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XzciO7nPS2"
-                },
-                {
-                    "display_url":"pic.twitter.com/XzciO7nPS2",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/746528366640119808/photo/1",
-                    "id":"746528363460845568",
-                    "id_str":"746528363460845568",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Clwzl17WYAAVkdk.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Clwzl17WYAAVkdk.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XzciO7nPS2"
-                },
-                {
-                    "display_url":"pic.twitter.com/XzciO7nPS2",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/746528366640119808/photo/1",
-                    "id":"746528363083337728",
-                    "id_str":"746528363083337728",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Clwzl0hWEAAJhkb.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Clwzl0hWEAAJhkb.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XzciO7nPS2"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"Models by Edward Chavez, a master aircraft model-maker are on display, pre-security, in T3. https://t.co/zs6TOotrvf https://t.co/XzciO7nPS2",
-        "id":"746528366640119808",
-        "id_str":"746528366640119808",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/Clwzl0zWYAAyHrE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Clwzl0zWYAAyHrE.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XzciO7nPS2"
+          },
+          {
+            "display_url": "pic.twitter.com/XzciO7nPS2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/746528366640119808/photo/1",
+            "id": "746528363016224768",
+            "id_str": "746528363016224768",
+            "indices": [
+              "116",
+              "139"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Clwzl0RWAAARRK4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Clwzl0RWAAARRK4.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XzciO7nPS2"
+          },
+          {
+            "display_url": "pic.twitter.com/XzciO7nPS2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/746528366640119808/photo/1",
+            "id": "746528363460845568",
+            "id_str": "746528363460845568",
+            "indices": [
+              "116",
+              "139"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Clwzl17WYAAVkdk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Clwzl17WYAAVkdk.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XzciO7nPS2"
+          },
+          {
+            "display_url": "pic.twitter.com/XzciO7nPS2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/746528366640119808/photo/1",
+            "id": "746528363083337728",
+            "id_str": "746528363083337728",
+            "indices": [
+              "116",
+              "139"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Clwzl0hWEAAJhkb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Clwzl0hWEAAJhkb.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XzciO7nPS2"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Models by Edward Chavez, a master aircraft model-maker are on display, pre-security, in T3. https://t.co/zs6TOotrvf https://t.co/XzciO7nPS2",
+      "id": "746528366640119808",
+      "id_str": "746528366640119808",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025867,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729296681,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025867,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729296681,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729296681,
-    "wof:lastmodified":1602634547,
-    "wof:name":"Models by Edward Chavez, a master aircraft model-maker are on display, pre-security, in T3. https://t.co/zs6TOotrvf https://t.co/XzciO7nPS2",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729296681,
+    "wof:lastmodified": 1650064637,
+    "wof:name": "Models by Edward Chavez, a master aircraft model-maker are on display, pre-security, in T3. https://t.co/zs6TOotrvf https://t.co/XzciO7nPS2",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

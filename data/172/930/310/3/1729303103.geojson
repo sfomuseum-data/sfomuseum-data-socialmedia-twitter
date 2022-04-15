@@ -2,175 +2,175 @@
   "id": 1729303103,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-05-06",
-    "date:cessation_upper":"2018-05-06",
-    "date:inception_lower":"2018-05-06",
-    "date:inception_upper":"2018-05-06",
-    "edtf:cessation":"2018-05-06T12:15:05-07:00",
-    "edtf:inception":"2018-05-06T12:15:05-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1525634105,
-        "created_at":"Sun May 06 19:15:05 +0000 2018",
-        "display_text_range":[
-            "0",
-            "148"
+    "date:cessation_lower": "2018-05-06",
+    "date:cessation_upper": "2018-05-06",
+    "date:inception_lower": "2018-05-06",
+    "date:inception_upper": "2018-05-06",
+    "edtf:cessation": "2018-05-06T12:15:05-07:00",
+    "edtf:inception": "2018-05-06T12:15:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1525634105,
+      "created_at": "Sun May 06 19:15:05 +0000 2018",
+      "display_text_range": [
+        "0",
+        "148"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ui6pEzhSTJ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/993207542917554176/photo/1",
+            "id": "993207540065406978",
+            "id_str": "993207540065406978",
+            "indices": [
+              "125",
+              "148"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DciU_tXWkAIRcfQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DciU_tXWkAIRcfQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ui6pEzhSTJ"
+          }
         ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/Ui6pEzhSTJ",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/993207542917554176/photo/1",
-                    "id":"993207540065406978",
-                    "id_str":"993207540065406978",
-                    "indices":[
-                        "125",
-                        "148"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DciU_tXWkAIRcfQ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DciU_tXWkAIRcfQ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1600",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"960",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"544",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/Ui6pEzhSTJ"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2qWJSTC",
+            "expanded_url": "http://bit.ly/2qWJSTC",
+            "indices": [
+              "101",
+              "124"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/2qWJSTC",
-                    "expanded_url":"http://bit.ly/2qWJSTC",
-                    "indices":[
-                        "101",
-                        "124"
-                    ],
-                    "url":"https://t.co/v8sEXDwT1L"
-                }
+            "url": "https://t.co/v8sEXDwT1L"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ui6pEzhSTJ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/993207542917554176/photo/1",
+            "id": "993207540065406978",
+            "id_str": "993207540065406978",
+            "indices": [
+              "125",
+              "148"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/Ui6pEzhSTJ",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/993207542917554176/photo/1",
-                    "id":"993207540065406978",
-                    "id_str":"993207540065406978",
-                    "indices":[
-                        "125",
-                        "148"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DciU_tXWkAIRcfQ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DciU_tXWkAIRcfQ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1600",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"960",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"544",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/Ui6pEzhSTJ"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"See \"The Oldest Living Things in the World\" by Rachel Sussman on display pre-security in Terminal 3. https://t.co/v8sEXDwT1L https://t.co/Ui6pEzhSTJ",
-        "id":"993207542917554176",
-        "id_str":"993207542917554176",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DciU_tXWkAIRcfQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DciU_tXWkAIRcfQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ui6pEzhSTJ"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "See \"The Oldest Living Things in the World\" by Rachel Sussman on display pre-security in Terminal 3. https://t.co/v8sEXDwT1L https://t.co/Ui6pEzhSTJ",
+      "id": "993207542917554176",
+      "id_str": "993207542917554176",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026111,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729303103,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026111,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729303103,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729303103,
-    "wof:lastmodified":1602634430,
-    "wof:name":"See \"The Oldest Living Things in the World\" by Rachel Sussman on display pre-security in Terminal 3. https://t.co/v8sEXDwT1L https://t.co/Ui6pEzhSTJ",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729303103,
+    "wof:lastmodified": 1650064641,
+    "wof:name": "See \"The Oldest Living Things in the World\" by Rachel Sussman on display pre-security in Terminal 3. https://t.co/v8sEXDwT1L https://t.co/Ui6pEzhSTJ",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

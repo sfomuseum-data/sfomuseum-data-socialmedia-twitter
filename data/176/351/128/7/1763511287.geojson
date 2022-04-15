@@ -1,0 +1,183 @@
+{
+  "id": 1763511287,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-10-21",
+    "date:cessation_upper": "2020-10-21",
+    "date:inception_lower": "2020-10-21",
+    "date:inception_upper": "2020-10-21",
+    "edtf:cessation": "2020-10-21T16:40:03-07:00",
+    "edtf:inception": "2020-10-21T16:40:03-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1603323603,
+      "created_at": "Wed Oct 21 23:40:03 +0000 2020",
+      "display_text_range": [
+        "0",
+        "256"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0",
+              "10"
+            ],
+            "text": "OnThisDay"
+          },
+          {
+            "indices": [
+              "209",
+              "216"
+            ],
+            "text": "avgeek"
+          },
+          {
+            "indices": [
+              "217",
+              "232"
+            ],
+            "text": "MuseumFromHome"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IBxHaR2leB",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1319060914486870018/photo/1",
+            "id": "1319060911710154752",
+            "id_str": "1319060911710154752",
+            "indices": [
+              "233",
+              "256"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ek4-6ReWMAAny9r.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ek4-6ReWMAAny9r.jpg",
+            "sizes": {
+              "large": {
+                "h": "1934",
+                "resize": "fit",
+                "w": "1393"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "864"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "490"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IBxHaR2leB"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IBxHaR2leB",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1319060914486870018/photo/1",
+            "id": "1319060911710154752",
+            "id_str": "1319060911710154752",
+            "indices": [
+              "233",
+              "256"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ek4-6ReWMAAny9r.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ek4-6ReWMAAny9r.jpg",
+            "sizes": {
+              "large": {
+                "h": "1934",
+                "resize": "fit",
+                "w": "1393"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "864"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "490"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IBxHaR2leB"
+          }
+        ]
+      },
+      "favorite_count": "20",
+      "favorited": false,
+      "full_text": "#OnThisDay in 1974, the Concorde landed at SFO. This brief visit was part of a promotional tour to airports around the world. The Concorde was in service between 1976 and 2003. Did you ever fly on a Concorde? #avgeek #MuseumFromHome https://t.co/IBxHaR2leB",
+      "id": "1319060914486870018",
+      "id_str": "1319060914486870018",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "5",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064646,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763511287,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763511287,
+    "wof:lastmodified": 1650064646,
+    "wof:name": "#OnThisDay in 1974, the Concorde landed at SFO. This brief visit was part of a promotional tour to airports around the world. The Concorde was in service between 1976 and 2003. Did you ever fly on a Concorde? #avgeek #MuseumFromHome https://t.co/IBxHaR2leB",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

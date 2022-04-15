@@ -1,0 +1,265 @@
+{
+  "id": 1763511357,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-11-20",
+    "date:cessation_upper": "2020-11-20",
+    "date:inception_lower": "2020-11-20",
+    "date:inception_upper": "2020-11-20",
+    "edtf:cessation": "2020-11-19T18:01:57-08:00",
+    "edtf:inception": "2020-11-19T18:01:57-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1605837717,
+      "created_at": "Fri Nov 20 02:01:57 +0000 2020",
+      "display_text_range": [
+        "0",
+        "285"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "13",
+              "22"
+            ],
+            "text": "SFOMat40"
+          },
+          {
+            "indices": [
+              "237",
+              "245"
+            ],
+            "text": "TBTSFOM"
+          },
+          {
+            "indices": [
+              "246",
+              "261"
+            ],
+            "text": "MuseumFromHome"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/reopT7TsCw",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1329605870678732800/photo/1",
+            "id": "1329605662117036032",
+            "id_str": "1329605662117036032",
+            "indices": [
+              "262",
+              "285"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnO1Th3VgAAatjR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnO1Th3VgAAatjR.jpg",
+            "sizes": {
+              "large": {
+                "h": "1840",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1104",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "626",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/reopT7TsCw"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/3pkN6O1",
+            "expanded_url": "https://bit.ly/3pkN6O1",
+            "indices": [
+              "213",
+              "236"
+            ],
+            "url": "https://t.co/DzWNiy6tuY"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/reopT7TsCw",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1329605870678732800/photo/1",
+            "id": "1329605662117036032",
+            "id_str": "1329605662117036032",
+            "indices": [
+              "262",
+              "285"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnO1Th3VgAAatjR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnO1Th3VgAAatjR.jpg",
+            "sizes": {
+              "large": {
+                "h": "1840",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1104",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "626",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/reopT7TsCw"
+          },
+          {
+            "display_url": "pic.twitter.com/reopT7TsCw",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1329605870678732800/photo/1",
+            "id": "1329605662116966400",
+            "id_str": "1329605662116966400",
+            "indices": [
+              "262",
+              "285"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnO1Th3UcAAzYHG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnO1Th3UcAAzYHG.jpg",
+            "sizes": {
+              "large": {
+                "h": "1849",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1109",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "629",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/reopT7TsCw"
+          },
+          {
+            "display_url": "pic.twitter.com/reopT7TsCw",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1329605870678732800/photo/1",
+            "id": "1329605662255443969",
+            "id_str": "1329605662255443969",
+            "indices": [
+              "262",
+              "285"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnO1TiYVcAEBUDe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnO1TiYVcAEBUDe.jpg",
+            "sizes": {
+              "large": {
+                "h": "1859",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1115",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "632",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/reopT7TsCw"
+          }
+        ]
+      },
+      "favorite_count": "40",
+      "favorited": false,
+      "full_text": "This week on #SFOMat40: In 2013, we presented \"Airline Identity: Marks, Brands and Logos\" which focused on airline marketing designs and included objects like airline wall signs, aircraft models, and flight bags. https://t.co/DzWNiy6tuY #TBTSFOM #MuseumFromHome https://t.co/reopT7TsCw",
+      "id": "1329605870678732800",
+      "id_str": "1329605870678732800",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "10",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064648,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763511357,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763511357,
+    "wof:lastmodified": 1650064648,
+    "wof:name": "This week on #SFOMat40: In 2013, we presented \"Airline Identity: Marks, Brands and Logos\" which focused on airline marketing designs and included objects like airline wall signs, aircraft models, and flight bags. https://t.co/DzWNiy6tuY #TBTSFOM #MuseumFromHome https://t.co/reopT7TsCw",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -2,204 +2,204 @@
   "id": 1729308251,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-04-23",
-    "date:cessation_upper":"2020-04-23",
-    "date:inception_lower":"2020-04-23",
-    "date:inception_upper":"2020-04-23",
-    "edtf:cessation":"2020-04-23T13:56:08-07:00",
-    "edtf:inception":"2020-04-23T13:56:08-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1587675368,
-        "created_at":"Thu Apr 23 20:56:08 +0000 2020",
-        "display_text_range":[
-            "0",
-            "280"
+    "date:cessation_lower": "2020-04-23",
+    "date:cessation_upper": "2020-04-23",
+    "date:inception_lower": "2020-04-23",
+    "date:inception_upper": "2020-04-23",
+    "edtf:cessation": "2020-04-23T13:56:08-07:00",
+    "edtf:inception": "2020-04-23T13:56:08-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1587675368,
+      "created_at": "Thu Apr 23 20:56:08 +0000 2020",
+      "display_text_range": [
+        "0",
+        "280"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "9",
+              "22"
+            ],
+            "text": "WorldBookDay"
+          },
+          {
+            "indices": [
+              "39",
+              "53"
+            ],
+            "text": "OnSilentWings"
+          },
+          {
+            "indices": [
+              "233",
+              "240"
+            ],
+            "text": "avgeek"
+          },
+          {
+            "indices": [
+              "241",
+              "256"
+            ],
+            "text": "MuseumFromHome"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "9",
-                        "22"
-                    ],
-                    "text":"WorldBookDay"
-                },
-                {
-                    "indices":[
-                        "39",
-                        "53"
-                    ],
-                    "text":"OnSilentWings"
-                },
-                {
-                    "indices":[
-                        "233",
-                        "240"
-                    ],
-                    "text":"avgeek"
-                },
-                {
-                    "indices":[
-                        "241",
-                        "256"
-                    ],
-                    "text":"MuseumFromHome"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/61ZW2vH3XU",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1253427458935676932/photo/1",
+            "id": "1253427198188335106",
+            "id_str": "1253427198188335106",
+            "indices": [
+              "257",
+              "280"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/61ZW2vH3XU",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1253427458935676932/photo/1",
-                    "id":"1253427198188335106",
-                    "id_str":"1253427198188335106",
-                    "indices":[
-                        "257",
-                        "280"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EWURZVPUMAINbno.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EWURZVPUMAINbno.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1600",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"960",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"544",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/61ZW2vH3XU"
-                }
+            "media_url": "http://pbs.twimg.com/media/EWURZVPUMAINbno.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EWURZVPUMAINbno.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/61ZW2vH3XU"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/OnSilentWings",
+            "expanded_url": "http://bit.ly/OnSilentWings",
+            "indices": [
+              "173",
+              "196"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/OnSilentWings",
-                    "expanded_url":"http://bit.ly/OnSilentWings",
-                    "indices":[
-                        "173",
-                        "196"
-                    ],
-                    "url":"https://t.co/ref512gQDn"
-                }
+            "url": "https://t.co/ref512gQDn"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/61ZW2vH3XU",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1253427458935676932/photo/1",
+            "id": "1253427198188335106",
+            "id_str": "1253427198188335106",
+            "indices": [
+              "257",
+              "280"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/61ZW2vH3XU",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1253427458935676932/photo/1",
-                    "id":"1253427198188335106",
-                    "id_str":"1253427198188335106",
-                    "indices":[
-                        "257",
-                        "280"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EWURZVPUMAINbno.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EWURZVPUMAINbno.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1600",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"960",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"544",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/61ZW2vH3XU"
-                }
-            ]
-        },
-        "favorite_count":"9",
-        "favorited":false,
-        "full_text":"Today is #WorldBookDay. Our exhibition #OnSilentWings showcases books on gliding from our library of over 8,000 books, magazines and periodicals on aviation. See it online: https://t.co/ref512gQDn What have you been reading at home? #avgeek #MuseumFromHome https://t.co/61ZW2vH3XU",
-        "id":"1253427458935676932",
-        "id_str":"1253427458935676932",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"6",
-        "retweeted":false,
-        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/EWURZVPUMAINbno.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EWURZVPUMAINbno.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/61ZW2vH3XU"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "Today is #WorldBookDay. Our exhibition #OnSilentWings showcases books on gliding from our library of over 8,000 books, magazines and periodicals on aviation. See it online: https://t.co/ref512gQDn What have you been reading at home? #avgeek #MuseumFromHome https://t.co/61ZW2vH3XU",
+      "id": "1253427458935676932",
+      "id_str": "1253427458935676932",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "6",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026308,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729308251,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026308,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729308251,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729308251,
-    "wof:lastmodified":1602634374,
-    "wof:name":"Today is #WorldBookDay. Our exhibition #OnSilentWings showcases books on gliding from our library of over 8,000 books, magazines and periodicals on aviation. See it online: https://t.co/ref512gQDn What have you been reading at home? #avgeek #MuseumFromHome https://t.co/61ZW2vH3XU",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729308251,
+    "wof:lastmodified": 1650064644,
+    "wof:name": "Today is #WorldBookDay. Our exhibition #OnSilentWings showcases books on gliding from our library of over 8,000 books, magazines and periodicals on aviation. See it online: https://t.co/ref512gQDn What have you been reading at home? #avgeek #MuseumFromHome https://t.co/61ZW2vH3XU",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

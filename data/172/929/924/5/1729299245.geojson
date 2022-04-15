@@ -2,274 +2,274 @@
   "id": 1729299245,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-02-06",
-    "date:cessation_upper":"2017-02-06",
-    "date:inception_lower":"2017-02-06",
-    "date:inception_upper":"2017-02-06",
-    "edtf:cessation":"2017-02-06T16:17:30-08:00",
-    "edtf:inception":"2017-02-06T16:17:30-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1486426650,
-        "created_at":"Tue Feb 07 00:17:30 +0000 2017",
-        "display_text_range":[
-            "0",
-            "131"
+    "date:cessation_lower": "2017-02-07",
+    "date:cessation_upper": "2017-02-07",
+    "date:inception_lower": "2017-02-07",
+    "date:inception_upper": "2017-02-07",
+    "edtf:cessation": "2017-02-06T16:17:30-08:00",
+    "edtf:inception": "2017-02-06T16:17:30-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1486426650,
+      "created_at": "Tue Feb 07 00:17:30 +0000 2017",
+      "display_text_range": [
+        "0",
+        "131"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/VGlnkd0FRg",
+            "expanded_url": "https://twitter.com/airwaysmagazine/status/828755279324053504/photo/1",
+            "id": "828755274940948481",
+            "id_str": "828755274940948481",
+            "indices": [
+              "108",
+              "131"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C4BUiBiWIAENTny.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C4BUiBiWIAENTny.jpg",
+            "sizes": {
+              "large": {
+                "h": "600",
+                "resize": "fit",
+                "w": "900"
+              },
+              "medium": {
+                "h": "600",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "828755279324053504",
+            "source_status_id_str": "828755279324053504",
+            "source_user_id": "54515483",
+            "source_user_id_str": "54515483",
+            "type": "photo",
+            "url": "https://t.co/VGlnkd0FRg"
+          }
         ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/VGlnkd0FRg",
-                    "expanded_url":"https://twitter.com/airwaysmagazine/status/828755279324053504/photo/1",
-                    "id":"828755274940948481",
-                    "id_str":"828755274940948481",
-                    "indices":[
-                        "108",
-                        "131"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C4BUiBiWIAENTny.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C4BUiBiWIAENTny.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"600",
-                            "resize":"fit",
-                            "w":"900"
-                        },
-                        "medium":{
-                            "h":"600",
-                            "resize":"fit",
-                            "w":"900"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"828755279324053504",
-                    "source_status_id_str":"828755279324053504",
-                    "source_user_id":"54515483",
-                    "source_user_id_str":"54515483",
-                    "type":"photo",
-                    "url":"https://t.co/VGlnkd0FRg"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/T09M308JJ5E",
+            "expanded_url": "http://ow.ly/T09M308JJ5E",
+            "indices": [
+              "84",
+              "107"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"ow.ly/T09M308JJ5E",
-                    "expanded_url":"http://ow.ly/T09M308JJ5E",
-                    "indices":[
-                        "84",
-                        "107"
-                    ],
-                    "url":"https://t.co/Ni5NSapCSv"
-                }
+            "url": "https://t.co/Ni5NSapCSv"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "54515483",
+            "id_str": "54515483",
+            "indices": [
+              "3",
+              "19"
             ],
-            "user_mentions":[
-                {
-                    "id":"54515483",
-                    "id_str":"54515483",
-                    "indices":[
-                        "3",
-                        "19"
-                    ],
-                    "name":"Airways Magazine",
-                    "screen_name":"airwaysmagazine"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/VGlnkd0FRg",
-                    "expanded_url":"https://twitter.com/airwaysmagazine/status/828755279324053504/photo/1",
-                    "id":"828755274940948481",
-                    "id_str":"828755274940948481",
-                    "indices":[
-                        "108",
-                        "131"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C4BUiBiWIAENTny.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C4BUiBiWIAENTny.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"600",
-                            "resize":"fit",
-                            "w":"900"
-                        },
-                        "medium":{
-                            "h":"600",
-                            "resize":"fit",
-                            "w":"900"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"828755279324053504",
-                    "source_status_id_str":"828755279324053504",
-                    "source_user_id":"54515483",
-                    "source_user_id_str":"54515483",
-                    "type":"photo",
-                    "url":"https://t.co/VGlnkd0FRg"
-                },
-                {
-                    "display_url":"pic.twitter.com/VGlnkd0FRg",
-                    "expanded_url":"https://twitter.com/airwaysmagazine/status/828755279324053504/photo/1",
-                    "id":"828755275347795968",
-                    "id_str":"828755275347795968",
-                    "indices":[
-                        "108",
-                        "131"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C4BUiDDWIAAeIAO.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C4BUiDDWIAAeIAO.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1000",
-                            "resize":"fit",
-                            "w":"825"
-                        },
-                        "medium":{
-                            "h":"1000",
-                            "resize":"fit",
-                            "w":"825"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"561"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"828755279324053504",
-                    "source_status_id_str":"828755279324053504",
-                    "source_user_id":"54515483",
-                    "source_user_id_str":"54515483",
-                    "type":"photo",
-                    "url":"https://t.co/VGlnkd0FRg"
-                },
-                {
-                    "display_url":"pic.twitter.com/VGlnkd0FRg",
-                    "expanded_url":"https://twitter.com/airwaysmagazine/status/828755279324053504/photo/1",
-                    "id":"828755275083571201",
-                    "id_str":"828755275083571201",
-                    "indices":[
-                        "108",
-                        "131"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C4BUiCEWYAEgzDa.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C4BUiCEWYAEgzDa.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"700",
-                            "resize":"fit",
-                            "w":"622"
-                        },
-                        "medium":{
-                            "h":"700",
-                            "resize":"fit",
-                            "w":"622"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"604"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"828755279324053504",
-                    "source_status_id_str":"828755279324053504",
-                    "source_user_id":"54515483",
-                    "source_user_id_str":"54515483",
-                    "type":"photo",
-                    "url":"https://t.co/VGlnkd0FRg"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @airwaysmagazine: 30 Years Ago: People Express Merged Into Continental Airlines \nhttps://t.co/Ni5NSapCSv https://t.co/VGlnkd0FRg",
-        "id":"828759555270127616",
-        "id_str":"828759555270127616",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "Airways Magazine",
+            "screen_name": "airwaysmagazine"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/VGlnkd0FRg",
+            "expanded_url": "https://twitter.com/airwaysmagazine/status/828755279324053504/photo/1",
+            "id": "828755274940948481",
+            "id_str": "828755274940948481",
+            "indices": [
+              "108",
+              "131"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C4BUiBiWIAENTny.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C4BUiBiWIAENTny.jpg",
+            "sizes": {
+              "large": {
+                "h": "600",
+                "resize": "fit",
+                "w": "900"
+              },
+              "medium": {
+                "h": "600",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "828755279324053504",
+            "source_status_id_str": "828755279324053504",
+            "source_user_id": "54515483",
+            "source_user_id_str": "54515483",
+            "type": "photo",
+            "url": "https://t.co/VGlnkd0FRg"
+          },
+          {
+            "display_url": "pic.twitter.com/VGlnkd0FRg",
+            "expanded_url": "https://twitter.com/airwaysmagazine/status/828755279324053504/photo/1",
+            "id": "828755275347795968",
+            "id_str": "828755275347795968",
+            "indices": [
+              "108",
+              "131"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C4BUiDDWIAAeIAO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C4BUiDDWIAAeIAO.jpg",
+            "sizes": {
+              "large": {
+                "h": "1000",
+                "resize": "fit",
+                "w": "825"
+              },
+              "medium": {
+                "h": "1000",
+                "resize": "fit",
+                "w": "825"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "561"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "828755279324053504",
+            "source_status_id_str": "828755279324053504",
+            "source_user_id": "54515483",
+            "source_user_id_str": "54515483",
+            "type": "photo",
+            "url": "https://t.co/VGlnkd0FRg"
+          },
+          {
+            "display_url": "pic.twitter.com/VGlnkd0FRg",
+            "expanded_url": "https://twitter.com/airwaysmagazine/status/828755279324053504/photo/1",
+            "id": "828755275083571201",
+            "id_str": "828755275083571201",
+            "indices": [
+              "108",
+              "131"
+            ],
+            "media_url": "http://pbs.twimg.com/media/C4BUiCEWYAEgzDa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C4BUiCEWYAEgzDa.jpg",
+            "sizes": {
+              "large": {
+                "h": "700",
+                "resize": "fit",
+                "w": "622"
+              },
+              "medium": {
+                "h": "700",
+                "resize": "fit",
+                "w": "622"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "604"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "828755279324053504",
+            "source_status_id_str": "828755279324053504",
+            "source_user_id": "54515483",
+            "source_user_id_str": "54515483",
+            "type": "photo",
+            "url": "https://t.co/VGlnkd0FRg"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @airwaysmagazine: 30 Years Ago: People Express Merged Into Continental Airlines \nhttps://t.co/Ni5NSapCSv https://t.co/VGlnkd0FRg",
+      "id": "828759555270127616",
+      "id_str": "828759555270127616",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025965,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299245,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025965,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299245,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299245,
-    "wof:lastmodified":1602634564,
-    "wof:name":"RT @airwaysmagazine: 30 Years Ago: People Express Merged Into Continental Airlines \nhttps://t.co/Ni5NSapCSv https://t.co/VGlnkd0FRg",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299245,
+    "wof:lastmodified": 1650064639,
+    "wof:name": "RT @airwaysmagazine: 30 Years Ago: People Express Merged Into Continental Airlines \nhttps://t.co/Ni5NSapCSv https://t.co/VGlnkd0FRg",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

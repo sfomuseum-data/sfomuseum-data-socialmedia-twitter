@@ -2,180 +2,180 @@
   "id": 1729303769,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-07-19",
-    "date:cessation_upper":"2018-07-19",
-    "date:inception_lower":"2018-07-19",
-    "date:inception_upper":"2018-07-19",
-    "edtf:cessation":"2018-07-19T11:20:05-07:00",
-    "edtf:inception":"2018-07-19T11:20:05-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1532024405,
-        "created_at":"Thu Jul 19 18:20:05 +0000 2018",
-        "display_text_range":[
-            "0",
-            "282"
+    "date:cessation_lower": "2018-07-19",
+    "date:cessation_upper": "2018-07-19",
+    "date:inception_lower": "2018-07-19",
+    "date:inception_upper": "2018-07-19",
+    "edtf:cessation": "2018-07-19T11:20:05-07:00",
+    "edtf:inception": "2018-07-19T11:20:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1532024405,
+      "created_at": "Thu Jul 19 18:20:05 +0000 2018",
+      "display_text_range": [
+        "0",
+        "282"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "239",
+              "246"
+            ],
+            "text": "avgeek"
+          },
+          {
+            "indices": [
+              "247",
+              "258"
+            ],
+            "text": "SFOHistory"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "239",
-                        "246"
-                    ],
-                    "text":"avgeek"
-                },
-                {
-                    "indices":[
-                        "247",
-                        "258"
-                    ],
-                    "text":"SFOHistory"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/w0zR6tGfFi",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1020010402581753856/photo/1",
+            "id": "1020010399582826496",
+            "id_str": "1020010399582826496",
+            "indices": [
+              "259",
+              "282"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/w0zR6tGfFi",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1020010402581753856/photo/1",
-                    "id":"1020010399582826496",
-                    "id_str":"1020010399582826496",
-                    "indices":[
-                        "259",
-                        "282"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DifODd5WsAAZlFB.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DifODd5WsAAZlFB.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1635"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"981"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"556"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/w0zR6tGfFi"
-                }
+            "media_url": "http://pbs.twimg.com/media/DifODd5WsAAZlFB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DifODd5WsAAZlFB.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1635"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "981"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "556"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/w0zR6tGfFi"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/w0zR6tGfFi",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1020010402581753856/photo/1",
+            "id": "1020010399582826496",
+            "id_str": "1020010399582826496",
+            "indices": [
+              "259",
+              "282"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/w0zR6tGfFi",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1020010402581753856/photo/1",
-                    "id":"1020010399582826496",
-                    "id_str":"1020010399582826496",
-                    "indices":[
-                        "259",
-                        "282"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DifODd5WsAAZlFB.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DifODd5WsAAZlFB.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1635"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"981"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"556"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/w0zR6tGfFi"
-                }
-            ]
-        },
-        "favorite_count":"18",
-        "favorited":false,
-        "full_text":"As passenger numbers swelled in the 1980s, SFO began upgrading amenities and providing an increasing array of concessions. This 1990 map of SFO shows all amenities available at the time, including our art exhibits and even a video arcade! #avgeek #SFOHistory https://t.co/w0zR6tGfFi",
-        "id":"1020010402581753856",
-        "id_str":"1020010402581753856",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"6",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DifODd5WsAAZlFB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DifODd5WsAAZlFB.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1635"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "981"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "556"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/w0zR6tGfFi"
+          }
+        ]
+      },
+      "favorite_count": "19",
+      "favorited": false,
+      "full_text": "As passenger numbers swelled in the 1980s, SFO began upgrading amenities and providing an increasing array of concessions. This 1990 map of SFO shows all amenities available at the time, including our art exhibits and even a video arcade! #avgeek #SFOHistory https://t.co/w0zR6tGfFi",
+      "id": "1020010402581753856",
+      "id_str": "1020010402581753856",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "6",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026137,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729303769,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026137,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729303769,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729303769,
-    "wof:lastmodified":1602634300,
-    "wof:name":"As passenger numbers swelled in the 1980s, SFO began upgrading amenities and providing an increasing array of concessions. This 1990 map of SFO shows all amenities available at the time, including our art exhibits and even a video arcade! #avgeek #SFOHistory https://t.co/w0zR6tGfFi",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729303769,
+    "wof:lastmodified": 1650064641,
+    "wof:name": "As passenger numbers swelled in the 1980s, SFO began upgrading amenities and providing an increasing array of concessions. This 1990 map of SFO shows all amenities available at the time, including our art exhibits and even a video arcade! #avgeek #SFOHistory https://t.co/w0zR6tGfFi",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

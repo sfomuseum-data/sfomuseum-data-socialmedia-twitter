@@ -2,114 +2,114 @@
   "id": 1729311411,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-01-24",
-    "date:cessation_upper":"2013-01-24",
-    "date:inception_lower":"2013-01-24",
-    "date:inception_upper":"2013-01-24",
-    "edtf:cessation":"2013-01-24T10:37:00-08:00",
-    "edtf:inception":"2013-01-24T10:37:00-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1359052620,
-        "created_at":"Thu Jan 24 18:37:00 +0000 2013",
-        "display_text_range":[
-            "0",
-            "139"
+    "date:cessation_lower": "2013-01-24",
+    "date:cessation_upper": "2013-01-24",
+    "date:inception_lower": "2013-01-24",
+    "date:inception_upper": "2013-01-24",
+    "edtf:cessation": "2013-01-24T10:37:00-08:00",
+    "edtf:inception": "2013-01-24T10:37:00-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1359052620,
+      "created_at": "Thu Jan 24 18:37:00 +0000 2013",
+      "display_text_range": [
+        "0",
+        "139"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "132",
+              "139"
+            ],
+            "text": "avgeek"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "132",
-                        "139"
-                    ],
-                    "text":"avgeek"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/i/1pVyC",
+            "expanded_url": "http://ow.ly/i/1pVyC",
+            "indices": [
+              "81",
+              "101"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"ow.ly/i/1pVyC",
-                    "expanded_url":"http://ow.ly/i/1pVyC",
-                    "indices":[
-                        "81",
-                        "101"
-                    ],
-                    "url":"http://t.co/QkzHS5mj"
-                },
-                {
-                    "display_url":"ow.ly/1Rtajh",
-                    "expanded_url":"http://ow.ly/1Rtajh",
-                    "indices":[
-                        "111",
-                        "131"
-                    ],
-                    "url":"http://t.co/XdvohqRo"
-                }
+            "url": "http://t.co/QkzHS5mj"
+          },
+          {
+            "display_url": "ow.ly/1Rtajh",
+            "expanded_url": "http://ow.ly/1Rtajh",
+            "indices": [
+              "111",
+              "131"
             ],
-            "user_mentions":[]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"TCA's 1950s ultra-modern Super Constellation was dubbed \"the Queen of the Skies\" http://t.co/QkzHS5mj On view: http://t.co/XdvohqRo #avgeek",
-        "id":"294514154759401473",
-        "id_str":"294514154759401473",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "url": "http://t.co/XdvohqRo"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "TCA's 1950s ultra-modern Super Constellation was dubbed \"the Queen of the Skies\" http://t.co/QkzHS5mj On view: http://t.co/XdvohqRo #avgeek",
+      "id": "294514154759401473",
+      "id_str": "294514154759401473",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026431,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729311411,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026431,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729311411,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729311411,
-    "wof:lastmodified":1602634178,
-    "wof:name":"TCA's 1950s ultra-modern Super Constellation was dubbed \"the Queen of the Skies\" http://t.co/QkzHS5mj On view: http://t.co/XdvohqRo #avgeek",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729311411,
+    "wof:lastmodified": 1650064711,
+    "wof:name": "TCA's 1950s ultra-modern Super Constellation was dubbed \"the Queen of the Skies\" http://t.co/QkzHS5mj On view: http://t.co/XdvohqRo #avgeek",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

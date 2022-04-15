@@ -2,219 +2,219 @@
   "id": 1729305007,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-12-31",
-    "date:cessation_upper":"2018-12-31",
-    "date:inception_lower":"2018-12-31",
-    "date:inception_upper":"2018-12-31",
-    "edtf:cessation":"2018-12-31T12:30:06-08:00",
-    "edtf:inception":"2018-12-31T12:30:06-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1546288206,
-        "created_at":"Mon Dec 31 20:30:06 +0000 2018",
-        "display_text_range":[
-            "0",
-            "230"
+    "date:cessation_lower": "2018-12-31",
+    "date:cessation_upper": "2018-12-31",
+    "date:inception_lower": "2018-12-31",
+    "date:inception_upper": "2018-12-31",
+    "edtf:cessation": "2018-12-31T12:30:06-08:00",
+    "edtf:inception": "2018-12-31T12:30:06-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1546288206,
+      "created_at": "Mon Dec 31 20:30:06 +0000 2018",
+      "display_text_range": [
+        "0",
+        "230"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "193",
+              "206"
+            ],
+            "text": "HappyNewYear"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "193",
-                        "206"
-                    ],
-                    "text":"HappyNewYear"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rYsboSvRPx",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1079837120850812928/photo/1",
+            "id": "1079837117918920704",
+            "id_str": "1079837117918920704",
+            "indices": [
+              "207",
+              "230"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/rYsboSvRPx",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1079837120850812928/photo/1",
-                    "id":"1079837117918920704",
-                    "id_str":"1079837117918920704",
-                    "indices":[
-                        "207",
-                        "230"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DvxaIzTWwAA9cBb.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DvxaIzTWwAA9cBb.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1518"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"911"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"516"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/rYsboSvRPx"
-                }
+            "media_url": "http://pbs.twimg.com/media/DvxaIzTWwAA9cBb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DvxaIzTWwAA9cBb.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1518"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "911"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "516"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rYsboSvRPx"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/SFOExhibitions",
+            "expanded_url": "http://bit.ly/SFOExhibitions",
+            "indices": [
+              "163",
+              "186"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/SFOExhibitions",
-                    "expanded_url":"http://bit.ly/SFOExhibitions",
-                    "indices":[
-                        "163",
-                        "186"
-                    ],
-                    "url":"https://t.co/fI181w6yqE"
-                }
+            "url": "https://t.co/fI181w6yqE"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rYsboSvRPx",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1079837120850812928/photo/1",
+            "id": "1079837117918920704",
+            "id_str": "1079837117918920704",
+            "indices": [
+              "207",
+              "230"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/rYsboSvRPx",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1079837120850812928/photo/1",
-                    "id":"1079837117918920704",
-                    "id_str":"1079837117918920704",
-                    "indices":[
-                        "207",
-                        "230"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DvxaIzTWwAA9cBb.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DvxaIzTWwAA9cBb.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1518"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"911"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"516"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/rYsboSvRPx"
-                },
-                {
-                    "display_url":"pic.twitter.com/rYsboSvRPx",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1079837120850812928/photo/1",
-                    "id":"1079837118363521024",
-                    "id_str":"1079837118363521024",
-                    "indices":[
-                        "207",
-                        "230"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DvxaI09W0AAP9mD.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DvxaI09W0AAP9mD.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1351",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"811",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"459",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/rYsboSvRPx"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"Happy New Year! The Aviation Museum and Library will be closed tomorrow to celebrate the New Year. Our other exhibitions around the airport are available to view. https://t.co/fI181w6yqE\n.\n.\n.\n#HappyNewYear https://t.co/rYsboSvRPx",
-        "id":"1079837120850812928",
-        "id_str":"1079837120850812928",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DvxaIzTWwAA9cBb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DvxaIzTWwAA9cBb.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1518"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "911"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "516"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rYsboSvRPx"
+          },
+          {
+            "display_url": "pic.twitter.com/rYsboSvRPx",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1079837120850812928/photo/1",
+            "id": "1079837118363521024",
+            "id_str": "1079837118363521024",
+            "indices": [
+              "207",
+              "230"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DvxaI09W0AAP9mD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DvxaI09W0AAP9mD.jpg",
+            "sizes": {
+              "large": {
+                "h": "1351",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "811",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "459",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rYsboSvRPx"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Happy New Year! The Aviation Museum and Library will be closed tomorrow to celebrate the New Year. Our other exhibitions around the airport are available to view. https://t.co/fI181w6yqE\n.\n.\n.\n#HappyNewYear https://t.co/rYsboSvRPx",
+      "id": "1079837120850812928",
+      "id_str": "1079837120850812928",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026184,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729305007,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026184,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729305007,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729305007,
-    "wof:lastmodified":1602634331,
-    "wof:name":"Happy New Year! The Aviation Museum and Library will be closed tomorrow to celebrate the New Year. Our other exhibitions around the airport are available to view. https://t.co/fI181w6yqE\n.\n.\n.\n#HappyNewYear https://t.co/rYsboSvRPx",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729305007,
+    "wof:lastmodified": 1650064642,
+    "wof:name": "Happy New Year! The Aviation Museum and Library will be closed tomorrow to celebrate the New Year. Our other exhibitions around the airport are available to view. https://t.co/fI181w6yqE\n.\n.\n.\n#HappyNewYear https://t.co/rYsboSvRPx",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

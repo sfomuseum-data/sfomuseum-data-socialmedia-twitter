@@ -2,113 +2,113 @@
   "id": 1729292815,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2014-12-03",
-    "date:cessation_upper":"2014-12-03",
-    "date:inception_lower":"2014-12-03",
-    "date:inception_upper":"2014-12-03",
-    "edtf:cessation":"2014-12-03T15:40:48-08:00",
-    "edtf:inception":"2014-12-03T15:40:48-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1417650048,
-        "created_at":"Wed Dec 03 23:40:48 +0000 2014",
-        "display_text_range":[
-            "0",
-            "139"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"ow.ly/Fk8A4",
-                    "expanded_url":"http://ow.ly/Fk8A4",
-                    "indices":[
-                        "117",
-                        "139"
-                    ],
-                    "url":"http://t.co/YLo7Bcd0Dl"
-                }
+    "date:cessation_lower": "2014-12-03",
+    "date:cessation_upper": "2014-12-03",
+    "date:inception_lower": "2014-12-03",
+    "date:inception_upper": "2014-12-03",
+    "edtf:cessation": "2014-12-03T15:40:48-08:00",
+    "edtf:inception": "2014-12-03T15:40:48-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1417650048,
+      "created_at": "Wed Dec 03 23:40:48 +0000 2014",
+      "display_text_range": [
+        "0",
+        "139"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/Fk8A4",
+            "expanded_url": "http://ow.ly/Fk8A4",
+            "indices": [
+              "117",
+              "139"
             ],
-            "user_mentions":[
-                {
-                    "id":"2426",
-                    "id_str":"2426",
-                    "indices":[
-                        "0",
-                        "9"
-                    ],
-                    "name":"Mike Monteiro\ud83c\udf39",
-                    "screen_name":"monteiro"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"@monteiro Thanks MIke! We do everything in-house. Feel free to check out our website for a complete list of exhibits http://t.co/YLo7Bcd0Dl",
-        "id":"540289579270823936",
-        "id_str":"540289579270823936",
-        "in_reply_to_screen_name":"monteiro",
-        "in_reply_to_status_id":"537038164943069185",
-        "in_reply_to_status_id_str":"537038164943069185",
-        "in_reply_to_user_id":"2426",
-        "in_reply_to_user_id_str":"2426",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "url": "http://t.co/YLo7Bcd0Dl"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "2426",
+            "id_str": "2426",
+            "indices": [
+              "0",
+              "9"
+            ],
+            "name": "Mike Monteiro🌹",
+            "screen_name": "monteiro"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@monteiro Thanks MIke! We do everything in-house. Feel free to check out our website for a complete list of exhibits http://t.co/YLo7Bcd0Dl",
+      "id": "540289579270823936",
+      "id_str": "540289579270823936",
+      "in_reply_to_screen_name": "monteiro",
+      "in_reply_to_status_id": "537038164943069185",
+      "in_reply_to_status_id_str": "537038164943069185",
+      "in_reply_to_user_id": "2426",
+      "in_reply_to_user_id_str": "2426",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025722,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729292815,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025722,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729292815,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729292815,
-    "wof:lastmodified":1602634515,
-    "wof:name":"@monteiro Thanks MIke! We do everything in-house. Feel free to check out our website for a complete list of exhibits http://t.co/YLo7Bcd0Dl",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729292815,
+    "wof:lastmodified": 1650064635,
+    "wof:name": "@monteiro Thanks MIke! We do everything in-house. Feel free to check out our website for a complete list of exhibits http://t.co/YLo7Bcd0Dl",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

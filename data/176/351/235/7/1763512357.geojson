@@ -1,0 +1,87 @@
+{
+  "id": 1763512357,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-06-09",
+    "date:cessation_upper": "2021-06-09",
+    "date:inception_lower": "2021-06-09",
+    "date:inception_upper": "2021-06-09",
+    "edtf:cessation": "2021-06-08T17:05:54-07:00",
+    "edtf:inception": "2021-06-08T17:05:54-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1623197154,
+      "created_at": "Wed Jun 09 00:05:54 +0000 2021",
+      "display_text_range": [
+        "0",
+        "228"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "📸:\nAll: 1937 Administration Building, Transfers\n\nArchitectural drawing; 1939\n1999.004.010\n\nRestaurant; 1938\n1997.52.078.003 a c\n\nDrinking Room; 1938\n1997.52.078.008 a b\n\nKitchen; November 16, 1938\n1997.52.078.009\n1997.52.078.005",
+      "id": "1402416628847939586",
+      "id_str": "1402416628847939586",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1402416624544542722",
+      "in_reply_to_status_id_str": "1402416624544542722",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064692,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763512357,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763512357,
+    "wof:lastmodified": 1650064692,
+    "wof:name": "📸:\nAll: 1937 Administration Building, Transfers\n\nArchitectural drawing; 1939\n1999.004.010\n\nRestaurant; 1938\n1997.52.078.003 a c\n\nDrinking Room; 1938\n1997.52.078.008 a b\n\nKitchen; November 16, 1938\n1997.52.078.009\n1997.52.078.005",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

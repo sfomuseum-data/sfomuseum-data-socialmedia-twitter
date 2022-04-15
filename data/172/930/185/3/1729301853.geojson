@@ -2,206 +2,206 @@
   "id": 1729301853,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-11-28",
-    "date:cessation_upper":"2017-11-28",
-    "date:inception_lower":"2017-11-28",
-    "date:inception_upper":"2017-11-28",
-    "edtf:cessation":"2017-11-28T10:02:20-08:00",
-    "edtf:inception":"2017-11-28T10:02:20-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1511892140,
-        "created_at":"Tue Nov 28 18:02:20 +0000 2017",
-        "display_text_range":[
-            "0",
-            "244"
+    "date:cessation_lower": "2017-11-28",
+    "date:cessation_upper": "2017-11-28",
+    "date:inception_lower": "2017-11-28",
+    "date:inception_upper": "2017-11-28",
+    "edtf:cessation": "2017-11-28T10:02:20-08:00",
+    "edtf:inception": "2017-11-28T10:02:20-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1511892140,
+      "created_at": "Tue Nov 28 18:02:20 +0000 2017",
+      "display_text_range": [
+        "0",
+        "244"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BCfKVz9zKV",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/935569563382456321/video/1",
+            "id": "935569484948967425",
+            "id_str": "935569484948967425",
+            "indices": [
+              "221",
+              "244"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/935569484948967425/pu/img/NB-GBJFXIhcrOGIx.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/935569484948967425/pu/img/NB-GBJFXIhcrOGIx.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BCfKVz9zKV"
+          }
         ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/BCfKVz9zKV",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/935569563382456321/video/1",
-                    "id":"935569484948967425",
-                    "id_str":"935569484948967425",
-                    "indices":[
-                        "221",
-                        "244"
-                    ],
-                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/935569484948967425/pu/img/NB-GBJFXIhcrOGIx.jpg",
-                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/935569484948967425/pu/img/NB-GBJFXIhcrOGIx.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"720",
-                            "resize":"fit",
-                            "w":"1280"
-                        },
-                        "medium":{
-                            "h":"675",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"383",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/BCfKVz9zKV"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2Bw9aw0",
+            "expanded_url": "http://bit.ly/2Bw9aw0",
+            "indices": [
+              "197",
+              "220"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/2Bw9aw0",
-                    "expanded_url":"http://bit.ly/2Bw9aw0",
-                    "indices":[
-                        "197",
-                        "220"
-                    ],
-                    "url":"https://t.co/6bWBVrbj5C"
-                }
+            "url": "https://t.co/6bWBVrbj5C"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/BCfKVz9zKV",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/935569563382456321/video/1",
+            "id": "935569484948967425",
+            "id_str": "935569484948967425",
+            "indices": [
+              "221",
+              "244"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/935569484948967425/pu/img/NB-GBJFXIhcrOGIx.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/935569484948967425/pu/img/NB-GBJFXIhcrOGIx.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/BCfKVz9zKV",
+            "video_info": {
+              "aspect_ratio": [
+                "16",
+                "9"
+              ],
+              "duration_millis": "40967",
+              "variants": [
                 {
-                    "additional_media_info":{
-                        "monetizable":false
-                    },
-                    "display_url":"pic.twitter.com/BCfKVz9zKV",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/935569563382456321/video/1",
-                    "id":"935569484948967425",
-                    "id_str":"935569484948967425",
-                    "indices":[
-                        "221",
-                        "244"
-                    ],
-                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/935569484948967425/pu/img/NB-GBJFXIhcrOGIx.jpg",
-                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/935569484948967425/pu/img/NB-GBJFXIhcrOGIx.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"720",
-                            "resize":"fit",
-                            "w":"1280"
-                        },
-                        "medium":{
-                            "h":"675",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"383",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"video",
-                    "url":"https://t.co/BCfKVz9zKV",
-                    "video_info":{
-                        "aspect_ratio":[
-                            "16",
-                            "9"
-                        ],
-                        "duration_millis":"40967",
-                        "variants":[
-                            {
-                                "bitrate":"2176000",
-                                "content_type":"video/mp4",
-                                "url":"https://video.twimg.com/ext_tw_video/935569484948967425/pu/vid/1280x720/WOOkXwGACIKur6Pq.mp4"
-                            },
-                            {
-                                "bitrate":"256000",
-                                "content_type":"video/mp4",
-                                "url":"https://video.twimg.com/ext_tw_video/935569484948967425/pu/vid/320x180/B6cxoXS-2wFrqo8K.mp4"
-                            },
-                            {
-                                "bitrate":"832000",
-                                "content_type":"video/mp4",
-                                "url":"https://video.twimg.com/ext_tw_video/935569484948967425/pu/vid/640x360/vqVAPna3El7-zDJd.mp4"
-                            },
-                            {
-                                "content_type":"application/x-mpegURL",
-                                "url":"https://video.twimg.com/ext_tw_video/935569484948967425/pu/pl/xvNwkyf6hwZzyNLT.m3u8"
-                            }
-                        ]
-                    }
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/935569484948967425/pu/vid/1280x720/WOOkXwGACIKur6Pq.mp4"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/935569484948967425/pu/vid/320x180/B6cxoXS-2wFrqo8K.mp4"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/935569484948967425/pu/vid/640x360/vqVAPna3El7-zDJd.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/935569484948967425/pu/pl/xvNwkyf6hwZzyNLT.m3u8"
                 }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"NOW PLAYING: \u201cTwenty Eight Feet\" by Kevin Fraser. See this documentary about a man living the simple life on a boat, in the Video Arts Gallery, located pre-security, in the International Terminal. https://t.co/6bWBVrbj5C https://t.co/BCfKVz9zKV",
-        "id":"935569563382456321",
-        "id_str":"935569563382456321",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-        "truncated":false
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "NOW PLAYING: “Twenty Eight Feet\" by Kevin Fraser. See this documentary about a man living the simple life on a boat, in the Video Arts Gallery, located pre-security, in the International Terminal. https://t.co/6bWBVrbj5C https://t.co/BCfKVz9zKV",
+      "id": "935569563382456321",
+      "id_str": "935569563382456321",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026061,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729301853,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026061,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729301853,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729301853,
-    "wof:lastmodified":1602634443,
-    "wof:name":"NOW PLAYING: \u201cTwenty Eight Feet\" by Kevin Fraser. See this documentary about a man living the simple life on a boat, in the Video Arts Gallery, located pre-security, in the International Terminal. https://t.co/6bWBVrbj5C https://t.co/BCfKVz9zKV",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729301853,
+    "wof:lastmodified": 1650064640,
+    "wof:name": "NOW PLAYING: “Twenty Eight Feet\" by Kevin Fraser. See this documentary about a man living the simple life on a boat, in the Video Arts Gallery, located pre-security, in the International Terminal. https://t.co/6bWBVrbj5C https://t.co/BCfKVz9zKV",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

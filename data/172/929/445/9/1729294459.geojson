@@ -2,175 +2,175 @@
   "id": 1729294459,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-10-31",
-    "date:cessation_upper":"2015-10-31",
-    "date:inception_lower":"2015-10-31",
-    "date:inception_upper":"2015-10-31",
-    "edtf:cessation":"2015-10-31T19:31:04-07:00",
-    "edtf:inception":"2015-10-31T19:31:04-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1446345064,
-        "created_at":"Sun Nov 01 02:31:04 +0000 2015",
-        "display_text_range":[
-            "0",
-            "132"
+    "date:cessation_lower": "2015-11-01",
+    "date:cessation_upper": "2015-11-01",
+    "date:inception_lower": "2015-11-01",
+    "date:inception_upper": "2015-11-01",
+    "edtf:cessation": "2015-10-31T19:31:04-07:00",
+    "edtf:inception": "2015-10-31T19:31:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1446345064,
+      "created_at": "Sun Nov 01 02:31:04 +0000 2015",
+      "display_text_range": [
+        "0",
+        "132"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9HdB3UuQpp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/660645198058405888/photo/1",
+            "id": "660645197521354752",
+            "id_str": "660645197521354752",
+            "indices": [
+              "109",
+              "132"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CSsVTpDUAAAZyjm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CSsVTpDUAAAZyjm.jpg",
+            "sizes": {
+              "large": {
+                "h": "700",
+                "resize": "fit",
+                "w": "700"
+              },
+              "medium": {
+                "h": "700",
+                "resize": "fit",
+                "w": "700"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9HdB3UuQpp"
+          }
         ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/9HdB3UuQpp",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/660645198058405888/photo/1",
-                    "id":"660645197521354752",
-                    "id_str":"660645197521354752",
-                    "indices":[
-                        "109",
-                        "132"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CSsVTpDUAAAZyjm.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CSsVTpDUAAAZyjm.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"700",
-                            "resize":"fit",
-                            "w":"700"
-                        },
-                        "medium":{
-                            "h":"700",
-                            "resize":"fit",
-                            "w":"700"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/9HdB3UuQpp"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "sfomuseum.tumblr.com/post/132218459…",
+            "expanded_url": "http://sfomuseum.tumblr.com/post/132218459498/friday-november-6-600-pm-in-the-aviation",
+            "indices": [
+              "85",
+              "108"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"sfomuseum.tumblr.com/post/132218459\u2026",
-                    "expanded_url":"http://sfomuseum.tumblr.com/post/132218459498/friday-november-6-600-pm-in-the-aviation",
-                    "indices":[
-                        "85",
-                        "108"
-                    ],
-                    "url":"https://t.co/GRd7XCs84F"
-                }
+            "url": "https://t.co/GRd7XCs84F"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9HdB3UuQpp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/660645198058405888/photo/1",
+            "id": "660645197521354752",
+            "id_str": "660645197521354752",
+            "indices": [
+              "109",
+              "132"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/9HdB3UuQpp",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/660645198058405888/photo/1",
-                    "id":"660645197521354752",
-                    "id_str":"660645197521354752",
-                    "indices":[
-                        "109",
-                        "132"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CSsVTpDUAAAZyjm.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CSsVTpDUAAAZyjm.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"700",
-                            "resize":"fit",
-                            "w":"700"
-                        },
-                        "medium":{
-                            "h":"700",
-                            "resize":"fit",
-                            "w":"700"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/9HdB3UuQpp"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"This Friday, November 6, we are showing Flyboys at SFO Museum! For more information: https://t.co/GRd7XCs84F https://t.co/9HdB3UuQpp",
-        "id":"660645198058405888",
-        "id_str":"660645198058405888",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/CSsVTpDUAAAZyjm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CSsVTpDUAAAZyjm.jpg",
+            "sizes": {
+              "large": {
+                "h": "700",
+                "resize": "fit",
+                "w": "700"
+              },
+              "medium": {
+                "h": "700",
+                "resize": "fit",
+                "w": "700"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9HdB3UuQpp"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "This Friday, November 6, we are showing Flyboys at SFO Museum! For more information: https://t.co/GRd7XCs84F https://t.co/9HdB3UuQpp",
+      "id": "660645198058405888",
+      "id_str": "660645198058405888",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025783,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729294459,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025783,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729294459,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729294459,
-    "wof:lastmodified":1602634643,
-    "wof:name":"This Friday, November 6, we are showing Flyboys at SFO Museum! For more information: https://t.co/GRd7XCs84F https://t.co/9HdB3UuQpp",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729294459,
+    "wof:lastmodified": 1650064636,
+    "wof:name": "This Friday, November 6, we are showing Flyboys at SFO Museum! For more information: https://t.co/GRd7XCs84F https://t.co/9HdB3UuQpp",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,194 +2,194 @@
   "id": 1729298579,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-11-18",
-    "date:cessation_upper":"2016-11-18",
-    "date:inception_lower":"2016-11-18",
-    "date:inception_upper":"2016-11-18",
-    "edtf:cessation":"2016-11-18T18:45:12-08:00",
-    "edtf:inception":"2016-11-18T18:45:12-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1479523512,
-        "created_at":"Sat Nov 19 02:45:12 +0000 2016",
-        "display_text_range":[
-            "0",
-            "164"
+    "date:cessation_lower": "2016-11-19",
+    "date:cessation_upper": "2016-11-19",
+    "date:inception_lower": "2016-11-19",
+    "date:inception_upper": "2016-11-19",
+    "edtf:cessation": "2016-11-18T18:45:12-08:00",
+    "edtf:inception": "2016-11-18T18:45:12-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1479523512,
+      "created_at": "Sat Nov 19 02:45:12 +0000 2016",
+      "display_text_range": [
+        "0",
+        "164"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "13",
+              "20"
+            ],
+            "text": "Qantas"
+          },
+          {
+            "indices": [
+              "28",
+              "37"
+            ],
+            "text": "kangaroo"
+          },
+          {
+            "indices": [
+              "106",
+              "123"
+            ],
+            "text": "YvesSaintLaurent"
+          },
+          {
+            "indices": [
+              "124",
+              "140"
+            ],
+            "text": "FashionInFlight"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "13",
-                        "20"
-                    ],
-                    "text":"Qantas"
-                },
-                {
-                    "indices":[
-                        "28",
-                        "37"
-                    ],
-                    "text":"kangaroo"
-                },
-                {
-                    "indices":[
-                        "106",
-                        "123"
-                    ],
-                    "text":"YvesSaintLaurent"
-                },
-                {
-                    "indices":[
-                        "124",
-                        "140"
-                    ],
-                    "text":"FashionInFlight"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/KtKCDKOvNz",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/799805696187531264/photo/1",
+            "id": "799805692253085696",
+            "id_str": "799805692253085696",
+            "indices": [
+              "141",
+              "164"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/KtKCDKOvNz",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/799805696187531264/photo/1",
-                    "id":"799805692253085696",
-                    "id_str":"799805692253085696",
-                    "indices":[
-                        "141",
-                        "164"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cxl7CiAUoAAYAJ-.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cxl7CiAUoAAYAJ-.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/KtKCDKOvNz"
-                }
+            "media_url": "http://pbs.twimg.com/media/Cxl7CiAUoAAYAJ-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cxl7CiAUoAAYAJ-.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KtKCDKOvNz"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/KtKCDKOvNz",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/799805696187531264/photo/1",
+            "id": "799805692253085696",
+            "id_str": "799805692253085696",
+            "indices": [
+              "141",
+              "164"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/KtKCDKOvNz",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/799805696187531264/photo/1",
-                    "id":"799805692253085696",
-                    "id_str":"799805692253085696",
-                    "indices":[
-                        "141",
-                        "164"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cxl7CiAUoAAYAJ-.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cxl7CiAUoAAYAJ-.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/KtKCDKOvNz"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"The colorful #Qantas flying #kangaroo pattern of the blouse adds a festive air to the uniform designed by #YvesSaintLaurent #FashionInFlight https://t.co/KtKCDKOvNz",
-        "id":"799805696187531264",
-        "id_str":"799805696187531264",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/Cxl7CiAUoAAYAJ-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cxl7CiAUoAAYAJ-.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KtKCDKOvNz"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "The colorful #Qantas flying #kangaroo pattern of the blouse adds a festive air to the uniform designed by #YvesSaintLaurent #FashionInFlight https://t.co/KtKCDKOvNz",
+      "id": "799805696187531264",
+      "id_str": "799805696187531264",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025941,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729298579,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025941,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729298579,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729298579,
-    "wof:lastmodified":1602634522,
-    "wof:name":"The colorful #Qantas flying #kangaroo pattern of the blouse adds a festive air to the uniform designed by #YvesSaintLaurent #FashionInFlight https://t.co/KtKCDKOvNz",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729298579,
+    "wof:lastmodified": 1650064638,
+    "wof:name": "The colorful #Qantas flying #kangaroo pattern of the blouse adds a festive air to the uniform designed by #YvesSaintLaurent #FashionInFlight https://t.co/KtKCDKOvNz",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

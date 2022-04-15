@@ -2,116 +2,116 @@
   "id": 1729309813,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-06-13",
-    "date:cessation_upper":"2012-06-13",
-    "date:inception_lower":"2012-06-13",
-    "date:inception_upper":"2012-06-13",
-    "edtf:cessation":"2012-06-13T11:01:22-07:00",
-    "edtf:inception":"2012-06-13T11:01:22-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1339610482,
-        "created_at":"Wed Jun 13 18:01:22 +0000 2012",
-        "display_text_range":[
-            "0",
-            "137"
+    "date:cessation_lower": "2012-06-13",
+    "date:cessation_upper": "2012-06-13",
+    "date:inception_lower": "2012-06-13",
+    "date:inception_upper": "2012-06-13",
+    "edtf:cessation": "2012-06-13T11:01:22-07:00",
+    "edtf:inception": "2012-06-13T11:01:22-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1339610482,
+      "created_at": "Wed Jun 13 18:01:22 +0000 2012",
+      "display_text_range": [
+        "0",
+        "137"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "126",
+              "137"
+            ],
+            "text": "metalsmith"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "126",
-                        "137"
-                    ],
-                    "text":"metalsmith"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "golubcollection.berkeley.edu/sfo/index.html",
+            "expanded_url": "http://golubcollection.berkeley.edu/sfo/index.html",
+            "indices": [
+              "105",
+              "125"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"golubcollection.berkeley.edu/sfo/index.html",
-                    "expanded_url":"http://golubcollection.berkeley.edu/sfo/index.html",
-                    "indices":[
-                        "105",
-                        "125"
-                    ],
-                    "url":"http://t.co/Kgj8F0HE"
-                }
+            "url": "http://t.co/Kgj8F0HE"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "830893956",
+            "id_str": "830893956",
+            "indices": [
+              "3",
+              "16"
             ],
-            "user_mentions":[
-                {
-                    "id":"830893956",
-                    "id_str":"830893956",
-                    "indices":[
-                        "3",
-                        "16"
-                    ],
-                    "name":"....",
-                    "screen_name":"ferodynamics"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @ferodynamics: SFO microscope exhibit, int'l term, beautiful examples of art and science cooperating. http://t.co/Kgj8F0HE #metalsmith",
-        "id":"212967913685127171",
-        "id_str":"212967913685127171",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "....",
+            "screen_name": "ferodynamics"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @ferodynamics: SFO microscope exhibit, int'l term, beautiful examples of art and science cooperating. http://t.co/Kgj8F0HE #metalsmith",
+      "id": "212967913685127171",
+      "id_str": "212967913685127171",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026369,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729309813,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026369,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729309813,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729309813,
-    "wof:lastmodified":1602634441,
-    "wof:name":"RT @ferodynamics: SFO microscope exhibit, int'l term, beautiful examples of art and science cooperating. http://t.co/Kgj8F0HE #metalsmith",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729309813,
+    "wof:lastmodified": 1650064710,
+    "wof:name": "RT @ferodynamics: SFO microscope exhibit, int'l term, beautiful examples of art and science cooperating. http://t.co/Kgj8F0HE #metalsmith",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

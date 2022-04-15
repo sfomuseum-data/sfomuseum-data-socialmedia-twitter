@@ -1,0 +1,176 @@
+{
+  "id": 1763511277,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-09-30",
+    "date:cessation_upper": "2020-09-30",
+    "date:inception_lower": "2020-09-30",
+    "date:inception_upper": "2020-09-30",
+    "edtf:cessation": "2020-09-30T16:15:04-07:00",
+    "edtf:inception": "2020-09-30T16:15:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1601507704,
+      "created_at": "Wed Sep 30 23:15:04 +0000 2020",
+      "display_text_range": [
+        "0",
+        "296"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "249",
+              "256"
+            ],
+            "text": "avgeek"
+          },
+          {
+            "indices": [
+              "257",
+              "272"
+            ],
+            "text": "MuseumFromHome"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TMGeDgEJfU",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1311444480667660288/photo/1",
+            "id": "1311444478197207040",
+            "id_str": "1311444478197207040",
+            "indices": [
+              "273",
+              "296"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjMvzfmXkAAOcq7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjMvzfmXkAAOcq7.jpg",
+            "sizes": {
+              "large": {
+                "h": "839",
+                "resize": "fit",
+                "w": "1932"
+              },
+              "medium": {
+                "h": "521",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "295",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/TMGeDgEJfU"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TMGeDgEJfU",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1311444480667660288/photo/1",
+            "id": "1311444478197207040",
+            "id_str": "1311444478197207040",
+            "indices": [
+              "273",
+              "296"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjMvzfmXkAAOcq7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjMvzfmXkAAOcq7.jpg",
+            "sizes": {
+              "large": {
+                "h": "839",
+                "resize": "fit",
+                "w": "1932"
+              },
+              "medium": {
+                "h": "521",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "295",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/TMGeDgEJfU"
+          }
+        ]
+      },
+      "favorite_count": "41",
+      "favorited": false,
+      "full_text": "Introduced by Pan American World Airways in 1970, the Boeing 747-100 was the first of a new breed of jetliner, the “wide-body,” which ultimately revolutionized the airline industry. The new wide-body was twice the size of the Boeing 707 shown here. #avgeek #MuseumFromHome https://t.co/TMGeDgEJfU",
+      "id": "1311444480667660288",
+      "id_str": "1311444480667660288",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "10",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064645,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763511277,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763511277,
+    "wof:lastmodified": 1650064645,
+    "wof:name": "Introduced by Pan American World Airways in 1970, the Boeing 747-100 was the first of a new breed of jetliner, the “wide-body,” which ultimately revolutionized the airline industry. The new wide-body was twice the size of the Boeing 707 shown here. #avgeek #MuseumFromHome https://t.co/TMGeDgEJfU",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

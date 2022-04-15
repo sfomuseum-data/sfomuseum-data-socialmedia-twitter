@@ -2,173 +2,173 @@
   "id": 1729299397,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-02-25",
-    "date:cessation_upper":"2017-02-25",
-    "date:inception_lower":"2017-02-25",
-    "date:inception_upper":"2017-02-25",
-    "edtf:cessation":"2017-02-25T11:05:10-08:00",
-    "edtf:inception":"2017-02-25T11:05:10-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1488049510,
-        "created_at":"Sat Feb 25 19:05:10 +0000 2017",
-        "display_text_range":[
-            "0",
-            "168"
+    "date:cessation_lower": "2017-02-25",
+    "date:cessation_upper": "2017-02-25",
+    "date:inception_lower": "2017-02-25",
+    "date:inception_upper": "2017-02-25",
+    "edtf:cessation": "2017-02-25T11:05:10-08:00",
+    "edtf:inception": "2017-02-25T11:05:10-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1488049510,
+      "created_at": "Sat Feb 25 19:05:10 +0000 2017",
+      "display_text_range": [
+        "0",
+        "168"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "42",
+              "53"
+            ],
+            "text": "JamilHellu"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "42",
-                        "53"
-                    ],
-                    "text":"JamilHellu"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/37v0VESLLE",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/835566325728698368/photo/1",
+            "id": "835566321790140416",
+            "id_str": "835566321790140416",
+            "indices": [
+              "145",
+              "168"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/37v0VESLLE",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/835566325728698368/photo/1",
-                    "id":"835566321790140416",
-                    "id_str":"835566321790140416",
-                    "indices":[
-                        "145",
-                        "168"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C5iHJISUwAAMigQ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C5iHJISUwAAMigQ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1600"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"960"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"544"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/37v0VESLLE"
-                }
+            "media_url": "http://pbs.twimg.com/media/C5iHJISUwAAMigQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C5iHJISUwAAMigQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1600"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "544"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/37v0VESLLE"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/37v0VESLLE",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/835566325728698368/photo/1",
+            "id": "835566321790140416",
+            "id_str": "835566321790140416",
+            "indices": [
+              "145",
+              "168"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/37v0VESLLE",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/835566325728698368/photo/1",
-                    "id":"835566321790140416",
-                    "id_str":"835566321790140416",
-                    "indices":[
-                        "145",
-                        "168"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C5iHJISUwAAMigQ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C5iHJISUwAAMigQ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1600"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"960"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"544"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/37v0VESLLE"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"\"Shopping Carts\" presents selections from #JamilHellu\u2019s series compositions formed by organizing objects of similar types, shapes, &amp; colors. https://t.co/37v0VESLLE",
-        "id":"835566325728698368",
-        "id_str":"835566325728698368",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/C5iHJISUwAAMigQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C5iHJISUwAAMigQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1600"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "544"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/37v0VESLLE"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "\"Shopping Carts\" presents selections from #JamilHellu’s series compositions formed by organizing objects of similar types, shapes, \u0026amp; colors. https://t.co/37v0VESLLE",
+      "id": "835566325728698368",
+      "id_str": "835566325728698368",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025971,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299397,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025971,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299397,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299397,
-    "wof:lastmodified":1602634463,
-    "wof:name":"\"Shopping Carts\" presents selections from #JamilHellu\u2019s series compositions formed by organizing objects of similar types, shapes, &amp; colors. https://t.co/37v0VESLLE",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299397,
+    "wof:lastmodified": 1650064639,
+    "wof:name": "\"Shopping Carts\" presents selections from #JamilHellu’s series compositions formed by organizing objects of similar types, shapes, \u0026amp; colors. https://t.co/37v0VESLLE",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

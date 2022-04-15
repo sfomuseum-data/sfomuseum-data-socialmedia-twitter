@@ -2,187 +2,187 @@
   "id": 1729307791,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-01-30",
-    "date:cessation_upper":"2020-01-30",
-    "date:inception_lower":"2020-01-30",
-    "date:inception_upper":"2020-01-30",
-    "edtf:cessation":"2020-01-30T15:10:04-08:00",
-    "edtf:inception":"2020-01-30T15:10:04-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1580425804,
-        "created_at":"Thu Jan 30 23:10:04 +0000 2020",
-        "display_text_range":[
-            "0",
-            "303"
+    "date:cessation_lower": "2020-01-30",
+    "date:cessation_upper": "2020-01-30",
+    "date:inception_lower": "2020-01-30",
+    "date:inception_upper": "2020-01-30",
+    "edtf:cessation": "2020-01-30T15:10:04-08:00",
+    "edtf:inception": "2020-01-30T15:10:04-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1580425804,
+      "created_at": "Thu Jan 30 23:10:04 +0000 2020",
+      "display_text_range": [
+        "0",
+        "303"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "37",
+              "47"
+            ],
+            "text": "onthisday"
+          },
+          {
+            "indices": [
+              "253",
+              "270"
+            ],
+            "text": "HawaiianAirlines"
+          },
+          {
+            "indices": [
+              "272",
+              "279"
+            ],
+            "text": "avgeek"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "37",
-                        "47"
-                    ],
-                    "text":"onthisday"
-                },
-                {
-                    "indices":[
-                        "253",
-                        "270"
-                    ],
-                    "text":"HawaiianAirlines"
-                },
-                {
-                    "indices":[
-                        "272",
-                        "279"
-                    ],
-                    "text":"avgeek"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XUTPLe1x3a",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1223020583673266177/photo/1",
+            "id": "1223020580334686208",
+            "id_str": "1223020580334686208",
+            "indices": [
+              "280",
+              "303"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XUTPLe1x3a",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1223020583673266177/photo/1",
-                    "id":"1223020580334686208",
-                    "id_str":"1223020580334686208",
-                    "indices":[
-                        "280",
-                        "303"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EPkKvOvXUAAOdpn.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EPkKvOvXUAAOdpn.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1344",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"806",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"457",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XUTPLe1x3a"
-                }
+            "media_url": "http://pbs.twimg.com/media/EPkKvOvXUAAOdpn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EPkKvOvXUAAOdpn.jpg",
+            "sizes": {
+              "large": {
+                "h": "1344",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "806",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "457",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XUTPLe1x3a"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XUTPLe1x3a",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1223020583673266177/photo/1",
+            "id": "1223020580334686208",
+            "id_str": "1223020580334686208",
+            "indices": [
+              "280",
+              "303"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XUTPLe1x3a",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1223020583673266177/photo/1",
-                    "id":"1223020580334686208",
-                    "id_str":"1223020580334686208",
-                    "indices":[
-                        "280",
-                        "303"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EPkKvOvXUAAOdpn.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EPkKvOvXUAAOdpn.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1344",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"806",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"457",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XUTPLe1x3a"
-                }
-            ]
-        },
-        "favorite_count":"17",
-        "favorited":false,
-        "full_text":"Incorporated as Inter-Island Airways #onthisday in 1929, Hawaiian Airlines dates to before Hawai\u2019i\u2019s statehood. In 1973, the airline introduced Pualani (Flower of the Sky), who continues to represent the airlines\u2019 brand identity. Have you ever flown on #HawaiianAirlines?\n#avgeek https://t.co/XUTPLe1x3a",
-        "id":"1223020583673266177",
-        "id_str":"1223020583673266177",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/EPkKvOvXUAAOdpn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EPkKvOvXUAAOdpn.jpg",
+            "sizes": {
+              "large": {
+                "h": "1344",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "806",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "457",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XUTPLe1x3a"
+          }
+        ]
+      },
+      "favorite_count": "15",
+      "favorited": false,
+      "full_text": "Incorporated as Inter-Island Airways #onthisday in 1929, Hawaiian Airlines dates to before Hawai’i’s statehood. In 1973, the airline introduced Pualani (Flower of the Sky), who continues to represent the airlines’ brand identity. Have you ever flown on #HawaiianAirlines?\n#avgeek https://t.co/XUTPLe1x3a",
+      "id": "1223020583673266177",
+      "id_str": "1223020583673266177",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026291,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729307791,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026291,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729307791,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729307791,
-    "wof:lastmodified":1602634310,
-    "wof:name":"Incorporated as Inter-Island Airways #onthisday in 1929, Hawaiian Airlines dates to before Hawai\u2019i\u2019s statehood. In 1973, the airline introduced Pualani (Flower of the Sky), who continues to represent the airlines\u2019 brand identity. Have you ever flown on #HawaiianAirlines?\n#avgeek https://t.co/XUTPLe1x3a",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729307791,
+    "wof:lastmodified": 1650064643,
+    "wof:name": "Incorporated as Inter-Island Airways #onthisday in 1929, Hawaiian Airlines dates to before Hawai’i’s statehood. In 1973, the airline introduced Pualani (Flower of the Sky), who continues to represent the airlines’ brand identity. Have you ever flown on #HawaiianAirlines?\n#avgeek https://t.co/XUTPLe1x3a",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

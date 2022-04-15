@@ -2,133 +2,133 @@
   "id": 1729297551,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-08-26",
-    "date:cessation_upper":"2016-08-26",
-    "date:inception_lower":"2016-08-26",
-    "date:inception_upper":"2016-08-26",
-    "edtf:cessation":"2016-08-26T16:11:39-07:00",
-    "edtf:inception":"2016-08-26T16:11:39-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1472253099,
-        "created_at":"Fri Aug 26 23:11:39 +0000 2016",
-        "display_text_range":[
-            "0",
-            "140"
+    "date:cessation_lower": "2016-08-26",
+    "date:cessation_upper": "2016-08-26",
+    "date:inception_lower": "2016-08-26",
+    "date:inception_upper": "2016-08-26",
+    "edtf:cessation": "2016-08-26T16:11:39-07:00",
+    "edtf:inception": "2016-08-26T16:11:39-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1472253099,
+      "created_at": "Fri Aug 26 23:11:39 +0000 2016",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "37",
+              "53"
+            ],
+            "text": "womeninaviation"
+          },
+          {
+            "indices": [
+              "62",
+              "80"
+            ],
+            "text": "WomensEqualityDay"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "37",
-                        "53"
-                    ],
-                    "text":"womeninaviation"
-                },
-                {
-                    "indices":[
-                        "62",
-                        "80"
-                    ],
-                    "text":"WomensEqualityDay"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagram.com/p/BJkp1gMAkLe/",
+            "expanded_url": "https://www.instagram.com/p/BJkp1gMAkLe/",
+            "indices": [
+              "82",
+              "105"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"instagram.com/p/BJkp1gMAkLe/",
-                    "expanded_url":"https://www.instagram.com/p/BJkp1gMAkLe/",
-                    "indices":[
-                        "82",
-                        "105"
-                    ],
-                    "url":"https://t.co/Jp8gw9Wp0u"
-                }
+            "url": "https://t.co/Jp8gw9Wp0u"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "900094306538708992",
+            "id_str": "900094306538708992",
+            "indices": [
+              "3",
+              "17"
             ],
-            "user_mentions":[
-                {
-                    "id":"900094306538708992",
-                    "id_str":"900094306538708992",
-                    "indices":[
-                        "3",
-                        "17"
-                    ],
-                    "name":"Bob Ross",
-                    "screen_name":"TranLibraryNU"
-                },
-                {
-                    "id":"475278265",
-                    "id_str":"475278265",
-                    "indices":[
-                        "106",
-                        "121"
-                    ],
-                    "name":"The Ninety-Nines, Inc.\u00ae",
-                    "screen_name":"TheNinetyNines"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @TranLibraryNU: We're celebrating #womeninaviation on this #WomensEqualityDay: https://t.co/Jp8gw9Wp0u @TheNinetyNines https://t.co/i3Ps\u2026",
-        "id":"769311372949778432",
-        "id_str":"769311372949778432",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "Bob Ross",
+            "screen_name": "TranLibraryNU"
+          },
+          {
+            "id": "475278265",
+            "id_str": "475278265",
+            "indices": [
+              "106",
+              "121"
+            ],
+            "name": "The Ninety-Nines, Inc.®",
+            "screen_name": "TheNinetyNines"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @TranLibraryNU: We're celebrating #womeninaviation on this #WomensEqualityDay: https://t.co/Jp8gw9Wp0u @TheNinetyNines https://t.co/i3Ps…",
+      "id": "769311372949778432",
+      "id_str": "769311372949778432",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025903,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729297551,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025903,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729297551,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729297551,
-    "wof:lastmodified":1602634451,
-    "wof:name":"RT @TranLibraryNU: We're celebrating #womeninaviation on this #WomensEqualityDay: https://t.co/Jp8gw9Wp0u @TheNinetyNines https://t.co/i3Ps\u2026",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729297551,
+    "wof:lastmodified": 1650064638,
+    "wof:name": "RT @TranLibraryNU: We're celebrating #womeninaviation on this #WomensEqualityDay: https://t.co/Jp8gw9Wp0u @TheNinetyNines https://t.co/i3Ps…",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,262 +2,262 @@
   "id": 1729308733,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-08-13",
-    "date:cessation_upper":"2020-08-13",
-    "date:inception_lower":"2020-08-13",
-    "date:inception_upper":"2020-08-13",
-    "edtf:cessation":"2020-08-13T17:10:07-07:00",
-    "edtf:inception":"2020-08-13T17:10:07-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1597363807,
-        "created_at":"Fri Aug 14 00:10:07 +0000 2020",
-        "display_text_range":[
-            "0",
-            "276"
+    "date:cessation_lower": "2020-08-14",
+    "date:cessation_upper": "2020-08-14",
+    "date:inception_lower": "2020-08-14",
+    "date:inception_upper": "2020-08-14",
+    "edtf:cessation": "2020-08-13T17:10:07-07:00",
+    "edtf:inception": "2020-08-13T17:10:07-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1597363807,
+      "created_at": "Fri Aug 14 00:10:07 +0000 2020",
+      "display_text_range": [
+        "0",
+        "276"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "13",
+              "22"
+            ],
+            "text": "SFOMat40"
+          },
+          {
+            "indices": [
+              "244",
+              "252"
+            ],
+            "text": "TBTSFOM"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "13",
-                        "22"
-                    ],
-                    "text":"SFOMat40"
-                },
-                {
-                    "indices":[
-                        "244",
-                        "252"
-                    ],
-                    "text":"TBTSFOM"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cgYGuBs9pY",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1294063716288192514/photo/1",
+            "id": "1294063632070844416",
+            "id_str": "1294063632070844416",
+            "indices": [
+              "253",
+              "276"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/cgYGuBs9pY",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1294063716288192514/photo/1",
-                    "id":"1294063632070844416",
-                    "id_str":"1294063632070844416",
-                    "indices":[
-                        "253",
-                        "276"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EfVwBGJVoAAnd49.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EfVwBGJVoAAnd49.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1333"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"453"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/cgYGuBs9pY"
-                }
+            "media_url": "http://pbs.twimg.com/media/EfVwBGJVoAAnd49.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EfVwBGJVoAAnd49.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/cgYGuBs9pY"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/3fr7xmk",
+            "expanded_url": "https://bit.ly/3fr7xmk",
+            "indices": [
+              "220",
+              "243"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/3fr7xmk",
-                    "expanded_url":"https://bit.ly/3fr7xmk",
-                    "indices":[
-                        "220",
-                        "243"
-                    ],
-                    "url":"https://t.co/c0KxjOsHb6"
-                }
+            "url": "https://t.co/c0KxjOsHb6"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cgYGuBs9pY",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1294063716288192514/photo/1",
+            "id": "1294063632070844416",
+            "id_str": "1294063632070844416",
+            "indices": [
+              "253",
+              "276"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/cgYGuBs9pY",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1294063716288192514/photo/1",
-                    "id":"1294063632070844416",
-                    "id_str":"1294063632070844416",
-                    "indices":[
-                        "253",
-                        "276"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EfVwBGJVoAAnd49.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EfVwBGJVoAAnd49.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1333"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"453"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/cgYGuBs9pY"
-                },
-                {
-                    "display_url":"pic.twitter.com/cgYGuBs9pY",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1294063716288192514/photo/1",
-                    "id":"1294063642409754624",
-                    "id_str":"1294063642409754624",
-                    "indices":[
-                        "253",
-                        "276"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EfVwBsqU4AA0UuI.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EfVwBsqU4AA0UuI.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/cgYGuBs9pY"
-                },
-                {
-                    "display_url":"pic.twitter.com/cgYGuBs9pY",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1294063716288192514/photo/1",
-                    "id":"1294063664102662144",
-                    "id_str":"1294063664102662144",
-                    "indices":[
-                        "253",
-                        "276"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EfVwC9eUYAAtMie.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EfVwC9eUYAAtMie.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/cgYGuBs9pY"
-                }
-            ]
-        },
-        "favorite_count":"6",
-        "favorited":false,
-        "full_text":"This week on #SFOMat40: In 2012, we presented \u201cThreading the Needle: Sewing in the Machine Age\u201d which featured the development of the domestic sewing machine from the 1850s to the 1970s. Do you remember this exhibition? https://t.co/c0KxjOsHb6 #TBTSFOM https://t.co/cgYGuBs9pY",
-        "id":"1294063716288192514",
-        "id_str":"1294063716288192514",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/EfVwBGJVoAAnd49.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EfVwBGJVoAAnd49.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/cgYGuBs9pY"
+          },
+          {
+            "display_url": "pic.twitter.com/cgYGuBs9pY",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1294063716288192514/photo/1",
+            "id": "1294063642409754624",
+            "id_str": "1294063642409754624",
+            "indices": [
+              "253",
+              "276"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EfVwBsqU4AA0UuI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EfVwBsqU4AA0UuI.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/cgYGuBs9pY"
+          },
+          {
+            "display_url": "pic.twitter.com/cgYGuBs9pY",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1294063716288192514/photo/1",
+            "id": "1294063664102662144",
+            "id_str": "1294063664102662144",
+            "indices": [
+              "253",
+              "276"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EfVwC9eUYAAtMie.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EfVwC9eUYAAtMie.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/cgYGuBs9pY"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "This week on #SFOMat40: In 2012, we presented “Threading the Needle: Sewing in the Machine Age” which featured the development of the domestic sewing machine from the 1850s to the 1970s. Do you remember this exhibition? https://t.co/c0KxjOsHb6 #TBTSFOM https://t.co/cgYGuBs9pY",
+      "id": "1294063716288192514",
+      "id_str": "1294063716288192514",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026326,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729308733,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026326,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729308733,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729308733,
-    "wof:lastmodified":1602634232,
-    "wof:name":"This week on #SFOMat40: In 2012, we presented \u201cThreading the Needle: Sewing in the Machine Age\u201d which featured the development of the domestic sewing machine from the 1850s to the 1970s. Do you remember this exhibition? https://t.co/c0KxjOsHb6 #TBTSFOM https://t.co/cgYGuBs9pY",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729308733,
+    "wof:lastmodified": 1650064644,
+    "wof:name": "This week on #SFOMat40: In 2012, we presented “Threading the Needle: Sewing in the Machine Age” which featured the development of the domestic sewing machine from the 1850s to the 1970s. Do you remember this exhibition? https://t.co/c0KxjOsHb6 #TBTSFOM https://t.co/cgYGuBs9pY",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

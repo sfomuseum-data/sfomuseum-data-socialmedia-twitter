@@ -2,192 +2,192 @@
   "id": 1729296987,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-07-15",
-    "date:cessation_upper":"2016-07-15",
-    "date:inception_lower":"2016-07-15",
-    "date:inception_upper":"2016-07-15",
-    "edtf:cessation":"2016-07-15T14:14:08-07:00",
-    "edtf:inception":"2016-07-15T14:14:08-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1468617248,
-        "created_at":"Fri Jul 15 21:14:08 +0000 2016",
-        "display_text_range":[
-            "0",
-            "86"
+    "date:cessation_lower": "2016-07-15",
+    "date:cessation_upper": "2016-07-15",
+    "date:inception_lower": "2016-07-15",
+    "date:inception_upper": "2016-07-15",
+    "edtf:cessation": "2016-07-15T14:14:08-07:00",
+    "edtf:inception": "2016-07-15T14:14:08-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1468617248,
+      "created_at": "Fri Jul 15 21:14:08 +0000 2016",
+      "display_text_range": [
+        "0",
+        "86"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "52",
+              "62"
+            ],
+            "text": "Boeing100"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "52",
-                        "62"
-                    ],
-                    "text":"Boeing100"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TMTQJGetrR",
+            "expanded_url": "https://twitter.com/AirlineReporter/status/754060506705428480/photo/1",
+            "id": "754060386358276096",
+            "id_str": "754060386358276096",
+            "indices": [
+              "63",
+              "86"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/TMTQJGetrR",
-                    "expanded_url":"https://twitter.com/AirlineReporter/status/754060506705428480/photo/1",
-                    "id":"754060386358276096",
-                    "id_str":"754060386358276096",
-                    "indices":[
-                        "63",
-                        "86"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cnb17RwUMAAyAQ8.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cnb17RwUMAAyAQ8.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1536",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"900",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"510",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"754060506705428480",
-                    "source_status_id_str":"754060506705428480",
-                    "source_user_id":"40113236",
-                    "source_user_id_str":"40113236",
-                    "type":"photo",
-                    "url":"https://t.co/TMTQJGetrR"
-                }
+            "media_url": "http://pbs.twimg.com/media/Cnb17RwUMAAyAQ8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cnb17RwUMAAyAQ8.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "754060506705428480",
+            "source_status_id_str": "754060506705428480",
+            "source_user_id": "40113236",
+            "source_user_id_str": "40113236",
+            "type": "photo",
+            "url": "https://t.co/TMTQJGetrR"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "40113236",
+            "id_str": "40113236",
+            "indices": [
+              "3",
+              "19"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"40113236",
-                    "id_str":"40113236",
-                    "indices":[
-                        "3",
-                        "19"
-                    ],
-                    "name":"Airline Reporter",
-                    "screen_name":"AirlineReporter"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/TMTQJGetrR",
-                    "expanded_url":"https://twitter.com/AirlineReporter/status/754060506705428480/photo/1",
-                    "id":"754060386358276096",
-                    "id_str":"754060386358276096",
-                    "indices":[
-                        "63",
-                        "86"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cnb17RwUMAAyAQ8.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cnb17RwUMAAyAQ8.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1536",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"900",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"510",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"754060506705428480",
-                    "source_status_id_str":"754060506705428480",
-                    "source_user_id":"40113236",
-                    "source_user_id_str":"40113236",
-                    "type":"photo",
-                    "url":"https://t.co/TMTQJGetrR"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @AirlineReporter: Here is the 757, 767, and 777. #Boeing100 https://t.co/TMTQJGetrR",
-        "id":"754061511841112064",
-        "id_str":"754061511841112064",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated":false
+            "name": "Airline Reporter",
+            "screen_name": "AirlineReporter"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TMTQJGetrR",
+            "expanded_url": "https://twitter.com/AirlineReporter/status/754060506705428480/photo/1",
+            "id": "754060386358276096",
+            "id_str": "754060386358276096",
+            "indices": [
+              "63",
+              "86"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cnb17RwUMAAyAQ8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cnb17RwUMAAyAQ8.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "754060506705428480",
+            "source_status_id_str": "754060506705428480",
+            "source_user_id": "40113236",
+            "source_user_id_str": "40113236",
+            "type": "photo",
+            "url": "https://t.co/TMTQJGetrR"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @AirlineReporter: Here is the 757, 767, and 777. #Boeing100 https://t.co/TMTQJGetrR",
+      "id": "754061511841112064",
+      "id_str": "754061511841112064",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025879,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729296987,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025879,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729296987,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729296987,
-    "wof:lastmodified":1602634664,
-    "wof:name":"RT @AirlineReporter: Here is the 757, 767, and 777. #Boeing100 https://t.co/TMTQJGetrR",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729296987,
+    "wof:lastmodified": 1650064638,
+    "wof:name": "RT @AirlineReporter: Here is the 757, 767, and 777. #Boeing100 https://t.co/TMTQJGetrR",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

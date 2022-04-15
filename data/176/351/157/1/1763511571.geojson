@@ -1,0 +1,179 @@
+{
+  "id": 1763511571,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-01-25",
+    "date:cessation_upper": "2021-01-25",
+    "date:inception_lower": "2021-01-25",
+    "date:inception_upper": "2021-01-25",
+    "edtf:cessation": "2021-01-25T13:24:00-08:00",
+    "edtf:inception": "2021-01-25T13:24:00-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1611609840,
+      "created_at": "Mon Jan 25 21:24:00 +0000 2021",
+      "display_text_range": [
+        "0",
+        "241"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "30",
+              "36"
+            ],
+            "text": "Zuber"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/6gZigDWxAO",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1353815909698301952/photo/1",
+            "id": "1353809198627209217",
+            "id_str": "1353809198627209217",
+            "indices": [
+              "218",
+              "241"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EsmySxnUwAEDwJS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EsmySxnUwAEDwJS.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1080"
+              },
+              "medium": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1080"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/6gZigDWxAO"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "sfomuseum.org/exhibitions/zu…",
+            "expanded_url": "https://www.sfomuseum.org/exhibitions/zuber-scenic-wallpaper/detail#5",
+            "indices": [
+              "78",
+              "101"
+            ],
+            "url": "https://t.co/Ae6baT1m60"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/6gZigDWxAO",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1353815909698301952/photo/1",
+            "id": "1353809198627209217",
+            "id_str": "1353809198627209217",
+            "indices": [
+              "218",
+              "241"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EsmySxnUwAEDwJS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EsmySxnUwAEDwJS.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1080"
+              },
+              "medium": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1080"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/6gZigDWxAO"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Read on our website about how #Zuber et Cie creates their spectacular papers: https://t.co/Ae6baT1m60 \n\nPassengers can view this exhibition pre-security in the International Terminal Main Hall through Sunday, Jan. 31. https://t.co/6gZigDWxAO",
+      "id": "1353815909698301952",
+      "id_str": "1353815909698301952",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064657,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763511571,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763511571,
+    "wof:lastmodified": 1650064657,
+    "wof:name": "Read on our website about how #Zuber et Cie creates their spectacular papers: https://t.co/Ae6baT1m60 \n\nPassengers can view this exhibition pre-security in the International Terminal Main Hall through Sunday, Jan. 31. https://t.co/6gZigDWxAO",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

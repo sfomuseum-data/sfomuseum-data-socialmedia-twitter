@@ -2,180 +2,180 @@
   "id": 1729308283,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-04-15",
-    "date:cessation_upper":"2020-04-15",
-    "date:inception_lower":"2020-04-15",
-    "date:inception_upper":"2020-04-15",
-    "edtf:cessation":"2020-04-15T19:55:26-07:00",
-    "edtf:inception":"2020-04-15T19:55:26-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1587005726,
-        "created_at":"Thu Apr 16 02:55:26 +0000 2020",
-        "display_text_range":[
-            "0",
-            "304"
+    "date:cessation_lower": "2020-04-16",
+    "date:cessation_upper": "2020-04-16",
+    "date:inception_lower": "2020-04-16",
+    "date:inception_upper": "2020-04-16",
+    "edtf:cessation": "2020-04-15T19:55:26-07:00",
+    "edtf:inception": "2020-04-15T19:55:26-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1587005726,
+      "created_at": "Thu Apr 16 02:55:26 +0000 2020",
+      "display_text_range": [
+        "0",
+        "304"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "250",
+              "256"
+            ],
+            "text": "PanAm"
+          },
+          {
+            "indices": [
+              "265",
+              "280"
+            ],
+            "text": "MuseumFromHome"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "250",
-                        "256"
-                    ],
-                    "text":"PanAm"
-                },
-                {
-                    "indices":[
-                        "265",
-                        "280"
-                    ],
-                    "text":"MuseumFromHome"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/NFSskZ3Rfe",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1250618779031273473/photo/1",
+            "id": "1250618774727929858",
+            "id_str": "1250618774727929858",
+            "indices": [
+              "281",
+              "304"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/NFSskZ3Rfe",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1250618779031273473/photo/1",
-                    "id":"1250618774727929858",
-                    "id_str":"1250618774727929858",
-                    "indices":[
-                        "281",
-                        "304"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EVsXJkkXsAI85x7.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EVsXJkkXsAI85x7.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1973",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"1184",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"671",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/NFSskZ3Rfe"
-                }
+            "media_url": "http://pbs.twimg.com/media/EVsXJkkXsAI85x7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EVsXJkkXsAI85x7.jpg",
+            "sizes": {
+              "large": {
+                "h": "1973",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1184",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "671",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/NFSskZ3Rfe"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/NFSskZ3Rfe",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1250618779031273473/photo/1",
+            "id": "1250618774727929858",
+            "id_str": "1250618774727929858",
+            "indices": [
+              "281",
+              "304"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/NFSskZ3Rfe",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1250618779031273473/photo/1",
-                    "id":"1250618774727929858",
-                    "id_str":"1250618774727929858",
-                    "indices":[
-                        "281",
-                        "304"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EVsXJkkXsAI85x7.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EVsXJkkXsAI85x7.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1973",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"1184",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"671",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/NFSskZ3Rfe"
-                }
-            ]
-        },
-        "favorite_count":"135",
-        "favorited":false,
-        "full_text":"Dubbed \u201cThe Uniform for the Superjet Era,\u201d this 1971 Pan American uniform was designed by Frank Smith who said it was meant to be a \u201cfunctional and fashionable wardrobe that could be worn in all seasons, and of such quality that it would enhance the #PanAm image.\u201d #MuseumFromHome https://t.co/NFSskZ3Rfe",
-        "id":"1250618779031273473",
-        "id_str":"1250618779031273473",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"30",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/EVsXJkkXsAI85x7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EVsXJkkXsAI85x7.jpg",
+            "sizes": {
+              "large": {
+                "h": "1973",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1184",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "671",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/NFSskZ3Rfe"
+          }
+        ]
+      },
+      "favorite_count": "134",
+      "favorited": false,
+      "full_text": "Dubbed “The Uniform for the Superjet Era,” this 1971 Pan American uniform was designed by Frank Smith who said it was meant to be a “functional and fashionable wardrobe that could be worn in all seasons, and of such quality that it would enhance the #PanAm image.” #MuseumFromHome https://t.co/NFSskZ3Rfe",
+      "id": "1250618779031273473",
+      "id_str": "1250618779031273473",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "29",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026310,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729308283,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026310,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729308283,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729308283,
-    "wof:lastmodified":1602634235,
-    "wof:name":"Dubbed \u201cThe Uniform for the Superjet Era,\u201d this 1971 Pan American uniform was designed by Frank Smith who said it was meant to be a \u201cfunctional and fashionable wardrobe that could be worn in all seasons, and of such quality that it would enhance the #PanAm image.\u201d #MuseumFromHome https://t.co/NFSskZ3Rfe",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729308283,
+    "wof:lastmodified": 1650064644,
+    "wof:name": "Dubbed “The Uniform for the Superjet Era,” this 1971 Pan American uniform was designed by Frank Smith who said it was meant to be a “functional and fashionable wardrobe that could be worn in all seasons, and of such quality that it would enhance the #PanAm image.” #MuseumFromHome https://t.co/NFSskZ3Rfe",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

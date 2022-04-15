@@ -2,218 +2,218 @@
   "id": 1729303331,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-06-05",
-    "date:cessation_upper":"2018-06-05",
-    "date:inception_lower":"2018-06-05",
-    "date:inception_upper":"2018-06-05",
-    "edtf:cessation":"2018-06-05T18:20:04-07:00",
-    "edtf:inception":"2018-06-05T18:20:04-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1528248004,
-        "created_at":"Wed Jun 06 01:20:04 +0000 2018",
-        "display_text_range":[
-            "0",
-            "216"
+    "date:cessation_lower": "2018-06-06",
+    "date:cessation_upper": "2018-06-06",
+    "date:inception_lower": "2018-06-06",
+    "date:inception_upper": "2018-06-06",
+    "edtf:cessation": "2018-06-05T18:20:04-07:00",
+    "edtf:inception": "2018-06-05T18:20:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1528248004,
+      "created_at": "Wed Jun 06 01:20:04 +0000 2018",
+      "display_text_range": [
+        "0",
+        "216"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "123",
+              "130"
+            ],
+            "text": "Locals"
+          },
+          {
+            "indices": [
+              "136",
+              "141"
+            ],
+            "text": "Hugh"
+          },
+          {
+            "indices": [
+              "150",
+              "164"
+            ],
+            "text": "skateboarding"
+          },
+          {
+            "indices": [
+              "165",
+              "173"
+            ],
+            "text": "skating"
+          },
+          {
+            "indices": [
+              "174",
+              "185"
+            ],
+            "text": "skateboard"
+          },
+          {
+            "indices": [
+              "186",
+              "192"
+            ],
+            "text": "skate"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "123",
-                        "130"
-                    ],
-                    "text":"Locals"
-                },
-                {
-                    "indices":[
-                        "136",
-                        "141"
-                    ],
-                    "text":"Hugh"
-                },
-                {
-                    "indices":[
-                        "150",
-                        "164"
-                    ],
-                    "text":"skateboarding"
-                },
-                {
-                    "indices":[
-                        "165",
-                        "173"
-                    ],
-                    "text":"skating"
-                },
-                {
-                    "indices":[
-                        "174",
-                        "185"
-                    ],
-                    "text":"skateboard"
-                },
-                {
-                    "indices":[
-                        "186",
-                        "192"
-                    ],
-                    "text":"skate"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/qTMwgZ9A2k",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1004171030070550533/photo/1",
+            "id": "1004171028145344518",
+            "id_str": "1004171028145344518",
+            "indices": [
+              "193",
+              "216"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/qTMwgZ9A2k",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1004171030070550533/photo/1",
-                    "id":"1004171028145344518",
-                    "id_str":"1004171028145344518",
-                    "indices":[
-                        "193",
-                        "216"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/De-IOtJXkAYOIxd.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/De-IOtJXkAYOIxd.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"810",
-                            "resize":"fit",
-                            "w":"1202"
-                        },
-                        "medium":{
-                            "h":"809",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"458",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/qTMwgZ9A2k"
-                }
+            "media_url": "http://pbs.twimg.com/media/De-IOtJXkAYOIxd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/De-IOtJXkAYOIxd.jpg",
+            "sizes": {
+              "large": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1202"
+              },
+              "medium": {
+                "h": "809",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "458",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/qTMwgZ9A2k"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2prnrWH",
+            "expanded_url": "http://bit.ly/2prnrWH",
+            "indices": [
+              "99",
+              "122"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/2prnrWH",
-                    "expanded_url":"http://bit.ly/2prnrWH",
-                    "indices":[
-                        "99",
-                        "122"
-                    ],
-                    "url":"https://t.co/GdLVjc5It8"
-                }
+            "url": "https://t.co/GdLVjc5It8"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/qTMwgZ9A2k",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1004171030070550533/photo/1",
+            "id": "1004171028145344518",
+            "id_str": "1004171028145344518",
+            "indices": [
+              "193",
+              "216"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/qTMwgZ9A2k",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1004171030070550533/photo/1",
-                    "id":"1004171028145344518",
-                    "id_str":"1004171028145344518",
-                    "indices":[
-                        "193",
-                        "216"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/De-IOtJXkAYOIxd.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/De-IOtJXkAYOIxd.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"810",
-                            "resize":"fit",
-                            "w":"1202"
-                        },
-                        "medium":{
-                            "h":"809",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"458",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/qTMwgZ9A2k"
-                }
-            ]
-        },
-        "favorite_count":"3",
-        "favorited":false,
-        "full_text":"See \"Locals Only\" by Hugh Holland on display, pre-security, on the departures level of Terminal 3. https://t.co/GdLVjc5It8 #Locals Only #Hugh Holland #skateboarding #skating #skateboard #skate https://t.co/qTMwgZ9A2k",
-        "id":"1004171030070550533",
-        "id_str":"1004171030070550533",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/De-IOtJXkAYOIxd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/De-IOtJXkAYOIxd.jpg",
+            "sizes": {
+              "large": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1202"
+              },
+              "medium": {
+                "h": "809",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "458",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/qTMwgZ9A2k"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "See \"Locals Only\" by Hugh Holland on display, pre-security, on the departures level of Terminal 3. https://t.co/GdLVjc5It8 #Locals Only #Hugh Holland #skateboarding #skating #skateboard #skate https://t.co/qTMwgZ9A2k",
+      "id": "1004171030070550533",
+      "id_str": "1004171030070550533",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026120,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729303331,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026120,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729303331,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729303331,
-    "wof:lastmodified":1602634340,
-    "wof:name":"See \"Locals Only\" by Hugh Holland on display, pre-security, on the departures level of Terminal 3. https://t.co/GdLVjc5It8 #Locals Only #Hugh Holland #skateboarding #skating #skateboard #skate https://t.co/qTMwgZ9A2k",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729303331,
+    "wof:lastmodified": 1650064641,
+    "wof:name": "See \"Locals Only\" by Hugh Holland on display, pre-security, on the departures level of Terminal 3. https://t.co/GdLVjc5It8 #Locals Only #Hugh Holland #skateboarding #skating #skateboard #skate https://t.co/qTMwgZ9A2k",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

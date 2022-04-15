@@ -2,216 +2,216 @@
   "id": 1729296943,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-07-14",
-    "date:cessation_upper":"2016-07-14",
-    "date:inception_lower":"2016-07-14",
-    "date:inception_upper":"2016-07-14",
-    "edtf:cessation":"2016-07-14T10:00:08-07:00",
-    "edtf:inception":"2016-07-14T10:00:08-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1468515608,
-        "created_at":"Thu Jul 14 17:00:08 +0000 2016",
-        "display_text_range":[
-            "0",
-            "136"
+    "date:cessation_lower": "2016-07-14",
+    "date:cessation_upper": "2016-07-14",
+    "date:inception_lower": "2016-07-14",
+    "date:inception_upper": "2016-07-14",
+    "edtf:cessation": "2016-07-14T10:00:08-07:00",
+    "edtf:inception": "2016-07-14T10:00:08-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1468515608,
+      "created_at": "Thu Jul 14 17:00:08 +0000 2016",
+      "display_text_range": [
+        "0",
+        "136"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "88",
+              "95"
+            ],
+            "text": "avgeek"
+          },
+          {
+            "indices": [
+              "96",
+              "105"
+            ],
+            "text": "aviation"
+          },
+          {
+            "indices": [
+              "106",
+              "112"
+            ],
+            "text": "FIA16"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "88",
-                        "95"
-                    ],
-                    "text":"avgeek"
-                },
-                {
-                    "indices":[
-                        "96",
-                        "105"
-                    ],
-                    "text":"aviation"
-                },
-                {
-                    "indices":[
-                        "106",
-                        "112"
-                    ],
-                    "text":"FIA16"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/aMGVwnLZL2",
+            "expanded_url": "https://twitter.com/CNNTravel/status/753565176394289152/photo/1",
+            "id": "753565092806025220",
+            "id_str": "753565092806025220",
+            "indices": [
+              "113",
+              "136"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/aMGVwnLZL2",
-                    "expanded_url":"https://twitter.com/CNNTravel/status/753565176394289152/photo/1",
-                    "id":"753565092806025220",
-                    "id_str":"753565092806025220",
-                    "indices":[
-                        "113",
-                        "136"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CnUzdZfWYAQG0Qx.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CnUzdZfWYAQG0Qx.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"438",
-                            "resize":"fit",
-                            "w":"780"
-                        },
-                        "medium":{
-                            "h":"438",
-                            "resize":"fit",
-                            "w":"780"
-                        },
-                        "small":{
-                            "h":"382",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"753565176394289152",
-                    "source_status_id_str":"753565176394289152",
-                    "source_user_id":"174377718",
-                    "source_user_id_str":"174377718",
-                    "type":"photo",
-                    "url":"https://t.co/aMGVwnLZL2"
-                }
+            "media_url": "http://pbs.twimg.com/media/CnUzdZfWYAQG0Qx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnUzdZfWYAQG0Qx.jpg",
+            "sizes": {
+              "large": {
+                "h": "438",
+                "resize": "fit",
+                "w": "780"
+              },
+              "medium": {
+                "h": "438",
+                "resize": "fit",
+                "w": "780"
+              },
+              "small": {
+                "h": "382",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "753565176394289152",
+            "source_status_id_str": "753565176394289152",
+            "source_user_id": "174377718",
+            "source_user_id_str": "174377718",
+            "type": "photo",
+            "url": "https://t.co/aMGVwnLZL2"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "cnn.it/29S1Sqp",
+            "expanded_url": "http://cnn.it/29S1Sqp",
+            "indices": [
+              "64",
+              "87"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"cnn.it/29S1Sqp",
-                    "expanded_url":"http://cnn.it/29S1Sqp",
-                    "indices":[
-                        "64",
-                        "87"
-                    ],
-                    "url":"https://t.co/YTaH18QVEy"
-                }
+            "url": "https://t.co/YTaH18QVEy"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "174377718",
+            "id_str": "174377718",
+            "indices": [
+              "3",
+              "13"
             ],
-            "user_mentions":[
-                {
-                    "id":"174377718",
-                    "id_str":"174377718",
-                    "indices":[
-                        "3",
-                        "13"
-                    ],
-                    "name":"CNN Travel",
-                    "screen_name":"CNNTravel"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/aMGVwnLZL2",
-                    "expanded_url":"https://twitter.com/CNNTravel/status/753565176394289152/photo/1",
-                    "id":"753565092806025220",
-                    "id_str":"753565092806025220",
-                    "indices":[
-                        "113",
-                        "136"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CnUzdZfWYAQG0Qx.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CnUzdZfWYAQG0Qx.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"438",
-                            "resize":"fit",
-                            "w":"780"
-                        },
-                        "medium":{
-                            "h":"438",
-                            "resize":"fit",
-                            "w":"780"
-                        },
-                        "small":{
-                            "h":"382",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"753565176394289152",
-                    "source_status_id_str":"753565176394289152",
-                    "source_user_id":"174377718",
-                    "source_user_id_str":"174377718",
-                    "type":"photo",
-                    "url":"https://t.co/aMGVwnLZL2"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @CNNTravel: 5 'wow' moments at the world\u2019s greatest airshow: https://t.co/YTaH18QVEy #avgeek #aviation #FIA16 https://t.co/aMGVwnLZL2",
-        "id":"753635201260068864",
-        "id_str":"753635201260068864",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "CNN Travel",
+            "screen_name": "CNNTravel"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/aMGVwnLZL2",
+            "expanded_url": "https://twitter.com/CNNTravel/status/753565176394289152/photo/1",
+            "id": "753565092806025220",
+            "id_str": "753565092806025220",
+            "indices": [
+              "113",
+              "136"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnUzdZfWYAQG0Qx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnUzdZfWYAQG0Qx.jpg",
+            "sizes": {
+              "large": {
+                "h": "438",
+                "resize": "fit",
+                "w": "780"
+              },
+              "medium": {
+                "h": "438",
+                "resize": "fit",
+                "w": "780"
+              },
+              "small": {
+                "h": "382",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "753565176394289152",
+            "source_status_id_str": "753565176394289152",
+            "source_user_id": "174377718",
+            "source_user_id_str": "174377718",
+            "type": "photo",
+            "url": "https://t.co/aMGVwnLZL2"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @CNNTravel: 5 'wow' moments at the world’s greatest airshow: https://t.co/YTaH18QVEy #avgeek #aviation #FIA16 https://t.co/aMGVwnLZL2",
+      "id": "753635201260068864",
+      "id_str": "753635201260068864",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025878,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729296943,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025878,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729296943,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729296943,
-    "wof:lastmodified":1602634531,
-    "wof:name":"RT @CNNTravel: 5 'wow' moments at the world\u2019s greatest airshow: https://t.co/YTaH18QVEy #avgeek #aviation #FIA16 https://t.co/aMGVwnLZL2",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729296943,
+    "wof:lastmodified": 1650064637,
+    "wof:name": "RT @CNNTravel: 5 'wow' moments at the world’s greatest airshow: https://t.co/YTaH18QVEy #avgeek #aviation #FIA16 https://t.co/aMGVwnLZL2",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

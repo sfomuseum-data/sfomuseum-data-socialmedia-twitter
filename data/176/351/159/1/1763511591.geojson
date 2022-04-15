@@ -1,0 +1,212 @@
+{
+  "id": 1763511591,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-01-20",
+    "date:cessation_upper": "2021-01-20",
+    "date:inception_lower": "2021-01-20",
+    "date:inception_upper": "2021-01-20",
+    "edtf:cessation": "2021-01-20T15:50:00-08:00",
+    "edtf:inception": "2021-01-20T15:50:00-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1611186600,
+      "created_at": "Wed Jan 20 23:50:00 +0000 2021",
+      "display_text_range": [
+        "0",
+        "304"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "258",
+              "272"
+            ],
+            "text": "WingWednesday"
+          },
+          {
+            "indices": [
+              "273",
+              "280"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/5jK8h5oHS7",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1352040712649392134/photo/1",
+            "id": "1351986854157926400",
+            "id_str": "1351986854157926400",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EsM44XcUwAA9PfU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EsM44XcUwAA9PfU.jpg",
+            "sizes": {
+              "large": {
+                "h": "997",
+                "resize": "fit",
+                "w": "1665"
+              },
+              "medium": {
+                "h": "719",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "407",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5jK8h5oHS7"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/5jK8h5oHS7",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1352040712649392134/photo/1",
+            "id": "1351986854157926400",
+            "id_str": "1351986854157926400",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EsM44XcUwAA9PfU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EsM44XcUwAA9PfU.jpg",
+            "sizes": {
+              "large": {
+                "h": "997",
+                "resize": "fit",
+                "w": "1665"
+              },
+              "medium": {
+                "h": "719",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "407",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5jK8h5oHS7"
+          },
+          {
+            "display_url": "pic.twitter.com/5jK8h5oHS7",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1352040712649392134/photo/1",
+            "id": "1351986885036425216",
+            "id_str": "1351986885036425216",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EsM46KeVQAAJz0a.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EsM46KeVQAAJz0a.jpg",
+            "sizes": {
+              "large": {
+                "h": "997",
+                "resize": "fit",
+                "w": "1671"
+              },
+              "medium": {
+                "h": "716",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "406",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5jK8h5oHS7"
+          }
+        ]
+      },
+      "favorite_count": "12",
+      "favorited": false,
+      "full_text": "The all-metal Ford Tri-Motor, or “Tin Goose,” had a huge impact on commercial aviation in the late 1920s and 199 were produced. Shown here is a 4-AT Tri-Motor from Maddux Air Lines, a short-lived airline from the late 1920s based out of southern California. #WingWednesday #avgeek https://t.co/5jK8h5oHS7",
+      "id": "1352040712649392134",
+      "id_str": "1352040712649392134",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064658,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763511591,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763511591,
+    "wof:lastmodified": 1650064658,
+    "wof:name": "The all-metal Ford Tri-Motor, or “Tin Goose,” had a huge impact on commercial aviation in the late 1920s and 199 were produced. Shown here is a 4-AT Tri-Motor from Maddux Air Lines, a short-lived airline from the late 1920s based out of southern California. #WingWednesday #avgeek https://t.co/5jK8h5oHS7",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

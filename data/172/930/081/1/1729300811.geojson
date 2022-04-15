@@ -2,194 +2,194 @@
   "id": 1729300811,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-08-06",
-    "date:cessation_upper":"2017-08-06",
-    "date:inception_lower":"2017-08-06",
-    "date:inception_upper":"2017-08-06",
-    "edtf:cessation":"2017-08-06T11:00:27-07:00",
-    "edtf:inception":"2017-08-06T11:00:27-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1502042427,
-        "created_at":"Sun Aug 06 18:00:27 +0000 2017",
-        "display_text_range":[
-            "0",
-            "156"
+    "date:cessation_lower": "2017-08-06",
+    "date:cessation_upper": "2017-08-06",
+    "date:inception_lower": "2017-08-06",
+    "date:inception_upper": "2017-08-06",
+    "edtf:cessation": "2017-08-06T11:00:27-07:00",
+    "edtf:inception": "2017-08-06T11:00:27-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1502042427,
+      "created_at": "Sun Aug 06 18:00:27 +0000 2017",
+      "display_text_range": [
+        "0",
+        "156"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "1",
+              "14"
+            ],
+            "text": "SaltyPeanuts"
+          },
+          {
+            "indices": [
+              "41",
+              "52"
+            ],
+            "text": "saxophones"
+          },
+          {
+            "indices": [
+              "86",
+              "101"
+            ],
+            "text": "DizzyGillespie"
+          },
+          {
+            "indices": [
+              "118",
+              "130"
+            ],
+            "text": "SaltPeanuts"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "1",
-                        "14"
-                    ],
-                    "text":"SaltyPeanuts"
-                },
-                {
-                    "indices":[
-                        "41",
-                        "52"
-                    ],
-                    "text":"saxophones"
-                },
-                {
-                    "indices":[
-                        "86",
-                        "101"
-                    ],
-                    "text":"DizzyGillespie"
-                },
-                {
-                    "indices":[
-                        "118",
-                        "130"
-                    ],
-                    "text":"SaltPeanuts"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/5VpEZCMzwf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/894256871728697345/photo/1",
+            "id": "894256865504362496",
+            "id_str": "894256865504362496",
+            "indices": [
+              "133",
+              "156"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/5VpEZCMzwf",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/894256871728697345/photo/1",
-                    "id":"894256865504362496",
-                    "id_str":"894256865504362496",
-                    "indices":[
-                        "133",
-                        "156"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DGkJ4ZZXgAAgpZJ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DGkJ4ZZXgAAgpZJ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1259",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"755",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"428",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/5VpEZCMzwf"
-                }
+            "media_url": "http://pbs.twimg.com/media/DGkJ4ZZXgAAgpZJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DGkJ4ZZXgAAgpZJ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1259",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "755",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "428",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5VpEZCMzwf"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/5VpEZCMzwf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/894256871728697345/photo/1",
+            "id": "894256865504362496",
+            "id_str": "894256865504362496",
+            "indices": [
+              "133",
+              "156"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/5VpEZCMzwf",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/894256871728697345/photo/1",
-                    "id":"894256865504362496",
-                    "id_str":"894256865504362496",
-                    "indices":[
-                        "133",
-                        "156"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DGkJ4ZZXgAAgpZJ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DGkJ4ZZXgAAgpZJ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1259",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"755",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"428",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/5VpEZCMzwf"
-                }
-            ]
-        },
-        "favorite_count":"3",
-        "favorited":false,
-        "full_text":"\u201c#SaltyPeanuts\u201d is created from 130 real #saxophones and features the opening bars of #DizzyGillespie\u2019s composition, \u201c#SaltPeanuts\u201d. https://t.co/5VpEZCMzwf",
-        "id":"894256871728697345",
-        "id_str":"894256871728697345",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DGkJ4ZZXgAAgpZJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DGkJ4ZZXgAAgpZJ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1259",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "755",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "428",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5VpEZCMzwf"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "“#SaltyPeanuts” is created from 130 real #saxophones and features the opening bars of #DizzyGillespie’s composition, “#SaltPeanuts”. https://t.co/5VpEZCMzwf",
+      "id": "894256871728697345",
+      "id_str": "894256871728697345",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026023,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729300811,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026023,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729300811,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729300811,
-    "wof:lastmodified":1602634362,
-    "wof:name":"\u201c#SaltyPeanuts\u201d is created from 130 real #saxophones and features the opening bars of #DizzyGillespie\u2019s composition, \u201c#SaltPeanuts\u201d. https://t.co/5VpEZCMzwf",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729300811,
+    "wof:lastmodified": 1650064639,
+    "wof:name": "“#SaltyPeanuts” is created from 130 real #saxophones and features the opening bars of #DizzyGillespie’s composition, “#SaltPeanuts”. https://t.co/5VpEZCMzwf",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

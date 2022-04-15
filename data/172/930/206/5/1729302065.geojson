@@ -2,194 +2,194 @@
   "id": 1729302065,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-12-28",
-    "date:cessation_upper":"2017-12-28",
-    "date:inception_lower":"2017-12-28",
-    "date:inception_upper":"2017-12-28",
-    "edtf:cessation":"2017-12-28T10:57:41-08:00",
-    "edtf:inception":"2017-12-28T10:57:41-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1514487461,
-        "created_at":"Thu Dec 28 18:57:41 +0000 2017",
-        "display_text_range":[
-            "0",
-            "175"
+    "date:cessation_lower": "2017-12-28",
+    "date:cessation_upper": "2017-12-28",
+    "date:inception_lower": "2017-12-28",
+    "date:inception_upper": "2017-12-28",
+    "edtf:cessation": "2017-12-28T10:57:41-08:00",
+    "edtf:inception": "2017-12-28T10:57:41-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1514487461,
+      "created_at": "Thu Dec 28 18:57:41 +0000 2017",
+      "display_text_range": [
+        "0",
+        "175"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "21",
+              "27"
+            ],
+            "text": "PanAm"
+          },
+          {
+            "indices": [
+              "75",
+              "79"
+            ],
+            "text": "SFO"
+          },
+          {
+            "indices": [
+              "121",
+              "139"
+            ],
+            "text": "ThrowbackThursday"
+          },
+          {
+            "indices": [
+              "140",
+              "151"
+            ],
+            "text": "SFOHistory"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "21",
-                        "27"
-                    ],
-                    "text":"PanAm"
-                },
-                {
-                    "indices":[
-                        "75",
-                        "79"
-                    ],
-                    "text":"SFO"
-                },
-                {
-                    "indices":[
-                        "121",
-                        "139"
-                    ],
-                    "text":"ThrowbackThursday"
-                },
-                {
-                    "indices":[
-                        "140",
-                        "151"
-                    ],
-                    "text":"SFOHistory"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rfPBizLf91",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/946455130064457731/photo/1",
+            "id": "946455126931329024",
+            "id_str": "946455126931329024",
+            "indices": [
+              "152",
+              "175"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/rfPBizLf91",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/946455130064457731/photo/1",
-                    "id":"946455126931329024",
-                    "id_str":"946455126931329024",
-                    "indices":[
-                        "152",
-                        "175"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DSJ77GSW0AAOfrm.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DSJ77GSW0AAOfrm.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1454",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"872",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"494",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/rfPBizLf91"
-                }
+            "media_url": "http://pbs.twimg.com/media/DSJ77GSW0AAOfrm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DSJ77GSW0AAOfrm.jpg",
+            "sizes": {
+              "large": {
+                "h": "1454",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "872",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "494",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rfPBizLf91"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rfPBizLf91",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/946455130064457731/photo/1",
+            "id": "946455126931329024",
+            "id_str": "946455126931329024",
+            "indices": [
+              "152",
+              "175"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/rfPBizLf91",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/946455130064457731/photo/1",
-                    "id":"946455126931329024",
-                    "id_str":"946455126931329024",
-                    "indices":[
-                        "152",
-                        "175"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DSJ77GSW0AAOfrm.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DSJ77GSW0AAOfrm.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1454",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"872",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"494",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/rfPBizLf91"
-                }
-            ]
-        },
-        "favorite_count":"8",
-        "favorited":false,
-        "full_text":"During World War II, #PanAm moved their operations from Treasure Island to #SFO. Do you remember this Pan American base? #ThrowbackThursday #SFOHistory https://t.co/rfPBizLf91",
-        "id":"946455130064457731",
-        "id_str":"946455130064457731",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DSJ77GSW0AAOfrm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DSJ77GSW0AAOfrm.jpg",
+            "sizes": {
+              "large": {
+                "h": "1454",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "872",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "494",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rfPBizLf91"
+          }
+        ]
+      },
+      "favorite_count": "8",
+      "favorited": false,
+      "full_text": "During World War II, #PanAm moved their operations from Treasure Island to #SFO. Do you remember this Pan American base? #ThrowbackThursday #SFOHistory https://t.co/rfPBizLf91",
+      "id": "946455130064457731",
+      "id_str": "946455130064457731",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026069,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729302065,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026069,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729302065,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729302065,
-    "wof:lastmodified":1602634395,
-    "wof:name":"During World War II, #PanAm moved their operations from Treasure Island to #SFO. Do you remember this Pan American base? #ThrowbackThursday #SFOHistory https://t.co/rfPBizLf91",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729302065,
+    "wof:lastmodified": 1650064640,
+    "wof:name": "During World War II, #PanAm moved their operations from Treasure Island to #SFO. Do you remember this Pan American base? #ThrowbackThursday #SFOHistory https://t.co/rfPBizLf91",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

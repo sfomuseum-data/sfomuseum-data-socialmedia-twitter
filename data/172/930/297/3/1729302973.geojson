@@ -2,187 +2,187 @@
   "id": 1729302973,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-04-22",
-    "date:cessation_upper":"2018-04-22",
-    "date:inception_lower":"2018-04-22",
-    "date:inception_upper":"2018-04-22",
-    "edtf:cessation":"2018-04-22T11:05:06-07:00",
-    "edtf:inception":"2018-04-22T11:05:06-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1524420306,
-        "created_at":"Sun Apr 22 18:05:06 +0000 2018",
-        "display_text_range":[
-            "0",
-            "235"
+    "date:cessation_lower": "2018-04-22",
+    "date:cessation_upper": "2018-04-22",
+    "date:inception_lower": "2018-04-22",
+    "date:inception_upper": "2018-04-22",
+    "edtf:cessation": "2018-04-22T11:05:06-07:00",
+    "edtf:inception": "2018-04-22T11:05:06-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1524420306,
+      "created_at": "Sun Apr 22 18:05:06 +0000 2018",
+      "display_text_range": [
+        "0",
+        "235"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "58",
+              "68"
+            ],
+            "text": "onthisday"
+          },
+          {
+            "indices": [
+              "192",
+              "203"
+            ],
+            "text": "SFOHistory"
+          },
+          {
+            "indices": [
+              "204",
+              "211"
+            ],
+            "text": "avgeek"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "58",
-                        "68"
-                    ],
-                    "text":"onthisday"
-                },
-                {
-                    "indices":[
-                        "192",
-                        "203"
-                    ],
-                    "text":"SFOHistory"
-                },
-                {
-                    "indices":[
-                        "204",
-                        "211"
-                    ],
-                    "text":"avgeek"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UB1goZ4E5v",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/988116497951346690/photo/1",
+            "id": "988116495581564928",
+            "id_str": "988116495581564928",
+            "indices": [
+              "212",
+              "235"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/UB1goZ4E5v",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/988116497951346690/photo/1",
-                    "id":"988116495581564928",
-                    "id_str":"988116495581564928",
-                    "indices":[
-                        "212",
-                        "235"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DbZ-t6vX0AA4bGI.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DbZ-t6vX0AA4bGI.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1979",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"1187",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"673",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/UB1goZ4E5v"
-                }
+            "media_url": "http://pbs.twimg.com/media/DbZ-t6vX0AA4bGI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DbZ-t6vX0AA4bGI.jpg",
+            "sizes": {
+              "large": {
+                "h": "1979",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1187",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "673",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/UB1goZ4E5v"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UB1goZ4E5v",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/988116497951346690/photo/1",
+            "id": "988116495581564928",
+            "id_str": "988116495581564928",
+            "indices": [
+              "212",
+              "235"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/UB1goZ4E5v",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/988116497951346690/photo/1",
-                    "id":"988116495581564928",
-                    "id_str":"988116495581564928",
-                    "indices":[
-                        "212",
-                        "235"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DbZ-t6vX0AA4bGI.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DbZ-t6vX0AA4bGI.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1979",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"1187",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"673",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/UB1goZ4E5v"
-                }
-            ]
-        },
-        "favorite_count":"3",
-        "favorited":false,
-        "full_text":"Construction of the North Terminal (now Terminal 3) began #onthisday in 1971 with a groundbreaking ceremony that was attended by various politicians and flight attendants of various airlines. #SFOHistory #avgeek https://t.co/UB1goZ4E5v",
-        "id":"988116497951346690",
-        "id_str":"988116497951346690",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"5",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DbZ-t6vX0AA4bGI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DbZ-t6vX0AA4bGI.jpg",
+            "sizes": {
+              "large": {
+                "h": "1979",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1187",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "673",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/UB1goZ4E5v"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "Construction of the North Terminal (now Terminal 3) began #onthisday in 1971 with a groundbreaking ceremony that was attended by various politicians and flight attendants of various airlines. #SFOHistory #avgeek https://t.co/UB1goZ4E5v",
+      "id": "988116497951346690",
+      "id_str": "988116497951346690",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "5",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026106,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729302973,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026106,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729302973,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729302973,
-    "wof:lastmodified":1602634404,
-    "wof:name":"Construction of the North Terminal (now Terminal 3) began #onthisday in 1971 with a groundbreaking ceremony that was attended by various politicians and flight attendants of various airlines. #SFOHistory #avgeek https://t.co/UB1goZ4E5v",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729302973,
+    "wof:lastmodified": 1650064641,
+    "wof:name": "Construction of the North Terminal (now Terminal 3) began #onthisday in 1971 with a groundbreaking ceremony that was attended by various politicians and flight attendants of various airlines. #SFOHistory #avgeek https://t.co/UB1goZ4E5v",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

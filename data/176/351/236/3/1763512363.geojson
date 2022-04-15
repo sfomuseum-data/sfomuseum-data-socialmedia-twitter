@@ -1,0 +1,174 @@
+{
+  "id": 1763512363,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-06-08",
+    "date:cessation_upper": "2021-06-08",
+    "date:inception_lower": "2021-06-08",
+    "date:inception_upper": "2021-06-08",
+    "edtf:cessation": "2021-06-07T17:29:45-07:00",
+    "edtf:inception": "2021-06-07T17:29:45-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1623112185,
+      "created_at": "Tue Jun 08 00:29:45 +0000 2021",
+      "display_text_range": [
+        "0",
+        "226"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "185",
+              "202"
+            ],
+            "text": "InstrumentalSurf"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jyqV45I3YV",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1402060240934211594/photo/1",
+            "id": "1402059892463001600",
+            "id_str": "1402059892463001600",
+            "indices": [
+              "203",
+              "226"
+            ],
+            "media_url": "http://pbs.twimg.com/media/E3UeCzQUYAAIrC-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E3UeCzQUYAAIrC-.jpg",
+            "sizes": {
+              "large": {
+                "h": "1800",
+                "resize": "fit",
+                "w": "1689"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1126"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "638"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/jyqV45I3YV"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jyqV45I3YV",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1402060240934211594/photo/1",
+            "id": "1402059892463001600",
+            "id_str": "1402059892463001600",
+            "indices": [
+              "203",
+              "226"
+            ],
+            "media_url": "http://pbs.twimg.com/media/E3UeCzQUYAAIrC-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E3UeCzQUYAAIrC-.jpg",
+            "sizes": {
+              "large": {
+                "h": "1800",
+                "resize": "fit",
+                "w": "1689"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1126"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "638"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/jyqV45I3YV"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "The Fender Jazzmaster on display was owned by The Astronauts’ rhythm guitarist Bob Demmon and was likely from a matching set of guitars given to the band as an endorsement from Fender. #InstrumentalSurf https://t.co/jyqV45I3YV",
+      "id": "1402060240934211594",
+      "id_str": "1402060240934211594",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1402060233925480448",
+      "in_reply_to_status_id_str": "1402060233925480448",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064693,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763512363,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763512363,
+    "wof:lastmodified": 1650064693,
+    "wof:name": "The Fender Jazzmaster on display was owned by The Astronauts’ rhythm guitarist Bob Demmon and was likely from a matching set of guitars given to the band as an endorsement from Fender. #InstrumentalSurf https://t.co/jyqV45I3YV",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -2,194 +2,194 @@
   "id": 1729301803,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-11-16",
-    "date:cessation_upper":"2017-11-16",
-    "date:inception_lower":"2017-11-16",
-    "date:inception_upper":"2017-11-16",
-    "edtf:cessation":"2017-11-16T15:55:06-08:00",
-    "edtf:inception":"2017-11-16T15:55:06-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1510876506,
-        "created_at":"Thu Nov 16 23:55:06 +0000 2017",
-        "display_text_range":[
-            "0",
-            "197"
+    "date:cessation_lower": "2017-11-16",
+    "date:cessation_upper": "2017-11-16",
+    "date:inception_lower": "2017-11-16",
+    "date:inception_upper": "2017-11-16",
+    "edtf:cessation": "2017-11-16T15:55:06-08:00",
+    "edtf:inception": "2017-11-16T15:55:06-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1510876506,
+      "created_at": "Thu Nov 16 23:55:06 +0000 2017",
+      "display_text_range": [
+        "0",
+        "197"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "131",
+              "138"
+            ],
+            "text": "Qantas"
+          },
+          {
+            "indices": [
+              "140",
+              "150"
+            ],
+            "text": "onthisday"
+          },
+          {
+            "indices": [
+              "151",
+              "158"
+            ],
+            "text": "avgeek"
+          },
+          {
+            "indices": [
+              "159",
+              "173"
+            ],
+            "text": "Qantasturns97"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "131",
-                        "138"
-                    ],
-                    "text":"Qantas"
-                },
-                {
-                    "indices":[
-                        "140",
-                        "150"
-                    ],
-                    "text":"onthisday"
-                },
-                {
-                    "indices":[
-                        "151",
-                        "158"
-                    ],
-                    "text":"avgeek"
-                },
-                {
-                    "indices":[
-                        "159",
-                        "173"
-                    ],
-                    "text":"Qantasturns97"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/kEFzQkuNs7",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/931309686942466048/photo/1",
+            "id": "931309683272450050",
+            "id_str": "931309683272450050",
+            "indices": [
+              "174",
+              "197"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/kEFzQkuNs7",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/931309686942466048/photo/1",
-                    "id":"931309683272450050",
-                    "id_str":"931309683272450050",
-                    "indices":[
-                        "174",
-                        "197"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DOytOP9WAAINttQ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DOytOP9WAAINttQ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1276",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"766",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"434",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/kEFzQkuNs7"
-                }
+            "media_url": "http://pbs.twimg.com/media/DOytOP9WAAINttQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DOytOP9WAAINttQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1276",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "766",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "434",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/kEFzQkuNs7"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/kEFzQkuNs7",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/931309686942466048/photo/1",
+            "id": "931309683272450050",
+            "id_str": "931309683272450050",
+            "indices": [
+              "174",
+              "197"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/kEFzQkuNs7",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/931309686942466048/photo/1",
-                    "id":"931309683272450050",
-                    "id_str":"931309683272450050",
-                    "indices":[
-                        "174",
-                        "197"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DOytOP9WAAINttQ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DOytOP9WAAINttQ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1276",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"766",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"434",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/kEFzQkuNs7"
-                }
-            ]
-        },
-        "favorite_count":"13",
-        "favorited":false,
-        "full_text":"Qantas, an acronym for Queensland and Northern Territory Aerial Services, was founded on November 16, 1920. Have you ever flown on #Qantas? #onthisday #avgeek #Qantasturns97 https://t.co/kEFzQkuNs7",
-        "id":"931309686942466048",
-        "id_str":"931309686942466048",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"3",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DOytOP9WAAINttQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DOytOP9WAAINttQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1276",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "766",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "434",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/kEFzQkuNs7"
+          }
+        ]
+      },
+      "favorite_count": "13",
+      "favorited": false,
+      "full_text": "Qantas, an acronym for Queensland and Northern Territory Aerial Services, was founded on November 16, 1920. Have you ever flown on #Qantas? #onthisday #avgeek #Qantasturns97 https://t.co/kEFzQkuNs7",
+      "id": "931309686942466048",
+      "id_str": "931309686942466048",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026059,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729301803,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026059,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729301803,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729301803,
-    "wof:lastmodified":1602634283,
-    "wof:name":"Qantas, an acronym for Queensland and Northern Territory Aerial Services, was founded on November 16, 1920. Have you ever flown on #Qantas? #onthisday #avgeek #Qantasturns97 https://t.co/kEFzQkuNs7",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729301803,
+    "wof:lastmodified": 1650064640,
+    "wof:name": "Qantas, an acronym for Queensland and Northern Territory Aerial Services, was founded on November 16, 1920. Have you ever flown on #Qantas? #onthisday #avgeek #Qantasturns97 https://t.co/kEFzQkuNs7",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

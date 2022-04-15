@@ -2,190 +2,190 @@
   "id": 1729302661,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-03-16",
-    "date:cessation_upper":"2018-03-16",
-    "date:inception_lower":"2018-03-16",
-    "date:inception_upper":"2018-03-16",
-    "edtf:cessation":"2018-03-16T17:40:04-07:00",
-    "edtf:inception":"2018-03-16T17:40:04-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1521247204,
-        "created_at":"Sat Mar 17 00:40:04 +0000 2018",
-        "display_text_range":[
-            "0",
-            "157"
+    "date:cessation_lower": "2018-03-17",
+    "date:cessation_upper": "2018-03-17",
+    "date:inception_lower": "2018-03-17",
+    "date:inception_upper": "2018-03-17",
+    "edtf:cessation": "2018-03-16T17:40:04-07:00",
+    "edtf:inception": "2018-03-16T17:40:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1521247204,
+      "created_at": "Sat Mar 17 00:40:04 +0000 2018",
+      "display_text_range": [
+        "0",
+        "157"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "5",
+              "21"
+            ],
+            "text": "AmericanFolkArt"
+          },
+          {
+            "indices": [
+              "125",
+              "133"
+            ],
+            "text": "FolkArt"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "5",
-                        "21"
-                    ],
-                    "text":"AmericanFolkArt"
-                },
-                {
-                    "indices":[
-                        "125",
-                        "133"
-                    ],
-                    "text":"FolkArt"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/h9RhLNWHzJ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/974807547260612608/photo/1",
+            "id": "974807543829561344",
+            "id_str": "974807543829561344",
+            "indices": [
+              "134",
+              "157"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/h9RhLNWHzJ",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/974807547260612608/photo/1",
-                    "id":"974807543829561344",
-                    "id_str":"974807543829561344",
-                    "indices":[
-                        "134",
-                        "157"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DYc2S95VAAAq-Jr.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DYc2S95VAAAq-Jr.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1333"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"453"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/h9RhLNWHzJ"
-                }
+            "media_url": "http://pbs.twimg.com/media/DYc2S95VAAAq-Jr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DYc2S95VAAAq-Jr.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/h9RhLNWHzJ"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/AmericanFolkArt",
+            "expanded_url": "http://bit.ly/AmericanFolkArt",
+            "indices": [
+              "101",
+              "124"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/AmericanFolkArt",
-                    "expanded_url":"http://bit.ly/AmericanFolkArt",
-                    "indices":[
-                        "101",
-                        "124"
-                    ],
-                    "url":"https://t.co/fcyWpg2hGV"
-                }
+            "url": "https://t.co/fcyWpg2hGV"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/h9RhLNWHzJ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/974807547260612608/photo/1",
+            "id": "974807543829561344",
+            "id_str": "974807543829561344",
+            "indices": [
+              "134",
+              "157"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/h9RhLNWHzJ",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/974807547260612608/photo/1",
-                    "id":"974807543829561344",
-                    "id_str":"974807543829561344",
-                    "indices":[
-                        "134",
-                        "157"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DYc2S95VAAAq-Jr.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DYc2S95VAAAq-Jr.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1333"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"453"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/h9RhLNWHzJ"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"See \"#AmericanFolkArt: An Enduring Legacy\", on display, pre-security, in the International Terminal. https://t.co/fcyWpg2hGV #FolkArt https://t.co/h9RhLNWHzJ",
-        "id":"974807547260612608",
-        "id_str":"974807547260612608",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DYc2S95VAAAq-Jr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DYc2S95VAAAq-Jr.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/h9RhLNWHzJ"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "See \"#AmericanFolkArt: An Enduring Legacy\", on display, pre-security, in the International Terminal. https://t.co/fcyWpg2hGV #FolkArt https://t.co/h9RhLNWHzJ",
+      "id": "974807547260612608",
+      "id_str": "974807547260612608",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026093,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729302661,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026093,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729302661,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729302661,
-    "wof:lastmodified":1602634254,
-    "wof:name":"See \"#AmericanFolkArt: An Enduring Legacy\", on display, pre-security, in the International Terminal. https://t.co/fcyWpg2hGV #FolkArt https://t.co/h9RhLNWHzJ",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729302661,
+    "wof:lastmodified": 1650064640,
+    "wof:name": "See \"#AmericanFolkArt: An Enduring Legacy\", on display, pre-security, in the International Terminal. https://t.co/fcyWpg2hGV #FolkArt https://t.co/h9RhLNWHzJ",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

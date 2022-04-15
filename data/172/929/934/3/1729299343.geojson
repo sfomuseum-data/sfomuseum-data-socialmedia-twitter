@@ -2,180 +2,180 @@
   "id": 1729299343,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-02-17",
-    "date:cessation_upper":"2017-02-17",
-    "date:inception_lower":"2017-02-17",
-    "date:inception_upper":"2017-02-17",
-    "edtf:cessation":"2017-02-17T16:00:41-08:00",
-    "edtf:inception":"2017-02-17T16:00:41-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1487376041,
-        "created_at":"Sat Feb 18 00:00:41 +0000 2017",
-        "display_text_range":[
-            "0",
-            "156"
+    "date:cessation_lower": "2017-02-18",
+    "date:cessation_upper": "2017-02-18",
+    "date:inception_lower": "2017-02-18",
+    "date:inception_upper": "2017-02-18",
+    "edtf:cessation": "2017-02-17T16:00:41-08:00",
+    "edtf:inception": "2017-02-17T16:00:41-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1487376041,
+      "created_at": "Sat Feb 18 00:00:41 +0000 2017",
+      "display_text_range": [
+        "0",
+        "156"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "106",
+              "120"
+            ],
+            "text": "GamesofChance"
+          },
+          {
+            "indices": [
+              "121",
+              "132"
+            ],
+            "text": "DayofFacts"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "106",
-                        "120"
-                    ],
-                    "text":"GamesofChance"
-                },
-                {
-                    "indices":[
-                        "121",
-                        "132"
-                    ],
-                    "text":"DayofFacts"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FyeHkvx03a",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/832741590925971456/photo/1",
+            "id": "832741587243274240",
+            "id_str": "832741587243274240",
+            "indices": [
+              "133",
+              "156"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/FyeHkvx03a",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/832741590925971456/photo/1",
-                    "id":"832741587243274240",
-                    "id_str":"832741587243274240",
-                    "indices":[
-                        "133",
-                        "156"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C45-D8FUkAAlI3M.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C45-D8FUkAAlI3M.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1477",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"886",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"502",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/FyeHkvx03a"
-                }
+            "media_url": "http://pbs.twimg.com/media/C45-D8FUkAAlI3M.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C45-D8FUkAAlI3M.jpg",
+            "sizes": {
+              "large": {
+                "h": "1477",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "886",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "502",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FyeHkvx03a"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FyeHkvx03a",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/832741590925971456/photo/1",
+            "id": "832741587243274240",
+            "id_str": "832741587243274240",
+            "indices": [
+              "133",
+              "156"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/FyeHkvx03a",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/832741590925971456/photo/1",
-                    "id":"832741587243274240",
-                    "id_str":"832741587243274240",
-                    "indices":[
-                        "133",
-                        "156"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C45-D8FUkAAlI3M.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C45-D8FUkAAlI3M.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1477",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"886",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"502",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/FyeHkvx03a"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"The first automatic-payout, three-reel slot machine was invented by Charles Fey in 1898 in San Francisco. #GamesofChance #DayofFacts https://t.co/FyeHkvx03a",
-        "id":"832741590925971456",
-        "id_str":"832741590925971456",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"5",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/C45-D8FUkAAlI3M.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C45-D8FUkAAlI3M.jpg",
+            "sizes": {
+              "large": {
+                "h": "1477",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "886",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "502",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FyeHkvx03a"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "The first automatic-payout, three-reel slot machine was invented by Charles Fey in 1898 in San Francisco. #GamesofChance #DayofFacts https://t.co/FyeHkvx03a",
+      "id": "832741590925971456",
+      "id_str": "832741590925971456",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "5",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025969,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299343,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025969,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299343,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299343,
-    "wof:lastmodified":1602634614,
-    "wof:name":"The first automatic-payout, three-reel slot machine was invented by Charles Fey in 1898 in San Francisco. #GamesofChance #DayofFacts https://t.co/FyeHkvx03a",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299343,
+    "wof:lastmodified": 1650064639,
+    "wof:name": "The first automatic-payout, three-reel slot machine was invented by Charles Fey in 1898 in San Francisco. #GamesofChance #DayofFacts https://t.co/FyeHkvx03a",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

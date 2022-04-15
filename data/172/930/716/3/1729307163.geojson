@@ -2,192 +2,192 @@
   "id": 1729307163,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-10-10",
-    "date:cessation_upper":"2019-10-10",
-    "date:inception_lower":"2019-10-10",
-    "date:inception_upper":"2019-10-10",
-    "edtf:cessation":"2019-10-10T18:56:00-07:00",
-    "edtf:inception":"2019-10-10T18:56:00-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1570758960,
-        "created_at":"Fri Oct 11 01:56:00 +0000 2019",
-        "display_text_range":[
-            "0",
-            "304"
+    "date:cessation_lower": "2019-10-11",
+    "date:cessation_upper": "2019-10-11",
+    "date:inception_lower": "2019-10-11",
+    "date:inception_upper": "2019-10-11",
+    "edtf:cessation": "2019-10-10T18:56:00-07:00",
+    "edtf:inception": "2019-10-10T18:56:00-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1570758960,
+      "created_at": "Fri Oct 11 01:56:00 +0000 2019",
+      "display_text_range": [
+        "0",
+        "304"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "37",
+              "47"
+            ],
+            "text": "grisaille"
+          },
+          {
+            "indices": [
+              "248",
+              "269"
+            ],
+            "text": "ZuberScenicWallpaper"
+          },
+          {
+            "indices": [
+              "270",
+              "280"
+            ],
+            "text": "wallpaper"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "37",
-                        "47"
-                    ],
-                    "text":"grisaille"
-                },
-                {
-                    "indices":[
-                        "248",
-                        "269"
-                    ],
-                    "text":"ZuberScenicWallpaper"
-                },
-                {
-                    "indices":[
-                        "270",
-                        "280"
-                    ],
-                    "text":"wallpaper"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jlZdzcqsOv",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1182474900834881538/photo/1",
+            "id": "1182474896196026368",
+            "id_str": "1182474896196026368",
+            "indices": [
+              "281",
+              "304"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/jlZdzcqsOv",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1182474900834881538/photo/1",
-                    "id":"1182474896196026368",
-                    "id_str":"1182474896196026368",
-                    "indices":[
-                        "281",
-                        "304"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EGj-py-UwAAGnns.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EGj-py-UwAAGnns.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"967",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"580",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"329",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/jlZdzcqsOv"
-                }
+            "media_url": "http://pbs.twimg.com/media/EGj-py-UwAAGnns.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EGj-py-UwAAGnns.jpg",
+            "sizes": {
+              "large": {
+                "h": "967",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "580",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "329",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/jlZdzcqsOv"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jlZdzcqsOv",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1182474900834881538/photo/1",
+            "id": "1182474896196026368",
+            "id_str": "1182474896196026368",
+            "indices": [
+              "281",
+              "304"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/jlZdzcqsOv",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1182474900834881538/photo/1",
-                    "id":"1182474896196026368",
-                    "id_str":"1182474896196026368",
-                    "indices":[
-                        "281",
-                        "304"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EGj-py-UwAAGnns.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EGj-py-UwAAGnns.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"967",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"580",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"329",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/jlZdzcqsOv"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"A romantic, classical composition in #grisaille featuring architectural elements dotting a tranquil garden, \u201cLes Lointains\u201d was first offered in 1825. Each detail requires a separate woodblock, and eleven colors are used to create \u201cLes Lointains\u201d. #ZuberScenicWallpaper #wallpaper https://t.co/jlZdzcqsOv",
-        "id":"1182474900834881538",
-        "id_str":"1182474900834881538",
-        "in_reply_to_screen_name":"SFOMuseum",
-        "in_reply_to_status_id":"1182474893230665728",
-        "in_reply_to_status_id_str":"1182474893230665728",
-        "in_reply_to_user_id":"116329337",
-        "in_reply_to_user_id_str":"116329337",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/EGj-py-UwAAGnns.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EGj-py-UwAAGnns.jpg",
+            "sizes": {
+              "large": {
+                "h": "967",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "580",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "329",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/jlZdzcqsOv"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "A romantic, classical composition in #grisaille featuring architectural elements dotting a tranquil garden, “Les Lointains” was first offered in 1825. Each detail requires a separate woodblock, and eleven colors are used to create “Les Lointains”. #ZuberScenicWallpaper #wallpaper https://t.co/jlZdzcqsOv",
+      "id": "1182474900834881538",
+      "id_str": "1182474900834881538",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1182474893230665728",
+      "in_reply_to_status_id_str": "1182474893230665728",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026267,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729307163,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026267,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729307163,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729307163,
-    "wof:lastmodified":1602634438,
-    "wof:name":"A romantic, classical composition in #grisaille featuring architectural elements dotting a tranquil garden, \u201cLes Lointains\u201d was first offered in 1825. Each detail requires a separate woodblock, and eleven colors are used to create \u201cLes Lointains\u201d. #ZuberScenicWallpaper #wallpaper https://t.co/jlZdzcqsOv",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729307163,
+    "wof:lastmodified": 1650064643,
+    "wof:name": "A romantic, classical composition in #grisaille featuring architectural elements dotting a tranquil garden, “Les Lointains” was first offered in 1825. Each detail requires a separate woodblock, and eleven colors are used to create “Les Lointains”. #ZuberScenicWallpaper #wallpaper https://t.co/jlZdzcqsOv",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

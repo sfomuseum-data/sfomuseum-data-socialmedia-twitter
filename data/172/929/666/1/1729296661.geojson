@@ -2,184 +2,184 @@
   "id": 1729296661,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-06-27",
-    "date:cessation_upper":"2016-06-27",
-    "date:inception_lower":"2016-06-27",
-    "date:inception_upper":"2016-06-27",
-    "edtf:cessation":"2016-06-27T18:00:34-07:00",
-    "edtf:inception":"2016-06-27T18:00:34-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1467075634,
-        "created_at":"Tue Jun 28 01:00:34 +0000 2016",
-        "display_text_range":[
-            "0",
-            "139"
-        ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/efB9QAso8c",
-                    "expanded_url":"https://twitter.com/JuanTTrippe/status/747572387667808257/photo/1",
-                    "id":"747572381850316802",
-                    "id_str":"747572381850316802",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cl_pHtgUsAIWCjb.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cl_pHtgUsAIWCjb.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"900",
-                            "resize":"fit",
-                            "w":"694"
-                        },
-                        "medium":{
-                            "h":"900",
-                            "resize":"fit",
-                            "w":"694"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"524"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"747572387667808257",
-                    "source_status_id_str":"747572387667808257",
-                    "source_user_id":"1944877129",
-                    "source_user_id_str":"1944877129",
-                    "type":"photo",
-                    "url":"https://t.co/efB9QAso8c"
-                }
+    "date:cessation_lower": "2016-06-28",
+    "date:cessation_upper": "2016-06-28",
+    "date:inception_lower": "2016-06-28",
+    "date:inception_upper": "2016-06-28",
+    "edtf:cessation": "2016-06-27T18:00:34-07:00",
+    "edtf:inception": "2016-06-27T18:00:34-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1467075634,
+      "created_at": "Tue Jun 28 01:00:34 +0000 2016",
+      "display_text_range": [
+        "0",
+        "139"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/efB9QAso8c",
+            "expanded_url": "https://twitter.com/JuanTTrippe/status/747572387667808257/photo/1",
+            "id": "747572381850316802",
+            "id_str": "747572381850316802",
+            "indices": [
+              "116",
+              "139"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"1944877129",
-                    "id_str":"1944877129",
-                    "indices":[
-                        "3",
-                        "15"
-                    ],
-                    "name":"Juan T. Trippe",
-                    "screen_name":"JuanTTrippe"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/efB9QAso8c",
-                    "expanded_url":"https://twitter.com/JuanTTrippe/status/747572387667808257/photo/1",
-                    "id":"747572381850316802",
-                    "id_str":"747572381850316802",
-                    "indices":[
-                        "116",
-                        "139"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cl_pHtgUsAIWCjb.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cl_pHtgUsAIWCjb.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"900",
-                            "resize":"fit",
-                            "w":"694"
-                        },
-                        "medium":{
-                            "h":"900",
-                            "resize":"fit",
-                            "w":"694"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"524"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"747572387667808257",
-                    "source_status_id_str":"747572387667808257",
-                    "source_user_id":"1944877129",
-                    "source_user_id_str":"1944877129",
-                    "type":"photo",
-                    "url":"https://t.co/efB9QAso8c"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @JuanTTrippe: Pioneer in aviation. Juan T. Trippe was born on this day, June 27, 1899 in Sea Bright, New Jersey. https://t.co/efB9QAso8c",
-        "id":"747595514091286528",
-        "id_str":"747595514091286528",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/Cl_pHtgUsAIWCjb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cl_pHtgUsAIWCjb.jpg",
+            "sizes": {
+              "large": {
+                "h": "900",
+                "resize": "fit",
+                "w": "694"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "694"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "524"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "747572387667808257",
+            "source_status_id_str": "747572387667808257",
+            "source_user_id": "1944877129",
+            "source_user_id_str": "1944877129",
+            "type": "photo",
+            "url": "https://t.co/efB9QAso8c"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "1944877129",
+            "id_str": "1944877129",
+            "indices": [
+              "3",
+              "15"
+            ],
+            "name": "Juan T. Trippe",
+            "screen_name": "JuanTTrippe"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/efB9QAso8c",
+            "expanded_url": "https://twitter.com/JuanTTrippe/status/747572387667808257/photo/1",
+            "id": "747572381850316802",
+            "id_str": "747572381850316802",
+            "indices": [
+              "116",
+              "139"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cl_pHtgUsAIWCjb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cl_pHtgUsAIWCjb.jpg",
+            "sizes": {
+              "large": {
+                "h": "900",
+                "resize": "fit",
+                "w": "694"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "694"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "524"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "747572387667808257",
+            "source_status_id_str": "747572387667808257",
+            "source_user_id": "1944877129",
+            "source_user_id_str": "1944877129",
+            "type": "photo",
+            "url": "https://t.co/efB9QAso8c"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @JuanTTrippe: Pioneer in aviation. Juan T. Trippe was born on this day, June 27, 1899 in Sea Bright, New Jersey. https://t.co/efB9QAso8c",
+      "id": "747595514091286528",
+      "id_str": "747595514091286528",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025867,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729296661,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025867,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729296661,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729296661,
-    "wof:lastmodified":1602634545,
-    "wof:name":"RT @JuanTTrippe: Pioneer in aviation. Juan T. Trippe was born on this day, June 27, 1899 in Sea Bright, New Jersey. https://t.co/efB9QAso8c",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729296661,
+    "wof:lastmodified": 1650064637,
+    "wof:name": "RT @JuanTTrippe: Pioneer in aviation. Juan T. Trippe was born on this day, June 27, 1899 in Sea Bright, New Jersey. https://t.co/efB9QAso8c",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,190 +2,190 @@
   "id": 1729305575,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-03-12",
-    "date:cessation_upper":"2019-03-12",
-    "date:inception_lower":"2019-03-12",
-    "date:inception_upper":"2019-03-12",
-    "edtf:cessation":"2019-03-12T19:50:05-07:00",
-    "edtf:inception":"2019-03-12T19:50:05-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1552445405,
-        "created_at":"Wed Mar 13 02:50:05 +0000 2019",
-        "display_text_range":[
-            "0",
-            "159"
+    "date:cessation_lower": "2019-03-13",
+    "date:cessation_upper": "2019-03-13",
+    "date:inception_lower": "2019-03-13",
+    "date:inception_upper": "2019-03-13",
+    "edtf:cessation": "2019-03-12T19:50:05-07:00",
+    "edtf:inception": "2019-03-12T19:50:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1552445405,
+      "created_at": "Wed Mar 13 02:50:05 +0000 2019",
+      "display_text_range": [
+        "0",
+        "159"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "31",
+              "40"
+            ],
+            "text": "Arhoolie"
+          },
+          {
+            "indices": [
+              "119",
+              "135"
+            ],
+            "text": "StoryofArhoolie"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "31",
-                        "40"
-                    ],
-                    "text":"Arhoolie"
-                },
-                {
-                    "indices":[
-                        "119",
-                        "135"
-                    ],
-                    "text":"StoryofArhoolie"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/1OvHDfJpP5",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1105662283873697792/photo/1",
+            "id": "1105662281369767936",
+            "id_str": "1105662281369767936",
+            "indices": [
+              "136",
+              "159"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/1OvHDfJpP5",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1105662283873697792/photo/1",
-                    "id":"1105662281369767936",
-                    "id_str":"1105662281369767936",
-                    "indices":[
-                        "136",
-                        "159"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D1gZ_KKX0AATeB4.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D1gZ_KKX0AATeB4.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/1OvHDfJpP5"
-                }
+            "media_url": "http://pbs.twimg.com/media/D1gZ_KKX0AATeB4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D1gZ_KKX0AATeB4.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/1OvHDfJpP5"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/StoryofArhoolie",
+            "expanded_url": "http://bit.ly/StoryofArhoolie",
+            "indices": [
+              "95",
+              "118"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/StoryofArhoolie",
-                    "expanded_url":"http://bit.ly/StoryofArhoolie",
-                    "indices":[
-                        "95",
-                        "118"
-                    ],
-                    "url":"https://t.co/LZ46UL9SuX"
-                }
+            "url": "https://t.co/LZ46UL9SuX"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/1OvHDfJpP5",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1105662283873697792/photo/1",
+            "id": "1105662281369767936",
+            "id_str": "1105662281369767936",
+            "indices": [
+              "136",
+              "159"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/1OvHDfJpP5",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1105662283873697792/photo/1",
-                    "id":"1105662281369767936",
-                    "id_str":"1105662281369767936",
-                    "indices":[
-                        "136",
-                        "159"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D1gZ_KKX0AATeB4.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D1gZ_KKX0AATeB4.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/1OvHDfJpP5"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"\"Down-Home Music: The Story of #Arhoolie Records\" is on display, post-security, in Terminal 2. https://t.co/LZ46UL9SuX #StoryofArhoolie https://t.co/1OvHDfJpP5",
-        "id":"1105662283873697792",
-        "id_str":"1105662283873697792",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/D1gZ_KKX0AATeB4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D1gZ_KKX0AATeB4.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/1OvHDfJpP5"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "\"Down-Home Music: The Story of #Arhoolie Records\" is on display, post-security, in Terminal 2. https://t.co/LZ46UL9SuX #StoryofArhoolie https://t.co/1OvHDfJpP5",
+      "id": "1105662283873697792",
+      "id_str": "1105662283873697792",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026206,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729305575,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026206,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729305575,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729305575,
-    "wof:lastmodified":1602634204,
-    "wof:name":"\"Down-Home Music: The Story of #Arhoolie Records\" is on display, post-security, in Terminal 2. https://t.co/LZ46UL9SuX #StoryofArhoolie https://t.co/1OvHDfJpP5",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729305575,
+    "wof:lastmodified": 1650064642,
+    "wof:name": "\"Down-Home Music: The Story of #Arhoolie Records\" is on display, post-security, in Terminal 2. https://t.co/LZ46UL9SuX #StoryofArhoolie https://t.co/1OvHDfJpP5",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

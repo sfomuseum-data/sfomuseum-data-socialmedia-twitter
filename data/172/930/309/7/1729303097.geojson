@@ -2,201 +2,201 @@
   "id": 1729303097,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-05-08",
-    "date:cessation_upper":"2018-05-08",
-    "date:inception_lower":"2018-05-08",
-    "date:inception_upper":"2018-05-08",
-    "edtf:cessation":"2018-05-08T10:30:09-07:00",
-    "edtf:inception":"2018-05-08T10:30:09-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1525800609,
-        "created_at":"Tue May 08 17:30:09 +0000 2018",
-        "display_text_range":[
-            "0",
-            "243"
+    "date:cessation_lower": "2018-05-08",
+    "date:cessation_upper": "2018-05-08",
+    "date:inception_lower": "2018-05-08",
+    "date:inception_upper": "2018-05-08",
+    "edtf:cessation": "2018-05-08T10:30:09-07:00",
+    "edtf:inception": "2018-05-08T10:30:09-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1525800609,
+      "created_at": "Tue May 08 17:30:09 +0000 2018",
+      "display_text_range": [
+        "0",
+        "243"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "23",
+              "27"
+            ],
+            "text": "KLM"
+          },
+          {
+            "indices": [
+              "97",
+              "107"
+            ],
+            "text": "Delftware"
+          },
+          {
+            "indices": [
+              "148",
+              "154"
+            ],
+            "text": "Dutch"
+          },
+          {
+            "indices": [
+              "197",
+              "211"
+            ],
+            "text": "TravelTuesday"
+          },
+          {
+            "indices": [
+              "212",
+              "219"
+            ],
+            "text": "AVgeek"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "23",
-                        "27"
-                    ],
-                    "text":"KLM"
-                },
-                {
-                    "indices":[
-                        "97",
-                        "107"
-                    ],
-                    "text":"Delftware"
-                },
-                {
-                    "indices":[
-                        "148",
-                        "154"
-                    ],
-                    "text":"Dutch"
-                },
-                {
-                    "indices":[
-                        "197",
-                        "211"
-                    ],
-                    "text":"TravelTuesday"
-                },
-                {
-                    "indices":[
-                        "212",
-                        "219"
-                    ],
-                    "text":"AVgeek"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/kS2qAPRbGf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/993905908362240000/photo/1",
+            "id": "993905904880947200",
+            "id_str": "993905904880947200",
+            "indices": [
+              "220",
+              "243"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/kS2qAPRbGf",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/993905908362240000/photo/1",
-                    "id":"993905904880947200",
-                    "id_str":"993905904880947200",
-                    "indices":[
-                        "220",
-                        "243"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DcsQJ5CXkAAFox9.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DcsQJ5CXkAAFox9.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/kS2qAPRbGf"
-                }
+            "media_url": "http://pbs.twimg.com/media/DcsQJ5CXkAAFox9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DcsQJ5CXkAAFox9.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/kS2qAPRbGf"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/kS2qAPRbGf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/993905908362240000/photo/1",
+            "id": "993905904880947200",
+            "id_str": "993905904880947200",
+            "indices": [
+              "220",
+              "243"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/kS2qAPRbGf",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/993905908362240000/photo/1",
-                    "id":"993905904880947200",
-                    "id_str":"993905904880947200",
-                    "indices":[
-                        "220",
-                        "243"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DcsQJ5CXkAAFox9.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DcsQJ5CXkAAFox9.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/kS2qAPRbGf"
-                }
-            ]
-        },
-        "favorite_count":"19",
-        "favorited":false,
-        "full_text":"Since the early 1950s, #KLM has offered first and business-class passengers promotional giveaway #Delftware gin bottles in the shape of traditional #Dutch houses. Do you own any Delftware bottles? #TravelTuesday #AVgeek https://t.co/kS2qAPRbGf",
-        "id":"993905908362240000",
-        "id_str":"993905908362240000",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"3",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DcsQJ5CXkAAFox9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DcsQJ5CXkAAFox9.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/kS2qAPRbGf"
+          }
+        ]
+      },
+      "favorite_count": "19",
+      "favorited": false,
+      "full_text": "Since the early 1950s, #KLM has offered first and business-class passengers promotional giveaway #Delftware gin bottles in the shape of traditional #Dutch houses. Do you own any Delftware bottles? #TravelTuesday #AVgeek https://t.co/kS2qAPRbGf",
+      "id": "993905908362240000",
+      "id_str": "993905908362240000",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026110,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729303097,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026110,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729303097,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729303097,
-    "wof:lastmodified":1602634188,
-    "wof:name":"Since the early 1950s, #KLM has offered first and business-class passengers promotional giveaway #Delftware gin bottles in the shape of traditional #Dutch houses. Do you own any Delftware bottles? #TravelTuesday #AVgeek https://t.co/kS2qAPRbGf",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729303097,
+    "wof:lastmodified": 1650064641,
+    "wof:name": "Since the early 1950s, #KLM has offered first and business-class passengers promotional giveaway #Delftware gin bottles in the shape of traditional #Dutch houses. Do you own any Delftware bottles? #TravelTuesday #AVgeek https://t.co/kS2qAPRbGf",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

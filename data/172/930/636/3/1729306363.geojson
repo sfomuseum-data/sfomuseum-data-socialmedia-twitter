@@ -2,184 +2,184 @@
   "id": 1729306363,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-06-18",
-    "date:cessation_upper":"2019-06-18",
-    "date:inception_lower":"2019-06-18",
-    "date:inception_upper":"2019-06-18",
-    "edtf:cessation":"2019-06-18T09:56:54-07:00",
-    "edtf:inception":"2019-06-18T09:56:54-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1560877014,
-        "created_at":"Tue Jun 18 16:56:54 +0000 2019",
-        "display_text_range":[
-            "0",
-            "297"
+    "date:cessation_lower": "2019-06-18",
+    "date:cessation_upper": "2019-06-18",
+    "date:inception_lower": "2019-06-18",
+    "date:inception_upper": "2019-06-18",
+    "edtf:cessation": "2019-06-18T09:56:54-07:00",
+    "edtf:inception": "2019-06-18T09:56:54-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1560877014,
+      "created_at": "Tue Jun 18 16:56:54 +0000 2019",
+      "display_text_range": [
+        "0",
+        "297"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "266",
+              "273"
+            ],
+            "text": "avgeek"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "266",
-                        "273"
-                    ],
-                    "text":"avgeek"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/oxnZ7OOLNR",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1141027014910062593/photo/1",
+            "id": "1141027011634368512",
+            "id_str": "1141027011634368512",
+            "indices": [
+              "274",
+              "297"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/oxnZ7OOLNR",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1141027014910062593/photo/1",
-                    "id":"1141027011634368512",
-                    "id_str":"1141027011634368512",
-                    "indices":[
-                        "274",
-                        "297"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D9W-BYuXkAAxPif.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D9W-BYuXkAAxPif.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1530"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"918"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"520"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/oxnZ7OOLNR"
-                }
+            "media_url": "http://pbs.twimg.com/media/D9W-BYuXkAAxPif.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D9W-BYuXkAAxPif.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1530"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "918"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "520"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/oxnZ7OOLNR"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "7212562",
+            "id_str": "7212562",
+            "indices": [
+              "251",
+              "264"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"7212562",
-                    "id_str":"7212562",
-                    "indices":[
-                        "251",
-                        "264"
-                    ],
-                    "name":"Southwest Airlines",
-                    "screen_name":"SouthwestAir"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/oxnZ7OOLNR",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1141027014910062593/photo/1",
-                    "id":"1141027011634368512",
-                    "id_str":"1141027011634368512",
-                    "indices":[
-                        "274",
-                        "297"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D9W-BYuXkAAxPif.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D9W-BYuXkAAxPif.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1530"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"918"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"520"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/oxnZ7OOLNR"
-                }
-            ]
-        },
-        "favorite_count":"8",
-        "favorited":false,
-        "full_text":"Onthisday in 1971, Southwest Airlines began intrastate operations in Texas. The \u201cLove Bird\u201d service out of Dallas Love Field offered 12 daily round-trip flights to Houston and 6 round-trip flights to San Antonio on Boeing 737s. Have you ever flown on @SouthwestAir? #avgeek https://t.co/oxnZ7OOLNR",
-        "id":"1141027014910062593",
-        "id_str":"1141027014910062593",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"5",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "name": "Southwest Airlines",
+            "screen_name": "SouthwestAir"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/oxnZ7OOLNR",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1141027014910062593/photo/1",
+            "id": "1141027011634368512",
+            "id_str": "1141027011634368512",
+            "indices": [
+              "274",
+              "297"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D9W-BYuXkAAxPif.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D9W-BYuXkAAxPif.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1530"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "918"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "520"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/oxnZ7OOLNR"
+          }
+        ]
+      },
+      "favorite_count": "8",
+      "favorited": false,
+      "full_text": "Onthisday in 1971, Southwest Airlines began intrastate operations in Texas. The “Love Bird” service out of Dallas Love Field offered 12 daily round-trip flights to Houston and 6 round-trip flights to San Antonio on Boeing 737s. Have you ever flown on @SouthwestAir? #avgeek https://t.co/oxnZ7OOLNR",
+      "id": "1141027014910062593",
+      "id_str": "1141027014910062593",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "5",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026236,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729306363,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026236,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729306363,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729306363,
-    "wof:lastmodified":1602634408,
-    "wof:name":"Onthisday in 1971, Southwest Airlines began intrastate operations in Texas. The \u201cLove Bird\u201d service out of Dallas Love Field offered 12 daily round-trip flights to Houston and 6 round-trip flights to San Antonio on Boeing 737s. Have you ever flown on @SouthwestAir? #avgeek https://t.co/oxnZ7OOLNR",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729306363,
+    "wof:lastmodified": 1650064642,
+    "wof:name": "Onthisday in 1971, Southwest Airlines began intrastate operations in Texas. The “Love Bird” service out of Dallas Love Field offered 12 daily round-trip flights to Houston and 6 round-trip flights to San Antonio on Boeing 737s. Have you ever flown on @SouthwestAir? #avgeek https://t.co/oxnZ7OOLNR",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

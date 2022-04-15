@@ -2,140 +2,130 @@
   "id": 1729310579,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-09-14",
-    "date:cessation_upper":"2012-09-14",
-    "date:inception_lower":"2012-09-14",
-    "date:inception_upper":"2012-09-14",
-    "edtf:cessation":"2012-09-14T12:13:42-07:00",
-    "edtf:inception":"2012-09-14T12:13:42-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1347650022,
-        "created_at":"Fri Sep 14 19:13:42 +0000 2012",
-        "display_text_range":[
-            "0",
-            "128"
-        ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "116",
-                        "128"
-                    ],
-                    "text":"askacurator"
-                }
+    "date:cessation_lower": "2012-09-14",
+    "date:cessation_upper": "2012-09-14",
+    "date:inception_lower": "2012-09-14",
+    "date:inception_upper": "2012-09-14",
+    "edtf:cessation": "2012-09-14T12:13:42-07:00",
+    "edtf:inception": "2012-09-14T12:13:42-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1347650022,
+      "created_at": "Fri Sep 14 19:13:42 +0000 2012",
+      "display_text_range": [
+        "0",
+        "128"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "116",
+              "128"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"92997757",
-                    "id_str":"92997757",
-                    "indices":[
-                        "0",
-                        "13"
-                    ],
-                    "name":"The Newark Museum of Art",
-                    "screen_name":"NewarkMuseum"
-                },
-                {
-                    "id":"30290679",
-                    "id_str":"30290679",
-                    "indices":[
-                        "14",
-                        "27"
-                    ],
-                    "name":"Univ Alaska Museum",
-                    "screen_name":"alaskamuseum"
-                },
-                {
-                    "id":"338596639",
-                    "id_str":"338596639",
-                    "indices":[
-                        "28",
-                        "43"
-                    ],
-                    "name":"Parkwood Estate",
-                    "screen_name":"ParkwoodEstate"
-                },
-                {
-                    "id":"280306582",
-                    "id_str":"280306582",
-                    "indices":[
-                        "44",
-                        "57"
-                    ],
-                    "name":"Museum Art & History",
-                    "screen_name":"santacruzmah"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"@NewarkMuseum @alaskamuseum @ParkwoodEstate @santacruzmah Ditto! So curious to see what we'll all be asked on 9/19! #askacurator",
-        "id":"246688189434183680",
-        "id_str":"246688189434183680",
-        "in_reply_to_screen_name":"NewarkMuseum",
-        "in_reply_to_status_id":"246687266720858112",
-        "in_reply_to_status_id_str":"246687266720858112",
-        "in_reply_to_user_id":"92997757",
-        "in_reply_to_user_id_str":"92997757",
-        "lang":"en",
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-        "truncated":false
+            "text": "askacurator"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "30290679",
+            "id_str": "30290679",
+            "indices": [
+              "14",
+              "27"
+            ],
+            "name": "Univ Alaska Museum",
+            "screen_name": "alaskamuseum"
+          },
+          {
+            "id": "338596639",
+            "id_str": "338596639",
+            "indices": [
+              "28",
+              "43"
+            ],
+            "name": "Parkwood Estate",
+            "screen_name": "ParkwoodEstate"
+          },
+          {
+            "id": "280306582",
+            "id_str": "280306582",
+            "indices": [
+              "44",
+              "57"
+            ],
+            "name": "Santa Cruz Museum of Art \u0026 History",
+            "screen_name": "santacruzmah"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@NewarkMuseum @alaskamuseum @ParkwoodEstate @santacruzmah Ditto! So curious to see what we'll all be asked on 9/19! #askacurator",
+      "id": "246688189434183680",
+      "id_str": "246688189434183680",
+      "in_reply_to_screen_name": "NewarkMuseumArt",
+      "in_reply_to_status_id": "246687266720858112",
+      "in_reply_to_status_id_str": "246687266720858112",
+      "in_reply_to_user_id": "92997757",
+      "in_reply_to_user_id_str": "92997757",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026398,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729310579,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026398,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729310579,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729310579,
-    "wof:lastmodified":1602634171,
-    "wof:name":"@NewarkMuseum @alaskamuseum @ParkwoodEstate @santacruzmah Ditto! So curious to see what we'll all be asked on 9/19! #askacurator",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729310579,
+    "wof:lastmodified": 1650064711,
+    "wof:name": "@NewarkMuseum @alaskamuseum @ParkwoodEstate @santacruzmah Ditto! So curious to see what we'll all be asked on 9/19! #askacurator",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

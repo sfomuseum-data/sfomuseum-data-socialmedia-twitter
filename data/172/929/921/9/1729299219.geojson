@@ -2,173 +2,173 @@
   "id": 1729299219,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-01-26",
-    "date:cessation_upper":"2017-01-26",
-    "date:inception_lower":"2017-01-26",
-    "date:inception_upper":"2017-01-26",
-    "edtf:cessation":"2017-01-26T17:05:07-08:00",
-    "edtf:inception":"2017-01-26T17:05:07-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1485479107,
-        "created_at":"Fri Jan 27 01:05:07 +0000 2017",
-        "display_text_range":[
-            "0",
-            "165"
+    "date:cessation_lower": "2017-01-27",
+    "date:cessation_upper": "2017-01-27",
+    "date:inception_lower": "2017-01-27",
+    "date:inception_upper": "2017-01-27",
+    "edtf:cessation": "2017-01-26T17:05:07-08:00",
+    "edtf:inception": "2017-01-26T17:05:07-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1485479107,
+      "created_at": "Fri Jan 27 01:05:07 +0000 2017",
+      "display_text_range": [
+        "0",
+        "165"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "127",
+              "141"
+            ],
+            "text": "GamesofChance"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "127",
-                        "141"
-                    ],
-                    "text":"GamesofChance"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vLKKppQpm3",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/824785273737318403/photo/1",
+            "id": "824785270906220544",
+            "id_str": "824785270906220544",
+            "indices": [
+              "142",
+              "165"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/vLKKppQpm3",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/824785273737318403/photo/1",
-                    "id":"824785270906220544",
-                    "id_str":"824785270906220544",
-                    "indices":[
-                        "142",
-                        "165"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C3I51YBW8AA259I.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C3I51YBW8AA259I.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/vLKKppQpm3"
-                }
+            "media_url": "http://pbs.twimg.com/media/C3I51YBW8AA259I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C3I51YBW8AA259I.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vLKKppQpm3"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vLKKppQpm3",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/824785273737318403/photo/1",
+            "id": "824785270906220544",
+            "id_str": "824785270906220544",
+            "indices": [
+              "142",
+              "165"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/vLKKppQpm3",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/824785273737318403/photo/1",
-                    "id":"824785270906220544",
-                    "id_str":"824785270906220544",
-                    "indices":[
-                        "142",
-                        "165"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C3I51YBW8AA259I.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C3I51YBW8AA259I.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/vLKKppQpm3"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"SF-based machinists and inventors Theodore Holtz &amp; Charles Fey were pioneers in the development of early gambling devices. #GamesofChance https://t.co/vLKKppQpm3",
-        "id":"824785273737318403",
-        "id_str":"824785273737318403",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/C3I51YBW8AA259I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C3I51YBW8AA259I.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vLKKppQpm3"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "SF-based machinists and inventors Theodore Holtz \u0026amp; Charles Fey were pioneers in the development of early gambling devices. #GamesofChance https://t.co/vLKKppQpm3",
+      "id": "824785273737318403",
+      "id_str": "824785273737318403",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025964,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299219,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025964,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299219,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299219,
-    "wof:lastmodified":1602634695,
-    "wof:name":"SF-based machinists and inventors Theodore Holtz &amp; Charles Fey were pioneers in the development of early gambling devices. #GamesofChance https://t.co/vLKKppQpm3",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299219,
+    "wof:lastmodified": 1650064639,
+    "wof:name": "SF-based machinists and inventors Theodore Holtz \u0026amp; Charles Fey were pioneers in the development of early gambling devices. #GamesofChance https://t.co/vLKKppQpm3",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

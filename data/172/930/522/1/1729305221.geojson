@@ -2,173 +2,173 @@
   "id": 1729305221,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-01-19",
-    "date:cessation_upper":"2019-01-19",
-    "date:inception_lower":"2019-01-19",
-    "date:inception_upper":"2019-01-19",
-    "edtf:cessation":"2019-01-19T11:00:37-08:00",
-    "edtf:inception":"2019-01-19T11:00:37-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1547924437,
-        "created_at":"Sat Jan 19 19:00:37 +0000 2019",
-        "display_text_range":[
-            "0",
-            "170"
+    "date:cessation_lower": "2019-01-19",
+    "date:cessation_upper": "2019-01-19",
+    "date:inception_lower": "2019-01-19",
+    "date:inception_upper": "2019-01-19",
+    "edtf:cessation": "2019-01-19T11:00:37-08:00",
+    "edtf:inception": "2019-01-19T11:00:37-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1547924437,
+      "created_at": "Sat Jan 19 19:00:37 +0000 2019",
+      "display_text_range": [
+        "0",
+        "170"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "137",
+              "146"
+            ],
+            "text": "Caticons"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "137",
-                        "146"
-                    ],
-                    "text":"Caticons"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/4GNCqhKHrI",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1086699969497759744/photo/1",
+            "id": "1086699967371231232",
+            "id_str": "1086699967371231232",
+            "indices": [
+              "147",
+              "170"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/4GNCqhKHrI",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1086699969497759744/photo/1",
-                    "id":"1086699967371231232",
-                    "id_str":"1086699967371231232",
-                    "indices":[
-                        "147",
-                        "170"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DxS73NyXQAAVDSz.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DxS73NyXQAAVDSz.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/4GNCqhKHrI"
-                }
+            "media_url": "http://pbs.twimg.com/media/DxS73NyXQAAVDSz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DxS73NyXQAAVDSz.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/4GNCqhKHrI"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/4GNCqhKHrI",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1086699969497759744/photo/1",
+            "id": "1086699967371231232",
+            "id_str": "1086699967371231232",
+            "indices": [
+              "147",
+              "170"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/4GNCqhKHrI",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1086699969497759744/photo/1",
-                    "id":"1086699967371231232",
-                    "id_str":"1086699967371231232",
-                    "indices":[
-                        "147",
-                        "170"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DxS73NyXQAAVDSz.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DxS73NyXQAAVDSz.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/4GNCqhKHrI"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"Can cats see into your soul? This pair of Chinese ceramic cats from the 8th century seem like they can! What do you think of these cats? #Caticons https://t.co/4GNCqhKHrI",
-        "id":"1086699969497759744",
-        "id_str":"1086699969497759744",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DxS73NyXQAAVDSz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DxS73NyXQAAVDSz.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/4GNCqhKHrI"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Can cats see into your soul? This pair of Chinese ceramic cats from the 8th century seem like they can! What do you think of these cats? #Caticons https://t.co/4GNCqhKHrI",
+      "id": "1086699969497759744",
+      "id_str": "1086699969497759744",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026192,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729305221,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026192,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729305221,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729305221,
-    "wof:lastmodified":1602634426,
-    "wof:name":"Can cats see into your soul? This pair of Chinese ceramic cats from the 8th century seem like they can! What do you think of these cats? #Caticons https://t.co/4GNCqhKHrI",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729305221,
+    "wof:lastmodified": 1650064642,
+    "wof:name": "Can cats see into your soul? This pair of Chinese ceramic cats from the 8th century seem like they can! What do you think of these cats? #Caticons https://t.co/4GNCqhKHrI",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

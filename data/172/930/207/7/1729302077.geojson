@@ -2,180 +2,180 @@
   "id": 1729302077,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-12-28",
-    "date:cessation_upper":"2017-12-28",
-    "date:inception_lower":"2017-12-28",
-    "date:inception_upper":"2017-12-28",
-    "edtf:cessation":"2017-12-28T19:30:06-08:00",
-    "edtf:inception":"2017-12-28T19:30:06-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1514518206,
-        "created_at":"Fri Dec 29 03:30:06 +0000 2017",
-        "display_text_range":[
-            "0",
-            "181"
+    "date:cessation_lower": "2017-12-29",
+    "date:cessation_upper": "2017-12-29",
+    "date:inception_lower": "2017-12-29",
+    "date:inception_upper": "2017-12-29",
+    "edtf:cessation": "2017-12-28T19:30:06-08:00",
+    "edtf:inception": "2017-12-28T19:30:06-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1514518206,
+      "created_at": "Fri Dec 29 03:30:06 +0000 2017",
+      "display_text_range": [
+        "0",
+        "181"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "85",
+              "97"
+            ],
+            "text": "typewriters"
+          },
+          {
+            "indices": [
+              "143",
+              "157"
+            ],
+            "text": "thetypewriter"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "85",
-                        "97"
-                    ],
-                    "text":"typewriters"
-                },
-                {
-                    "indices":[
-                        "143",
-                        "157"
-                    ],
-                    "text":"thetypewriter"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ChUYYzIQQ5",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/946584080656883712/photo/1",
+            "id": "946584077640929281",
+            "id_str": "946584077640929281",
+            "indices": [
+              "158",
+              "181"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/ChUYYzIQQ5",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/946584080656883712/photo/1",
-                    "id":"946584077640929281",
-                    "id_str":"946584077640929281",
-                    "indices":[
-                        "158",
-                        "181"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DSLxNBHUEAEn8D8.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DSLxNBHUEAEn8D8.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1173"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"704"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"399"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/ChUYYzIQQ5"
-                }
+            "media_url": "http://pbs.twimg.com/media/DSLxNBHUEAEn8D8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DSLxNBHUEAEn8D8.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1173"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "704"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "399"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ChUYYzIQQ5"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ChUYYzIQQ5",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/946584080656883712/photo/1",
+            "id": "946584077640929281",
+            "id_str": "946584077640929281",
+            "indices": [
+              "158",
+              "181"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/ChUYYzIQQ5",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/946584080656883712/photo/1",
-                    "id":"946584077640929281",
-                    "id_str":"946584077640929281",
-                    "indices":[
-                        "158",
-                        "181"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DSLxNBHUEAEn8D8.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DSLxNBHUEAEn8D8.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1173"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"704"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"399"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/ChUYYzIQQ5"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"Available at a fraction of the price and manufactured in a variety of designs, Index #typewriters were the earliest portable writing machines. #thetypewriter https://t.co/ChUYYzIQQ5",
-        "id":"946584080656883712",
-        "id_str":"946584080656883712",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DSLxNBHUEAEn8D8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DSLxNBHUEAEn8D8.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1173"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "704"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "399"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ChUYYzIQQ5"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Available at a fraction of the price and manufactured in a variety of designs, Index #typewriters were the earliest portable writing machines. #thetypewriter https://t.co/ChUYYzIQQ5",
+      "id": "946584080656883712",
+      "id_str": "946584080656883712",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026070,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729302077,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026070,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729302077,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729302077,
-    "wof:lastmodified":1602634385,
-    "wof:name":"Available at a fraction of the price and manufactured in a variety of designs, Index #typewriters were the earliest portable writing machines. #thetypewriter https://t.co/ChUYYzIQQ5",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729302077,
+    "wof:lastmodified": 1650064640,
+    "wof:name": "Available at a fraction of the price and manufactured in a variety of designs, Index #typewriters were the earliest portable writing machines. #thetypewriter https://t.co/ChUYYzIQQ5",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

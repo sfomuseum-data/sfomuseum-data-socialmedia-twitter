@@ -2,184 +2,184 @@
   "id": 1729297353,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-08-12",
-    "date:cessation_upper":"2016-08-12",
-    "date:inception_lower":"2016-08-12",
-    "date:inception_upper":"2016-08-12",
-    "edtf:cessation":"2016-08-12T18:20:07-07:00",
-    "edtf:inception":"2016-08-12T18:20:07-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1471051207,
-        "created_at":"Sat Aug 13 01:20:07 +0000 2016",
-        "display_text_range":[
-            "0",
-            "140"
+    "date:cessation_lower": "2016-08-13",
+    "date:cessation_upper": "2016-08-13",
+    "date:inception_lower": "2016-08-13",
+    "date:inception_upper": "2016-08-13",
+    "edtf:cessation": "2016-08-12T18:20:07-07:00",
+    "edtf:inception": "2016-08-12T18:20:07-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1471051207,
+      "created_at": "Sat Aug 13 01:20:07 +0000 2016",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "100",
+              "116"
+            ],
+            "text": "FashionInFlight"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "100",
-                        "116"
-                    ],
-                    "text":"FashionInFlight"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/utTrYBUyIp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/764270275433299968/photo/1",
+            "id": "764270272656662528",
+            "id_str": "764270272656662528",
+            "indices": [
+              "117",
+              "140"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/utTrYBUyIp",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/764270275433299968/photo/1",
-                    "id":"764270272656662528",
-                    "id_str":"764270272656662528",
-                    "indices":[
-                        "117",
-                        "140"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cps7w4IXYAA_lap.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cps7w4IXYAA_lap.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1846",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"1108",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"628",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/utTrYBUyIp"
-                }
+            "media_url": "http://pbs.twimg.com/media/Cps7w4IXYAA_lap.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cps7w4IXYAA_lap.jpg",
+            "sizes": {
+              "large": {
+                "h": "1846",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1108",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "628",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/utTrYBUyIp"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "22536055",
+            "id_str": "22536055",
+            "indices": [
+              "87",
+              "99"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"22536055",
-                    "id_str":"22536055",
-                    "indices":[
-                        "87",
-                        "99"
-                    ],
-                    "name":"americanair",
-                    "screen_name":"AmericanAir"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/utTrYBUyIp",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/764270275433299968/photo/1",
-                    "id":"764270272656662528",
-                    "id_str":"764270272656662528",
-                    "indices":[
-                        "117",
-                        "140"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cps7w4IXYAA_lap.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cps7w4IXYAA_lap.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1846",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"1108",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"628",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/utTrYBUyIp"
-                }
-            ]
-        },
-        "favorite_count":"7",
-        "favorited":false,
-        "full_text":"With a resort-wear look, the simple polyester dress came in solid red, white, or blue. @AmericanAir #FashionInFlight https://t.co/utTrYBUyIp",
-        "id":"764270275433299968",
-        "id_str":"764270275433299968",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "americanair",
+            "screen_name": "AmericanAir"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/utTrYBUyIp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/764270275433299968/photo/1",
+            "id": "764270272656662528",
+            "id_str": "764270272656662528",
+            "indices": [
+              "117",
+              "140"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cps7w4IXYAA_lap.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cps7w4IXYAA_lap.jpg",
+            "sizes": {
+              "large": {
+                "h": "1846",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "1108",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "628",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/utTrYBUyIp"
+          }
+        ]
+      },
+      "favorite_count": "7",
+      "favorited": false,
+      "full_text": "With a resort-wear look, the simple polyester dress came in solid red, white, or blue. @AmericanAir #FashionInFlight https://t.co/utTrYBUyIp",
+      "id": "764270275433299968",
+      "id_str": "764270275433299968",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025894,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729297353,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025894,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729297353,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729297353,
-    "wof:lastmodified":1602634604,
-    "wof:name":"With a resort-wear look, the simple polyester dress came in solid red, white, or blue. @AmericanAir #FashionInFlight https://t.co/utTrYBUyIp",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729297353,
+    "wof:lastmodified": 1650064638,
+    "wof:name": "With a resort-wear look, the simple polyester dress came in solid red, white, or blue. @AmericanAir #FashionInFlight https://t.co/utTrYBUyIp",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

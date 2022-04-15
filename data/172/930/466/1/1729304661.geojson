@@ -2,201 +2,201 @@
   "id": 1729304661,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-11-02",
-    "date:cessation_upper":"2018-11-02",
-    "date:inception_lower":"2018-11-02",
-    "date:inception_upper":"2018-11-02",
-    "edtf:cessation":"2018-11-02T16:05:05-07:00",
-    "edtf:inception":"2018-11-02T16:05:05-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1541199905,
-        "created_at":"Fri Nov 02 23:05:05 +0000 2018",
-        "display_text_range":[
-            "0",
-            "226"
+    "date:cessation_lower": "2018-11-02",
+    "date:cessation_upper": "2018-11-02",
+    "date:inception_lower": "2018-11-02",
+    "date:inception_upper": "2018-11-02",
+    "edtf:cessation": "2018-11-02T16:05:05-07:00",
+    "edtf:inception": "2018-11-02T16:05:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1541199905,
+      "created_at": "Fri Nov 02 23:05:05 +0000 2018",
+      "display_text_range": [
+        "0",
+        "226"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0",
+              "10"
+            ],
+            "text": "Onthisday"
+          },
+          {
+            "indices": [
+              "64",
+              "71"
+            ],
+            "text": "Hughes"
+          },
+          {
+            "indices": [
+              "76",
+              "85"
+            ],
+            "text": "Hercules"
+          },
+          {
+            "indices": [
+              "158",
+              "165"
+            ],
+            "text": "Hughes"
+          },
+          {
+            "indices": [
+              "183",
+              "202"
+            ],
+            "text": "AviationEvolutions"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "0",
-                        "10"
-                    ],
-                    "text":"Onthisday"
-                },
-                {
-                    "indices":[
-                        "64",
-                        "71"
-                    ],
-                    "text":"Hughes"
-                },
-                {
-                    "indices":[
-                        "76",
-                        "85"
-                    ],
-                    "text":"Hercules"
-                },
-                {
-                    "indices":[
-                        "158",
-                        "165"
-                    ],
-                    "text":"Hughes"
-                },
-                {
-                    "indices":[
-                        "183",
-                        "202"
-                    ],
-                    "text":"AviationEvolutions"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QmJKsUzIWK",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1058495237092466689/photo/1",
+            "id": "1058495234139664384",
+            "id_str": "1058495234139664384",
+            "indices": [
+              "203",
+              "226"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/QmJKsUzIWK",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1058495237092466689/photo/1",
-                    "id":"1058495234139664384",
-                    "id_str":"1058495234139664384",
-                    "indices":[
-                        "203",
-                        "226"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DrCHzqtWsAAQbya.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DrCHzqtWsAAQbya.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1427",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"856",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"485",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/QmJKsUzIWK"
-                }
+            "media_url": "http://pbs.twimg.com/media/DrCHzqtWsAAQbya.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrCHzqtWsAAQbya.jpg",
+            "sizes": {
+              "large": {
+                "h": "1427",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "856",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "485",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/QmJKsUzIWK"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QmJKsUzIWK",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1058495237092466689/photo/1",
+            "id": "1058495234139664384",
+            "id_str": "1058495234139664384",
+            "indices": [
+              "203",
+              "226"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/QmJKsUzIWK",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1058495237092466689/photo/1",
-                    "id":"1058495234139664384",
-                    "id_str":"1058495234139664384",
-                    "indices":[
-                        "203",
-                        "226"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DrCHzqtWsAAQbya.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DrCHzqtWsAAQbya.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1427",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"856",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"485",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/QmJKsUzIWK"
-                }
-            ]
-        },
-        "favorite_count":"20",
-        "favorited":false,
-        "full_text":"#Onthisday in 1947, off the coast of San Pedro, California, the #Hughes H-4 #Hercules took off and covered only a mile, at an altitude of 70 feet with Howard #Hughes at the controls. #AviationEvolutions https://t.co/QmJKsUzIWK",
-        "id":"1058495237092466689",
-        "id_str":"1058495237092466689",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"6",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DrCHzqtWsAAQbya.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrCHzqtWsAAQbya.jpg",
+            "sizes": {
+              "large": {
+                "h": "1427",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "856",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "485",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/QmJKsUzIWK"
+          }
+        ]
+      },
+      "favorite_count": "20",
+      "favorited": false,
+      "full_text": "#Onthisday in 1947, off the coast of San Pedro, California, the #Hughes H-4 #Hercules took off and covered only a mile, at an altitude of 70 feet with Howard #Hughes at the controls. #AviationEvolutions https://t.co/QmJKsUzIWK",
+      "id": "1058495237092466689",
+      "id_str": "1058495237092466689",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "6",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026171,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729304661,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026171,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729304661,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729304661,
-    "wof:lastmodified":1602634401,
-    "wof:name":"#Onthisday in 1947, off the coast of San Pedro, California, the #Hughes H-4 #Hercules took off and covered only a mile, at an altitude of 70 feet with Howard #Hughes at the controls. #AviationEvolutions https://t.co/QmJKsUzIWK",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729304661,
+    "wof:lastmodified": 1650064642,
+    "wof:name": "#Onthisday in 1947, off the coast of San Pedro, California, the #Hughes H-4 #Hercules took off and covered only a mile, at an altitude of 70 feet with Howard #Hughes at the controls. #AviationEvolutions https://t.co/QmJKsUzIWK",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

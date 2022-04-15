@@ -2,180 +2,180 @@
   "id": 1729299989,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-04-19",
-    "date:cessation_upper":"2017-04-19",
-    "date:inception_lower":"2017-04-19",
-    "date:inception_upper":"2017-04-19",
-    "edtf:cessation":"2017-04-19T19:20:06-07:00",
-    "edtf:inception":"2017-04-19T19:20:06-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1492654806,
-        "created_at":"Thu Apr 20 02:20:06 +0000 2017",
-        "display_text_range":[
-            "0",
-            "163"
+    "date:cessation_lower": "2017-04-20",
+    "date:cessation_upper": "2017-04-20",
+    "date:inception_lower": "2017-04-20",
+    "date:inception_upper": "2017-04-20",
+    "edtf:cessation": "2017-04-19T19:20:06-07:00",
+    "edtf:inception": "2017-04-19T19:20:06-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1492654806,
+      "created_at": "Thu Apr 20 02:20:06 +0000 2017",
+      "display_text_range": [
+        "0",
+        "163"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "106",
+              "122"
+            ],
+            "text": "FashionInFlight"
+          },
+          {
+            "indices": [
+              "123",
+              "139"
+            ],
+            "text": "WomenInAviation"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "106",
-                        "122"
-                    ],
-                    "text":"FashionInFlight"
-                },
-                {
-                    "indices":[
-                        "123",
-                        "139"
-                    ],
-                    "text":"WomenInAviation"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rPR4RJ7Zbp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/854882337477230596/photo/1",
+            "id": "854882333387878401",
+            "id_str": "854882333387878401",
+            "indices": [
+              "140",
+              "163"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/rPR4RJ7Zbp",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/854882337477230596/photo/1",
-                    "id":"854882333387878401",
-                    "id_str":"854882333387878401",
-                    "indices":[
-                        "140",
-                        "163"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C90m8-5XcAExeWX.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C90m8-5XcAExeWX.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1333"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"453"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/rPR4RJ7Zbp"
-                }
+            "media_url": "http://pbs.twimg.com/media/C90m8-5XcAExeWX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C90m8-5XcAExeWX.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rPR4RJ7Zbp"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rPR4RJ7Zbp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/854882337477230596/photo/1",
+            "id": "854882333387878401",
+            "id_str": "854882333387878401",
+            "indices": [
+              "140",
+              "163"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/rPR4RJ7Zbp",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/854882337477230596/photo/1",
-                    "id":"854882333387878401",
-                    "id_str":"854882333387878401",
-                    "indices":[
-                        "140",
-                        "163"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C90m8-5XcAExeWX.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C90m8-5XcAExeWX.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1333"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"453"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/rPR4RJ7Zbp"
-                }
-            ]
-        },
-        "favorite_count":"9",
-        "favorited":false,
-        "full_text":"In 1968, Dalton Apparel created a wardrobe with accessories to give TWA hostesses a range of appearances. #FashionInFlight #WomenInAviation https://t.co/rPR4RJ7Zbp",
-        "id":"854882337477230596",
-        "id_str":"854882337477230596",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/C90m8-5XcAExeWX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C90m8-5XcAExeWX.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rPR4RJ7Zbp"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "In 1968, Dalton Apparel created a wardrobe with accessories to give TWA hostesses a range of appearances. #FashionInFlight #WomenInAviation https://t.co/rPR4RJ7Zbp",
+      "id": "854882337477230596",
+      "id_str": "854882337477230596",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025993,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299989,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025993,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299989,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299989,
-    "wof:lastmodified":1602634456,
-    "wof:name":"In 1968, Dalton Apparel created a wardrobe with accessories to give TWA hostesses a range of appearances. #FashionInFlight #WomenInAviation https://t.co/rPR4RJ7Zbp",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299989,
+    "wof:lastmodified": 1650064639,
+    "wof:name": "In 1968, Dalton Apparel created a wardrobe with accessories to give TWA hostesses a range of appearances. #FashionInFlight #WomenInAviation https://t.co/rPR4RJ7Zbp",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

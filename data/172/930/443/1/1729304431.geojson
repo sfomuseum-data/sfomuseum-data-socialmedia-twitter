@@ -2,321 +2,321 @@
   "id": 1729304431,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-10-05",
-    "date:cessation_upper":"2018-10-05",
-    "date:inception_lower":"2018-10-05",
-    "date:inception_upper":"2018-10-05",
-    "edtf:cessation":"2018-10-05T17:41:11-07:00",
-    "edtf:inception":"2018-10-05T17:41:11-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1538786471,
-        "created_at":"Sat Oct 06 00:41:11 +0000 2018",
-        "display_text_range":[
-            "0",
-            "300"
+    "date:cessation_lower": "2018-10-06",
+    "date:cessation_upper": "2018-10-06",
+    "date:inception_lower": "2018-10-06",
+    "date:inception_upper": "2018-10-06",
+    "edtf:cessation": "2018-10-05T17:41:11-07:00",
+    "edtf:inception": "2018-10-05T17:41:11-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1538786471,
+      "created_at": "Sat Oct 06 00:41:11 +0000 2018",
+      "display_text_range": [
+        "0",
+        "300"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "66",
+              "73"
+            ],
+            "text": "London"
+          },
+          {
+            "indices": [
+              "76",
+              "91"
+            ],
+            "text": "GoldsmithsFair"
+          },
+          {
+            "indices": [
+              "262",
+              "276"
+            ],
+            "text": "BritishSilver"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "66",
-                        "73"
-                    ],
-                    "text":"London"
-                },
-                {
-                    "indices":[
-                        "76",
-                        "91"
-                    ],
-                    "text":"GoldsmithsFair"
-                },
-                {
-                    "indices":[
-                        "262",
-                        "276"
-                    ],
-                    "text":"BritishSilver"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GMUPMfQXfK",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1048372564643405824/photo/1",
+            "id": "1048372406765510657",
+            "id_str": "1048372406765510657",
+            "indices": [
+              "277",
+              "300"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/GMUPMfQXfK",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1048372564643405824/photo/1",
-                    "id":"1048372406765510657",
-                    "id_str":"1048372406765510657",
-                    "indices":[
-                        "277",
-                        "300"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DoyRJkGUYAE48M1.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DoyRJkGUYAE48M1.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2048",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/GMUPMfQXfK"
-                }
+            "media_url": "http://pbs.twimg.com/media/DoyRJkGUYAE48M1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoyRJkGUYAE48M1.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GMUPMfQXfK"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "goldsmithsfair.co.uk",
+            "expanded_url": "https://www.goldsmithsfair.co.uk/",
+            "indices": [
+              "238",
+              "261"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"goldsmithsfair.co.uk",
-                    "expanded_url":"https://www.goldsmithsfair.co.uk/",
-                    "indices":[
-                        "238",
-                        "261"
-                    ],
-                    "url":"https://t.co/z3aOghKGzY"
-                }
+            "url": "https://t.co/z3aOghKGzY"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "2161060922",
+            "id_str": "2161060922",
+            "indices": [
+              "131",
+              "144"
             ],
-            "user_mentions":[
-                {
-                    "id":"2161060922",
-                    "id_str":"2161060922",
-                    "indices":[
-                        "131",
-                        "144"
-                    ],
-                    "name":"The Goldsmiths' Company",
-                    "screen_name":"GoldsmithsCo"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/GMUPMfQXfK",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1048372564643405824/photo/1",
-                    "id":"1048372406765510657",
-                    "id_str":"1048372406765510657",
-                    "indices":[
-                        "277",
-                        "300"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DoyRJkGUYAE48M1.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DoyRJkGUYAE48M1.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2048",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/GMUPMfQXfK"
-                },
-                {
-                    "display_url":"pic.twitter.com/GMUPMfQXfK",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1048372564643405824/photo/1",
-                    "id":"1048372441054044160",
-                    "id_str":"1048372441054044160",
-                    "indices":[
-                        "277",
-                        "300"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DoyRLj1V4AA0ETY.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DoyRLj1V4AA0ETY.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1365",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/GMUPMfQXfK"
-                },
-                {
-                    "display_url":"pic.twitter.com/GMUPMfQXfK",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1048372564643405824/photo/1",
-                    "id":"1048372468405002240",
-                    "id_str":"1048372468405002240",
-                    "indices":[
-                        "277",
-                        "300"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DoyRNJuUYAAQt4t.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DoyRNJuUYAAQt4t.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2048",
-                            "resize":"fit",
-                            "w":"1365"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"453"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/GMUPMfQXfK"
-                },
-                {
-                    "display_url":"pic.twitter.com/GMUPMfQXfK",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1048372564643405824/photo/1",
-                    "id":"1048372469269057537",
-                    "id_str":"1048372469269057537",
-                    "indices":[
-                        "277",
-                        "300"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DoyRNM8U0AEVMiF.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DoyRNM8U0AEVMiF.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2048",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/GMUPMfQXfK"
-                }
-            ]
-        },
-        "favorite_count":"3",
-        "favorited":false,
-        "full_text":"Some of the objects in \"A Sterling Renaissance\" were purchased at #London\u2019s #GoldsmithsFair, an annual purchasing fair held by The @GoldsmithsCo that places the public in direct contact with extraordinary artists. Happening this weekend: https://t.co/z3aOghKGzY #BritishSilver https://t.co/GMUPMfQXfK",
-        "id":"1048372564643405824",
-        "id_str":"1048372564643405824",
-        "in_reply_to_screen_name":"SFOMuseum",
-        "in_reply_to_status_id":"1048367858986536961",
-        "in_reply_to_status_id_str":"1048367858986536961",
-        "in_reply_to_user_id":"116329337",
-        "in_reply_to_user_id_str":"116329337",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated":false
+            "name": "The Goldsmiths' Company",
+            "screen_name": "GoldsmithsCo"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GMUPMfQXfK",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1048372564643405824/photo/1",
+            "id": "1048372406765510657",
+            "id_str": "1048372406765510657",
+            "indices": [
+              "277",
+              "300"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoyRJkGUYAE48M1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoyRJkGUYAE48M1.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GMUPMfQXfK"
+          },
+          {
+            "display_url": "pic.twitter.com/GMUPMfQXfK",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1048372564643405824/photo/1",
+            "id": "1048372441054044160",
+            "id_str": "1048372441054044160",
+            "indices": [
+              "277",
+              "300"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoyRLj1V4AA0ETY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoyRLj1V4AA0ETY.jpg",
+            "sizes": {
+              "large": {
+                "h": "1365",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GMUPMfQXfK"
+          },
+          {
+            "display_url": "pic.twitter.com/GMUPMfQXfK",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1048372564643405824/photo/1",
+            "id": "1048372468405002240",
+            "id_str": "1048372468405002240",
+            "indices": [
+              "277",
+              "300"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoyRNJuUYAAQt4t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoyRNJuUYAAQt4t.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1365"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GMUPMfQXfK"
+          },
+          {
+            "display_url": "pic.twitter.com/GMUPMfQXfK",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1048372564643405824/photo/1",
+            "id": "1048372469269057537",
+            "id_str": "1048372469269057537",
+            "indices": [
+              "277",
+              "300"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoyRNM8U0AEVMiF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoyRNM8U0AEVMiF.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GMUPMfQXfK"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "Some of the objects in \"A Sterling Renaissance\" were purchased at #London’s #GoldsmithsFair, an annual purchasing fair held by The @GoldsmithsCo that places the public in direct contact with extraordinary artists. Happening this weekend: https://t.co/z3aOghKGzY #BritishSilver https://t.co/GMUPMfQXfK",
+      "id": "1048372564643405824",
+      "id_str": "1048372564643405824",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1048367858986536961",
+      "in_reply_to_status_id_str": "1048367858986536961",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026162,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729304431,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026162,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729304431,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729304431,
-    "wof:lastmodified":1602634356,
-    "wof:name":"Some of the objects in \"A Sterling Renaissance\" were purchased at #London\u2019s #GoldsmithsFair, an annual purchasing fair held by The @GoldsmithsCo that places the public in direct contact with extraordinary artists. Happening this weekend: https://t.co/z3aOghKGzY #BritishSilver https://t.co/GMUPMfQXfK",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729304431,
+    "wof:lastmodified": 1650064641,
+    "wof:name": "Some of the objects in \"A Sterling Renaissance\" were purchased at #London’s #GoldsmithsFair, an annual purchasing fair held by The @GoldsmithsCo that places the public in direct contact with extraordinary artists. Happening this weekend: https://t.co/z3aOghKGzY #BritishSilver https://t.co/GMUPMfQXfK",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

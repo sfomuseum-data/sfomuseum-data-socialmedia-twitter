@@ -2,173 +2,173 @@
   "id": 1729299281,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-02-01",
-    "date:cessation_upper":"2017-02-01",
-    "date:inception_lower":"2017-02-01",
-    "date:inception_upper":"2017-02-01",
-    "edtf:cessation":"2017-02-01T19:05:07-08:00",
-    "edtf:inception":"2017-02-01T19:05:07-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1486004707,
-        "created_at":"Thu Feb 02 03:05:07 +0000 2017",
-        "display_text_range":[
-            "0",
-            "157"
+    "date:cessation_lower": "2017-02-02",
+    "date:cessation_upper": "2017-02-02",
+    "date:inception_lower": "2017-02-02",
+    "date:inception_upper": "2017-02-02",
+    "edtf:cessation": "2017-02-01T19:05:07-08:00",
+    "edtf:inception": "2017-02-01T19:05:07-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1486004707,
+      "created_at": "Thu Feb 02 03:05:07 +0000 2017",
+      "display_text_range": [
+        "0",
+        "157"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "120",
+              "133"
+            ],
+            "text": "AllRoadsRome"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "120",
-                        "133"
-                    ],
-                    "text":"AllRoadsRome"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mbasmEcd0C",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/826989797222776833/photo/1",
+            "id": "826989793431150592",
+            "id_str": "826989793431150592",
+            "indices": [
+              "134",
+              "157"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/mbasmEcd0C",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/826989797222776833/photo/1",
-                    "id":"826989793431150592",
-                    "id_str":"826989793431150592",
-                    "indices":[
-                        "134",
-                        "157"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C3oO1eZWYAAkz5c.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C3oO1eZWYAAkz5c.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1447",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"868",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"492",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/mbasmEcd0C"
-                }
+            "media_url": "http://pbs.twimg.com/media/C3oO1eZWYAAkz5c.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C3oO1eZWYAAkz5c.jpg",
+            "sizes": {
+              "large": {
+                "h": "1447",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "868",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "492",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/mbasmEcd0C"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mbasmEcd0C",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/826989797222776833/photo/1",
+            "id": "826989793431150592",
+            "id_str": "826989793431150592",
+            "indices": [
+              "134",
+              "157"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/mbasmEcd0C",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/826989797222776833/photo/1",
-                    "id":"826989793431150592",
-                    "id_str":"826989793431150592",
-                    "indices":[
-                        "134",
-                        "157"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C3oO1eZWYAAkz5c.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C3oO1eZWYAAkz5c.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1447",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"868",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"492",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/mbasmEcd0C"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"Rome resonates in its enduring architecture and public monuments, which were first widely disseminated through tourism. #AllRoadsRome https://t.co/mbasmEcd0C",
-        "id":"826989797222776833",
-        "id_str":"826989797222776833",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/C3oO1eZWYAAkz5c.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C3oO1eZWYAAkz5c.jpg",
+            "sizes": {
+              "large": {
+                "h": "1447",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "868",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "492",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/mbasmEcd0C"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Rome resonates in its enduring architecture and public monuments, which were first widely disseminated through tourism. #AllRoadsRome https://t.co/mbasmEcd0C",
+      "id": "826989797222776833",
+      "id_str": "826989797222776833",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025966,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299281,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025966,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299281,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299281,
-    "wof:lastmodified":1602634698,
-    "wof:name":"Rome resonates in its enduring architecture and public monuments, which were first widely disseminated through tourism. #AllRoadsRome https://t.co/mbasmEcd0C",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299281,
+    "wof:lastmodified": 1650064639,
+    "wof:name": "Rome resonates in its enduring architecture and public monuments, which were first widely disseminated through tourism. #AllRoadsRome https://t.co/mbasmEcd0C",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

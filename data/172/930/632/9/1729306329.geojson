@@ -2,180 +2,180 @@
   "id": 1729306329,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-06-04",
-    "date:cessation_upper":"2019-06-04",
-    "date:inception_lower":"2019-06-04",
-    "date:inception_upper":"2019-06-04",
-    "edtf:cessation":"2019-06-04T15:20:05-07:00",
-    "edtf:inception":"2019-06-04T15:20:05-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1559686805,
-        "created_at":"Tue Jun 04 22:20:05 +0000 2019",
-        "display_text_range":[
-            "0",
-            "266"
+    "date:cessation_lower": "2019-06-04",
+    "date:cessation_upper": "2019-06-04",
+    "date:inception_lower": "2019-06-04",
+    "date:inception_upper": "2019-06-04",
+    "edtf:cessation": "2019-06-04T15:20:05-07:00",
+    "edtf:inception": "2019-06-04T15:20:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1559686805,
+      "created_at": "Tue Jun 04 22:20:05 +0000 2019",
+      "display_text_range": [
+        "0",
+        "266"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "87",
+              "95"
+            ],
+            "text": "jukebox"
+          },
+          {
+            "indices": [
+              "228",
+              "242"
+            ],
+            "text": "1950sConsumer"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "87",
-                        "95"
-                    ],
-                    "text":"jukebox"
-                },
-                {
-                    "indices":[
-                        "228",
-                        "242"
-                    ],
-                    "text":"1950sConsumer"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XplAxX2gJA",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1136034918985867265/photo/1",
+            "id": "1136034911368949760",
+            "id_str": "1136034911368949760",
+            "indices": [
+              "243",
+              "266"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XplAxX2gJA",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1136034918985867265/photo/1",
-                    "id":"1136034911368949760",
-                    "id_str":"1136034911368949760",
-                    "indices":[
-                        "243",
-                        "266"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D8QBu6CWsAAgS9f.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D8QBu6CWsAAgS9f.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XplAxX2gJA"
-                }
+            "media_url": "http://pbs.twimg.com/media/D8QBu6CWsAAgS9f.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8QBu6CWsAAgS9f.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XplAxX2gJA"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XplAxX2gJA",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1136034918985867265/photo/1",
+            "id": "1136034911368949760",
+            "id_str": "1136034911368949760",
+            "indices": [
+              "243",
+              "266"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XplAxX2gJA",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1136034918985867265/photo/1",
-                    "id":"1136034911368949760",
-                    "id_str":"1136034911368949760",
-                    "indices":[
-                        "243",
-                        "266"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D8QBu6CWsAAgS9f.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D8QBu6CWsAAgS9f.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XplAxX2gJA"
-                }
-            ]
-        },
-        "favorite_count":"7",
-        "favorited":false,
-        "full_text":"In 1949, the Seeburg Corp. introduced their model M100A which featured a 100-selection #jukebox as opposed to previous machines that played an average of 24. The Model 161, seen here, was introduced in 1958 with 160-selections. #1950sConsumer https://t.co/XplAxX2gJA",
-        "id":"1136034918985867265",
-        "id_str":"1136034918985867265",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/D8QBu6CWsAAgS9f.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8QBu6CWsAAgS9f.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XplAxX2gJA"
+          }
+        ]
+      },
+      "favorite_count": "7",
+      "favorited": false,
+      "full_text": "In 1949, the Seeburg Corp. introduced their model M100A which featured a 100-selection #jukebox as opposed to previous machines that played an average of 24. The Model 161, seen here, was introduced in 1958 with 160-selections. #1950sConsumer https://t.co/XplAxX2gJA",
+      "id": "1136034918985867265",
+      "id_str": "1136034918985867265",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026235,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729306329,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026235,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729306329,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729306329,
-    "wof:lastmodified":1602634273,
-    "wof:name":"In 1949, the Seeburg Corp. introduced their model M100A which featured a 100-selection #jukebox as opposed to previous machines that played an average of 24. The Model 161, seen here, was introduced in 1958 with 160-selections. #1950sConsumer https://t.co/XplAxX2gJA",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729306329,
+    "wof:lastmodified": 1650064642,
+    "wof:name": "In 1949, the Seeburg Corp. introduced their model M100A which featured a 100-selection #jukebox as opposed to previous machines that played an average of 24. The Model 161, seen here, was introduced in 1958 with 160-selections. #1950sConsumer https://t.co/XplAxX2gJA",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

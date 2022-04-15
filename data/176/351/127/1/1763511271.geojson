@@ -1,0 +1,93 @@
+{
+  "id": 1763511271,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-10-02",
+    "date:cessation_upper": "2020-10-02",
+    "date:inception_lower": "2020-10-02",
+    "date:inception_upper": "2020-10-02",
+    "edtf:cessation": "2020-10-02T14:45:03-07:00",
+    "edtf:inception": "2020-10-02T14:45:03-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1601675103,
+      "created_at": "Fri Oct 02 21:45:03 +0000 2020",
+      "display_text_range": [
+        "0",
+        "139"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "14848513",
+            "id_str": "14848513",
+            "indices": [
+              "3",
+              "15"
+            ],
+            "name": "National Air and Space Museum",
+            "screen_name": "airandspace"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @airandspace: Wilbur Wright, October 2, 1902: \"...we now believe that the flying problem is really nearing its solution.” ✈️ \n\nThe 1902…",
+      "id": "1312146605391273984",
+      "id_str": "1312146605391273984",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064645,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763511271,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763511271,
+    "wof:lastmodified": 1650064645,
+    "wof:name": "RT @airandspace: Wilbur Wright, October 2, 1902: \"...we now believe that the flying problem is really nearing its solution.” ✈️ \n\nThe 1902…",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

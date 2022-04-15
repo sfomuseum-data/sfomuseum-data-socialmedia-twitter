@@ -2,216 +2,216 @@
   "id": 1729303795,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-07-30",
-    "date:cessation_upper":"2018-07-30",
-    "date:inception_lower":"2018-07-30",
-    "date:inception_upper":"2018-07-30",
-    "edtf:cessation":"2018-07-30T13:30:09-07:00",
-    "edtf:inception":"2018-07-30T13:30:09-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1532982609,
-        "created_at":"Mon Jul 30 20:30:09 +0000 2018",
-        "display_text_range":[
-            "0",
-            "266"
+    "date:cessation_lower": "2018-07-30",
+    "date:cessation_upper": "2018-07-30",
+    "date:inception_lower": "2018-07-30",
+    "date:inception_upper": "2018-07-30",
+    "edtf:cessation": "2018-07-30T13:30:09-07:00",
+    "edtf:inception": "2018-07-30T13:30:09-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1532982609,
+      "created_at": "Mon Jul 30 20:30:09 +0000 2018",
+      "display_text_range": [
+        "0",
+        "266"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "111",
+              "123"
+            ],
+            "text": "PanAmerican"
+          },
+          {
+            "indices": [
+              "198",
+              "216"
+            ],
+            "text": "Papahānaumokuākea"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "111",
-                        "123"
-                    ],
-                    "text":"PanAmerican"
-                },
-                {
-                    "indices":[
-                        "198",
-                        "216"
-                    ],
-                    "text":"Papah\u0101naumoku\u0101kea"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DQlVH3fwtp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1024029399862190081/photo/1",
+            "id": "1024029394724106241",
+            "id_str": "1024029394724106241",
+            "indices": [
+              "243",
+              "266"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/DQlVH3fwtp",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1024029399862190081/photo/1",
-                    "id":"1024029394724106241",
-                    "id_str":"1024029394724106241",
-                    "indices":[
-                        "243",
-                        "266"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DjYVTxgWsAEvFHz.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DjYVTxgWsAEvFHz.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1450"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"870"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"493"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/DQlVH3fwtp"
-                }
+            "media_url": "http://pbs.twimg.com/media/DjYVTxgWsAEvFHz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DjYVTxgWsAEvFHz.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1450"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "870"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "493"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/DQlVH3fwtp"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DQlVH3fwtp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1024029399862190081/photo/1",
+            "id": "1024029394724106241",
+            "id_str": "1024029394724106241",
+            "indices": [
+              "243",
+              "266"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/DQlVH3fwtp",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1024029399862190081/photo/1",
-                    "id":"1024029394724106241",
-                    "id_str":"1024029394724106241",
-                    "indices":[
-                        "243",
-                        "266"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DjYVTxgWsAEvFHz.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DjYVTxgWsAEvFHz.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1450"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"870"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"493"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/DQlVH3fwtp"
-                },
-                {
-                    "display_url":"pic.twitter.com/DQlVH3fwtp",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1024029399862190081/photo/1",
-                    "id":"1024029396603154433",
-                    "id_str":"1024029396603154433",
-                    "indices":[
-                        "243",
-                        "266"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DjYVT4gWsAEuPQU.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DjYVT4gWsAEuPQU.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1255",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"753",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"427",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/DQlVH3fwtp"
-                }
-            ]
-        },
-        "favorite_count":"9",
-        "favorited":false,
-        "full_text":"There's a bird, there's a bird, oh look, there's another bird. Midway Atoll was once used as an island stop by #PanAmerican on its transpacific flights from the 1930s to '50s. Now it is part of the #Papah\u0101naumoku\u0101kea Marine National Monument. https://t.co/DQlVH3fwtp",
-        "id":"1024029399862190081",
-        "id_str":"1024029399862190081",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"3",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DjYVTxgWsAEvFHz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DjYVTxgWsAEvFHz.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1450"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "870"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "493"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/DQlVH3fwtp"
+          },
+          {
+            "display_url": "pic.twitter.com/DQlVH3fwtp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1024029399862190081/photo/1",
+            "id": "1024029396603154433",
+            "id_str": "1024029396603154433",
+            "indices": [
+              "243",
+              "266"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DjYVT4gWsAEuPQU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DjYVT4gWsAEuPQU.jpg",
+            "sizes": {
+              "large": {
+                "h": "1255",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "753",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "427",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/DQlVH3fwtp"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "There's a bird, there's a bird, oh look, there's another bird. Midway Atoll was once used as an island stop by #PanAmerican on its transpacific flights from the 1930s to '50s. Now it is part of the #Papahānaumokuākea Marine National Monument. https://t.co/DQlVH3fwtp",
+      "id": "1024029399862190081",
+      "id_str": "1024029399862190081",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026138,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729303795,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026138,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729303795,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729303795,
-    "wof:lastmodified":1602634283,
-    "wof:name":"There's a bird, there's a bird, oh look, there's another bird. Midway Atoll was once used as an island stop by #PanAmerican on its transpacific flights from the 1930s to '50s. Now it is part of the #Papah\u0101naumoku\u0101kea Marine National Monument. https://t.co/DQlVH3fwtp",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729303795,
+    "wof:lastmodified": 1650064641,
+    "wof:name": "There's a bird, there's a bird, oh look, there's another bird. Midway Atoll was once used as an island stop by #PanAmerican on its transpacific flights from the 1930s to '50s. Now it is part of the #Papahānaumokuākea Marine National Monument. https://t.co/DQlVH3fwtp",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

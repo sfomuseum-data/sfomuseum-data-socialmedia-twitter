@@ -2,105 +2,105 @@
   "id": 1729296205,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-05-18",
-    "date:cessation_upper":"2016-05-18",
-    "date:inception_lower":"2016-05-18",
-    "date:inception_upper":"2016-05-18",
-    "edtf:cessation":"2016-05-18T18:55:05-07:00",
-    "edtf:inception":"2016-05-18T18:55:05-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1463622905,
-        "created_at":"Thu May 19 01:55:05 +0000 2016",
-        "display_text_range":[
-            "0",
-            "131"
+    "date:cessation_lower": "2016-05-19",
+    "date:cessation_upper": "2016-05-19",
+    "date:inception_lower": "2016-05-19",
+    "date:inception_upper": "2016-05-19",
+    "edtf:cessation": "2016-05-18T18:55:05-07:00",
+    "edtf:inception": "2016-05-18T18:55:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1463622905,
+      "created_at": "Thu May 19 01:55:05 +0000 2016",
+      "display_text_range": [
+        "0",
+        "131"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "33",
+              "39"
+            ],
+            "text": "PanAm"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "33",
-                        "39"
-                    ],
-                    "text":"PanAm"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "sfomuseum.tumblr.com/post/144562258…",
+            "expanded_url": "http://sfomuseum.tumblr.com/post/144562258096/space-travel-was-huge-topic-in-1968-apollo-8-was",
+            "indices": [
+              "108",
+              "131"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"sfomuseum.tumblr.com/post/144562258\u2026",
-                    "expanded_url":"http://sfomuseum.tumblr.com/post/144562258096/space-travel-was-huge-topic-in-1968-apollo-8-was",
-                    "indices":[
-                        "108",
-                        "131"
-                    ],
-                    "url":"https://t.co/DTHv70i7CU"
-                }
-            ],
-            "user_mentions":[]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"Over 90,000 people signed up for #PanAm's \"First Moon Flights\" Club. Read more about it on our Tumblr blog! https://t.co/DTHv70i7CU",
-        "id":"733113715797700608",
-        "id_str":"733113715797700608",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "url": "https://t.co/DTHv70i7CU"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Over 90,000 people signed up for #PanAm's \"First Moon Flights\" Club. Read more about it on our Tumblr blog! https://t.co/DTHv70i7CU",
+      "id": "733113715797700608",
+      "id_str": "733113715797700608",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025848,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729296205,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025848,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729296205,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729296205,
-    "wof:lastmodified":1602634511,
-    "wof:name":"Over 90,000 people signed up for #PanAm's \"First Moon Flights\" Club. Read more about it on our Tumblr blog! https://t.co/DTHv70i7CU",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729296205,
+    "wof:lastmodified": 1650064637,
+    "wof:name": "Over 90,000 people signed up for #PanAm's \"First Moon Flights\" Club. Read more about it on our Tumblr blog! https://t.co/DTHv70i7CU",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

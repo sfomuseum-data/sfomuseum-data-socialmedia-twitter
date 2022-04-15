@@ -2,175 +2,175 @@
   "id": 1729295713,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-04-08",
-    "date:cessation_upper":"2016-04-08",
-    "date:inception_lower":"2016-04-08",
-    "date:inception_upper":"2016-04-08",
-    "edtf:cessation":"2016-04-08T16:32:18-07:00",
-    "edtf:inception":"2016-04-08T16:32:18-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1460158338,
-        "created_at":"Fri Apr 08 23:32:18 +0000 2016",
-        "display_text_range":[
-            "0",
-            "137"
+    "date:cessation_lower": "2016-04-08",
+    "date:cessation_upper": "2016-04-08",
+    "date:inception_lower": "2016-04-08",
+    "date:inception_upper": "2016-04-08",
+    "edtf:cessation": "2016-04-08T16:32:18-07:00",
+    "edtf:inception": "2016-04-08T16:32:18-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1460158338,
+      "created_at": "Fri Apr 08 23:32:18 +0000 2016",
+      "display_text_range": [
+        "0",
+        "137"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/3sJwFBywxE",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/718582270488141824/photo/1",
+            "id": "718582269154238464",
+            "id_str": "718582269154238464",
+            "indices": [
+              "114",
+              "137"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CfjqxD7VIAA9qBP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CfjqxD7VIAA9qBP.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "811"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "475"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "269"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/3sJwFBywxE"
+          }
         ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/3sJwFBywxE",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/718582270488141824/photo/1",
-                    "id":"718582269154238464",
-                    "id_str":"718582269154238464",
-                    "indices":[
-                        "114",
-                        "137"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CfjqxD7VIAA9qBP.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CfjqxD7VIAA9qBP.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2048",
-                            "resize":"fit",
-                            "w":"811"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"475"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"269"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/3sJwFBywxE"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "sfomuseum.tumblr.com/post/142467380…",
+            "expanded_url": "http://sfomuseum.tumblr.com/post/142467380411/have-you-ever-wondered-what-a-ticket-looked-like",
+            "indices": [
+              "90",
+              "113"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"sfomuseum.tumblr.com/post/142467380\u2026",
-                    "expanded_url":"http://sfomuseum.tumblr.com/post/142467380411/have-you-ever-wondered-what-a-ticket-looked-like",
-                    "indices":[
-                        "90",
-                        "113"
-                    ],
-                    "url":"https://t.co/j2Qm6OaXCZ"
-                }
+            "url": "https://t.co/j2Qm6OaXCZ"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/3sJwFBywxE",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/718582270488141824/photo/1",
+            "id": "718582269154238464",
+            "id_str": "718582269154238464",
+            "indices": [
+              "114",
+              "137"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/3sJwFBywxE",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/718582270488141824/photo/1",
-                    "id":"718582269154238464",
-                    "id_str":"718582269154238464",
-                    "indices":[
-                        "114",
-                        "137"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CfjqxD7VIAA9qBP.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CfjqxD7VIAA9qBP.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2048",
-                            "resize":"fit",
-                            "w":"811"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"475"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"269"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/3sJwFBywxE"
-                }
-            ]
-        },
-        "favorite_count":"6",
-        "favorited":false,
-        "full_text":"Have you ever wondered what a ticket looked like in the early age of commercial aviation? https://t.co/j2Qm6OaXCZ https://t.co/3sJwFBywxE",
-        "id":"718582270488141824",
-        "id_str":"718582270488141824",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"4",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/CfjqxD7VIAA9qBP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CfjqxD7VIAA9qBP.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "811"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "475"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "269"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/3sJwFBywxE"
+          }
+        ]
+      },
+      "favorite_count": "6",
+      "favorited": false,
+      "full_text": "Have you ever wondered what a ticket looked like in the early age of commercial aviation? https://t.co/j2Qm6OaXCZ https://t.co/3sJwFBywxE",
+      "id": "718582270488141824",
+      "id_str": "718582270488141824",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "4",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025829,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729295713,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025829,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729295713,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729295713,
-    "wof:lastmodified":1602634678,
-    "wof:name":"Have you ever wondered what a ticket looked like in the early age of commercial aviation? https://t.co/j2Qm6OaXCZ https://t.co/3sJwFBywxE",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729295713,
+    "wof:lastmodified": 1650064637,
+    "wof:name": "Have you ever wondered what a ticket looked like in the early age of commercial aviation? https://t.co/j2Qm6OaXCZ https://t.co/3sJwFBywxE",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

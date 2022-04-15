@@ -2,180 +2,180 @@
   "id": 1729300871,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-08-10",
-    "date:cessation_upper":"2017-08-10",
-    "date:inception_lower":"2017-08-10",
-    "date:inception_upper":"2017-08-10",
-    "edtf:cessation":"2017-08-10T19:50:05-07:00",
-    "edtf:inception":"2017-08-10T19:50:05-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1502419805,
-        "created_at":"Fri Aug 11 02:50:05 +0000 2017",
-        "display_text_range":[
-            "0",
-            "155"
+    "date:cessation_lower": "2017-08-11",
+    "date:cessation_upper": "2017-08-11",
+    "date:inception_lower": "2017-08-11",
+    "date:inception_upper": "2017-08-11",
+    "edtf:cessation": "2017-08-10T19:50:05-07:00",
+    "edtf:inception": "2017-08-10T19:50:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1502419805,
+      "created_at": "Fri Aug 11 02:50:05 +0000 2017",
+      "display_text_range": [
+        "0",
+        "155"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "105",
+              "112"
+            ],
+            "text": "avgeek"
+          },
+          {
+            "indices": [
+              "113",
+              "131"
+            ],
+            "text": "ThrowbackThursday"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "105",
-                        "112"
-                    ],
-                    "text":"avgeek"
-                },
-                {
-                    "indices":[
-                        "113",
-                        "131"
-                    ],
-                    "text":"ThrowbackThursday"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FgqrjeKQ0t",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/895839709955543041/photo/1",
+            "id": "895839705215926272",
+            "id_str": "895839705215926272",
+            "indices": [
+              "132",
+              "155"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/FgqrjeKQ0t",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/895839709955543041/photo/1",
-                    "id":"895839705215926272",
-                    "id_str":"895839705215926272",
-                    "indices":[
-                        "132",
-                        "155"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DG6pdy0WAAARMxD.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DG6pdy0WAAARMxD.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1552"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"931"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"528"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/FgqrjeKQ0t"
-                }
+            "media_url": "http://pbs.twimg.com/media/DG6pdy0WAAARMxD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DG6pdy0WAAARMxD.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1552"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "931"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "528"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FgqrjeKQ0t"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FgqrjeKQ0t",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/895839709955543041/photo/1",
+            "id": "895839705215926272",
+            "id_str": "895839705215926272",
+            "indices": [
+              "132",
+              "155"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/FgqrjeKQ0t",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/895839709955543041/photo/1",
-                    "id":"895839705215926272",
-                    "id_str":"895839705215926272",
-                    "indices":[
-                        "132",
-                        "155"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DG6pdy0WAAARMxD.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DG6pdy0WAAARMxD.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1552"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"931"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"528"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/FgqrjeKQ0t"
-                }
-            ]
-        },
-        "favorite_count":"5",
-        "favorited":false,
-        "full_text":"In 1944, Western Air Lines announced their return to SFO, flying the San Francisco to Los Angeles route. #avgeek #ThrowbackThursday https://t.co/FgqrjeKQ0t",
-        "id":"895839709955543041",
-        "id_str":"895839709955543041",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DG6pdy0WAAARMxD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DG6pdy0WAAARMxD.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1552"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "931"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "528"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FgqrjeKQ0t"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "In 1944, Western Air Lines announced their return to SFO, flying the San Francisco to Los Angeles route. #avgeek #ThrowbackThursday https://t.co/FgqrjeKQ0t",
+      "id": "895839709955543041",
+      "id_str": "895839709955543041",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026026,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729300871,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026026,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729300871,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729300871,
-    "wof:lastmodified":1602634350,
-    "wof:name":"In 1944, Western Air Lines announced their return to SFO, flying the San Francisco to Los Angeles route. #avgeek #ThrowbackThursday https://t.co/FgqrjeKQ0t",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729300871,
+    "wof:lastmodified": 1650064639,
+    "wof:name": "In 1944, Western Air Lines announced their return to SFO, flying the San Francisco to Los Angeles route. #avgeek #ThrowbackThursday https://t.co/FgqrjeKQ0t",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

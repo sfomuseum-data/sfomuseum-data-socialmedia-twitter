@@ -2,173 +2,173 @@
   "id": 1729299795,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-04-02",
-    "date:cessation_upper":"2017-04-02",
-    "date:inception_lower":"2017-04-02",
-    "date:inception_upper":"2017-04-02",
-    "edtf:cessation":"2017-04-02T11:00:57-07:00",
-    "edtf:inception":"2017-04-02T11:00:57-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1491156057,
-        "created_at":"Sun Apr 02 18:00:57 +0000 2017",
-        "display_text_range":[
-            "0",
-            "113"
+    "date:cessation_lower": "2017-04-02",
+    "date:cessation_upper": "2017-04-02",
+    "date:inception_lower": "2017-04-02",
+    "date:inception_upper": "2017-04-02",
+    "edtf:cessation": "2017-04-02T11:00:57-07:00",
+    "edtf:inception": "2017-04-02T11:00:57-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1491156057,
+      "created_at": "Sun Apr 02 18:00:57 +0000 2017",
+      "display_text_range": [
+        "0",
+        "113"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "69",
+              "89"
+            ],
+            "text": "PavlinaEcclesiarhou"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "69",
-                        "89"
-                    ],
-                    "text":"PavlinaEcclesiarhou"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/n9txlMNph2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/848596125045207040/photo/1",
+            "id": "848596122444681220",
+            "id_str": "848596122444681220",
+            "indices": [
+              "90",
+              "113"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/n9txlMNph2",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/848596125045207040/photo/1",
-                    "id":"848596122444681220",
-                    "id_str":"848596122444681220",
-                    "indices":[
-                        "90",
-                        "113"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C8bRrWQW0AQfpDE.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C8bRrWQW0AQfpDE.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1306",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"784",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"444",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/n9txlMNph2"
-                }
+            "media_url": "http://pbs.twimg.com/media/C8bRrWQW0AQfpDE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C8bRrWQW0AQfpDE.jpg",
+            "sizes": {
+              "large": {
+                "h": "1306",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "784",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "444",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/n9txlMNph2"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/n9txlMNph2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/848596125045207040/photo/1",
+            "id": "848596122444681220",
+            "id_str": "848596122444681220",
+            "indices": [
+              "90",
+              "113"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/n9txlMNph2",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/848596125045207040/photo/1",
-                    "id":"848596122444681220",
-                    "id_str":"848596122444681220",
-                    "indices":[
-                        "90",
-                        "113"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C8bRrWQW0AQfpDE.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C8bRrWQW0AQfpDE.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1306",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"784",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"444",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/n9txlMNph2"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"\u201cI wanted to make a story about animals on the brink of extinction.\u201d #PavlinaEcclesiarhou https://t.co/n9txlMNph2",
-        "id":"848596125045207040",
-        "id_str":"848596125045207040",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/C8bRrWQW0AQfpDE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C8bRrWQW0AQfpDE.jpg",
+            "sizes": {
+              "large": {
+                "h": "1306",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "784",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "444",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/n9txlMNph2"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "“I wanted to make a story about animals on the brink of extinction.” #PavlinaEcclesiarhou https://t.co/n9txlMNph2",
+      "id": "848596125045207040",
+      "id_str": "848596125045207040",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025986,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299795,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025986,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299795,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299795,
-    "wof:lastmodified":1602634556,
-    "wof:name":"\u201cI wanted to make a story about animals on the brink of extinction.\u201d #PavlinaEcclesiarhou https://t.co/n9txlMNph2",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299795,
+    "wof:lastmodified": 1650064639,
+    "wof:name": "“I wanted to make a story about animals on the brink of extinction.” #PavlinaEcclesiarhou https://t.co/n9txlMNph2",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

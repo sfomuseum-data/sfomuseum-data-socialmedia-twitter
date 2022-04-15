@@ -2,173 +2,173 @@
   "id": 1729293549,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-06-30",
-    "date:cessation_upper":"2015-06-30",
-    "date:inception_lower":"2015-06-30",
-    "date:inception_upper":"2015-06-30",
-    "edtf:cessation":"2015-06-30T17:41:24-07:00",
-    "edtf:inception":"2015-06-30T17:41:24-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1435711284,
-        "created_at":"Wed Jul 01 00:41:24 +0000 2015",
-        "display_text_range":[
-            "0",
-            "140"
+    "date:cessation_lower": "2015-07-01",
+    "date:cessation_upper": "2015-07-01",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-01",
+    "edtf:cessation": "2015-06-30T17:41:24-07:00",
+    "edtf:inception": "2015-06-30T17:41:24-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1435711284,
+      "created_at": "Wed Jul 01 00:41:24 +0000 2015",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "112",
+              "117"
+            ],
+            "text": "PPIE"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "112",
-                        "117"
-                    ],
-                    "text":"PPIE"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0jTDJ1YwFF",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/616043895667998721/photo/1",
+            "id": "616043898100707328",
+            "id_str": "616043898100707328",
+            "indices": [
+              "118",
+              "140"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/0jTDJ1YwFF",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/616043895667998721/photo/1",
-                    "id":"616043898100707328",
-                    "id_str":"616043898100707328",
-                    "indices":[
-                        "118",
-                        "140"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CIygqVBW8AAleyh.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CIygqVBW8AAleyh.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1030",
-                            "resize":"fit",
-                            "w":"1320"
-                        },
-                        "medium":{
-                            "h":"936",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"531",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"http://t.co/0jTDJ1YwFF"
-                }
+            "media_url": "http://pbs.twimg.com/media/CIygqVBW8AAleyh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CIygqVBW8AAleyh.jpg",
+            "sizes": {
+              "large": {
+                "h": "1030",
+                "resize": "fit",
+                "w": "1320"
+              },
+              "medium": {
+                "h": "936",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "531",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "http://t.co/0jTDJ1YwFF"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0jTDJ1YwFF",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/616043895667998721/photo/1",
+            "id": "616043898100707328",
+            "id_str": "616043898100707328",
+            "indices": [
+              "118",
+              "140"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/0jTDJ1YwFF",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/616043895667998721/photo/1",
-                    "id":"616043898100707328",
-                    "id_str":"616043898100707328",
-                    "indices":[
-                        "118",
-                        "140"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CIygqVBW8AAleyh.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CIygqVBW8AAleyh.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1030",
-                            "resize":"fit",
-                            "w":"1320"
-                        },
-                        "medium":{
-                            "h":"936",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"531",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"http://t.co/0jTDJ1YwFF"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"The Tower of Light glows as Art Smith performs aerial acrobatics w/ contrails from fireworks fixed to his plane #PPIE http://t.co/0jTDJ1YwFF",
-        "id":"616043895667998721",
-        "id_str":"616043895667998721",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"4",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/CIygqVBW8AAleyh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CIygqVBW8AAleyh.jpg",
+            "sizes": {
+              "large": {
+                "h": "1030",
+                "resize": "fit",
+                "w": "1320"
+              },
+              "medium": {
+                "h": "936",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "531",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "http://t.co/0jTDJ1YwFF"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "The Tower of Light glows as Art Smith performs aerial acrobatics w/ contrails from fireworks fixed to his plane #PPIE http://t.co/0jTDJ1YwFF",
+      "id": "616043895667998721",
+      "id_str": "616043895667998721",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "4",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025749,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729293549,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025749,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729293549,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729293549,
-    "wof:lastmodified":1602634458,
-    "wof:name":"The Tower of Light glows as Art Smith performs aerial acrobatics w/ contrails from fireworks fixed to his plane #PPIE http://t.co/0jTDJ1YwFF",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729293549,
+    "wof:lastmodified": 1650064636,
+    "wof:name": "The Tower of Light glows as Art Smith performs aerial acrobatics w/ contrails from fireworks fixed to his plane #PPIE http://t.co/0jTDJ1YwFF",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

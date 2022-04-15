@@ -2,108 +2,108 @@
   "id": 1729312249,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-06-27",
-    "date:cessation_upper":"2013-06-27",
-    "date:inception_lower":"2013-06-27",
-    "date:inception_upper":"2013-06-27",
-    "edtf:cessation":"2013-06-27T09:35:46-07:00",
-    "edtf:inception":"2013-06-27T09:35:46-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1372350946,
-        "created_at":"Thu Jun 27 16:35:46 +0000 2013",
-        "display_text_range":[
-            "0",
-            "76"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"instagram.com/p/bEVNHEIhOv/",
-                    "expanded_url":"http://instagram.com/p/bEVNHEIhOv/",
-                    "indices":[
-                        "54",
-                        "76"
-                    ],
-                    "url":"http://t.co/W67NO8xYry"
-                }
+    "date:cessation_lower": "2013-06-27",
+    "date:cessation_upper": "2013-06-27",
+    "date:inception_lower": "2013-06-27",
+    "date:inception_upper": "2013-06-27",
+    "edtf:cessation": "2013-06-27T09:35:46-07:00",
+    "edtf:inception": "2013-06-27T09:35:46-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1372350946,
+      "created_at": "Thu Jun 27 16:35:46 +0000 2013",
+      "display_text_range": [
+        "0",
+        "76"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagram.com/p/bEVNHEIhOv/",
+            "expanded_url": "http://instagram.com/p/bEVNHEIhOv/",
+            "indices": [
+              "54",
+              "76"
             ],
-            "user_mentions":[
-                {
-                    "id":"110329023",
-                    "id_str":"110329023",
-                    "indices":[
-                        "3",
-                        "18"
-                    ],
-                    "name":"Shane Johnston",
-                    "screen_name":"shanebjohnston"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @shanebjohnston: Awesome travel bag exhibit at SFO http://t.co/W67NO8xYry",
-        "id":"350291376195371011",
-        "id_str":"350291376195371011",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "url": "http://t.co/W67NO8xYry"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "110329023",
+            "id_str": "110329023",
+            "indices": [
+              "3",
+              "18"
+            ],
+            "name": "Shane Johnston",
+            "screen_name": "shanebjohnston"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @shanebjohnston: Awesome travel bag exhibit at SFO http://t.co/W67NO8xYry",
+      "id": "350291376195371011",
+      "id_str": "350291376195371011",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026465,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729312249,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026465,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729312249,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729312249,
-    "wof:lastmodified":1602634161,
-    "wof:name":"RT @shanebjohnston: Awesome travel bag exhibit at SFO http://t.co/W67NO8xYry",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729312249,
+    "wof:lastmodified": 1650064711,
+    "wof:name": "RT @shanebjohnston: Awesome travel bag exhibit at SFO http://t.co/W67NO8xYry",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

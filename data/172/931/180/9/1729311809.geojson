@@ -2,105 +2,105 @@
   "id": 1729311809,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-04-12",
-    "date:cessation_upper":"2013-04-12",
-    "date:inception_lower":"2013-04-12",
-    "date:inception_upper":"2013-04-12",
-    "edtf:cessation":"2013-04-12T14:35:07-07:00",
-    "edtf:inception":"2013-04-12T14:35:07-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1365802507,
-        "created_at":"Fri Apr 12 21:35:07 +0000 2013",
-        "display_text_range":[
-            "0",
-            "126"
+    "date:cessation_lower": "2013-04-12",
+    "date:cessation_upper": "2013-04-12",
+    "date:inception_lower": "2013-04-12",
+    "date:inception_upper": "2013-04-12",
+    "edtf:cessation": "2013-04-12T14:35:07-07:00",
+    "edtf:inception": "2013-04-12T14:35:07-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1365802507,
+      "created_at": "Fri Apr 12 21:35:07 +0000 2013",
+      "display_text_range": [
+        "0",
+        "126"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "9",
+              "18"
+            ],
+            "text": "Recology"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "9",
-                        "18"
-                    ],
-                    "text":"Recology"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagram.com/p/YBQ-ZDRk9G/",
+            "expanded_url": "http://instagram.com/p/YBQ-ZDRk9G/",
+            "indices": [
+              "104",
+              "126"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"instagram.com/p/YBQ-ZDRk9G/",
-                    "expanded_url":"http://instagram.com/p/YBQ-ZDRk9G/",
-                    "indices":[
-                        "104",
-                        "126"
-                    ],
-                    "url":"http://t.co/jDYkTCyplJ"
-                }
-            ],
-            "user_mentions":[]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"While at #Recology, Sirron Norris addressed gentrification in San Francisco with repainted toys in his\u2026 http://t.co/jDYkTCyplJ",
-        "id":"322825230273880066",
-        "id_str":"322825230273880066",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
-        "truncated":false
+            "url": "http://t.co/jDYkTCyplJ"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "While at #Recology, Sirron Norris addressed gentrification in San Francisco with repainted toys in his… http://t.co/jDYkTCyplJ",
+      "id": "322825230273880066",
+      "id_str": "322825230273880066",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026447,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729311809,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026447,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729311809,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729311809,
-    "wof:lastmodified":1602634144,
-    "wof:name":"While at #Recology, Sirron Norris addressed gentrification in San Francisco with repainted toys in his\u2026 http://t.co/jDYkTCyplJ",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729311809,
+    "wof:lastmodified": 1650064711,
+    "wof:name": "While at #Recology, Sirron Norris addressed gentrification in San Francisco with repainted toys in his… http://t.co/jDYkTCyplJ",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

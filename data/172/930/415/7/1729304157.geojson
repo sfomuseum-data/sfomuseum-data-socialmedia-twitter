@@ -2,180 +2,180 @@
   "id": 1729304157,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-09-04",
-    "date:cessation_upper":"2018-09-04",
-    "date:inception_lower":"2018-09-04",
-    "date:inception_upper":"2018-09-04",
-    "edtf:cessation":"2018-09-04T14:30:56-07:00",
-    "edtf:inception":"2018-09-04T14:30:56-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1536096656,
-        "created_at":"Tue Sep 04 21:30:56 +0000 2018",
-        "display_text_range":[
-            "0",
-            "259"
+    "date:cessation_lower": "2018-09-04",
+    "date:cessation_upper": "2018-09-04",
+    "date:inception_lower": "2018-09-04",
+    "date:inception_upper": "2018-09-04",
+    "edtf:cessation": "2018-09-04T14:30:56-07:00",
+    "edtf:inception": "2018-09-04T14:30:56-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1536096656,
+      "created_at": "Tue Sep 04 21:30:56 +0000 2018",
+      "display_text_range": [
+        "0",
+        "259"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "208",
+              "219"
+            ],
+            "text": "ManekiNeko"
+          },
+          {
+            "indices": [
+              "221",
+              "235"
+            ],
+            "text": "BeckoningCats"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "208",
-                        "219"
-                    ],
-                    "text":"ManekiNeko"
-                },
-                {
-                    "indices":[
-                        "221",
-                        "235"
-                    ],
-                    "text":"BeckoningCats"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XvcNJ3nw1L",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1037090660652789760/photo/1",
+            "id": "1037090601601138689",
+            "id_str": "1037090601601138689",
+            "indices": [
+              "236",
+              "259"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XvcNJ3nw1L",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1037090660652789760/photo/1",
-                    "id":"1037090601601138689",
-                    "id_str":"1037090601601138689",
-                    "indices":[
-                        "236",
-                        "259"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DmR8aExVAAEsrWW.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DmR8aExVAAEsrWW.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XvcNJ3nw1L"
-                }
+            "media_url": "http://pbs.twimg.com/media/DmR8aExVAAEsrWW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DmR8aExVAAEsrWW.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XvcNJ3nw1L"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XvcNJ3nw1L",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1037090660652789760/photo/1",
+            "id": "1037090601601138689",
+            "id_str": "1037090601601138689",
+            "indices": [
+              "236",
+              "259"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XvcNJ3nw1L",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1037090660652789760/photo/1",
-                    "id":"1037090601601138689",
-                    "id_str":"1037090601601138689",
-                    "indices":[
-                        "236",
-                        "259"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DmR8aExVAAEsrWW.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DmR8aExVAAEsrWW.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XvcNJ3nw1L"
-                }
-            ]
-        },
-        "favorite_count":"5",
-        "favorited":false,
-        "full_text":"This is your last week to see \"Maneki Neko: Japan's Beckoning Cats.\" During the late Edo period (1615\u20131868), Japanese artisans began making maneki neko or beckoning cat figurines. Have you ever encountered a #ManekiNeko? #BeckoningCats https://t.co/XvcNJ3nw1L",
-        "id":"1037090660652789760",
-        "id_str":"1037090660652789760",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DmR8aExVAAEsrWW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DmR8aExVAAEsrWW.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XvcNJ3nw1L"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "This is your last week to see \"Maneki Neko: Japan's Beckoning Cats.\" During the late Edo period (1615–1868), Japanese artisans began making maneki neko or beckoning cat figurines. Have you ever encountered a #ManekiNeko? #BeckoningCats https://t.co/XvcNJ3nw1L",
+      "id": "1037090660652789760",
+      "id_str": "1037090660652789760",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026152,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729304157,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026152,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729304157,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729304157,
-    "wof:lastmodified":1602634243,
-    "wof:name":"This is your last week to see \"Maneki Neko: Japan's Beckoning Cats.\" During the late Edo period (1615\u20131868), Japanese artisans began making maneki neko or beckoning cat figurines. Have you ever encountered a #ManekiNeko? #BeckoningCats https://t.co/XvcNJ3nw1L",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729304157,
+    "wof:lastmodified": 1650064641,
+    "wof:name": "This is your last week to see \"Maneki Neko: Japan's Beckoning Cats.\" During the late Edo period (1615–1868), Japanese artisans began making maneki neko or beckoning cat figurines. Have you ever encountered a #ManekiNeko? #BeckoningCats https://t.co/XvcNJ3nw1L",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

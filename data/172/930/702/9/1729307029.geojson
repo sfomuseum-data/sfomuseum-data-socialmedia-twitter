@@ -2,113 +2,113 @@
   "id": 1729307029,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-09-19",
-    "date:cessation_upper":"2019-09-19",
-    "date:inception_lower":"2019-09-19",
-    "date:inception_upper":"2019-09-19",
-    "edtf:cessation":"2019-09-19T15:05:55-07:00",
-    "edtf:inception":"2019-09-19T15:05:55-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1568930755,
-        "created_at":"Thu Sep 19 22:05:55 +0000 2019",
-        "display_text_range":[
-            "0",
-            "295"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"flysfo.wufoo.com/forms/sk27id61\u2026",
-                    "expanded_url":"https://flysfo.wufoo.com/forms/sk27id61er0rpt/",
-                    "indices":[
-                        "103",
-                        "126"
-                    ],
-                    "url":"https://t.co/8KGQG2aR5J"
-                }
+    "date:cessation_lower": "2019-09-19",
+    "date:cessation_upper": "2019-09-19",
+    "date:inception_lower": "2019-09-19",
+    "date:inception_upper": "2019-09-19",
+    "edtf:cessation": "2019-09-19T15:05:55-07:00",
+    "edtf:inception": "2019-09-19T15:05:55-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1568930755,
+      "created_at": "Thu Sep 19 22:05:55 +0000 2019",
+      "display_text_range": [
+        "0",
+        "295"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "flysfo.wufoo.com/forms/sk27id61…",
+            "expanded_url": "https://flysfo.wufoo.com/forms/sk27id61er0rpt/",
+            "indices": [
+              "103",
+              "126"
             ],
-            "user_mentions":[
-                {
-                    "id":"2979350007",
-                    "id_str":"2979350007",
-                    "indices":[
-                        "0",
-                        "14"
-                    ],
-                    "name":"a paddling duck",
-                    "screen_name":"aPaddlingDuck"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"@aPaddlingDuck SFO Museum receives proposals for its Video Arts program via an online submission form: https://t.co/8KGQG2aR5J We also reach out directly to filmmakers, film schools, production studios, and distributors to propose participation in the program with specific calendar dates. (1/2)",
-        "id":"1174806854771150849",
-        "id_str":"1174806854771150849",
-        "in_reply_to_screen_name":"aPaddlingDuck",
-        "in_reply_to_status_id":"1174428832276729856",
-        "in_reply_to_status_id_str":"1174428832276729856",
-        "in_reply_to_user_id":"2979350007",
-        "in_reply_to_user_id_str":"2979350007",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-        "truncated":false
+            "url": "https://t.co/8KGQG2aR5J"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "2979350007",
+            "id_str": "2979350007",
+            "indices": [
+              "0",
+              "14"
+            ],
+            "name": "a paddling duck",
+            "screen_name": "aPaddlingDuck"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@aPaddlingDuck SFO Museum receives proposals for its Video Arts program via an online submission form: https://t.co/8KGQG2aR5J We also reach out directly to filmmakers, film schools, production studios, and distributors to propose participation in the program with specific calendar dates. (1/2)",
+      "id": "1174806854771150849",
+      "id_str": "1174806854771150849",
+      "in_reply_to_screen_name": "aPaddlingDuck",
+      "in_reply_to_status_id": "1174428832276729856",
+      "in_reply_to_status_id_str": "1174428832276729856",
+      "in_reply_to_user_id": "2979350007",
+      "in_reply_to_user_id_str": "2979350007",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026262,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729307029,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026262,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729307029,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729307029,
-    "wof:lastmodified":1602634316,
-    "wof:name":"@aPaddlingDuck SFO Museum receives proposals for its Video Arts program via an online submission form: https://t.co/8KGQG2aR5J We also reach out directly to filmmakers, film schools, production studios, and distributors to propose participation in the program with specific calendar dates. (1/2)",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729307029,
+    "wof:lastmodified": 1650064643,
+    "wof:name": "@aPaddlingDuck SFO Museum receives proposals for its Video Arts program via an online submission form: https://t.co/8KGQG2aR5J We also reach out directly to filmmakers, film schools, production studios, and distributors to propose participation in the program with specific calendar dates. (1/2)",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

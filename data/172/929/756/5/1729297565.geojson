@@ -2,248 +2,248 @@
   "id": 1729297565,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-08-26",
-    "date:cessation_upper":"2016-08-26",
-    "date:inception_lower":"2016-08-26",
-    "date:inception_upper":"2016-08-26",
-    "edtf:cessation":"2016-08-26T13:45:45-07:00",
-    "edtf:inception":"2016-08-26T13:45:45-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1472244345,
-        "created_at":"Fri Aug 26 20:45:45 +0000 2016",
-        "display_text_range":[
-            "0",
-            "137"
+    "date:cessation_lower": "2016-08-26",
+    "date:cessation_upper": "2016-08-26",
+    "date:inception_lower": "2016-08-26",
+    "date:inception_upper": "2016-08-26",
+    "edtf:cessation": "2016-08-26T13:45:45-07:00",
+    "edtf:inception": "2016-08-26T13:45:45-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1472244345,
+      "created_at": "Fri Aug 26 20:45:45 +0000 2016",
+      "display_text_range": [
+        "0",
+        "137"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "106",
+              "113"
+            ],
+            "text": "avgeek"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "106",
-                        "113"
-                    ],
-                    "text":"avgeek"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/33uBRYa65D",
+            "expanded_url": "https://twitter.com/PTZtv/status/769228528977981440/video/1",
+            "id": "769228300052942848",
+            "id_str": "769228300052942848",
+            "indices": [
+              "114",
+              "137"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/33uBRYa65D",
-                    "expanded_url":"https://twitter.com/PTZtv/status/769228528977981440/video/1",
-                    "id":"769228300052942848",
-                    "id_str":"769228300052942848",
-                    "indices":[
-                        "114",
-                        "137"
-                    ],
-                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/769228300052942848/pu/img/JrnCr0WHnby6OvVc.jpg",
-                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/769228300052942848/pu/img/JrnCr0WHnby6OvVc.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"450",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "medium":{
-                            "h":"450",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "small":{
-                            "h":"383",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"769228528977981440",
-                    "source_status_id_str":"769228528977981440",
-                    "source_user_id":"1890107336",
-                    "source_user_id_str":"1890107336",
-                    "type":"photo",
-                    "url":"https://t.co/33uBRYa65D"
-                }
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/769228300052942848/pu/img/JrnCr0WHnby6OvVc.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/769228300052942848/pu/img/JrnCr0WHnby6OvVc.jpg",
+            "sizes": {
+              "large": {
+                "h": "450",
+                "resize": "fit",
+                "w": "800"
+              },
+              "medium": {
+                "h": "450",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "769228528977981440",
+            "source_status_id_str": "769228528977981440",
+            "source_user_id": "1890107336",
+            "source_user_id_str": "1890107336",
+            "type": "photo",
+            "url": "https://t.co/33uBRYa65D"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "MahoBeachCam.com",
+            "expanded_url": "http://MahoBeachCam.com",
+            "indices": [
+              "67",
+              "90"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"MahoBeachCam.com",
-                    "expanded_url":"http://MahoBeachCam.com",
-                    "indices":[
-                        "67",
-                        "90"
-                    ],
-                    "url":"https://t.co/TUjTdZ79Jp"
-                }
+            "url": "https://t.co/TUjTdZ79Jp"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "1890107336",
+            "id_str": "1890107336",
+            "indices": [
+              "3",
+              "9"
             ],
-            "user_mentions":[
+            "name": "PTZtv",
+            "screen_name": "PTZtv"
+          },
+          {
+            "id": "56377143",
+            "id_str": "56377143",
+            "indices": [
+              "45",
+              "49"
+            ],
+            "name": "KLM",
+            "screen_name": "KLM"
+          },
+          {
+            "id": "134196350",
+            "id_str": "134196350",
+            "indices": [
+              "91",
+              "105"
+            ],
+            "name": "Flightradar24",
+            "screen_name": "flightradar24"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/33uBRYa65D",
+            "expanded_url": "https://twitter.com/PTZtv/status/769228528977981440/video/1",
+            "id": "769228300052942848",
+            "id_str": "769228300052942848",
+            "indices": [
+              "114",
+              "137"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/769228300052942848/pu/img/JrnCr0WHnby6OvVc.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/769228300052942848/pu/img/JrnCr0WHnby6OvVc.jpg",
+            "sizes": {
+              "large": {
+                "h": "450",
+                "resize": "fit",
+                "w": "800"
+              },
+              "medium": {
+                "h": "450",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "769228528977981440",
+            "source_status_id_str": "769228528977981440",
+            "source_user_id": "1890107336",
+            "source_user_id_str": "1890107336",
+            "type": "video",
+            "url": "https://t.co/33uBRYa65D",
+            "video_info": {
+              "aspect_ratio": [
+                "16",
+                "9"
+              ],
+              "duration_millis": "17384",
+              "variants": [
                 {
-                    "id":"1890107336",
-                    "id_str":"1890107336",
-                    "indices":[
-                        "3",
-                        "9"
-                    ],
-                    "name":"PTZtv",
-                    "screen_name":"PTZtv"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/769228300052942848/pu/pl/GH5lB06fUCaGL257.m3u8"
                 },
                 {
-                    "id":"56377143",
-                    "id_str":"56377143",
-                    "indices":[
-                        "45",
-                        "49"
-                    ],
-                    "name":"KLM",
-                    "screen_name":"KLM"
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/769228300052942848/pu/vid/320x180/VMRVK-KCTRaarb-U.mp4"
                 },
                 {
-                    "id":"134196350",
-                    "id_str":"134196350",
-                    "indices":[
-                        "91",
-                        "105"
-                    ],
-                    "name":"Flightradar24",
-                    "screen_name":"flightradar24"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/769228300052942848/pu/vid/640x360/lyuX3dq95nkk_UeP.mp4"
                 }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "additional_media_info":{
-                        "monetizable":false
-                    },
-                    "display_url":"pic.twitter.com/33uBRYa65D",
-                    "expanded_url":"https://twitter.com/PTZtv/status/769228528977981440/video/1",
-                    "id":"769228300052942848",
-                    "id_str":"769228300052942848",
-                    "indices":[
-                        "114",
-                        "137"
-                    ],
-                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/769228300052942848/pu/img/JrnCr0WHnby6OvVc.jpg",
-                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/769228300052942848/pu/img/JrnCr0WHnby6OvVc.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"450",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "medium":{
-                            "h":"450",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "small":{
-                            "h":"383",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"769228528977981440",
-                    "source_status_id_str":"769228528977981440",
-                    "source_user_id":"1890107336",
-                    "source_user_id_str":"1890107336",
-                    "type":"video",
-                    "url":"https://t.co/33uBRYa65D",
-                    "video_info":{
-                        "aspect_ratio":[
-                            "16",
-                            "9"
-                        ],
-                        "duration_millis":"17384",
-                        "variants":[
-                            {
-                                "content_type":"application/x-mpegURL",
-                                "url":"https://video.twimg.com/ext_tw_video/769228300052942848/pu/pl/GH5lB06fUCaGL257.m3u8"
-                            },
-                            {
-                                "bitrate":"320000",
-                                "content_type":"video/mp4",
-                                "url":"https://video.twimg.com/ext_tw_video/769228300052942848/pu/vid/320x180/VMRVK-KCTRaarb-U.mp4"
-                            },
-                            {
-                                "bitrate":"832000",
-                                "content_type":"video/mp4",
-                                "url":"https://video.twimg.com/ext_tw_video/769228300052942848/pu/vid/640x360/lyuX3dq95nkk_UeP.mp4"
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @PTZtv: By popular demand, here's today's @KLM 747 landing from https://t.co/TUjTdZ79Jp @flightradar24 #avgeek https://t.co/33uBRYa65D",
-        "id":"769274656444583936",
-        "id_str":"769274656444583936",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @PTZtv: By popular demand, here's today's @KLM 747 landing from https://t.co/TUjTdZ79Jp @flightradar24 #avgeek https://t.co/33uBRYa65D",
+      "id": "769274656444583936",
+      "id_str": "769274656444583936",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025903,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729297565,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025903,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729297565,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729297565,
-    "wof:lastmodified":1602634597,
-    "wof:name":"RT @PTZtv: By popular demand, here's today's @KLM 747 landing from https://t.co/TUjTdZ79Jp @flightradar24 #avgeek https://t.co/33uBRYa65D",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729297565,
+    "wof:lastmodified": 1650064638,
+    "wof:name": "RT @PTZtv: By popular demand, here's today's @KLM 747 landing from https://t.co/TUjTdZ79Jp @flightradar24 #avgeek https://t.co/33uBRYa65D",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

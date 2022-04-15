@@ -2,173 +2,173 @@
   "id": 1729295587,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-03-30",
-    "date:cessation_upper":"2016-03-30",
-    "date:inception_lower":"2016-03-30",
-    "date:inception_upper":"2016-03-30",
-    "edtf:cessation":"2016-03-30T10:08:50-07:00",
-    "edtf:inception":"2016-03-30T10:08:50-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1459357730,
-        "created_at":"Wed Mar 30 17:08:50 +0000 2016",
-        "display_text_range":[
-            "0",
-            "136"
+    "date:cessation_lower": "2016-03-30",
+    "date:cessation_upper": "2016-03-30",
+    "date:inception_lower": "2016-03-30",
+    "date:inception_upper": "2016-03-30",
+    "edtf:cessation": "2016-03-30T10:08:50-07:00",
+    "edtf:inception": "2016-03-30T10:08:50-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1459357730,
+      "created_at": "Wed Mar 30 17:08:50 +0000 2016",
+      "display_text_range": [
+        "0",
+        "136"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "54",
+              "60"
+            ],
+            "text": "PanAm"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "54",
-                        "60"
-                    ],
-                    "text":"PanAm"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Pj7UOqoMHJ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/715224278254424065/photo/1",
+            "id": "715224277306490881",
+            "id_str": "715224277306490881",
+            "indices": [
+              "113",
+              "136"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/Pj7UOqoMHJ",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/715224278254424065/photo/1",
-                    "id":"715224277306490881",
-                    "id_str":"715224277306490881",
-                    "indices":[
-                        "113",
-                        "136"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cez8sNeWwAETcPY.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cez8sNeWwAETcPY.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1640",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"961",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"544",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/Pj7UOqoMHJ"
-                }
+            "media_url": "http://pbs.twimg.com/media/Cez8sNeWwAETcPY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cez8sNeWwAETcPY.jpg",
+            "sizes": {
+              "large": {
+                "h": "1640",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "961",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Pj7UOqoMHJ"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Pj7UOqoMHJ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/715224278254424065/photo/1",
+            "id": "715224277306490881",
+            "id_str": "715224277306490881",
+            "indices": [
+              "113",
+              "136"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/Pj7UOqoMHJ",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/715224278254424065/photo/1",
-                    "id":"715224277306490881",
-                    "id_str":"715224277306490881",
-                    "indices":[
-                        "113",
-                        "136"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Cez8sNeWwAETcPY.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Cez8sNeWwAETcPY.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1640",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"961",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"544",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/Pj7UOqoMHJ"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"This \u201cPresident Special\u201d first-class menu produced by #PanAm features a world map illustration by Jacques Liozu. https://t.co/Pj7UOqoMHJ",
-        "id":"715224278254424065",
-        "id_str":"715224278254424065",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/Cez8sNeWwAETcPY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cez8sNeWwAETcPY.jpg",
+            "sizes": {
+              "large": {
+                "h": "1640",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "961",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Pj7UOqoMHJ"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "This “President Special” first-class menu produced by #PanAm features a world map illustration by Jacques Liozu. https://t.co/Pj7UOqoMHJ",
+      "id": "715224278254424065",
+      "id_str": "715224278254424065",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025825,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729295587,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025825,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729295587,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729295587,
-    "wof:lastmodified":1602634452,
-    "wof:name":"This \u201cPresident Special\u201d first-class menu produced by #PanAm features a world map illustration by Jacques Liozu. https://t.co/Pj7UOqoMHJ",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729295587,
+    "wof:lastmodified": 1650064637,
+    "wof:name": "This “President Special” first-class menu produced by #PanAm features a world map illustration by Jacques Liozu. https://t.co/Pj7UOqoMHJ",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

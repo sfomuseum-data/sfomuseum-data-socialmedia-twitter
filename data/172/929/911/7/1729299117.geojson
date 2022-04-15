@@ -2,190 +2,190 @@
   "id": 1729299117,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-01-24",
-    "date:cessation_upper":"2017-01-24",
-    "date:inception_lower":"2017-01-24",
-    "date:inception_upper":"2017-01-24",
-    "edtf:cessation":"2017-01-24T17:25:10-08:00",
-    "edtf:inception":"2017-01-24T17:25:10-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1485307510,
-        "created_at":"Wed Jan 25 01:25:10 +0000 2017",
-        "display_text_range":[
-            "0",
-            "155"
+    "date:cessation_lower": "2017-01-25",
+    "date:cessation_upper": "2017-01-25",
+    "date:inception_lower": "2017-01-25",
+    "date:inception_upper": "2017-01-25",
+    "edtf:cessation": "2017-01-24T17:25:10-08:00",
+    "edtf:inception": "2017-01-24T17:25:10-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1485307510,
+      "created_at": "Wed Jan 25 01:25:10 +0000 2017",
+      "display_text_range": [
+        "0",
+        "155"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "6",
+              "19"
+            ],
+            "text": "PrintToPlate"
+          },
+          {
+            "indices": [
+              "42",
+              "55"
+            ],
+            "text": "Transferware"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "6",
-                        "19"
-                    ],
-                    "text":"PrintToPlate"
-                },
-                {
-                    "indices":[
-                        "42",
-                        "55"
-                    ],
-                    "text":"Transferware"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/L2VD5Ewz5p",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/824065542751404032/photo/1",
+            "id": "824065539450531841",
+            "id_str": "824065539450531841",
+            "indices": [
+              "132",
+              "155"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/L2VD5Ewz5p",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/824065542751404032/photo/1",
-                    "id":"824065539450531841",
-                    "id_str":"824065539450531841",
-                    "indices":[
-                        "132",
-                        "155"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C2-rPfaW8AEdJQ3.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C2-rPfaW8AEdJQ3.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1333"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"453"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/L2VD5Ewz5p"
-                }
+            "media_url": "http://pbs.twimg.com/media/C2-rPfaW8AEdJQ3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2-rPfaW8AEdJQ3.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/L2VD5Ewz5p"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/PrintToPlate",
+            "expanded_url": "http://bit.ly/PrintToPlate",
+            "indices": [
+              "108",
+              "131"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/PrintToPlate",
-                    "expanded_url":"http://bit.ly/PrintToPlate",
-                    "indices":[
-                        "108",
-                        "131"
-                    ],
-                    "url":"https://t.co/araEMHAF9F"
-                }
+            "url": "https://t.co/araEMHAF9F"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/L2VD5Ewz5p",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/824065542751404032/photo/1",
+            "id": "824065539450531841",
+            "id_str": "824065539450531841",
+            "indices": [
+              "132",
+              "155"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/L2VD5Ewz5p",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/824065542751404032/photo/1",
-                    "id":"824065539450531841",
-                    "id_str":"824065539450531841",
-                    "indices":[
-                        "132",
-                        "155"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/C2-rPfaW8AEdJQ3.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/C2-rPfaW8AEdJQ3.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1333"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"800"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"453"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/L2VD5Ewz5p"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"\"From #PrintToPlate: Views of the East on #Transferware\" is on display, pre-security, in the Intl Terminal. https://t.co/araEMHAF9F https://t.co/L2VD5Ewz5p",
-        "id":"824065542751404032",
-        "id_str":"824065542751404032",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/C2-rPfaW8AEdJQ3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2-rPfaW8AEdJQ3.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/L2VD5Ewz5p"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "\"From #PrintToPlate: Views of the East on #Transferware\" is on display, pre-security, in the Intl Terminal. https://t.co/araEMHAF9F https://t.co/L2VD5Ewz5p",
+      "id": "824065542751404032",
+      "id_str": "824065542751404032",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025960,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729299117,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025960,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729299117,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729299117,
-    "wof:lastmodified":1602634676,
-    "wof:name":"\"From #PrintToPlate: Views of the East on #Transferware\" is on display, pre-security, in the Intl Terminal. https://t.co/araEMHAF9F https://t.co/L2VD5Ewz5p",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729299117,
+    "wof:lastmodified": 1650064639,
+    "wof:name": "\"From #PrintToPlate: Views of the East on #Transferware\" is on display, pre-security, in the Intl Terminal. https://t.co/araEMHAF9F https://t.co/L2VD5Ewz5p",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

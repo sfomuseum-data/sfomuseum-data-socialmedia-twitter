@@ -2,312 +2,312 @@
   "id": 1729294391,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-10-26",
-    "date:cessation_upper":"2015-10-26",
-    "date:inception_lower":"2015-10-26",
-    "date:inception_upper":"2015-10-26",
-    "edtf:cessation":"2015-10-26T13:46:00-07:00",
-    "edtf:inception":"2015-10-26T13:46:00-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1445892360,
-        "created_at":"Mon Oct 26 20:46:00 +0000 2015",
-        "display_text_range":[
-            "0",
-            "115"
+    "date:cessation_lower": "2015-10-26",
+    "date:cessation_upper": "2015-10-26",
+    "date:inception_lower": "2015-10-26",
+    "date:inception_upper": "2015-10-26",
+    "edtf:cessation": "2015-10-26T13:46:00-07:00",
+    "edtf:inception": "2015-10-26T13:46:00-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1445892360,
+      "created_at": "Mon Oct 26 20:46:00 +0000 2015",
+      "display_text_range": [
+        "0",
+        "115"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "81",
+              "91"
+            ],
+            "text": "Metallica"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "81",
-                        "91"
-                    ],
-                    "text":"Metallica"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DZgZMK9MRG",
+            "expanded_url": "https://twitter.com/e_man/status/658625767048216576/photo/1",
+            "id": "658625762354855936",
+            "id_str": "658625762354855936",
+            "indices": [
+              "92",
+              "115"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/DZgZMK9MRG",
-                    "expanded_url":"https://twitter.com/e_man/status/658625767048216576/photo/1",
-                    "id":"658625762354855936",
-                    "id_str":"658625762354855936",
-                    "indices":[
-                        "92",
-                        "115"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CSPopC0VAAAE0un.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CSPopC0VAAAE0un.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"768",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "medium":{
-                            "h":"768",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "small":{
-                            "h":"510",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"658625767048216576",
-                    "source_status_id_str":"658625767048216576",
-                    "source_user_id":"11569",
-                    "source_user_id_str":"11569",
-                    "type":"photo",
-                    "url":"https://t.co/DZgZMK9MRG"
-                }
+            "media_url": "http://pbs.twimg.com/media/CSPopC0VAAAE0un.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CSPopC0VAAAE0un.jpg",
+            "sizes": {
+              "large": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "658625767048216576",
+            "source_status_id_str": "658625767048216576",
+            "source_user_id": "11569",
+            "source_user_id_str": "11569",
+            "type": "photo",
+            "url": "https://t.co/DZgZMK9MRG"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "11569",
+            "id_str": "11569",
+            "indices": [
+              "3",
+              "9"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"11569",
-                    "id_str":"11569",
-                    "indices":[
-                        "3",
-                        "9"
-                    ],
-                    "name":"eMan \ud83e\udd18\ud83c\udffc",
-                    "screen_name":"e_man"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/DZgZMK9MRG",
-                    "expanded_url":"https://twitter.com/e_man/status/658625767048216576/photo/1",
-                    "id":"658625762354855936",
-                    "id_str":"658625762354855936",
-                    "indices":[
-                        "92",
-                        "115"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CSPopC0VAAAE0un.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CSPopC0VAAAE0un.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"768",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "medium":{
-                            "h":"768",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "small":{
-                            "h":"510",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"658625767048216576",
-                    "source_status_id_str":"658625767048216576",
-                    "source_user_id":"11569",
-                    "source_user_id_str":"11569",
-                    "type":"photo",
-                    "url":"https://t.co/DZgZMK9MRG"
-                },
-                {
-                    "display_url":"pic.twitter.com/DZgZMK9MRG",
-                    "expanded_url":"https://twitter.com/e_man/status/658625767048216576/photo/1",
-                    "id":"658625762350661637",
-                    "id_str":"658625762350661637",
-                    "indices":[
-                        "92",
-                        "115"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CSPopCzVAAUkd9k.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CSPopCzVAAUkd9k.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"768",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "medium":{
-                            "h":"768",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "small":{
-                            "h":"510",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"658625767048216576",
-                    "source_status_id_str":"658625767048216576",
-                    "source_user_id":"11569",
-                    "source_user_id_str":"11569",
-                    "type":"photo",
-                    "url":"https://t.co/DZgZMK9MRG"
-                },
-                {
-                    "display_url":"pic.twitter.com/DZgZMK9MRG",
-                    "expanded_url":"https://twitter.com/e_man/status/658625767048216576/photo/1",
-                    "id":"658625762346426368",
-                    "id_str":"658625762346426368",
-                    "indices":[
-                        "92",
-                        "115"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CSPopCyUYAA24nr.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CSPopCyUYAA24nr.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"768",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "medium":{
-                            "h":"768",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "small":{
-                            "h":"510",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"658625767048216576",
-                    "source_status_id_str":"658625767048216576",
-                    "source_user_id":"11569",
-                    "source_user_id_str":"11569",
-                    "type":"photo",
-                    "url":"https://t.co/DZgZMK9MRG"
-                },
-                {
-                    "display_url":"pic.twitter.com/DZgZMK9MRG",
-                    "expanded_url":"https://twitter.com/e_man/status/658625767048216576/photo/1",
-                    "id":"658625762501595136",
-                    "id_str":"658625762501595136",
-                    "indices":[
-                        "92",
-                        "115"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CSPopDXUEAANUYC.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CSPopDXUEAANUYC.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"768",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "medium":{
-                            "h":"768",
-                            "resize":"fit",
-                            "w":"1024"
-                        },
-                        "small":{
-                            "h":"510",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"658625767048216576",
-                    "source_status_id_str":"658625767048216576",
-                    "source_user_id":"11569",
-                    "source_user_id_str":"11569",
-                    "type":"photo",
-                    "url":"https://t.co/DZgZMK9MRG"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @e_man: Kirk Hammet's guitars are on display at the SFO airport.   Too cool.  #Metallica https://t.co/DZgZMK9MRG",
-        "id":"658746420611141632",
-        "id_str":"658746420611141632",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "eMan 🤘🏼",
+            "screen_name": "e_man"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DZgZMK9MRG",
+            "expanded_url": "https://twitter.com/e_man/status/658625767048216576/photo/1",
+            "id": "658625762354855936",
+            "id_str": "658625762354855936",
+            "indices": [
+              "92",
+              "115"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CSPopC0VAAAE0un.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CSPopC0VAAAE0un.jpg",
+            "sizes": {
+              "large": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "658625767048216576",
+            "source_status_id_str": "658625767048216576",
+            "source_user_id": "11569",
+            "source_user_id_str": "11569",
+            "type": "photo",
+            "url": "https://t.co/DZgZMK9MRG"
+          },
+          {
+            "display_url": "pic.twitter.com/DZgZMK9MRG",
+            "expanded_url": "https://twitter.com/e_man/status/658625767048216576/photo/1",
+            "id": "658625762350661637",
+            "id_str": "658625762350661637",
+            "indices": [
+              "92",
+              "115"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CSPopCzVAAUkd9k.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CSPopCzVAAUkd9k.jpg",
+            "sizes": {
+              "large": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "658625767048216576",
+            "source_status_id_str": "658625767048216576",
+            "source_user_id": "11569",
+            "source_user_id_str": "11569",
+            "type": "photo",
+            "url": "https://t.co/DZgZMK9MRG"
+          },
+          {
+            "display_url": "pic.twitter.com/DZgZMK9MRG",
+            "expanded_url": "https://twitter.com/e_man/status/658625767048216576/photo/1",
+            "id": "658625762346426368",
+            "id_str": "658625762346426368",
+            "indices": [
+              "92",
+              "115"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CSPopCyUYAA24nr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CSPopCyUYAA24nr.jpg",
+            "sizes": {
+              "large": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "658625767048216576",
+            "source_status_id_str": "658625767048216576",
+            "source_user_id": "11569",
+            "source_user_id_str": "11569",
+            "type": "photo",
+            "url": "https://t.co/DZgZMK9MRG"
+          },
+          {
+            "display_url": "pic.twitter.com/DZgZMK9MRG",
+            "expanded_url": "https://twitter.com/e_man/status/658625767048216576/photo/1",
+            "id": "658625762501595136",
+            "id_str": "658625762501595136",
+            "indices": [
+              "92",
+              "115"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CSPopDXUEAANUYC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CSPopDXUEAANUYC.jpg",
+            "sizes": {
+              "large": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "658625767048216576",
+            "source_status_id_str": "658625767048216576",
+            "source_user_id": "11569",
+            "source_user_id_str": "11569",
+            "type": "photo",
+            "url": "https://t.co/DZgZMK9MRG"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @e_man: Kirk Hammet's guitars are on display at the SFO airport.   Too cool.  #Metallica https://t.co/DZgZMK9MRG",
+      "id": "658746420611141632",
+      "id_str": "658746420611141632",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025780,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729294391,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025780,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729294391,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729294391,
-    "wof:lastmodified":1602634520,
-    "wof:name":"RT @e_man: Kirk Hammet's guitars are on display at the SFO airport.   Too cool.  #Metallica https://t.co/DZgZMK9MRG",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729294391,
+    "wof:lastmodified": 1650064636,
+    "wof:name": "RT @e_man: Kirk Hammet's guitars are on display at the SFO airport.   Too cool.  #Metallica https://t.co/DZgZMK9MRG",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -1,0 +1,223 @@
+{
+  "id": 1763511259,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-10-05",
+    "date:cessation_upper": "2020-10-05",
+    "date:inception_lower": "2020-10-05",
+    "date:inception_upper": "2020-10-05",
+    "edtf:cessation": "2020-10-05T10:42:08-07:00",
+    "edtf:inception": "2020-10-05T10:42:08-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1601919728,
+      "created_at": "Mon Oct 05 17:42:08 +0000 2020",
+      "display_text_range": [
+        "0",
+        "304"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "65",
+              "75"
+            ],
+            "text": "onthsiday"
+          },
+          {
+            "indices": [
+              "265",
+              "280"
+            ],
+            "text": "MuseumFromHome"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/iykCW0FOgu",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1313172635434450945/photo/1",
+            "id": "1313172501992628225",
+            "id_str": "1313172501992628225",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjlTbt4U4AEvphN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjlTbt4U4AEvphN.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1465"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "879"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "498"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/iykCW0FOgu"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "16408759",
+            "id_str": "16408759",
+            "indices": [
+              "51",
+              "58"
+            ],
+            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "screen_name": "flySFO"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/iykCW0FOgu",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1313172635434450945/photo/1",
+            "id": "1313172501992628225",
+            "id_str": "1313172501992628225",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjlTbt4U4AEvphN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjlTbt4U4AEvphN.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1465"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "879"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "498"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/iykCW0FOgu"
+          },
+          {
+            "display_url": "pic.twitter.com/iykCW0FOgu",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1313172635434450945/photo/1",
+            "id": "1313172537962983424",
+            "id_str": "1313172537962983424",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjlTdz4U8AAtZC3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjlTdz4U8AAtZC3.jpg",
+            "sizes": {
+              "large": {
+                "h": "1578",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "947",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "537",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/iykCW0FOgu"
+          }
+        ]
+      },
+      "favorite_count": "15",
+      "favorited": false,
+      "full_text": "Construction of a new terminal (now Terminal 2) at @flysfo began #onthsiday in 1951. Designed in the International Style, the 7-story building employed an innovative, dual-level layout that separated departures from arrivals. Have you ever flown out of Terminal 2? #MuseumFromHome https://t.co/iykCW0FOgu",
+      "id": "1313172635434450945",
+      "id_str": "1313172635434450945",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "5",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064644,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763511259,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763511259,
+    "wof:lastmodified": 1650064644,
+    "wof:name": "Construction of a new terminal (now Terminal 2) at @flysfo began #onthsiday in 1951. Designed in the International Style, the 7-story building employed an innovative, dual-level layout that separated departures from arrivals. Have you ever flown out of Terminal 2? #MuseumFromHome https://t.co/iykCW0FOgu",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

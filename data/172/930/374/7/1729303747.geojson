@@ -2,183 +2,183 @@
   "id": 1729303747,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-07-21",
-    "date:cessation_upper":"2018-07-21",
-    "date:inception_lower":"2018-07-21",
-    "date:inception_upper":"2018-07-21",
-    "edtf:cessation":"2018-07-21T13:20:04-07:00",
-    "edtf:inception":"2018-07-21T13:20:04-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1532204404,
-        "created_at":"Sat Jul 21 20:20:04 +0000 2018",
-        "display_text_range":[
-            "0",
-            "169"
+    "date:cessation_lower": "2018-07-21",
+    "date:cessation_upper": "2018-07-21",
+    "date:inception_lower": "2018-07-21",
+    "date:inception_upper": "2018-07-21",
+    "edtf:cessation": "2018-07-21T13:20:04-07:00",
+    "edtf:inception": "2018-07-21T13:20:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1532204404,
+      "created_at": "Sat Jul 21 20:20:04 +0000 2018",
+      "display_text_range": [
+        "0",
+        "169"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "26",
+              "40"
+            ],
+            "text": "JasonReblando"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "26",
-                        "40"
-                    ],
-                    "text":"JasonReblando"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IwS5ghqSxs",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1020765373241716741/photo/1",
+            "id": "1020765370854957056",
+            "id_str": "1020765370854957056",
+            "indices": [
+              "146",
+              "169"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/IwS5ghqSxs",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1020765373241716741/photo/1",
-                    "id":"1020765370854957056",
-                    "id_str":"1020765370854957056",
-                    "indices":[
-                        "146",
-                        "169"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Dip8slDUYAAOPk8.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Dip8slDUYAAOPk8.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1536",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"922",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"522",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/IwS5ghqSxs"
-                }
+            "media_url": "http://pbs.twimg.com/media/Dip8slDUYAAOPk8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dip8slDUYAAOPk8.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "922",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "522",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IwS5ghqSxs"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2umdThn",
+            "expanded_url": "http://bit.ly/2umdThn",
+            "indices": [
+              "122",
+              "145"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/2umdThn",
-                    "expanded_url":"http://bit.ly/2umdThn",
-                    "indices":[
-                        "122",
-                        "145"
-                    ],
-                    "url":"https://t.co/oLws3yt9Kp"
-                }
+            "url": "https://t.co/oLws3yt9Kp"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IwS5ghqSxs",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1020765373241716741/photo/1",
+            "id": "1020765370854957056",
+            "id_str": "1020765370854957056",
+            "indices": [
+              "146",
+              "169"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/IwS5ghqSxs",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1020765373241716741/photo/1",
-                    "id":"1020765370854957056",
-                    "id_str":"1020765370854957056",
-                    "indices":[
-                        "146",
-                        "169"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Dip8slDUYAAOPk8.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Dip8slDUYAAOPk8.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1536",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"922",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"522",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/IwS5ghqSxs"
-                }
-            ]
-        },
-        "favorite_count":"1",
-        "favorited":false,
-        "full_text":"See \"New Deal Utopias\" by #JasonReblando, on display, pre-security, in the Terminal 2 connector between Terminal 1 and 2. https://t.co/oLws3yt9Kp https://t.co/IwS5ghqSxs",
-        "id":"1020765373241716741",
-        "id_str":"1020765373241716741",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/Dip8slDUYAAOPk8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dip8slDUYAAOPk8.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "922",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "522",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IwS5ghqSxs"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "See \"New Deal Utopias\" by #JasonReblando, on display, pre-security, in the Terminal 2 connector between Terminal 1 and 2. https://t.co/oLws3yt9Kp https://t.co/IwS5ghqSxs",
+      "id": "1020765373241716741",
+      "id_str": "1020765373241716741",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026136,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729303747,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026136,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729303747,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729303747,
-    "wof:lastmodified":1602634425,
-    "wof:name":"See \"New Deal Utopias\" by #JasonReblando, on display, pre-security, in the Terminal 2 connector between Terminal 1 and 2. https://t.co/oLws3yt9Kp https://t.co/IwS5ghqSxs",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729303747,
+    "wof:lastmodified": 1650064641,
+    "wof:name": "See \"New Deal Utopias\" by #JasonReblando, on display, pre-security, in the Terminal 2 connector between Terminal 1 and 2. https://t.co/oLws3yt9Kp https://t.co/IwS5ghqSxs",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

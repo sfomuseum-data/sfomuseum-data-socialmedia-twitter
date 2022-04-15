@@ -2,180 +2,180 @@
   "id": 1729305107,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-01-03",
-    "date:cessation_upper":"2019-01-03",
-    "date:inception_lower":"2019-01-03",
-    "date:inception_upper":"2019-01-03",
-    "edtf:cessation":"2019-01-03T17:50:04-08:00",
-    "edtf:inception":"2019-01-03T17:50:04-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1546566604,
-        "created_at":"Fri Jan 04 01:50:04 +0000 2019",
-        "display_text_range":[
-            "0",
-            "302"
+    "date:cessation_lower": "2019-01-04",
+    "date:cessation_upper": "2019-01-04",
+    "date:inception_lower": "2019-01-04",
+    "date:inception_upper": "2019-01-04",
+    "edtf:cessation": "2019-01-03T17:50:04-08:00",
+    "edtf:inception": "2019-01-03T17:50:04-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1546566604,
+      "created_at": "Fri Jan 04 01:50:04 +0000 2019",
+      "display_text_range": [
+        "0",
+        "302"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "252",
+              "268"
+            ],
+            "text": "StoryofArhoolie"
+          },
+          {
+            "indices": [
+              "269",
+              "278"
+            ],
+            "text": "Arhoolie"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "252",
-                        "268"
-                    ],
-                    "text":"StoryofArhoolie"
-                },
-                {
-                    "indices":[
-                        "269",
-                        "278"
-                    ],
-                    "text":"Arhoolie"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SSOg9651CN",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1081004804908949505/photo/1",
+            "id": "1081004801872351233",
+            "id_str": "1081004801872351233",
+            "indices": [
+              "279",
+              "302"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/SSOg9651CN",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1081004804908949505/photo/1",
-                    "id":"1081004801872351233",
-                    "id_str":"1081004801872351233",
-                    "indices":[
-                        "279",
-                        "302"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DwCAI9AX0AEuThn.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DwCAI9AX0AEuThn.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1100",
-                            "resize":"fit",
-                            "w":"1100"
-                        },
-                        "medium":{
-                            "h":"1100",
-                            "resize":"fit",
-                            "w":"1100"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/SSOg9651CN"
-                }
+            "media_url": "http://pbs.twimg.com/media/DwCAI9AX0AEuThn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DwCAI9AX0AEuThn.jpg",
+            "sizes": {
+              "large": {
+                "h": "1100",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "medium": {
+                "h": "1100",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/SSOg9651CN"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SSOg9651CN",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1081004804908949505/photo/1",
+            "id": "1081004801872351233",
+            "id_str": "1081004801872351233",
+            "indices": [
+              "279",
+              "302"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/SSOg9651CN",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1081004804908949505/photo/1",
-                    "id":"1081004801872351233",
-                    "id_str":"1081004801872351233",
-                    "indices":[
-                        "279",
-                        "302"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DwCAI9AX0AEuThn.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DwCAI9AX0AEuThn.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1100",
-                            "resize":"fit",
-                            "w":"1100"
-                        },
-                        "medium":{
-                            "h":"1100",
-                            "resize":"fit",
-                            "w":"1100"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/SSOg9651CN"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"Although Cleveland Chenier was not the first to play a rubboard, his younger brother Clifton was the first to design this instrument to fit like a vest over his chest, a style which came to be emulated by other zydeco musicians who followed after him. #StoryofArhoolie #Arhoolie https://t.co/SSOg9651CN",
-        "id":"1081004804908949505",
-        "id_str":"1081004804908949505",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DwCAI9AX0AEuThn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DwCAI9AX0AEuThn.jpg",
+            "sizes": {
+              "large": {
+                "h": "1100",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "medium": {
+                "h": "1100",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/SSOg9651CN"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Although Cleveland Chenier was not the first to play a rubboard, his younger brother Clifton was the first to design this instrument to fit like a vest over his chest, a style which came to be emulated by other zydeco musicians who followed after him. #StoryofArhoolie #Arhoolie https://t.co/SSOg9651CN",
+      "id": "1081004804908949505",
+      "id_str": "1081004804908949505",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026188,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729305107,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026188,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729305107,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729305107,
-    "wof:lastmodified":1602634282,
-    "wof:name":"Although Cleveland Chenier was not the first to play a rubboard, his younger brother Clifton was the first to design this instrument to fit like a vest over his chest, a style which came to be emulated by other zydeco musicians who followed after him. #StoryofArhoolie #Arhoolie https://t.co/SSOg9651CN",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729305107,
+    "wof:lastmodified": 1650064642,
+    "wof:name": "Although Cleveland Chenier was not the first to play a rubboard, his younger brother Clifton was the first to design this instrument to fit like a vest over his chest, a style which came to be emulated by other zydeco musicians who followed after him. #StoryofArhoolie #Arhoolie https://t.co/SSOg9651CN",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

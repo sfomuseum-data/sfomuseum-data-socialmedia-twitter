@@ -2,97 +2,97 @@
   "id": 1729310071,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-10-14",
-    "date:cessation_upper":"2011-10-14",
-    "date:inception_lower":"2011-10-14",
-    "date:inception_upper":"2011-10-14",
-    "edtf:cessation":"2011-10-14T16:40:01-07:00",
-    "edtf:inception":"2011-10-14T16:40:01-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1318635601,
-        "created_at":"Fri Oct 14 23:40:01 +0000 2011",
-        "display_text_range":[
-            "0",
-            "140"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/qVjhKh",
-                    "expanded_url":"http://bit.ly/qVjhKh",
-                    "indices":[
-                        "83",
-                        "103"
-                    ],
-                    "url":"http://t.co/dWa0wOCk"
-                }
+    "date:cessation_lower": "2011-10-14",
+    "date:cessation_upper": "2011-10-14",
+    "date:inception_lower": "2011-10-14",
+    "date:inception_upper": "2011-10-14",
+    "edtf:cessation": "2011-10-14T16:40:01-07:00",
+    "edtf:inception": "2011-10-14T16:40:01-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1318635601,
+      "created_at": "Fri Oct 14 23:40:01 +0000 2011",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/qVjhKh",
+            "expanded_url": "http://bit.ly/qVjhKh",
+            "indices": [
+              "83",
+              "103"
             ],
-            "user_mentions":[]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"Whether you're on a plane, on a boat, or on a flying boat (like the China Clipper: http://t.co/dWa0wOCk), we hope you have a lovely weekend!",
-        "id":"124992888152145920",
-        "id_str":"124992888152145920",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-        "truncated":false
+            "url": "http://t.co/dWa0wOCk"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Whether you're on a plane, on a boat, or on a flying boat (like the China Clipper: http://t.co/dWa0wOCk), we hope you have a lovely weekend!",
+      "id": "124992888152145920",
+      "id_str": "124992888152145920",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026378,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729310071,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026378,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729310071,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729310071,
-    "wof:lastmodified":1602634136,
-    "wof:name":"Whether you're on a plane, on a boat, or on a flying boat (like the China Clipper: http://t.co/dWa0wOCk), we hope you have a lovely weekend!",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729310071,
+    "wof:lastmodified": 1650064711,
+    "wof:name": "Whether you're on a plane, on a boat, or on a flying boat (like the China Clipper: http://t.co/dWa0wOCk), we hope you have a lovely weekend!",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

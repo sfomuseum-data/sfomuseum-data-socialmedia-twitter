@@ -2,113 +2,113 @@
   "id": 1729292025,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2014-05-27",
-    "date:cessation_upper":"2014-05-27",
-    "date:inception_lower":"2014-05-27",
-    "date:inception_upper":"2014-05-27",
-    "edtf:cessation":"2014-05-27T13:15:02-07:00",
-    "edtf:inception":"2014-05-27T13:15:02-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1401221702,
-        "created_at":"Tue May 27 20:15:02 +0000 2014",
-        "display_text_range":[
-            "0",
-            "108"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"ow.ly/xjDLO",
-                    "expanded_url":"http://ow.ly/xjDLO",
-                    "indices":[
-                        "86",
-                        "108"
-                    ],
-                    "url":"http://t.co/GYHWR0nlrF"
-                }
+    "date:cessation_lower": "2014-05-27",
+    "date:cessation_upper": "2014-05-27",
+    "date:inception_lower": "2014-05-27",
+    "date:inception_upper": "2014-05-27",
+    "edtf:cessation": "2014-05-27T13:15:02-07:00",
+    "edtf:inception": "2014-05-27T13:15:02-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1401221702,
+      "created_at": "Tue May 27 20:15:02 +0000 2014",
+      "display_text_range": [
+        "0",
+        "108"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/xjDLO",
+            "expanded_url": "http://ow.ly/xjDLO",
+            "indices": [
+              "86",
+              "108"
             ],
-            "user_mentions":[
-                {
-                    "id":"27067238",
-                    "id_str":"27067238",
-                    "indices":[
-                        "0",
-                        "9"
-                    ],
-                    "name":"Mei C Chen",
-                    "screen_name":"hellomei"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"@hellomei Glad you enjoyed it! Heres a link to the online exhibit if you interested:\n http://t.co/GYHWR0nlrF",
-        "id":"471384102328094720",
-        "id_str":"471384102328094720",
-        "in_reply_to_screen_name":"hellomei",
-        "in_reply_to_status_id":"470958013998981120",
-        "in_reply_to_status_id_str":"470958013998981120",
-        "in_reply_to_user_id":"27067238",
-        "in_reply_to_user_id_str":"27067238",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "url": "http://t.co/GYHWR0nlrF"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "27067238",
+            "id_str": "27067238",
+            "indices": [
+              "0",
+              "9"
+            ],
+            "name": "Mei C Chen",
+            "screen_name": "hellomei"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@hellomei Glad you enjoyed it! Heres a link to the online exhibit if you interested:\n http://t.co/GYHWR0nlrF",
+      "id": "471384102328094720",
+      "id_str": "471384102328094720",
+      "in_reply_to_screen_name": "hellomei",
+      "in_reply_to_status_id": "470958013998981120",
+      "in_reply_to_status_id_str": "470958013998981120",
+      "in_reply_to_user_id": "27067238",
+      "in_reply_to_user_id_str": "27067238",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025693,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729292025,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025693,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729292025,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729292025,
-    "wof:lastmodified":1602634544,
-    "wof:name":"@hellomei Glad you enjoyed it! Heres a link to the online exhibit if you interested:\n http://t.co/GYHWR0nlrF",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729292025,
+    "wof:lastmodified": 1650064635,
+    "wof:name": "@hellomei Glad you enjoyed it! Heres a link to the online exhibit if you interested:\n http://t.co/GYHWR0nlrF",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

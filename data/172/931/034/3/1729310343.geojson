@@ -2,135 +2,135 @@
   "id": 1729310343,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-08-14",
-    "date:cessation_upper":"2012-08-14",
-    "date:inception_lower":"2012-08-14",
-    "date:inception_upper":"2012-08-14",
-    "edtf:cessation":"2012-08-14T14:46:35-07:00",
-    "edtf:inception":"2012-08-14T14:46:35-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1344980795,
-        "created_at":"Tue Aug 14 21:46:35 +0000 2012",
-        "display_text_range":[
-            "0",
-            "137"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"instagr.am/p/OSeHq7RvL5/",
-                    "expanded_url":"http://instagr.am/p/OSeHq7RvL5/",
-                    "indices":[
-                        "51",
-                        "71"
-                    ],
-                    "url":"http://t.co/EZ14YEdS"
-                },
-                {
-                    "display_url":"instagr.am/p/OSeJeGxvL9/",
-                    "expanded_url":"http://instagr.am/p/OSeJeGxvL9/",
-                    "indices":[
-                        "73",
-                        "93"
-                    ],
-                    "url":"http://t.co/ZIm7HCx8"
-                },
-                {
-                    "display_url":"instagr.am/p/OSe_YdxvMW/",
-                    "expanded_url":"http://instagr.am/p/OSe_YdxvMW/",
-                    "indices":[
-                        "95",
-                        "115"
-                    ],
-                    "url":"http://t.co/IhmfRLHG"
-                },
-                {
-                    "display_url":"instagr.am/p/OSgJxAxvNQ/",
-                    "expanded_url":"http://instagr.am/p/OSgJxAxvNQ/",
-                    "indices":[
-                        "117",
-                        "137"
-                    ],
-                    "url":"http://t.co/1aJqdxZG"
-                }
+    "date:cessation_lower": "2012-08-14",
+    "date:cessation_upper": "2012-08-14",
+    "date:inception_lower": "2012-08-14",
+    "date:inception_upper": "2012-08-14",
+    "edtf:cessation": "2012-08-14T14:46:35-07:00",
+    "edtf:inception": "2012-08-14T14:46:35-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1344980795,
+      "created_at": "Tue Aug 14 21:46:35 +0000 2012",
+      "display_text_range": [
+        "0",
+        "137"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagr.am/p/OSeHq7RvL5/",
+            "expanded_url": "http://instagr.am/p/OSeHq7RvL5/",
+            "indices": [
+              "51",
+              "71"
             ],
-            "user_mentions":[
-                {
-                    "id":"368440830",
-                    "id_str":"368440830",
-                    "indices":[
-                        "14",
-                        "28"
-                    ],
-                    "name":"terry ellis",
-                    "screen_name":"_terry_ellis_"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"Great pics by @_terry_ellis_ of T2's \"Modern Form\" http://t.co/EZ14YEdS  http://t.co/ZIm7HCx8  http://t.co/IhmfRLHG  http://t.co/1aJqdxZG",
-        "id":"235492642732003329",
-        "id_str":"235492642732003329",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-        "truncated":false
+            "url": "http://t.co/EZ14YEdS"
+          },
+          {
+            "display_url": "instagr.am/p/OSeJeGxvL9/",
+            "expanded_url": "http://instagr.am/p/OSeJeGxvL9/",
+            "indices": [
+              "73",
+              "93"
+            ],
+            "url": "http://t.co/ZIm7HCx8"
+          },
+          {
+            "display_url": "instagr.am/p/OSe_YdxvMW/",
+            "expanded_url": "http://instagr.am/p/OSe_YdxvMW/",
+            "indices": [
+              "95",
+              "115"
+            ],
+            "url": "http://t.co/IhmfRLHG"
+          },
+          {
+            "display_url": "instagr.am/p/OSgJxAxvNQ/",
+            "expanded_url": "http://instagr.am/p/OSgJxAxvNQ/",
+            "indices": [
+              "117",
+              "137"
+            ],
+            "url": "http://t.co/1aJqdxZG"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "368440830",
+            "id_str": "368440830",
+            "indices": [
+              "14",
+              "28"
+            ],
+            "name": "terry ellis",
+            "screen_name": "_terry_ellis_"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Great pics by @_terry_ellis_ of T2's \"Modern Form\" http://t.co/EZ14YEdS  http://t.co/ZIm7HCx8  http://t.co/IhmfRLHG  http://t.co/1aJqdxZG",
+      "id": "235492642732003329",
+      "id_str": "235492642732003329",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026389,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729310343,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026389,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729310343,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729310343,
-    "wof:lastmodified":1602634172,
-    "wof:name":"Great pics by @_terry_ellis_ of T2's \"Modern Form\" http://t.co/EZ14YEdS  http://t.co/ZIm7HCx8  http://t.co/IhmfRLHG  http://t.co/1aJqdxZG",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729310343,
+    "wof:lastmodified": 1650064711,
+    "wof:name": "Great pics by @_terry_ellis_ of T2's \"Modern Form\" http://t.co/EZ14YEdS  http://t.co/ZIm7HCx8  http://t.co/IhmfRLHG  http://t.co/1aJqdxZG",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

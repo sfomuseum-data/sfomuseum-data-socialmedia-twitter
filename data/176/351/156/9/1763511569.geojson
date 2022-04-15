@@ -1,0 +1,186 @@
+{
+  "id": 1763511569,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-01-27",
+    "date:cessation_upper": "2021-01-27",
+    "date:inception_lower": "2021-01-27",
+    "date:inception_upper": "2021-01-27",
+    "edtf:cessation": "2021-01-26T16:38:00-08:00",
+    "edtf:inception": "2021-01-26T16:38:00-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1611707880,
+      "created_at": "Wed Jan 27 00:38:00 +0000 2021",
+      "display_text_range": [
+        "0",
+        "300"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "194",
+              "204"
+            ],
+            "text": "publicart"
+          },
+          {
+            "indices": [
+              "205",
+              "222"
+            ],
+            "text": "JohannaGrawunder"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/EJj9CM2sGr",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1354227119220383746/photo/1",
+            "id": "1347642404656934914",
+            "id_str": "1347642404656934914",
+            "indices": [
+              "277",
+              "300"
+            ],
+            "media_url": "http://pbs.twimg.com/media/ErPJoH3UcAIEhPD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ErPJoH3UcAIEhPD.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1805"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1083"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "614"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/EJj9CM2sGr"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/36Vmb2I",
+            "expanded_url": "https://bit.ly/36Vmb2I",
+            "indices": [
+              "253",
+              "276"
+            ],
+            "url": "https://t.co/aJh8I6r9U4"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/EJj9CM2sGr",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1354227119220383746/photo/1",
+            "id": "1347642404656934914",
+            "id_str": "1347642404656934914",
+            "indices": [
+              "277",
+              "300"
+            ],
+            "media_url": "http://pbs.twimg.com/media/ErPJoH3UcAIEhPD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ErPJoH3UcAIEhPD.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1805"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1083"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "614"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/EJj9CM2sGr"
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "Mirrored square and rectangle windows in the exterior glass facade spell out \"San Francisco\" in Morse code, while yellow steel panels on the structural mullions point north, south, east, west. \n#publicart #JohannaGrawunder  \n\nFind it on our website at: https://t.co/aJh8I6r9U4 https://t.co/EJj9CM2sGr",
+      "id": "1354227119220383746",
+      "id_str": "1354227119220383746",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064657,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763511569,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763511569,
+    "wof:lastmodified": 1650064657,
+    "wof:name": "Mirrored square and rectangle windows in the exterior glass facade spell out \"San Francisco\" in Morse code, while yellow steel panels on the structural mullions point north, south, east, west. \n#publicart #JohannaGrawunder  \n\nFind it on our website at: https://t.co/aJh8I6r9U4 https://t.co/EJj9CM2sGr",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -2,199 +2,199 @@
   "id": 1729301621,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-11-01",
-    "date:cessation_upper":"2017-11-01",
-    "date:inception_lower":"2017-11-01",
-    "date:inception_upper":"2017-11-01",
-    "edtf:cessation":"2017-11-01T10:59:32-07:00",
-    "edtf:inception":"2017-11-01T10:59:32-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1509559172,
-        "created_at":"Wed Nov 01 17:59:32 +0000 2017",
-        "display_text_range":[
-            "0",
-            "119"
+    "date:cessation_lower": "2017-11-01",
+    "date:cessation_upper": "2017-11-01",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-01",
+    "edtf:cessation": "2017-11-01T10:59:32-07:00",
+    "edtf:inception": "2017-11-01T10:59:32-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1509559172,
+      "created_at": "Wed Nov 01 17:59:32 +0000 2017",
+      "display_text_range": [
+        "0",
+        "119"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "67",
+              "74"
+            ],
+            "text": "Boeing"
+          },
+          {
+            "indices": [
+              "87",
+              "95"
+            ],
+            "text": "avgeeks"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "67",
-                        "74"
-                    ],
-                    "text":"Boeing"
-                },
-                {
-                    "indices":[
-                        "87",
-                        "95"
-                    ],
-                    "text":"avgeeks"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0GUbkMPuNy",
+            "expanded_url": "https://twitter.com/BoeingFrance/status/925734019555348483/photo/1",
+            "id": "925733714188894208",
+            "id_str": "925733714188894208",
+            "indices": [
+              "96",
+              "119"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/0GUbkMPuNy",
-                    "expanded_url":"https://twitter.com/BoeingFrance/status/925734019555348483/photo/1",
-                    "id":"925733714188894208",
-                    "id_str":"925733714188894208",
-                    "indices":[
-                        "96",
-                        "119"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DNjd6IbVAAAm9BT.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DNjd6IbVAAAm9BT.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"598",
-                            "resize":"fit",
-                            "w":"893"
-                        },
-                        "medium":{
-                            "h":"598",
-                            "resize":"fit",
-                            "w":"893"
-                        },
-                        "small":{
-                            "h":"455",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"925734019555348483",
-                    "source_status_id_str":"925734019555348483",
-                    "source_user_id":"3091451104",
-                    "source_user_id_str":"3091451104",
-                    "type":"photo",
-                    "url":"https://t.co/0GUbkMPuNy"
-                }
+            "media_url": "http://pbs.twimg.com/media/DNjd6IbVAAAm9BT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DNjd6IbVAAAm9BT.jpg",
+            "sizes": {
+              "large": {
+                "h": "598",
+                "resize": "fit",
+                "w": "893"
+              },
+              "medium": {
+                "h": "598",
+                "resize": "fit",
+                "w": "893"
+              },
+              "small": {
+                "h": "455",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "925734019555348483",
+            "source_status_id_str": "925734019555348483",
+            "source_user_id": "3091451104",
+            "source_user_id_str": "3091451104",
+            "type": "photo",
+            "url": "https://t.co/0GUbkMPuNy"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "3091451104",
+            "id_str": "3091451104",
+            "indices": [
+              "3",
+              "16"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"3091451104",
-                    "id_str":"3091451104",
-                    "indices":[
-                        "3",
-                        "16"
-                    ],
-                    "name":"Boeing France",
-                    "screen_name":"BoeingFrance"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/0GUbkMPuNy",
-                    "expanded_url":"https://twitter.com/BoeingFrance/status/925734019555348483/photo/1",
-                    "id":"925733714188894208",
-                    "id_str":"925733714188894208",
-                    "indices":[
-                        "96",
-                        "119"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DNjd6IbVAAAm9BT.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DNjd6IbVAAAm9BT.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"598",
-                            "resize":"fit",
-                            "w":"893"
-                        },
-                        "medium":{
-                            "h":"598",
-                            "resize":"fit",
-                            "w":"893"
-                        },
-                        "small":{
-                            "h":"455",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"925734019555348483",
-                    "source_status_id_str":"925734019555348483",
-                    "source_user_id":"3091451104",
-                    "source_user_id_str":"3091451104",
-                    "type":"photo",
-                    "url":"https://t.co/0GUbkMPuNy"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @BoeingFrance: Souvenir marquant \u27a1 lancement de notre jumbo jet #Boeing 747 en 1968 #avgeeks https://t.co/0GUbkMPuNy",
-        "id":"925784387089821696",
-        "id_str":"925784387089821696",
-        "lang":"fr",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "Boeing France",
+            "screen_name": "BoeingFrance"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0GUbkMPuNy",
+            "expanded_url": "https://twitter.com/BoeingFrance/status/925734019555348483/photo/1",
+            "id": "925733714188894208",
+            "id_str": "925733714188894208",
+            "indices": [
+              "96",
+              "119"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DNjd6IbVAAAm9BT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DNjd6IbVAAAm9BT.jpg",
+            "sizes": {
+              "large": {
+                "h": "598",
+                "resize": "fit",
+                "w": "893"
+              },
+              "medium": {
+                "h": "598",
+                "resize": "fit",
+                "w": "893"
+              },
+              "small": {
+                "h": "455",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "925734019555348483",
+            "source_status_id_str": "925734019555348483",
+            "source_user_id": "3091451104",
+            "source_user_id_str": "3091451104",
+            "type": "photo",
+            "url": "https://t.co/0GUbkMPuNy"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @BoeingFrance: Souvenir marquant ➡ lancement de notre jumbo jet #Boeing 747 en 1968 #avgeeks https://t.co/0GUbkMPuNy",
+      "id": "925784387089821696",
+      "id_str": "925784387089821696",
+      "lang": "fr",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026052,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729301621,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026052,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729301621,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729301621,
-    "wof:lastmodified":1602634318,
-    "wof:name":"RT @BoeingFrance: Souvenir marquant \u27a1 lancement de notre jumbo jet #Boeing 747 en 1968 #avgeeks https://t.co/0GUbkMPuNy",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729301621,
+    "wof:lastmodified": 1650064640,
+    "wof:name": "RT @BoeingFrance: Souvenir marquant ➡ lancement de notre jumbo jet #Boeing 747 en 1968 #avgeeks https://t.co/0GUbkMPuNy",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

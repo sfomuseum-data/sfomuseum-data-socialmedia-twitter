@@ -2,187 +2,187 @@
   "id": 1729308203,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-03-24",
-    "date:cessation_upper":"2020-03-24",
-    "date:inception_lower":"2020-03-24",
-    "date:inception_upper":"2020-03-24",
-    "edtf:cessation":"2020-03-24T19:25:41-07:00",
-    "edtf:inception":"2020-03-24T19:25:41-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1585103141,
-        "created_at":"Wed Mar 25 02:25:41 +0000 2020",
-        "display_text_range":[
-            "0",
-            "299"
+    "date:cessation_lower": "2020-03-25",
+    "date:cessation_upper": "2020-03-25",
+    "date:inception_lower": "2020-03-25",
+    "date:inception_upper": "2020-03-25",
+    "edtf:cessation": "2020-03-24T19:25:41-07:00",
+    "edtf:inception": "2020-03-24T19:25:41-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1585103141,
+      "created_at": "Wed Mar 25 02:25:41 +0000 2020",
+      "display_text_range": [
+        "0",
+        "299"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "9",
+              "27"
+            ],
+            "text": "MargaretKilgallen"
+          },
+          {
+            "indices": [
+              "245",
+              "260"
+            ],
+            "text": "MuseumFromHome"
+          },
+          {
+            "indices": [
+              "261",
+              "275"
+            ],
+            "text": "5WomenArtists"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "9",
-                        "27"
-                    ],
-                    "text":"MargaretKilgallen"
-                },
-                {
-                    "indices":[
-                        "245",
-                        "260"
-                    ],
-                    "text":"MuseumFromHome"
-                },
-                {
-                    "indices":[
-                        "261",
-                        "275"
-                    ],
-                    "text":"5WomenArtists"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/F9msjph9JY",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1242638756479299584/photo/1",
+            "id": "1242637846126575616",
+            "id_str": "1242637846126575616",
+            "indices": [
+              "276",
+              "299"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/F9msjph9JY",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1242638756479299584/photo/1",
-                    "id":"1242637846126575616",
-                    "id_str":"1242637846126575616",
-                    "indices":[
-                        "276",
-                        "299"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/ET68iYrUwAAxVNQ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/ET68iYrUwAAxVNQ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/F9msjph9JY"
-                }
+            "media_url": "http://pbs.twimg.com/media/ET68iYrUwAAxVNQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ET68iYrUwAAxVNQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/F9msjph9JY"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/F9msjph9JY",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1242638756479299584/photo/1",
+            "id": "1242637846126575616",
+            "id_str": "1242637846126575616",
+            "indices": [
+              "276",
+              "299"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/F9msjph9JY",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1242638756479299584/photo/1",
-                    "id":"1242637846126575616",
-                    "id_str":"1242637846126575616",
-                    "indices":[
-                        "276",
-                        "299"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/ET68iYrUwAAxVNQ.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/ET68iYrUwAAxVNQ.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/F9msjph9JY"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"In 1989, #MargaretKilgallen moved to San Francisco, where she fell into a group of artists that would become the Mission School. Killgallen had an interest in literary arts, typography, hand-lettering, print-making, sign painting, and folk art. #MuseumFromHome #5WomenArtists https://t.co/F9msjph9JY",
-        "id":"1242638756479299584",
-        "id_str":"1242638756479299584",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/ET68iYrUwAAxVNQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ET68iYrUwAAxVNQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/F9msjph9JY"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "In 1989, #MargaretKilgallen moved to San Francisco, where she fell into a group of artists that would become the Mission School. Killgallen had an interest in literary arts, typography, hand-lettering, print-making, sign painting, and folk art. #MuseumFromHome #5WomenArtists https://t.co/F9msjph9JY",
+      "id": "1242638756479299584",
+      "id_str": "1242638756479299584",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026307,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729308203,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026307,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729308203,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729308203,
-    "wof:lastmodified":1602634220,
-    "wof:name":"In 1989, #MargaretKilgallen moved to San Francisco, where she fell into a group of artists that would become the Mission School. Killgallen had an interest in literary arts, typography, hand-lettering, print-making, sign painting, and folk art. #MuseumFromHome #5WomenArtists https://t.co/F9msjph9JY",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729308203,
+    "wof:lastmodified": 1650064643,
+    "wof:name": "In 1989, #MargaretKilgallen moved to San Francisco, where she fell into a group of artists that would become the Mission School. Killgallen had an interest in literary arts, typography, hand-lettering, print-making, sign painting, and folk art. #MuseumFromHome #5WomenArtists https://t.co/F9msjph9JY",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

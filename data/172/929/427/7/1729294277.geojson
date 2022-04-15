@@ -2,225 +2,225 @@
   "id": 1729294277,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-10-13",
-    "date:cessation_upper":"2015-10-13",
-    "date:inception_lower":"2015-10-13",
-    "date:inception_upper":"2015-10-13",
-    "edtf:cessation":"2015-10-13T16:05:17-07:00",
-    "edtf:inception":"2015-10-13T16:05:17-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1444777517,
-        "created_at":"Tue Oct 13 23:05:17 +0000 2015",
-        "display_text_range":[
-            "0",
-            "108"
-        ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/ur3vMnAr2R",
-                    "expanded_url":"https://twitter.com/49ers/status/653990432888635392/video/1",
-                    "id":"653990403285217280",
-                    "id_str":"653990403285217280",
-                    "indices":[
-                        "86",
-                        "108"
-                    ],
-                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/653990403285217280/pu/img/ZrWbe9vhoNGIZqZC.jpg",
-                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/653990403285217280/pu/img/ZrWbe9vhoNGIZqZC.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"720",
-                            "resize":"fit",
-                            "w":"1280"
-                        },
-                        "medium":{
-                            "h":"675",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"383",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"653990432888635392",
-                    "source_status_id_str":"653990432888635392",
-                    "source_user_id":"43403778",
-                    "source_user_id_str":"43403778",
-                    "type":"photo",
-                    "url":"http://t.co/ur3vMnAr2R"
-                }
+    "date:cessation_lower": "2015-10-13",
+    "date:cessation_upper": "2015-10-13",
+    "date:inception_lower": "2015-10-13",
+    "date:inception_upper": "2015-10-13",
+    "edtf:cessation": "2015-10-13T16:05:17-07:00",
+    "edtf:inception": "2015-10-13T16:05:17-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1444777517,
+      "created_at": "Tue Oct 13 23:05:17 +0000 2015",
+      "display_text_range": [
+        "0",
+        "108"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ur3vMnAr2R",
+            "expanded_url": "https://twitter.com/49ers/status/653990432888635392/video/1",
+            "id": "653990403285217280",
+            "id_str": "653990403285217280",
+            "indices": [
+              "86",
+              "108"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/653990403285217280/pu/img/ZrWbe9vhoNGIZqZC.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/653990403285217280/pu/img/ZrWbe9vhoNGIZqZC.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "653990432888635392",
+            "source_status_id_str": "653990432888635392",
+            "source_user_id": "43403778",
+            "source_user_id_str": "43403778",
+            "type": "photo",
+            "url": "http://t.co/ur3vMnAr2R"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "43403778",
+            "id_str": "43403778",
+            "indices": [
+              "3",
+              "9"
+            ],
+            "name": "San Francisco 49ers",
+            "screen_name": "49ers"
+          },
+          {
+            "id": "95749490",
+            "id_str": "95749490",
+            "indices": [
+              "74",
+              "84"
+            ],
+            "name": "Jerry Rice",
+            "screen_name": "JerryRice"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/ur3vMnAr2R",
+            "expanded_url": "https://twitter.com/49ers/status/653990432888635392/video/1",
+            "id": "653990403285217280",
+            "id_str": "653990403285217280",
+            "indices": [
+              "86",
+              "108"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/653990403285217280/pu/img/ZrWbe9vhoNGIZqZC.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/653990403285217280/pu/img/ZrWbe9vhoNGIZqZC.jpg",
+            "sizes": {
+              "large": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "653990432888635392",
+            "source_status_id_str": "653990432888635392",
+            "source_user_id": "43403778",
+            "source_user_id_str": "43403778",
+            "type": "video",
+            "url": "http://t.co/ur3vMnAr2R",
+            "video_info": {
+              "aspect_ratio": [
+                "16",
+                "9"
+              ],
+              "duration_millis": "13947",
+              "variants": [
                 {
-                    "id":"43403778",
-                    "id_str":"43403778",
-                    "indices":[
-                        "3",
-                        "9"
-                    ],
-                    "name":"San Francisco 49ers",
-                    "screen_name":"49ers"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/653990403285217280/pu/vid/640x360/wCG42L3Ou8YbSIBy.mp4"
                 },
                 {
-                    "id":"95749490",
-                    "id_str":"95749490",
-                    "indices":[
-                        "74",
-                        "84"
-                    ],
-                    "name":"Jerry Rice",
-                    "screen_name":"JerryRice"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/653990403285217280/pu/vid/1280x720/2Nh1f2_WK397DYwU.mp4"
+                },
                 {
-                    "additional_media_info":{
-                        "monetizable":false
-                    },
-                    "display_url":"pic.twitter.com/ur3vMnAr2R",
-                    "expanded_url":"https://twitter.com/49ers/status/653990432888635392/video/1",
-                    "id":"653990403285217280",
-                    "id_str":"653990403285217280",
-                    "indices":[
-                        "86",
-                        "108"
-                    ],
-                    "media_url":"http://pbs.twimg.com/ext_tw_video_thumb/653990403285217280/pu/img/ZrWbe9vhoNGIZqZC.jpg",
-                    "media_url_https":"https://pbs.twimg.com/ext_tw_video_thumb/653990403285217280/pu/img/ZrWbe9vhoNGIZqZC.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"720",
-                            "resize":"fit",
-                            "w":"1280"
-                        },
-                        "medium":{
-                            "h":"675",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"383",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"653990432888635392",
-                    "source_status_id_str":"653990432888635392",
-                    "source_user_id":"43403778",
-                    "source_user_id_str":"43403778",
-                    "type":"video",
-                    "url":"http://t.co/ur3vMnAr2R",
-                    "video_info":{
-                        "aspect_ratio":[
-                            "16",
-                            "9"
-                        ],
-                        "duration_millis":"13947",
-                        "variants":[
-                            {
-                                "bitrate":"832000",
-                                "content_type":"video/mp4",
-                                "url":"https://video.twimg.com/ext_tw_video/653990403285217280/pu/vid/640x360/wCG42L3Ou8YbSIBy.mp4"
-                            },
-                            {
-                                "bitrate":"2176000",
-                                "content_type":"video/mp4",
-                                "url":"https://video.twimg.com/ext_tw_video/653990403285217280/pu/vid/1280x720/2Nh1f2_WK397DYwU.mp4"
-                            },
-                            {
-                                "bitrate":"320000",
-                                "content_type":"video/mp4",
-                                "url":"https://video.twimg.com/ext_tw_video/653990403285217280/pu/vid/320x180/ogCPXGpdmiDtjRx6.mp4"
-                            },
-                            {
-                                "content_type":"application/x-mpegURL",
-                                "url":"https://video.twimg.com/ext_tw_video/653990403285217280/pu/pl/OWp8mgXHaMlkhNoc.m3u8"
-                            }
-                        ]
-                    }
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/653990403285217280/pu/vid/320x180/ogCPXGpdmiDtjRx6.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/653990403285217280/pu/pl/OWp8mgXHaMlkhNoc.m3u8"
                 }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @49ers: He certainly did take advantage of it. Happy birthday to the \ud83d\udc10 @JerryRice! http://t.co/ur3vMnAr2R",
-        "id":"654070429825429508",
-        "id_str":"654070429825429508",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "truncated":false
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @49ers: He certainly did take advantage of it. Happy birthday to the 🐐 @JerryRice! http://t.co/ur3vMnAr2R",
+      "id": "654070429825429508",
+      "id_str": "654070429825429508",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025776,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729294277,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025776,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729294277,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729294277,
-    "wof:lastmodified":1602634638,
-    "wof:name":"RT @49ers: He certainly did take advantage of it. Happy birthday to the \ud83d\udc10 @JerryRice! http://t.co/ur3vMnAr2R",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729294277,
+    "wof:lastmodified": 1650064636,
+    "wof:name": "RT @49ers: He certainly did take advantage of it. Happy birthday to the 🐐 @JerryRice! http://t.co/ur3vMnAr2R",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

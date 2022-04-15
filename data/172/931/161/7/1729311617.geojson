@@ -2,102 +2,102 @@
   "id": 1729311617,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-03-20",
-    "date:cessation_upper":"2013-03-20",
-    "date:inception_lower":"2013-03-20",
-    "date:inception_upper":"2013-03-20",
-    "edtf:cessation":"2013-03-20T08:33:09-07:00",
-    "edtf:inception":"2013-03-20T08:33:09-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1363793589,
-        "created_at":"Wed Mar 20 15:33:09 +0000 2013",
-        "display_text_range":[
-            "0",
-            "58"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"442478089",
-                    "id_str":"442478089",
-                    "indices":[
-                        "0",
-                        "16"
-                    ],
-                    "name":"Kat Honaman",
-                    "screen_name":"KathrynHilarius"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"@KathrynHilarius Our pleasure. :)  Glad you enjoy the art!",
-        "id":"314399218636840960",
-        "id_str":"314399218636840960",
-        "in_reply_to_screen_name":"KathrynHilarius",
-        "in_reply_to_status_id":"314241184526659586",
-        "in_reply_to_status_id_str":"314241184526659586",
-        "in_reply_to_user_id":"442478089",
-        "in_reply_to_user_id_str":"442478089",
-        "lang":"en",
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+    "date:cessation_lower": "2013-03-20",
+    "date:cessation_upper": "2013-03-20",
+    "date:inception_lower": "2013-03-20",
+    "date:inception_upper": "2013-03-20",
+    "edtf:cessation": "2013-03-20T08:33:09-07:00",
+    "edtf:inception": "2013-03-20T08:33:09-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1363793589,
+      "created_at": "Wed Mar 20 15:33:09 +0000 2013",
+      "display_text_range": [
+        "0",
+        "58"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "442478089",
+            "id_str": "442478089",
+            "indices": [
+              "0",
+              "16"
+            ],
+            "name": "Kat Monαχαν",
+            "screen_name": "KathrynHilarius"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@KathrynHilarius Our pleasure. :)  Glad you enjoy the art!",
+      "id": "314399218636840960",
+      "id_str": "314399218636840960",
+      "in_reply_to_screen_name": "KathrynHilarius",
+      "in_reply_to_status_id": "314241184526659586",
+      "in_reply_to_status_id_str": "314241184526659586",
+      "in_reply_to_user_id": "442478089",
+      "in_reply_to_user_id_str": "442478089",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026439,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729311617,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026439,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729311617,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729311617,
-    "wof:lastmodified":1602634119,
-    "wof:name":"@KathrynHilarius Our pleasure. :)  Glad you enjoy the art!",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729311617,
+    "wof:lastmodified": 1650064711,
+    "wof:name": "@KathrynHilarius Our pleasure. :)  Glad you enjoy the art!",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

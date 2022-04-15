@@ -2,233 +2,233 @@
   "id": 1729304387,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-10-11",
-    "date:cessation_upper":"2018-10-11",
-    "date:inception_lower":"2018-10-11",
-    "date:inception_upper":"2018-10-11",
-    "edtf:cessation":"2018-10-11T10:15:09-07:00",
-    "edtf:inception":"2018-10-11T10:15:09-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1539278109,
-        "created_at":"Thu Oct 11 17:15:09 +0000 2018",
-        "display_text_range":[
-            "0",
-            "190"
+    "date:cessation_lower": "2018-10-11",
+    "date:cessation_upper": "2018-10-11",
+    "date:inception_lower": "2018-10-11",
+    "date:inception_upper": "2018-10-11",
+    "edtf:cessation": "2018-10-11T10:15:09-07:00",
+    "edtf:inception": "2018-10-11T10:15:09-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1539278109,
+      "created_at": "Thu Oct 11 17:15:09 +0000 2018",
+      "display_text_range": [
+        "0",
+        "190"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "142",
+              "151"
+            ],
+            "text": "RadioSFO"
+          },
+          {
+            "indices": [
+              "152",
+              "158"
+            ],
+            "text": "radio"
+          },
+          {
+            "indices": [
+              "159",
+              "166"
+            ],
+            "text": "radios"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "142",
-                        "151"
-                    ],
-                    "text":"RadioSFO"
-                },
-                {
-                    "indices":[
-                        "152",
-                        "158"
-                    ],
-                    "text":"radio"
-                },
-                {
-                    "indices":[
-                        "159",
-                        "166"
-                    ],
-                    "text":"radios"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/AiHaxCwTaO",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1050434643131097088/photo/1",
+            "id": "1050434640400535553",
+            "id_str": "1050434640400535553",
+            "indices": [
+              "167",
+              "190"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/AiHaxCwTaO",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1050434643131097088/photo/1",
-                    "id":"1050434640400535553",
-                    "id_str":"1050434640400535553",
-                    "indices":[
-                        "167",
-                        "190"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DpPkvXDW0AEXfAK.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DpPkvXDW0AEXfAK.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/AiHaxCwTaO"
-                }
+            "media_url": "http://pbs.twimg.com/media/DpPkvXDW0AEXfAK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DpPkvXDW0AEXfAK.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/AiHaxCwTaO"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/RadioSFO",
+            "expanded_url": "http://bit.ly/RadioSFO",
+            "indices": [
+              "118",
+              "141"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/RadioSFO",
-                    "expanded_url":"http://bit.ly/RadioSFO",
-                    "indices":[
-                        "118",
-                        "141"
-                    ],
-                    "url":"https://t.co/1nHbV738Te"
-                }
+            "url": "https://t.co/1nHbV738Te"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/AiHaxCwTaO",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1050434643131097088/photo/1",
+            "id": "1050434640400535553",
+            "id_str": "1050434640400535553",
+            "indices": [
+              "167",
+              "190"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/AiHaxCwTaO",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1050434643131097088/photo/1",
-                    "id":"1050434640400535553",
-                    "id_str":"1050434640400535553",
-                    "indices":[
-                        "167",
-                        "190"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DpPkvXDW0AEXfAK.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DpPkvXDW0AEXfAK.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1473",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"884",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"501",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/AiHaxCwTaO"
-                },
-                {
-                    "display_url":"pic.twitter.com/AiHaxCwTaO",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1050434643131097088/photo/1",
-                    "id":"1050434640845164546",
-                    "id_str":"1050434640845164546",
-                    "indices":[
-                        "167",
-                        "190"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DpPkvYtXUAIcabo.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DpPkvYtXUAIcabo.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/AiHaxCwTaO"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"Radio is courtesy of California Historical Radio Society. \"On the Radio\" is on display, post-security, in Terminal 3. https://t.co/1nHbV738Te #RadioSFO #radio #radios https://t.co/AiHaxCwTaO",
-        "id":"1050434643131097088",
-        "id_str":"1050434643131097088",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DpPkvXDW0AEXfAK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DpPkvXDW0AEXfAK.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/AiHaxCwTaO"
+          },
+          {
+            "display_url": "pic.twitter.com/AiHaxCwTaO",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1050434643131097088/photo/1",
+            "id": "1050434640845164546",
+            "id_str": "1050434640845164546",
+            "indices": [
+              "167",
+              "190"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DpPkvYtXUAIcabo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DpPkvYtXUAIcabo.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/AiHaxCwTaO"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Radio is courtesy of California Historical Radio Society. \"On the Radio\" is on display, post-security, in Terminal 3. https://t.co/1nHbV738Te #RadioSFO #radio #radios https://t.co/AiHaxCwTaO",
+      "id": "1050434643131097088",
+      "id_str": "1050434643131097088",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026160,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729304387,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026160,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729304387,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729304387,
-    "wof:lastmodified":1602634271,
-    "wof:name":"Radio is courtesy of California Historical Radio Society. \"On the Radio\" is on display, post-security, in Terminal 3. https://t.co/1nHbV738Te #RadioSFO #radio #radios https://t.co/AiHaxCwTaO",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729304387,
+    "wof:lastmodified": 1650064641,
+    "wof:name": "Radio is courtesy of California Historical Radio Society. \"On the Radio\" is on display, post-security, in Terminal 3. https://t.co/1nHbV738Te #RadioSFO #radio #radios https://t.co/AiHaxCwTaO",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

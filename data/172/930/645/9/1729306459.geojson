@@ -2,186 +2,186 @@
   "id": 1729306459,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-07-04",
-    "date:cessation_upper":"2019-07-04",
-    "date:inception_lower":"2019-07-04",
-    "date:inception_upper":"2019-07-04",
-    "edtf:cessation":"2019-07-04T16:00:30-07:00",
-    "edtf:inception":"2019-07-04T16:00:30-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1562281230,
-        "created_at":"Thu Jul 04 23:00:30 +0000 2019",
-        "display_text_range":[
-            "0",
-            "304"
+    "date:cessation_lower": "2019-07-04",
+    "date:cessation_upper": "2019-07-04",
+    "date:inception_lower": "2019-07-04",
+    "date:inception_upper": "2019-07-04",
+    "edtf:cessation": "2019-07-04T16:00:30-07:00",
+    "edtf:inception": "2019-07-04T16:00:30-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1562281230,
+      "created_at": "Thu Jul 04 23:00:30 +0000 2019",
+      "display_text_range": [
+        "0",
+        "304"
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Aer2yt8DWX",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1146916723909713920/photo/1",
+            "id": "1146916722110345217",
+            "id_str": "1146916722110345217",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-qqrqBXsAEGnlf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-qqrqBXsAEGnlf.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Aer2yt8DWX"
+          }
         ],
-        "entities":{
-            "hashtags":[],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/Aer2yt8DWX",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1146916723909713920/photo/1",
-                    "id":"1146916722110345217",
-                    "id_str":"1146916722110345217",
-                    "indices":[
-                        "281",
-                        "304"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D-qqrqBXsAEGnlf.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D-qqrqBXsAEGnlf.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1080",
-                            "resize":"fit",
-                            "w":"1920"
-                        },
-                        "medium":{
-                            "h":"675",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"383",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/Aer2yt8DWX"
-                }
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/307xG28",
+            "expanded_url": "http://bit.ly/307xG28",
+            "indices": [
+              "257",
+              "280"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/307xG28",
-                    "expanded_url":"http://bit.ly/307xG28",
-                    "indices":[
-                        "257",
-                        "280"
-                    ],
-                    "url":"https://t.co/lL17dClzTB"
-                }
+            "url": "https://t.co/lL17dClzTB"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "41697864",
+            "id_str": "41697864",
+            "indices": [
+              "200",
+              "210"
             ],
-            "user_mentions":[
-                {
-                    "id":"41697864",
-                    "id_str":"41697864",
-                    "indices":[
-                        "200",
-                        "210"
-                    ],
-                    "name":"The Walt Disney Family Museum",
-                    "screen_name":"WDFMuseum"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/Aer2yt8DWX",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1146916723909713920/photo/1",
-                    "id":"1146916722110345217",
-                    "id_str":"1146916722110345217",
-                    "indices":[
-                        "281",
-                        "304"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/D-qqrqBXsAEGnlf.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/D-qqrqBXsAEGnlf.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1080",
-                            "resize":"fit",
-                            "w":"1920"
-                        },
-                        "medium":{
-                            "h":"675",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"383",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/Aer2yt8DWX"
-                }
-            ]
-        },
-        "favorite_count":"9",
-        "favorited":false,
-        "full_text":"NOW PLAYING: \"The Lonely Stoplight\" by Howard Kung. A streetlamp, traffic signal, and stoplight perform a choreography at a lonely intersection of rural byways in Howard Kung\u2019s award-winning film for @WDFMuseum\u2019s 2019 Teen Animation International Festival. https://t.co/lL17dClzTB https://t.co/Aer2yt8DWX",
-        "id":"1146916723909713920",
-        "id_str":"1146916723909713920",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"2",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "name": "The Walt Disney Family Museum",
+            "screen_name": "WDFMuseum"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Aer2yt8DWX",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1146916723909713920/photo/1",
+            "id": "1146916722110345217",
+            "id_str": "1146916722110345217",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-qqrqBXsAEGnlf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-qqrqBXsAEGnlf.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Aer2yt8DWX"
+          }
+        ]
+      },
+      "favorite_count": "7",
+      "favorited": false,
+      "full_text": "NOW PLAYING: \"The Lonely Stoplight\" by Howard Kung. A streetlamp, traffic signal, and stoplight perform a choreography at a lonely intersection of rural byways in Howard Kung’s award-winning film for @WDFMuseum’s 2019 Teen Animation International Festival. https://t.co/lL17dClzTB https://t.co/Aer2yt8DWX",
+      "id": "1146916723909713920",
+      "id_str": "1146916723909713920",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026240,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729306459,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026240,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729306459,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729306459,
-    "wof:lastmodified":1602634233,
-    "wof:name":"NOW PLAYING: \"The Lonely Stoplight\" by Howard Kung. A streetlamp, traffic signal, and stoplight perform a choreography at a lonely intersection of rural byways in Howard Kung\u2019s award-winning film for @WDFMuseum\u2019s 2019 Teen Animation International Festival. https://t.co/lL17dClzTB https://t.co/Aer2yt8DWX",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729306459,
+    "wof:lastmodified": 1650064643,
+    "wof:name": "NOW PLAYING: \"The Lonely Stoplight\" by Howard Kung. A streetlamp, traffic signal, and stoplight perform a choreography at a lonely intersection of rural byways in Howard Kung’s award-winning film for @WDFMuseum’s 2019 Teen Animation International Festival. https://t.co/lL17dClzTB https://t.co/Aer2yt8DWX",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

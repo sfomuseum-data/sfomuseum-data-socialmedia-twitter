@@ -2,190 +2,190 @@
   "id": 1729304999,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-12-14",
-    "date:cessation_upper":"2018-12-14",
-    "date:inception_lower":"2018-12-14",
-    "date:inception_upper":"2018-12-14",
-    "edtf:cessation":"2018-12-14T21:00:06-08:00",
-    "edtf:inception":"2018-12-14T21:00:06-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1544850006,
-        "created_at":"Sat Dec 15 05:00:06 +0000 2018",
-        "display_text_range":[
-            "0",
-            "240"
+    "date:cessation_lower": "2018-12-15",
+    "date:cessation_upper": "2018-12-15",
+    "date:inception_lower": "2018-12-15",
+    "date:inception_upper": "2018-12-15",
+    "edtf:cessation": "2018-12-14T21:00:06-08:00",
+    "edtf:inception": "2018-12-14T21:00:06-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1544850006,
+      "created_at": "Sat Dec 15 05:00:06 +0000 2018",
+      "display_text_range": [
+        "0",
+        "240"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "81",
+              "92"
+            ],
+            "text": "Ballooning"
+          },
+          {
+            "indices": [
+              "203",
+              "216"
+            ],
+            "text": "IntoTheEther"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "81",
-                        "92"
-                    ],
-                    "text":"Ballooning"
-                },
-                {
-                    "indices":[
-                        "203",
-                        "216"
-                    ],
-                    "text":"IntoTheEther"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/RVbsc9he5r",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1073804872863137792/photo/1",
+            "id": "1073804870409424896",
+            "id_str": "1073804870409424896",
+            "indices": [
+              "217",
+              "240"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/RVbsc9he5r",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1073804872863137792/photo/1",
-                    "id":"1073804870409424896",
-                    "id_str":"1073804870409424896",
-                    "indices":[
-                        "217",
-                        "240"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Dubr1yLWkAAKigB.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Dubr1yLWkAAKigB.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1600",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"960",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"544",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/RVbsc9he5r"
-                }
+            "media_url": "http://pbs.twimg.com/media/Dubr1yLWkAAKigB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dubr1yLWkAAKigB.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/RVbsc9he5r"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/IntoTheEther",
+            "expanded_url": "http://bit.ly/IntoTheEther",
+            "indices": [
+              "179",
+              "202"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/IntoTheEther",
-                    "expanded_url":"http://bit.ly/IntoTheEther",
-                    "indices":[
-                        "179",
-                        "202"
-                    ],
-                    "url":"https://t.co/EU1Sbhk5o9"
-                }
+            "url": "https://t.co/EU1Sbhk5o9"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/RVbsc9he5r",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1073804872863137792/photo/1",
+            "id": "1073804870409424896",
+            "id_str": "1073804870409424896",
+            "indices": [
+              "217",
+              "240"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/RVbsc9he5r",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1073804872863137792/photo/1",
-                    "id":"1073804870409424896",
-                    "id_str":"1073804870409424896",
-                    "indices":[
-                        "217",
-                        "240"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/Dubr1yLWkAAKigB.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/Dubr1yLWkAAKigB.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1600",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"960",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"544",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/RVbsc9he5r"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"Our exhibition on the history of ballooning, \"Into the Ether: Published Works on #Ballooning and Atmospheric Studies, 1783\u20131910\" is on display in the Aviation Museum and Library. https://t.co/EU1Sbhk5o9 #IntoTheEther https://t.co/RVbsc9he5r",
-        "id":"1073804872863137792",
-        "id_str":"1073804872863137792",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/Dubr1yLWkAAKigB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dubr1yLWkAAKigB.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/RVbsc9he5r"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Our exhibition on the history of ballooning, \"Into the Ether: Published Works on #Ballooning and Atmospheric Studies, 1783–1910\" is on display in the Aviation Museum and Library. https://t.co/EU1Sbhk5o9 #IntoTheEther https://t.co/RVbsc9he5r",
+      "id": "1073804872863137792",
+      "id_str": "1073804872863137792",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026183,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729304999,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026183,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729304999,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729304999,
-    "wof:lastmodified":1602634261,
-    "wof:name":"Our exhibition on the history of ballooning, \"Into the Ether: Published Works on #Ballooning and Atmospheric Studies, 1783\u20131910\" is on display in the Aviation Museum and Library. https://t.co/EU1Sbhk5o9 #IntoTheEther https://t.co/RVbsc9he5r",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729304999,
+    "wof:lastmodified": 1650064642,
+    "wof:name": "Our exhibition on the history of ballooning, \"Into the Ether: Published Works on #Ballooning and Atmospheric Studies, 1783–1910\" is on display in the Aviation Museum and Library. https://t.co/EU1Sbhk5o9 #IntoTheEther https://t.co/RVbsc9he5r",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

@@ -2,192 +2,192 @@
   "id": 1729298597,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-11-16",
-    "date:cessation_upper":"2016-11-16",
-    "date:inception_lower":"2016-11-16",
-    "date:inception_upper":"2016-11-16",
-    "edtf:cessation":"2016-11-16T13:25:51-08:00",
-    "edtf:inception":"2016-11-16T13:25:51-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1479331551,
-        "created_at":"Wed Nov 16 21:25:51 +0000 2016",
-        "display_text_range":[
-            "0",
-            "132"
+    "date:cessation_lower": "2016-11-16",
+    "date:cessation_upper": "2016-11-16",
+    "date:inception_lower": "2016-11-16",
+    "date:inception_upper": "2016-11-16",
+    "edtf:cessation": "2016-11-16T13:25:51-08:00",
+    "edtf:inception": "2016-11-16T13:25:51-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1479331551,
+      "created_at": "Wed Nov 16 21:25:51 +0000 2016",
+      "display_text_range": [
+        "0",
+        "132"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "97",
+              "108"
+            ],
+            "text": "sketchbook"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "97",
-                        "108"
-                    ],
-                    "text":"sketchbook"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GfinkztHzQ",
+            "expanded_url": "https://twitter.com/therja/status/798982744642465796/photo/1",
+            "id": "798982737705078785",
+            "id_str": "798982737705078785",
+            "indices": [
+              "109",
+              "132"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/GfinkztHzQ",
-                    "expanded_url":"https://twitter.com/therja/status/798982744642465796/photo/1",
-                    "id":"798982737705078785",
-                    "id_str":"798982737705078785",
-                    "indices":[
-                        "109",
-                        "132"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CxaOkRaUkAENoa-.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CxaOkRaUkAENoa-.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2048",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"798982744642465796",
-                    "source_status_id_str":"798982744642465796",
-                    "source_user_id":"21004368",
-                    "source_user_id_str":"21004368",
-                    "type":"photo",
-                    "url":"https://t.co/GfinkztHzQ"
-                }
+            "media_url": "http://pbs.twimg.com/media/CxaOkRaUkAENoa-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxaOkRaUkAENoa-.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "798982744642465796",
+            "source_status_id_str": "798982744642465796",
+            "source_user_id": "21004368",
+            "source_user_id_str": "21004368",
+            "type": "photo",
+            "url": "https://t.co/GfinkztHzQ"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "1034978321858056192",
+            "id_str": "1034978321858056192",
+            "indices": [
+              "3",
+              "10"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"1034978321858056192",
-                    "id_str":"1034978321858056192",
-                    "indices":[
-                        "3",
-                        "10"
-                    ],
-                    "name":"TherjaA",
-                    "screen_name":"therja"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/GfinkztHzQ",
-                    "expanded_url":"https://twitter.com/therja/status/798982744642465796/photo/1",
-                    "id":"798982737705078785",
-                    "id_str":"798982737705078785",
-                    "indices":[
-                        "109",
-                        "132"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CxaOkRaUkAENoa-.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CxaOkRaUkAENoa-.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2048",
-                            "resize":"fit",
-                            "w":"2048"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"798982744642465796",
-                    "source_status_id_str":"798982744642465796",
-                    "source_user_id":"21004368",
-                    "source_user_id_str":"21004368",
-                    "type":"photo",
-                    "url":"https://t.co/GfinkztHzQ"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @therja: After missing my flight, I spent the morning sketching at SFO's Ouija board exhibit. #sketchbook https://t.co/GfinkztHzQ",
-        "id":"799000554026520579",
-        "id_str":"799000554026520579",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "name": "TherjaA",
+            "screen_name": "therja"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GfinkztHzQ",
+            "expanded_url": "https://twitter.com/therja/status/798982744642465796/photo/1",
+            "id": "798982737705078785",
+            "id_str": "798982737705078785",
+            "indices": [
+              "109",
+              "132"
+            ],
+            "media_url": "http://pbs.twimg.com/media/CxaOkRaUkAENoa-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxaOkRaUkAENoa-.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "798982744642465796",
+            "source_status_id_str": "798982744642465796",
+            "source_user_id": "21004368",
+            "source_user_id_str": "21004368",
+            "type": "photo",
+            "url": "https://t.co/GfinkztHzQ"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @therja: After missing my flight, I spent the morning sketching at SFO's Ouija board exhibit. #sketchbook https://t.co/GfinkztHzQ",
+      "id": "799000554026520579",
+      "id_str": "799000554026520579",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025941,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729298597,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025941,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729298597,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729298597,
-    "wof:lastmodified":1602634516,
-    "wof:name":"RT @therja: After missing my flight, I spent the morning sketching at SFO's Ouija board exhibit. #sketchbook https://t.co/GfinkztHzQ",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729298597,
+    "wof:lastmodified": 1650064638,
+    "wof:name": "RT @therja: After missing my flight, I spent the morning sketching at SFO's Ouija board exhibit. #sketchbook https://t.co/GfinkztHzQ",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

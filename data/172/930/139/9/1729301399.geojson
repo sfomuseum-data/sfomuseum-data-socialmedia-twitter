@@ -2,209 +2,209 @@
   "id": 1729301399,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-10-12",
-    "date:cessation_upper":"2017-10-12",
-    "date:inception_lower":"2017-10-12",
-    "date:inception_upper":"2017-10-12",
-    "edtf:cessation":"2017-10-12T19:45:05-07:00",
-    "edtf:inception":"2017-10-12T19:45:05-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1507862705,
-        "created_at":"Fri Oct 13 02:45:05 +0000 2017",
-        "display_text_range":[
-            "0",
-            "162"
+    "date:cessation_lower": "2017-10-13",
+    "date:cessation_upper": "2017-10-13",
+    "date:inception_lower": "2017-10-13",
+    "date:inception_upper": "2017-10-13",
+    "edtf:cessation": "2017-10-12T19:45:05-07:00",
+    "edtf:inception": "2017-10-12T19:45:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1507862705,
+      "created_at": "Fri Oct 13 02:45:05 +0000 2017",
+      "display_text_range": [
+        "0",
+        "162"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "124",
+              "138"
+            ],
+            "text": "TheTypewriter"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "124",
-                        "138"
-                    ],
-                    "text":"TheTypewriter"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/g5xdZjys4i",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/918668886245027840/photo/1",
+            "id": "918668880767340544",
+            "id_str": "918668880767340544",
+            "indices": [
+              "139",
+              "162"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/g5xdZjys4i",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/918668886245027840/photo/1",
-                    "id":"918668880767340544",
-                    "id_str":"918668880767340544",
-                    "indices":[
-                        "139",
-                        "162"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DL_EetBX0AAqGiO.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DL_EetBX0AAqGiO.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/g5xdZjys4i"
-                }
+            "media_url": "http://pbs.twimg.com/media/DL_EetBX0AAqGiO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DL_EetBX0AAqGiO.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/g5xdZjys4i"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/g5xdZjys4i",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/918668886245027840/photo/1",
+            "id": "918668880767340544",
+            "id_str": "918668880767340544",
+            "indices": [
+              "139",
+              "162"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/g5xdZjys4i",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/918668886245027840/photo/1",
-                    "id":"918668880767340544",
-                    "id_str":"918668880767340544",
-                    "indices":[
-                        "139",
-                        "162"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DL_EetBX0AAqGiO.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DL_EetBX0AAqGiO.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/g5xdZjys4i"
-                },
-                {
-                    "display_url":"pic.twitter.com/g5xdZjys4i",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/918668886245027840/photo/1",
-                    "id":"918668882369531904",
-                    "id_str":"918668882369531904",
-                    "indices":[
-                        "139",
-                        "162"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DL_Eey_XUAA2UED.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DL_Eey_XUAA2UED.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/g5xdZjys4i"
-                }
-            ]
-        },
-        "favorite_count":"21",
-        "favorited":false,
-        "full_text":"Housed in a distinctively curved, die-cast body, the IBM Selectric was electrically operated. Did you ever own a Selectric? #TheTypewriter https://t.co/g5xdZjys4i",
-        "id":"918668886245027840",
-        "id_str":"918668886245027840",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"5",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/DL_EetBX0AAqGiO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DL_EetBX0AAqGiO.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/g5xdZjys4i"
+          },
+          {
+            "display_url": "pic.twitter.com/g5xdZjys4i",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/918668886245027840/photo/1",
+            "id": "918668882369531904",
+            "id_str": "918668882369531904",
+            "indices": [
+              "139",
+              "162"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DL_Eey_XUAA2UED.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DL_Eey_XUAA2UED.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/g5xdZjys4i"
+          }
+        ]
+      },
+      "favorite_count": "21",
+      "favorited": false,
+      "full_text": "Housed in a distinctively curved, die-cast body, the IBM Selectric was electrically operated. Did you ever own a Selectric? #TheTypewriter https://t.co/g5xdZjys4i",
+      "id": "918668886245027840",
+      "id_str": "918668886245027840",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "5",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026045,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729301399,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026045,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729301399,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729301399,
-    "wof:lastmodified":1602634339,
-    "wof:name":"Housed in a distinctively curved, die-cast body, the IBM Selectric was electrically operated. Did you ever own a Selectric? #TheTypewriter https://t.co/g5xdZjys4i",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729301399,
+    "wof:lastmodified": 1650064640,
+    "wof:name": "Housed in a distinctively curved, die-cast body, the IBM Selectric was electrically operated. Did you ever own a Selectric? #TheTypewriter https://t.co/g5xdZjys4i",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

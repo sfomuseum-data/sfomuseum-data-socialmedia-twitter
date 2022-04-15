@@ -1,0 +1,248 @@
+{
+  "id": 1763511657,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-02-02",
+    "date:cessation_upper": "2021-02-02",
+    "date:inception_lower": "2021-02-02",
+    "date:inception_upper": "2021-02-02",
+    "edtf:cessation": "2021-02-01T16:16:00-08:00",
+    "edtf:inception": "2021-02-01T16:16:00-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1612224960,
+      "created_at": "Tue Feb 02 00:16:00 +0000 2021",
+      "display_text_range": [
+        "0",
+        "200"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0",
+              "10"
+            ],
+            "text": "OnThisDay"
+          },
+          {
+            "indices": [
+              "165",
+              "176"
+            ],
+            "text": "SFOHistory"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zD53RHJE8g",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1356395910071250956/photo/1",
+            "id": "1356361833800560640",
+            "id_str": "1356361833800560640",
+            "indices": [
+              "177",
+              "200"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EtLD5sqUcAAtqx_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EtLD5sqUcAAtqx_.jpg",
+            "sizes": {
+              "large": {
+                "h": "1411",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "827",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "469",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zD53RHJE8g"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zD53RHJE8g",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1356395910071250956/photo/1",
+            "id": "1356361833800560640",
+            "id_str": "1356361833800560640",
+            "indices": [
+              "177",
+              "200"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EtLD5sqUcAAtqx_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EtLD5sqUcAAtqx_.jpg",
+            "sizes": {
+              "large": {
+                "h": "1411",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "827",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "469",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zD53RHJE8g"
+          },
+          {
+            "display_url": "pic.twitter.com/zD53RHJE8g",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1356395910071250956/photo/1",
+            "id": "1356361868718182401",
+            "id_str": "1356361868718182401",
+            "indices": [
+              "177",
+              "200"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EtLD7uvVEAEjw1u.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EtLD7uvVEAEjw1u.jpg",
+            "sizes": {
+              "large": {
+                "h": "1469",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "861",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "488",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zD53RHJE8g"
+          },
+          {
+            "display_url": "pic.twitter.com/zD53RHJE8g",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1356395910071250956/photo/1",
+            "id": "1356361897583419392",
+            "id_str": "1356361897583419392",
+            "indices": [
+              "177",
+              "200"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EtLD9aRVoAAsOWZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EtLD9aRVoAAsOWZ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1304",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "764",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "433",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zD53RHJE8g"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "#OnThisDay in 1928: Hangar No. 2 was under construction at Mills Field. It was followed soon after with Hangars 3 and 4. Renting an overnight spot within cost $1.50 #SFOHistory https://t.co/zD53RHJE8g",
+      "id": "1356395910071250956",
+      "id_str": "1356395910071250956",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064661,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763511657,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763511657,
+    "wof:lastmodified": 1650064661,
+    "wof:name": "#OnThisDay in 1928: Hangar No. 2 was under construction at Mills Field. It was followed soon after with Hangars 3 and 4. Renting an overnight spot within cost $1.50 #SFOHistory https://t.co/zD53RHJE8g",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

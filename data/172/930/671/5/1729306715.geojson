@@ -2,173 +2,173 @@
   "id": 1729306715,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-08-11",
-    "date:cessation_upper":"2019-08-11",
-    "date:inception_lower":"2019-08-11",
-    "date:inception_upper":"2019-08-11",
-    "edtf:cessation":"2019-08-11T12:00:53-07:00",
-    "edtf:inception":"2019-08-11T12:00:53-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1565550053,
-        "created_at":"Sun Aug 11 19:00:53 +0000 2019",
-        "display_text_range":[
-            "0",
-            "304"
+    "date:cessation_lower": "2019-08-11",
+    "date:cessation_upper": "2019-08-11",
+    "date:inception_lower": "2019-08-11",
+    "date:inception_upper": "2019-08-11",
+    "edtf:cessation": "2019-08-11T12:00:53-07:00",
+    "edtf:inception": "2019-08-11T12:00:53-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1565550053,
+      "created_at": "Sun Aug 11 19:00:53 +0000 2019",
+      "display_text_range": [
+        "0",
+        "304"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0",
+              "15"
+            ],
+            "text": "AlejandroDurán"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "0",
-                        "15"
-                    ],
-                    "text":"AlejandroDur\u00e1n"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XBrOAT42sQ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1160627164053741569/photo/1",
+            "id": "1160627161897820161",
+            "id_str": "1160627161897820161",
+            "indices": [
+              "281",
+              "304"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XBrOAT42sQ",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1160627164053741569/photo/1",
-                    "id":"1160627161897820161",
-                    "id_str":"1160627161897820161",
-                    "indices":[
-                        "281",
-                        "304"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EBtgQSWW4AEtpFk.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EBtgQSWW4AEtpFk.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1539"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"923"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"523"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XBrOAT42sQ"
-                }
+            "media_url": "http://pbs.twimg.com/media/EBtgQSWW4AEtpFk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EBtgQSWW4AEtpFk.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1539"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "923"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "523"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XBrOAT42sQ"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XBrOAT42sQ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1160627164053741569/photo/1",
+            "id": "1160627161897820161",
+            "id_str": "1160627161897820161",
+            "indices": [
+              "281",
+              "304"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/XBrOAT42sQ",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1160627164053741569/photo/1",
-                    "id":"1160627161897820161",
-                    "id_str":"1160627161897820161",
-                    "indices":[
-                        "281",
-                        "304"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EBtgQSWW4AEtpFk.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EBtgQSWW4AEtpFk.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2000",
-                            "resize":"fit",
-                            "w":"1539"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"923"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"523"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/XBrOAT42sQ"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"#AlejandroDur\u00e1n photographs the waste he collects and makes assemblages on site. \u201cAt times he distributes the objects the way the waves would; at other times, the plastic mimics algae, roots, rivers, or fruit, reflecting the infiltration of plastics into the natural environment.\u201d https://t.co/XBrOAT42sQ",
-        "id":"1160627164053741569",
-        "id_str":"1160627164053741569",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"1",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/EBtgQSWW4AEtpFk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EBtgQSWW4AEtpFk.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1539"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "923"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "523"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XBrOAT42sQ"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "#AlejandroDurán photographs the waste he collects and makes assemblages on site. “At times he distributes the objects the way the waves would; at other times, the plastic mimics algae, roots, rivers, or fruit, reflecting the infiltration of plastics into the natural environment.” https://t.co/XBrOAT42sQ",
+      "id": "1160627164053741569",
+      "id_str": "1160627164053741569",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026250,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729306715,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026250,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729306715,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729306715,
-    "wof:lastmodified":1602634356,
-    "wof:name":"#AlejandroDur\u00e1n photographs the waste he collects and makes assemblages on site. \u201cAt times he distributes the objects the way the waves would; at other times, the plastic mimics algae, roots, rivers, or fruit, reflecting the infiltration of plastics into the natural environment.\u201d https://t.co/XBrOAT42sQ",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729306715,
+    "wof:lastmodified": 1650064643,
+    "wof:name": "#AlejandroDurán photographs the waste he collects and makes assemblages on site. “At times he distributes the objects the way the waves would; at other times, the plastic mimics algae, roots, rivers, or fruit, reflecting the infiltration of plastics into the natural environment.” https://t.co/XBrOAT42sQ",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

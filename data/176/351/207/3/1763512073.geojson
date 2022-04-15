@@ -1,0 +1,205 @@
+{
+  "id": 1763512073,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-04-23",
+    "date:cessation_upper": "2021-04-23",
+    "date:inception_lower": "2021-04-23",
+    "date:inception_upper": "2021-04-23",
+    "edtf:cessation": "2021-04-23T15:45:34-07:00",
+    "edtf:inception": "2021-04-23T15:45:34-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1619217934,
+      "created_at": "Fri Apr 23 22:45:34 +0000 2021",
+      "display_text_range": [
+        "0",
+        "282"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "248",
+              "258"
+            ],
+            "text": "HairStyle"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SYufLPeikW",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1385726568916414465/photo/1",
+            "id": "1385725224746881028",
+            "id_str": "1385725224746881028",
+            "indices": [
+              "259",
+              "282"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EzsVwAFWEAQd7oy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EzsVwAFWEAQd7oy.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/SYufLPeikW"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SYufLPeikW",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1385726568916414465/photo/1",
+            "id": "1385725224746881028",
+            "id_str": "1385725224746881028",
+            "indices": [
+              "259",
+              "282"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EzsVwAFWEAQd7oy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EzsVwAFWEAQd7oy.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/SYufLPeikW"
+          },
+          {
+            "display_url": "pic.twitter.com/SYufLPeikW",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1385726568916414465/photo/1",
+            "id": "1385726133744934912",
+            "id_str": "1385726133744934912",
+            "indices": [
+              "259",
+              "282"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EzsWk6XXoAAWT9f.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EzsWk6XXoAAWT9f.jpg",
+            "sizes": {
+              "large": {
+                "h": "1365",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/SYufLPeikW"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "Women have worn hairnets for centuries for reasons including aesthetics, protecting hairstyles, and sanitary purposes. Hairnets have been made from a variety of materials ranging from real human hair and silk to nylon in various hair color shades. #HairStyle https://t.co/SYufLPeikW",
+      "id": "1385726568916414465",
+      "id_str": "1385726568916414465",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064680,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763512073,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763512073,
+    "wof:lastmodified": 1650064680,
+    "wof:name": "Women have worn hairnets for centuries for reasons including aesthetics, protecting hairstyles, and sanitary purposes. Hairnets have been made from a variety of materials ranging from real human hair and silk to nylon in various hair color shades. #HairStyle https://t.co/SYufLPeikW",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,289 @@
+{
+  "id": 1763512437,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-06-11",
+    "date:cessation_upper": "2021-06-11",
+    "date:inception_lower": "2021-06-11",
+    "date:inception_upper": "2021-06-11",
+    "edtf:cessation": "2021-06-11T16:53:19-07:00",
+    "edtf:inception": "2021-06-11T16:53:19-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1623455599,
+      "created_at": "Fri Jun 11 23:53:19 +0000 2021",
+      "display_text_range": [
+        "0",
+        "227"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "179",
+              "189"
+            ],
+            "text": "PublicArt"
+          },
+          {
+            "indices": [
+              "190",
+              "203"
+            ],
+            "text": "SanFrancisco"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/NhghYF4nRA",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1403500626395373568/photo/1",
+            "id": "1403500011527163907",
+            "id_str": "1403500011527163907",
+            "indices": [
+              "204",
+              "227"
+            ],
+            "media_url": "http://pbs.twimg.com/media/E3o70w1VUAMhsnX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E3o70w1VUAMhsnX.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/NhghYF4nRA"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/NhghYF4nRA",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1403500626395373568/photo/1",
+            "id": "1403500011527163907",
+            "id_str": "1403500011527163907",
+            "indices": [
+              "204",
+              "227"
+            ],
+            "media_url": "http://pbs.twimg.com/media/E3o70w1VUAMhsnX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E3o70w1VUAMhsnX.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/NhghYF4nRA"
+          },
+          {
+            "display_url": "pic.twitter.com/NhghYF4nRA",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1403500626395373568/photo/1",
+            "id": "1403500059828768769",
+            "id_str": "1403500059828768769",
+            "indices": [
+              "204",
+              "227"
+            ],
+            "media_url": "http://pbs.twimg.com/media/E3o73kxVUAELnpK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E3o73kxVUAELnpK.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/NhghYF4nRA"
+          },
+          {
+            "display_url": "pic.twitter.com/NhghYF4nRA",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1403500626395373568/photo/1",
+            "id": "1403500106939179008",
+            "id_str": "1403500106939179008",
+            "indices": [
+              "204",
+              "227"
+            ],
+            "media_url": "http://pbs.twimg.com/media/E3o76URVIAAKmZE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E3o76URVIAAKmZE.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/NhghYF4nRA"
+          },
+          {
+            "display_url": "pic.twitter.com/NhghYF4nRA",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1403500626395373568/photo/1",
+            "id": "1403500170986156032",
+            "id_str": "1403500170986156032",
+            "indices": [
+              "204",
+              "227"
+            ],
+            "media_url": "http://pbs.twimg.com/media/E3o7-C3UcAAPLYl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E3o7-C3UcAAPLYl.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/NhghYF4nRA"
+          }
+        ]
+      },
+      "favorite_count": "6",
+      "favorited": false,
+      "full_text": "People bustle on streets of Fromm's mosaic amidst the unmistakable architecture, signs, and landscapes of the region, creating picturesque memories of each featured neighborhood. #PublicArt #SanFrancisco https://t.co/NhghYF4nRA",
+      "id": "1403500626395373568",
+      "id_str": "1403500626395373568",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1403500611128098816",
+      "in_reply_to_status_id_str": "1403500611128098816",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064696,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763512437,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763512437,
+    "wof:lastmodified": 1650064696,
+    "wof:name": "People bustle on streets of Fromm's mosaic amidst the unmistakable architecture, signs, and landscapes of the region, creating picturesque memories of each featured neighborhood. #PublicArt #SanFrancisco https://t.co/NhghYF4nRA",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

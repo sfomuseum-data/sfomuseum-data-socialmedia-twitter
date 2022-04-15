@@ -1,0 +1,183 @@
+{
+  "id": 1763511379,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-11-06",
+    "date:cessation_upper": "2020-11-06",
+    "date:inception_lower": "2020-11-06",
+    "date:inception_upper": "2020-11-06",
+    "edtf:cessation": "2020-11-05T16:04:05-08:00",
+    "edtf:inception": "2020-11-05T16:04:05-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1604621045,
+      "created_at": "Fri Nov 06 00:04:05 +0000 2020",
+      "display_text_range": [
+        "0",
+        "291"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "13",
+              "22"
+            ],
+            "text": "SFOMat40"
+          },
+          {
+            "indices": [
+              "243",
+              "258"
+            ],
+            "text": "MuseumFromHome"
+          },
+          {
+            "indices": [
+              "259",
+              "267"
+            ],
+            "text": "TBTSFOM"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2NxrUWCbjF",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1324502780464148481/photo/1",
+            "id": "1324502703809024001",
+            "id_str": "1324502703809024001",
+            "indices": [
+              "268",
+              "291"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmGUMQyU0AEsSlI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmGUMQyU0AEsSlI.jpg",
+            "sizes": {
+              "large": {
+                "h": "1371",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "803",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "455",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2NxrUWCbjF"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2NxrUWCbjF",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1324502780464148481/photo/1",
+            "id": "1324502703809024001",
+            "id_str": "1324502703809024001",
+            "indices": [
+              "268",
+              "291"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmGUMQyU0AEsSlI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmGUMQyU0AEsSlI.jpg",
+            "sizes": {
+              "large": {
+                "h": "1371",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "803",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "455",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2NxrUWCbjF"
+          }
+        ]
+      },
+      "favorite_count": "6",
+      "favorited": false,
+      "full_text": "This week on #SFOMat40: In 2008, we presented “Young Eyes on the Skies: The Golden Age of Aviation Toys” which featured aviation toys from the 1920s, 1930s, and 1940s, made of cast iron, pressed steel and tin. Do you remember this exhibition? #MuseumFromHome #TBTSFOM https://t.co/2NxrUWCbjF",
+      "id": "1324502780464148481",
+      "id_str": "1324502780464148481",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650064649,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763511379,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763511379,
+    "wof:lastmodified": 1650064649,
+    "wof:name": "This week on #SFOMat40: In 2008, we presented “Young Eyes on the Skies: The Golden Age of Aviation Toys” which featured aviation toys from the 1920s, 1930s, and 1940s, made of cast iron, pressed steel and tin. Do you remember this exhibition? #MuseumFromHome #TBTSFOM https://t.co/2NxrUWCbjF",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

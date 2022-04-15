@@ -2,180 +2,180 @@
   "id": 1729307321,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-10-21",
-    "date:cessation_upper":"2019-10-21",
-    "date:inception_lower":"2019-10-21",
-    "date:inception_upper":"2019-10-21",
-    "edtf:cessation":"2019-10-21T14:50:04-07:00",
-    "edtf:inception":"2019-10-21T14:50:04-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1571694604,
-        "created_at":"Mon Oct 21 21:50:04 +0000 2019",
-        "display_text_range":[
-            "0",
-            "266"
+    "date:cessation_lower": "2019-10-21",
+    "date:cessation_upper": "2019-10-21",
+    "date:inception_lower": "2019-10-21",
+    "date:inception_upper": "2019-10-21",
+    "edtf:cessation": "2019-10-21T14:50:04-07:00",
+    "edtf:inception": "2019-10-21T14:50:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1571694604,
+      "created_at": "Mon Oct 21 21:50:04 +0000 2019",
+      "display_text_range": [
+        "0",
+        "266"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0",
+              "10"
+            ],
+            "text": "Onthisday"
+          },
+          {
+            "indices": [
+              "235",
+              "242"
+            ],
+            "text": "avgeek"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "0",
-                        "10"
-                    ],
-                    "text":"Onthisday"
-                },
-                {
-                    "indices":[
-                        "235",
-                        "242"
-                    ],
-                    "text":"avgeek"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ZPui85lAmp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1186399277272178690/photo/1",
+            "id": "1186399272792743941",
+            "id_str": "1186399272792743941",
+            "indices": [
+              "243",
+              "266"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/ZPui85lAmp",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1186399277272178690/photo/1",
-                    "id":"1186399272792743941",
-                    "id_str":"1186399272792743941",
-                    "indices":[
-                        "243",
-                        "266"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EHbv2lCX4AUEGxG.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EHbv2lCX4AUEGxG.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1246",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"748",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"424",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/ZPui85lAmp"
-                }
+            "media_url": "http://pbs.twimg.com/media/EHbv2lCX4AUEGxG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EHbv2lCX4AUEGxG.jpg",
+            "sizes": {
+              "large": {
+                "h": "1246",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "748",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "424",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZPui85lAmp"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ZPui85lAmp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1186399277272178690/photo/1",
+            "id": "1186399272792743941",
+            "id_str": "1186399272792743941",
+            "indices": [
+              "243",
+              "266"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/ZPui85lAmp",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1186399277272178690/photo/1",
-                    "id":"1186399272792743941",
-                    "id_str":"1186399272792743941",
-                    "indices":[
-                        "243",
-                        "266"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EHbv2lCX4AUEGxG.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EHbv2lCX4AUEGxG.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1246",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"748",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"424",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/ZPui85lAmp"
-                }
-            ]
-        },
-        "favorite_count":"24",
-        "favorited":false,
-        "full_text":"#Onthisday in 1950, the Martin 4-0-4 took off on its maiden flight. Eastern Air Lines ordered sixty of the 4-0-4 and introduced the aircraft in 1951, with scheduled service commencing in early 1952. Did you ever fly on a Martin 4-0-4? #avgeek https://t.co/ZPui85lAmp",
-        "id":"1186399277272178690",
-        "id_str":"1186399277272178690",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"3",
-        "retweeted":false,
-        "source":"<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/EHbv2lCX4AUEGxG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EHbv2lCX4AUEGxG.jpg",
+            "sizes": {
+              "large": {
+                "h": "1246",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "748",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "424",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZPui85lAmp"
+          }
+        ]
+      },
+      "favorite_count": "23",
+      "favorited": false,
+      "full_text": "#Onthisday in 1950, the Martin 4-0-4 took off on its maiden flight. Eastern Air Lines ordered sixty of the 4-0-4 and introduced the aircraft in 1951, with scheduled service commencing in early 1952. Did you ever fly on a Martin 4-0-4? #avgeek https://t.co/ZPui85lAmp",
+      "id": "1186399277272178690",
+      "id_str": "1186399277272178690",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026273,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729307321,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026273,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729307321,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729307321,
-    "wof:lastmodified":1602634330,
-    "wof:name":"#Onthisday in 1950, the Martin 4-0-4 took off on its maiden flight. Eastern Air Lines ordered sixty of the 4-0-4 and introduced the aircraft in 1951, with scheduled service commencing in early 1952. Did you ever fly on a Martin 4-0-4? #avgeek https://t.co/ZPui85lAmp",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729307321,
+    "wof:lastmodified": 1650064643,
+    "wof:name": "#Onthisday in 1950, the Martin 4-0-4 took off on its maiden flight. Eastern Air Lines ordered sixty of the 4-0-4 and introduced the aircraft in 1951, with scheduled service commencing in early 1952. Did you ever fly on a Martin 4-0-4? #avgeek https://t.co/ZPui85lAmp",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

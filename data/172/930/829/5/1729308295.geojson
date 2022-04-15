@@ -2,255 +2,255 @@
   "id": 1729308295,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-04-15",
-    "date:cessation_upper":"2020-04-15",
-    "date:inception_lower":"2020-04-15",
-    "date:inception_upper":"2020-04-15",
-    "edtf:cessation":"2020-04-15T13:55:45-07:00",
-    "edtf:inception":"2020-04-15T13:55:45-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1586984145,
-        "created_at":"Wed Apr 15 20:55:45 +0000 2020",
-        "display_text_range":[
-            "0",
-            "303"
+    "date:cessation_lower": "2020-04-15",
+    "date:cessation_upper": "2020-04-15",
+    "date:inception_lower": "2020-04-15",
+    "date:inception_upper": "2020-04-15",
+    "edtf:cessation": "2020-04-15T13:55:45-07:00",
+    "edtf:inception": "2020-04-15T13:55:45-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1586984145,
+      "created_at": "Wed Apr 15 20:55:45 +0000 2020",
+      "display_text_range": [
+        "0",
+        "303"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "50",
+              "60"
+            ],
+            "text": "onthisday"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "50",
-                        "60"
-                    ],
-                    "text":"onthisday"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ntZ02kDZ9R",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1250528261815205888/photo/1",
+            "id": "1250527727918084097",
+            "id_str": "1250527727918084097",
+            "indices": [
+              "280",
+              "303"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/ntZ02kDZ9R",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1250528261815205888/photo/1",
-                    "id":"1250527727918084097",
-                    "id_str":"1250527727918084097",
-                    "indices":[
-                        "280",
-                        "303"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EVrEV8xVcAEPenz.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EVrEV8xVcAEPenz.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/ntZ02kDZ9R"
-                }
+            "media_url": "http://pbs.twimg.com/media/EVrEV8xVcAEPenz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EVrEV8xVcAEPenz.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ntZ02kDZ9R"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/3aQYbyN",
+            "expanded_url": "https://bit.ly/3aQYbyN",
+            "indices": [
+              "256",
+              "279"
             ],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"bit.ly/3aQYbyN",
-                    "expanded_url":"https://bit.ly/3aQYbyN",
-                    "indices":[
-                        "256",
-                        "279"
-                    ],
-                    "url":"https://t.co/dx9IyBEHeW"
-                }
+            "url": "https://t.co/dx9IyBEHeW"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ntZ02kDZ9R",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1250528261815205888/photo/1",
+            "id": "1250527727918084097",
+            "id_str": "1250527727918084097",
+            "indices": [
+              "280",
+              "303"
             ],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/ntZ02kDZ9R",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1250528261815205888/photo/1",
-                    "id":"1250527727918084097",
-                    "id_str":"1250527727918084097",
-                    "indices":[
-                        "280",
-                        "303"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EVrEV8xVcAEPenz.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EVrEV8xVcAEPenz.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/ntZ02kDZ9R"
-                },
-                {
-                    "display_url":"pic.twitter.com/ntZ02kDZ9R",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1250528261815205888/photo/1",
-                    "id":"1250527772247617537",
-                    "id_str":"1250527772247617537",
-                    "indices":[
-                        "280",
-                        "303"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EVrEYh6UcAEhwnh.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EVrEYh6UcAEhwnh.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/ntZ02kDZ9R"
-                },
-                {
-                    "display_url":"pic.twitter.com/ntZ02kDZ9R",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1250528261815205888/photo/1",
-                    "id":"1250527800680824833",
-                    "id_str":"1250527800680824833",
-                    "indices":[
-                        "280",
-                        "303"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/EVrEaL1UwAE_Vpg.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/EVrEaL1UwAE_Vpg.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"1333",
-                            "resize":"fit",
-                            "w":"2000"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"1200"
-                        },
-                        "small":{
-                            "h":"453",
-                            "resize":"fit",
-                            "w":"680"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/ntZ02kDZ9R"
-                }
-            ]
-        },
-        "favorite_count":"24",
-        "favorited":false,
-        "full_text":"Happy Birthday San Francisco! SF was incorporated #onthisday in 1850. In 2013, we presented \u201cSan Francisco: From the David Rumsey Map Collection\u201d which featured maps of our fair city from the latter half of the nineteenth century to the twentieth century. https://t.co/dx9IyBEHeW https://t.co/ntZ02kDZ9R",
-        "id":"1250528261815205888",
-        "id_str":"1250528261815205888",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"12",
-        "retweeted":false,
-        "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/EVrEV8xVcAEPenz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EVrEV8xVcAEPenz.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ntZ02kDZ9R"
+          },
+          {
+            "display_url": "pic.twitter.com/ntZ02kDZ9R",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1250528261815205888/photo/1",
+            "id": "1250527772247617537",
+            "id_str": "1250527772247617537",
+            "indices": [
+              "280",
+              "303"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EVrEYh6UcAEhwnh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EVrEYh6UcAEhwnh.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ntZ02kDZ9R"
+          },
+          {
+            "display_url": "pic.twitter.com/ntZ02kDZ9R",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1250528261815205888/photo/1",
+            "id": "1250527800680824833",
+            "id_str": "1250527800680824833",
+            "indices": [
+              "280",
+              "303"
+            ],
+            "media_url": "http://pbs.twimg.com/media/EVrEaL1UwAE_Vpg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EVrEaL1UwAE_Vpg.jpg",
+            "sizes": {
+              "large": {
+                "h": "1333",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ntZ02kDZ9R"
+          }
+        ]
+      },
+      "favorite_count": "24",
+      "favorited": false,
+      "full_text": "Happy Birthday San Francisco! SF was incorporated #onthisday in 1850. In 2013, we presented “San Francisco: From the David Rumsey Map Collection” which featured maps of our fair city from the latter half of the nineteenth century to the twentieth century. https://t.co/dx9IyBEHeW https://t.co/ntZ02kDZ9R",
+      "id": "1250528261815205888",
+      "id_str": "1250528261815205888",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "12",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026310,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729308295,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026310,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729308295,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729308295,
-    "wof:lastmodified":1602634221,
-    "wof:name":"Happy Birthday San Francisco! SF was incorporated #onthisday in 1850. In 2013, we presented \u201cSan Francisco: From the David Rumsey Map Collection\u201d which featured maps of our fair city from the latter half of the nineteenth century to the twentieth century. https://t.co/dx9IyBEHeW https://t.co/ntZ02kDZ9R",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729308295,
+    "wof:lastmodified": 1650064644,
+    "wof:name": "Happy Birthday San Francisco! SF was incorporated #onthisday in 1850. In 2013, we presented “San Francisco: From the David Rumsey Map Collection” which featured maps of our fair city from the latter half of the nineteenth century to the twentieth century. https://t.co/dx9IyBEHeW https://t.co/ntZ02kDZ9R",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

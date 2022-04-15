@@ -2,209 +2,209 @@
   "id": 1729300363,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-06-12",
-    "date:cessation_upper":"2017-06-12",
-    "date:inception_lower":"2017-06-12",
-    "date:inception_upper":"2017-06-12",
-    "edtf:cessation":"2017-06-12T20:49:41-07:00",
-    "edtf:inception":"2017-06-12T20:49:41-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1497325781,
-        "created_at":"Tue Jun 13 03:49:41 +0000 2017",
-        "display_text_range":[
-            "0",
-            "125"
+    "date:cessation_lower": "2017-06-13",
+    "date:cessation_upper": "2017-06-13",
+    "date:inception_lower": "2017-06-13",
+    "date:inception_upper": "2017-06-13",
+    "edtf:cessation": "2017-06-12T20:49:41-07:00",
+    "edtf:inception": "2017-06-12T20:49:41-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1497325781,
+      "created_at": "Tue Jun 13 03:49:41 +0000 2017",
+      "display_text_range": [
+        "0",
+        "125"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "71",
+              "90"
+            ],
+            "text": "westcoastbestcoast"
+          },
+          {
+            "indices": [
+              "91",
+              "101"
+            ],
+            "text": "NBAfinals"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "71",
-                        "90"
-                    ],
-                    "text":"westcoastbestcoast"
-                },
-                {
-                    "indices":[
-                        "91",
-                        "101"
-                    ],
-                    "text":"NBAfinals"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7oScZkCZZb",
+            "expanded_url": "https://twitter.com/deyoungmuseum/status/874473720273805313/photo/1",
+            "id": "874473715777413120",
+            "id_str": "874473715777413120",
+            "indices": [
+              "102",
+              "125"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/7oScZkCZZb",
-                    "expanded_url":"https://twitter.com/deyoungmuseum/status/874473720273805313/photo/1",
-                    "id":"874473715777413120",
-                    "id_str":"874473715777413120",
-                    "indices":[
-                        "102",
-                        "125"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DCLBNhpUIAAJVG5.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DCLBNhpUIAAJVG5.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"532"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"532"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"452"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"874473720273805313",
-                    "source_status_id_str":"874473720273805313",
-                    "source_user_id":"18090088",
-                    "source_user_id_str":"18090088",
-                    "type":"photo",
-                    "url":"https://t.co/7oScZkCZZb"
-                }
+            "media_url": "http://pbs.twimg.com/media/DCLBNhpUIAAJVG5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DCLBNhpUIAAJVG5.jpg",
+            "sizes": {
+              "large": {
+                "h": "800",
+                "resize": "fit",
+                "w": "532"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "532"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "452"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "874473720273805313",
+            "source_status_id_str": "874473720273805313",
+            "source_user_id": "18090088",
+            "source_user_id_str": "18090088",
+            "type": "photo",
+            "url": "https://t.co/7oScZkCZZb"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "18090088",
+            "id_str": "18090088",
+            "indices": [
+              "3",
+              "17"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"18090088",
-                    "id_str":"18090088",
-                    "indices":[
-                        "3",
-                        "17"
-                    ],
-                    "name":"de Young Museum",
-                    "screen_name":"deyoungmuseum"
-                },
-                {
-                    "id":"26270913",
-                    "id_str":"26270913",
-                    "indices":[
-                        "35",
-                        "44"
-                    ],
-                    "name":"Golden State Warriors",
-                    "screen_name":"warriors"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/7oScZkCZZb",
-                    "expanded_url":"https://twitter.com/deyoungmuseum/status/874473720273805313/photo/1",
-                    "id":"874473715777413120",
-                    "id_str":"874473715777413120",
-                    "indices":[
-                        "102",
-                        "125"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DCLBNhpUIAAJVG5.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DCLBNhpUIAAJVG5.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"532"
-                        },
-                        "medium":{
-                            "h":"800",
-                            "resize":"fit",
-                            "w":"532"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"452"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "source_status_id":"874473720273805313",
-                    "source_status_id_str":"874473720273805313",
-                    "source_user_id":"18090088",
-                    "source_user_id_str":"18090088",
-                    "type":"photo",
-                    "url":"https://t.co/7oScZkCZZb"
-                }
-            ]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"RT @deyoungmuseum: Congratulations @warriors, we knew you could do it! #westcoastbestcoast #NBAfinals https://t.co/7oScZkCZZb",
-        "id":"874473826398085120",
-        "id_str":"874473826398085120",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "truncated":false
+            "name": "de Young Museum",
+            "screen_name": "deyoungmuseum"
+          },
+          {
+            "id": "26270913",
+            "id_str": "26270913",
+            "indices": [
+              "35",
+              "44"
+            ],
+            "name": "Golden State Warriors",
+            "screen_name": "warriors"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7oScZkCZZb",
+            "expanded_url": "https://twitter.com/deyoungmuseum/status/874473720273805313/photo/1",
+            "id": "874473715777413120",
+            "id_str": "874473715777413120",
+            "indices": [
+              "102",
+              "125"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DCLBNhpUIAAJVG5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DCLBNhpUIAAJVG5.jpg",
+            "sizes": {
+              "large": {
+                "h": "800",
+                "resize": "fit",
+                "w": "532"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "532"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "452"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "874473720273805313",
+            "source_status_id_str": "874473720273805313",
+            "source_user_id": "18090088",
+            "source_user_id_str": "18090088",
+            "type": "photo",
+            "url": "https://t.co/7oScZkCZZb"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @deyoungmuseum: Congratulations @warriors, we knew you could do it! #westcoastbestcoast #NBAfinals https://t.co/7oScZkCZZb",
+      "id": "874473826398085120",
+      "id_str": "874473826398085120",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026006,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729300363,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026006,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729300363,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729300363,
-    "wof:lastmodified":1602634263,
-    "wof:name":"RT @deyoungmuseum: Congratulations @warriors, we knew you could do it! #westcoastbestcoast #NBAfinals https://t.co/7oScZkCZZb",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729300363,
+    "wof:lastmodified": 1650064639,
+    "wof:name": "RT @deyoungmuseum: Congratulations @warriors, we knew you could do it! #westcoastbestcoast #NBAfinals https://t.co/7oScZkCZZb",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

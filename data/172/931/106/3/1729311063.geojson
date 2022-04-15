@@ -2,97 +2,97 @@
   "id": 1729311063,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-11-15",
-    "date:cessation_upper":"2012-11-15",
-    "date:inception_lower":"2012-11-15",
-    "date:inception_upper":"2012-11-15",
-    "edtf:cessation":"2012-11-15T11:05:24-08:00",
-    "edtf:inception":"2012-11-15T11:05:24-08:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1353006324,
-        "created_at":"Thu Nov 15 19:05:24 +0000 2012",
-        "display_text_range":[
-            "0",
-            "128"
-        ],
-        "entities":{
-            "hashtags":[],
-            "symbols":[],
-            "urls":[
-                {
-                    "display_url":"instagr.am/p/SD6gYjxk_w/",
-                    "expanded_url":"http://instagr.am/p/SD6gYjxk_w/",
-                    "indices":[
-                        "108",
-                        "128"
-                    ],
-                    "url":"http://t.co/azoJKKiw"
-                }
+    "date:cessation_lower": "2012-11-15",
+    "date:cessation_upper": "2012-11-15",
+    "date:inception_lower": "2012-11-15",
+    "date:inception_upper": "2012-11-15",
+    "edtf:cessation": "2012-11-15T11:05:24-08:00",
+    "edtf:inception": "2012-11-15T11:05:24-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1353006324,
+      "created_at": "Thu Nov 15 19:05:24 +0000 2012",
+      "display_text_range": [
+        "0",
+        "128"
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "instagr.am/p/SD6gYjxk_w/",
+            "expanded_url": "http://instagr.am/p/SD6gYjxk_w/",
+            "indices": [
+              "108",
+              "128"
             ],
-            "user_mentions":[]
-        },
-        "favorite_count":"0",
-        "favorited":false,
-        "full_text":"Hard work pays off in the rags-to-riches Game of the Telegraph Boy from 1888, w/the winner becoming company http://t.co/azoJKKiw",
-        "id":"269154150175109121",
-        "id_str":"269154150175109121",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"0",
-        "retweeted":false,
-        "source":"<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
-        "truncated":false
+            "url": "http://t.co/azoJKKiw"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Hard work pays off in the rags-to-riches Game of the Telegraph Boy from 1888, w/the winner becoming company http://t.co/azoJKKiw",
+      "id": "269154150175109121",
+      "id_str": "269154150175109121",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026417,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729311063,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026417,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729311063,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729311063,
-    "wof:lastmodified":1602634155,
-    "wof:name":"Hard work pays off in the rags-to-riches Game of the Telegraph Boy from 1888, w/the winner becoming company http://t.co/azoJKKiw",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729311063,
+    "wof:lastmodified": 1650064711,
+    "wof:name": "Hard work pays off in the rags-to-riches Game of the Telegraph Boy from 1888, w/the winner becoming company http://t.co/azoJKKiw",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

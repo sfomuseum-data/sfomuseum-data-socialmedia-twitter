@@ -2,194 +2,194 @@
   "id": 1729303505,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-06-21",
-    "date:cessation_upper":"2018-06-21",
-    "date:inception_lower":"2018-06-21",
-    "date:inception_upper":"2018-06-21",
-    "edtf:cessation":"2018-06-21T13:08:04-07:00",
-    "edtf:inception":"2018-06-21T13:08:04-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1529611684,
-        "created_at":"Thu Jun 21 20:08:04 +0000 2018",
-        "display_text_range":[
-            "0",
-            "164"
+    "date:cessation_lower": "2018-06-21",
+    "date:cessation_upper": "2018-06-21",
+    "date:inception_lower": "2018-06-21",
+    "date:inception_upper": "2018-06-21",
+    "edtf:cessation": "2018-06-21T13:08:04-07:00",
+    "edtf:inception": "2018-06-21T13:08:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1529611684,
+      "created_at": "Thu Jun 21 20:08:04 +0000 2018",
+      "display_text_range": [
+        "0",
+        "164"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "35",
+              "41"
+            ],
+            "text": "pride"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "35",
-                        "41"
-                    ],
-                    "text":"pride"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/milWHSSGZZ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1009890716510638080/photo/1",
+            "id": "1009890707471884288",
+            "id_str": "1009890707471884288",
+            "indices": [
+              "141",
+              "164"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/milWHSSGZZ",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1009890716510638080/photo/1",
-                    "id":"1009890707471884288",
-                    "id_str":"1009890707471884288",
-                    "indices":[
-                        "141",
-                        "164"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DgPaP3DUYAApbbb.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DgPaP3DUYAApbbb.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2048",
-                            "resize":"fit",
-                            "w":"1536"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"900"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"510"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/milWHSSGZZ"
-                }
+            "media_url": "http://pbs.twimg.com/media/DgPaP3DUYAApbbb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DgPaP3DUYAApbbb.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1536"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/milWHSSGZZ"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "55461251",
+            "id_str": "55461251",
+            "indices": [
+              "20",
+              "30"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[
-                {
-                    "id":"55461251",
-                    "id_str":"55461251",
-                    "indices":[
-                        "20",
-                        "30"
-                    ],
-                    "name":"Mugwumpin",
-                    "screen_name":"Mugwumpin"
-                },
-                {
-                    "id":"16408759",
-                    "id_str":"16408759",
-                    "indices":[
-                        "95",
-                        "102"
-                    ],
-                    "name":"San Francisco International Airport (SFO) \u2708\ufe0f",
-                    "screen_name":"flySFO"
-                }
-            ]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/milWHSSGZZ",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/1009890716510638080/photo/1",
-                    "id":"1009890707471884288",
-                    "id_str":"1009890707471884288",
-                    "indices":[
-                        "141",
-                        "164"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/DgPaP3DUYAApbbb.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/DgPaP3DUYAApbbb.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2048",
-                            "resize":"fit",
-                            "w":"1536"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"900"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"510"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"https://t.co/milWHSSGZZ"
-                }
-            ]
-        },
-        "favorite_count":"9",
-        "favorited":false,
-        "full_text":"Join SFO Museum and @mugwumpin for #pride fun and celebration in the International Terminal at @flySFO today until 3 and tomorrow from 11-3. https://t.co/milWHSSGZZ",
-        "id":"1009890716510638080",
-        "id_str":"1009890716510638080",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"3",
-        "retweeted":false,
-        "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "truncated":false
+            "name": "Mugwumpin",
+            "screen_name": "Mugwumpin"
+          },
+          {
+            "id": "16408759",
+            "id_str": "16408759",
+            "indices": [
+              "95",
+              "102"
+            ],
+            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "screen_name": "flySFO"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/milWHSSGZZ",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1009890716510638080/photo/1",
+            "id": "1009890707471884288",
+            "id_str": "1009890707471884288",
+            "indices": [
+              "141",
+              "164"
+            ],
+            "media_url": "http://pbs.twimg.com/media/DgPaP3DUYAApbbb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DgPaP3DUYAApbbb.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1536"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/milWHSSGZZ"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "Join SFO Museum and @mugwumpin for #pride fun and celebration in the International Terminal at @flySFO today until 3 and tomorrow from 11-3. https://t.co/milWHSSGZZ",
+      "id": "1009890716510638080",
+      "id_str": "1009890716510638080",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602026126,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729303505,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602026126,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729303505,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729303505,
-    "wof:lastmodified":1602634319,
-    "wof:name":"Join SFO Museum and @mugwumpin for #pride fun and celebration in the International Terminal at @flySFO today until 3 and tomorrow from 11-3. https://t.co/milWHSSGZZ",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729303505,
+    "wof:lastmodified": 1650064641,
+    "wof:name": "Join SFO Museum and @mugwumpin for #pride fun and celebration in the International Terminal at @flySFO today until 3 and tomorrow from 11-3. https://t.co/milWHSSGZZ",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

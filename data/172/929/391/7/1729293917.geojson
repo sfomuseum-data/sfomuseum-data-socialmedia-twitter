@@ -2,180 +2,180 @@
   "id": 1729293917,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-08-26",
-    "date:cessation_upper":"2015-08-26",
-    "date:inception_lower":"2015-08-26",
-    "date:inception_upper":"2015-08-26",
-    "edtf:cessation":"2015-08-26T18:30:16-07:00",
-    "edtf:inception":"2015-08-26T18:30:16-07:00",
-    "geom:area":0.0,
-    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude":37.616356,
-    "geom:longitude":-122.386166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"tweet",
-    "src:geom":"sfomuseum",
-    "twitter:tweet":{
-        "created":1440639016,
-        "created_at":"Thu Aug 27 01:30:16 +0000 2015",
-        "display_text_range":[
-            "0",
-            "140"
+    "date:cessation_lower": "2015-08-27",
+    "date:cessation_upper": "2015-08-27",
+    "date:inception_lower": "2015-08-27",
+    "date:inception_upper": "2015-08-27",
+    "edtf:cessation": "2015-08-26T18:30:16-07:00",
+    "edtf:inception": "2015-08-26T18:30:16-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1440639016,
+      "created_at": "Thu Aug 27 01:30:16 +0000 2015",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "82",
+              "98"
+            ],
+            "text": "WomeninAviation"
+          },
+          {
+            "indices": [
+              "99",
+              "117"
+            ],
+            "text": "WomensEqualityDay"
+          }
         ],
-        "entities":{
-            "hashtags":[
-                {
-                    "indices":[
-                        "82",
-                        "98"
-                    ],
-                    "text":"WomeninAviation"
-                },
-                {
-                    "indices":[
-                        "99",
-                        "117"
-                    ],
-                    "text":"WomensEqualityDay"
-                }
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UeiKl1UqtX",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/636712301316415488/photo/1",
+            "id": "636712300410470400",
+            "id_str": "636712300410470400",
+            "indices": [
+              "118",
+              "140"
             ],
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/UeiKl1UqtX",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/636712301316415488/photo/1",
-                    "id":"636712300410470400",
-                    "id_str":"636712300410470400",
-                    "indices":[
-                        "118",
-                        "140"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CNYOdroWgAAUKi2.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CNYOdroWgAAUKi2.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2048",
-                            "resize":"fit",
-                            "w":"1578"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"925"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"524"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"http://t.co/UeiKl1UqtX"
-                }
+            "media_url": "http://pbs.twimg.com/media/CNYOdroWgAAUKi2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CNYOdroWgAAUKi2.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1578"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "925"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "524"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "http://t.co/UeiKl1UqtX"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UeiKl1UqtX",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/636712301316415488/photo/1",
+            "id": "636712300410470400",
+            "id_str": "636712300410470400",
+            "indices": [
+              "118",
+              "140"
             ],
-            "symbols":[],
-            "urls":[],
-            "user_mentions":[]
-        },
-        "extended_entities":{
-            "media":[
-                {
-                    "display_url":"pic.twitter.com/UeiKl1UqtX",
-                    "expanded_url":"https://twitter.com/SFOMuseum/status/636712301316415488/photo/1",
-                    "id":"636712300410470400",
-                    "id_str":"636712300410470400",
-                    "indices":[
-                        "118",
-                        "140"
-                    ],
-                    "media_url":"http://pbs.twimg.com/media/CNYOdroWgAAUKi2.jpg",
-                    "media_url_https":"https://pbs.twimg.com/media/CNYOdroWgAAUKi2.jpg",
-                    "sizes":{
-                        "large":{
-                            "h":"2048",
-                            "resize":"fit",
-                            "w":"1578"
-                        },
-                        "medium":{
-                            "h":"1200",
-                            "resize":"fit",
-                            "w":"925"
-                        },
-                        "small":{
-                            "h":"680",
-                            "resize":"fit",
-                            "w":"524"
-                        },
-                        "thumb":{
-                            "h":"150",
-                            "resize":"crop",
-                            "w":"150"
-                        }
-                    },
-                    "type":"photo",
-                    "url":"http://t.co/UeiKl1UqtX"
-                }
-            ]
-        },
-        "favorite_count":"2",
-        "favorited":false,
-        "full_text":"The late Gail Gorski was the first female pilot hired by United Airlines in 1978. #WomeninAviation #WomensEqualityDay http://t.co/UeiKl1UqtX",
-        "id":"636712301316415488",
-        "id_str":"636712301316415488",
-        "lang":"en",
-        "possibly_sensitive":false,
-        "retweet_count":"4",
-        "retweeted":false,
-        "source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-        "truncated":false
+            "media_url": "http://pbs.twimg.com/media/CNYOdroWgAAUKi2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CNYOdroWgAAUKi2.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1578"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "925"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "524"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "http://t.co/UeiKl1UqtX"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "The late Gail Gorski was the first female pilot hired by United Airlines in 1978. #WomeninAviation #WomensEqualityDay http://t.co/UeiKl1UqtX",
+      "id": "636712301316415488",
+      "id_str": "636712301316415488",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "4",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
     },
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159160869,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1602025763,
-    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
-    "wof:hierarchy":[
-        {
-            "building_id":1159160869,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "custom_id":1729293917,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1602025763,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1729293917,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1729293917,
-    "wof:lastmodified":1602634453,
-    "wof:name":"The late Gail Gorski was the first female pilot hired by United Airlines in 1978. #WomeninAviation #WomensEqualityDay http://t.co/UeiKl1UqtX",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"custom",
-    "wof:repo":"sfomuseum-data-socialmedia-twitter",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1729293917,
+    "wof:lastmodified": 1650064636,
+    "wof:name": "The late Gail Gorski was the first female pilot hired by United Airlines in 1978. #WomeninAviation #WomensEqualityDay http://t.co/UeiKl1UqtX",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386166,
     37.616356,
     -122.386166,
     37.616356
-],
+  ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }
