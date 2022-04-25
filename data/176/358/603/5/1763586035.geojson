@@ -1,0 +1,210 @@
+{
+  "id": 1763586035,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-11-30",
+    "date:cessation_upper": "2021-11-30",
+    "date:inception_lower": "2021-11-30",
+    "date:inception_upper": "2021-11-30",
+    "edtf:cessation": "2021-11-29T16:40:30-08:00",
+    "edtf:inception": "2021-11-29T16:40:30-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1638232830,
+      "created_at": "Tue Nov 30 00:40:30 +0000 2021",
+      "display_text_range": [
+        "0",
+        "297"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "84",
+              "97"
+            ],
+            "text": "ChinaClipper"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UBZtQ8eNHx",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1465480824887803909/photo/1",
+            "id": "1465480404178112514",
+            "id_str": "1465480404178112514",
+            "indices": [
+              "274",
+              "297"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFZuqcRVEAIz1iR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFZuqcRVEAIz1iR.jpg",
+            "sizes": {
+              "large": {
+                "h": "1587",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "930",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "527",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/UBZtQ8eNHx"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UBZtQ8eNHx",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1465480824887803909/photo/1",
+            "id": "1465480404178112514",
+            "id_str": "1465480404178112514",
+            "indices": [
+              "274",
+              "297"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFZuqcRVEAIz1iR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFZuqcRVEAIz1iR.jpg",
+            "sizes": {
+              "large": {
+                "h": "1587",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "930",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "527",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/UBZtQ8eNHx"
+          },
+          {
+            "display_url": "pic.twitter.com/UBZtQ8eNHx",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1465480824887803909/photo/1",
+            "id": "1465480450776842241",
+            "id_str": "1465480450776842241",
+            "indices": [
+              "274",
+              "297"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFZutJ3VQAE898_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFZutJ3VQAE898_.jpg",
+            "sizes": {
+              "large": {
+                "h": "1477",
+                "resize": "fit",
+                "w": "2028"
+              },
+              "medium": {
+                "h": "874",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "495",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/UBZtQ8eNHx"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "After leaving Alameda on Nov 22, and landing in Manila (shown here!) on Nov 29, the #ChinaClipper started its long journey back to the United States on Dec 2. The entire round-trip included over 123 hours of flying time, covered over 16,000 miles, and set 19 world records. https://t.co/UBZtQ8eNHx",
+      "id": "1465480824887803909",
+      "id_str": "1465480824887803909",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1465480817572868096",
+      "in_reply_to_status_id_str": "1465480817572868096",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908056,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763586035,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763586035,
+    "wof:lastmodified": 1650908056,
+    "wof:name": "After leaving Alameda on Nov 22, and landing in Manila (shown here!) on Nov 29, the #ChinaClipper started its long journey back to the United States on Dec 2. The entire round-trip included over 123 hours of flying time, covered over 16,000 miles, and set 19 world records. https://t.co/UBZtQ8eNHx",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

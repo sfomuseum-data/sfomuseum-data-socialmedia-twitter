@@ -1,0 +1,255 @@
+{
+  "id": 1763586439,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-02-10",
+    "date:cessation_upper": "2022-02-10",
+    "date:inception_lower": "2022-02-10",
+    "date:inception_upper": "2022-02-10",
+    "edtf:cessation": "2022-02-10T14:43:43-08:00",
+    "edtf:inception": "2022-02-10T14:43:43-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1644533023,
+      "created_at": "Thu Feb 10 22:43:43 +0000 2022",
+      "display_text_range": [
+        "0",
+        "222"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "165",
+              "181"
+            ],
+            "text": "DefunctThursday"
+          },
+          {
+            "indices": [
+              "182",
+              "190"
+            ],
+            "text": "Braniff"
+          },
+          {
+            "indices": [
+              "191",
+              "198"
+            ],
+            "text": "AvGeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/uZLty5zJ8e",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1491905749089341442/photo/1",
+            "id": "1491904279543644165",
+            "id_str": "1491904279543644165",
+            "indices": [
+              "199",
+              "222"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FLRPCa0VgAUwqd9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FLRPCa0VgAUwqd9.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "928"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "544"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "308"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/uZLty5zJ8e"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/uZLty5zJ8e",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1491905749089341442/photo/1",
+            "id": "1491904279543644165",
+            "id_str": "1491904279543644165",
+            "indices": [
+              "199",
+              "222"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FLRPCa0VgAUwqd9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FLRPCa0VgAUwqd9.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "928"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "544"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "308"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/uZLty5zJ8e"
+          },
+          {
+            "display_url": "pic.twitter.com/uZLty5zJ8e",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1491905749089341442/photo/1",
+            "id": "1491904233129476124",
+            "id_str": "1491904233129476124",
+            "indices": [
+              "199",
+              "222"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FLRO_t6VgBwO3UA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FLRO_t6VgBwO3UA.jpg",
+            "sizes": {
+              "large": {
+                "h": "973",
+                "resize": "fit",
+                "w": "973"
+              },
+              "medium": {
+                "h": "973",
+                "resize": "fit",
+                "w": "973"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/uZLty5zJ8e"
+          },
+          {
+            "display_url": "pic.twitter.com/uZLty5zJ8e",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1491905749089341442/photo/1",
+            "id": "1491904322866610176",
+            "id_str": "1491904322866610176",
+            "indices": [
+              "199",
+              "222"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FLRPE8NVgAAT2_f.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FLRPE8NVgAAT2_f.jpg",
+            "sizes": {
+              "large": {
+                "h": "838",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "491",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "278",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/uZLty5zJ8e"
+          }
+        ]
+      },
+      "favorite_count": "7",
+      "favorited": false,
+      "full_text": "Texas-based Braniff International Airways, which operated from 1930 to 1982, has the distinction of being one the very few airlines named eponymously for its owner. #DefunctThursday #Braniff #AvGeek https://t.co/uZLty5zJ8e",
+      "id": "1491905749089341442",
+      "id_str": "1491905749089341442",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908074,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763586439,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763586439,
+    "wof:lastmodified": 1650908074,
+    "wof:name": "Texas-based Braniff International Airways, which operated from 1930 to 1982, has the distinction of being one the very few airlines named eponymously for its owner. #DefunctThursday #Braniff #AvGeek https://t.co/uZLty5zJ8e",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

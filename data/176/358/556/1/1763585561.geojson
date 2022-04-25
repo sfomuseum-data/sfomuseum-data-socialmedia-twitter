@@ -1,0 +1,174 @@
+{
+  "id": 1763585561,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-09-25",
+    "date:cessation_upper": "2021-09-25",
+    "date:inception_lower": "2021-09-25",
+    "date:inception_upper": "2021-09-25",
+    "edtf:cessation": "2021-09-24T17:13:48-07:00",
+    "edtf:inception": "2021-09-24T17:13:48-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1632528828,
+      "created_at": "Sat Sep 25 00:13:48 +0000 2021",
+      "display_text_range": [
+        "0",
+        "209"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "170",
+              "185"
+            ],
+            "text": "MarvinLipofsky"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ze9Hn9cj4I",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1441556503895293954/photo/1",
+            "id": "1441556405249458177",
+            "id_str": "1441556405249458177",
+            "indices": [
+              "186",
+              "209"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FAFv6bKVQAELE8k.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FAFv6bKVQAELE8k.jpg",
+            "sizes": {
+              "large": {
+                "h": "1003",
+                "resize": "fit",
+                "w": "1783"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ze9Hn9cj4I"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ze9Hn9cj4I",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1441556503895293954/photo/1",
+            "id": "1441556405249458177",
+            "id_str": "1441556405249458177",
+            "indices": [
+              "186",
+              "209"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FAFv6bKVQAELE8k.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FAFv6bKVQAELE8k.jpg",
+            "sizes": {
+              "large": {
+                "h": "1003",
+                "resize": "fit",
+                "w": "1783"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ze9Hn9cj4I"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "Using molds and colors available at the Venini factory, Lipofsky and Toso created exciting new forms by blowing glass into the wooden molds as they were rotated by hand. #MarvinLipofsky https://t.co/ze9Hn9cj4I",
+      "id": "1441556503895293954",
+      "id_str": "1441556503895293954",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1441556499239563264",
+      "in_reply_to_status_id_str": "1441556499239563264",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908035,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763585561,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763585561,
+    "wof:lastmodified": 1650908035,
+    "wof:name": "Using molds and colors available at the Venini factory, Lipofsky and Toso created exciting new forms by blowing glass into the wooden molds as they were rotated by hand. #MarvinLipofsky https://t.co/ze9Hn9cj4I",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

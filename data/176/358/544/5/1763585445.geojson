@@ -1,0 +1,194 @@
+{
+  "id": 1763585445,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-08-31",
+    "date:cessation_upper": "2021-08-31",
+    "date:inception_lower": "2021-08-31",
+    "date:inception_upper": "2021-08-31",
+    "edtf:cessation": "2021-08-30T17:05:43-07:00",
+    "edtf:inception": "2021-08-30T17:05:43-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1630368343,
+      "created_at": "Tue Aug 31 00:05:43 +0000 2021",
+      "display_text_range": [
+        "0",
+        "175"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0",
+              "10"
+            ],
+            "text": "OnThisDay"
+          },
+          {
+            "indices": [
+              "132",
+              "143"
+            ],
+            "text": "SFOHistory"
+          },
+          {
+            "indices": [
+              "144",
+              "151"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/pYIofmIKBa",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1432494773374312448/photo/1",
+            "id": "1432494550837202951",
+            "id_str": "1432494550837202951",
+            "indices": [
+              "152",
+              "175"
+            ],
+            "media_url": "http://pbs.twimg.com/media/E-E-NE1VkAc3ggJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E-E-NE1VkAc3ggJ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1652",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "968",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "549",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/pYIofmIKBa"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "16408759",
+            "id_str": "16408759",
+            "indices": [
+              "123",
+              "130"
+            ],
+            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "screen_name": "flySFO"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/pYIofmIKBa",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1432494773374312448/photo/1",
+            "id": "1432494550837202951",
+            "id_str": "1432494550837202951",
+            "indices": [
+              "152",
+              "175"
+            ],
+            "media_url": "http://pbs.twimg.com/media/E-E-NE1VkAc3ggJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E-E-NE1VkAc3ggJ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1652",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "968",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "549",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/pYIofmIKBa"
+          }
+        ]
+      },
+      "favorite_count": "16",
+      "favorited": false,
+      "full_text": "#OnThisDay in 1930, the City and County of San Francisco began to purchase the property of Mills Field, which would become @flySFO. #SFOHistory #avgeek https://t.co/pYIofmIKBa",
+      "id": "1432494773374312448",
+      "id_str": "1432494773374312448",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "4",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908030,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763585445,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763585445,
+    "wof:lastmodified": 1650908030,
+    "wof:name": "#OnThisDay in 1930, the City and County of San Francisco began to purchase the property of Mills Field, which would become @flySFO. #SFOHistory #avgeek https://t.co/pYIofmIKBa",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,210 @@
+{
+  "id": 1763585921,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-11-10",
+    "date:cessation_upper": "2021-11-10",
+    "date:inception_lower": "2021-11-10",
+    "date:inception_upper": "2021-11-10",
+    "edtf:cessation": "2021-11-09T17:17:32-08:00",
+    "edtf:inception": "2021-11-09T17:17:32-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1636507052,
+      "created_at": "Wed Nov 10 01:17:32 +0000 2021",
+      "display_text_range": [
+        "0",
+        "262"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "225",
+              "238"
+            ],
+            "text": "videoartsSFO"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/OWJyxe0Kur",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1458242386828480515/photo/1",
+            "id": "1458241995621613569",
+            "id_str": "1458241995621613569",
+            "indices": [
+              "239",
+              "262"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FDy3XnGVQAEYDGX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FDy3XnGVQAEYDGX.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/OWJyxe0Kur"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/OWJyxe0Kur",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1458242386828480515/photo/1",
+            "id": "1458241995621613569",
+            "id_str": "1458241995621613569",
+            "indices": [
+              "239",
+              "262"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FDy3XnGVQAEYDGX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FDy3XnGVQAEYDGX.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/OWJyxe0Kur"
+          },
+          {
+            "display_url": "pic.twitter.com/OWJyxe0Kur",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1458242386828480515/photo/1",
+            "id": "1458242135426093056",
+            "id_str": "1458242135426093056",
+            "indices": [
+              "239",
+              "262"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FDy3fv6UUAA7FYv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FDy3fv6UUAA7FYv.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/OWJyxe0Kur"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Also featured are a profile of a bronc rider in northwest Montana maintaining a connection to the “old ways” to the visual splendor of diverse Native American cultures at the annual Gathering of Nations Powwow in New Mexico. #videoartsSFO https://t.co/OWJyxe0Kur",
+      "id": "1458242386828480515",
+      "id_str": "1458242386828480515",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1458242382156079104",
+      "in_reply_to_status_id_str": "1458242382156079104",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908051,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763585921,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763585921,
+    "wof:lastmodified": 1650908051,
+    "wof:name": "Also featured are a profile of a bronc rider in northwest Montana maintaining a connection to the “old ways” to the visual splendor of diverse Native American cultures at the annual Gathering of Nations Powwow in New Mexico. #videoartsSFO https://t.co/OWJyxe0Kur",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

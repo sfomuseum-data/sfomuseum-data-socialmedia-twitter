@@ -28,7 +28,18 @@
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": []
+        "user_mentions": [
+          {
+            "id": "1477789280177033218",
+            "id_str": "1477789280177033218",
+            "indices": [
+              "0",
+              "13"
+            ],
+            "name": "Jake",
+            "screen_name": "Jakethefurst"
+          }
+        ]
       },
       "favorite_count": "0",
       "favorited": false,
@@ -73,7 +84,7 @@
       }
     ],
     "wof:id": 1729303473,
-    "wof:lastmodified": 1650064641,
+    "wof:lastmodified": 1650908016,
     "wof:name": "@jakethefurst We're so glad that you enjoyed our exhibit on television! Thanks for checking it out!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

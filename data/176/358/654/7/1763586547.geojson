@@ -1,0 +1,188 @@
+{
+  "id": 1763586547,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-03-03",
+    "date:cessation_upper": "2022-03-03",
+    "date:inception_lower": "2022-03-03",
+    "date:inception_upper": "2022-03-03",
+    "edtf:cessation": "2022-03-02T18:08:53-08:00",
+    "edtf:inception": "2022-03-02T18:08:53-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1646273333,
+      "created_at": "Thu Mar 03 02:08:53 +0000 2022",
+      "display_text_range": [
+        "0",
+        "313"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "174",
+              "189"
+            ],
+            "text": "FlightPatterns"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/dzkeZkAs6W",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1499205139135012868/photo/1",
+            "id": "1499204905289990146",
+            "id_str": "1499204905289990146",
+            "indices": [
+              "290",
+              "313"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FM4-6xFVQAI1gGM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FM4-6xFVQAI1gGM.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/dzkeZkAs6W"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/3to31hd",
+            "expanded_url": "https://bit.ly/3to31hd",
+            "indices": [
+              "242",
+              "265"
+            ],
+            "url": "https://t.co/hPoLHA3zf2"
+          },
+          {
+            "display_url": "twitter.com/SFOMuseum/stat…",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1498810220457299973",
+            "indices": [
+              "266",
+              "289"
+            ],
+            "url": "https://t.co/u8ckgd8E40"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/dzkeZkAs6W",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1499205139135012868/photo/1",
+            "id": "1499204905289990146",
+            "id_str": "1499204905289990146",
+            "indices": [
+              "290",
+              "313"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FM4-6xFVQAI1gGM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FM4-6xFVQAI1gGM.jpg",
+            "sizes": {
+              "large": {
+                "h": "1473",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/dzkeZkAs6W"
+          }
+        ]
+      },
+      "favorite_count": "6",
+      "favorited": false,
+      "full_text": "Did you get it right? The answer was Miami Sands! This 1968 United Airlines uniform was also offered in Hawaiian Sunset and Maliblue.\n\nSee more flight attendant uniforms in \"#FlightPatterns\" on display in Harvey Milk Terminal 1 or online at: https://t.co/hPoLHA3zf2 https://t.co/u8ckgd8E40 https://t.co/dzkeZkAs6W",
+      "id": "1499205139135012868",
+      "id_str": "1499205139135012868",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908079,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763586547,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763586547,
+    "wof:lastmodified": 1650908079,
+    "wof:name": "Did you get it right? The answer was Miami Sands! This 1968 United Airlines uniform was also offered in Hawaiian Sunset and Maliblue.\n\nSee more flight attendant uniforms in \"#FlightPatterns\" on display in Harvey Milk Terminal 1 or online at: https://t.co/hPoLHA3zf2 https://t.co/u8ckgd8E40 https://t.co/dzkeZkAs6W",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

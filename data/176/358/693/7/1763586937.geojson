@@ -1,0 +1,169 @@
+{
+  "id": 1763586937,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-04-18",
+    "date:cessation_upper": "2022-04-18",
+    "date:inception_lower": "2022-04-18",
+    "date:inception_upper": "2022-04-18",
+    "edtf:cessation": "2022-04-18T11:47:05-07:00",
+    "edtf:inception": "2022-04-18T11:47:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1650307625,
+      "created_at": "Mon Apr 18 18:47:05 +0000 2022",
+      "display_text_range": [
+        "0",
+        "288"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "248",
+              "264"
+            ],
+            "text": "PineappletoPina"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/JAprLnaVxX",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1516126183359799301/photo/1",
+            "id": "1516126097879969793",
+            "id_str": "1516126097879969793",
+            "indices": [
+              "265",
+              "288"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FQpcpzrVsAE25bA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FQpcpzrVsAE25bA.jpg",
+            "sizes": {
+              "large": {
+                "h": "649",
+                "resize": "fit",
+                "w": "538"
+              },
+              "medium": {
+                "h": "649",
+                "resize": "fit",
+                "w": "538"
+              },
+              "small": {
+                "h": "649",
+                "resize": "fit",
+                "w": "538"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/JAprLnaVxX"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/JAprLnaVxX",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1516126183359799301/photo/1",
+            "id": "1516126097879969793",
+            "id_str": "1516126097879969793",
+            "indices": [
+              "265",
+              "288"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FQpcpzrVsAE25bA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FQpcpzrVsAE25bA.jpg",
+            "sizes": {
+              "large": {
+                "h": "649",
+                "resize": "fit",
+                "w": "538"
+              },
+              "medium": {
+                "h": "649",
+                "resize": "fit",
+                "w": "538"
+              },
+              "small": {
+                "h": "649",
+                "resize": "fit",
+                "w": "538"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/JAprLnaVxX"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Our newest exhibition “From Pineapple to Piña: A Philippine Textile Treasure” is now on display in Harvey Milk Terminal 1. Unique to the Philippines, piña is an extraordinary textile made by weaving the fibers of the leaves of the pineapple plant. #PineappletoPina https://t.co/JAprLnaVxX",
+      "id": "1516126183359799301",
+      "id_str": "1516126183359799301",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908096,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763586937,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763586937,
+    "wof:lastmodified": 1650908096,
+    "wof:name": "Our newest exhibition “From Pineapple to Piña: A Philippine Textile Treasure” is now on display in Harvey Milk Terminal 1. Unique to the Philippines, piña is an extraordinary textile made by weaving the fibers of the leaves of the pineapple plant. #PineappletoPina https://t.co/JAprLnaVxX",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

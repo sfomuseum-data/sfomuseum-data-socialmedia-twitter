@@ -1,0 +1,169 @@
+{
+  "id": 1763586947,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-04-15",
+    "date:cessation_upper": "2022-04-15",
+    "date:inception_lower": "2022-04-15",
+    "date:inception_upper": "2022-04-15",
+    "edtf:cessation": "2022-04-15T16:41:24-07:00",
+    "edtf:inception": "2022-04-15T16:41:24-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1650066084,
+      "created_at": "Fri Apr 15 23:41:24 +0000 2022",
+      "display_text_range": [
+        "0",
+        "160"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "124",
+              "136"
+            ],
+            "text": "AmericanAir"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FAlpaZf0XE",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1515113088625754114/photo/1",
+            "id": "1515112795246792708",
+            "id_str": "1515112795246792708",
+            "indices": [
+              "137",
+              "160"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FQbDD1NVkAQLcl7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FQbDD1NVkAQLcl7.jpg",
+            "sizes": {
+              "large": {
+                "h": "1216",
+                "resize": "fit",
+                "w": "1902"
+              },
+              "medium": {
+                "h": "767",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "435",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FAlpaZf0XE"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FAlpaZf0XE",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1515113088625754114/photo/1",
+            "id": "1515112795246792708",
+            "id_str": "1515112795246792708",
+            "indices": [
+              "137",
+              "160"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FQbDD1NVkAQLcl7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FQbDD1NVkAQLcl7.jpg",
+            "sizes": {
+              "large": {
+                "h": "1216",
+                "resize": "fit",
+                "w": "1902"
+              },
+              "medium": {
+                "h": "767",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "435",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FAlpaZf0XE"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "Happy Birthday, American Airlines! American traces its origins to Robertson Aircraft and its first airmail contract flight. #AmericanAir https://t.co/FAlpaZf0XE",
+      "id": "1515113088625754114",
+      "id_str": "1515113088625754114",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908096,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763586947,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763586947,
+    "wof:lastmodified": 1650908096,
+    "wof:name": "Happy Birthday, American Airlines! American traces its origins to Robertson Aircraft and its first airmail contract flight. #AmericanAir https://t.co/FAlpaZf0XE",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,198 @@
+{
+  "id": 1763586537,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-02-23",
+    "date:cessation_upper": "2022-02-23",
+    "date:inception_lower": "2022-02-23",
+    "date:inception_upper": "2022-02-23",
+    "edtf:cessation": "2022-02-23T12:55:48-08:00",
+    "edtf:inception": "2022-02-23T12:55:48-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1645649748,
+      "created_at": "Wed Feb 23 20:55:48 +0000 2022",
+      "display_text_range": [
+        "0",
+        "216"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "149",
+              "167"
+            ],
+            "text": "BlackHistoryMonth"
+          },
+          {
+            "indices": [
+              "168",
+              "178"
+            ],
+            "text": "PublicArt"
+          },
+          {
+            "indices": [
+              "179",
+              "192"
+            ],
+            "text": "FredEversley"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/y3Blyc6snp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1496589634704347136/photo/1",
+            "id": "1496589532031950848",
+            "id_str": "1496589532031950848",
+            "indices": [
+              "193",
+              "216"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FMT0QAdVIAAZnDw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FMT0QAdVIAAZnDw.jpg",
+            "sizes": {
+              "large": {
+                "h": "1366",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/y3Blyc6snp"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2H9uX0I",
+            "expanded_url": "http://bit.ly/2H9uX0I",
+            "indices": [
+              "124",
+              "147"
+            ],
+            "url": "https://t.co/nr20e6oYRy"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/y3Blyc6snp",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1496589634704347136/photo/1",
+            "id": "1496589532031950848",
+            "id_str": "1496589532031950848",
+            "indices": [
+              "193",
+              "216"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FMT0QAdVIAAZnDw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FMT0QAdVIAAZnDw.jpg",
+            "sizes": {
+              "large": {
+                "h": "1366",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/y3Blyc6snp"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "See “Untitled” by Fred Eversley on display, in the post-security connector between Terminal 1 and Terminal 2 or online at:  https://t.co/nr20e6oYRy\n\n#BlackHistoryMonth #PublicArt #FredEversley https://t.co/y3Blyc6snp",
+      "id": "1496589634704347136",
+      "id_str": "1496589634704347136",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1496589628412813312",
+      "in_reply_to_status_id_str": "1496589628412813312",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908078,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763586537,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763586537,
+    "wof:lastmodified": 1650908078,
+    "wof:name": "See “Untitled” by Fred Eversley on display, in the post-security connector between Terminal 1 and Terminal 2 or online at:  https://t.co/nr20e6oYRy\n\n#BlackHistoryMonth #PublicArt #FredEversley https://t.co/y3Blyc6snp",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

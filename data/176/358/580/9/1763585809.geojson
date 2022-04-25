@@ -1,0 +1,210 @@
+{
+  "id": 1763585809,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-11-04",
+    "date:cessation_upper": "2021-11-04",
+    "date:inception_lower": "2021-11-04",
+    "date:inception_upper": "2021-11-04",
+    "edtf:cessation": "2021-11-03T17:41:04-07:00",
+    "edtf:inception": "2021-11-03T17:41:04-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1635986464,
+      "created_at": "Thu Nov 04 00:41:04 +0000 2021",
+      "display_text_range": [
+        "0",
+        "304"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "266",
+              "280"
+            ],
+            "text": "WingWednesday"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zX2TGiF8fL",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1456058882762018817/photo/1",
+            "id": "1456058878420926465",
+            "id_str": "1456058878420926465",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FDT11dxVQAErn4f.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FDT11dxVQAErn4f.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1544"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "905"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "513"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zX2TGiF8fL"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zX2TGiF8fL",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1456058882762018817/photo/1",
+            "id": "1456058878420926465",
+            "id_str": "1456058878420926465",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FDT11dxVQAErn4f.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FDT11dxVQAErn4f.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1544"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "905"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "513"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zX2TGiF8fL"
+          },
+          {
+            "display_url": "pic.twitter.com/zX2TGiF8fL",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1456058882762018817/photo/1",
+            "id": "1456058878508994563",
+            "id_str": "1456058878508994563",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FDT11eGVEAM7pEy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FDT11eGVEAM7pEy.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1560"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "914"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "518"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zX2TGiF8fL"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "The world’s largest twin jet, the Boeing 777 has the capacity to seat between 317 and 396 passengers in a 2 class configuration and has a range of 6,000 to 8,400 miles. With a cruising speed of 554 mph, some variations of the 777 can operate long-haul polar routes. #WingWednesday https://t.co/zX2TGiF8fL",
+      "id": "1456058882762018817",
+      "id_str": "1456058882762018817",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1456058875442982915",
+      "in_reply_to_status_id_str": "1456058875442982915",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908046,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763585809,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763585809,
+    "wof:lastmodified": 1650908046,
+    "wof:name": "The world’s largest twin jet, the Boeing 777 has the capacity to seat between 317 and 396 passengers in a 2 class configuration and has a range of 6,000 to 8,400 miles. With a cruising speed of 554 mph, some variations of the 777 can operate long-haul polar routes. #WingWednesday https://t.co/zX2TGiF8fL",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

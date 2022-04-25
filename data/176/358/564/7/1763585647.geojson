@@ -1,0 +1,174 @@
+{
+  "id": 1763585647,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-10-05",
+    "date:cessation_upper": "2021-10-05",
+    "date:inception_lower": "2021-10-05",
+    "date:inception_upper": "2021-10-05",
+    "edtf:cessation": "2021-10-05T16:58:13-07:00",
+    "edtf:inception": "2021-10-05T16:58:13-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1633478293,
+      "created_at": "Tue Oct 05 23:58:13 +0000 2021",
+      "display_text_range": [
+        "0",
+        "229"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "190",
+              "205"
+            ],
+            "text": "FlightPatterns"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/iBFF2y4S8c",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1445538849384394756/photo/1",
+            "id": "1445538845970219011",
+            "id_str": "1445538845970219011",
+            "indices": [
+              "206",
+              "229"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FA-V6-8VQAMKSLp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FA-V6-8VQAMKSLp.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1353"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "812"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "460"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/iBFF2y4S8c"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/iBFF2y4S8c",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1445538849384394756/photo/1",
+            "id": "1445538845970219011",
+            "id_str": "1445538845970219011",
+            "indices": [
+              "206",
+              "229"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FA-V6-8VQAMKSLp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FA-V6-8VQAMKSLp.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1353"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "812"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "460"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/iBFF2y4S8c"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Either a harlequin-patterned body blouse with collar, or a polka dot-patterned body blouse nicknamed the “Wonder Bread” with an attached pussycat bow, could be paired with any combination.  #FlightPatterns https://t.co/iBFF2y4S8c",
+      "id": "1445538849384394756",
+      "id_str": "1445538849384394756",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1445538843248058369",
+      "in_reply_to_status_id_str": "1445538843248058369",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908039,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763585647,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763585647,
+    "wof:lastmodified": 1650908039,
+    "wof:name": "Either a harlequin-patterned body blouse with collar, or a polka dot-patterned body blouse nicknamed the “Wonder Bread” with an attached pussycat bow, could be paired with any combination.  #FlightPatterns https://t.co/iBFF2y4S8c",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

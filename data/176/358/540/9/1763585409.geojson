@@ -1,0 +1,201 @@
+{
+  "id": 1763585409,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-09-07",
+    "date:cessation_upper": "2021-09-07",
+    "date:inception_lower": "2021-09-07",
+    "date:inception_upper": "2021-09-07",
+    "edtf:cessation": "2021-09-07T16:52:41-07:00",
+    "edtf:inception": "2021-09-07T16:52:41-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1631058761,
+      "created_at": "Tue Sep 07 23:52:41 +0000 2021",
+      "display_text_range": [
+        "0",
+        "196"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "129",
+              "139"
+            ],
+            "text": "publicart"
+          },
+          {
+            "indices": [
+              "140",
+              "145"
+            ],
+            "text": "SFAC"
+          },
+          {
+            "indices": [
+              "146",
+              "154"
+            ],
+            "text": "Collage"
+          },
+          {
+            "indices": [
+              "155",
+              "166"
+            ],
+            "text": "watercolor"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/xdRt73q2Qr",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1435390598333165568/photo/1",
+            "id": "1435390595795587074",
+            "id_str": "1435390595795587074",
+            "indices": [
+              "173",
+              "196"
+            ],
+            "media_url": "http://pbs.twimg.com/media/E-uIJFBVEAIAVMS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E-uIJFBVEAIAVMS.jpg",
+            "sizes": {
+              "large": {
+                "h": "641",
+                "resize": "fit",
+                "w": "450"
+              },
+              "medium": {
+                "h": "641",
+                "resize": "fit",
+                "w": "450"
+              },
+              "small": {
+                "h": "641",
+                "resize": "fit",
+                "w": "450"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xdRt73q2Qr"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "18958334",
+            "id_str": "18958334",
+            "indices": [
+              "167",
+              "172"
+            ],
+            "name": "SF Arts Commission",
+            "screen_name": "SFAC"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/xdRt73q2Qr",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1435390598333165568/photo/1",
+            "id": "1435390595795587074",
+            "id_str": "1435390595795587074",
+            "indices": [
+              "173",
+              "196"
+            ],
+            "media_url": "http://pbs.twimg.com/media/E-uIJFBVEAIAVMS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E-uIJFBVEAIAVMS.jpg",
+            "sizes": {
+              "large": {
+                "h": "641",
+                "resize": "fit",
+                "w": "450"
+              },
+              "medium": {
+                "h": "641",
+                "resize": "fit",
+                "w": "450"
+              },
+              "small": {
+                "h": "641",
+                "resize": "fit",
+                "w": "450"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xdRt73q2Qr"
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "In Crystal Liu’s universe, elements of the natural world serve as actors in a grand narrative of emotional and personal origins. #publicart #SFAC #Collage #watercolor\n@SFAC https://t.co/xdRt73q2Qr",
+      "id": "1435390598333165568",
+      "id_str": "1435390598333165568",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908028,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763585409,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763585409,
+    "wof:lastmodified": 1650908028,
+    "wof:name": "In Crystal Liu’s universe, elements of the natural world serve as actors in a grand narrative of emotional and personal origins. #publicart #SFAC #Collage #watercolor\n@SFAC https://t.co/xdRt73q2Qr",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

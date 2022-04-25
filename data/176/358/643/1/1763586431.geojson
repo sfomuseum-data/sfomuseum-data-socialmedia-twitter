@@ -1,0 +1,242 @@
+{
+  "id": 1763586431,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-02-12",
+    "date:cessation_upper": "2022-02-12",
+    "date:inception_lower": "2022-02-12",
+    "date:inception_upper": "2022-02-12",
+    "edtf:cessation": "2022-02-11T17:29:19-08:00",
+    "edtf:inception": "2022-02-11T17:29:19-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1644629359,
+      "created_at": "Sat Feb 12 01:29:19 +0000 2022",
+      "display_text_range": [
+        "0",
+        "257"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "150",
+              "160"
+            ],
+            "text": "VideoArts"
+          },
+          {
+            "indices": [
+              "161",
+              "174"
+            ],
+            "text": "VideoArtsSFO"
+          },
+          {
+            "indices": [
+              "175",
+              "185"
+            ],
+            "text": "AlexCraig"
+          },
+          {
+            "indices": [
+              "186",
+              "197"
+            ],
+            "text": "AaronCraig"
+          },
+          {
+            "indices": [
+              "198",
+              "211"
+            ],
+            "text": "OneMansTrash"
+          },
+          {
+            "indices": [
+              "212",
+              "223"
+            ],
+            "text": "PeterKokis"
+          },
+          {
+            "indices": [
+              "224",
+              "233"
+            ],
+            "text": "Brooklyn"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/CI5LYdvttE",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1492309811928567811/video/1",
+            "id": "1492309364249542656",
+            "id_str": "1492309364249542656",
+            "indices": [
+              "234",
+              "257"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1492309364249542656/pu/img/KKyrBif1eUAcXUWB.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1492309364249542656/pu/img/KKyrBif1eUAcXUWB.jpg",
+            "sizes": {
+              "large": {
+                "h": "540",
+                "resize": "fit",
+                "w": "960"
+              },
+              "medium": {
+                "h": "540",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/CI5LYdvttE"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/CI5LYdvttE",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1492309811928567811/video/1",
+            "id": "1492309364249542656",
+            "id_str": "1492309364249542656",
+            "indices": [
+              "234",
+              "257"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1492309364249542656/pu/img/KKyrBif1eUAcXUWB.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1492309364249542656/pu/img/KKyrBif1eUAcXUWB.jpg",
+            "sizes": {
+              "large": {
+                "h": "540",
+                "resize": "fit",
+                "w": "960"
+              },
+              "medium": {
+                "h": "540",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/CI5LYdvttE",
+            "video_info": {
+              "aspect_ratio": [
+                "16",
+                "9"
+              ],
+              "duration_millis": "34034",
+              "variants": [
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1492309364249542656/pu/vid/960x540/bWagT3AoL3hH-lrx.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1492309364249542656/pu/pl/Uvi5zHCKakSQvfmf.m3u8?tag=12\u0026container=fmp4"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1492309364249542656/pu/vid/640x360/2C2YaJMnYgf0MRsP.mp4?tag=12"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1492309364249542656/pu/vid/480x270/Di7AdyAM58_GxOOT.mp4?tag=12"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "New York-based filmmakers and brothers Alex and Aaron Craig profile Brooklyn’s Peter Kokis, whose passion is creating life-size robots out of trash. \n#VideoArts #VideoArtsSFO #AlexCraig #AaronCraig #OneMansTrash #PeterKokis #Brooklyn https://t.co/CI5LYdvttE",
+      "id": "1492309811928567811",
+      "id_str": "1492309811928567811",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908073,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763586431,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763586431,
+    "wof:lastmodified": 1650908073,
+    "wof:name": "New York-based filmmakers and brothers Alex and Aaron Craig profile Brooklyn’s Peter Kokis, whose passion is creating life-size robots out of trash. \n#VideoArts #VideoArtsSFO #AlexCraig #AaronCraig #OneMansTrash #PeterKokis #Brooklyn https://t.co/CI5LYdvttE",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

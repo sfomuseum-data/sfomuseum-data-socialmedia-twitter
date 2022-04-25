@@ -1,0 +1,287 @@
+{
+  "id": 1763585899,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-11-12",
+    "date:cessation_upper": "2021-11-12",
+    "date:inception_lower": "2021-11-12",
+    "date:inception_upper": "2021-11-12",
+    "edtf:cessation": "2021-11-12T13:10:54-08:00",
+    "edtf:inception": "2021-11-12T13:10:54-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1636751454,
+      "created_at": "Fri Nov 12 21:10:54 +0000 2021",
+      "display_text_range": [
+        "0",
+        "304"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "4",
+              "16"
+            ],
+            "text": "conservator"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XOrgbGQCi1",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1459267482305269761/photo/1",
+            "id": "1459267442635468804",
+            "id_str": "1459267442635468804",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FEBcAe6UcAQpqXO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FEBcAe6UcAQpqXO.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1638"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "544"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XOrgbGQCi1"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/3CEwNSw",
+            "expanded_url": "https://bit.ly/3CEwNSw",
+            "indices": [
+              "257",
+              "280"
+            ],
+            "url": "https://t.co/Whj1aB5KFB"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XOrgbGQCi1",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1459267482305269761/photo/1",
+            "id": "1459267442635468804",
+            "id_str": "1459267442635468804",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FEBcAe6UcAQpqXO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FEBcAe6UcAQpqXO.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1638"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "544"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XOrgbGQCi1"
+          },
+          {
+            "display_url": "pic.twitter.com/XOrgbGQCi1",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1459267482305269761/photo/1",
+            "id": "1459267442614497285",
+            "id_str": "1459267442614497285",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FEBcAe1UcAUZ5mv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FEBcAe1UcAUZ5mv.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1536"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XOrgbGQCi1"
+          },
+          {
+            "display_url": "pic.twitter.com/XOrgbGQCi1",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1459267482305269761/photo/1",
+            "id": "1459267442601910274",
+            "id_str": "1459267442601910274",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FEBcAeyUYAI9JST.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FEBcAeyUYAI9JST.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XOrgbGQCi1"
+          },
+          {
+            "display_url": "pic.twitter.com/XOrgbGQCi1",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1459267482305269761/photo/1",
+            "id": "1459267442622939136",
+            "id_str": "1459267442622939136",
+            "indices": [
+              "281",
+              "304"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FEBcAe3VQAASYAX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FEBcAe3VQAASYAX.jpg",
+            "sizes": {
+              "large": {
+                "h": "1638",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XOrgbGQCi1"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "Our #conservator Alisa makes sure that objects are able to withstand the rigors of display, and look their best. In a new blog post, she explains the process she took to polish and clean the silver plate objects in “Eclectic Taste: Victorian Silver Plate”. https://t.co/Whj1aB5KFB https://t.co/XOrgbGQCi1",
+      "id": "1459267482305269761",
+      "id_str": "1459267482305269761",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908050,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763585899,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763585899,
+    "wof:lastmodified": 1650908050,
+    "wof:name": "Our #conservator Alisa makes sure that objects are able to withstand the rigors of display, and look their best. In a new blog post, she explains the process she took to polish and clean the silver plate objects in “Eclectic Taste: Victorian Silver Plate”. https://t.co/Whj1aB5KFB https://t.co/XOrgbGQCi1",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

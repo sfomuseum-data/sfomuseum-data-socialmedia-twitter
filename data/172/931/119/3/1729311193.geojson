@@ -26,50 +26,18 @@
       ],
       "entities": {
         "hashtags": [],
-        "media": [
+        "symbols": [],
+        "urls": [
           {
             "display_url": "pic.twitter.com/wcq2LJNR",
             "expanded_url": "https://twitter.com/sharonw/status/279103415987077120/photo/1",
-            "id": "279103415995465729",
-            "id_str": "279103415995465729",
             "indices": [
               "118",
               "138"
             ],
-            "media_url": "http://pbs.twimg.com/media/A9-TE_4CAAEfRnV.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/A9-TE_4CAAEfRnV.jpg",
-            "sizes": {
-              "large": {
-                "h": "1536",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "900",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "279103415987077120",
-            "source_status_id_str": "279103415987077120",
-            "source_user_id": "512562844",
-            "source_user_id_str": "512562844",
-            "type": "photo",
             "url": "http://t.co/wcq2LJNR"
           }
         ],
-        "symbols": [],
-        "urls": [],
         "user_mentions": [
           {
             "id": "512562844",
@@ -88,7 +56,7 @@
               "92",
               "102"
             ],
-            "name": "Jane McGonigal",
+            "name": "Jane IMAGINABLE McGonigal ❤️",
             "screen_name": "avantgame"
           },
           {
@@ -100,50 +68,6 @@
             ],
             "name": "Jen Aprahamian",
             "screen_name": "jennifermarie"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/wcq2LJNR",
-            "expanded_url": "https://twitter.com/sharonw/status/279103415987077120/photo/1",
-            "id": "279103415995465729",
-            "id_str": "279103415995465729",
-            "indices": [
-              "118",
-              "138"
-            ],
-            "media_url": "http://pbs.twimg.com/media/A9-TE_4CAAEfRnV.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/A9-TE_4CAAEfRnV.jpg",
-            "sizes": {
-              "large": {
-                "h": "1536",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "900",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "279103415987077120",
-            "source_status_id_str": "279103415987077120",
-            "source_user_id": "512562844",
-            "source_user_id_str": "512562844",
-            "type": "photo",
-            "url": "http://t.co/wcq2LJNR"
           }
         ]
       },
@@ -186,7 +110,7 @@
       }
     ],
     "wof:id": 1729311193,
-    "wof:lastmodified": 1650064711,
+    "wof:lastmodified": 1650908097,
     "wof:name": "We love that you love it! MT @sharonw: I love that SFO has an exhibit about game history :) @avantgame @jennifermarie http://t.co/wcq2LJNR",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

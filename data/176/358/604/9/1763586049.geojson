@@ -1,0 +1,176 @@
+{
+  "id": 1763586049,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-11-29",
+    "date:cessation_upper": "2021-11-29",
+    "date:inception_lower": "2021-11-29",
+    "date:inception_upper": "2021-11-29",
+    "edtf:cessation": "2021-11-29T10:15:42-08:00",
+    "edtf:inception": "2021-11-29T10:15:42-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1638209742,
+      "created_at": "Mon Nov 29 18:15:42 +0000 2021",
+      "display_text_range": [
+        "0",
+        "220"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "33",
+              "46"
+            ],
+            "text": "TabithaSoren"
+          },
+          {
+            "indices": [
+              "184",
+              "196"
+            ],
+            "text": "photography"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/D9vxf9mF9j",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1465383987409420296/photo/1",
+            "id": "1465381148540895232",
+            "id_str": "1465381148540895232",
+            "indices": [
+              "197",
+              "220"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFYUZANVgAAg7hh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFYUZANVgAAg7hh.jpg",
+            "sizes": {
+              "large": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1010"
+              },
+              "medium": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1010"
+              },
+              "small": {
+                "h": "545",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/D9vxf9mF9j"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/D9vxf9mF9j",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1465383987409420296/photo/1",
+            "id": "1465381148540895232",
+            "id_str": "1465381148540895232",
+            "indices": [
+              "197",
+              "220"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFYUZANVgAAg7hh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFYUZANVgAAg7hh.jpg",
+            "sizes": {
+              "large": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1010"
+              },
+              "medium": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1010"
+              },
+              "small": {
+                "h": "545",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/D9vxf9mF9j"
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "In her series “Surface Tension”, #TabithaSoren (b.1967) examines our complex relationship with technology and draws focus on our increasingly tactile connection to visual information.\n#photography https://t.co/D9vxf9mF9j",
+      "id": "1465383987409420296",
+      "id_str": "1465383987409420296",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908056,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763586049,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763586049,
+    "wof:lastmodified": 1650908056,
+    "wof:name": "In her series “Surface Tension”, #TabithaSoren (b.1967) examines our complex relationship with technology and draws focus on our increasingly tactile connection to visual information.\n#photography https://t.co/D9vxf9mF9j",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

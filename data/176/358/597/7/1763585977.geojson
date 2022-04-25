@@ -1,0 +1,169 @@
+{
+  "id": 1763585977,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-11-24",
+    "date:cessation_upper": "2021-11-24",
+    "date:inception_lower": "2021-11-24",
+    "date:inception_upper": "2021-11-24",
+    "edtf:cessation": "2021-11-24T12:05:16-08:00",
+    "edtf:inception": "2021-11-24T12:05:16-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1637784316,
+      "created_at": "Wed Nov 24 20:05:16 +0000 2021",
+      "display_text_range": [
+        "0",
+        "276"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "238",
+              "252"
+            ],
+            "text": "KadishGallery"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TMWMl6OplT",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1463599618306965506/photo/1",
+            "id": "1463598916956409860",
+            "id_str": "1463598916956409860",
+            "indices": [
+              "253",
+              "276"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FE-_deLVUAQjR32.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FE-_deLVUAQjR32.jpg",
+            "sizes": {
+              "large": {
+                "h": "733",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "medium": {
+                "h": "733",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/TMWMl6OplT"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TMWMl6OplT",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1463599618306965506/photo/1",
+            "id": "1463598916956409860",
+            "id_str": "1463598916956409860",
+            "indices": [
+              "253",
+              "276"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FE-_deLVUAQjR32.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FE-_deLVUAQjR32.jpg",
+            "sizes": {
+              "large": {
+                "h": "733",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "medium": {
+                "h": "733",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/TMWMl6OplT"
+          }
+        ]
+      },
+      "favorite_count": "10",
+      "favorited": false,
+      "full_text": "Our newest gallery, the Kadish Gallery, is now open! Named after Ruth Kadish, SFO’s first female Airport Commissioner, Kadish was a champion of public art at SFO and was always thinking about how to make SFO a nicer place for passengers. #KadishGallery https://t.co/TMWMl6OplT",
+      "id": "1463599618306965506",
+      "id_str": "1463599618306965506",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1650908053,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1763585977,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1763585977,
+    "wof:lastmodified": 1650908053,
+    "wof:name": "Our newest gallery, the Kadish Gallery, is now open! Named after Ruth Kadish, SFO’s first female Airport Commissioner, Kadish was a champion of public art at SFO and was always thinking about how to make SFO a nicer place for passengers. #KadishGallery https://t.co/TMWMl6OplT",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}
