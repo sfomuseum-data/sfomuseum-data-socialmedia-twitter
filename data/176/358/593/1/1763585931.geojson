@@ -21,6 +21,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1461736880550989826"
+          ],
+          "editableUntil": "2021-11-19T17:13:24.738Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -33,7 +43,7 @@
               "3",
               "10"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           }
         ]
@@ -75,7 +85,7 @@
       }
     ],
     "wof:id": 1763585931,
-    "wof:lastmodified": 1650908051,
+    "wof:lastmodified": 1667251180,
     "wof:name": "RT @flySFO: 🥳 The post-security connector between Terminal 2 and 3 has opened!!! \n\nYou can now go between Terminal 2 to Terminal 3 and Inte…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

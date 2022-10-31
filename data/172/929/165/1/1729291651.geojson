@@ -24,22 +24,21 @@
         "0",
         "31"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "443436623859310592"
+          ],
+          "editableUntil": "2014-03-11T17:51:44.439Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": [
-          {
-            "id": "1500300353941778433",
-            "id_str": "1500300353941778433",
-            "indices": [
-              "0",
-              "10"
-            ],
-            "name": "Jason",
-            "screen_name": "jbhosford"
-          }
-        ]
+        "user_mentions": []
       },
       "favorite_count": "0",
       "favorited": false,
@@ -83,7 +82,7 @@
       }
     ],
     "wof:id": 1729291651,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "@jbhosford Thanks for visiting!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

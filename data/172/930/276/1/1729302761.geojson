@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "121640829545750528"
+          ],
+          "editableUntil": "2011-10-05T18:10:08.398Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -76,7 +86,7 @@
       }
     ],
     "wof:id": 1729302761,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251181,
     "wof:name": "In 1905, Wilbur Wright piloted a Wright Flyer III, flying 24 miles in 39 minutes - a world record held until 1908. #avgeeks",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

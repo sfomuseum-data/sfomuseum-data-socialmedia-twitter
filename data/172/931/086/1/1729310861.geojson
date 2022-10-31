@@ -24,6 +24,16 @@
         "0",
         "99"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "258621899825885184"
+          ],
+          "editableUntil": "2012-10-17T18:04:00.538Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -44,7 +54,7 @@
               "19",
               "30"
             ],
-            "name": "UC Santa Barbara Kruger",
+            "name": "Hocus Pokehim",
             "screen_name": "socalgecko"
           }
         ]
@@ -87,7 +97,7 @@
       }
     ],
     "wof:id": 1729310861,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "Woot! Welcome!! RT @socalgecko: On the ground at SFO! Let the museum adventure begin. #SFOfieldtrip",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

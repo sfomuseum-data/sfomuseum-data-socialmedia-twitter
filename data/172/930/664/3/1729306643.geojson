@@ -24,6 +24,16 @@
         "0",
         "25"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1157407756996890624"
+          ],
+          "editableUntil": "2019-08-02T22:18:07.521Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729306643,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251123,
     "wof:name": "@DuncanRodrigues Correct!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

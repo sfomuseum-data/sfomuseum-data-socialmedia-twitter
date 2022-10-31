@@ -24,6 +24,16 @@
         "0",
         "188"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1098785141860646913"
+          ],
+          "editableUntil": "2019-02-22T03:52:46.917Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -155,13 +165,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/vid/320x180/nd1Z1kIWSKiKzymy.mp4?tag=6"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/pl/2QwXRj18Sa-VQtBc.m3u8?tag=6"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/vid/1280x720/AWKhW_7ZxD63eJOt.mp4?tag=6"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/pl/2QwXRj18Sa-VQtBc.m3u8?tag=6"
                 }
               ]
             }
@@ -207,7 +217,7 @@
       }
     ],
     "wof:id": 1729305397,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251129,
     "wof:name": "#SantiagoJiménezSr., born in San Antonio, #Texas, began to play the #accordion at the age of eight. His father Patricio, also played the accordion. #storyofarhoolie https://t.co/AbPnvsIlcS",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

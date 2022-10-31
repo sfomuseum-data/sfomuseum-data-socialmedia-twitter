@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "421048685343301632"
+          ],
+          "editableUntil": "2014-01-08T23:10:03.949Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -94,7 +104,7 @@
       }
     ],
     "wof:id": 1729291359,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "Classic font treatment from this 1869 San Francisco map. More on display at #SFOMuseum #david rumsey http://t.co/2MevIIQg4R",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

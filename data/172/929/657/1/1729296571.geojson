@@ -24,6 +24,16 @@
         "0",
         "120"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "118811612495876096"
+          ],
+          "editableUntil": "2011-09-27T22:47:50.489Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729296571,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251181,
     "wof:name": "@lukefritz64 We're newbies to Twitter - just starting week 3. Glad you like the library/museum. We'll see you next time!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

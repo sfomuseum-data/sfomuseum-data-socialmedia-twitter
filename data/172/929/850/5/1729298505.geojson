@@ -24,6 +24,16 @@
         "0",
         "110"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "798652682919505920"
+          ],
+          "editableUntil": "2016-11-15T22:53:32.514Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -153,8 +163,9 @@
               "duration_millis": "268059",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/amplify_video/798570558786924544/pl/7YHFFpNO1HFwW9_n.m3u8"
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/798570558786924544/vid/320x180/WG0wwSjpiO9oNpIH.mp4"
                 },
                 {
                   "bitrate": "2176000",
@@ -162,9 +173,8 @@
                   "url": "https://video.twimg.com/amplify_video/798570558786924544/vid/1280x720/DrVqQBZMU_SrI2Bh.mp4"
                 },
                 {
-                  "bitrate": "320000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/798570558786924544/vid/320x180/WG0wwSjpiO9oNpIH.mp4"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/798570558786924544/pl/7YHFFpNO1HFwW9_n.m3u8"
                 },
                 {
                   "bitrate": "832000",
@@ -215,7 +225,7 @@
       }
     ],
     "wof:id": 1729298505,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251160,
     "wof:name": "RT @WIRED: 🎥  WIREDs Jack Stewart flew a plane… with his brain https://t.co/s4u6q6RHGG https://t.co/WzBiSGAy9M",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

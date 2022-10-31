@@ -24,6 +24,16 @@
         "0",
         "15"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "311163336098209793"
+          ],
+          "editableUntil": "2013-03-11T17:44:55.118Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729311557,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251177,
     "wof:name": "@7x7 Thanks! :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

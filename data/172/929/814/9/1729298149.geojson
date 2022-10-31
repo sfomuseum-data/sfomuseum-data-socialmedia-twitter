@@ -24,6 +24,16 @@
         "0",
         "95"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "785940789473923072"
+          ],
+          "editableUntil": "2016-10-11T21:01:00.941Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -224,7 +234,7 @@
       }
     ],
     "wof:id": 1729298149,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251161,
     "wof:name": "RT @flySFO: Air Traffic Control Tower Dedication Ceremony #sfo @FAANews https://t.co/VNJDXXXUTE",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

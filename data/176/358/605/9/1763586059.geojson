@@ -21,6 +21,16 @@
         "0",
         "299"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1468022997013258244"
+          ],
+          "editableUntil": "2021-12-07T01:32:11.693Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -89,7 +99,7 @@
               "156",
               "163"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           }
         ]
@@ -172,7 +182,7 @@
       }
     ],
     "wof:id": 1763586059,
-    "wof:lastmodified": 1650908057,
+    "wof:lastmodified": 1667251179,
     "wof:name": "Each airport around the world is assigned a three-letter @IATA (International Air Transport Association) code to make them easily and quickly identifiable. @flySFO’s three letter code, SFO, first appeared in the “American Aviation Air Traffic Guide” in December 1947. #avgeek https://t.co/SQgzP5IuS3",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

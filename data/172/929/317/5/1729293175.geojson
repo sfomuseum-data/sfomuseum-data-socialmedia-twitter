@@ -24,6 +24,16 @@
         "0",
         "91"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "581205877908197376"
+          ],
+          "editableUntil": "2015-03-26T21:57:34.233Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -81,7 +91,7 @@
       "full_text": "#InspirationMW #ArtIsEverywhere #MuseumWeek #AgeOfDeco #PierceArrow https://t.co/EgXAp5CWJZ",
       "id": "581205877908197376",
       "id_str": "581205877908197376",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
@@ -115,7 +125,7 @@
       }
     ],
     "wof:id": 1729293175,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "#InspirationMW #ArtIsEverywhere #MuseumWeek #AgeOfDeco #PierceArrow https://t.co/EgXAp5CWJZ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

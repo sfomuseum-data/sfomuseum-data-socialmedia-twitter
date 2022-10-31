@@ -24,6 +24,16 @@
         "0",
         "298"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1119368465322635264"
+          ],
+          "editableUntil": "2019-04-19T23:03:33.650Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -134,23 +144,23 @@
               "duration_millis": "42459",
               "variants": [
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1119368155711721477/pu/vid/320x180/XJM2xsDbsbTb0Yyu.mp4?tag=8"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1119368155711721477/pu/pl/q_90p2H792bBV-G-.m3u8?tag=8"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1119368155711721477/pu/vid/640x360/IkCR8Pzn-5l9LByd.mp4?tag=8"
                 },
                 {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1119368155711721477/pu/vid/320x180/XJM2xsDbsbTb0Yyu.mp4?tag=8"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1119368155711721477/pu/vid/1280x720/IiybiWuaSQTF_KwY.mp4?tag=8"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1119368155711721477/pu/pl/q_90p2H792bBV-G-.m3u8?tag=8"
                 }
               ]
             }
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729305953,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251125,
     "wof:name": "NOW PLAYING: \"The Backseat\" by Joe Stankus and Ashley Connor. Have you asked your folks for a ride somewhere? \"The Backseat\" reveals recognizable family dynamics and draws viewers into a world that feels honest, personal, and familiar. https://t.co/Um5Wd00iUK #VideoArtsSFOM https://t.co/0YKOhRwfcD",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

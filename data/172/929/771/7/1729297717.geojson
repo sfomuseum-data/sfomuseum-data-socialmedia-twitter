@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "771035461561098240"
+          ],
+          "editableUntil": "2016-08-31T17:52:33.839Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -176,7 +186,7 @@
       }
     ],
     "wof:id": 1729297717,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251163,
     "wof:name": "RT @Kholler: Marguerite Wildenhain exhibition at @SFOMuseum—Guernville's own Bauhaus master potter. https://t.co/SFqqhl3sDD",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

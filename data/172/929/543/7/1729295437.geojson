@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "708132900835827712"
+          ],
+          "editableUntil": "2016-03-11T04:00:14.689Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -191,7 +201,7 @@
       }
     ],
     "wof:id": 1729295437,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "Our collection features important architectural design drawings of the International Terminal. #TBT https://t.co/KEbl387dvj",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

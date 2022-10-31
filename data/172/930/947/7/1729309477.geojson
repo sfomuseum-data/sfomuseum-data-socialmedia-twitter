@@ -24,6 +24,16 @@
         "0",
         "39"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "123830252119130112"
+          ],
+          "editableUntil": "2011-10-11T19:10:07.417Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729309477,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251181,
     "wof:name": "@djamen3000 We're so glad you liked it!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "127"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "643594013258321920"
+          ],
+          "editableUntil": "2015-09-15T01:45:44.816Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -129,10 +139,6 @@
                   "url": "https://video.twimg.com/ext_tw_video/643593978399449088/pu/vid/1280x720/alZOBPrtx30xzAXX.mp4"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/643593978399449088/pu/pl/WGqzo4YdcxF4D6Rj.m3u8"
-                },
-                {
                   "bitrate": "320000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/643593978399449088/pu/vid/320x180/oo6jm6AoFfcHLeSO.mp4"
@@ -141,6 +147,10 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/643593978399449088/pu/vid/640x360/tr6TJ76doY-YuJta.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/643593978399449088/pu/pl/WGqzo4YdcxF4D6Rj.m3u8"
                 }
               ]
             }
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729294027,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "Cases must be opened and closed carefully the with low ceiling in our Terminal 3 space. #behindthescenes http://t.co/PTQP783Jsp",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

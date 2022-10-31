@@ -24,6 +24,16 @@
         "0",
         "75"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "444164917646856192"
+          ],
+          "editableUntil": "2014-03-13T18:05:43.209Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729291633,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "@jglucker Thanks! It has definitely been a fun exhibit for us to produce :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "218826611624116224"
+          ],
+          "editableUntil": "2012-06-29T22:31:44.470Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -100,7 +110,7 @@
       }
     ],
     "wof:id": 1729309895,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "RT @SFAIprez: Wonderful photos of some of SFAI's most illustrious artists at work, on view @SFOmuseum  http://t.co/GoLXBUoR",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

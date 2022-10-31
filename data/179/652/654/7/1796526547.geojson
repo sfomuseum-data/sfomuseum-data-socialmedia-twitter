@@ -1,0 +1,200 @@
+{
+  "id": 1796526547,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-06-14",
+    "date:cessation_upper": "2022-06-14",
+    "date:inception_lower": "2022-06-14",
+    "date:inception_upper": "2022-06-14",
+    "edtf:cessation": "2022-06-14T14:26:22-07:00",
+    "edtf:inception": "2022-06-14T14:26:22-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1655241982,
+      "created_at": "Tue Jun 14 21:26:22 +0000 2022",
+      "display_text_range": [
+        "0",
+        "245"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1536822376666497024"
+          ],
+          "editableUntil": "2022-06-14T21:56:22.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "211",
+              "221"
+            ],
+            "text": "museumjob"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/deqrSAV1uL",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1536822376666497024/photo/1",
+            "id": "1536822160701808640",
+            "id_str": "1536822160701808640",
+            "indices": [
+              "222",
+              "245"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FVPjnNuUYAAntqL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FVPjnNuUYAAntqL.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1638"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "544"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/deqrSAV1uL"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "careers.sf.gov/role/?id=74399…",
+            "expanded_url": "https://careers.sf.gov/role/?id=743999827381465",
+            "indices": [
+              "187",
+              "210"
+            ],
+            "url": "https://t.co/ulb4LuV44g"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "23070306",
+            "id_str": "23070306",
+            "indices": [
+              "119",
+              "126"
+            ],
+            "name": "American Alliance of Museums",
+            "screen_name": "AAMers"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/deqrSAV1uL",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1536822376666497024/photo/1",
+            "id": "1536822160701808640",
+            "id_str": "1536822160701808640",
+            "indices": [
+              "222",
+              "245"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FVPjnNuUYAAntqL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FVPjnNuUYAAntqL.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1638"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "544"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/deqrSAV1uL"
+          }
+        ]
+      },
+      "favorite_count": "10",
+      "favorited": false,
+      "full_text": "We’re hiring! Are you an experienced registrar looking for a fun, unique, and fast-paced workplace? Come join the only @AAMers accredited museum at an airport! To learn more \u0026amp; apply: https://t.co/ulb4LuV44g #museumjob https://t.co/deqrSAV1uL",
+      "id": "1536822376666497024",
+      "id_str": "1536822376666497024",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "4",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251144,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796526547,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796526547,
+    "wof:lastmodified": 1667251144,
+    "wof:name": "We’re hiring! Are you an experienced registrar looking for a fun, unique, and fast-paced workplace? Come join the only @AAMers accredited museum at an airport! To learn more \u0026amp; apply: https://t.co/ulb4LuV44g #museumjob https://t.co/deqrSAV1uL",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

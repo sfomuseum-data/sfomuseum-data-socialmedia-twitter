@@ -24,6 +24,16 @@
         "0",
         "105"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1100871497734733824"
+          ],
+          "editableUntil": "2019-02-27T22:03:12.920Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -88,7 +98,7 @@
               "68",
               "75"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           }
         ]
@@ -176,7 +186,7 @@
       }
     ],
     "wof:id": 1729305467,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251127,
     "wof:name": "RT @Chris_Chmura: Between showers, a low rainbow just popped out at @flysfo! 🌈 ✈️ https://t.co/t50oicT2xN",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

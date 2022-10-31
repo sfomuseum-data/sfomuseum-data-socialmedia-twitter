@@ -21,6 +21,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1484635467291103233"
+          ],
+          "editableUntil": "2022-01-21T21:44:13.252Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -83,7 +93,7 @@
       }
     ],
     "wof:id": 1763586299,
-    "wof:lastmodified": 1650908067,
+    "wof:lastmodified": 1667251178,
     "wof:name": "RT @airandspace: #OTD in 1976, the supersonic Concorde entered commercial service. Two flights took off at the same time, one operated by A…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

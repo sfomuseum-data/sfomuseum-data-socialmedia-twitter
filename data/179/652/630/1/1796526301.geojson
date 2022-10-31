@@ -1,0 +1,186 @@
+{
+  "id": 1796526301,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-10-19",
+    "date:cessation_upper": "2022-10-19",
+    "date:inception_lower": "2022-10-19",
+    "date:inception_upper": "2022-10-19",
+    "edtf:cessation": "2022-10-19T15:06:51-07:00",
+    "edtf:inception": "2022-10-19T15:06:51-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1666217211,
+      "created_at": "Wed Oct 19 22:06:51 +0000 2022",
+      "display_text_range": [
+        "0",
+        "288"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1582855826888278016"
+          ],
+          "editableUntil": "2022-10-19T22:36:51.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "242",
+              "258"
+            ],
+            "text": "PineappletoPina"
+          },
+          {
+            "indices": [
+              "259",
+              "264"
+            ],
+            "text": "piña"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PiByRbHN4G",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1582855826888278016/photo/1",
+            "id": "1582853304475713537",
+            "id_str": "1582853304475713537",
+            "indices": [
+              "265",
+              "288"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FfdssbDUAAEyltq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FfdssbDUAAEyltq.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1655"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "993"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "563"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PiByRbHN4G"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PiByRbHN4G",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1582855826888278016/photo/1",
+            "id": "1582853304475713537",
+            "id_str": "1582853304475713537",
+            "indices": [
+              "265",
+              "288"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FfdssbDUAAEyltq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FfdssbDUAAEyltq.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1655"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "993"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "563"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PiByRbHN4G"
+          }
+        ]
+      },
+      "favorite_count": "109",
+      "favorited": false,
+      "full_text": "The María Clara served as the formal female ensemble of the Philippines in the late nineteenth century. The romantic outfit, often worn by mestizas or women of mixed Philippine and Spanish descent, combined Indigenous and Spanish influences. #PineappletoPina #piña https://t.co/PiByRbHN4G",
+      "id": "1582855826888278016",
+      "id_str": "1582855826888278016",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "27",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251133,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796526301,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796526301,
+    "wof:lastmodified": 1667251133,
+    "wof:name": "The María Clara served as the formal female ensemble of the Philippines in the late nineteenth century. The romantic outfit, often worn by mestizas or women of mixed Philippine and Spanish descent, combined Indigenous and Spanish influences. #PineappletoPina #piña https://t.co/PiByRbHN4G",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

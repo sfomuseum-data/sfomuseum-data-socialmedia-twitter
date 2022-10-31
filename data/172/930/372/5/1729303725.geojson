@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1021832536152932352"
+          ],
+          "editableUntil": "2018-07-24T19:30:36.006Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729303725,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251137,
     "wof:name": "RT @biography: Amelia Earhart was born on this date in 1897. The 16th woman to be issued a pilot's license, she was the 1st woman to fly ac…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

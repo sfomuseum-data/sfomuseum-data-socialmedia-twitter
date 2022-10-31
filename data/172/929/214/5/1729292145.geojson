@@ -24,6 +24,16 @@
         "0",
         "108"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "481544995967860736"
+          ],
+          "editableUntil": "2014-06-24T21:40:48.369Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -166,7 +176,7 @@
       }
     ],
     "wof:id": 1729292145,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251174,
     "wof:name": "RT @iandees: Hey neat there's an exhibit from the David Rumsey map collection at SFO! http://t.co/yZySL7WKve",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

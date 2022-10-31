@@ -24,6 +24,16 @@
         "0",
         "100"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "684809941303951360"
+          ],
+          "editableUntil": "2016-01-06T19:23:07.817Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -166,7 +176,7 @@
       }
     ],
     "wof:id": 1729294925,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "RT @sobore: Stewardess Carol Koberlein posing in front of Delta's first DC-9 https://t.co/kGoECXbTEh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

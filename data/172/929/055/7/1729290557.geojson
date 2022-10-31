@@ -24,6 +24,16 @@
         "0",
         "99"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "115173466558304258"
+          ],
+          "editableUntil": "2011-09-17T21:51:08.904Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -97,7 +107,7 @@
       }
     ],
     "wof:id": 1729290557,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251181,
     "wof:name": "RT @MillbraeLibrary: #FF The way cool aviation museum \u0026 library at SFO is now on Twitter @SFOMuseum",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

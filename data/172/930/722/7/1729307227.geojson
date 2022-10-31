@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1184224267782651905"
+          ],
+          "editableUntil": "2019-10-15T22:17:21.919Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729307227,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251121,
     "wof:name": "RT @flySFO: ✈️ Gate numbering changes will happen overnight and be in place across all terminals for the first flights operating on October…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

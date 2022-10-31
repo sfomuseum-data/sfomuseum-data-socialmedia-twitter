@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "877281139593015298"
+          ],
+          "editableUntil": "2017-06-20T22:14:57.431Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -54,7 +64,7 @@
               "108",
               "115"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           }
         ]
@@ -97,7 +107,7 @@
       }
     ],
     "wof:id": 1729300423,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251150,
     "wof:name": "RT @mayoredlee: We want our visitors to enjoy #SF the moment they step off the plane. The new Grand Hyatt a @flysfo will make our great air…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

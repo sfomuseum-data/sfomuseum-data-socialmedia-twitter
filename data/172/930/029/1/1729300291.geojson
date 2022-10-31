@@ -24,6 +24,16 @@
         "0",
         "136"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "154281320443428864"
+          ],
+          "editableUntil": "2012-01-03T19:51:47.859Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -68,7 +78,7 @@
       }
     ],
     "wof:id": 1729300291,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251179,
     "wof:name": "\"All we want are the facts, ma'am.\" Today's fact: Dragnet began its run on tv on this day in 1952 while broadcast concurrently on radio.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

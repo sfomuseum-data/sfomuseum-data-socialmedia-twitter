@@ -24,6 +24,16 @@
         "0",
         "73"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "716761553626771456"
+          ],
+          "editableUntil": "2016-04-03T23:27:25.827Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -230,7 +240,7 @@
       "full_text": "RT @mariebienkowski: @SFOMuseum #artanddisability https://t.co/6eRFSyrI4t",
       "id": "716761553626771456",
       "id_str": "716761553626771456",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
@@ -264,7 +274,7 @@
       }
     ],
     "wof:id": 1729295645,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "RT @mariebienkowski: @SFOMuseum #artanddisability https://t.co/6eRFSyrI4t",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

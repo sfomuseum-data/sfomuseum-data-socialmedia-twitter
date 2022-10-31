@@ -24,6 +24,16 @@
         "0",
         "280"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1129177815792795648"
+          ],
+          "editableUntil": "2019-05-17T00:42:25.051Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -124,13 +134,13 @@
               "duration_millis": "29997",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1129177747626979328/pu/pl/IZz5sA4ybORj03EQ.m3u8?tag=9"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1129177747626979328/pu/vid/1280x720/1QjDor_3f7pZ_LXy.mp4?tag=9"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1129177747626979328/pu/pl/IZz5sA4ybORj03EQ.m3u8?tag=9"
                 },
                 {
                   "bitrate": "256000",
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729306135,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251125,
     "wof:name": "Clifton Chenier (1925–87), considered the “King of Zydeco,” invented and popularized the musical genre to audiences nationwide as well as in Europe. In 1976, Arhoolie released Chenier’s “Bogalusa Boogie,” his seventh and most famous album. #storyofarhoolie https://t.co/cYoJpTStzf",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

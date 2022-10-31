@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "985927214720888832"
+          ],
+          "editableUntil": "2018-04-16T17:35:40.288Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -36,7 +46,7 @@
               "3",
               "10"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           },
           {
@@ -109,7 +119,7 @@
       }
     ],
     "wof:id": 1729303013,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251139,
     "wof:name": "RT @flySFO: Enter now for a chance to win 2 round trip economy tickets to Hong Kong on @hkairlines! @Travel2HongKong @HKTourismUK @discover…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

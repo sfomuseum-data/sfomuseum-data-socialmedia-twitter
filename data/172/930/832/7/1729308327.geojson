@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "175267645438963712"
+          ],
+          "editableUntil": "2012-03-01T17:43:57.645Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -36,7 +46,7 @@
               "0",
               "12"
             ],
-            "name": "LeVar Burton",
+            "name": "Geordi LaGourd",
             "screen_name": "levarburton"
           }
         ]
@@ -82,7 +92,7 @@
       }
     ],
     "wof:id": 1729308327,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251179,
     "wof:name": "@levarburton Awww man! We deinstalled TV in the Antenna Age on Monday. Wish you could have seen it, but glad we still had something for you!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

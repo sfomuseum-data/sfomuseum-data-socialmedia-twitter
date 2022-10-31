@@ -24,6 +24,16 @@
         "0",
         "58"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "726251002807070720"
+          ],
+          "editableUntil": "2016-04-30T03:55:06.817Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -147,7 +157,7 @@
       }
     ],
     "wof:id": 1729295927,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "What is your favorite airline bag? https://t.co/tNq6yfNS6n",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

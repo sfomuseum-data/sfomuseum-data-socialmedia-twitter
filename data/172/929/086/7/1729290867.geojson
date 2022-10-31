@@ -24,6 +24,16 @@
         "0",
         "122"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "388075555259944960"
+          ],
+          "editableUntil": "2013-10-09T23:26:37.126Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -93,7 +103,7 @@
               "18",
               "26"
             ],
-            "name": "Ramekon Artist",
+            "name": "Ramekon Sculptor",
             "screen_name": "RAMEKON"
           }
         ]
@@ -181,7 +191,7 @@
       }
     ],
     "wof:id": 1729290867,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "Dive into art! RT @RAMEKON: The Art of #Recology: The Artist in Residence Program 1990–2013 at #SFO http://t.co/47pyvx8mXF",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "134"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "708492757363462144"
+          ],
+          "editableUntil": "2016-03-12T03:50:11.171Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -108,14 +118,14 @@
           }
         ]
       },
-      "favorite_count": "32",
+      "favorite_count": "31",
       "favorited": false,
       "full_text": "In 1958, the Boeing 707, operated by Pan American World Airways was the largest passenger aircraft in service. https://t.co/4Esa3zRlbZ",
       "id": "708492757363462144",
       "id_str": "708492757363462144",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "31",
+      "retweet_count": "30",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -147,7 +157,7 @@
       }
     ],
     "wof:id": 1729295435,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "In 1958, the Boeing 707, operated by Pan American World Airways was the largest passenger aircraft in service. https://t.co/4Esa3zRlbZ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

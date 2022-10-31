@@ -24,6 +24,16 @@
         "0",
         "282"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1179885996692783104"
+          ],
+          "editableUntil": "2019-10-03T22:58:37.490Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -145,9 +155,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1179885915109330944/pu/pl/7k2l8LuRjt-tPk8u.m3u8?tag=10"
                 },
                 {
-                  "bitrate": "256000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1179885915109330944/pu/vid/480x270/LU3GZyT2eWeg5et8.mp4?tag=10"
+                  "url": "https://video.twimg.com/ext_tw_video/1179885915109330944/pu/vid/1280x720/cLYhZ2SfhRNB7nmB.mp4?tag=10"
                 },
                 {
                   "bitrate": "832000",
@@ -155,9 +165,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1179885915109330944/pu/vid/640x360/PZtdinmZB66QdGSZ.mp4?tag=10"
                 },
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1179885915109330944/pu/vid/1280x720/cLYhZ2SfhRNB7nmB.mp4?tag=10"
+                  "url": "https://video.twimg.com/ext_tw_video/1179885915109330944/pu/vid/480x270/LU3GZyT2eWeg5et8.mp4?tag=10"
                 }
               ]
             }
@@ -203,7 +213,7 @@
       }
     ],
     "wof:id": 1729307039,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251121,
     "wof:name": "NOW PLAYING: “Listen” by Jake Graf. Graf gives voice to transgender youths who are often either disregarded or vilified when trying to communicate their daily struggles against bullying. #NationalBullyingPreventionMonth #VideoArtsSFOM https://t.co/GlvLnpFUBw https://t.co/T025D6So55",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

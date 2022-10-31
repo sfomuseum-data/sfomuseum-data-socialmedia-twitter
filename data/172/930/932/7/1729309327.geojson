@@ -24,6 +24,16 @@
         "0",
         "55"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "190574811108487168"
+          ],
+          "editableUntil": "2012-04-12T23:29:10.334Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -36,7 +46,7 @@
               "0",
               "13"
             ],
-            "name": "Rich Schwerin 🚵‍♂️",
+            "name": "Rich Schwerin 🚵‍♂️ (he/him/his)",
             "screen_name": "Greencognito"
           }
         ]
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729309327,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251179,
     "wof:name": "@Greencognito Thanks for checking out Moto Bellissima!!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

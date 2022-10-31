@@ -24,6 +24,16 @@
         "0",
         "100"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "707035644858638337"
+          ],
+          "editableUntil": "2016-03-08T03:20:08.478Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -159,7 +169,7 @@
           }
         ]
       },
-      "favorite_count": "42",
+      "favorite_count": "41",
       "favorited": false,
       "full_text": "How spacious was the flight deck of a 1930s #PanAm Boeing 314? Very! #AVGeek https://t.co/e6tVf0pIOD",
       "id": "707035644858638337",
@@ -198,7 +208,7 @@
       }
     ],
     "wof:id": 1729295341,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "How spacious was the flight deck of a 1930s #PanAm Boeing 314? Very! #AVGeek https://t.co/e6tVf0pIOD",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

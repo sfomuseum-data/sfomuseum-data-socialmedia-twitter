@@ -24,6 +24,16 @@
         "0",
         "81"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "177106709712613376"
+          ],
+          "editableUntil": "2012-03-06T19:31:44.736Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -82,7 +92,7 @@
       }
     ],
     "wof:id": 1729308905,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251179,
     "wof:name": "@LanceChristmann Glad you found our automata exhibit! Thanks for checking it out!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

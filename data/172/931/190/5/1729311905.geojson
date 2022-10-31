@@ -24,6 +24,16 @@
         "0",
         "110"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "131100288764485632"
+          ],
+          "editableUntil": "2011-10-31T20:38:39.224Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729311905,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251180,
     "wof:name": "Did you know: Kids' Spot in Terminal 3 features interactive displays of weather elements. http://t.co/9yFYHzfN",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

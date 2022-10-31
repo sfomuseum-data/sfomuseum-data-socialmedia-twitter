@@ -24,6 +24,16 @@
         "0",
         "298"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1128017046556405760"
+          ],
+          "editableUntil": "2019-05-13T19:49:56.099Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -124,14 +134,14 @@
               "duration_millis": "30447",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1128016563645194241/pu/vid/640x360/r4YMrm2Q4wu2oT--.mp4?tag=9"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1128016563645194241/pu/vid/320x180/E_mOjfwF3rUQyUxs.mp4?tag=9"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1128016563645194241/pu/vid/640x360/r4YMrm2Q4wu2oT--.mp4?tag=9"
                 },
                 {
                   "content_type": "application/x-mpegURL",
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729306047,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251125,
     "wof:name": "NOW PLAYING: \"Idle, Torrent\" by Alex Moy. Colorful line drawings morph from one posture to another in \"Idle, Torrent\", which was created by Moy as an exercise to find perspective \u0026amp; embrace change during an anxious period after graduating from film school. #VideoArtsSFOM https://t.co/gHnjOSztWr",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

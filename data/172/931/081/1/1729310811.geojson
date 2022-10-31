@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "254257296442544129"
+          ],
+          "editableUntil": "2012-10-05T17:00:38.001Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -83,7 +93,7 @@
       }
     ],
     "wof:id": 1729310811,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "@ryanpilotblog PS- We hope you got a chance to see our nearby exhibit on mountain bikes! http://t.co/BziHGhsJ Safe travels!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

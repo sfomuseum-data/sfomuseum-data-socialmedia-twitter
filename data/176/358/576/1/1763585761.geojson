@@ -21,6 +21,16 @@
         "0",
         "80"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1455267644819398656"
+          ],
+          "editableUntil": "2021-11-01T20:46:58.747Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -180,7 +190,7 @@
       }
     ],
     "wof:id": 1763585761,
-    "wof:lastmodified": 1650908044,
+    "wof:lastmodified": 1667251181,
     "wof:name": "RT @flySFO: Happy November from #SFO!\n\n📸 @pankajsuman330 https://t.co/7JdnQ2FoWl",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

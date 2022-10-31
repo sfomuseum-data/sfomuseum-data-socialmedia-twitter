@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "741328741503115265"
+          ],
+          "editableUntil": "2016-06-10T18:28:39.853Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729296419,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251168,
     "wof:name": "@ATCPeter! Thanks so much for thinking of us! I have forwarded your generous offer to our librarian! They will be in touch!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

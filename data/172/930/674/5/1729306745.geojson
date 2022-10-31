@@ -24,6 +24,16 @@
         "0",
         "279"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1158516029296906241"
+          ],
+          "editableUntil": "2019-08-05T23:42:00.228Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -129,14 +139,14 @@
                   "url": "https://video.twimg.com/ext_tw_video/1156699179210592257/pu/vid/480x270/BgEX8huECZBsEY-9.mp4?tag=10"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1156699179210592257/pu/vid/640x360/YZ57ljq-DKDdWlDO.mp4?tag=10"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1156699179210592257/pu/vid/1280x720/vPfWCBkBs5XqAYbY.mp4?tag=10"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1156699179210592257/pu/vid/640x360/YZ57ljq-DKDdWlDO.mp4?tag=10"
                 },
                 {
                   "content_type": "application/x-mpegURL",
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729306745,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251123,
     "wof:name": "NOW PLAYING: “Mamoon\" by Ben Steer. London-based filmmaker Ben Steer presents the story of a woman and her son fleeing through a dizzying landscape of towers and tiers in “Mamoon”, which was inspired by reports of the Syrian refugee crisis. #VideoArtsSFOM https://t.co/r2olcv9miJ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

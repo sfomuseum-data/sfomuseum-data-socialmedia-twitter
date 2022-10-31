@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "575385592873222145"
+          ],
+          "editableUntil": "2015-03-10T20:29:50.145Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729293137,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "A scene of the Loughead brothers' Model G coming in to dock. The brothers (who later changed their… https://t.co/St1F01E1rw",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "124"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "717178729479479296"
+          ],
+          "editableUntil": "2016-04-05T03:05:08.301Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -116,14 +126,14 @@
           }
         ]
       },
-      "favorite_count": "5",
+      "favorite_count": "4",
       "favorited": false,
       "full_text": "Pancake Palace at SFO had quite the interior decor. Did you ever dine at Pancake Palace? #SFOHistory https://t.co/mB4fZGfZIb",
       "id": "717178729479479296",
       "id_str": "717178729479479296",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "3",
+      "retweet_count": "2",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -155,7 +165,7 @@
       }
     ],
     "wof:id": 1729295633,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "Pancake Palace at SFO had quite the interior decor. Did you ever dine at Pancake Palace? #SFOHistory https://t.co/mB4fZGfZIb",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -1,0 +1,290 @@
+{
+  "id": 1796525871,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-08-25",
+    "date:cessation_upper": "2022-08-25",
+    "date:inception_lower": "2022-08-25",
+    "date:inception_upper": "2022-08-25",
+    "edtf:cessation": "2022-08-25T09:09:26-07:00",
+    "edtf:inception": "2022-08-25T09:09:26-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1661443766,
+      "created_at": "Thu Aug 25 16:09:26 +0000 2022",
+      "display_text_range": [
+        "0",
+        "138"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1562834545249906690"
+          ],
+          "editableUntil": "2022-08-25T16:39:26.306Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/T32Yn5DLpk",
+            "expanded_url": "https://twitter.com/urbanlifesigns/status/1562658070802485253/photo/1",
+            "id": "1562657834759643136",
+            "id_str": "1562657834759643136",
+            "indices": [
+              "115",
+              "138"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fa-tBXpUYAAv4Y1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fa-tBXpUYAAv4Y1.jpg",
+            "sizes": {
+              "large": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "1562658070802485253",
+            "source_status_id_str": "1562658070802485253",
+            "source_user_id": "188481378",
+            "source_user_id_str": "188481378",
+            "type": "photo",
+            "url": "https://t.co/T32Yn5DLpk"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "188481378",
+            "id_str": "188481378",
+            "indices": [
+              "3",
+              "18"
+            ],
+            "name": "Brian Stokle 🇺🇦🌳🚶‍♀️🚲🚎🚗🚅👂🇺🇸🇬🇧🇫🇷",
+            "screen_name": "urbanlifesigns"
+          },
+          {
+            "id": "47233208",
+            "id_str": "47233208",
+            "indices": [
+              "41",
+              "50"
+            ],
+            "name": "Kari Orvik Tintypes",
+            "screen_name": "orvinska"
+          },
+          {
+            "id": "116329337",
+            "id_str": "116329337",
+            "indices": [
+              "59",
+              "69"
+            ],
+            "name": "SFO Museum",
+            "screen_name": "SFOMuseum"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/T32Yn5DLpk",
+            "expanded_url": "https://twitter.com/urbanlifesigns/status/1562658070802485253/photo/1",
+            "id": "1562657834759643136",
+            "id_str": "1562657834759643136",
+            "indices": [
+              "115",
+              "138"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fa-tBXpUYAAv4Y1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fa-tBXpUYAAv4Y1.jpg",
+            "sizes": {
+              "large": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "1562658070802485253",
+            "source_status_id_str": "1562658070802485253",
+            "source_user_id": "188481378",
+            "source_user_id_str": "188481378",
+            "type": "photo",
+            "url": "https://t.co/T32Yn5DLpk"
+          },
+          {
+            "display_url": "pic.twitter.com/T32Yn5DLpk",
+            "expanded_url": "https://twitter.com/urbanlifesigns/status/1562658070802485253/photo/1",
+            "id": "1562658022165319682",
+            "id_str": "1562658022165319682",
+            "indices": [
+              "115",
+              "138"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fa-tMRyUEAI457K.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fa-tMRyUEAI457K.jpg",
+            "sizes": {
+              "large": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "1562658070802485253",
+            "source_status_id_str": "1562658070802485253",
+            "source_user_id": "188481378",
+            "source_user_id_str": "188481378",
+            "type": "photo",
+            "url": "https://t.co/T32Yn5DLpk"
+          },
+          {
+            "display_url": "pic.twitter.com/T32Yn5DLpk",
+            "expanded_url": "https://twitter.com/urbanlifesigns/status/1562658070802485253/photo/1",
+            "id": "1562658049826836480",
+            "id_str": "1562658049826836480",
+            "indices": [
+              "115",
+              "138"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fa-tN41VUAA623f.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fa-tN41VUAA623f.jpg",
+            "sizes": {
+              "large": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "medium": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1024"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "1562658070802485253",
+            "source_status_id_str": "1562658070802485253",
+            "source_user_id": "188481378",
+            "source_user_id_str": "188481378",
+            "type": "photo",
+            "url": "https://t.co/T32Yn5DLpk"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @urbanlifesigns: Loved the Kari Orvik @orvinska show at @SFOMuseum. Well work walking between Terminal 2 and 3. https://t.co/T32Yn5DLpk",
+      "id": "1562834545249906690",
+      "id_str": "1562834545249906690",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251114,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796525871,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796525871,
+    "wof:lastmodified": 1667251114,
+    "wof:name": "RT @urbanlifesigns: Loved the Kari Orvik @orvinska show at @SFOMuseum. Well work walking between Terminal 2 and 3. https://t.co/T32Yn5DLpk",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

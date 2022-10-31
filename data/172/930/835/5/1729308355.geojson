@@ -24,6 +24,16 @@
         "0",
         "68"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "174237235040890880"
+          ],
+          "editableUntil": "2012-02-27T21:29:28.662Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729308355,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251179,
     "wof:name": "@markmadsen We strive to help folks learn something new every day ;)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

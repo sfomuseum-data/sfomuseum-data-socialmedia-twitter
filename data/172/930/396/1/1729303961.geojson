@@ -24,6 +24,16 @@
         "0",
         "291"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1032024782135382016"
+          ],
+          "editableUntil": "2018-08-21T22:30:56.811Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -145,11 +155,6 @@
                   "url": "https://video.twimg.com/ext_tw_video/1032024717497053184/pu/pl/eQXB6FkEbivdb5QM.m3u8?tag=5"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1032024717497053184/pu/vid/1280x720/PJiiK7q5cVdjJ82e.mp4?tag=5"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1032024717497053184/pu/vid/320x180/1oMJhyveF_NKQAAB.mp4?tag=5"
@@ -158,6 +163,11 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1032024717497053184/pu/vid/640x360/F8kdF17rZtwPeYk8.mp4?tag=5"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1032024717497053184/pu/vid/1280x720/PJiiK7q5cVdjJ82e.mp4?tag=5"
                 }
               ]
             }
@@ -203,7 +213,7 @@
       }
     ],
     "wof:id": 1729303961,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251135,
     "wof:name": "NOW PLAYING: \"A New View of the #Moon\" by Alex Gorosh and Wylie Overstreet. Filmmakers Alex Gorosh and Wylie Overstreet invite passersby in Los Angeles to gaze upon what they’ve looked at all their lives but never seen up close. https://t.co/mlSLagufOq #VideoArtsSFOM https://t.co/BKgoaGS5if",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

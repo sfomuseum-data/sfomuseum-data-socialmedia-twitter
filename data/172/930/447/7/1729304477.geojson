@@ -24,6 +24,16 @@
         "0",
         "291"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1052600898969464833"
+          ],
+          "editableUntil": "2018-10-17T17:13:05.350Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -144,13 +154,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1052600780329385985/pu/vid/1280x720/_99bbBFFfpcQ1lyK.mp4?tag=5"
                 },
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1052600780329385985/pu/pl/0_4Pox2w_HqfjIZa.m3u8?tag=5"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1052600780329385985/pu/vid/640x360/ZefBUCz7wtDgKs53.mp4?tag=5"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1052600780329385985/pu/pl/0_4Pox2w_HqfjIZa.m3u8?tag=5"
                 }
               ]
             }
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729304477,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251132,
     "wof:name": "NOW PLAYING: \"Lattice\" by Maria Ferreira. Interdisciplinary artist Maria Ferreira employs microscopy to reveal the geometric gardens, iridescent waves, and spiraling sand dunes of crystal structures invisible to the unaided eye. https://t.co/bJEDuYQ0Pi #VideoArtsSFOM https://t.co/6evYOJsUvL",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

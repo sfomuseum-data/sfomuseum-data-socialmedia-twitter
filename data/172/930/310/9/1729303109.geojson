@@ -24,6 +24,16 @@
         "0",
         "268"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "993645266916982784"
+          ],
+          "editableUntil": "2018-05-08T00:44:27.326Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -148,23 +158,23 @@
               "duration_millis": "35080",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/993645086507323394/pu/vid/1280x720/-wZrmUFNhtTNVMuw.mp4?tag=3"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/993645086507323394/pu/vid/640x360/cJGzpVxNsTeEW2Ww.mp4?tag=3"
                 },
                 {
-                  "bitrate": "256000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/993645086507323394/pu/vid/320x180/vAjJZFV_hHmjk8JX.mp4?tag=3"
+                  "url": "https://video.twimg.com/ext_tw_video/993645086507323394/pu/vid/1280x720/-wZrmUFNhtTNVMuw.mp4?tag=3"
                 },
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/993645086507323394/pu/pl/5bvr1f3fJ3I764j4.m3u8?tag=3"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/993645086507323394/pu/vid/320x180/vAjJZFV_hHmjk8JX.mp4?tag=3"
                 }
               ]
             }
@@ -210,7 +220,7 @@
       }
     ],
     "wof:id": 1729303109,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251139,
     "wof:name": "NOW PLAYING: \"Dry Lights\" by #XavierChassaing. This short film creates a surreal, dream-like voyage through a series of site-specific art installations in the vast and varied landscape of southern #Mexico. https://t.co/sF35EXYnTl #VideoArtsSFOM https://t.co/CIL0Dwbs7L",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

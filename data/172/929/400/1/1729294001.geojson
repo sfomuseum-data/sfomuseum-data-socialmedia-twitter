@@ -24,6 +24,16 @@
         "0",
         "83"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "643860667615809536"
+          ],
+          "editableUntil": "2015-09-15T19:25:20.169Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -76,7 +86,7 @@
       }
     ],
     "wof:id": 1729294001,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "Tomorrow is #AskACurator Day.  What would you like to know about an airport museum?",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

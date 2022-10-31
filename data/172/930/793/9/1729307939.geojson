@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1232381863743741953"
+          ],
+          "editableUntil": "2020-02-25T19:38:27.521Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729307939,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251117,
     "wof:name": "RT @flySFO: 🥞 In the 1960's Pancake Palace used to be a restaurant in the old International Terminal (now Terminal 2). The palace offered f…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

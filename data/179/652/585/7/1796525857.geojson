@@ -1,0 +1,198 @@
+{
+  "id": 1796525857,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-08-26",
+    "date:cessation_upper": "2022-08-26",
+    "date:inception_lower": "2022-08-26",
+    "date:inception_upper": "2022-08-26",
+    "edtf:cessation": "2022-08-25T17:12:58-07:00",
+    "edtf:inception": "2022-08-25T17:12:58-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1661472778,
+      "created_at": "Fri Aug 26 00:12:58 +0000 2022",
+      "display_text_range": [
+        "0",
+        "218"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1562956232540860416"
+          ],
+          "editableUntil": "2022-08-26T00:42:58.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "163",
+              "169"
+            ],
+            "text": "PanAm"
+          },
+          {
+            "indices": [
+              "170",
+              "186"
+            ],
+            "text": "DefunctThursday"
+          },
+          {
+            "indices": [
+              "187",
+              "194"
+            ],
+            "text": "AvGeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/uf9F3ZtCI8",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1562956232540860416/photo/1",
+            "id": "1562956019113742337",
+            "id_str": "1562956019113742337",
+            "indices": [
+              "195",
+              "218"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbC8N-7VUAEAFuj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbC8N-7VUAEAFuj.jpg",
+            "sizes": {
+              "large": {
+                "h": "1667",
+                "resize": "fit",
+                "w": "1142"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "822"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "466"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/uf9F3ZtCI8"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/uf9F3ZtCI8",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1562956232540860416/photo/1",
+            "id": "1562956019113742337",
+            "id_str": "1562956019113742337",
+            "indices": [
+              "195",
+              "218"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbC8N-7VUAEAFuj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbC8N-7VUAEAFuj.jpg",
+            "sizes": {
+              "large": {
+                "h": "1667",
+                "resize": "fit",
+                "w": "1142"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "822"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "466"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/uf9F3ZtCI8"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "Along with skyrocketing oil prices, the once profitable routes National operated became unprofitable under Pan Am, which flew its last flight on December 4, 1991.\n#PanAm #DefunctThursday #AvGeek https://t.co/uf9F3ZtCI8",
+      "id": "1562956232540860416",
+      "id_str": "1562956232540860416",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1562956227977482240",
+      "in_reply_to_status_id_str": "1562956227977482240",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251113,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796525857,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796525857,
+    "wof:lastmodified": 1667251113,
+    "wof:name": "Along with skyrocketing oil prices, the once profitable routes National operated became unprofitable under Pan Am, which flew its last flight on December 4, 1991.\n#PanAm #DefunctThursday #AvGeek https://t.co/uf9F3ZtCI8",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

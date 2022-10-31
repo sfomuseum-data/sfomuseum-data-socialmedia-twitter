@@ -21,6 +21,16 @@
         "0",
         "298"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1509618643365031937"
+          ],
+          "editableUntil": "2022-03-31T20:18:26.593Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -128,23 +138,23 @@
               "duration_millis": "56181",
               "variants": [
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1509617895470292993/pu/vid/480x270/YqgB5QgL8nqfq6oC.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1509617895470292993/pu/pl/DtuIdfh6cnb1DMEH.m3u8?tag=12\u0026container=fmp4"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1509617895470292993/pu/vid/1280x720/O4Y2Tv7Ty23qWbRY.mp4?tag=12"
                 },
                 {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1509617895470292993/pu/vid/480x270/YqgB5QgL8nqfq6oC.mp4?tag=12"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1509617895470292993/pu/vid/640x360/4AlpAm3BQ2_0AaKM.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1509617895470292993/pu/pl/DtuIdfh6cnb1DMEH.m3u8?tag=12\u0026container=fmp4"
                 }
               ]
             }
@@ -189,7 +199,7 @@
       }
     ],
     "wof:id": 1763586769,
-    "wof:lastmodified": 1650908088,
+    "wof:lastmodified": 1667251172,
     "wof:name": "During the pandemic, Oakland-based filmmaker Ivan Cash and Los Angeles-based choreographer Jacob Jonas bring people together from all over the world who are dancing, playing music, providing a tour of their refrigerator, and introducing their pets. \n#VideoArts #VideoArtsSFO https://t.co/uU3DHQbYnv",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

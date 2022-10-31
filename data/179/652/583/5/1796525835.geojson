@@ -1,0 +1,238 @@
+{
+  "id": 1796525835,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-10-20",
+    "date:cessation_upper": "2022-10-20",
+    "date:inception_lower": "2022-10-20",
+    "date:inception_upper": "2022-10-20",
+    "edtf:cessation": "2022-10-20T12:40:11-07:00",
+    "edtf:inception": "2022-10-20T12:40:11-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1666294811,
+      "created_at": "Thu Oct 20 19:40:11 +0000 2022",
+      "display_text_range": [
+        "0",
+        "277"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1583181305063256064"
+          ],
+          "editableUntil": "2022-10-20T20:10:11.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "178",
+              "192"
+            ],
+            "text": "carlottasface"
+          },
+          {
+            "indices": [
+              "193",
+              "207"
+            ],
+            "text": "valentinriedl"
+          },
+          {
+            "indices": [
+              "208",
+              "223"
+            ],
+            "text": "frédéricschuld"
+          },
+          {
+            "indices": [
+              "224",
+              "238"
+            ],
+            "text": "faceblindness"
+          },
+          {
+            "indices": [
+              "239",
+              "253"
+            ],
+            "text": "prosopagnosia"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0tCuFkk2qd",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1583181305063256064/video/1",
+            "id": "1583179403579621377",
+            "id_str": "1583179403579621377",
+            "indices": [
+              "254",
+              "277"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FfjJqeJVIAAtcHe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FfjJqeJVIAAtcHe.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/0tCuFkk2qd"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/0tCuFkk2qd",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1583181305063256064/video/1",
+            "id": "1583179403579621377",
+            "id_str": "1583179403579621377",
+            "indices": [
+              "254",
+              "277"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FfjJqeJVIAAtcHe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FfjJqeJVIAAtcHe.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/0tCuFkk2qd",
+            "video_info": {
+              "aspect_ratio": [
+                "16",
+                "9"
+              ],
+              "duration_millis": "29666",
+              "variants": [
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1583179403579621377/pu/vid/480x270/CHG92kp1HSszfBEM.mp4?tag=12"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1583179403579621377/pu/vid/1280x720/C9iZwWtFROnsp83n.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1583179403579621377/pu/pl/ogfzAeeT3usxGJzd.m3u8?tag=12\u0026container=fmp4"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1583179403579621377/pu/vid/640x360/BPrvR9Y0FU5h4gCz.mp4?tag=12"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "German filmmakers Valentin Riedl and Frédéric Schuld explore the world of Carlotta, who utilizes art to overcome a rare brain condition that prevents her from recognizing faces.\n#carlottasface #valentinriedl #frédéricschuld #faceblindness #prosopagnosia https://t.co/0tCuFkk2qd",
+      "id": "1583181305063256064",
+      "id_str": "1583181305063256064",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251112,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796525835,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796525835,
+    "wof:lastmodified": 1667251112,
+    "wof:name": "German filmmakers Valentin Riedl and Frédéric Schuld explore the world of Carlotta, who utilizes art to overcome a rare brain condition that prevents her from recognizing faces.\n#carlottasface #valentinriedl #frédéricschuld #faceblindness #prosopagnosia https://t.co/0tCuFkk2qd",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

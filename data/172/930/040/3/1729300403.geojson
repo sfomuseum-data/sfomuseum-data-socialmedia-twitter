@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "873211591361085441"
+          ],
+          "editableUntil": "2017-06-09T16:44:01.524Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -176,7 +186,7 @@
       }
     ],
     "wof:id": 1729300403,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251150,
     "wof:name": "RT @TodayInTheSky: AP: First black chief pilot at a major airline retires https://t.co/MB9TnGNLE9 - https://t.co/RLGi4S5wwt",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "55"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "119918235587063808"
+          ],
+          "editableUntil": "2011-10-01T00:05:09.994Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729302811,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251181,
     "wof:name": "@brokenchord We're so glad you did! Come back any time!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

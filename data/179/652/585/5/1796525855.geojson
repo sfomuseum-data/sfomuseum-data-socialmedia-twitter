@@ -1,0 +1,250 @@
+{
+  "id": 1796525855,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-08-27",
+    "date:cessation_upper": "2022-08-27",
+    "date:inception_lower": "2022-08-27",
+    "date:inception_upper": "2022-08-27",
+    "edtf:cessation": "2022-08-26T17:53:59-07:00",
+    "edtf:inception": "2022-08-26T17:53:59-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1661561639,
+      "created_at": "Sat Aug 27 00:53:59 +0000 2022",
+      "display_text_range": [
+        "0",
+        "271"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1563328941607116800"
+          ],
+          "editableUntil": "2022-08-27T01:23:59.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "200",
+              "207"
+            ],
+            "text": "avgeek"
+          },
+          {
+            "indices": [
+              "208",
+              "224"
+            ],
+            "text": "WomeninAviation"
+          },
+          {
+            "indices": [
+              "225",
+              "247"
+            ],
+            "text": "WomensEqualityDay2022"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/v13BSIMOVx",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1563328941607116800/photo/1",
+            "id": "1563328381340372995",
+            "id_str": "1563328381340372995",
+            "indices": [
+              "248",
+              "271"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbIO4UUUUAMnArY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbIO4UUUUAMnArY.jpg",
+            "sizes": {
+              "large": {
+                "h": "194",
+                "resize": "fit",
+                "w": "259"
+              },
+              "medium": {
+                "h": "194",
+                "resize": "fit",
+                "w": "259"
+              },
+              "small": {
+                "h": "194",
+                "resize": "fit",
+                "w": "259"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/v13BSIMOVx"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "1225522239686291457",
+            "id_str": "1225522239686291457",
+            "indices": [
+              "22",
+              "34"
+            ],
+            "name": "Captain Zoya",
+            "screen_name": "captainzoya"
+          },
+          {
+            "id": "16408759",
+            "id_str": "16408759",
+            "indices": [
+              "103",
+              "110"
+            ],
+            "name": "San Francisco International Airport (SFO) ✈️",
+            "screen_name": "flySFO"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/v13BSIMOVx",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1563328941607116800/photo/1",
+            "id": "1563328381340372995",
+            "id_str": "1563328381340372995",
+            "indices": [
+              "248",
+              "271"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbIO4UUUUAMnArY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbIO4UUUUAMnArY.jpg",
+            "sizes": {
+              "large": {
+                "h": "194",
+                "resize": "fit",
+                "w": "259"
+              },
+              "medium": {
+                "h": "194",
+                "resize": "fit",
+                "w": "259"
+              },
+              "small": {
+                "h": "194",
+                "resize": "fit",
+                "w": "259"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/v13BSIMOVx"
+          },
+          {
+            "display_url": "pic.twitter.com/v13BSIMOVx",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1563328941607116800/photo/1",
+            "id": "1563328381340438536",
+            "id_str": "1563328381340438536",
+            "indices": [
+              "248",
+              "271"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbIO4UUVUAgasbY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbIO4UUVUAgasbY.jpg",
+            "sizes": {
+              "large": {
+                "h": "294",
+                "resize": "fit",
+                "w": "171"
+              },
+              "medium": {
+                "h": "294",
+                "resize": "fit",
+                "w": "171"
+              },
+              "small": {
+                "h": "294",
+                "resize": "fit",
+                "w": "171"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/v13BSIMOVx"
+          }
+        ]
+      },
+      "favorite_count": "24",
+      "favorited": false,
+      "full_text": "Captain Zoya Agarwal (@CaptainZoya) led an all-female crew for a record-breaking @AirIndia flight from @flySFO to Bengaluru over the North Pole to celebrate International Women’s Day in January 2021. #avgeek #WomeninAviation #WomensEqualityDay2022 https://t.co/v13BSIMOVx",
+      "id": "1563328941607116800",
+      "id_str": "1563328941607116800",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251113,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796525855,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796525855,
+    "wof:lastmodified": 1667251113,
+    "wof:name": "Captain Zoya Agarwal (@CaptainZoya) led an all-female crew for a record-breaking @AirIndia flight from @flySFO to Bengaluru over the North Pole to celebrate International Women’s Day in January 2021. #avgeek #WomeninAviation #WomensEqualityDay2022 https://t.co/v13BSIMOVx",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

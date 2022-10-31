@@ -24,6 +24,16 @@
         "0",
         "273"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1232837769489076224"
+          ],
+          "editableUntil": "2020-02-27T01:50:03.921Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -136,6 +146,11 @@
                   "url": "https://video.twimg.com/ext_tw_video/1232836844246560768/pu/vid/480x270/yj5QcG7-971NEPzR.mp4?tag=10"
                 },
                 {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1232836844246560768/pu/vid/1280x720/FG4l_fc1BAPrPWNj.mp4?tag=10"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1232836844246560768/pu/vid/640x360/CQUnGNwnhXd8jQIw.mp4?tag=10"
@@ -143,11 +158,6 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1232836844246560768/pu/pl/zLeMdUGLEpZFRbnB.m3u8?tag=10"
-                },
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1232836844246560768/pu/vid/1280x720/FG4l_fc1BAPrPWNj.mp4?tag=10"
                 }
               ]
             }
@@ -193,7 +203,7 @@
       }
     ],
     "wof:id": 1729308037,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251117,
     "wof:name": "Using off-the-shelf materials and the occasional found object, #LeonardoDrew creates sculptures whose metaphorical power is located within his labor-intensive manipulation of materials and the spatial dynamics of his compositions. #BlackHistoryMonth https://t.co/O6Pdrh2uoJ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

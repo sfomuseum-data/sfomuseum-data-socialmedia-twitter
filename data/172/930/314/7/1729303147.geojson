@@ -24,6 +24,16 @@
         "0",
         "47"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "997540131245506560"
+          ],
+          "editableUntil": "2018-05-18T18:41:15.345Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -53,7 +63,7 @@
       "full_text": "#InternationalMuseumDay https://t.co/NDBonew4ec",
       "id": "997540131245506560",
       "id_str": "997540131245506560",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "2",
       "retweeted": false,
@@ -87,7 +97,7 @@
       }
     ],
     "wof:id": 1729303147,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251139,
     "wof:name": "#InternationalMuseumDay https://t.co/NDBonew4ec",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

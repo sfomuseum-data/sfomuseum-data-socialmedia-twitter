@@ -24,19 +24,29 @@
         "0",
         "130"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "125971963771502592"
+          ],
+          "editableUntil": "2011-10-17T17:00:31.266Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
         "urls": [],
         "user_mentions": [
           {
-            "id": "48453924",
-            "id_str": "48453924",
+            "id": "1515226318400491527",
+            "id_str": "1515226318400491527",
             "indices": [
               "0",
               "8"
             ],
-            "name": "Ted Beam",
+            "name": "Pilgrim",
             "screen_name": "tedbeam"
           }
         ]
@@ -81,7 +91,7 @@
       }
     ],
     "wof:id": 1729310063,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251180,
     "wof:name": "@TedBeam We're glad you liked the exhibit! It's hard to imagine why demin-clad tvs (or anything, really) aren't more popular... :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

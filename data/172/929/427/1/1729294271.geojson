@@ -24,6 +24,16 @@
         "0",
         "128"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "654144735473500161"
+          ],
+          "editableUntil": "2015-10-14T04:30:33.015Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -155,7 +165,7 @@
       }
     ],
     "wof:id": 1729294271,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "A typical roundtrip fare on TWA in 1933 from LA to SF was $34.11, or more than $600 today. #TravelTuesday http://t.co/b6RIjxLOYI",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

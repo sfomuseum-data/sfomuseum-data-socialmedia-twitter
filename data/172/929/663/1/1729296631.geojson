@@ -24,6 +24,16 @@
         "0",
         "111"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "144192371754672128"
+          ],
+          "editableUntil": "2011-12-06T23:41:55.048Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729296631,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251179,
     "wof:name": "@jblock Thanks for taking a look at our exhibit, \"Revolutions per Minute\"! We're very glad that you enjoyed it!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

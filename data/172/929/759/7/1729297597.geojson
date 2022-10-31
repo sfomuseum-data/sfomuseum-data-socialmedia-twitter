@@ -24,6 +24,16 @@
         "0",
         "88"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "768508154434887680"
+          ],
+          "editableUntil": "2016-08-24T18:29:56.865Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -234,7 +244,7 @@
       }
     ],
     "wof:id": 1729297597,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251163,
     "wof:name": "RT @flySFO: New @SFOMuseum Exhibit! https://t.co/H2D1KCRx5y #sfo https://t.co/5dXrbludTZ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

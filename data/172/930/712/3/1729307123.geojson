@@ -24,6 +24,16 @@
         "0",
         "138"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "170655326255853570"
+          ],
+          "editableUntil": "2012-02-18T00:16:15.059Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -38,18 +48,7 @@
             "url": "http://t.co/4Su11vPH"
           }
         ],
-        "user_mentions": [
-          {
-            "id": "9824842",
-            "id_str": "9824842",
-            "indices": [
-              "42",
-              "54"
-            ],
-            "name": "Rob Hennigar",
-            "screen_name": "robhennigar"
-          }
-        ]
+        "user_mentions": []
       },
       "favorite_count": "0",
       "favorited": false,
@@ -90,7 +89,7 @@
       }
     ],
     "wof:id": 1729307123,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251179,
     "wof:name": "We're delighted to propell yr desires! MT @robhennigar: Classic example of great design from SFO museum. I need this: http://t.co/4Su11vPH",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

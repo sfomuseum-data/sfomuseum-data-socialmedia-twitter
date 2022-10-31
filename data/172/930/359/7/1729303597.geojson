@@ -24,6 +24,16 @@
         "0",
         "299"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1011401907724644352"
+          ],
+          "editableUntil": "2018-06-26T00:43:00.397Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -173,13 +183,9 @@
               "duration_millis": "30072",
               "variants": [
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1011401581831417856/pu/vid/1280x720/5YTMMX9MdBYX9vyf.mp4?tag=3"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1011401581831417856/pu/pl/GupR5bRseP6fx995.m3u8?tag=3"
+                  "url": "https://video.twimg.com/ext_tw_video/1011401581831417856/pu/vid/640x360/SY8kIpxwIvH-n_NY.mp4?tag=3"
                 },
                 {
                   "bitrate": "256000",
@@ -187,9 +193,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1011401581831417856/pu/vid/320x180/YeG1emjAgfxvVj0n.mp4?tag=3"
                 },
                 {
-                  "bitrate": "832000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1011401581831417856/pu/vid/640x360/SY8kIpxwIvH-n_NY.mp4?tag=3"
+                  "url": "https://video.twimg.com/ext_tw_video/1011401581831417856/pu/vid/1280x720/5YTMMX9MdBYX9vyf.mp4?tag=3"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1011401581831417856/pu/pl/GupR5bRseP6fx995.m3u8?tag=3"
                 }
               ]
             }
@@ -235,7 +245,7 @@
       }
     ],
     "wof:id": 1729303597,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251137,
     "wof:name": "NOW PLAYING: \"The Queen of My Dreams\" by #RyanLogan (@thatryanlogan) and #FawziaMirza (@thefawz) In this film made with Logan, Mirza reimagines the plot of the classic film Aradhana with a distinctively #queer take on the epic #romance. #VideoArtsSFOM https://t.co/koah8hUByd https://t.co/8vWpf7AMgA",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

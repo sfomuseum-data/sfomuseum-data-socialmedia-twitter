@@ -21,6 +21,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1483494185235742720"
+          ],
+          "editableUntil": "2022-01-18T18:09:10.406Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -75,7 +85,7 @@
       }
     ],
     "wof:id": 1763586247,
-    "wof:lastmodified": 1650908065,
+    "wof:lastmodified": 1667251178,
     "wof:name": "RT @airandspace: On this day in 1911, Eugene Burton Ely made history when he became the first person to both land on and take-off from a na…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

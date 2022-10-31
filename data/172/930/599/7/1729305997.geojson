@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1123282817482248194"
+          ],
+          "editableUntil": "2019-04-30T18:17:47.930Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729305997,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251125,
     "wof:name": "RT @airandspace: Today in 1928, Spirit of St. Louis made its final flight to DC where Charles Lindbergh presented the aircraft to the Smith…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "525386657437347840"
+          ],
+          "editableUntil": "2014-10-23T21:11:55.002Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729292633,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "If you've flown through @flySFO recently, no doubt you've seen the gorgeous new control tower under… http://t.co/MISMnPx3mJ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

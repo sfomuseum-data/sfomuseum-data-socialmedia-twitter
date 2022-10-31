@@ -24,72 +24,18 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "256179199902117888"
+          ],
+          "editableUntil": "2012-10-11T00:17:35.493Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "67",
-              "71"
-            ],
-            "text": "SFO"
-          },
-          {
-            "indices": [
-              "95",
-              "104"
-            ],
-            "text": "SFGiants"
-          },
-          {
-            "indices": [
-              "105",
-              "119"
-            ],
-            "text": "OrangeOctober"
-          }
-        ],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/vIAYksEK",
-            "expanded_url": "https://twitter.com/NicoyaCharm/status/255509762563780608/photo/1",
-            "id": "255509762572169216",
-            "id_str": "255509762572169216",
-            "indices": [
-              "120",
-              "140"
-            ],
-            "media_url": "http://pbs.twimg.com/media/A4vAxnrCMAADPEt.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/A4vAxnrCMAADPEt.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "255509762563780608",
-            "source_status_id_str": "255509762563780608",
-            "source_user_id": "150446026",
-            "source_user_id_str": "150446026",
-            "type": "photo",
-            "url": "http://t.co/vIAYksEK"
-          }
-        ],
+        "hashtags": [],
         "symbols": [],
         "urls": [],
         "user_mentions": [
@@ -102,70 +48,6 @@
             ],
             "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
-          },
-          {
-            "id": "150446026",
-            "id_str": "150446026",
-            "indices": [
-              "33",
-              "45"
-            ],
-            "name": "Wash Your Hands",
-            "screen_name": "NicoyaCharm"
-          },
-          {
-            "id": "43024351",
-            "id_str": "43024351",
-            "indices": [
-              "85",
-              "94"
-            ],
-            "name": "SFGiants",
-            "screen_name": "SFGiants"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/vIAYksEK",
-            "expanded_url": "https://twitter.com/NicoyaCharm/status/255509762563780608/photo/1",
-            "id": "255509762572169216",
-            "id_str": "255509762572169216",
-            "indices": [
-              "120",
-              "140"
-            ],
-            "media_url": "http://pbs.twimg.com/media/A4vAxnrCMAADPEt.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/A4vAxnrCMAADPEt.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "255509762563780608",
-            "source_status_id_str": "255509762563780608",
-            "source_user_id": "150446026",
-            "source_user_id_str": "150446026",
-            "type": "photo",
-            "url": "http://t.co/vIAYksEK"
           }
         ]
       },
@@ -175,7 +57,6 @@
       "id": "256179199902117888",
       "id_str": "256179199902117888",
       "lang": "en",
-      "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
@@ -208,7 +89,7 @@
       }
     ],
     "wof:id": 1729310761,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "RT @flySFO: Can't lose faith! RT @nicoyacharm: We are still alive. #SFO showing love @SFGiants #SFGiants #OrangeOctober http://t.co/vIAYksEK",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

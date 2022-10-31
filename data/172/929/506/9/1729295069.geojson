@@ -24,6 +24,16 @@
         "0",
         "139"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "693510308883726336"
+          ],
+          "editableUntil": "2016-01-30T19:35:17.093Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -108,14 +118,14 @@
           }
         ]
       },
-      "favorite_count": "5",
+      "favorite_count": "4",
       "favorited": false,
       "full_text": "In 1935, a Pan American Airways Sikorsky S-42 passed through the Golden Gate on the first survey flight to Hawai’i. https://t.co/yarDA2MBZT",
       "id": "693510308883726336",
       "id_str": "693510308883726336",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "5",
+      "retweet_count": "4",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -147,7 +157,7 @@
       }
     ],
     "wof:id": 1729295069,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "In 1935, a Pan American Airways Sikorsky S-42 passed through the Golden Gate on the first survey flight to Hawai’i. https://t.co/yarDA2MBZT",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

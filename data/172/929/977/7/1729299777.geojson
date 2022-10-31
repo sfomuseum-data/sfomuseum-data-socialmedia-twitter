@@ -24,6 +24,16 @@
         "0",
         "92"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "844597965838675968"
+          ],
+          "editableUntil": "2017-03-22T17:43:41.584Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -143,14 +153,8 @@
               "duration_millis": "191525",
               "variants": [
                 {
-                  "bitrate": "320000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/844594758404075520/vid/320x180/Hmbrnw2gMgdwuExP.mp4"
-                },
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/844594758404075520/vid/640x360/TwzdjAYwI4XuEF_i.mp4"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/844594758404075520/pl/N3LLnT1hwB7WH4YH.m3u8"
                 },
                 {
                   "bitrate": "2176000",
@@ -158,8 +162,14 @@
                   "url": "https://video.twimg.com/amplify_video/844594758404075520/vid/1280x720/E0XNQS-y7h92sdqh.mp4"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/amplify_video/844594758404075520/pl/N3LLnT1hwB7WH4YH.m3u8"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/844594758404075520/vid/640x360/TwzdjAYwI4XuEF_i.mp4"
+                },
+                {
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/844594758404075520/vid/320x180/Hmbrnw2gMgdwuExP.mp4"
                 }
               ]
             }
@@ -205,7 +215,7 @@
       }
     ],
     "wof:id": 1729299777,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251153,
     "wof:name": "RT @WIRED: Confused about the electronics ban? We've got you covered https://t.co/sNxZmVhsfc",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

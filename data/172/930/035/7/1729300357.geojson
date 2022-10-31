@@ -24,6 +24,16 @@
         "0",
         "120"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "874726476150697987"
+          ],
+          "editableUntil": "2017-06-13T21:03:38.203Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -176,7 +186,7 @@
       }
     ],
     "wof:id": 1729300357,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251150,
     "wof:name": "RT @flightradar24: The third Boeing 787-10 test frame is now flying. \n\n📡 https://t.co/uhRDCOozSW https://t.co/c277KmJioy",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

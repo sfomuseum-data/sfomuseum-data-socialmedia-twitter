@@ -24,6 +24,16 @@
         "0",
         "285"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1062458042044755968"
+          ],
+          "editableUntil": "2018-11-13T22:01:51.396Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -152,23 +162,23 @@
               "duration_millis": "31333",
               "variants": [
                 {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1062457987803971584/pu/vid/1280x720/24I5vCSpmb32nD4M.mp4?tag=5"
+                },
+                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1062457987803971584/pu/vid/320x180/pEN7grgh0k0DTx6n.mp4?tag=5"
-                },
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1062457987803971584/pu/vid/640x360/N0wiIV5Akf85bylN.mp4?tag=5"
                 },
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1062457987803971584/pu/pl/OjqoKVnTcDkNS60x.m3u8?tag=5"
                 },
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1062457987803971584/pu/vid/1280x720/24I5vCSpmb32nD4M.mp4?tag=5"
+                  "url": "https://video.twimg.com/ext_tw_video/1062457987803971584/pu/vid/640x360/N0wiIV5Akf85bylN.mp4?tag=5"
                 }
               ]
             }
@@ -214,7 +224,7 @@
       }
     ],
     "wof:id": 1729304765,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251131,
     "wof:name": "NOW PLAYING: \"Random Walks\" by Borbála Tompa. What is it like to be an immigrant? Filmmaker $BorbálaTompa animates the fears, challenges, and aspirations of five #immigrants in #Budapest whose futures remain undetermined. #VideoArtsSFOM ##immigration #animation https://t.co/wnoKKwhlBP",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

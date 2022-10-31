@@ -24,6 +24,16 @@
         "0",
         "36"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "138656863825825793"
+          ],
+          "editableUntil": "2011-11-21T17:05:47.113Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -72,7 +82,7 @@
       }
     ],
     "wof:id": 1729293099,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251180,
     "wof:name": "@sadaranis We're working on it... :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

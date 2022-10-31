@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "116217783158714368"
+          ],
+          "editableUntil": "2011-09-20T19:00:53.384Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729290535,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251181,
     "wof:name": "RT @flySFO: Nothing better than listening 2 an audio tour while waiting to board your flight. Introducing SFO's T2 iTunes Art Tour! http ...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

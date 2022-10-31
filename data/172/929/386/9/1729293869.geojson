@@ -24,6 +24,16 @@
         "0",
         "65"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "634092922045136896"
+          ],
+          "editableUntil": "2015-08-19T20:31:48.149Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -76,7 +86,7 @@
       }
     ],
     "wof:id": 1729293869,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "Happy #NationalAviationDay! Where did you go on your last flight?",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

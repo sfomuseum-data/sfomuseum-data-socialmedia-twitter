@@ -24,6 +24,16 @@
         "0",
         "292"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1001887712796786688"
+          ],
+          "editableUntil": "2018-05-30T18:36:59.561Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -147,11 +157,6 @@
               "duration_millis": "36954",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1001886701428457472/pu/vid/1280x720/J81dhTnnV6HKHpLa.mp4?tag=3"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1001886701428457472/pu/vid/640x360/zyE4SMQZJTao7H-v.mp4?tag=3"
@@ -164,6 +169,11 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1001886701428457472/pu/pl/5YqWh2tLljVxN9bp.m3u8?tag=3"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1001886701428457472/pu/vid/1280x720/J81dhTnnV6HKHpLa.mp4?tag=3"
                 }
               ]
             }
@@ -209,7 +219,7 @@
       }
     ],
     "wof:id": 1729303283,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251139,
     "wof:name": "NOW PLAYING: \"Agent of Connection\" by Ivan Cash. Filmmaker Ivan Cash profiles William Cromartie, a @SFBART station agent and @Cal alumnus, who finds meaning in the simple act of saying hello to the thousands of commuters he encounters each day. https://t.co/xrSvoeLgao https://t.co/XVddHn9sCr",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

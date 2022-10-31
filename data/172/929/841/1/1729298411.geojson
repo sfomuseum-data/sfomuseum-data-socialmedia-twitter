@@ -24,6 +24,16 @@
         "0",
         "46"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "794656117263663106"
+          ],
+          "editableUntil": "2016-11-04T22:12:37.009Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -66,7 +76,7 @@
       "full_text": "RT @flySFO: @SFOMuseum https://t.co/GiPrXVq8vs",
       "id": "794656117263663106",
       "id_str": "794656117263663106",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
@@ -100,7 +110,7 @@
       }
     ],
     "wof:id": 1729298411,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251161,
     "wof:name": "RT @flySFO: @SFOMuseum https://t.co/GiPrXVq8vs",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

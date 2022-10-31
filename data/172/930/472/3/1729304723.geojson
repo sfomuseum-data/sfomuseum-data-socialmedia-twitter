@@ -24,6 +24,16 @@
         "0",
         "66"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1064642559601926144"
+          ],
+          "editableUntil": "2018-11-19T22:42:20.968Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -46,7 +56,7 @@
               "10",
               "20"
             ],
-            "name": "Questo",
+            "name": "Dr. Love",
             "screen_name": "questlove"
           }
         ]
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729304723,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251131,
     "wof:name": "Thanks to @questlove for the shout out! ❤️ https://t.co/oM7INJ4J15",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

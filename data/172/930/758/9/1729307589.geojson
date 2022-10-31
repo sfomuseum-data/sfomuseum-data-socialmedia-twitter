@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1207007317838848000"
+          ],
+          "editableUntil": "2019-12-17T19:09:04.341Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729307589,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251119,
     "wof:name": "RT @airandspace: Today in 1903, the Wright Flyer became the first powered, heavier-than-air machine to achieve controlled, sustained flight…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

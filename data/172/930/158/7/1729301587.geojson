@@ -24,6 +24,16 @@
         "0",
         "132"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "927946894814277633"
+          ],
+          "editableUntil": "2017-11-07T17:42:34.800Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -96,7 +106,7 @@
               "44",
               "51"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           },
           {
@@ -314,7 +324,7 @@
       }
     ],
     "wof:id": 1729301587,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251145,
     "wof:name": "RT @AirlineGeeks: Good morning from Gate 86 @flySFO where @United’s last 747 will depart from #UA747Farewell https://t.co/4kL9g3VEea",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

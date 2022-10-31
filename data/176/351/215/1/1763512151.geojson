@@ -21,6 +21,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1389354372769882112"
+          ],
+          "editableUntil": "2021-05-03T23:31:10.081Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -95,7 +105,7 @@
       }
     ],
     "wof:id": 1763512151,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251184,
     "wof:name": "RT @thisisaaronland: I wrote a blog post / about updating @sfomuseum ’s geotagging application / to support @protomaps map tiles / and inte…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

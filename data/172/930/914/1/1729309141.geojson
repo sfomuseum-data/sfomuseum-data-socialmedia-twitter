@@ -24,6 +24,16 @@
         "0",
         "95"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "185764451402792962"
+          ],
+          "editableUntil": "2012-03-30T16:54:31.208Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729309141,
-    "wof:lastmodified": 1650908054,
+    "wof:lastmodified": 1667251179,
     "wof:name": "@scaevolae Thanks for checking out our exhibit, Threading the Needle! We hope you enjoyed it :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

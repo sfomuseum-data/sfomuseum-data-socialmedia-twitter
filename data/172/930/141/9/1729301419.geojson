@@ -24,6 +24,16 @@
         "0",
         "47"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "923342754150694912"
+          ],
+          "editableUntil": "2017-10-26T00:47:22.125Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -140,7 +150,7 @@
       "full_text": "RT @FlyPanAm: #FlyPanAm https://t.co/eX2hqMU97p",
       "id": "923342754150694912",
       "id_str": "923342754150694912",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
@@ -174,7 +184,7 @@
       }
     ],
     "wof:id": 1729301419,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251145,
     "wof:name": "RT @FlyPanAm: #FlyPanAm https://t.co/eX2hqMU97p",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

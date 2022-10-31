@@ -24,6 +24,16 @@
         "0",
         "92"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "829446080341237760"
+          ],
+          "editableUntil": "2017-02-08T22:15:30.573Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -176,7 +186,7 @@
       }
     ],
     "wof:id": 1729299229,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251157,
     "wof:name": "RT @cjmcginnis: How often are planes washed? https://t.co/az64zPy6vI https://t.co/qiDbwLSuSZ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

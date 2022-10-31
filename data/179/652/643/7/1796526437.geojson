@@ -1,0 +1,179 @@
+{
+  "id": 1796526437,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-06-28",
+    "date:cessation_upper": "2022-06-28",
+    "date:inception_lower": "2022-06-28",
+    "date:inception_upper": "2022-06-28",
+    "edtf:cessation": "2022-06-28T13:03:13-07:00",
+    "edtf:inception": "2022-06-28T13:03:13-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1656446593,
+      "created_at": "Tue Jun 28 20:03:13 +0000 2022",
+      "display_text_range": [
+        "0",
+        "301"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1541874884782854144"
+          ],
+          "editableUntil": "2022-06-28T20:33:13.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "258",
+              "277"
+            ],
+            "text": "EarlyWomenAviators"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/t8fzuMCOJ3",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1541874884782854144/photo/1",
+            "id": "1541874034492596224",
+            "id_str": "1541874034492596224",
+            "indices": [
+              "278",
+              "301"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FWXWQ-JUYAAGAzL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FWXWQ-JUYAAGAzL.jpg",
+            "sizes": {
+              "large": {
+                "h": "1411",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "847",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "480",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/t8fzuMCOJ3"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/t8fzuMCOJ3",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1541874884782854144/photo/1",
+            "id": "1541874034492596224",
+            "id_str": "1541874034492596224",
+            "indices": [
+              "278",
+              "301"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FWXWQ-JUYAAGAzL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FWXWQ-JUYAAGAzL.jpg",
+            "sizes": {
+              "large": {
+                "h": "1411",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "847",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "480",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/t8fzuMCOJ3"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Matilde Moisant was born in Indiana and learned to fly at her brother’s Moisant Aviation School. Instructed along with her friend Harriet Quimby, Moisant earned her pilot’s license in 1911. She was the second licensed woman aviator in the U.S. at that time. #EarlyWomenAviators https://t.co/t8fzuMCOJ3",
+      "id": "1541874884782854144",
+      "id_str": "1541874884782854144",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251139,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796526437,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796526437,
+    "wof:lastmodified": 1667251139,
+    "wof:name": "Matilde Moisant was born in Indiana and learned to fly at her brother’s Moisant Aviation School. Instructed along with her friend Harriet Quimby, Moisant earned her pilot’s license in 1911. She was the second licensed woman aviator in the U.S. at that time. #EarlyWomenAviators https://t.co/t8fzuMCOJ3",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

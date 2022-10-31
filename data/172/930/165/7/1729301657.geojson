@@ -24,6 +24,16 @@
         "0",
         "126"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "927990710103457792"
+          ],
+          "editableUntil": "2017-11-07T20:36:41.179Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -143,15 +153,6 @@
               "duration_millis": "24502",
               "variants": [
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/927989584390008833/pu/vid/320x180/-zBgoQXZa0DIN5lI.mp4"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/927989584390008833/pu/pl/axR17yvmNGkbHPCH.m3u8"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/927989584390008833/pu/vid/1280x720/YVRAyoHBZ8cHvXSC.mp4"
@@ -160,6 +161,15 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/927989584390008833/pu/vid/640x360/eUW2jdoWZ_wZYZw2.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/927989584390008833/pu/pl/axR17yvmNGkbHPCH.m3u8"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/927989584390008833/pu/vid/320x180/-zBgoQXZa0DIN5lI.mp4"
                 }
               ]
             }
@@ -205,7 +215,7 @@
       }
     ],
     "wof:id": 1729301657,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251145,
     "wof:name": "RT @krisvancleave: And the Queen has departed SFO for HNL on last time. Goodbye friend. #ua747farewell https://t.co/w2MpdW8iiv",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

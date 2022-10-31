@@ -24,6 +24,16 @@
         "0",
         "80"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "578708518179639296"
+          ],
+          "editableUntil": "2015-03-20T00:33:57.275Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -68,7 +78,7 @@
               "22",
               "29"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           }
         ]
@@ -112,7 +122,7 @@
       }
     ],
     "wof:id": 1729293193,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "#ThrowbackThursday to @flySFO in 1942: http://t.co/rr8szFgGW5 #sfhistory #avgeek",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

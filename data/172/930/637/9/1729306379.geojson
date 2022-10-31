@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1140675695581921280"
+          ],
+          "editableUntil": "2019-06-17T18:10:53.213Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729306379,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251125,
     "wof:name": "RT @dlflightmuseum: “Welcome aboard Delta’s first passenger flight from Dallas to Jackson” Today is the 90th anniversary of Delta’s passeng…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

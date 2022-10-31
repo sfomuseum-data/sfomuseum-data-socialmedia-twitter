@@ -24,6 +24,16 @@
         "0",
         "267"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1131728696014827521"
+          ],
+          "editableUntil": "2019-05-24T01:38:42.289Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -124,18 +134,18 @@
               "duration_millis": "29997",
               "variants": [
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1131728533238308864/pu/vid/1280x720/RMp2MQVVbAt_Td-4.mp4?tag=9"
+                  "url": "https://video.twimg.com/ext_tw_video/1131728533238308864/pu/vid/320x180/wsVKJIcTPp7yPhJa.mp4?tag=9"
                 },
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1131728533238308864/pu/pl/eFQQ_T4M7RuuEn5E.m3u8?tag=9"
                 },
                 {
-                  "bitrate": "256000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1131728533238308864/pu/vid/320x180/wsVKJIcTPp7yPhJa.mp4?tag=9"
+                  "url": "https://video.twimg.com/ext_tw_video/1131728533238308864/pu/vid/1280x720/RMp2MQVVbAt_Td-4.mp4?tag=9"
                 },
                 {
                   "bitrate": "832000",
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729306199,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251125,
     "wof:name": "The Savoy-Doucet Cajun Band has performed together since 1977. Composed of members, Marc Savoy, Ann Savoy, and Michael Doucet, they have played important roles in the preservation and revitalization of Cajun music and culture. #storyofarhoolie https://t.co/VRTK0UpcsH",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

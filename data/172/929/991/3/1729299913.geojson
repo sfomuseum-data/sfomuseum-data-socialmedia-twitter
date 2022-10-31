@@ -24,6 +24,16 @@
         "0",
         "120"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "852960722648576000"
+          ],
+          "editableUntil": "2017-04-14T19:34:18.180Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729299913,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251153,
     "wof:name": "RT @washingtonpost: California’s wildflower super bloom is so prolific you can see it from space\nhttps://t.co/kMlRtKY5Ep",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

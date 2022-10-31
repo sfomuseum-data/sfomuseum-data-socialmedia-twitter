@@ -24,6 +24,16 @@
         "0",
         "43"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "241669347553189888"
+          ],
+          "editableUntil": "2012-08-31T23:20:37.113Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729310435,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "@glenfye Hello! We are using FileMaker Pro.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

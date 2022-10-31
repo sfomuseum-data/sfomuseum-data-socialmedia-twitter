@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "287280502921113602"
+          ],
+          "editableUntil": "2013-01-04T20:03:03.967Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729311369,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251177,
     "wof:name": "@DaddyBird Glad to hear it!!  Fun factoid: Larry Sultan's mural (A7) is a photo with each pixel represented by a 1in. tile.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

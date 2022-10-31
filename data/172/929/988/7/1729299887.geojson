@@ -24,6 +24,16 @@
         "0",
         "102"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "849661559731179520"
+          ],
+          "editableUntil": "2017-04-05T17:04:36.445Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729299887,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251153,
     "wof:name": "RT @WIRED: Sitting in the middle seat is the worst. But it may not be for long https://t.co/FRpbSNwJok",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "121"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "762045817591037952"
+          ],
+          "editableUntil": "2016-08-06T22:30:55.697Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -133,14 +143,14 @@
           }
         ]
       },
-      "favorite_count": "2",
+      "favorite_count": "1",
       "favorited": false,
       "full_text": "See this fantastic outfit and others by #EmilioPucci in #FashionInFlight. https://t.co/UbL4YNFAUD https://t.co/NdaBSjpxBR",
       "id": "762045817591037952",
       "id_str": "762045817591037952",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "1",
+      "retweet_count": "0",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -172,7 +182,7 @@
       }
     ],
     "wof:id": 1729297309,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251166,
     "wof:name": "See this fantastic outfit and others by #EmilioPucci in #FashionInFlight. https://t.co/UbL4YNFAUD https://t.co/NdaBSjpxBR",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

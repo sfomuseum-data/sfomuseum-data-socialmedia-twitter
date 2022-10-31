@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "499674798650556417"
+          ],
+          "editableUntil": "2014-08-13T22:22:10.164Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729292361,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251174,
     "wof:name": "The distant buildings of the Presidio are barely visible in the background of this section of a 360… http://t.co/GFgiOZOtVS",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "52"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "844324455417503744"
+          ],
+          "editableUntil": "2017-03-21T23:36:51.618Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729299785,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251153,
     "wof:name": "RT @WIRED: Thank you, robots https://t.co/F6QzrnYy2h",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

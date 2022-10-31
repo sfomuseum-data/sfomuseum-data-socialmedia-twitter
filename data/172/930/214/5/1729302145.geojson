@@ -24,6 +24,16 @@
         "0",
         "85"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "159330817888366592"
+          ],
+          "editableUntil": "2012-01-17T18:16:41.865Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729302145,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251179,
     "wof:name": "@alancross Thank you for a lovely blog post on our exhibit, \"Revolutions per Minute\"!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

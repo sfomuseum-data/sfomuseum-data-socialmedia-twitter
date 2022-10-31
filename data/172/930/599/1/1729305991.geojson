@@ -24,6 +24,16 @@
         "0",
         "238"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1123337055050784768"
+          ],
+          "editableUntil": "2019-04-30T21:53:19.174Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -124,14 +134,13 @@
               "duration_millis": "30013",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1123336949765296128/pu/vid/640x360/B-ewKKdWSyJH4kuW.mp4?tag=10"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1123336949765296128/pu/vid/1280x720/luwyC2Q0yiZXOfot.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1123336949765296128/pu/pl/UVwBx9xxWE9f0b1k.m3u8?tag=10"
                 },
                 {
                   "bitrate": "256000",
@@ -139,8 +148,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1123336949765296128/pu/vid/480x270/VacaMyrjyQ5s9-sk.mp4?tag=10"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1123336949765296128/pu/pl/UVwBx9xxWE9f0b1k.m3u8?tag=10"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1123336949765296128/pu/vid/640x360/B-ewKKdWSyJH4kuW.mp4?tag=10"
                 }
               ]
             }
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729305991,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251125,
     "wof:name": "“So long, so long / Best of friends, they got apart / You know some may be your lover, some may be the one / Oh yes, may be the one breakin' your heart” - “Bad Luck N’ Trouble” by Lightnin’ Hopkins #StoryofArhoolie https://t.co/ZOaT8JvRVX",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "93"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1045789140506169345"
+          ],
+          "editableUntil": "2018-09-28T22:05:35.576Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -176,7 +186,7 @@
       }
     ],
     "wof:id": 1729304281,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251135,
     "wof:name": "RT @museumofflight: We are live from the 747! https://t.co/SQfo6Snldc https://t.co/SyOoLBNSBh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

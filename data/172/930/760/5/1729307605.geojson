@@ -24,6 +24,16 @@
         "0",
         "303"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1213171409154760704"
+          ],
+          "editableUntil": "2020-01-03T19:22:58.234Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -134,6 +144,15 @@
               "duration_millis": "42000",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1213171320868888576/pu/pl/1laqRg5Aa_ica5K8.m3u8?tag=10"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1213171320868888576/pu/vid/480x270/DligHWp3vZdRhela.mp4?tag=10"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1213171320868888576/pu/vid/640x360/EXG2EjyhbKG2kpPE.mp4?tag=10"
@@ -142,15 +161,6 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1213171320868888576/pu/vid/1280x720/J0BeypJHoh2-Oih4.mp4?tag=10"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1213171320868888576/pu/pl/1laqRg5Aa_ica5K8.m3u8?tag=10"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1213171320868888576/pu/vid/480x270/DligHWp3vZdRhela.mp4?tag=10"
                 }
               ]
             }
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729307605,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251119,
     "wof:name": "NOW PLAYING: \"A Year along the Geostationary Orbit\" by Felix Dierich. Dierich provides a hypnotic vision of our planet through the eyes of Himawari-8, which travels 35,786 km/22,236 miles above Earth at more than 11,000 km/6,800 miles/hour. https://t.co/LxKFoRgL5o #VideoArtsSFOM https://t.co/k9b39zau4F",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "298"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1187578995463749632"
+          ],
+          "editableUntil": "2019-10-25T04:27:51.326Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -144,13 +154,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1187578915956510721/pu/vid/858x360/Dn3ZQu1Mick-KBrw.mp4?tag=10"
                 },
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1187578915956510721/pu/pl/VvqLip9iyKichM8_.m3u8?tag=10"
+                },
+                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1187578915956510721/pu/vid/644x270/uIqyXKYTz1kIFuxl.mp4?tag=10"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1187578915956510721/pu/pl/VvqLip9iyKichM8_.m3u8?tag=10"
                 }
               ]
             }
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729307301,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251121,
     "wof:name": "NOW PLAYING: “Emptying the Tank” by Caroline Monnet.  Monnet presents a striking portrait of mixed martial artist Ashley Nichols, who joins the ceremonial traits of Muay Thai with the spiritual observances of her own Chippewa ancestry. https://t.co/iHRZzBI1OL #VideoArtsSFOM https://t.co/z56ZJZMFvR",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

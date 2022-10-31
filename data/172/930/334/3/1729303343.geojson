@@ -24,6 +24,16 @@
         "0",
         "195"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1004149331786493953"
+          ],
+          "editableUntil": "2018-06-06T00:23:51.547Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -123,7 +133,7 @@
       "id_str": "1004149331786493953",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "6",
+      "retweet_count": "5",
       "retweeted": false,
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
@@ -155,7 +165,7 @@
       }
     ],
     "wof:id": 1729303343,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251139,
     "wof:name": "#Onthisday in 1934, Pan American Airways received its first Sikorsky S-42. The Brazilian Clipper, shown here circa 1937, completed its inaugural flight on August 16, 1934. https://t.co/zgSNkKJ0CK",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -1,0 +1,222 @@
+{
+  "id": 1796527333,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-08-31",
+    "date:cessation_upper": "2022-08-31",
+    "date:inception_lower": "2022-08-31",
+    "date:inception_upper": "2022-08-31",
+    "edtf:cessation": "2022-08-31T13:58:39-07:00",
+    "edtf:inception": "2022-08-31T13:58:39-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1661979519,
+      "created_at": "Wed Aug 31 20:58:39 +0000 2022",
+      "display_text_range": [
+        "0",
+        "205"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1565081658017005568"
+          ],
+          "editableUntil": "2022-08-31T21:28:39.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "153",
+              "173"
+            ],
+            "text": "FlyingSouthernCross"
+          },
+          {
+            "indices": [
+              "174",
+              "181"
+            ],
+            "text": "AvGeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/h2drNwPilS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1565081658017005568/photo/1",
+            "id": "1565081652920864768",
+            "id_str": "1565081652920864768",
+            "indices": [
+              "182",
+              "205"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbhJeJ7UUAARK44.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbhJeJ7UUAARK44.jpg",
+            "sizes": {
+              "large": {
+                "h": "1380",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "809",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "458",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/h2drNwPilS"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/h2drNwPilS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1565081658017005568/photo/1",
+            "id": "1565081652920864768",
+            "id_str": "1565081652920864768",
+            "indices": [
+              "182",
+              "205"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbhJeJ7UUAARK44.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbhJeJ7UUAARK44.jpg",
+            "sizes": {
+              "large": {
+                "h": "1380",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "809",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "458",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/h2drNwPilS"
+          },
+          {
+            "display_url": "pic.twitter.com/h2drNwPilS",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1565081658017005568/photo/1",
+            "id": "1565081652929253376",
+            "id_str": "1565081652929253376",
+            "indices": [
+              "182",
+              "205"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbhJeJ9UUAAE5ix.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbhJeJ9UUAAE5ix.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1638"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "544"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/h2drNwPilS"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "In 2003, Qantas outfitted their ground staff and flight crews in new uniforms conceived by the celebrated Australian designer Peter Morrissey (b. 1961). #FlyingSouthernCross #AvGeek https://t.co/h2drNwPilS",
+      "id": "1565081658017005568",
+      "id_str": "1565081658017005568",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251186,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796527333,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796527333,
+    "wof:lastmodified": 1667251186,
+    "wof:name": "In 2003, Qantas outfitted their ground staff and flight crews in new uniforms conceived by the celebrated Australian designer Peter Morrissey (b. 1961). #FlyingSouthernCross #AvGeek https://t.co/h2drNwPilS",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

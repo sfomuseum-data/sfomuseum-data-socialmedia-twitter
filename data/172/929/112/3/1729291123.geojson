@@ -24,6 +24,16 @@
         "0",
         "22"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "401040375382818816"
+          ],
+          "editableUntil": "2013-11-14T18:04:11.118Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729291123,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "@moosefaces SO true :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

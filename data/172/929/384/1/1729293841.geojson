@@ -24,6 +24,16 @@
         "0",
         "80"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "631162181946601472"
+          ],
+          "editableUntil": "2015-08-11T18:26:05.259Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -166,7 +176,7 @@
       }
     ],
     "wof:id": 1729293841,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "RT @birdphone: Jay Defeo - work on display at SFO airport http://t.co/bxpVDh9v6I",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

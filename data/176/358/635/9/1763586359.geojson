@@ -21,6 +21,16 @@
         "0",
         "294"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1486505885924876291"
+          ],
+          "editableUntil": "2022-01-27T01:36:35.805Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -165,14 +175,14 @@
                   "url": "https://video.twimg.com/ext_tw_video/1486502402119274498/pu/pl/NTza646dVmsFjeNS.m3u8?tag=12\u0026container=fmp4"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1486502402119274498/pu/vid/960x540/nutd3EP2kpjZukZ9.mp4?tag=12"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1486502402119274498/pu/vid/640x360/pNuw1VX-ZFeZvBZn.mp4?tag=12"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1486502402119274498/pu/vid/960x540/nutd3EP2kpjZukZ9.mp4?tag=12"
                 }
               ]
             }
@@ -217,7 +227,7 @@
       }
     ],
     "wof:id": 1763586359,
-    "wof:lastmodified": 1650908070,
+    "wof:lastmodified": 1667251177,
     "wof:name": "Dancer Juan Duarte defies stereotypical definitions of masculinity and gender in the realms of dance and fashion in this short film by Vancouver-based award-winning director and producer Morgan Inglis.\n\n#VideoArts #VideoArtsSFO #MorganInglis #ComForça #JuanDuarte #dance https://t.co/EL5h9ddSiM",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

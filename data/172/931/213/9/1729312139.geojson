@@ -24,6 +24,16 @@
         "0",
         "40"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "342008221306847233"
+          ],
+          "editableUntil": "2013-06-04T20:31:28.822Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -73,7 +83,7 @@
       }
     ],
     "wof:id": 1729312139,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251176,
     "wof:name": "@iceskatingbears Thanks for visiting! :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

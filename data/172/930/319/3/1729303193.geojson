@@ -24,6 +24,16 @@
         "0",
         "299"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "995018808707268608"
+          ],
+          "editableUntil": "2018-05-11T19:42:25.208Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -130,6 +140,11 @@
                   "url": "https://video.twimg.com/ext_tw_video/995018045495037953/pu/pl/26RyCqmKRaT-EY6B.m3u8?tag=3"
                 },
                 {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/995018045495037953/pu/vid/1280x720/hPBeklOxIM7qyuHi.mp4?tag=3"
+                },
+                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/995018045495037953/pu/vid/320x180/rct_3m8P129kWX6Z.mp4?tag=3"
@@ -138,11 +153,6 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/995018045495037953/pu/vid/640x360/2hJIWeDHTBVxJhm_.mp4?tag=3"
-                },
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/995018045495037953/pu/vid/1280x720/hPBeklOxIM7qyuHi.mp4?tag=3"
                 }
               ]
             }
@@ -188,7 +198,7 @@
       }
     ],
     "wof:id": 1729303193,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251139,
     "wof:name": "Did you know that the Stanford Powwow is happening this weekend? Catch a glimpse of what it is like in our newest Video Arts video! \"POWWOW\" is a portrait of the Gathering of Nations Powwow, a celebration of Native American culture held in New Mexico. https://t.co/5EXdAmvnL0 https://t.co/av6KJ9ywgJ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "182"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "953385571665129472"
+          ],
+          "editableUntil": "2018-01-16T22:26:47.989Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -126,11 +136,6 @@
               "duration_millis": "20900",
               "variants": [
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/953385529545867264/pu/vid/320x180/hGPx7rOiPdlU6K9x.mp4"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/953385529545867264/pu/vid/640x360/nXdwiatvflBk2V8r.mp4"
@@ -143,6 +148,11 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/953385529545867264/pu/vid/1280x720/gwQ0OzPd9HoaUskn.mp4"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/953385529545867264/pu/vid/320x180/hGPx7rOiPdlU6K9x.mp4"
                 }
               ]
             }
@@ -188,7 +198,7 @@
       }
     ],
     "wof:id": 1729302227,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251143,
     "wof:name": "NOW PLAYING: \"97%\" by Ben Brand. On the look for love? Check out this captivating look at one man’s search for love on a subway train. https://t.co/alt1EE9O04 https://t.co/pEXhw9BJZt",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "303"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1126911294005698560"
+          ],
+          "editableUntil": "2019-05-10T18:36:04.147Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -129,9 +139,8 @@
                   "url": "https://video.twimg.com/ext_tw_video/1126911063302131713/pu/vid/1280x720/mDibToHsaXeUhLEB.mp4?tag=9"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1126911063302131713/pu/vid/640x360/zI12jvePN3yu3sov.mp4?tag=9"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1126911063302131713/pu/pl/PG4Dna8DpSG9NHCL.m3u8?tag=9"
                 },
                 {
                   "bitrate": "256000",
@@ -139,8 +148,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1126911063302131713/pu/vid/320x180/7dLMhfDnmIoCH5L6.mp4?tag=9"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1126911063302131713/pu/pl/PG4Dna8DpSG9NHCL.m3u8?tag=9"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1126911063302131713/pu/vid/640x360/zI12jvePN3yu3sov.mp4?tag=9"
                 }
               ]
             }
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729306085,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251125,
     "wof:name": "\"Texas-Mexican Border Music Vol. 17, The First Women Duets” features some of the most famous female duets, like the Mendoza Sisters and Hermanas Padilla. Prior to the 1930s, women’s involvement in Mexican music primarily centered on the vaudeville theater stage. #StoryofArhoolie https://t.co/qjb3vbdPOh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

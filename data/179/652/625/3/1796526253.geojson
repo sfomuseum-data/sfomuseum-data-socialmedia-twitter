@@ -1,0 +1,191 @@
+{
+  "id": 1796526253,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-07-12",
+    "date:cessation_upper": "2022-07-12",
+    "date:inception_lower": "2022-07-12",
+    "date:inception_upper": "2022-07-12",
+    "edtf:cessation": "2022-07-12T11:53:55-07:00",
+    "edtf:inception": "2022-07-12T11:53:55-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1657652035,
+      "created_at": "Tue Jul 12 18:53:55 +0000 2022",
+      "display_text_range": [
+        "0",
+        "181"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1546930872561020929"
+          ],
+          "editableUntil": "2022-07-12T19:23:55.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "135",
+              "151"
+            ],
+            "text": "PineappletoPina"
+          },
+          {
+            "indices": [
+              "152",
+              "157"
+            ],
+            "text": "piña"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ZpTWlrf9z4",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1546930872561020929/photo/1",
+            "id": "1546930062913441792",
+            "id_str": "1546930062913441792",
+            "indices": [
+              "158",
+              "181"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXfMsjxUEAAxdTV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXfMsjxUEAAxdTV.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZpTWlrf9z4"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ZpTWlrf9z4",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1546930872561020929/photo/1",
+            "id": "1546930062913441792",
+            "id_str": "1546930062913441792",
+            "indices": [
+              "158",
+              "181"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXfMsjxUEAAxdTV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXfMsjxUEAAxdTV.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1333"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZpTWlrf9z4"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "An additional scraping of the pineapple leaf produces liniwan fibers, which are more delicate than human hair and saved to craft piña. #PineappletoPina #piña https://t.co/ZpTWlrf9z4",
+      "id": "1546930872561020929",
+      "id_str": "1546930872561020929",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1546930867104141312",
+      "in_reply_to_status_id_str": "1546930867104141312",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251131,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796526253,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796526253,
+    "wof:lastmodified": 1667251131,
+    "wof:name": "An additional scraping of the pineapple leaf produces liniwan fibers, which are more delicate than human hair and saved to craft piña. #PineappletoPina #piña https://t.co/ZpTWlrf9z4",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

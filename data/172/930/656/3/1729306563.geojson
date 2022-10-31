@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1150908462039044096"
+          ],
+          "editableUntil": "2019-07-15T23:52:14.852Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729306563,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251123,
     "wof:name": "RT @airandspace: Today in 1954: Boeing 367-80, aka the Dash 80, made its first flight. The Dash 80 was the prototype of America's first jet…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

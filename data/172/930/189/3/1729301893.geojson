@@ -24,6 +24,16 @@
         "0",
         "303"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "938168308905504768"
+          ],
+          "editableUntil": "2017-12-05T22:38:49.824Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -126,14 +136,14 @@
               "duration_millis": "54967",
               "variants": [
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/938168218723663872/pu/vid/318x180/CO-EKbXqRZLJ-lp1.mp4"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/938168218723663872/pu/vid/638x360/jQSdBHnkadDckxa8.mp4"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/938168218723663872/pu/vid/318x180/CO-EKbXqRZLJ-lp1.mp4"
                 },
                 {
                   "content_type": "application/x-mpegURL",
@@ -183,7 +193,7 @@
       }
     ],
     "wof:id": 1729301893,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251145,
     "wof:name": "NOW PLAYING: “Sonámbulo (The Sleepwalker)”. Inspired by the poem “Romance Sonámbulo” by Federico García Lorca, Bulgarian-born filmmaker Theodore Ushev evokes the universe of surrealist artist Joan Miró. At the Video Arts Gallery, pre-security, in the I.T. https://t.co/hNZ49HAjmp https://t.co/bSG6dlLgbp",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

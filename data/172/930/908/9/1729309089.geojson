@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "184311752589193216"
+          ],
+          "editableUntil": "2012-03-26T16:42:00.821Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729309089,
-    "wof:lastmodified": 1650908021,
+    "wof:lastmodified": 1667251179,
     "wof:name": "@tokyo5280 We're glad you got to see our exhibit, Revolutions per Minute! Good timing, too, as we're deinstalling it today.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "82"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "786630219369222144"
+          ],
+          "editableUntil": "2016-10-13T18:40:33.837Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -100,7 +110,7 @@
       }
     ],
     "wof:id": 1729298107,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251161,
     "wof:name": "RT @SFAC: Seeking artists for SFO's new Terminal 1 https://t.co/DcAvcLsF2Y @flySFO",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

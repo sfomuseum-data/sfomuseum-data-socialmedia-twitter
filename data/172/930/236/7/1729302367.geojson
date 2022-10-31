@@ -24,6 +24,16 @@
         "0",
         "244"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "958048505200717824"
+          ],
+          "editableUntil": "2018-01-29T19:15:37.977Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -126,23 +136,23 @@
               "duration_millis": "26433",
               "variants": [
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/958048472090820608/pu/vid/320x180/ai58OjQb8cpx-RaO.mp4"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/958048472090820608/pu/vid/1280x720/xKfElO1mW8_wzBWP.mp4"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/958048472090820608/pu/vid/640x360/U3l5sbBugQtQFiUf.mp4"
                 },
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/958048472090820608/pu/pl/pe6OGfdBQ54Z4PI5.m3u8"
                 },
                 {
-                  "bitrate": "832000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/958048472090820608/pu/vid/640x360/U3l5sbBugQtQFiUf.mp4"
+                  "url": "https://video.twimg.com/ext_tw_video/958048472090820608/pu/vid/320x180/ai58OjQb8cpx-RaO.mp4"
                 }
               ]
             }
@@ -188,7 +198,7 @@
       }
     ],
     "wof:id": 1729302367,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251143,
     "wof:name": "NOW PLAYING: \"Through You\" by Lucette Braune. Even the smallest encounters matter, illustrated in this animated short in the Video Arts Gallery, located pre-security in the International Terminal. https://t.co/RgsAVysnrn https://t.co/y4xFWKHxjt",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

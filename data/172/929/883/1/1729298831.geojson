@@ -24,6 +24,16 @@
         "0",
         "152"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "808524435523305473"
+          ],
+          "editableUntil": "2016-12-13T04:40:21.743Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -137,7 +147,7 @@
       "id_str": "808524435523305473",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "8",
+      "retweet_count": "7",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -169,7 +179,7 @@
       }
     ],
     "wof:id": 1729298831,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251159,
     "wof:name": "In the 1930s, radio operators tracked #PanAm aircraft by radiotelegraph at their base station in Miami. #AviationHistory #AvGeek https://t.co/F8qbY6qFpj",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

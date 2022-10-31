@@ -24,6 +24,16 @@
         "0",
         "118"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "161498630690320384"
+          ],
+          "editableUntil": "2012-01-23T17:50:48.713Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -46,7 +56,7 @@
               "39",
               "48"
             ],
-            "name": "David Dunstan",
+            "name": "ddunstan",
             "screen_name": "ddunstan"
           }
         ]
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729303485,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251179,
     "wof:name": "I am not a number! I am a free man! RT @ddunstan: Nice.\nSFO exhibit shout out to The Prisoner!!!! http://t.co/BYWtGV23",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

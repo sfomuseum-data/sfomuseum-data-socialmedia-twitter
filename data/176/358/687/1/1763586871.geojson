@@ -21,6 +21,16 @@
         "0",
         "62"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1512098175053565956"
+          ],
+          "editableUntil": "2022-04-07T16:31:13.015Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -69,7 +79,7 @@
       }
     ],
     "wof:id": 1763586871,
-    "wof:lastmodified": 1650908093,
+    "wof:lastmodified": 1667251169,
     "wof:name": "Correction: the plane depicted in 2019.080.054 is a Boeing 80.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

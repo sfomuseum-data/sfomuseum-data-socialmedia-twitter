@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "170634070240395265"
+          ],
+          "editableUntil": "2012-02-17T22:51:47.230Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -89,7 +99,7 @@
       }
     ],
     "wof:id": 1729307119,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251179,
     "wof:name": "RT @zeiss_micro: @SFOMuseum yeah we just love our old \"bierseidel\" (jug-handle) microscopes. Next time we're at San Francisco Airport we ...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

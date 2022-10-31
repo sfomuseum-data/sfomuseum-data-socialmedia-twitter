@@ -21,6 +21,16 @@
         "0",
         "104"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1460655109558312963"
+          ],
+          "editableUntil": "2021-11-16T17:34:50.435Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -85,7 +95,7 @@
               "53",
               "62"
             ],
-            "name": "Star Wars",
+            "name": "Star Wars | Andor \u0026 Tales of the Jedi On Disney+",
             "screen_name": "starwars"
           },
           {
@@ -152,14 +162,13 @@
               "duration_millis": "26988",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1460416798273114112/pu/pl/amhnF6rZyF48H7ru.m3u8?tag=12\u0026container=fmp4"
+                },
+                {
                   "bitrate": "950000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1460416798273114112/pu/vid/480x852/4_-57aUUnsiiFOJk.mp4?tag=12"
-                },
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1460416798273114112/pu/vid/720x1280/Ur6uGijB6Y9HmUDG.mp4?tag=12"
                 },
                 {
                   "bitrate": "632000",
@@ -167,8 +176,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1460416798273114112/pu/vid/320x568/X5sKBs4jPNd9nQpG.mp4?tag=12"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1460416798273114112/pu/pl/amhnF6rZyF48H7ru.m3u8?tag=12\u0026container=fmp4"
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1460416798273114112/pu/vid/720x1280/Ur6uGijB6Y9HmUDG.mp4?tag=12"
                 }
               ]
             }
@@ -213,7 +223,7 @@
       }
     ],
     "wof:id": 1763585961,
-    "wof:lastmodified": 1650908052,
+    "wof:lastmodified": 1667251180,
     "wof:name": "RT @flySFO: The Force will be with you. Always. ⭐️ \n\n@starwars \n@FlyANA_official https://t.co/YKxoPVxWkM",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "78"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "852260410497548288"
+          ],
+          "editableUntil": "2017-04-12T21:11:30.752Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -174,7 +184,7 @@
       }
     ],
     "wof:id": 1729299939,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251153,
     "wof:name": "RT @FlyPanAm: Pan American's Strato-Clipper. #FlyPanAm https://t.co/m3ixXB0wN8",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "222"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "980882304460451840"
+          ],
+          "editableUntil": "2018-04-02T19:28:59.952Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -124,13 +134,9 @@
               "duration_millis": "20667",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/980882275326836736/pu/pl/G5UO_3rN65-QKiY5.m3u8?tag=2"
-                },
-                {
-                  "bitrate": "256000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/980882275326836736/pu/vid/320x180/0ywlEUlgvNlykT-K.mp4?tag=2"
+                  "url": "https://video.twimg.com/ext_tw_video/980882275326836736/pu/vid/640x360/gNyNktX-UmZNkic1.mp4?tag=2"
                 },
                 {
                   "bitrate": "2176000",
@@ -138,9 +144,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/980882275326836736/pu/vid/1280x720/adslVmhRleoDRro3.mp4?tag=2"
                 },
                 {
-                  "bitrate": "832000",
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/980882275326836736/pu/pl/G5UO_3rN65-QKiY5.m3u8?tag=2"
+                },
+                {
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/980882275326836736/pu/vid/640x360/gNyNktX-UmZNkic1.mp4?tag=2"
+                  "url": "https://video.twimg.com/ext_tw_video/980882275326836736/pu/vid/320x180/0ywlEUlgvNlykT-K.mp4?tag=2"
                 }
               ]
             }
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729302891,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251141,
     "wof:name": "NOW PLAYING: \"Hum\" by Tom Teller. This animated film features a lonely dishwashing robot who, through a chance encounter, becomes enlightened to the larger world beyond his four walls. #VideoArtSFOM https://t.co/qU3vfcwQAZ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

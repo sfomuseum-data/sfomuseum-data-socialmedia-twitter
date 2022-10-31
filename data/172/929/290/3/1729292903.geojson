@@ -24,6 +24,16 @@
         "0",
         "86"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "555856916040404992"
+          ],
+          "editableUntil": "2015-01-15T23:09:50.763Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -76,7 +86,7 @@
       }
     ],
     "wof:id": 1729292903,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "An office favorite: \"I never read the labels.\" #RuinADateWithAMuseumCuratorInFiveWords",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

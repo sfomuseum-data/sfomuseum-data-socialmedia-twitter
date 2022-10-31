@@ -21,6 +21,16 @@
         "0",
         "82"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1415416127954460676"
+          ],
+          "editableUntil": "2021-07-14T21:31:16.721Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -83,7 +93,7 @@
               "3",
               "10"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           },
           {
@@ -150,23 +160,23 @@
               "duration_millis": "15000",
               "variants": [
                 {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1415406311517220866/pu/vid/720x1280/Q1uHz0QABAEnxqWJ.mp4?tag=12"
+                },
+                {
                   "bitrate": "632000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1415406311517220866/pu/vid/320x568/GzZIR26mvcFtv5im.mp4?tag=12"
-                },
-                {
-                  "bitrate": "950000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1415406311517220866/pu/vid/480x852/t_yGgvuz5CxlLB1Q.mp4?tag=12"
                 },
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1415406311517220866/pu/pl/RTZPPkfsXXObVclK.m3u8?tag=12\u0026container=fmp4"
                 },
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "950000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1415406311517220866/pu/vid/720x1280/Q1uHz0QABAEnxqWJ.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1415406311517220866/pu/vid/480x852/t_yGgvuz5CxlLB1Q.mp4?tag=12"
                 }
               ]
             }
@@ -211,7 +221,7 @@
       }
     ],
     "wof:id": 1763512645,
-    "wof:lastmodified": 1650908021,
+    "wof:lastmodified": 1667251182,
     "wof:name": "RT @flySFO: #SFO to Tokyo! 🇺🇸 @USAGym is off to Japan! 🇺🇸🥳 https://t.co/GsZMYzsgrE",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

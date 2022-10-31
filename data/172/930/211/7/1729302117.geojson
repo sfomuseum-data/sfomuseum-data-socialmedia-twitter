@@ -24,6 +24,16 @@
         "0",
         "200"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "950459317139853312"
+          ],
+          "editableUntil": "2018-01-08T20:38:54.543Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -128,6 +138,11 @@
                   "url": "https://video.twimg.com/ext_tw_video/950459238962233344/pu/pl/XQQLww3hQ04D800x.m3u8"
                 },
                 {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/950459238962233344/pu/vid/320x180/7fT6LU8WGLyqwKwo.mp4"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/950459238962233344/pu/vid/1280x720/IhVWWwHcXlXbRbOc.mp4"
@@ -136,11 +151,6 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/950459238962233344/pu/vid/640x360/066DA3WGodvd046q.mp4"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/950459238962233344/pu/vid/320x180/7fT6LU8WGLyqwKwo.mp4"
                 }
               ]
             }
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729302117,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251143,
     "wof:name": "NOW PLAYING: \"Reindeer\" by #EvaWeber. For those who may not have had their fill of reindeer during the holidays, check out this video about the Arctic's indigenous Sámi people. https://t.co/CNYbtHsbc8",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

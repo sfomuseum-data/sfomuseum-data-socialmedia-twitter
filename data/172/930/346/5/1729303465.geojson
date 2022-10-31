@@ -24,6 +24,16 @@
         "0",
         "129"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "161520185507987457"
+          ],
+          "editableUntil": "2012-01-23T19:16:27.782Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -95,7 +105,7 @@
       }
     ],
     "wof:id": 1729303465,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251179,
     "wof:name": "Hey @museumbabes! We're the only full museum, but many airports have exhibit programs. See http://t.co/DticctHV for a short list.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

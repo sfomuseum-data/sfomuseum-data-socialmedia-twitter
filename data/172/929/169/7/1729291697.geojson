@@ -24,6 +24,16 @@
         "0",
         "31"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "446753566108450816"
+          ],
+          "editableUntil": "2014-03-20T21:32:05.097Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -94,7 +104,7 @@
       }
     ],
     "wof:id": 1729291697,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "@jackmirkinson @losowsky Hi! :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "123878276019130368"
+          ],
+          "editableUntil": "2011-10-11T22:20:57.207Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -64,7 +74,7 @@
               "45",
               "55"
             ],
-            "name": "Questo",
+            "name": "Dr. Love",
             "screen_name": "questlove"
           },
           {
@@ -138,7 +148,7 @@
       }
     ],
     "wof:id": 1729309467,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251181,
     "wof:name": "Oh yes!! We'd love pictures! RT @thudrumble: @questlove Any pics with @DJQbert's #QFO? @SFOMuseum http://t.co/BezY0JhZ @djdstyles wax figure",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "99"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "407632207059382272"
+          ],
+          "editableUntil": "2013-12-02T22:37:46.260Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -46,7 +56,7 @@
               "0",
               "11"
             ],
-            "name": "Tim McCormick",
+            "name": "Tim McCormick 🚐🏡",
             "screen_name": "tmccormick"
           }
         ]
@@ -95,7 +105,7 @@
       }
     ],
     "wof:id": 1729291145,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "@tmccormick A map showing which exhibits are pre-security can be found here: http://t.co/hdcfMG7n3g",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

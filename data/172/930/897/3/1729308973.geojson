@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "179628203210584065"
+          ],
+          "editableUntil": "2012-03-13T18:31:15.633Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729308973,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251179,
     "wof:name": "Sewing machines took a while to catch on in the early 1800s, but certainly not for lack of good looks: http://t.co/RnSpXV2F",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

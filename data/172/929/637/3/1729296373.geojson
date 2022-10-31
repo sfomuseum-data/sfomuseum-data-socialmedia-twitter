@@ -24,6 +24,16 @@
         "0",
         "99"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "739537340343930880"
+          ],
+          "editableUntil": "2016-06-05T19:50:16.534Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -155,7 +165,7 @@
       }
     ],
     "wof:id": 1729296373,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251168,
     "wof:name": "See #JayTyrrell’s “Atomic Mirrors” on display, pre-security, in Terminal 2. https://t.co/VDd63f17oG",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

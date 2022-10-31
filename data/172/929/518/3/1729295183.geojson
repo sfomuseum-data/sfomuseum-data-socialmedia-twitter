@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "698315700369235968"
+          ],
+          "editableUntil": "2016-02-13T01:50:11.703Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -130,7 +140,7 @@
       "id_str": "698315700369235968",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "5",
+      "retweet_count": "4",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -162,7 +172,7 @@
       }
     ],
     "wof:id": 1729295183,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "This colorful postcard from circa 1935 features the #PanAm M-130 China Clipper with SF in the background. #SFHistory https://t.co/F1AQVoApQS",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

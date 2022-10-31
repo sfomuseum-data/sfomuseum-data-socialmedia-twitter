@@ -24,6 +24,16 @@
         "0",
         "87"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "123883085707231233"
+          ],
+          "editableUntil": "2011-10-11T22:40:03.926Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -36,7 +46,7 @@
               "0",
               "4"
             ],
-            "name": "Hamza ء🦈",
+            "name": "Hamza ء 🦈",
             "screen_name": "CTZ"
           }
         ]
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729309457,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251181,
     "wof:name": "@ctz We're glad that you liked the exhibit! Thanks for taking the time to check it out!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "125"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "606617050837098496"
+          ],
+          "editableUntil": "2015-06-05T00:52:29.976Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -61,7 +71,7 @@
               "1",
               "12"
             ],
-            "name": "Karl the Fog 🌁",
+            "name": "karl the fog",
             "screen_name": "KarlTheFog"
           }
         ]
@@ -105,7 +115,7 @@
       }
     ],
     "wof:id": 1729293411,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": ".@KarlTheFog: disappointing Bay Area aerial photographers since forever: http://t.co/ROEdXFegRR #ThrowbackThursday #sfhistory",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

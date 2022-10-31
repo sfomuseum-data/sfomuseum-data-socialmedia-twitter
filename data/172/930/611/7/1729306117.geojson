@@ -24,6 +24,16 @@
         "0",
         "296"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1130586766447063040"
+          ],
+          "editableUntil": "2019-05-20T22:01:05.064Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -134,11 +144,6 @@
               "duration_millis": "23120",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1130585975732629504/pu/vid/1280x720/fBq1tNGDWLNnKxMB.mp4?tag=9"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1130585975732629504/pu/vid/640x360/3NC_o-QKVxjBZVxw.mp4?tag=9"
@@ -146,6 +151,11 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1130585975732629504/pu/pl/2e9FI69o7pk0YKos.m3u8?tag=9"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1130585975732629504/pu/vid/1280x720/fBq1tNGDWLNnKxMB.mp4?tag=9"
                 },
                 {
                   "bitrate": "256000",
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729306117,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251125,
     "wof:name": "NOW PLAYING: \"Traveling Through Brush and Ink\" by Annlin Chao. Chao’s stop-motion animated short features a shapeshifting character who journeys through the landscape of four Chinese paintings held in Taiwan’s National Palace Museum. https://t.co/NUYbVFARw2 #VideoArtsSFOM https://t.co/VocO6lfPIE",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

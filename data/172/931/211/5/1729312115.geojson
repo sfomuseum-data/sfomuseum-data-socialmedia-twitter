@@ -24,6 +24,16 @@
         "0",
         "119"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "337621452150939648"
+          ],
+          "editableUntil": "2013-05-23T18:00:01.553Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -105,7 +115,7 @@
       }
     ],
     "wof:id": 1729312115,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251176,
     "wof:name": "RT @thenorthfour: Some wraskely wabbits in a display at the SFO Museum. #sfomuseum #sfoterminal3 http://t.co/VS2wW9DCxa",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

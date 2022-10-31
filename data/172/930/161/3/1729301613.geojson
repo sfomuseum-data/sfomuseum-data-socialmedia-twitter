@@ -24,6 +24,16 @@
         "0",
         "90"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "926145922974720000"
+          ],
+          "editableUntil": "2017-11-02T18:26:09.653Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -187,7 +197,7 @@
       }
     ],
     "wof:id": 1729301613,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251145,
     "wof:name": "RT @united: We've been cleared for takeoff. #Happiest5WordSentence https://t.co/dFiNRHYtkC",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

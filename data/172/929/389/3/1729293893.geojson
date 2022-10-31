@@ -24,6 +24,16 @@
         "0",
         "80"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "633702958551670784"
+          ],
+          "editableUntil": "2015-08-18T18:42:13.607Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729293893,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "RT @PlaneInsight: Airbus starts assembling A350-1000 wing http://t.co/w69XbsSVd9",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "120"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "309456562253070336"
+          ],
+          "editableUntil": "2013-03-07T00:42:48.523Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729311575,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251177,
     "wof:name": "Nice feature of Inspired Design by @CAHomeandDesign, including comments by curator Nicole Mullen: http://t.co/2ug5z9bZbI",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

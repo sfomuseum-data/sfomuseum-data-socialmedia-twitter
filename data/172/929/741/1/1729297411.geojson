@@ -24,6 +24,16 @@
         "0",
         "45"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "765737459124690944"
+          ],
+          "editableUntil": "2016-08-17T03:00:11.626Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -76,7 +86,7 @@
       }
     ],
     "wof:id": 1729297411,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251165,
     "wof:name": "Have you ever been to Ireland? #TravelTuesday",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

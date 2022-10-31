@@ -21,6 +21,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1409623797473308673"
+          ],
+          "editableUntil": "2021-06-28T21:54:37.518Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -75,7 +85,7 @@
       }
     ],
     "wof:id": 1763512525,
-    "wof:lastmodified": 1650908021,
+    "wof:lastmodified": 1667251184,
     "wof:name": "RT @flySFO: “The airport is the city’s front door. It’s where we make our first impression on people coming to this region and it’s their l…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "767073961922420736"
+          ],
+          "editableUntil": "2016-08-20T19:30:58.724Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -129,7 +139,7 @@
           }
         ]
       },
-      "favorite_count": "2",
+      "favorite_count": "1",
       "favorited": false,
       "full_text": "\"Seascapes\" by @RayCollinsPhoto is on display, pre-security, in Terminal 1. https://t.co/BtgUGk6qZ2 https://t.co/giHJXi7ssC",
       "id": "767073961922420736",
@@ -168,7 +178,7 @@
       }
     ],
     "wof:id": 1729297547,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251165,
     "wof:name": "\"Seascapes\" by @RayCollinsPhoto is on display, pre-security, in Terminal 1. https://t.co/BtgUGk6qZ2 https://t.co/giHJXi7ssC",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

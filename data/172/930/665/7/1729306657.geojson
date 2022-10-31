@@ -24,6 +24,16 @@
         "0",
         "294"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1157104478237188097"
+          ],
+          "editableUntil": "2019-08-02T02:13:00.230Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -131,11 +141,6 @@
                   "url": "https://video.twimg.com/ext_tw_video/1157069482239463424/pu/vid/640x360/CdPvNJqqbzuhqXal.mp4?tag=10"
                 },
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1157069482239463424/pu/vid/480x270/MUNBSRCA08hyyfkI.mp4?tag=10"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1157069482239463424/pu/vid/1280x720/ttEyaHZ0gY8OuREF.mp4?tag=10"
@@ -143,6 +148,11 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1157069482239463424/pu/pl/A6xxfZiND4e1_d9T.m3u8?tag=10"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1157069482239463424/pu/vid/480x270/MUNBSRCA08hyyfkI.mp4?tag=10"
                 }
               ]
             }
@@ -188,7 +198,7 @@
       }
     ],
     "wof:id": 1729306657,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251123,
     "wof:name": "The brand-new Harvey Milk Terminal 1 features the post-security exhibition, \"Harvey Milk: Messenger of Hope,\" a photo essay honoring pioneering LGBTQ+ activist Harvey Milk, the first openly gay person to be elected to public office in California. https://t.co/eGYmHG2jQP https://t.co/vS1SvfZSxK",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

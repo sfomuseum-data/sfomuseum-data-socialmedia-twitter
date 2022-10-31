@@ -24,6 +24,16 @@
         "0",
         "286"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1089237033531273216"
+          ],
+          "editableUntil": "2019-01-26T19:32:00.496Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -124,6 +134,10 @@
               "duration_millis": "29997",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1089035738925027328/pu/pl/nnu9-ImcUoCe-d1O.m3u8?tag=6"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1089035738925027328/pu/vid/1280x720/b74g7jeeznEA_4Ob.mp4?tag=6"
@@ -132,10 +146,6 @@
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1089035738925027328/pu/vid/320x180/9A1Im8DcJD_x0ujV.mp4?tag=6"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1089035738925027328/pu/pl/nnu9-ImcUoCe-d1O.m3u8?tag=6"
                 },
                 {
                   "bitrate": "832000",
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729305175,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251129,
     "wof:name": "Louis Overstreet (1921–80) began singing in gospel quartets at an early age. Overstreet performed a unique blend of musical street evangelism using his powerful singing voice, an amplified guitar, and his gospel quartet made up of his four sons. #StoryofArhoolie https://t.co/KDravDmiYF",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

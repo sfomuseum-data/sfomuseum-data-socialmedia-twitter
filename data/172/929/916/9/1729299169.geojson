@@ -24,6 +24,16 @@
         "0",
         "106"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "826942898058899456"
+          ],
+          "editableUntil": "2017-02-02T00:28:45.410Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -151,13 +161,13 @@
               "duration_millis": "8867",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/amplify_video/826194575857364992/pl/VxV0-MIlRaVEhXFs.m3u8"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/826194575857364992/vid/530x640/AYCfSPQm6LpdFxFP.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/826194575857364992/pl/VxV0-MIlRaVEhXFs.m3u8"
                 },
                 {
                   "bitrate": "320000",
@@ -208,7 +218,7 @@
       }
     ],
     "wof:id": 1729299169,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251157,
     "wof:name": "RT @CNTraveler: Travel opens hearts and minds. Beauty is everywhere. #TravelIsLove https://t.co/AWrVjUD6c5",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "207"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "932839546206674947"
+          ],
+          "editableUntil": "2017-11-21T05:44:13.793Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -131,6 +141,11 @@
                   "url": "https://video.twimg.com/ext_tw_video/932839373711609856/pu/vid/1280x720/U0PU8d5tDeEAryh_.mp4"
                 },
                 {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/932839373711609856/pu/vid/640x360/_SsqSWMFvSiQzUye.mp4"
+                },
+                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/932839373711609856/pu/vid/320x180/7KI_Aj-U2Kd3GYiv.mp4"
@@ -138,11 +153,6 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/932839373711609856/pu/pl/07ZS2T3VNmlNqNZD.m3u8"
-                },
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/932839373711609856/pu/vid/640x360/_SsqSWMFvSiQzUye.mp4"
                 }
               ]
             }
@@ -188,7 +198,7 @@
       }
     ],
     "wof:id": 1729301777,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251145,
     "wof:name": "NOW PLAYING: Sài Gòn\" by Oerd van Cuijlenborg. See this experimental short film in the Video Arts Gallery, located pre-security, in the International Terminal. https://t.co/W9eqkh1Ej5 https://t.co/yzRLujFctg",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

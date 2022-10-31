@@ -24,6 +24,16 @@
         "0",
         "220"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1079452213490212865"
+          ],
+          "editableUntil": "2018-12-30T19:30:37.605Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -155,7 +165,7 @@
       }
     ],
     "wof:id": 1729305021,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251129,
     "wof:name": "Founded in 1993, San Francisco-based #FirstExposures is a youth mentoring program that strives to make a difference in the lives of underserved young people residing in the San Francisco Bay Area. https://t.co/g6176odZMu",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

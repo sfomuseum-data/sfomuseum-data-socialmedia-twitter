@@ -1,0 +1,190 @@
+{
+  "id": 1796526433,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-06-29",
+    "date:cessation_upper": "2022-06-29",
+    "date:inception_lower": "2022-06-29",
+    "date:inception_upper": "2022-06-29",
+    "edtf:cessation": "2022-06-28T17:17:31-07:00",
+    "edtf:inception": "2022-06-28T17:17:31-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1656461851,
+      "created_at": "Wed Jun 29 00:17:31 +0000 2022",
+      "display_text_range": [
+        "0",
+        "291"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1541938881225826306"
+          ],
+          "editableUntil": "2022-06-29T00:47:31.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "242",
+              "267"
+            ],
+            "text": "CaliforniaModernistWomen"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2Kn1yKkvyf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1541938881225826306/photo/1",
+            "id": "1541937842267357184",
+            "id_str": "1541937842267357184",
+            "indices": [
+              "268",
+              "291"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FWYQTEoUAAAczYa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FWYQTEoUAAAczYa.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1693"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "992"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "562"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2Kn1yKkvyf"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "176932593",
+            "id_str": "176932593",
+            "indices": [
+              "109",
+              "120"
+            ],
+            "name": "UC Berkeley",
+            "screen_name": "UCBerkeley"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2Kn1yKkvyf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1541938881225826306/photo/1",
+            "id": "1541937842267357184",
+            "id_str": "1541937842267357184",
+            "indices": [
+              "268",
+              "291"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FWYQTEoUAAAczYa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FWYQTEoUAAAczYa.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1693"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "992"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "562"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2Kn1yKkvyf"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Mary Fuller McChesney was a largely self-taught sculptor and art historian. After studying philosophy at the @UCBerkeley, she embarked on a more dexterous pursuit and apprenticed with potter William Bragdon at California Faience in Berkeley. #CaliforniaModernistWomen https://t.co/2Kn1yKkvyf",
+      "id": "1541938881225826306",
+      "id_str": "1541938881225826306",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251139,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796526433,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796526433,
+    "wof:lastmodified": 1667251139,
+    "wof:name": "Mary Fuller McChesney was a largely self-taught sculptor and art historian. After studying philosophy at the @UCBerkeley, she embarked on a more dexterous pursuit and apprenticed with potter William Bragdon at California Faience in Berkeley. #CaliforniaModernistWomen https://t.co/2Kn1yKkvyf",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

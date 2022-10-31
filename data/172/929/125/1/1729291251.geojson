@@ -24,6 +24,16 @@
         "0",
         "70"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "134333529483001857"
+          ],
+          "editableUntil": "2011-11-09T18:46:23.882Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -82,7 +92,7 @@
       }
     ],
     "wof:id": 1729291251,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251180,
     "wof:name": "@dhemery We're glad you liked the exhibit! Thanks for checking it out!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

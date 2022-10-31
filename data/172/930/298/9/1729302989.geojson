@@ -24,6 +24,16 @@
         "0",
         "97"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "987123920779096064"
+          ],
+          "editableUntil": "2018-04-20T00:50:57.246Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -176,7 +186,7 @@
       }
     ],
     "wof:id": 1729302989,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251139,
     "wof:name": "RT @Forbes: Airlines with the most female pilots: https://t.co/2xKQNIEnHS https://t.co/mYT5JxpcGW",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

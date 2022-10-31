@@ -24,6 +24,16 @@
         "0",
         "287"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "968360184962838529"
+          ],
+          "editableUntil": "2018-02-27T06:10:34.014Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -116,16 +126,6 @@
               "duration_millis": "23367",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/968360093510234112/pu/vid/1280x720/sUwGZ9bO_ot953q_.mp4"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/968360093510234112/pu/vid/320x180/HA9gruQgWu07vbYY.mp4"
-                },
-                {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/968360093510234112/pu/pl/8QbSDJDM3FX6xzFU.m3u8"
                 },
@@ -133,6 +133,16 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/968360093510234112/pu/vid/640x360/iDQWEmsM8VhK2ti5.mp4"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/968360093510234112/pu/vid/320x180/HA9gruQgWu07vbYY.mp4"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/968360093510234112/pu/vid/1280x720/sUwGZ9bO_ot953q_.mp4"
                 }
               ]
             }
@@ -178,7 +188,7 @@
       }
     ],
     "wof:id": 1729302511,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251141,
     "wof:name": "NOW PLAYING: \"Celluloid (An American in Paris, 1951)\" by Marco Brambilla.  Brambilla pays tribute to the golden age of cinema in his reworking of the well-known scene of Gene Kelly and Leslie Caron during the musical finale of the 1951 film, An American in Paris. https://t.co/TNlJNGxZgp",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "75"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "261160709189140480"
+          ],
+          "editableUntil": "2012-10-24T18:12:19.859Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729310905,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "Sometimes, receiving mail is the highlight of the day! http://t.co/FdvbYdwh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

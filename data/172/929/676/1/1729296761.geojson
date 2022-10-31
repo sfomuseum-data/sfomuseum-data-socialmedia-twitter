@@ -24,6 +24,16 @@
         "0",
         "101"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "748200840641515520"
+          ],
+          "editableUntil": "2016-06-29T17:35:55.965Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -99,7 +109,7 @@
       }
     ],
     "wof:id": 1729296761,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251168,
     "wof:name": "RT @panamhistory: When the Dixie Clipper made history https://t.co/nw69mRz65v https://t.co/KlmOuNb2VN",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

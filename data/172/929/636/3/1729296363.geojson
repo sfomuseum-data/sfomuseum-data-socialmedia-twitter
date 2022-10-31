@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "739967259313987584"
+          ],
+          "editableUntil": "2016-06-07T00:18:37.204Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -176,7 +186,7 @@
       }
     ],
     "wof:id": 1729296363,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251168,
     "wof:name": "RT @CNNTravel: 20 planes every aviation fan should experience at least once https://t.co/E3I0WOSBtt https://t.co/lZZoQIEXjr",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "163"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "918319079101956097"
+          ],
+          "editableUntil": "2017-10-12T04:05:04.658Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -126,7 +136,7 @@
       "id_str": "918319079101956097",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "2",
+      "retweet_count": "1",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -158,7 +168,7 @@
       }
     ],
     "wof:id": 1729301421,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251147,
     "wof:name": "In 1973, when Bonnie Tiburzi was hired by @AmericanAir, she became the first woman pilot to work for a major commercial airline since 1934. https://t.co/8v6GgOh6xd",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

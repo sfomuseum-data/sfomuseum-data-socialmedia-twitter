@@ -24,6 +24,16 @@
         "0",
         "259"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1152350142713872384"
+          ],
+          "editableUntil": "2019-07-19T23:20:58.310Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -139,9 +149,8 @@
                   "url": "https://video.twimg.com/ext_tw_video/1152350071951781888/pu/vid/480x270/fr_EE64_HuMOHvLg.mp4?tag=10"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1152350071951781888/pu/vid/1280x720/g3jlDAvX2ljozh4d.mp4?tag=10"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1152350071951781888/pu/pl/jDqfzL0XGOw3AHiB.m3u8?tag=10"
                 },
                 {
                   "bitrate": "832000",
@@ -149,8 +158,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1152350071951781888/pu/vid/640x360/8W_jINrrrd6loSJn.mp4?tag=10"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1152350071951781888/pu/pl/jDqfzL0XGOw3AHiB.m3u8?tag=10"
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1152350071951781888/pu/vid/1280x720/g3jlDAvX2ljozh4d.mp4?tag=10"
                 }
               ]
             }
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729306641,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251123,
     "wof:name": "NOW PLAYING: \"Attraction\" by Emily Scaife. Scaife imagines the sensations of attraction and pleasure in insects, and the seduction methods of the plants and fungi that beckon them in “Attraction.” https://t.co/xddqtWBwfe #VideoArtsSFOM https://t.co/qKFvwOG4nQ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

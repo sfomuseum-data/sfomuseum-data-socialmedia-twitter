@@ -24,6 +24,16 @@
         "0",
         "134"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "738855660746477568"
+          ],
+          "editableUntil": "2016-06-03T22:41:31.453Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -169,14 +179,14 @@
                   "url": "https://video.twimg.com/ext_tw_video/738855505305559040/pu/vid/360x640/lRVruNh3TdifF5H_.mp4"
                 },
                 {
-                  "bitrate": "320000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/738855505305559040/pu/vid/180x320/ZJMEi-uYTbSgHobm.mp4"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/738855505305559040/pu/vid/720x1280/0pU2Sr8AGK4W0cy6.mp4"
+                },
+                {
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/738855505305559040/pu/vid/180x320/ZJMEi-uYTbSgHobm.mp4"
                 }
               ]
             }
@@ -222,7 +232,7 @@
       }
     ],
     "wof:id": 1729296269,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251168,
     "wof:name": "RT @flySFO: Donut be bored at SFO! Visit the only airport accredited @SFOMuseum ! #NationalDonutDay #SFOdonuts https://t.co/wPW4XkiNqg",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

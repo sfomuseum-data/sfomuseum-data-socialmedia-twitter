@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "456869749402927104"
+          ],
+          "editableUntil": "2014-04-17T19:30:11.144Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729291811,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251174,
     "wof:name": "RT @kevinstownsend: SFO’s Terminal 2 has an amazing display of San Francisco maps inside. Even the Burnham Plan famously printed the eve of…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

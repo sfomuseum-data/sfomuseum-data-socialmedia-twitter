@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "336882307392733185"
+          ],
+          "editableUntil": "2013-05-21T17:02:55.710Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729311989,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251176,
     "wof:name": "RT @paperpencilpen: SFO Museum exhibit on the Art of Recology -- images of recycled paper and books: http://t.co/BUFNG2A1v3",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

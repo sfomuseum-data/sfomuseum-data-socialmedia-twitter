@@ -24,6 +24,16 @@
         "0",
         "66"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "755145816730439681"
+          ],
+          "editableUntil": "2016-07-18T21:32:47.296Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -71,7 +81,7 @@
       "full_text": "RT @karins42: #histgender #womeninaviation https://t.co/qXYwX7I8pD",
       "id": "755145816730439681",
       "id_str": "755145816730439681",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
@@ -105,7 +115,7 @@
       }
     ],
     "wof:id": 1729296951,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251168,
     "wof:name": "RT @karins42: #histgender #womeninaviation https://t.co/qXYwX7I8pD",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

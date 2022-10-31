@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1255305838853578752"
+          ],
+          "editableUntil": "2020-04-29T01:50:09.094Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -89,7 +99,7 @@
       }
     ],
     "wof:id": 1729308385,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251116,
     "wof:name": "RT @thisisaaronland: today we published the fourth in a series of blog posts and how and why @sfomuseum is geotagging photos in its collect…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

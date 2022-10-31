@@ -24,6 +24,16 @@
         "0",
         "128"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "768225264048496640"
+          ],
+          "editableUntil": "2016-08-23T23:45:50.541Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -176,7 +186,7 @@
       }
     ],
     "wof:id": 1729297501,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251163,
     "wof:name": "RT @CNTraveler: This is the difference between travel alerts and travel warnings https://t.co/WV0nvfxgCT https://t.co/av2Vf1XmaO",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

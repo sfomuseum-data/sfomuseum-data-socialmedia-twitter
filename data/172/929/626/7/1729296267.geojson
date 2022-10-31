@@ -24,6 +24,16 @@
         "0",
         "99"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "735243223849799681"
+          ],
+          "editableUntil": "2016-05-24T23:26:59.381Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729296267,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251168,
     "wof:name": "RT @flySFO: Don't forget to vote SFO for 2016 Best Airport in the Americas! https://t.co/dBI4bAskDA",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

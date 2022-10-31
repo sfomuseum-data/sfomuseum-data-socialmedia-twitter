@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "187213929947213824"
+          ],
+          "editableUntil": "2012-04-03T16:54:13.823Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -44,7 +54,7 @@
               "40",
               "52"
             ],
-            "name": "Dr. Janni #EDI Aragon",
+            "name": "Janni #EDI Aragon, PhD",
             "screen_name": "janniaragon"
           }
         ]
@@ -87,7 +97,7 @@
       }
     ],
     "wof:id": 1729309125,
-    "wof:lastmodified": 1650908054,
+    "wof:lastmodified": 1667251179,
     "wof:name": "That's exactly what we like to hear! RT @janniaragon: The art in #SFO is lovely--related to sewing. Great displays. Lots looking at the art.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

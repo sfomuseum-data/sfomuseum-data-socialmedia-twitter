@@ -24,6 +24,16 @@
         "0",
         "102"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "687722768595554304"
+          ],
+          "editableUntil": "2016-01-14T20:17:39.961Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -78,7 +88,7 @@
               "3",
               "9"
             ],
-            "name": "John Q McDonald",
+            "name": "John Q McDonald 🇺🇦",
             "screen_name": "jqmcd"
           },
           {
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729294971,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "RT @jqmcd: The great Robert Bechtle, between restrooms @SFOMuseum @BayAreaArts https://t.co/TmuSzttyro",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

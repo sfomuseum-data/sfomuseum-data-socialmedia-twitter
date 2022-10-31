@@ -24,6 +24,16 @@
         "0",
         "25"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "327869068185071617"
+          ],
+          "editableUntil": "2013-04-26T20:07:32.025Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729311851,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251176,
     "wof:name": "@hbaskas Thanks, Harriet!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

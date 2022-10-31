@@ -24,6 +24,16 @@
         "0",
         "111"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "182219267868065792"
+          ],
+          "editableUntil": "2012-03-20T22:07:13.587Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729309029,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251179,
     "wof:name": "For centuries, circus performers have provided a wealth of inspiration to automata makers: http://t.co/ykYflHah",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

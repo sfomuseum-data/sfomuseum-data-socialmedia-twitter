@@ -24,6 +24,16 @@
         "0",
         "62"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "927969304405975040"
+          ],
+          "editableUntil": "2017-11-07T19:11:37.663Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -82,7 +92,7 @@
               "31",
               "38"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           }
         ]
@@ -166,7 +176,7 @@
       }
     ],
     "wof:id": 1729301683,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251145,
     "wof:name": "Farewell Queen! #UA747Farewell @flySFO https://t.co/rFQPDb7nUw",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

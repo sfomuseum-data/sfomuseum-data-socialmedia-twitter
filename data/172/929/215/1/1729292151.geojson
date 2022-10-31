@@ -24,6 +24,16 @@
         "0",
         "101"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "481544749472837632"
+          ],
+          "editableUntil": "2014-06-24T21:39:49.600Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -54,7 +64,7 @@
               "83",
               "90"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           }
         ]
@@ -102,7 +112,7 @@
       }
     ],
     "wof:id": 1729292151,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251174,
     "wof:name": "@caseyflies We're SO excited to be hosting! Looking forward to seeing you tomorrow @flySFO! #AAAEarts",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

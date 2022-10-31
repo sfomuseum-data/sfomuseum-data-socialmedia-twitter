@@ -24,6 +24,16 @@
         "0",
         "122"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "200625803053117442"
+          ],
+          "editableUntil": "2012-05-10T17:08:13.552Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -47,7 +57,18 @@
             "url": "http://t.co/CYWvUPa0"
           }
         ],
-        "user_mentions": []
+        "user_mentions": [
+          {
+            "id": "1585606486180261888",
+            "id_str": "1585606486180261888",
+            "indices": [
+              "89",
+              "101"
+            ],
+            "name": "ササキ",
+            "screen_name": "anotherpack"
+          }
+        ]
       },
       "favorite_count": "0",
       "favorited": false,
@@ -88,7 +109,7 @@
       }
     ],
     "wof:id": 1729309513,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "Easy on the eyes! Pics of T2's permanent art by @NishaJassal311 http://t.co/P15If7f1 and @anotherpack http://t.co/CYWvUPa0",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

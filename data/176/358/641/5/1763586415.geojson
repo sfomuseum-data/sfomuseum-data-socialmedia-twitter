@@ -21,6 +21,16 @@
         "0",
         "282"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1493760622747471878"
+          ],
+          "editableUntil": "2022-02-16T02:04:19.850Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -144,7 +154,7 @@
       "id_str": "1493760622747471878",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "4",
+      "retweet_count": "3",
       "retweeted": false,
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
@@ -175,7 +185,7 @@
       }
     ],
     "wof:id": 1763586415,
-    "wof:lastmodified": 1650908073,
+    "wof:lastmodified": 1667251175,
     "wof:name": "NEW Blog Alert! Check out “Interactive Historic Maps of SFO from 1930 to 2021” by our resident tech wizard, Aaron Cope. Learn more about this installation in the SkyTerrace observation deck in Terminal 2. https://t.co/eQl34NCMoz #maps #cartography #SFHistory https://t.co/OVNjMaasM5",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

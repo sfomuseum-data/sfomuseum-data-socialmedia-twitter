@@ -24,6 +24,16 @@
         "0",
         "40"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "218432424697274368"
+          ],
+          "editableUntil": "2012-06-28T20:25:22.983Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -72,7 +82,7 @@
       }
     ],
     "wof:id": 1729309897,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "@MasterJenti Oh, that *does* sound nice!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

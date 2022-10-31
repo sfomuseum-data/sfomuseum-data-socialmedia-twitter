@@ -24,6 +24,16 @@
         "0",
         "276"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "991104535652429824"
+          ],
+          "editableUntil": "2018-05-01T00:28:29.788Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -126,10 +136,6 @@
               "duration_millis": "25480",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/991104308564258817/pu/pl/rnNXgdizZXOBa7c6.m3u8?tag=3"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/991104308564258817/pu/vid/640x360/KJEg5ZXT-ZvG2zan.mp4?tag=3"
@@ -143,6 +149,10 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/991104308564258817/pu/vid/1280x720/2WxJW2y-G2_uFv4b.mp4?tag=3"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/991104308564258817/pu/pl/rnNXgdizZXOBa7c6.m3u8?tag=3"
                 }
               ]
             }
@@ -188,7 +198,7 @@
       }
     ],
     "wof:id": 1729303049,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251139,
     "wof:name": "NOW PLAYING:  \"The Fisherman\" by Luke Saunders. In this animation a  young woman endeavors to complete the life's work of her father in a  thoroughly electrified cityscape that supports a diverse ecosystem of  strange creatures. https://t.co/R0HozUcY9m https://t.co/6Mee0F9bj0",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

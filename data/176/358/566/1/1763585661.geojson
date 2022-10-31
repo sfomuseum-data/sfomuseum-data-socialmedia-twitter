@@ -21,6 +21,16 @@
         "0",
         "211"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1445184476930211840"
+          ],
+          "editableUntil": "2021-10-05T01:00:04.186Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -156,7 +166,7 @@
       }
     ],
     "wof:id": 1763585661,
-    "wof:lastmodified": 1650908039,
+    "wof:lastmodified": 1667251181,
     "wof:name": "The Greek term combines ‘poly’ meaning many and ‘hedra’ for faces or sides; hence, polyhedra are three-dimensional shapes made of polygon faces joined at the edges and corners. #MathAtSFO https://t.co/HDU9xVffJH",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

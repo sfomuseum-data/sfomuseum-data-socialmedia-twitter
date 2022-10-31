@@ -21,6 +21,16 @@
         "0",
         "228"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1508510406674825216"
+          ],
+          "editableUntil": "2022-03-28T18:54:42.376Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -179,7 +189,7 @@
       }
     ],
     "wof:id": 1763586721,
-    "wof:lastmodified": 1650908086,
+    "wof:lastmodified": 1667251173,
     "wof:name": "Modern cryptosystems rely on huge prime numbers for secure cyphers. Historically, secret messages could be sent by replacing one letter with another.  #MathAtSFO #Mathematics #Math #cryptologists #ciphers https://t.co/C4dofmnrQE",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

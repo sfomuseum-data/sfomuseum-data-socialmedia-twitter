@@ -24,6 +24,16 @@
         "0",
         "134"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "677989812700188672"
+          ],
+          "editableUntil": "2015-12-18T23:42:22.446Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -131,9 +141,8 @@
               "duration_millis": "14667",
               "variants": [
                 {
-                  "bitrate": "320000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/677989477520838656/pu/vid/320x180/9hcFLovG5WKMZRph.mp4"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/677989477520838656/pu/pl/Wu6hprpC4oHcVQDS.m3u8"
                 },
                 {
                   "bitrate": "2176000",
@@ -146,8 +155,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/677989477520838656/pu/vid/640x360/WX4Jxz_Sfr--45Dx.mp4"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/677989477520838656/pu/pl/Wu6hprpC4oHcVQDS.m3u8"
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/677989477520838656/pu/vid/320x180/9hcFLovG5WKMZRph.mp4"
                 }
               ]
             }
@@ -193,7 +203,7 @@
       }
     ],
     "wof:id": 1729294791,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "Check out this video of the installation of Marguerite Wildenhain’s potter’s wheel. #PondFarm #BehindTheScenes https://t.co/wlqyBZDpGY",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

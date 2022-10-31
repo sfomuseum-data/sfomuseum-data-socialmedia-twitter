@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "192388536798937090"
+          ],
+          "editableUntil": "2012-04-17T23:36:16.236Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729309283,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251179,
     "wof:name": "@pkedrosky So happy to hear that you enjoyed our sewing exhibit! We're doing our best to get folks off of those walkways :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

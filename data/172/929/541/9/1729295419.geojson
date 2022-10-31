@@ -24,6 +24,16 @@
         "0",
         "99"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "142307228458827776"
+          ],
+          "editableUntil": "2011-12-01T18:51:01.862Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729295419,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251180,
     "wof:name": "RT @mangababe: Very cool display in SFO Terminal 2 on the evolution of the LP and record cover art.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

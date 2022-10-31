@@ -24,6 +24,16 @@
         "0",
         "29"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "256461489081290752"
+          ],
+          "editableUntil": "2012-10-11T18:59:18.478Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729310887,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "@balletsj Thanks to you, too!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

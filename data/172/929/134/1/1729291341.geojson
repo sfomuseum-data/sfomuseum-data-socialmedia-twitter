@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "413106268266827776"
+          ],
+          "editableUntil": "2013-12-18T01:09:44.155Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729291341,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "From its first appearance in 1919 through to the present day, the Goodyear blimp is one of the most… http://t.co/dXfeGgeAUA",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

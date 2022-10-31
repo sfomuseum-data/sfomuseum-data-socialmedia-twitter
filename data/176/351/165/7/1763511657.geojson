@@ -21,6 +21,16 @@
         "0",
         "200"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1356395910071250956"
+          ],
+          "editableUntil": "2021-02-02T00:46:00.235Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -230,7 +240,7 @@
       }
     ],
     "wof:id": 1763511657,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251113,
     "wof:name": "#OnThisDay in 1928: Hangar No. 2 was under construction at Mills Field. It was followed soon after with Hangars 3 and 4. Renting an overnight spot within cost $1.50 #SFOHistory https://t.co/zD53RHJE8g",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

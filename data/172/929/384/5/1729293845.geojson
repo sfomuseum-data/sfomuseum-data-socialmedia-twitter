@@ -24,6 +24,16 @@
         "0",
         "121"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "630846904528670724"
+          ],
+          "editableUntil": "2015-08-10T21:33:17.265Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -88,7 +98,7 @@
               "87",
               "98"
             ],
-            "name": "CA AcademyOfSciences",
+            "name": "California Academy of Sciences",
             "screen_name": "calacademy"
           }
         ]
@@ -176,7 +186,7 @@
       }
     ],
     "wof:id": 1729293845,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "RT @mishoptera: Love the California natural history display at SFO! Specimens are from @calacademy http://t.co/AFULVIiOmE",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

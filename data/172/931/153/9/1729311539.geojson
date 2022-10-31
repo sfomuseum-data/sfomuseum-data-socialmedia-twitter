@@ -24,6 +24,16 @@
         "0",
         "50"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "304673913433112578"
+          ],
+          "editableUntil": "2013-02-21T19:58:16.187Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729311539,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251177,
     "wof:name": "@skippypoppin  Thanks for checking out Let's Play!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

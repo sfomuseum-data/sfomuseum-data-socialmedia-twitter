@@ -24,6 +24,16 @@
         "0",
         "76"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "567810025859862528"
+          ],
+          "editableUntil": "2015-02-17T22:47:14.222Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -74,7 +84,7 @@
       "full_text": "#GoneFishing #TravelTuesday #IcelandAir #LuggageLabel http://t.co/JbTkDJ2Vls",
       "id": "567810025859862528",
       "id_str": "567810025859862528",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
@@ -108,7 +118,7 @@
       }
     ],
     "wof:id": 1729293031,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "#GoneFishing #TravelTuesday #IcelandAir #LuggageLabel http://t.co/JbTkDJ2Vls",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

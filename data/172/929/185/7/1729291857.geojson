@@ -24,6 +24,16 @@
         "0",
         "130"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "136159193089589248"
+          ],
+          "editableUntil": "2011-11-14T19:40:56.005Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -46,7 +56,7 @@
               "32",
               "43"
             ],
-            "name": "CA AcademyOfSciences",
+            "name": "California Academy of Sciences",
             "screen_name": "calacademy"
           }
         ]
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729291857,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251180,
     "wof:name": "See them in the T1 aquarium! MT @calacademy: 1 species, 10 patterns? Why poison dart frogs dress differently: http://t.co/8sLYstIb",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

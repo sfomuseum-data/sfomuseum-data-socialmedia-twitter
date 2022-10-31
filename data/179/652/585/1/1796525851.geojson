@@ -1,0 +1,191 @@
+{
+  "id": 1796525851,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-08-29",
+    "date:cessation_upper": "2022-08-29",
+    "date:inception_lower": "2022-08-29",
+    "date:inception_upper": "2022-08-29",
+    "edtf:cessation": "2022-08-29T13:16:07-07:00",
+    "edtf:inception": "2022-08-29T13:16:07-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1661804167,
+      "created_at": "Mon Aug 29 20:16:07 +0000 2022",
+      "display_text_range": [
+        "0",
+        "224"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1564346177645977600"
+          ],
+          "editableUntil": "2022-08-29T20:46:07.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "178",
+              "194"
+            ],
+            "text": "PineappletoPina"
+          },
+          {
+            "indices": [
+              "195",
+              "200"
+            ],
+            "text": "piña"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/5iKFf7UTj9",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1564346177645977600/photo/1",
+            "id": "1564346094913327105",
+            "id_str": "1564346094913327105",
+            "indices": [
+              "201",
+              "224"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbWsfC0UEAEVgEC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbWsfC0UEAEVgEC.jpg",
+            "sizes": {
+              "large": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "medium": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5iKFf7UTj9"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/5iKFf7UTj9",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1564346177645977600/photo/1",
+            "id": "1564346094913327105",
+            "id_str": "1564346094913327105",
+            "indices": [
+              "201",
+              "224"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbWsfC0UEAEVgEC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbWsfC0UEAEVgEC.jpg",
+            "sizes": {
+              "large": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "medium": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5iKFf7UTj9"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "His signature textile is piña, and he has played a pivotal role in incorporating the fabric into high fashion designs, including bridal gowns, women’s couture, and men’s shirts.\n#PineappletoPina #piña https://t.co/5iKFf7UTj9",
+      "id": "1564346177645977600",
+      "id_str": "1564346177645977600",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1564346172822544385",
+      "in_reply_to_status_id_str": "1564346172822544385",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251113,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796525851,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796525851,
+    "wof:lastmodified": 1667251113,
+    "wof:name": "His signature textile is piña, and he has played a pivotal role in incorporating the fabric into high fashion designs, including bridal gowns, women’s couture, and men’s shirts.\n#PineappletoPina #piña https://t.co/5iKFf7UTj9",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

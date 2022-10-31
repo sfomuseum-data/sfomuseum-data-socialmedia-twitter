@@ -24,6 +24,16 @@
         "0",
         "80"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "461969382760267776"
+          ],
+          "editableUntil": "2014-05-01T21:14:18.483Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729291895,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251174,
     "wof:name": "How warm is it today? This is what it feels like @flySFO: http://t.co/HAGymWsmk6",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

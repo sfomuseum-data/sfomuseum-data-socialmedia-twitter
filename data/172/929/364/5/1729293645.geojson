@@ -24,6 +24,16 @@
         "0",
         "70"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "623643834308800512"
+          ],
+          "editableUntil": "2015-07-22T00:30:51.498Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -76,7 +86,7 @@
       }
     ],
     "wof:id": 1729293645,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "Where would you go on this gloriously sunny day at SFO? #TravelTuesday",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "137"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "619640625953046528"
+          ],
+          "editableUntil": "2015-07-10T23:23:32.250Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -141,11 +151,6 @@
               "duration_millis": "14415",
               "variants": [
                 {
-                  "bitrate": "320000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/619640565148205056/pu/vid/240x240/JVf--6Rf4NZ4nz6E.mp4"
-                },
-                {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/619640565148205056/pu/pl/V71rcKWSH3cVrSEa.m3u8"
                 },
@@ -153,6 +158,11 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/619640565148205056/pu/vid/480x480/vHHSltk3FZ90nqyc.mp4"
+                },
+                {
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/619640565148205056/pu/vid/240x240/JVf--6Rf4NZ4nz6E.mp4"
                 }
               ]
             }
@@ -198,7 +208,7 @@
       }
     ],
     "wof:id": 1729293517,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "Time lapse video of the Humboldt Squid going into our #ILoveYouCA exhibit. http://t.co/AGYBm6PvXG #BehindTheScenes http://t.co/nTPxGcZCpY",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

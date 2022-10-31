@@ -21,6 +21,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1482152144597749764"
+          ],
+          "editableUntil": "2022-01-15T01:16:22.984Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -85,7 +95,7 @@
       }
     ],
     "wof:id": 1763586255,
-    "wof:lastmodified": 1650908066,
+    "wof:lastmodified": 1667251178,
     "wof:name": "RT @thisisaaronland: did you know that the @sfomuseum aviation collection website publishes an opensearch description file so you query the…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

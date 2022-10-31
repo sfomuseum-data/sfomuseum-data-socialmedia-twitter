@@ -24,6 +24,16 @@
         "0",
         "106"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "334337510522114050"
+          ],
+          "editableUntil": "2013-05-14T16:30:48.856Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -57,25 +67,25 @@
         ],
         "user_mentions": [
           {
-            "id": "18078559",
-            "id_str": "18078559",
+            "id": "1573362230812413954",
+            "id_str": "1573362230812413954",
             "indices": [
               "52",
               "59"
             ],
-            "name": "Chip Luman",
-            "screen_name": "cluman"
+            "name": "Chana Luman",
+            "screen_name": "CLuman"
           }
         ]
       },
-      "favorite_count": "1",
+      "favorite_count": "0",
       "favorited": false,
       "full_text": "Great pics this morning of our #Recology exhibit by @cluman! http://t.co/CGJKiZGcQH http://t.co/wrLNaBC1Kh",
       "id": "334337510522114050",
       "id_str": "334337510522114050",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "2",
+      "retweet_count": "1",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -107,7 +117,7 @@
       }
     ],
     "wof:id": 1729312001,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251176,
     "wof:name": "Great pics this morning of our #Recology exhibit by @cluman! http://t.co/CGJKiZGcQH http://t.co/wrLNaBC1Kh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

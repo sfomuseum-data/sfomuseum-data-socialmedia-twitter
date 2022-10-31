@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1105238334459109376"
+          ],
+          "editableUntil": "2019-03-11T23:15:27.927Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729305599,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251127,
     "wof:name": "RT @FredNoonan: There are many tools that are needed for flights across the ocean. The Dalton Aircraft Navigational Computer, Mark VII is u…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

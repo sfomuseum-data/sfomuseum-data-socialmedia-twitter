@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "740020480338432001"
+          ],
+          "editableUntil": "2016-06-07T03:50:06.085Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -76,7 +86,7 @@
       "id_str": "740020480338432001",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "2",
+      "retweet_count": "1",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -108,7 +118,7 @@
       }
     ],
     "wof:id": 1729296355,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251168,
     "wof:name": "Are you an #avgeek? Would you like to work at #SFO? SFO Museum is looking for a #Curator of #Aviation! Apply by 6/15:https://t.co/KqhLfUSh1S",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

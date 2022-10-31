@@ -24,6 +24,16 @@
         "0",
         "80"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "214827326314258433"
+          ],
+          "editableUntil": "2012-06-18T21:40:00.549Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729309773,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "@maigochan Thanks for checking out Threading the Needle! We hope you enjoyed it!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

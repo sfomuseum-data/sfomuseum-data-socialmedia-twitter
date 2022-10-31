@@ -24,6 +24,16 @@
         "0",
         "287"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1024090785073913857"
+          ],
+          "editableUntil": "2018-07-31T01:04:04.505Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -138,6 +148,11 @@
               "duration_millis": "38560",
               "variants": [
                 {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1024090482253516800/pu/vid/1280x720/IBkjptb7FQt7DduT.mp4?tag=4"
+                },
+                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1024090482253516800/pu/vid/320x180/tw4rGrJT5p6YCCre.mp4?tag=4"
@@ -150,11 +165,6 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1024090482253516800/pu/vid/640x360/DLf28us04KwlKiyY.mp4?tag=4"
-                },
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1024090482253516800/pu/vid/1280x720/IBkjptb7FQt7DduT.mp4?tag=4"
                 }
               ]
             }
@@ -200,7 +210,7 @@
       }
     ],
     "wof:id": 1729303797,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251137,
     "wof:name": "NOW PLAYING: \"The Art of Flying\" by Jan van IJken. van IJken filmed one of the most spectacular natural phenomena on earth, when, during a particularly warm summer, thousands of #starlings stayed in the #Netherlands instead of migrating southwards. #VideoArtsSFOM https://t.co/61J7RQiyQf",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "70"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "667023968336027648"
+          ],
+          "editableUntil": "2015-11-18T17:28:01.414Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -286,7 +296,7 @@
       }
     ],
     "wof:id": 1729294563,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251172,
     "wof:name": "RT @ed_lea: Very cool toy story display at SFO https://t.co/2dkVUfbpLt",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

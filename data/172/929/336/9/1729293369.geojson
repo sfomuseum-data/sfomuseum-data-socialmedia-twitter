@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "596809361701351425"
+          ],
+          "editableUntil": "2015-05-08T23:20:14.668Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729293369,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "It's the final weekend for T2 passengers to view Studio Glass! Marvin Lipofsky, Dick Marquis, John… https://t.co/feUu9TEuhz",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

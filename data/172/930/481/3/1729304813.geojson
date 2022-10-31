@@ -24,6 +24,16 @@
         "0",
         "301"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1067162369560702977"
+          ],
+          "editableUntil": "2018-11-26T21:35:10.478Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -162,13 +172,13 @@
               "duration_millis": "20680",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1067161623863775232/pu/pl/yKu8ca3sCt7o7as5.m3u8?tag=5"
+                },
+                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1067161623863775232/pu/vid/320x180/TDFHJ5IC8NKOxPnr.mp4?tag=5"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1067161623863775232/pu/pl/yKu8ca3sCt7o7as5.m3u8?tag=5"
                 },
                 {
                   "bitrate": "832000",
@@ -224,7 +234,7 @@
       }
     ],
     "wof:id": 1729304813,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251131,
     "wof:name": "NOW PLAYING: \"Am I Paris?\" by #RedhaMedjellekh. #Filmmaker #Medjellekh finds inspiration in the City of Lights with costumed dancer Brice Larrieu navigating the streets—and rooftops—of #Paris to Sergei Prokofiev’s “Dance of the Knights.”  https://t.co/5IUhYW5glU #VideoArtsSFOM https://t.co/FJ56tOHj2u",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

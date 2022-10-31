@@ -24,6 +24,16 @@
         "0",
         "133"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "694728307955343360"
+          ],
+          "editableUntil": "2016-02-03T04:15:10.701Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -137,14 +147,14 @@
           }
         ]
       },
-      "favorite_count": "3",
+      "favorite_count": "2",
       "favorited": false,
       "full_text": "Based in Charlotte, North Carolina, the #Panthers are playing the #Broncos on Sunday at #SB50! #TravelTuesday https://t.co/7o6IYW3xt6",
       "id": "694728307955343360",
       "id_str": "694728307955343360",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "2",
+      "retweet_count": "1",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -176,7 +186,7 @@
       }
     ],
     "wof:id": 1729295139,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "Based in Charlotte, North Carolina, the #Panthers are playing the #Broncos on Sunday at #SB50! #TravelTuesday https://t.co/7o6IYW3xt6",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "84"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "123796258107305987"
+          ],
+          "editableUntil": "2011-10-11T16:55:02.613Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -72,7 +82,7 @@
       }
     ],
     "wof:id": 1729309485,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251181,
     "wof:name": "@patatfat We're glad to hear that you liked the exhibit! Hope you had a good flight!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

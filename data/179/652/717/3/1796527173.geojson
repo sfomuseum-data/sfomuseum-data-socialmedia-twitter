@@ -1,0 +1,193 @@
+{
+  "id": 1796527173,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-09-28",
+    "date:cessation_upper": "2022-09-28",
+    "date:inception_lower": "2022-09-28",
+    "date:inception_upper": "2022-09-28",
+    "edtf:cessation": "2022-09-27T17:01:40-07:00",
+    "edtf:inception": "2022-09-27T17:01:40-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1664323300,
+      "created_at": "Wed Sep 28 00:01:40 +0000 2022",
+      "display_text_range": [
+        "0",
+        "299"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1574912185511575557"
+          ],
+          "editableUntil": "2022-09-28T00:31:40.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "185",
+              "192"
+            ],
+            "text": "Qantas"
+          },
+          {
+            "indices": [
+              "247",
+              "267"
+            ],
+            "text": "FlyingSouthernCross"
+          },
+          {
+            "indices": [
+              "268",
+              "275"
+            ],
+            "text": "Avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/AIIKbvO3Ju",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1574912185511575557/photo/1",
+            "id": "1574912050819522560",
+            "id_str": "1574912050819522560",
+            "indices": [
+              "276",
+              "299"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fds2Kn2UYAA-IWW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fds2Kn2UYAA-IWW.jpg",
+            "sizes": {
+              "large": {
+                "h": "1508",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/AIIKbvO3Ju"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/AIIKbvO3Ju",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1574912185511575557/photo/1",
+            "id": "1574912050819522560",
+            "id_str": "1574912050819522560",
+            "indices": [
+              "276",
+              "299"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fds2Kn2UYAA-IWW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fds2Kn2UYAA-IWW.jpg",
+            "sizes": {
+              "large": {
+                "h": "1508",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/AIIKbvO3Ju"
+          }
+        ]
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "In the 1970s, Qantas contracted fine bone china maker, Wedgwood of England, to create a new inflight first-class meal service set. The set featured the “Alice Springs” pattern with the #Qantas winged-kangaroo logo in gold and a gold-lined border. #FlyingSouthernCross #Avgeek https://t.co/AIIKbvO3Ju",
+      "id": "1574912185511575557",
+      "id_str": "1574912185511575557",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251181,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796527173,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796527173,
+    "wof:lastmodified": 1667251181,
+    "wof:name": "In the 1970s, Qantas contracted fine bone china maker, Wedgwood of England, to create a new inflight first-class meal service set. The set featured the “Alice Springs” pattern with the #Qantas winged-kangaroo logo in gold and a gold-lined border. #FlyingSouthernCross #Avgeek https://t.co/AIIKbvO3Ju",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

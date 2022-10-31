@@ -24,6 +24,16 @@
         "0",
         "88"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "157507631974592513"
+          ],
+          "editableUntil": "2012-01-12T17:32:00.470Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -82,7 +92,7 @@
       }
     ],
     "wof:id": 1729302195,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251179,
     "wof:name": "@N Thanks for much for checking out (\u0026 documenting) our exhibit! We hope you enjoyed it!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -1,0 +1,198 @@
+{
+  "id": 1796527031,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2016-07-25",
+    "date:cessation_upper": "2016-07-25",
+    "date:inception_lower": "2016-07-25",
+    "date:inception_upper": "2016-07-25",
+    "edtf:cessation": "2016-07-25T14:24:24-07:00",
+    "edtf:inception": "2016-07-25T14:24:24-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1469481864,
+      "created_at": "Mon Jul 25 21:24:24 +0000 2016",
+      "display_text_range": [
+        "0",
+        "59"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "757687972141600768"
+          ],
+          "editableUntil": "2016-07-25T21:54:24.377Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "30",
+              "35"
+            ],
+            "text": "A380"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/6el3GaUBSp",
+            "expanded_url": "https://twitter.com/iLove_Aviation/status/715716393002360832/photo/1",
+            "id": "715716371468783616",
+            "id_str": "715716371468783616",
+            "indices": [
+              "36",
+              "59"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ce68P3FUEAA50Z1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ce68P3FUEAA50Z1.jpg",
+            "sizes": {
+              "large": {
+                "h": "712",
+                "resize": "fit",
+                "w": "960"
+              },
+              "medium": {
+                "h": "712",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "504",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "715716393002360832",
+            "source_status_id_str": "715716393002360832",
+            "source_user_id": "2546037755",
+            "source_user_id_str": "2546037755",
+            "type": "photo",
+            "url": "https://t.co/6el3GaUBSp"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "2546037755",
+            "id_str": "2546037755",
+            "indices": [
+              "3",
+              "18"
+            ],
+            "name": "Aviation ✈️",
+            "screen_name": "ilove_aviation"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/6el3GaUBSp",
+            "expanded_url": "https://twitter.com/iLove_Aviation/status/715716393002360832/photo/1",
+            "id": "715716371468783616",
+            "id_str": "715716371468783616",
+            "indices": [
+              "36",
+              "59"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ce68P3FUEAA50Z1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ce68P3FUEAA50Z1.jpg",
+            "sizes": {
+              "large": {
+                "h": "712",
+                "resize": "fit",
+                "w": "960"
+              },
+              "medium": {
+                "h": "712",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "504",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "715716393002360832",
+            "source_status_id_str": "715716393002360832",
+            "source_user_id": "2546037755",
+            "source_user_id_str": "2546037755",
+            "type": "photo",
+            "url": "https://t.co/6el3GaUBSp"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @iLove_Aviation: The beast #A380 https://t.co/6el3GaUBSp",
+      "id": "757687972141600768",
+      "id_str": "757687972141600768",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251167,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796527031,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796527031,
+    "wof:lastmodified": 1667251167,
+    "wof:name": "RT @iLove_Aviation: The beast #A380 https://t.co/6el3GaUBSp",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

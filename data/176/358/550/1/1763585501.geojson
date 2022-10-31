@@ -21,6 +21,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1440780304797425671"
+          ],
+          "editableUntil": "2021-09-22T21:19:27.724Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -48,7 +58,7 @@
               "3",
               "10"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           }
         ]
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1763585501,
-    "wof:lastmodified": 1650908032,
+    "wof:lastmodified": 1667251181,
     "wof:name": "RT @flySFO: #SFO is the first US airport to require #COVID19 vaccinations for all on-site employees. Effective immediately, every SFO tenan…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

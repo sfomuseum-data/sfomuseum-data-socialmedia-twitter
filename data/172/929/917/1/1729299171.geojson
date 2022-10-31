@@ -24,6 +24,16 @@
         "0",
         "80"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "822248206335614978"
+          ],
+          "editableUntil": "2017-01-20T01:33:43.680Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729299171,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251157,
     "wof:name": "RT @AirlineFlyer: .@Airbus just trolled @BoeingAirplanes https://t.co/8U9WTieL8M",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "105"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "705093458277457920"
+          ],
+          "editableUntil": "2016-03-02T18:42:35.113Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -58,14 +68,14 @@
             "screen_name": "museumofflight"
           },
           {
-            "id": "6375322",
-            "id_str": "6375322",
+            "id": "1542750741265543168",
+            "id_str": "1542750741265543168",
             "indices": [
               "69",
               "80"
             ],
-            "name": "Vimeo Livestream",
-            "screen_name": "Livestream"
+            "name": "Live stream",
+            "screen_name": "LiveStream"
           }
         ]
       },
@@ -108,7 +118,7 @@
       }
     ],
     "wof:id": 1729295259,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "RT @museumofflight: 727 in final prep for takeoff #727FinalFlight on @livestream: https://t.co/cvYM1AM7y1",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

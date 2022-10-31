@@ -24,6 +24,16 @@
         "0",
         "99"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "142825250940403712"
+          ],
+          "editableUntil": "2011-12-03T05:09:28.046Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -100,7 +110,7 @@
       }
     ],
     "wof:id": 1729295963,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251180,
     "wof:name": "RT @djid4: No camera shutter can capture @djqbert quickness on the crossfader  http://t.co/tKte1cds",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

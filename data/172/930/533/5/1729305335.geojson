@@ -24,6 +24,16 @@
         "0",
         "109"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "165153772400685056"
+          ],
+          "editableUntil": "2012-02-02T19:55:02.406Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -36,7 +46,7 @@
               "0",
               "8"
             ],
-            "name": "julia good fox",
+            "name": "julia",
             "screen_name": "goodfox"
           }
         ]
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729305335,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251179,
     "wof:name": "@goodfox Wow, thank you!! If you're back before the end of Feb, you'll be able to see it again. Safe travels!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

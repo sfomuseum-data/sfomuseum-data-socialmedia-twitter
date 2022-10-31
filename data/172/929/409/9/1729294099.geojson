@@ -24,6 +24,16 @@
         "0",
         "139"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "649304077776617472"
+          ],
+          "editableUntil": "2015-09-30T19:55:30.285Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -118,7 +128,7 @@
           }
         ]
       },
-      "favorite_count": "1",
+      "favorite_count": "0",
       "favorited": false,
       "full_text": "Follow the journey of the 1st scheduled flights from SF to Asia in our China Clipper exhibit. http://t.co/nw2OrDaMou http://t.co/Xl04D1epRn",
       "id": "649304077776617472",
@@ -157,7 +167,7 @@
       }
     ],
     "wof:id": 1729294099,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "Follow the journey of the 1st scheduled flights from SF to Asia in our China Clipper exhibit. http://t.co/nw2OrDaMou http://t.co/Xl04D1epRn",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

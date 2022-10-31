@@ -24,6 +24,16 @@
         "0",
         "142"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "790252784415277057"
+          ],
+          "editableUntil": "2016-10-23T18:35:20.648Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -151,7 +161,7 @@
       "id_str": "790252784415277057",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "25",
+      "retweet_count": "24",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -183,7 +193,7 @@
       }
     ],
     "wof:id": 1729298227,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251161,
     "wof:name": "On October 23, 2003 the #BritishAirways #Concorde made its last west-bound flight. #onthisday #aviationhistory #avgeek https://t.co/ZP1lRPXdT1",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

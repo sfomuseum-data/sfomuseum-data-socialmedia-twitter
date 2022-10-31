@@ -24,6 +24,16 @@
         "0",
         "84"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "520365970804596736"
+          ],
+          "editableUntil": "2014-10-10T00:41:30.029Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -81,7 +91,7 @@
       "full_text": "#ThrowbackThursday #PanAm #ChinaClipper #MoodLighting http://t.co/mlP6YPA1RY #avgeek",
       "id": "520365970804596736",
       "id_str": "520365970804596736",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "1",
       "retweeted": false,
@@ -115,7 +125,7 @@
       }
     ],
     "wof:id": 1729292663,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "#ThrowbackThursday #PanAm #ChinaClipper #MoodLighting http://t.co/mlP6YPA1RY #avgeek",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

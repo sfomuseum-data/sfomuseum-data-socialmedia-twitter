@@ -24,6 +24,16 @@
         "0",
         "22"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "131779030608379905"
+          ],
+          "editableUntil": "2011-11-02T17:35:43.890Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -82,7 +92,7 @@
       }
     ],
     "wof:id": 1729290683,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251180,
     "wof:name": "@bradblackinc  Thanks!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

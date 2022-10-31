@@ -24,6 +24,16 @@
         "0",
         "128"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "306837501769822208"
+          ],
+          "editableUntil": "2013-02-27T19:15:35.844Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -46,20 +56,9 @@
             "url": "http://t.co/1CngXmnw6m"
           }
         ],
-        "user_mentions": [
-          {
-            "id": "14630432",
-            "id_str": "14630432",
-            "indices": [
-              "74",
-              "85"
-            ],
-            "name": "Shervin",
-            "screen_name": "calitalieh"
-          }
-        ]
+        "user_mentions": []
       },
-      "favorite_count": "1",
+      "favorite_count": "0",
       "favorited": false,
       "full_text": "Beautiful pic of Joyce Hsu's \"Namoo House,\" located in the Intl Term.  MT @calitalieh: Photo: #art at SFO http://t.co/1CngXmnw6m",
       "id": "306837501769822208",
@@ -98,7 +97,7 @@
       }
     ],
     "wof:id": 1729311527,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251177,
     "wof:name": "Beautiful pic of Joyce Hsu's \"Namoo House,\" located in the Intl Term.  MT @calitalieh: Photo: #art at SFO http://t.co/1CngXmnw6m",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "136"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "365924237824884736"
+          ],
+          "editableUntil": "2013-08-09T20:25:11.498Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -131,7 +141,7 @@
               "120",
               "136"
             ],
-            "name": "Oakland Museum of California",
+            "name": "Oakland Museum of California (OMCA)",
             "screen_name": "oaklandmuseumca"
           }
         ]
@@ -141,7 +151,7 @@
       "full_text": "#MuseumLove RT @peninsulamuseum #FF @SFOMuseum @asianartmuseum @deyoungmuseum @LegionofHonor @SFMOMA @Jewseum @sjmusart @oaklandmuseumca",
       "id": "365924237824884736",
       "id_str": "365924237824884736",
-      "lang": "und",
+      "lang": "qme",
       "retweet_count": "1",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
@@ -174,7 +184,7 @@
       }
     ],
     "wof:id": 1729312361,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251176,
     "wof:name": "#MuseumLove RT @peninsulamuseum #FF @SFOMuseum @asianartmuseum @deyoungmuseum @LegionofHonor @SFMOMA @Jewseum @sjmusart @oaklandmuseumca",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

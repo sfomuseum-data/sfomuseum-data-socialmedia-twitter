@@ -24,6 +24,16 @@
         "0",
         "297"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1115421752954245120"
+          ],
+          "editableUntil": "2019-04-09T01:40:44.095Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -113,6 +123,42 @@
             },
             "type": "photo",
             "url": "https://t.co/vwJ2LSsoFi"
+          },
+          {
+            "display_url": "pic.twitter.com/vwJ2LSsoFi",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1115421752954245120/photo/1",
+            "id": "1115421662487273472",
+            "id_str": "1115421662487273472",
+            "indices": [
+              "274",
+              "297"
+            ],
+            "media_url": "http://pbs.twimg.com/media/D3rGF59UYAAw9EQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D3rGF59UYAAw9EQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1536"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vwJ2LSsoFi"
           }
         ]
       },
@@ -155,7 +201,7 @@
       }
     ],
     "wof:id": 1729305875,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251127,
     "wof:name": "Sometimes, it really is all fun and games at the museum! The nearly 300 model airplanes displayed in “Aviation Evolutions” need to go back into storage and our collections team is playing a game of museum Tetris to find the most efficient way to pack them. #behindthescenes https://t.co/vwJ2LSsoFi",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

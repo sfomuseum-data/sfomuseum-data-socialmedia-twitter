@@ -24,6 +24,16 @@
         "0",
         "221"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1054900164278726656"
+          ],
+          "editableUntil": "2018-10-24T01:29:32.918Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -138,13 +148,13 @@
               "duration_millis": "29997",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1054899814540894210/pu/pl/ELWLSUumOww2TfLK.m3u8?tag=5"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1054899814540894210/pu/vid/640x360/DCxFaWcNFBPR2f9s.mp4?tag=5"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1054899814540894210/pu/vid/1280x720/AVKGW2zBEU7lvnPU.mp4?tag=5"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1054899814540894210/pu/pl/ELWLSUumOww2TfLK.m3u8?tag=5"
                 },
                 {
                   "bitrate": "256000",
@@ -152,9 +162,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1054899814540894210/pu/vid/320x180/zPpnKhZK6EyqDSuA.mp4?tag=5"
                 },
                 {
-                  "bitrate": "832000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1054899814540894210/pu/vid/640x360/DCxFaWcNFBPR2f9s.mp4?tag=5"
+                  "url": "https://video.twimg.com/ext_tw_video/1054899814540894210/pu/vid/1280x720/AVKGW2zBEU7lvnPU.mp4?tag=5"
                 }
               ]
             }
@@ -200,7 +210,7 @@
       }
     ],
     "wof:id": 1729304527,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251131,
     "wof:name": "Born in Centerville, Texas, country bluesman #LightninHopkins recorded  nearly two-hundred songs during his career, which began in the 1940s and ended in the early 1980s. #storyofarhoolie #arhoolie https://t.co/5Stbl7yJvN",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

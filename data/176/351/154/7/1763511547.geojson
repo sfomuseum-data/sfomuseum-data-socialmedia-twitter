@@ -21,6 +21,16 @@
         "0",
         "139"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1348683652893298689"
+          ],
+          "editableUntil": "2021-01-11T18:00:14.837Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -75,7 +85,7 @@
       }
     ],
     "wof:id": 1763511547,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251113,
     "wof:name": "RT @airandspace: On this day in 1935, Amelia Earhart left Hawaii in her Lockheed Vega on the first solo flight from Hawaii to the mainland…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

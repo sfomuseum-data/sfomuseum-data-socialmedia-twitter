@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1184875249885560832"
+          ],
+          "editableUntil": "2019-10-17T17:24:08.147Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -87,7 +97,7 @@
       }
     ],
     "wof:id": 1729307243,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251121,
     "wof:name": "RT @flySFO: #SFO’s gates have a new numbering system which emphasizes a logical sequence of gate numbers. \n\nThe new number designations are…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

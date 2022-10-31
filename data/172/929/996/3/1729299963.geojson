@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "857271885138059264"
+          ],
+          "editableUntil": "2017-04-26T17:05:19.415Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -89,7 +99,7 @@
       }
     ],
     "wof:id": 1729299963,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251151,
     "wof:name": "RT @flySFO: ***ATTENTION*** Some of @AlaskaAir operations will move to Terminal 2 tomorrow. Please check with the airline for your specific…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

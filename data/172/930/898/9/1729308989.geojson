@@ -24,6 +24,16 @@
         "0",
         "101"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "178239194374737921"
+          ],
+          "editableUntil": "2012-03-09T22:31:50.120Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -109,7 +119,7 @@
       }
     ],
     "wof:id": 1729308989,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251179,
     "wof:name": "We totally agree : ) RT @jpmann: @jbarro if you like @BWI_Airport you should really follow @SFOMuseum",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

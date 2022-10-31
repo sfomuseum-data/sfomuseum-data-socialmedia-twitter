@@ -24,6 +24,16 @@
         "0",
         "96"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "154705865411276801"
+          ],
+          "editableUntil": "2012-01-04T23:58:47.267Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -92,7 +102,7 @@
       }
     ],
     "wof:id": 1729300951,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251179,
     "wof:name": "@exploratorium Scissors and rocks don't fly at airports (ha!), so we'd throw paper #afterdarkRPS",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

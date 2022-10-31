@@ -1,0 +1,262 @@
+{
+  "id": 1796526631,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-06-03",
+    "date:cessation_upper": "2022-06-03",
+    "date:inception_lower": "2022-06-03",
+    "date:inception_upper": "2022-06-03",
+    "edtf:cessation": "2022-06-03T08:48:25-07:00",
+    "edtf:inception": "2022-06-03T08:48:25-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1654271305,
+      "created_at": "Fri Jun 03 15:48:25 +0000 2022",
+      "display_text_range": [
+        "0",
+        "296"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1532751063488397313"
+          ],
+          "editableUntil": "2022-06-03T16:18:25.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "199",
+              "209"
+            ],
+            "text": "VideoArts"
+          },
+          {
+            "indices": [
+              "210",
+              "223"
+            ],
+            "text": "VideoArtsSFO"
+          },
+          {
+            "indices": [
+              "224",
+              "230"
+            ],
+            "text": "pride"
+          },
+          {
+            "indices": [
+              "231",
+              "243"
+            ],
+            "text": "unitymosque"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UD1ePwry0J",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1532751063488397313/video/1",
+            "id": "1532750938909200384",
+            "id_str": "1532750938909200384",
+            "indices": [
+              "273",
+              "296"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1532750938909200384/pu/img/WV5lwo6bwvhHNXcY.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1532750938909200384/pu/img/WV5lwo6bwvhHNXcY.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/UD1ePwry0J"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/3tb88C4",
+            "expanded_url": "https://bit.ly/3tb88C4",
+            "indices": [
+              "175",
+              "198"
+            ],
+            "url": "https://t.co/OGuVFm64QY"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "29382811",
+            "id_str": "29382811",
+            "indices": [
+              "244",
+              "256"
+            ],
+            "name": "Nicole Teeny",
+            "screen_name": "nicoleteeny"
+          },
+          {
+            "id": "195027633",
+            "id_str": "195027633",
+            "indices": [
+              "257",
+              "272"
+            ],
+            "name": "CaveLight Films",
+            "screen_name": "cavelightfilms"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/UD1ePwry0J",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1532751063488397313/video/1",
+            "id": "1532750938909200384",
+            "id_str": "1532750938909200384",
+            "indices": [
+              "273",
+              "296"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1532750938909200384/pu/img/WV5lwo6bwvhHNXcY.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1532750938909200384/pu/img/WV5lwo6bwvhHNXcY.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/UD1ePwry0J",
+            "video_info": {
+              "aspect_ratio": [
+                "16",
+                "9"
+              ],
+              "duration_millis": "54637",
+              "variants": [
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1532750938909200384/pu/vid/1280x720/Yw6-1_I8_n7Uk7bi.mp4?tag=12"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1532750938909200384/pu/vid/640x360/jPa60edRt9PSgoSr.mp4?tag=12"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1532750938909200384/pu/vid/480x270/rV3OenhzTWWrfyXG.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1532750938909200384/pu/pl/JrNNjLWI0HmYEhHv.m3u8?tag=12\u0026container=fmp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "Filmmaker Nicole Teeny celebrates one of the world’s first Queer-affirming and gender-equal mosques, located in Toronto and co-founded by Imam El-Farouk and his husband Troy. https://t.co/OGuVFm64QY\n#VideoArts #VideoArtsSFO #pride #unitymosque @nicoleteeny @cavelightfilms https://t.co/UD1ePwry0J",
+      "id": "1532751063488397313",
+      "id_str": "1532751063488397313",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251147,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796526631,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796526631,
+    "wof:lastmodified": 1667251147,
+    "wof:name": "Filmmaker Nicole Teeny celebrates one of the world’s first Queer-affirming and gender-equal mosques, located in Toronto and co-founded by Imam El-Farouk and his husband Troy. https://t.co/OGuVFm64QY\n#VideoArts #VideoArtsSFO #pride #unitymosque @nicoleteeny @cavelightfilms https://t.co/UD1ePwry0J",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

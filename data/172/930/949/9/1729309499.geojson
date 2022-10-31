@@ -24,6 +24,16 @@
         "0",
         "41"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "123526994892832771"
+          ],
+          "editableUntil": "2011-10-10T23:05:05.260Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729309499,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251181,
     "wof:name": "@gogograce So glad you liked the exhibit!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

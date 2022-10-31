@@ -24,6 +24,16 @@
         "0",
         "98"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "842785106305544193"
+          ],
+          "editableUntil": "2017-03-17T17:40:02.190Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729299655,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251153,
     "wof:name": "RT @WIRED: It's about to get a whole lot fancier in Delta's premium cabins https://t.co/YprleLZ0nq",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

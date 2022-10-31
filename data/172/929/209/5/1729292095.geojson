@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "475054539595194370"
+          ],
+          "editableUntil": "2014-06-06T23:50:02.983Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729292095,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251174,
     "wof:name": "Charles Gifford's 360 degree rendering of San Francisco in 1862 was the first published panorama of… http://t.co/KNIFa1DZaz",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

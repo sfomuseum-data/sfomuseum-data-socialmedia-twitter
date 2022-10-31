@@ -21,6 +21,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1316158752123305984"
+          ],
+          "editableUntil": "2020-10-13T23:57:54.210Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -96,7 +106,7 @@
       }
     ],
     "wof:id": 1763511313,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251113,
     "wof:name": "RT @thisisaaronland: today we integrated nine years of @sfomuseum twitter messages with the default search on the https://t.co/MN7gFjP248 w…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

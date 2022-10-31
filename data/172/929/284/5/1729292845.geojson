@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "537359585011834881"
+          ],
+          "editableUntil": "2014-11-25T22:08:03.382Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729292845,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "TAA (Trans-Australia Airlines) was founded just after WWII and rapidly expanded, due in part to its… http://t.co/IkxXo7d4Ki",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

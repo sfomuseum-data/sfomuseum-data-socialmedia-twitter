@@ -24,6 +24,16 @@
         "0",
         "44"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1179497619602587648"
+          ],
+          "editableUntil": "2019-10-02T21:15:21.176Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -73,7 +83,7 @@
       }
     ],
     "wof:id": 1729307049,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251121,
     "wof:name": "Sorry everyone and thanks for understanding!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

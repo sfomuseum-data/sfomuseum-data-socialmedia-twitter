@@ -21,6 +21,16 @@
         "0",
         "139"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1386802252157898753"
+          ],
+          "editableUntil": "2021-04-26T22:29:57.111Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -85,7 +95,7 @@
       }
     ],
     "wof:id": 1763512071,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251186,
     "wof:name": "RT @thisisaaronland: I wrote a blog post / about updating @sfomuseum ’s javascript-webassembly EXIF writer to encode GPS coordinates / and…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

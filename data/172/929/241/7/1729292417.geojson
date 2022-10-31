@@ -24,6 +24,16 @@
         "0",
         "136"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "505499316380000256"
+          ],
+          "editableUntil": "2014-08-30T00:06:43.405Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -101,7 +111,7 @@
       }
     ],
     "wof:id": 1729292417,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251174,
     "wof:name": "Next Saturday, join us for a #free day of programming related to our newest exhibit, The Legend of #CNAC: http://t.co/Jk35zlHN9E #avgeek",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "303"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1199505645898063874"
+          ],
+          "editableUntil": "2019-11-27T02:20:06.376Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -162,23 +172,23 @@
               "duration_millis": "47005",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1199505553505914880/pu/pl/QZv5dMJdKB_QY5B0.m3u8?tag=10"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1199505553505914880/pu/vid/1280x720/zoq2z6AZ6acJ37oi.mp4?tag=10"
                 },
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1199505553505914880/pu/vid/480x270/-2VB1Hhq4ajzJHgf.mp4?tag=10"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1199505553505914880/pu/pl/QZv5dMJdKB_QY5B0.m3u8?tag=10"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1199505553505914880/pu/vid/640x360/ayo1a8flyqUFLmpz.mp4?tag=10"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1199505553505914880/pu/vid/480x270/-2VB1Hhq4ajzJHgf.mp4?tag=10"
                 }
               ]
             }
@@ -224,7 +234,7 @@
       }
     ],
     "wof:id": 1729307479,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251119,
     "wof:name": "NOW PLAYING: \"Sweetheart Dancers\" by Ben-Alex Dupris. Sean and Adrian, a #Ute and #Navajo #twospirit couple challenge perceptions of identity through their participation in Sweetheart Dance competitions at #powwows across the United States. https://t.co/mxbnUykr0O #VideoArtsSFOM https://t.co/1LW43r9IR9",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

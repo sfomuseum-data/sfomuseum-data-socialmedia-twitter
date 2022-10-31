@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "943566678008442880"
+          ],
+          "editableUntil": "2017-12-20T20:10:01.315Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729302017,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251143,
     "wof:name": "RT @airandspace: 60 Years Ago Today: First flight of a production version of the Boeing 707. Prototype 367-80 \"Dash\" in our collection: htt…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

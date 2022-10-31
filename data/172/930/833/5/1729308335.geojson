@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "175267758026653697"
+          ],
+          "editableUntil": "2012-03-01T17:44:24.488Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -36,7 +46,7 @@
               "3",
               "15"
             ],
-            "name": "LeVar Burton",
+            "name": "Geordi LaGourd",
             "screen_name": "levarburton"
           }
         ]
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729308335,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251179,
     "wof:name": "RT @levarburton: Terminal 3 at SFO has this cool display chronicling the history of TV Guide covers. This is the last in the series.  ht ...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

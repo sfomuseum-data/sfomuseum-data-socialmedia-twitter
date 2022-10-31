@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1309549897562030080"
+          ],
+          "editableUntil": "2020-09-25T18:16:40.496Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -46,7 +56,7 @@
               "55",
               "62"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           }
         ]
@@ -89,7 +99,7 @@
       }
     ],
     "wof:id": 1729308801,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251113,
     "wof:name": "RT @Frederic_Jung: France is never far away : while at @flySFO, make sure to check out the wonderful exhibit of Zuber 19th century handcraf…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

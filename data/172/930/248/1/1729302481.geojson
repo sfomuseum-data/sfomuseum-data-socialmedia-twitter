@@ -24,6 +24,16 @@
         "0",
         "93"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "969333033252696064"
+          ],
+          "editableUntil": "2018-03-01T22:36:19.121Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -153,11 +163,6 @@
               "duration_millis": "31327",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/969329306101952513/pu/vid/640x360/-Wc3Ac8l4AsKKBzK.mp4"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/969329306101952513/pu/vid/320x180/BTG8j-bLK8kaIEs1.mp4"
@@ -166,6 +171,11 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/969329306101952513/pu/vid/1280x720/BdNsdomvq43hekhO.mp4"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/969329306101952513/pu/vid/640x360/-Wc3Ac8l4AsKKBzK.mp4"
                 },
                 {
                   "content_type": "application/x-mpegURL",
@@ -215,7 +225,7 @@
       }
     ],
     "wof:id": 1729302481,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251141,
     "wof:name": "RT @flySFO: Today is #NationalPigDay and @lilouthepig is here in T3 🐷 https://t.co/0qW6XpTwc6",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

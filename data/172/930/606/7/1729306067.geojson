@@ -24,6 +24,16 @@
         "0",
         "298"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1126639146670313472"
+          ],
+          "editableUntil": "2019-05-10T00:34:39.166Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -126,13 +136,9 @@
               "duration_millis": "53428",
               "variants": [
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1126639009055137793/pu/vid/1280x720/c-SH_HyyhZvBuj_-.mp4?tag=9"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1126639009055137793/pu/pl/R3wKj--20rOAr5gA.m3u8?tag=9"
+                  "url": "https://video.twimg.com/ext_tw_video/1126639009055137793/pu/vid/320x180/fr01dCILMxfPUAeO.mp4?tag=9"
                 },
                 {
                   "bitrate": "832000",
@@ -140,9 +146,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1126639009055137793/pu/vid/640x360/4BOkKQ36AYx1roOW.mp4?tag=9"
                 },
                 {
-                  "bitrate": "256000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1126639009055137793/pu/vid/320x180/fr01dCILMxfPUAeO.mp4?tag=9"
+                  "url": "https://video.twimg.com/ext_tw_video/1126639009055137793/pu/vid/1280x720/c-SH_HyyhZvBuj_-.mp4?tag=9"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1126639009055137793/pu/pl/R3wKj--20rOAr5gA.m3u8?tag=9"
                 }
               ]
             }
@@ -188,7 +198,7 @@
       }
     ],
     "wof:id": 1729306067,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251125,
     "wof:name": "NOW PLAYING: \"Swift Current: A Native American Cowboy\" by Thilo Gundelach. This short film profiles Swift Current, a member of Amskapi Pikuni (Blackfeet) Nation who maintains a connection with “the old ways” of his culture through rodeo bronc riding. https://t.co/jbcpo974j9 https://t.co/Fmd5bf07sI",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

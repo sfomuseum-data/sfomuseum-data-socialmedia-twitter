@@ -24,6 +24,16 @@
         "0",
         "25"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "445603530909712384"
+          ],
+          "editableUntil": "2014-03-17T17:22:15.339Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729291717,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "@amandalpadilla Thanks :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

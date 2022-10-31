@@ -24,6 +24,16 @@
         "0",
         "289"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1224872983207956480"
+          ],
+          "editableUntil": "2020-02-05T02:20:50.893Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -134,8 +144,9 @@
               "duration_millis": "20187",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1224872675828305920/pu/pl/qQk2-E1C6_leN8dk.m3u8?tag=10"
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1224872675828305920/pu/vid/480x270/g-EdM5Z8vdYJI9OE.mp4?tag=10"
                 },
                 {
                   "bitrate": "832000",
@@ -143,14 +154,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1224872675828305920/pu/vid/640x360/TZUnDh1_WieRCUV6.mp4?tag=10"
                 },
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1224872675828305920/pu/pl/qQk2-E1C6_leN8dk.m3u8?tag=10"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1224872675828305920/pu/vid/1280x720/m4MgAEnF4NghD6wd.mp4?tag=10"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1224872675828305920/pu/vid/480x270/g-EdM5Z8vdYJI9OE.mp4?tag=10"
                 }
               ]
             }
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729307863,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251119,
     "wof:name": "NOW PLAYING: \"A Subway Story\" by Eugene Kolb. Kolb recalls love at first sight in this charming animated short that illustrates the story of how he and his partner Clara met and fell for each other while riding a subway train. https://t.co/2vVB3lBgXQ #VideoArtsSFOM https://t.co/hdixbAqhWi",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

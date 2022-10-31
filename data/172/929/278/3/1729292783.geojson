@@ -24,6 +24,16 @@
         "0",
         "75"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "544540001833594882"
+          ],
+          "editableUntil": "2014-12-15T17:40:28.158Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729292783,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "@MattydotK Awesome! We hope we met (or better- exceeded) your expectations!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

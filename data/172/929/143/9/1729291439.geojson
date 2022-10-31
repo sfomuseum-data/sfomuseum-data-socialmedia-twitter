@@ -24,6 +24,16 @@
         "0",
         "101"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "425682277516210176"
+          ],
+          "editableUntil": "2014-01-21T18:02:18.411Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -105,7 +115,7 @@
       }
     ],
     "wof:id": 1729291439,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "RT @dan_spiess: The Japanese toy exhibit at SFO is fantastic. #airportart #sfo http://t.co/PKam711I87",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

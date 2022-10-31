@@ -24,6 +24,16 @@
         "0",
         "280"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1021489944743895041"
+          ],
+          "editableUntil": "2018-07-23T20:49:15.849Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -152,14 +162,14 @@
               "duration_millis": "25160",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1021489375815786496/pu/vid/640x360/sK6sXf2LNB887CEm.mp4?tag=3"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1021489375815786496/pu/vid/1280x720/hpvmqrRDIe2tWANu.mp4?tag=3"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1021489375815786496/pu/vid/640x360/sK6sXf2LNB887CEm.mp4?tag=3"
                 },
                 {
                   "bitrate": "256000",
@@ -214,7 +224,7 @@
       }
     ],
     "wof:id": 1729303745,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251137,
     "wof:name": "NOW PLAYING: \"Swindon: A Portrait of Youth\" by Robin Mason. Mason’s snapshot of multiple perspectives on growing up in the #UK was created from telephone interviews conducted in 2017 with #teenagers in #Swindon, a town in Southwest #England. #VideoArtsSFOM https://t.co/FUzUjl8PRr",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "285"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1106715073362296832"
+          ],
+          "editableUntil": "2019-03-16T01:03:29.918Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -148,16 +158,6 @@
               "duration_millis": "40123",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1106714957263986688/pu/vid/640x360/lhwzv5XypZWPzxId.mp4?tag=8"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1106714957263986688/pu/vid/320x180/0Eiq838lYWW00XMO.mp4?tag=8"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1106714957263986688/pu/vid/1280x720/1U1Gk9VRen7QbScD.mp4?tag=8"
@@ -165,6 +165,16 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1106714957263986688/pu/pl/8TogB5dswMQxSx1L.m3u8?tag=8"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1106714957263986688/pu/vid/320x180/0Eiq838lYWW00XMO.mp4?tag=8"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1106714957263986688/pu/vid/640x360/lhwzv5XypZWPzxId.mp4?tag=8"
                 }
               ]
             }
@@ -210,7 +220,7 @@
       }
     ],
     "wof:id": 1729305651,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251127,
     "wof:name": "NOW PLAYING: \"A Garbage Story\" by #OlivierBernier. Bernier profiles professional trash collector #NickDiMola who, in the process of clearing material from the homes of the deceased, retains those items he finds meaningful. https://t.co/UPzs6ZfTqe #VideoArtsSFOM https://t.co/zfiZm7JVwt",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

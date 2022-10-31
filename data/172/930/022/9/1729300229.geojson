@@ -24,6 +24,16 @@
         "0",
         "99"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "865356525237227520"
+          ],
+          "editableUntil": "2017-05-19T00:30:47.820Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -145,11 +155,6 @@
               "duration_millis": "72339",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/865299708960546819/vid/1280x720/gjLQu-1e7t9urwb7.mp4"
-                },
-                {
                   "bitrate": "320000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/865299708960546819/vid/320x180/Sry4qHQvJhyrUC85.mp4"
@@ -162,6 +167,11 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/amplify_video/865299708960546819/pl/RSjOe7vDJIXSnqVY.m3u8"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/865299708960546819/vid/1280x720/gjLQu-1e7t9urwb7.mp4"
                 }
               ]
             }
@@ -207,7 +217,7 @@
       }
     ],
     "wof:id": 1729300229,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251150,
     "wof:name": "RT @CNNTravel: How often are babies born on planes? https://t.co/1djpGBPoAS https://t.co/Uuz5dTeye0",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

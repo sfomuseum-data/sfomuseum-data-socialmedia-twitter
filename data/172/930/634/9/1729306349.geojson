@@ -24,6 +24,16 @@
         "0",
         "278"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1141133396250226688"
+          ],
+          "editableUntil": "2019-06-19T00:29:37.556Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -148,23 +158,23 @@
               "duration_millis": "38413",
               "variants": [
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1141133059531481088/pu/vid/480x270/gYxGXEPs_Wy2ORqm.mp4?tag=10"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1141133059531481088/pu/vid/1280x720/dn0khnKYZkuhGmzZ.mp4?tag=10"
                 },
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1141133059531481088/pu/pl/t6ka9jLQEGJll29l.m3u8?tag=10"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1141133059531481088/pu/vid/480x270/gYxGXEPs_Wy2ORqm.mp4?tag=10"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1141133059531481088/pu/vid/640x360/nEWLUDxFo3ug9Iam.mp4?tag=10"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1141133059531481088/pu/pl/t6ka9jLQEGJll29l.m3u8?tag=10"
                 }
               ]
             }
@@ -210,7 +220,7 @@
       }
     ],
     "wof:id": 1729306349,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251125,
     "wof:name": "NOW PLAYING: \"I Have Something To Tell You\" by Ben Joyner \u0026amp; Dumaine Babcock. #AdrainChesser photographs loved ones at the moment he reveals his AIDS diagnosis, thus demonstrating the power of his artwork. https://t.co/GSVSj8DrdE #VideoArtsSFOM #pride https://t.co/uA2vJuPed6",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

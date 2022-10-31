@@ -24,6 +24,16 @@
         "0",
         "139"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "482576530753585152"
+          ],
+          "editableUntil": "2014-06-27T17:59:45.427Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -54,7 +64,7 @@
               "85",
               "92"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           },
           {
@@ -112,7 +122,7 @@
       }
     ],
     "wof:id": 1729292125,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251174,
     "wof:name": "Thanks! #AAAEarts has been fun! RT @caseyflies: Impressive look behind the scenes at @flySFO’s @SFOMuseum. Great presentation this morning.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

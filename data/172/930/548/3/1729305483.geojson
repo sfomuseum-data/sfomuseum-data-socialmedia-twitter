@@ -24,6 +24,16 @@
         "0",
         "299"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1100483423980859392"
+          ],
+          "editableUntil": "2019-02-26T20:21:08.927Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -134,11 +144,6 @@
               "duration_millis": "32733",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1100483336516980736/pu/vid/640x360/3JFPxtOQWIAV1wv2.mp4?tag=6"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1100483336516980736/pu/vid/1280x720/QAYG5tWv9bN9GVI5.mp4?tag=6"
@@ -151,6 +156,11 @@
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1100483336516980736/pu/vid/320x180/0OhjCDMmSTXDQ1BR.mp4?tag=6"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1100483336516980736/pu/vid/640x360/3JFPxtOQWIAV1wv2.mp4?tag=6"
                 }
               ]
             }
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729305483,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251127,
     "wof:name": "NOW PLAYING: \" Another Kind of Girl\" by Khaldiya Jibawi. Syrian filmmaker Khaldiya Jibawi documents her melancholy, frustrations, and aspirations in Jordan’s Za’atari Refugee Camp, her new home, since fleeing civil war in Syria in 2011. https://t.co/tFkxJiSwHc #VideoArtsSFOM https://t.co/ZebhJSMJbn",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

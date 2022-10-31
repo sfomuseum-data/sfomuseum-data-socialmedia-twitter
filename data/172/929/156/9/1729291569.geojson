@@ -24,6 +24,16 @@
         "0",
         "48"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "433391976525078529"
+          ],
+          "editableUntil": "2014-02-12T00:37:53.894Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -67,7 +77,7 @@
       "full_text": "#JapaneseToys #yokai #eek http://t.co/8DQztWyDlR",
       "id": "433391976525078529",
       "id_str": "433391976525078529",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
@@ -101,7 +111,7 @@
       }
     ],
     "wof:id": 1729291569,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "#JapaneseToys #yokai #eek http://t.co/8DQztWyDlR",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

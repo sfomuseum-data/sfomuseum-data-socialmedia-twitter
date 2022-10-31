@@ -24,6 +24,16 @@
         "0",
         "82"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "434380455857913856"
+          ],
+          "editableUntil": "2014-02-14T18:05:45.732Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -166,7 +176,7 @@
       }
     ],
     "wof:id": 1729291553,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "RT @rexremus: Awesome museum exhibit at SFO - Japanese toys http://t.co/VvmxrvrwVr",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

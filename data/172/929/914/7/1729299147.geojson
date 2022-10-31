@@ -24,6 +24,16 @@
         "0",
         "72"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "823603956878184449"
+          ],
+          "editableUntil": "2017-01-23T19:20:59.798Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -176,7 +186,7 @@
       }
     ],
     "wof:id": 1729299147,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251157,
     "wof:name": "RT @mikecomix: Ouija board exhibit at @SFOMuseum https://t.co/oeERZ058Cu",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

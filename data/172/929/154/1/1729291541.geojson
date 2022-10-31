@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "435833751030235136"
+          ],
+          "editableUntil": "2014-02-18T18:20:38.302Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -83,7 +93,7 @@
       }
     ],
     "wof:id": 1729291541,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "@robinsloan Thanks for the compliment! We have five curators (\u0026amp; many other staff members) who will be happy to hear it!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

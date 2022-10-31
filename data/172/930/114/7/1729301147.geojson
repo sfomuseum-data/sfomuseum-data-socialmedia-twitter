@@ -24,6 +24,16 @@
         "0",
         "76"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "908054078281805824"
+          ],
+          "editableUntil": "2017-09-13T20:15:37.748Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -98,7 +108,7 @@
       }
     ],
     "wof:id": 1729301147,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251147,
     "wof:name": "RT @AskACurator: Good questions for all #askacurator https://t.co/9iA9l2NUzu",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

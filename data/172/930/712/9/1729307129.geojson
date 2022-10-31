@@ -24,6 +24,16 @@
         "0",
         "122"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "170672852985585664"
+          ],
+          "editableUntil": "2012-02-18T01:25:53.757Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -76,7 +86,7 @@
       }
     ],
     "wof:id": 1729307129,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251179,
     "wof:name": "Thanks to all the folks who made #CAM2012 possible! We had a great time \u0026 look forward to implementing what we've learned!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

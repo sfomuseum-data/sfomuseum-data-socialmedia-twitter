@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "920035079606251520"
+          ],
+          "editableUntil": "2017-10-16T21:43:51.060Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -87,7 +97,7 @@
       }
     ],
     "wof:id": 1729301375,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251147,
     "wof:name": "RT @Airbus: Save the date! 📅The #A330neo maiden flight is scheduled for Oct 19th pending several factors incl. weather. Stay tuned for more…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

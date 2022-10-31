@@ -24,6 +24,16 @@
         "0",
         "120"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "712723743613853700"
+          ],
+          "editableUntil": "2016-03-23T20:02:36.901Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -181,7 +191,7 @@
       }
     ],
     "wof:id": 1729295539,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "RT @flySFO: Our Wag Brigade dogs still like to be treated like puppies! #PetMe #NationalPuppyDay https://t.co/ls872mhpRW",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "77"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "124937905511739392"
+          ],
+          "editableUntil": "2011-10-14T20:31:32.565Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729310077,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251180,
     "wof:name": "@ryanvb Thank you for the #FF recommendation - we're squealing in delight! :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "111"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "711941231601963008"
+          ],
+          "editableUntil": "2016-03-21T16:13:11.499Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -86,7 +96,7 @@
               "3",
               "9"
             ],
-            "name": "John Q McDonald",
+            "name": "John Q McDonald 🇺🇦",
             "screen_name": "jqmcd"
           },
           {
@@ -184,7 +194,7 @@
       }
     ],
     "wof:id": 1729295557,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "RT @jqmcd: Enjoying the art in #ArtAndDisability early morning in terminal 3 @SFOMuseum https://t.co/6pHXO47ZDW",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

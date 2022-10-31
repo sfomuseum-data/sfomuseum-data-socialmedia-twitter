@@ -21,6 +21,16 @@
         "0",
         "190"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1407840766802628615"
+          ],
+          "editableUntil": "2021-06-23T23:49:29.879Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -156,7 +166,7 @@
       "id_str": "1407840766802628615",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "10",
+      "retweet_count": "9",
       "retweeted": false,
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
@@ -187,7 +197,7 @@
       }
     ],
     "wof:id": 1763512457,
-    "wof:lastmodified": 1650908021,
+    "wof:lastmodified": 1667251184,
     "wof:name": "The Boeing 707 was originally developed following an initial request in 1955 from Pan American World Airways for a large capacity jet-powered airliner. #WingWednesday https://t.co/PO1DeC2kzn",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -21,6 +21,16 @@
         "0",
         "304"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1504973387864559617"
+          ],
+          "editableUntil": "2022-03-19T00:39:51.377Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -128,23 +138,23 @@
               "duration_millis": "27777",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1504973127922569216/pu/vid/960x540/8Bqao1ScPJHj7nRr.mp4?tag=12"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1504973127922569216/pu/vid/480x270/fK-YEVDguYyeUn7W.mp4?tag=12"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1504973127922569216/pu/pl/kg9MpSJiCPNzePWJ.m3u8?tag=12\u0026container=fmp4"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1504973127922569216/pu/vid/640x360/hqM-P2a02fXR7kws.mp4?tag=12"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1504973127922569216/pu/vid/960x540/8Bqao1ScPJHj7nRr.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1504973127922569216/pu/pl/kg9MpSJiCPNzePWJ.m3u8?tag=12\u0026container=fmp4"
                 }
               ]
             }
@@ -189,7 +199,7 @@
       }
     ],
     "wof:id": 1763586697,
-    "wof:lastmodified": 1650908085,
+    "wof:lastmodified": 1667251173,
     "wof:name": "Canadian director Nathan Boey orchestrates forty animators from forty countries uniting with the same directive—the creation of a 3-second animation of a ball that is then passed to a fellow animator in another country and to pick up where you left off.  \n#VideoArts #VideoArtsSFO https://t.co/9UOy6kuxfY",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

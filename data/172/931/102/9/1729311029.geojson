@@ -24,6 +24,16 @@
         "0",
         "65"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "264069293304606720"
+          ],
+          "editableUntil": "2012-11-01T18:50:00.351Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729311029,
-    "wof:lastmodified": 1650908097,
+    "wof:lastmodified": 1667251178,
     "wof:name": "@gobbledyspook Awesome! Glad to hear that you'll likely make it!!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

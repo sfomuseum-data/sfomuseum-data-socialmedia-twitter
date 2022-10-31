@@ -24,6 +24,16 @@
         "0",
         "294"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1049743633300115456"
+          ],
+          "editableUntil": "2018-10-09T19:59:20.129Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -162,15 +172,6 @@
               "duration_millis": "49591",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1049743147251589120/pu/pl/52IruHT3fg9doTZV.m3u8?tag=5"
-                },
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1049743147251589120/pu/vid/1280x720/rPwNxSux6YqMCUJb.mp4?tag=5"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1049743147251589120/pu/vid/320x180/NPSVEzWQkBhhZtuM.mp4?tag=5"
@@ -179,6 +180,15 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1049743147251589120/pu/vid/640x360/C6wWKfq2wqqE4DWb.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1049743147251589120/pu/pl/52IruHT3fg9doTZV.m3u8?tag=5"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1049743147251589120/pu/vid/1280x720/rPwNxSux6YqMCUJb.mp4?tag=5"
                 }
               ]
             }
@@ -224,7 +234,7 @@
       }
     ],
     "wof:id": 1729304423,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251135,
     "wof:name": "NOW PLAYING: \"Braiding the Sacred\" by #MateoHinojosa. Hinojosa documents the experiences of traditional #corn cultivators from several  #NativeAmerican communities who have formed an alliance in their struggle for #foodsovereignty. https://t.co/jXo05CxXgx #VideoArtsSFOM https://t.co/qkAwmsp8zZ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

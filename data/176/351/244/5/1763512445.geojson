@@ -21,6 +21,16 @@
         "0",
         "255"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1403139426499252224"
+          ],
+          "editableUntil": "2021-06-11T00:28:03.004Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -120,7 +130,7 @@
       "id_str": "1403139426499252224",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "9",
+      "retweet_count": "8",
       "retweeted": false,
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
@@ -151,7 +161,7 @@
       }
     ],
     "wof:id": 1763512445,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251184,
     "wof:name": "Mid-1960s airline fashion showcased bright and colorful, patterned fabrics for the first time in the industry. In 1967, Starflite Uniforms created an ensemble patterned in bold stripes for Northwest Orient Airlines. #FlightPatterns https://t.co/Ytb0fJLilD",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

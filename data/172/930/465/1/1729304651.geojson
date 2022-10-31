@@ -24,6 +24,16 @@
         "0",
         "122"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1060313329913147392"
+          ],
+          "editableUntil": "2018-11-07T23:59:32.177Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -62,14 +72,14 @@
         ],
         "user_mentions": []
       },
-      "favorite_count": "39",
+      "favorite_count": "38",
       "favorited": false,
       "full_text": "The last scheduled United #Boeing #747 flight took off from #SFO to Honolulu #onthisday last year. https://t.co/9H85gzT8WN",
       "id": "1060313329913147392",
       "id_str": "1060313329913147392",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "3",
+      "retweet_count": "2",
       "retweeted": false,
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
@@ -101,7 +111,7 @@
       }
     ],
     "wof:id": 1729304651,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251131,
     "wof:name": "The last scheduled United #Boeing #747 flight took off from #SFO to Honolulu #onthisday last year. https://t.co/9H85gzT8WN",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

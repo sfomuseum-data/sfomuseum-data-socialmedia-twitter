@@ -24,6 +24,16 @@
         "0",
         "99"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "687052662806712320"
+          ],
+          "editableUntil": "2016-01-12T23:54:54.291Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -92,7 +102,7 @@
       }
     ],
     "wof:id": 1729294989,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "@nbdunitz Thanks for stopping by! We're glad you enjoyed it! What was your favorite part? #PondFarm",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

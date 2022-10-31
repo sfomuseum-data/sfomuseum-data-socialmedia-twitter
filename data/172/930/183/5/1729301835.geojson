@@ -24,6 +24,16 @@
         "0",
         "219"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "935284391353257985"
+          ],
+          "editableUntil": "2017-11-27T23:39:10.299Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -145,18 +155,18 @@
               "duration_millis": "43033",
               "variants": [
                 {
-                  "bitrate": "832000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/935284048271773697/pu/vid/640x360/-stmR-q8o6TqfMQu.mp4"
+                  "url": "https://video.twimg.com/ext_tw_video/935284048271773697/pu/vid/320x180/pas8wqLejPfnTUSB.mp4"
                 },
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/935284048271773697/pu/pl/AaKxsdxM2XwYM6ER.m3u8"
                 },
                 {
-                  "bitrate": "256000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/935284048271773697/pu/vid/320x180/pas8wqLejPfnTUSB.mp4"
+                  "url": "https://video.twimg.com/ext_tw_video/935284048271773697/pu/vid/640x360/-stmR-q8o6TqfMQu.mp4"
                 },
                 {
                   "bitrate": "2176000",
@@ -207,7 +217,7 @@
       }
     ],
     "wof:id": 1729301835,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251145,
     "wof:name": "Now Playing: \"On Departure\" by Eoin Duffy (@eoinduffy). See this #animated journey set in a airport in the Video Arts Gallery, pre-security, in the International Terminal. https://t.co/lpc4l7Dg0W https://t.co/fDsg6WQUiV",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

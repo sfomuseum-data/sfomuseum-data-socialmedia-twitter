@@ -24,6 +24,16 @@
         "0",
         "132"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "717146020992401408"
+          ],
+          "editableUntil": "2016-04-05T00:55:09.990Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -133,7 +143,7 @@
       "id_str": "717146020992401408",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "3",
+      "retweet_count": "2",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -165,7 +175,7 @@
       }
     ],
     "wof:id": 1729295639,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "Learn more about #PanAm’s flying boats in “China Clipper\", in our online exhibition: https://t.co/Py67IlV1y1 https://t.co/yU6cwWuILG",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

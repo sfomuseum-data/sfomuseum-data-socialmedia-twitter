@@ -24,6 +24,16 @@
         "0",
         "139"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1169047593378177024"
+          ],
+          "editableUntil": "2019-09-04T01:10:40.772Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -89,7 +99,7 @@
       }
     ],
     "wof:id": 1729306901,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251121,
     "wof:name": "RT @flightradar24: At its peak, the @AmericanAir MD-80 fleet numbered 360. On the eve of their retirement, just a few dozen remain in AA’s…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

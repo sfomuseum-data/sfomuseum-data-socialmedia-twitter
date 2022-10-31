@@ -24,6 +24,16 @@
         "0",
         "64"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "578339134735011842"
+          ],
+          "editableUntil": "2015-03-19T00:06:09.399Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -67,7 +77,7 @@
       "full_text": "#WanderlustWednesday #RioDeJaneiro #PanAm http://t.co/4VdwX0NOXj",
       "id": "578339134735011842",
       "id_str": "578339134735011842",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
@@ -101,7 +111,7 @@
       }
     ],
     "wof:id": 1729293209,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "#WanderlustWednesday #RioDeJaneiro #PanAm http://t.co/4VdwX0NOXj",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "60"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "408737500329697280"
+          ],
+          "editableUntil": "2013-12-05T23:49:48.711Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729291231,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "@monkey_bread Thanks for visiting! We had a great time, too!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1301225935048450050"
+          ],
+          "editableUntil": "2020-09-02T19:00:13.181Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729308779,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251115,
     "wof:name": "RT @airandspace: 110 years ago today, Blanche Stuart Scott became the first American woman to take a solo hop into the air. The 40-foot hop…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

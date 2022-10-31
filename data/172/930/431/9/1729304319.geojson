@@ -24,6 +24,16 @@
         "0",
         "96"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1044656719681318912"
+          ],
+          "editableUntil": "2018-09-25T19:05:45.412Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -158,14 +168,14 @@
                   "url": "https://video.twimg.com/amplify_video/922529041915301888/vid/240x240/sUQTOB7LDmFcclHe.mp4"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/922529041915301888/vid/480x480/O1kuztUjZFaCMpOw.mp4"
-                },
-                {
                   "bitrate": "1280000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/922529041915301888/vid/720x720/CEaTYw6k2rXmaFAd.mp4"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/922529041915301888/vid/480x480/O1kuztUjZFaCMpOw.mp4"
                 },
                 {
                   "content_type": "application/x-mpegURL",
@@ -215,7 +225,7 @@
       }
     ],
     "wof:id": 1729304319,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251135,
     "wof:name": "RT @businessinsider: Watch the @Airbus A330 get assembled piece-by-piece https://t.co/8unqbm0h3l",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

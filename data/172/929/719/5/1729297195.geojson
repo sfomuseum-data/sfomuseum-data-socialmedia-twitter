@@ -24,6 +24,16 @@
         "0",
         "40"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "760599889185116161"
+          ],
+          "editableUntil": "2016-08-02T22:45:19.501Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729297195,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251166,
     "wof:name": "@Chris_Manno Yes! That's it! You got it!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

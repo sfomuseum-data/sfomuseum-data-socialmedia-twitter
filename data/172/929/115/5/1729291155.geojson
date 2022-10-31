@@ -24,6 +24,16 @@
         "0",
         "33"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "405467510431965184"
+          ],
+          "editableUntil": "2013-11-26T23:16:02.366Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729291155,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "@brandon_ras Thanks for visiting!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

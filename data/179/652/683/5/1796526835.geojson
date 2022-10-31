@@ -1,0 +1,234 @@
+{
+  "id": 1796526835,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-05-12",
+    "date:cessation_upper": "2022-05-12",
+    "date:inception_lower": "2022-05-12",
+    "date:inception_upper": "2022-05-12",
+    "edtf:cessation": "2022-05-12T13:50:17-07:00",
+    "edtf:inception": "2022-05-12T13:50:17-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1652388617,
+      "created_at": "Thu May 12 20:50:17 +0000 2022",
+      "display_text_range": [
+        "0",
+        "289"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1524854499499683840"
+          ],
+          "editableUntil": "2022-05-12T21:20:17.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "233",
+              "243"
+            ],
+            "text": "VideoArts"
+          },
+          {
+            "indices": [
+              "244",
+              "257"
+            ],
+            "text": "VideoArtsSFO"
+          },
+          {
+            "indices": [
+              "258",
+              "265"
+            ],
+            "text": "AAPIHM"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ppaUfbIfdo",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1524854499499683840/video/1",
+            "id": "1524854370101100544",
+            "id_str": "1524854370101100544",
+            "indices": [
+              "266",
+              "289"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1524854370101100544/pu/img/GrbWkwmobeiHuma0.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1524854370101100544/pu/img/GrbWkwmobeiHuma0.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ppaUfbIfdo"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/3yczdbt",
+            "expanded_url": "https://bit.ly/3yczdbt",
+            "indices": [
+              "209",
+              "232"
+            ],
+            "url": "https://t.co/aPdohgIosG"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/ppaUfbIfdo",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1524854499499683840/video/1",
+            "id": "1524854370101100544",
+            "id_str": "1524854370101100544",
+            "indices": [
+              "266",
+              "289"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1524854370101100544/pu/img/GrbWkwmobeiHuma0.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1524854370101100544/pu/img/GrbWkwmobeiHuma0.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/ppaUfbIfdo",
+            "video_info": {
+              "aspect_ratio": [
+                "16",
+                "9"
+              ],
+              "duration_millis": "58308",
+              "variants": [
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1524854370101100544/pu/vid/640x360/2SFANHR5HCzOF4fd.mp4?tag=12"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1524854370101100544/pu/vid/1280x720/uSyV3FTa78M-EjNK.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1524854370101100544/pu/pl/LFeuwMvTk3fTNMon.m3u8?tag=12\u0026container=fmp4"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1524854370101100544/pu/vid/480x270/riFeQKHDm9b7dK7A.mp4?tag=12"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Toronto-based filmmaker and creative director Jimmy Vi has crafted a powerful and beautifully composed visual poem to explore the journey of a young Asian-American college student from self-hate to self-love. https://t.co/aPdohgIosG #VideoArts #VideoArtsSFO #AAPIHM https://t.co/ppaUfbIfdo",
+      "id": "1524854499499683840",
+      "id_str": "1524854499499683840",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251157,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796526835,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796526835,
+    "wof:lastmodified": 1667251157,
+    "wof:name": "Toronto-based filmmaker and creative director Jimmy Vi has crafted a powerful and beautifully composed visual poem to explore the journey of a young Asian-American college student from self-hate to self-love. https://t.co/aPdohgIosG #VideoArts #VideoArtsSFO #AAPIHM https://t.co/ppaUfbIfdo",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

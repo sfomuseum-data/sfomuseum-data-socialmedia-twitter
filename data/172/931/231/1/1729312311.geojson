@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "352564136980398083"
+          ],
+          "editableUntil": "2013-07-03T23:36:55.238Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -87,7 +97,7 @@
       }
     ],
     "wof:id": 1729312311,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251176,
     "wof:name": "Using photos found in the #Recology dump, James Sansing carefully cut out any people and framed the… http://t.co/thRmR3bsXN",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

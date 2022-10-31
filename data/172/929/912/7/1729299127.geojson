@@ -24,6 +24,16 @@
         "0",
         "44"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "824374615463989248"
+          ],
+          "editableUntil": "2017-01-25T22:23:19.123Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729299127,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251157,
     "wof:name": "Thanks for visiting! https://t.co/4ylz2vsHBe",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

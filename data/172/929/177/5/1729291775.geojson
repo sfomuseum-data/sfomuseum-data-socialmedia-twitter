@@ -24,6 +24,16 @@
         "0",
         "23"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "449581080358961153"
+          ],
+          "editableUntil": "2014-03-28T16:47:37.027Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729291775,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251174,
     "wof:name": "@oleg There sure is! :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

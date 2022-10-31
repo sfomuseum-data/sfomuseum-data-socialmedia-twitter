@@ -24,6 +24,16 @@
         "0",
         "48"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "312242554886307840"
+          ],
+          "editableUntil": "2013-03-14T17:13:20.928Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729311661,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251177,
     "wof:name": "A good day at the office. http://t.co/l8ZKm0Ai8F",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

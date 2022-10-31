@@ -24,6 +24,16 @@
         "0",
         "19"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "144496901289558016"
+          ],
+          "editableUntil": "2011-12-07T19:52:00.547Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -36,7 +46,7 @@
               "0",
               "13"
             ],
-            "name": "Reid Carlberg",
+            "name": "Reid Carlberg ☮️ He/Him",
             "screen_name": "ReidCarlberg"
           }
         ]
@@ -82,7 +92,7 @@
       }
     ],
     "wof:id": 1729296623,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251179,
     "wof:name": "@ReidCarlberg Word.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

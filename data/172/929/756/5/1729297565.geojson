@@ -24,6 +24,16 @@
         "0",
         "137"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "769274656444583936"
+          ],
+          "editableUntil": "2016-08-26T21:15:45.185Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -173,6 +183,11 @@
               "duration_millis": "17384",
               "variants": [
                 {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/769228300052942848/pu/vid/640x360/lyuX3dq95nkk_UeP.mp4"
+                },
+                {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/769228300052942848/pu/pl/GH5lB06fUCaGL257.m3u8"
                 },
@@ -180,11 +195,6 @@
                   "bitrate": "320000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/769228300052942848/pu/vid/320x180/VMRVK-KCTRaarb-U.mp4"
-                },
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/769228300052942848/pu/vid/640x360/lyuX3dq95nkk_UeP.mp4"
                 }
               ]
             }
@@ -230,7 +240,7 @@
       }
     ],
     "wof:id": 1729297565,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251163,
     "wof:name": "RT @PTZtv: By popular demand, here's today's @KLM 747 landing from https://t.co/TUjTdZ79Jp @flightradar24 #avgeek https://t.co/33uBRYa65D",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

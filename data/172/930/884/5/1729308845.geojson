@@ -24,6 +24,16 @@
         "0",
         "86"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "123451907871215616"
+          ],
+          "editableUntil": "2011-10-10T18:06:43.119Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729308845,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251181,
     "wof:name": "@ryanvb We're glad you enjoyed the exhibit! (And we hope you didn't miss your flight.)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

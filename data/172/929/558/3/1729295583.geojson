@@ -24,6 +24,16 @@
         "0",
         "111"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "710881043235131393"
+          ],
+          "editableUntil": "2016-03-18T18:00:22.895Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -100,7 +110,7 @@
       }
     ],
     "wof:id": 1729295583,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "RT @SJSU_SLA: Read about the tour @ALASCSJSU and we had at the SFO museum \u0026amp; library https://t.co/bKQG3BnqLI",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

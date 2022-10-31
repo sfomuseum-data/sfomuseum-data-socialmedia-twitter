@@ -24,6 +24,16 @@
         "0",
         "72"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "123893145908944896"
+          ],
+          "editableUntil": "2011-10-11T23:20:02.465Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729309463,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251181,
     "wof:name": "@ekogirl We're glad you liked the exhibit! Hope you have a great flight!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "70"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "593201943004184576"
+          ],
+          "editableUntil": "2015-04-29T00:25:39.028Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -81,7 +91,7 @@
       "full_text": "#Wurlitzer #jukebox #1930s #ArtDeco #AgeOfDeco https://t.co/Z9l8tG5wqx",
       "id": "593201943004184576",
       "id_str": "593201943004184576",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "1",
       "retweeted": false,
@@ -115,7 +125,7 @@
       }
     ],
     "wof:id": 1729293283,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "#Wurlitzer #jukebox #1930s #ArtDeco #AgeOfDeco https://t.co/Z9l8tG5wqx",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

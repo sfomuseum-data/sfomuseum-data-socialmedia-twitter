@@ -24,6 +24,16 @@
         "0",
         "298"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "958169413579980801"
+          ],
+          "editableUntil": "2018-01-30T03:16:04.781Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -124,23 +134,23 @@
               "duration_millis": "22556",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/958169335201112064/pu/pl/addhsN30aowRuGB1.m3u8"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/958169335201112064/pu/vid/640x360/D9aVkvdOCJf4cnCr.mp4"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/958169335201112064/pu/vid/1280x720/OaU5woVXeNig9KfX.mp4"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/958169335201112064/pu/pl/addhsN30aowRuGB1.m3u8"
                 },
                 {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/958169335201112064/pu/vid/320x180/c_OIuBRq3h2hWYOx.mp4"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/958169335201112064/pu/vid/1280x720/OaU5woVXeNig9KfX.mp4"
                 }
               ]
             }
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729302365,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251143,
     "wof:name": "CAUTION! This is not an active construction site, but we do have to be mindful of our space. During gallery rotations, walkways must be kept clear as passengers still need to get to their gates and catch their flights, and objects must be kept safe and secure. #MuseumMonday https://t.co/1TCC5CinCw",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

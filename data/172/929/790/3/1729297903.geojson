@@ -24,16 +24,18 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "779010115957653504"
+          ],
+          "editableUntil": "2016-09-22T18:00:59.609Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "123",
-              "130"
-            ],
-            "text": "avgeek"
-          }
-        ],
+        "hashtags": [],
         "symbols": [],
         "urls": [
           {
@@ -56,16 +58,6 @@
             ],
             "name": "National Air and Space Museum",
             "screen_name": "airandspace"
-          },
-          {
-            "id": "31143957",
-            "id_str": "31143957",
-            "indices": [
-              "111",
-              "122"
-            ],
-            "name": "GE Aviation",
-            "screen_name": "GEAviation"
           }
         ]
       },
@@ -108,7 +100,7 @@
       }
     ],
     "wof:id": 1729297903,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251163,
     "wof:name": "RT @airandspace: TONIGHT! Live webcast with 1st Boeing female test pilot: https://t.co/XNP5NT8CVB Sponsored by @GEAviation #avgeek https://…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

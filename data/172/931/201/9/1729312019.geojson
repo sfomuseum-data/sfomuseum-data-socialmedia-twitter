@@ -24,6 +24,16 @@
         "0",
         "111"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "333000442801975298"
+          ],
+          "editableUntil": "2013-05-10T23:57:47.070Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -105,7 +115,7 @@
       }
     ],
     "wof:id": 1729312019,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251176,
     "wof:name": "Tour of a @Lufthansa #A380 = reconnaissance for future #aviation collection objects ;)   http://t.co/ZmYuEkOc0p",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "164"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "912384116175265792"
+          ],
+          "editableUntil": "2017-09-25T19:01:39.230Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -134,10 +144,6 @@
               "duration_millis": "70250",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/912384022789087232/pu/pl/NRtOzj3n92LxTX_a.m3u8"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/912384022789087232/pu/vid/640x360/70je-G3jR9KO-9UO.mp4"
@@ -146,6 +152,10 @@
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/912384022789087232/pu/vid/320x180/tSBm3lZfxRye-DRT.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/912384022789087232/pu/pl/NRtOzj3n92LxTX_a.m3u8"
                 },
                 {
                   "bitrate": "2176000",
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729301195,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251147,
     "wof:name": "What's on view in our new #VideoArts gallery? \"Jinxy Jenkins \u0026amp; Lucky Lou\" by Michael Bidinger and Michelle Kwon. https://t.co/UioJs5vrCb https://t.co/ZRJWhZozfS",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

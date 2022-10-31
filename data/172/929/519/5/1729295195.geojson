@@ -24,6 +24,16 @@
         "0",
         "139"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "697623673939890176"
+          ],
+          "editableUntil": "2016-02-11T04:00:19.745Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -123,7 +133,7 @@
       "id_str": "697623673939890176",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "1",
+      "retweet_count": "0",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -155,7 +165,7 @@
       }
     ],
     "wof:id": 1729295195,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "These fashionable ladies were photographed in the United Air Lines SF Ticket Office in circa 1933. #WomenInAviation https://t.co/xwHBULU0GX",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

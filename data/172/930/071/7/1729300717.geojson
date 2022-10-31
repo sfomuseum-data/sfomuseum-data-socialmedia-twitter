@@ -24,6 +24,16 @@
         "0",
         "76"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "888080006781386753"
+          ],
+          "editableUntil": "2017-07-20T17:25:48.002Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -150,14 +160,14 @@
                   "url": "https://video.twimg.com/amplify_video/885848204021035008/pl/-oycnZrrR52ZV_11.m3u8"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/885848204021035008/vid/640x360/nteeHvMzXL61qUve.mp4"
-                },
-                {
                   "bitrate": "320000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/885848204021035008/vid/320x180/xF_1XqnGPlCEHyKJ.mp4"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/885848204021035008/vid/640x360/nteeHvMzXL61qUve.mp4"
                 }
               ]
             }
@@ -203,7 +213,7 @@
       }
     ],
     "wof:id": 1729300717,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251149,
     "wof:name": "RT @lufthansa: Give us a 💙  for our first #747! #TBT https://t.co/dkHXUbgoh0",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

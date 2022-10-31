@@ -24,6 +24,16 @@
         "0",
         "33"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "134705970059280384"
+          ],
+          "editableUntil": "2011-11-10T19:26:20.635Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -82,7 +92,7 @@
       }
     ],
     "wof:id": 1729291893,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251180,
     "wof:name": "@shooteyeout Thanks for the RT :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -1,0 +1,186 @@
+{
+  "id": 1796525925,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-08-19",
+    "date:cessation_upper": "2022-08-19",
+    "date:inception_lower": "2022-08-19",
+    "date:inception_upper": "2022-08-19",
+    "edtf:cessation": "2022-08-19T16:48:47-07:00",
+    "edtf:inception": "2022-08-19T16:48:47-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1660952927,
+      "created_at": "Fri Aug 19 23:48:47 +0000 2022",
+      "display_text_range": [
+        "0",
+        "223"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1560775818745417728"
+          ],
+          "editableUntil": "2022-08-20T00:18:47.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "177",
+              "193"
+            ],
+            "text": "PineappletoPina"
+          },
+          {
+            "indices": [
+              "194",
+              "199"
+            ],
+            "text": "piña"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2V0OAlFkFa",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1560775818745417728/photo/1",
+            "id": "1560775085933268992",
+            "id_str": "1560775085933268992",
+            "indices": [
+              "200",
+              "223"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Faj8q9tVEAAkpm4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Faj8q9tVEAAkpm4.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1697"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "994"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "564"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2V0OAlFkFa"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2V0OAlFkFa",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1560775818745417728/photo/1",
+            "id": "1560775085933268992",
+            "id_str": "1560775085933268992",
+            "indices": [
+              "200",
+              "223"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Faj8q9tVEAAkpm4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Faj8q9tVEAAkpm4.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1697"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "994"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "564"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2V0OAlFkFa"
+          }
+        ]
+      },
+      "favorite_count": "14",
+      "favorited": false,
+      "full_text": "The traditional men’s blouse of the Philippines, the barong tagalog, is a sheer, long-sleeved embroidered formal shirt worn untucked and made from piña or other natural fibers. #PineappletoPina #piña https://t.co/2V0OAlFkFa",
+      "id": "1560775818745417728",
+      "id_str": "1560775818745417728",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251116,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796525925,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796525925,
+    "wof:lastmodified": 1667251116,
+    "wof:name": "The traditional men’s blouse of the Philippines, the barong tagalog, is a sheer, long-sleeved embroidered formal shirt worn untucked and made from piña or other natural fibers. #PineappletoPina #piña https://t.co/2V0OAlFkFa",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

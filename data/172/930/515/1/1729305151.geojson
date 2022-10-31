@@ -24,6 +24,16 @@
         "0",
         "289"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1084932496523849730"
+          ],
+          "editableUntil": "2019-01-14T22:27:18.899Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -128,14 +138,14 @@
                   "url": "https://video.twimg.com/ext_tw_video/1084932384238096384/pu/pl/6fLXUQqwGfz30waz.m3u8?tag=6"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1084932384238096384/pu/vid/640x360/7pknH3K2McSwb3-F.mp4?tag=6"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1084932384238096384/pu/vid/1280x720/rNGFNwGCBVwD3Fgr.mp4?tag=6"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1084932384238096384/pu/vid/640x360/7pknH3K2McSwb3-F.mp4?tag=6"
                 },
                 {
                   "bitrate": "256000",
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729305151,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251129,
     "wof:name": "NOW PLAYING: \"Gips\" by Jeroen Houben. Inspired by memories of his own family vacations, Dutch filmmaker Jeroen Houben has crafted a meditation on summer holidays, first crushes, and the courage required to reach out to someone who may care about you. #VideoArtsSFOM https://t.co/bUsLaxJ6BT",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

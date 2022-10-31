@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "408737259014197248"
+          ],
+          "editableUntil": "2013-12-05T23:48:51.177Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -48,16 +58,6 @@
             ],
             "name": "SFO Museum",
             "screen_name": "SFOMuseum"
-          },
-          {
-            "id": "1730908249",
-            "id_str": "1730908249",
-            "indices": [
-              "50",
-              "66"
-            ],
-            "name": "Playmates Preschool",
-            "screen_name": "PlaymatesSchool"
           }
         ]
       },
@@ -99,7 +99,7 @@
       }
     ],
     "wof:id": 1729291235,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "RT @monkey_bread: @SFOMuseum THANK YOU for having @PlaymatesSchool kids at the museum today! They had such a great time and your staff was …",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

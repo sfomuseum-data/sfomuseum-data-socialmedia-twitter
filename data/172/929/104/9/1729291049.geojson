@@ -24,6 +24,16 @@
         "0",
         "137"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "398858479232118784"
+          ],
+          "editableUntil": "2013-11-08T17:34:06.538Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -44,7 +54,7 @@
               "35",
               "41"
             ],
-            "name": "Art and Architecture",
+            "name": "Musings",
             "screen_name": "PQPP3"
           },
           {
@@ -97,7 +107,7 @@
       }
     ],
     "wof:id": 1729291049,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "Thanks! Thx, too, for visiting! RT @PQPP3: #FF @SFOMuseum For their great art exhibits.  Thank you for the tour - Write ups to come soon.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

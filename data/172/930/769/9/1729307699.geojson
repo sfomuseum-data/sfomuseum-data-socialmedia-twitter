@@ -24,6 +24,16 @@
         "0",
         "199"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1215040138595536896"
+          ],
+          "editableUntil": "2020-01-08T23:08:38.052Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -46,7 +56,7 @@
               "0",
               "13"
             ],
-            "name": "michael w.",
+            "name": "mw",
             "screen_name": "speedypoodle"
           }
         ]
@@ -95,7 +105,7 @@
       }
     ],
     "wof:id": 1729307699,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251119,
     "wof:name": "@speedypoodle Hi Michael! The Aviation Museum and Library is open daily from 10am to 4:30pm. Please see our website for more detailed directions: https://t.co/bPPfENwcCj We hope you enjoy your visit!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

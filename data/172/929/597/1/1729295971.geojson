@@ -24,6 +24,16 @@
         "0",
         "100"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "142810639511982081"
+          ],
+          "editableUntil": "2011-12-03T04:11:24.410Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -128,7 +138,7 @@
       }
     ],
     "wof:id": 1729295971,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251180,
     "wof:name": "RT @flavavicious: Okay, one more time: @monstercable #isport #monster #SFOgig @djqbert #thatswhatsup",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

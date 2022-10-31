@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1006276948408975360"
+          ],
+          "editableUntil": "2018-06-11T21:18:14.879Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -89,7 +99,7 @@
       }
     ],
     "wof:id": 1729303401,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251139,
     "wof:name": "RT @airandspace: Today in 1927: Charles Lindbergh received the first Distinguished Flying Cross ever awarded. More from @librarycongress: h…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

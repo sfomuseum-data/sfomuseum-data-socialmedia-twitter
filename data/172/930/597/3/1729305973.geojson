@@ -24,6 +24,16 @@
         "0",
         "250"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1118320690208354304"
+          ],
+          "editableUntil": "2019-04-17T01:40:04.596Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -141,7 +151,7 @@
       "id_str": "1118320690208354304",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "1",
+      "retweet_count": "2",
       "retweeted": false,
       "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
       "truncated": false
@@ -173,7 +183,7 @@
       }
     ],
     "wof:id": 1729305973,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251125,
     "wof:name": "\"I use form and texture to create sculptural pieces. While I enjoy hand-raising silver in the traditional way, I’m equally comfortable with computer design and 3D printing.\" #RyanMcClean (b. 1981) #BritishSilver @Mccleansilver https://t.co/Jrdyp1a765",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1102701099545325568"
+          ],
+          "editableUntil": "2019-03-04T23:13:23.984Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -64,7 +74,7 @@
               "28",
               "35"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           },
           {
@@ -117,7 +127,7 @@
       }
     ],
     "wof:id": 1729305529,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251127,
     "wof:name": "RT @SFOMuseum: @BAretrojets @flySFO The @British_Airways Boeing 747 (G-BYGC) painted in their classic #BOAC livery landed at SFO on Friday.…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

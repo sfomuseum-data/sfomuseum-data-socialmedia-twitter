@@ -24,6 +24,16 @@
         "0",
         "84"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "768863512474980352"
+          ],
+          "editableUntil": "2016-08-25T18:02:00.824Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -188,7 +198,7 @@
       }
     ],
     "wof:id": 1729297583,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251163,
     "wof:name": "RT @flySFO: Animal bathrooms coming soon to #sfo #woof #meow https://t.co/wOPsqJrMI9",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

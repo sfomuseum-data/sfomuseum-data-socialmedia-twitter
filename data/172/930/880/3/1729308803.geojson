@@ -24,6 +24,16 @@
         "0",
         "137"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1309282204778782720"
+          ],
+          "editableUntil": "2020-09-25T00:32:57.563Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -160,13 +170,13 @@
               "duration_millis": "28552",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1308964537383579648/pu/pl/-2UveK7KUI6SEZgi.m3u8?tag=10"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1308964537383579648/pu/vid/640x360/OMDHn3It6h9MgiG5.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1308964537383579648/pu/pl/-2UveK7KUI6SEZgi.m3u8?tag=10"
                 },
                 {
                   "bitrate": "2176000",
@@ -222,7 +232,7 @@
       }
     ],
     "wof:id": 1729308803,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251113,
     "wof:name": "RT @flySFO: Always a fun sight to see when we get a visit from this @united beauty! ✈️ #StarWars #OnwardAndUpward https://t.co/622eJ25j3U",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

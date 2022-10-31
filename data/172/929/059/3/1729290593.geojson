@@ -24,6 +24,16 @@
         "0",
         "132"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "114443283593297920"
+          ],
+          "editableUntil": "2011-09-15T21:29:39.719Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -48,14 +58,14 @@
         ],
         "user_mentions": [
           {
-            "id": "6144652",
-            "id_str": "6144652",
+            "id": "1574168565502050304",
+            "id_str": "1574168565502050304",
             "indices": [
               "20",
               "32"
             ],
-            "name": "Ryan Carmelo Briones",
-            "screen_name": "ryanbriones"
+            "name": "ryan briones",
+            "screen_name": "RyanBriones"
           }
         ]
       },
@@ -98,7 +108,7 @@
       }
     ],
     "wof:id": 1729290593,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251181,
     "wof:name": "We hope so, too! RT @ryanbriones: Hope I get to see the television exhibit the next time I'm here @ SFO  http://t.co/YgGFuN4q #photo",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

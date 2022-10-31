@@ -24,21 +24,21 @@
         "0",
         "116"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "306838609548431361"
+          ],
+          "editableUntil": "2013-02-27T19:19:59.959Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
         "urls": [],
         "user_mentions": [
-          {
-            "id": "14630432",
-            "id_str": "14630432",
-            "indices": [
-              "14",
-              "25"
-            ],
-            "name": "Shervin",
-            "screen_name": "calitalieh"
-          },
           {
             "id": "16408759",
             "id_str": "16408759",
@@ -89,7 +89,7 @@
       }
     ],
     "wof:id": 1729311513,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251177,
     "wof:name": "Our pleasure, @calitalieh! Trivia: there's a stylized aerial view of @flySFO in the background of the largest piece.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

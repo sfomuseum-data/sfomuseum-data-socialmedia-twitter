@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "349989595351486465"
+          ],
+          "editableUntil": "2013-06-26T21:06:36.681Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729312265,
-    "wof:lastmodified": 1650908009,
+    "wof:lastmodified": 1667251176,
     "wof:name": "What would you do on a 14,000 mile journey, sailing from San Francisco to New York (via Cape Horn)?… http://t.co/EOxu8LLZzB",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

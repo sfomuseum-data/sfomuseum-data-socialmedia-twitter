@@ -24,6 +24,16 @@
         "0",
         "78"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "793510911923326978"
+          ],
+          "editableUntil": "2016-11-01T18:21:58.779Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -150,15 +160,6 @@
               "duration_millis": "7202",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/793508355692113920/pu/pl/bsfNiIckieT4WNmL.m3u8"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/793508355692113920/pu/vid/320x180/_cSFzFww_genvfkl.mp4"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/793508355692113920/pu/vid/1280x720/OvfI5WFSme2pNgvW.mp4"
@@ -167,6 +168,15 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/793508355692113920/pu/vid/640x360/fH90BbZ4anQ089kj.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/793508355692113920/pu/pl/bsfNiIckieT4WNmL.m3u8"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/793508355692113920/pu/vid/320x180/_cSFzFww_genvfkl.mp4"
                 }
               ]
             }
@@ -212,7 +222,7 @@
       }
     ],
     "wof:id": 1729298357,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251161,
     "wof:name": "RT @museumofflight: Onward Concorde! #Concorde #avgeek https://t.co/dBBKwmqTbH",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

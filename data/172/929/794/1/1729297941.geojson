@@ -24,6 +24,16 @@
         "0",
         "95"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "781582774515884032"
+          ],
+          "editableUntil": "2016-09-29T20:23:49.207Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -221,7 +231,7 @@
       }
     ],
     "wof:id": 1729297941,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251163,
     "wof:name": "RT @flySFO: China Eastern's inaugural flight from Qingdao! #sfo #avgeek https://t.co/Qewx3mWOjV",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

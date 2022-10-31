@@ -24,6 +24,16 @@
         "0",
         "102"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1004392476562505728"
+          ],
+          "editableUntil": "2018-06-06T16:30:01.779Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -98,7 +108,7 @@
       }
     ],
     "wof:id": 1729303333,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251139,
     "wof:name": "Haven't seen #RadioSFO? The highlights are all here! Thank you, @corrietweets! https://t.co/ErFNkEgkSe",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

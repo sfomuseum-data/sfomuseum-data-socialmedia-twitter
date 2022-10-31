@@ -24,6 +24,16 @@
         "0",
         "137"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "841376592148406273"
+          ],
+          "editableUntil": "2017-03-13T20:23:06.246Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729299587,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251153,
     "wof:name": "RT @WIRED: With thousands of flights being cancelled in preparation for the blizzard, these might be good to know https://t.co/cRsOiEd5G3",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

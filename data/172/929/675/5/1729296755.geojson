@@ -24,6 +24,16 @@
         "0",
         "76"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "748216586461405189"
+          ],
+          "editableUntil": "2016-06-29T18:38:30.061Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -143,11 +153,6 @@
               "duration_millis": "45015",
               "variants": [
                 {
-                  "bitrate": "320000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/748214914175492096/pu/vid/320x180/0bkHo0bQ5bjjay8a.mp4"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/748214914175492096/pu/vid/640x360/ywsFoceZ5fvEXFAS.mp4"
@@ -160,6 +165,11 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/748214914175492096/pu/pl/cXGC_nlU6n8DK-iH.m3u8"
+                },
+                {
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/748214914175492096/pu/vid/320x180/0bkHo0bQ5bjjay8a.mp4"
                 }
               ]
             }
@@ -205,7 +215,7 @@
       }
     ],
     "wof:id": 1729296755,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251168,
     "wof:name": "RT @flySFO: #SFO Terminal 1 groundbreaking ceremony! https://t.co/rkczFLYDaw",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "304"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1169057662291476480"
+          ],
+          "editableUntil": "2019-09-04T01:50:41.388Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -134,13 +144,14 @@
               "duration_millis": "49591",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1169057590774358016/pu/pl/1Upz7nRYraAFVMHM.m3u8?tag=10"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1169057590774358016/pu/vid/640x360/WdsEmu0cSEJnL_fM.mp4?tag=10"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1169057590774358016/pu/vid/1280x720/PvY9C3hYRAIb3zuK.mp4?tag=10"
                 },
                 {
                   "bitrate": "256000",
@@ -148,9 +159,8 @@
                   "url": "https://video.twimg.com/ext_tw_video/1169057590774358016/pu/vid/480x270/405WaN8RQZhMvEdZ.mp4?tag=10"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1169057590774358016/pu/vid/1280x720/PvY9C3hYRAIb3zuK.mp4?tag=10"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1169057590774358016/pu/pl/1Upz7nRYraAFVMHM.m3u8?tag=10"
                 }
               ]
             }
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729306891,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251121,
     "wof:name": "NOW PLAYING: “Dear, Dreamer” by Kristian Melom. Melom’s poetic approach matches the writing style of his subject, rising literary star Jason Reynolds, whose embrace of Young Adult Fiction demonstrate the power and limitlessness of the genre. https://t.co/3TDUNZ4cSb #VideoArtsSFOM https://t.co/w3SJe3SARl",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

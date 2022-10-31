@@ -24,6 +24,16 @@
         "0",
         "120"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "765722367020630019"
+          ],
+          "editableUntil": "2016-08-17T02:00:13.388Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -116,7 +126,7 @@
           }
         ]
       },
-      "favorite_count": "2",
+      "favorite_count": "1",
       "favorited": false,
       "full_text": "Flight simulators underwent some pretty significant changes between the 1940s and 1970s. #AVGeek https://t.co/OwpQYE6ZE9",
       "id": "765722367020630019",
@@ -155,7 +165,7 @@
       }
     ],
     "wof:id": 1729297415,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251165,
     "wof:name": "Flight simulators underwent some pretty significant changes between the 1940s and 1970s. #AVGeek https://t.co/OwpQYE6ZE9",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "117"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "809465972587372544"
+          ],
+          "editableUntil": "2016-12-15T19:01:41.672Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -146,23 +156,23 @@
               "duration_millis": "54120",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/809308758333501440/vid/640x360/teUu17mIQcs7XBL5.mp4"
-                },
-                {
                   "bitrate": "320000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/809308758333501440/vid/320x180/zD9srgK4s2eokHgA.mp4"
                 },
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/809308758333501440/vid/1280x720/nMP5O1vIixlKSRAN.mp4"
+                  "url": "https://video.twimg.com/amplify_video/809308758333501440/vid/640x360/teUu17mIQcs7XBL5.mp4"
                 },
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/amplify_video/809308758333501440/pl/C0FawLK7vaLvjoyk.m3u8"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/809308758333501440/vid/1280x720/nMP5O1vIixlKSRAN.mp4"
                 }
               ]
             }
@@ -208,7 +218,7 @@
       }
     ],
     "wof:id": 1729298801,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251159,
     "wof:name": "RT @Airbus: What does it take to certify an aircraft? Here's how the #A321neo made the grade. https://t.co/KFIIhCFBdm",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

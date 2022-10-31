@@ -24,6 +24,16 @@
         "0",
         "75"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "677166329590243328"
+          ],
+          "editableUntil": "2015-12-16T17:10:08.773Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -184,7 +194,7 @@
       }
     ],
     "wof:id": 1729294719,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251170,
     "wof:name": "RT @xbrycicle: Perfect timing for #AGU15 @SFOMuseum https://t.co/cUSscaNjYH",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

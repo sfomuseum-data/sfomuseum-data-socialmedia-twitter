@@ -24,6 +24,16 @@
         "0",
         "95"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "546015208984948736"
+          ],
+          "editableUntil": "2014-12-19T19:22:24.951Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -100,7 +110,7 @@
       }
     ],
     "wof:id": 1729292889,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "RT @BryanBoroughf: Amazing Studio Glass exhibit in terminal 2 http://t.co/3ZjGuYbqgd @SFOMuseum",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

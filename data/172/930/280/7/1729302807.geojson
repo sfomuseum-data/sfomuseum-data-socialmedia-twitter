@@ -24,11 +24,32 @@
         "0",
         "114"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "119841513130823681"
+          ],
+          "editableUntil": "2011-09-30T19:00:17.935Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": []
+        "user_mentions": [
+          {
+            "id": "1518974357795741697",
+            "id_str": "1518974357795741697",
+            "indices": [
+              "19",
+              "32"
+            ],
+            "name": "Stan Hester",
+            "screen_name": "hesterphotog"
+          }
+        ]
       },
       "favorite_count": "0",
       "favorited": false,
@@ -68,7 +89,7 @@
       }
     ],
     "wof:id": 1729302807,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251181,
     "wof:name": "Why, thank you! RT @hesterphotog: SFO has an awesome display on history of TV, also photos of the weekly TV Guide.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "885293970619760640"
+          ],
+          "editableUntil": "2017-07-13T00:55:05.219Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -147,7 +157,7 @@
       }
     ],
     "wof:id": 1729300661,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251149,
     "wof:name": "“The interesting way to travel - Eastern Air Lines”.\nWhat did air service look like in around 1940? https://t.co/QumAzeIEYP",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

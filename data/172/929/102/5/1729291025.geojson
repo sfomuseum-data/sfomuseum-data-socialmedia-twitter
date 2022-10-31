@@ -24,6 +24,16 @@
         "0",
         "127"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "400679190577831936"
+          ],
+          "editableUntil": "2013-11-13T18:08:57.950Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -54,7 +64,7 @@
               "41",
               "47"
             ],
-            "name": "Art and Architecture",
+            "name": "Musings",
             "screen_name": "PQPP3"
           }
         ]
@@ -98,7 +108,7 @@
       }
     ],
     "wof:id": 1729291025,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "Curious about our #JapaneseToys exhibit? @PQPP3 visited \u0026amp; wrote a great article (w/lots of photos!): http://t.co/gkjdR7JiR8",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

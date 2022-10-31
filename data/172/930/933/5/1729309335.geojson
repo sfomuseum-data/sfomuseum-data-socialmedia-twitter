@@ -24,6 +24,16 @@
         "0",
         "100"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "195216801142018048"
+          ],
+          "editableUntil": "2012-04-25T18:54:47.002Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729309335,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251179,
     "wof:name": "\"Sew\" many goodies inside this box! Scroll over the photo to see what's inside: http://t.co/XkDWxpWR",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

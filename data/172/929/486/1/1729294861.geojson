@@ -24,6 +24,16 @@
         "0",
         "116"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "682615108791582720"
+          ],
+          "editableUntil": "2015-12-31T18:01:38.968Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -192,9 +202,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/682372961228197893/pu/pl/3cACL7dIkx-Sl697.m3u8"
                 },
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "320000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/682372961228197893/pu/vid/720x1280/25XzmIk0AUATVz5o.mp4"
+                  "url": "https://video.twimg.com/ext_tw_video/682372961228197893/pu/vid/180x320/KzHJ2FhnJbHl3qUT.mp4"
                 },
                 {
                   "bitrate": "832000",
@@ -202,9 +212,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/682372961228197893/pu/vid/360x640/__5aOV2DD2t1hvXn.mp4"
                 },
                 {
-                  "bitrate": "320000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/682372961228197893/pu/vid/180x320/KzHJ2FhnJbHl3qUT.mp4"
+                  "url": "https://video.twimg.com/ext_tw_video/682372961228197893/pu/vid/720x1280/25XzmIk0AUATVz5o.mp4"
                 }
               ]
             }
@@ -250,7 +260,7 @@
       }
     ],
     "wof:id": 1729294861,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "RT @RachelChang: Tornado at #SFO. #learning #exhibit #fastforward #timelapse #travel @flySFO https://t.co/qH0MmRLxC0",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

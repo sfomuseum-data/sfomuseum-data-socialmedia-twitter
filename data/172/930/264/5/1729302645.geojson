@@ -24,6 +24,16 @@
         "0",
         "59"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "971804211603124224"
+          ],
+          "editableUntil": "2018-03-08T18:15:53.952Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -64,7 +74,7 @@
       "full_text": "RT @flySFO: #InternationalWomensDay https://t.co/BG1p2xOGnM",
       "id": "971804211603124224",
       "id_str": "971804211603124224",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
@@ -98,7 +108,7 @@
       }
     ],
     "wof:id": 1729302645,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251141,
     "wof:name": "RT @flySFO: #InternationalWomensDay https://t.co/BG1p2xOGnM",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

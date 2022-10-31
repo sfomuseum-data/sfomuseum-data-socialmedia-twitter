@@ -24,6 +24,16 @@
         "0",
         "301"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1026507927773831172"
+          ],
+          "editableUntil": "2018-08-06T17:08:56.233Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -134,9 +144,9 @@
               "duration_millis": "45000",
               "variants": [
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1026507875969982465/pu/vid/1280x720/HrQ575hafcgRQhSy.mp4?tag=5"
+                  "url": "https://video.twimg.com/ext_tw_video/1026507875969982465/pu/vid/640x360/MdRbCv_U7lJu5wIt.mp4?tag=5"
                 },
                 {
                   "content_type": "application/x-mpegURL",
@@ -148,9 +158,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1026507875969982465/pu/vid/320x180/Let3_JC19yOMT_lU.mp4?tag=5"
                 },
                 {
-                  "bitrate": "832000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1026507875969982465/pu/vid/640x360/MdRbCv_U7lJu5wIt.mp4?tag=5"
+                  "url": "https://video.twimg.com/ext_tw_video/1026507875969982465/pu/vid/1280x720/HrQ575hafcgRQhSy.mp4?tag=5"
                 }
               ]
             }
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729303855,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251137,
     "wof:name": "NOW PLAYING: \"Canción del Campo (Field Song)\" by Brad Bischoff. Roberto Olivera, a second-generation immigrant who worked CA’s tomato fields to escape poverty \u0026amp; an affectionless stepfather, explains the lessons his mother taught him. https://t.co/OezMboTnea  #VideoArtsSFOM https://t.co/C7aemxq0ob",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

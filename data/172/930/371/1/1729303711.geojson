@@ -24,6 +24,16 @@
         "0",
         "120"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1016353888792928257"
+          ],
+          "editableUntil": "2018-07-09T16:40:24.687Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -294,7 +304,7 @@
       }
     ],
     "wof:id": 1729303711,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251137,
     "wof:name": "RT @FlyPanAm: Since you all seem to love the Pan Am 7 4 7 so much...here’s a few more. #FlyPanAm https://t.co/4R3EUDjy8L",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "203"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "979391714493284352"
+          ],
+          "editableUntil": "2018-03-29T16:45:55.610Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -124,23 +134,23 @@
               "duration_millis": "32500",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/979391571635224577/pu/vid/640x360/YBU7orIjpv8CwNcF.mp4"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/979391571635224577/pu/vid/320x180/NdvD3eSI6TBkbTcK.mp4"
                 },
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/979391571635224577/pu/vid/1280x720/lMxIXlyhvPJ-GP7s.mp4"
+                  "url": "https://video.twimg.com/ext_tw_video/979391571635224577/pu/vid/640x360/YBU7orIjpv8CwNcF.mp4"
                 },
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/979391571635224577/pu/pl/t_TgcJeVeeh54yXm.m3u8"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/979391571635224577/pu/vid/1280x720/lMxIXlyhvPJ-GP7s.mp4"
                 }
               ]
             }
@@ -186,7 +196,7 @@
       }
     ],
     "wof:id": 1729302907,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251141,
     "wof:name": "NOW PLAYING: The Egg Painter by Titus-Armand Napirlica. Using techniques passed down by generations, Elena Craciunescu paints hundreds of eggs in decorative motifs. #VideoArtsSFOM https://t.co/7pjzlgBGv7",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

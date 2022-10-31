@@ -24,6 +24,16 @@
         "0",
         "50"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "249199663289335809"
+          ],
+          "editableUntil": "2012-09-21T18:03:24.291Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -87,7 +97,7 @@
       }
     ],
     "wof:id": 1729310623,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "Just got buzzed by #Endeavor! http://t.co/lkcZdpUp",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

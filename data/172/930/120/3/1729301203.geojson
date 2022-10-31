@@ -24,6 +24,16 @@
         "0",
         "120"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "911651434072100864"
+          ],
+          "editableUntil": "2017-09-23T18:30:14.204Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -96,7 +106,7 @@
               "53",
               "60"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           }
         ]
@@ -180,7 +190,7 @@
       }
     ],
     "wof:id": 1729301203,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251147,
     "wof:name": "#Onthisday in 1927, Hangar No. 1 at Mills Field (now @flySFO) was completed. #avgeek #SFOHistory https://t.co/rmSBoyZ7Fd",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

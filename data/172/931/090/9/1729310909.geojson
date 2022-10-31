@@ -24,6 +24,16 @@
         "0",
         "23"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "261198277012242432"
+          ],
+          "editableUntil": "2012-10-24T20:41:36.726Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729310909,
-    "wof:lastmodified": 1650908097,
+    "wof:lastmodified": 1667251178,
     "wof:name": "@nancybroden Indeed! :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

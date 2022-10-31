@@ -24,6 +24,16 @@
         "0",
         "127"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "474323027384360960"
+          ],
+          "editableUntil": "2014-06-04T23:23:16.881Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -166,7 +176,7 @@
       }
     ],
     "wof:id": 1729292117,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251174,
     "wof:name": "RT @dansedesirable: There's a whole historic map exhibit of San Francisco at SFO. I'm kind of in heaven. http://t.co/gMdBEb47x9",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

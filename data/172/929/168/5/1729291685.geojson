@@ -24,6 +24,16 @@
         "0",
         "99"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "441995181483905024"
+          ],
+          "editableUntil": "2014-03-07T18:23:57.796Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -47,7 +57,7 @@
               "10"
             ],
             "name": "Indie Gamer Pip",
-            "screen_name": "ItsPirrip"
+            "screen_name": "itsPirrip"
           },
           {
             "id": "17844854",
@@ -76,7 +86,7 @@
       "full_text": "@ItsPirrip it's up until April! More info here: http://t.co/kagedF3uvM. Cc: @asianartmuseum @flySFO",
       "id": "441995181483905024",
       "id_str": "441995181483905024",
-      "in_reply_to_screen_name": "ItsPirrip",
+      "in_reply_to_screen_name": "itsPirrip",
       "in_reply_to_status_id": "441987435308650496",
       "in_reply_to_status_id_str": "441987435308650496",
       "in_reply_to_user_id": "163760150",
@@ -115,7 +125,7 @@
       }
     ],
     "wof:id": 1729291685,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "@ItsPirrip it's up until April! More info here: http://t.co/kagedF3uvM. Cc: @asianartmuseum @flySFO",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

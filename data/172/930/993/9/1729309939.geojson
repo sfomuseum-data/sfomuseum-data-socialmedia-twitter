@@ -24,29 +24,27 @@
         "0",
         "54"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "217742002366840832"
+          ],
+          "editableUntil": "2012-06-26T22:41:53.472Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": [
-          {
-            "id": "21422552",
-            "id_str": "21422552",
-            "indices": [
-              "0",
-              "8"
-            ],
-            "name": "Renata Ewing",
-            "screen_name": "ewingrr"
-          }
-        ]
+        "user_mentions": []
       },
       "favorite_count": "0",
       "favorited": false,
       "full_text": "@ewingrr You found us! Welcome! Make yourself at home!",
       "id": "217742002366840832",
       "id_str": "217742002366840832",
-      "in_reply_to_screen_name": "ewingrr",
       "in_reply_to_status_id": "217740043119370241",
       "in_reply_to_status_id_str": "217740043119370241",
       "in_reply_to_user_id": "21422552",
@@ -84,7 +82,7 @@
       }
     ],
     "wof:id": 1729309939,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "@ewingrr You found us! Welcome! Make yourself at home!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

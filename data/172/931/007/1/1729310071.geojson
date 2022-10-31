@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "124992888152145920"
+          ],
+          "editableUntil": "2011-10-15T00:10:01.448Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729310071,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251180,
     "wof:name": "Whether you're on a plane, on a boat, or on a flying boat (like the China Clipper: http://t.co/dWa0wOCk), we hope you have a lovely weekend!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

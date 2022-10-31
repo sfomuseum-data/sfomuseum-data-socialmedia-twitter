@@ -24,6 +24,16 @@
         "0",
         "131"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "723554038189535234"
+          ],
+          "editableUntil": "2016-04-22T17:18:20.345Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -93,7 +103,7 @@
               "3",
               "11"
             ],
-            "name": "Ramekon Artist",
+            "name": "Ramekon Sculptor",
             "screen_name": "RAMEKON"
           }
         ]
@@ -181,7 +191,7 @@
       }
     ],
     "wof:id": 1729295789,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "RT @RAMEKON: #CreativityExplored's Artists \u0026amp; Staff visit their exhibition \"CelebratingaVision,\" at #SFO https://t.co/75NFUSz3Y8",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

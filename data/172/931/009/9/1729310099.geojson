@@ -24,6 +24,16 @@
         "0",
         "48"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "124572128426213377"
+          ],
+          "editableUntil": "2011-10-13T20:18:04.512Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -82,7 +92,7 @@
       }
     ],
     "wof:id": 1729310099,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251181,
     "wof:name": "@VanTiki Thanks for checking out the exhibition!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

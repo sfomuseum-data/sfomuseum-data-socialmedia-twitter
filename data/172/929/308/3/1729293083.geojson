@@ -24,6 +24,16 @@
         "0",
         "50"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "138672794580942848"
+          ],
+          "editableUntil": "2011-11-21T18:09:05.301Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -82,7 +92,7 @@
       }
     ],
     "wof:id": 1729293083,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251180,
     "wof:name": "@WKGPCREW Thanks for checking out the exhibition!!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "73"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "643456943563108352"
+          ],
+          "editableUntil": "2015-09-14T16:41:04.854Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729294037,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "@jonk Thanks for stopping by! What was your favorite part of the exhibit?",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

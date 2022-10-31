@@ -24,6 +24,16 @@
         "0",
         "256"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1037401894035939328"
+          ],
+          "editableUntil": "2018-09-05T18:37:40.190Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -134,9 +144,9 @@
               "duration_millis": "45000",
               "variants": [
                 {
-                  "bitrate": "256000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1037401744265732097/pu/vid/320x180/ySlY1-kKD9JZl0r0.mp4?tag=5"
+                  "url": "https://video.twimg.com/ext_tw_video/1037401744265732097/pu/vid/1280x720/T1ATBeDb4_3KRI-_.mp4?tag=5"
                 },
                 {
                   "bitrate": "832000",
@@ -148,16 +158,16 @@
                   "url": "https://video.twimg.com/ext_tw_video/1037401744265732097/pu/pl/7j5Iv83BpGXwF-UQ.m3u8?tag=5"
                 },
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1037401744265732097/pu/vid/1280x720/T1ATBeDb4_3KRI-_.mp4?tag=5"
+                  "url": "https://video.twimg.com/ext_tw_video/1037401744265732097/pu/vid/320x180/ySlY1-kKD9JZl0r0.mp4?tag=5"
                 }
               ]
             }
           }
         ]
       },
-      "favorite_count": "3",
+      "favorite_count": "2",
       "favorited": false,
       "full_text": "NOW PLAYING: \"The Afghan Bruce Lee\" by Jayga Rayn. Kabul native Abbas Alizada hopes to inspire his fellow Afghans to realize their dreams and help transform the prevailing image of Afghanistan. https://t.co/lPfMAEW7wo #VideoArtsSFOM https://t.co/hGnbCKOGI7",
       "id": "1037401894035939328",
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729304141,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251135,
     "wof:name": "NOW PLAYING: \"The Afghan Bruce Lee\" by Jayga Rayn. Kabul native Abbas Alizada hopes to inspire his fellow Afghans to realize their dreams and help transform the prevailing image of Afghanistan. https://t.co/lPfMAEW7wo #VideoArtsSFOM https://t.co/hGnbCKOGI7",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -21,6 +21,16 @@
         "0",
         "257"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1492309811928567811"
+          ],
+          "editableUntil": "2022-02-12T01:59:19.596Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -163,15 +173,6 @@
               "duration_millis": "34034",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1492309364249542656/pu/vid/960x540/bWagT3AoL3hH-lrx.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1492309364249542656/pu/pl/Uvi5zHCKakSQvfmf.m3u8?tag=12\u0026container=fmp4"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1492309364249542656/pu/vid/640x360/2C2YaJMnYgf0MRsP.mp4?tag=12"
@@ -180,6 +181,15 @@
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1492309364249542656/pu/vid/480x270/Di7AdyAM58_GxOOT.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1492309364249542656/pu/pl/Uvi5zHCKakSQvfmf.m3u8?tag=12\u0026container=fmp4"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1492309364249542656/pu/vid/960x540/bWagT3AoL3hH-lrx.mp4?tag=12"
                 }
               ]
             }
@@ -224,7 +234,7 @@
       }
     ],
     "wof:id": 1763586431,
-    "wof:lastmodified": 1650908073,
+    "wof:lastmodified": 1667251175,
     "wof:name": "New York-based filmmakers and brothers Alex and Aaron Craig profile Brooklyn’s Peter Kokis, whose passion is creating life-size robots out of trash. \n#VideoArts #VideoArtsSFO #AlexCraig #AaronCraig #OneMansTrash #PeterKokis #Brooklyn https://t.co/CI5LYdvttE",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

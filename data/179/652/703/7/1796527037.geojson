@@ -1,0 +1,203 @@
+{
+  "id": 1796527037,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-04-25",
+    "date:cessation_upper": "2022-04-25",
+    "date:inception_lower": "2022-04-25",
+    "date:inception_upper": "2022-04-25",
+    "edtf:cessation": "2022-04-25T16:42:11-07:00",
+    "edtf:inception": "2022-04-25T16:42:11-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1650930131,
+      "created_at": "Mon Apr 25 23:42:11 +0000 2022",
+      "display_text_range": [
+        "0",
+        "300"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1518737165605236736"
+          ],
+          "editableUntil": "2022-04-26T00:12:11.709Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "239",
+              "251"
+            ],
+            "text": "collections"
+          },
+          {
+            "indices": [
+              "252",
+              "259"
+            ],
+            "text": "avgeek"
+          },
+          {
+            "indices": [
+              "260",
+              "276"
+            ],
+            "text": "aviationhistory"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TBOYISBF7M",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1518737165605236736/photo/1",
+            "id": "1518736981135486976",
+            "id_str": "1518736981135486976",
+            "indices": [
+              "277",
+              "300"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FROjPNvUcAAw1w3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FROjPNvUcAAw1w3.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/TBOYISBF7M"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/3Nflupv",
+            "expanded_url": "https://bit.ly/3Nflupv",
+            "indices": [
+              "214",
+              "237"
+            ],
+            "url": "https://t.co/d3DBDsRn9E"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TBOYISBF7M",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1518737165605236736/photo/1",
+            "id": "1518736981135486976",
+            "id_str": "1518736981135486976",
+            "indices": [
+              "277",
+              "300"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FROjPNvUcAAw1w3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FROjPNvUcAAw1w3.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "960",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "544",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/TBOYISBF7M"
+          }
+        ]
+      },
+      "favorite_count": "8",
+      "favorited": false,
+      "full_text": "Our “you collect what?” list is lengthy. Among the unexpected items are tray liners, which help to create the perfect place-setting for a meal service. Browse through over fifty of them on our collection website!\n\nhttps://t.co/d3DBDsRn9E\n\n#collections #avgeek #aviationhistory https://t.co/TBOYISBF7M",
+      "id": "1518737165605236736",
+      "id_str": "1518737165605236736",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1667251167,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1796527037,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1796527037,
+    "wof:lastmodified": 1667251167,
+    "wof:name": "Our “you collect what?” list is lengthy. Among the unexpected items are tray liners, which help to create the perfect place-setting for a meal service. Browse through over fifty of them on our collection website!\n\nhttps://t.co/d3DBDsRn9E\n\n#collections #avgeek #aviationhistory https://t.co/TBOYISBF7M",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

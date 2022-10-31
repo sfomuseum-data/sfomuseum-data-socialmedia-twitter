@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "261196768438542336"
+          ],
+          "editableUntil": "2012-10-24T20:35:37.054Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -62,7 +72,7 @@
       "id_str": "261196768438542336",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "8",
+      "retweet_count": "7",
       "retweeted": false,
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
@@ -94,7 +104,7 @@
       }
     ],
     "wof:id": 1729310903,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "We're getting antsy in anticipation of tonight's #SFGiants game! Our graphics team has been overcome by #OrangeOctober: http://t.co/CsJff6jI",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

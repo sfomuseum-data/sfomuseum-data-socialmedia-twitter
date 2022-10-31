@@ -21,6 +21,16 @@
         "0",
         "227"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1514736038807175182"
+          ],
+          "editableUntil": "2022-04-14T23:13:08.743Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -133,11 +143,6 @@
                   "url": "https://video.twimg.com/ext_tw_video/1514735572799029250/pu/vid/640x360/FnMRgAcpOYRBNCvC.mp4?tag=12"
                 },
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1514735572799029250/pu/vid/480x270/GhH0hJY01YGwcxCa.mp4?tag=12"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1514735572799029250/pu/vid/1280x720/HO7me1CkLFWhAlba.mp4?tag=12"
@@ -145,6 +150,11 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1514735572799029250/pu/pl/105teNjHDAowKg2J.m3u8?tag=12\u0026container=fmp4"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1514735572799029250/pu/vid/480x270/GhH0hJY01YGwcxCa.mp4?tag=12"
                 }
               ]
             }
@@ -189,7 +199,7 @@
       }
     ],
     "wof:id": 1763586889,
-    "wof:lastmodified": 1650908094,
+    "wof:lastmodified": 1667251168,
     "wof:name": "Venezuelan-born multimedia artist Maria Constanza Ferreira explores the nature of light moving through a city as it reflects and refracts into an abstract kaleidoscope of colors. #VideoArts #VideoArtsSFO https://t.co/6CNWSQJ4IK",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "132"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "739927209972879360"
+          ],
+          "editableUntil": "2016-06-06T21:39:28.697Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -40,14 +50,14 @@
         ],
         "user_mentions": [
           {
-            "id": "26267987",
-            "id_str": "26267987",
+            "id": "1531099661959933952",
+            "id_str": "1531099661959933952",
             "indices": [
               "0",
               "13"
             ],
-            "name": "Vertical Cat",
-            "screen_name": "Vertical_Cat"
+            "name": "VerTicaL CaT",
+            "screen_name": "VerTicaL_CaT"
           }
         ]
       },
@@ -56,7 +66,6 @@
       "full_text": "@Vertical_Cat This piece of art is called \"Untitled\" by Fred Eversley! Isn't it amazing?! 😍 Learn more here: https://t.co/MLFmyXOhkG",
       "id": "739927209972879360",
       "id_str": "739927209972879360",
-      "in_reply_to_screen_name": "Vertical_Cat",
       "in_reply_to_status_id": "739926285711998976",
       "in_reply_to_status_id_str": "739926285711998976",
       "in_reply_to_user_id": "26267987",
@@ -95,7 +104,7 @@
       }
     ],
     "wof:id": 1729296381,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251168,
     "wof:name": "@Vertical_Cat This piece of art is called \"Untitled\" by Fred Eversley! Isn't it amazing?! 😍 Learn more here: https://t.co/MLFmyXOhkG",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

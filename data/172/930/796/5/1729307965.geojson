@@ -24,6 +24,16 @@
         "0",
         "294"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1232075763081285632"
+          ],
+          "editableUntil": "2020-02-24T23:22:07.436Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -134,8 +144,9 @@
               "duration_millis": "47681",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1232075683813150720/pu/pl/TvXD1KhyqSFrxG5N.m3u8?tag=10"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1232075683813150720/pu/vid/640x360/WGr_Fl7YK-fLtN4h.mp4?tag=10"
                 },
                 {
                   "bitrate": "256000",
@@ -143,14 +154,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1232075683813150720/pu/vid/480x270/WI3FOpDf6qiPHca8.mp4?tag=10"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1232075683813150720/pu/vid/640x360/WGr_Fl7YK-fLtN4h.mp4?tag=10"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1232075683813150720/pu/vid/1280x720/mAZjYo2xJYjhjKFU.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1232075683813150720/pu/pl/TvXD1KhyqSFrxG5N.m3u8?tag=10"
                 }
               ]
             }
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729307965,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251117,
     "wof:name": "NOW PLAYING:\"A Woman Like Me \" by Isabel Morales. A deafblind Danish woman travels to Nepal to meet a woman with the same condition in Isabel Morales Bondy’s documentary short that demonstrates the capacity for human communication. https://t.co/USQ11veY5d #VideoArtsSFOM https://t.co/RM7RrFsxTh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

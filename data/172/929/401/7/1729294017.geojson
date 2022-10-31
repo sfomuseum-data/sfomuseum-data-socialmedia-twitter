@@ -24,6 +24,16 @@
         "0",
         "112"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "643620352673902592"
+          ],
+          "editableUntil": "2015-09-15T03:30:24.622Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -155,7 +165,7 @@
       }
     ],
     "wof:id": 1729294017,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "We leave our cases temporarily empty as we prepare for the next exhibit. #behindthescenes http://t.co/giAdFTrqBC",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

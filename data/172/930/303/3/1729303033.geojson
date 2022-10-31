@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "985581038633127937"
+          ],
+          "editableUntil": "2018-04-15T18:40:05.477Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -155,7 +165,7 @@
       }
     ],
     "wof:id": 1729303033,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251139,
     "wof:name": "Happy Birthday, American Airlines! What are your favorite memories about American Airlines? #avgeek https://t.co/krbd2spgu5",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "99"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "684173827035758594"
+          ],
+          "editableUntil": "2016-01-05T01:15:26.357Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -205,7 +215,7 @@
       }
     ],
     "wof:id": 1729294949,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "RT @RachelChang: Current exhibit at #SFO. @49ers #airport #travel #football https://t.co/86HZ28Sru6",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "600809497058222080"
+          ],
+          "editableUntil": "2015-05-20T00:15:21.256Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729293443,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "Scarabs are one of the most popular and easily recognizable motifs from ancient Egypt and as such,… https://t.co/kX5yyOiXP4",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

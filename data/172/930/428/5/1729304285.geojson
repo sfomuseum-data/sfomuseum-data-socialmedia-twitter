@@ -24,6 +24,16 @@
         "0",
         "102"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1045789386481131520"
+          ],
+          "editableUntil": "2018-09-28T22:06:34.221Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -135,23 +145,23 @@
               "duration_millis": "74174",
               "variants": [
                 {
-                  "bitrate": "832000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/1045627350912626690/vid/640x360/EGW6Y8bHSRQl-4yk.mp4?tag=8"
+                  "url": "https://video.twimg.com/amplify_video/1045627350912626690/vid/1280x720/WGaRZuQPD5NTBEmm.mp4?tag=8"
                 },
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/amplify_video/1045627350912626690/pl/B-3uRCQQaDWKdOwM.m3u8?tag=8"
                 },
                 {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1045627350912626690/vid/640x360/EGW6Y8bHSRQl-4yk.mp4?tag=8"
+                },
+                {
                   "bitrate": "288000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/1045627350912626690/vid/320x180/BHtPw6c2P0Q4X_Wj.mp4?tag=8"
-                },
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/1045627350912626690/vid/1280x720/WGaRZuQPD5NTBEmm.mp4?tag=8"
                 }
               ]
             }
@@ -197,7 +207,7 @@
       }
     ],
     "wof:id": 1729304285,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251135,
     "wof:name": "RT @tictoc: The Boeing 747 just turned 50. Happy birthday, Queen of the Sky ✈🎊 https://t.co/VdAojsOguf",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

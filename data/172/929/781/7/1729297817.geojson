@@ -24,6 +24,16 @@
         "0",
         "101"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "776084553408577536"
+          ],
+          "editableUntil": "2016-09-14T16:15:51.143Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -155,7 +165,7 @@
       }
     ],
     "wof:id": 1729297817,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251163,
     "wof:name": "Today is #AskACurator Day! What questions would you like to ask our curators? https://t.co/bZpUXQDJnF",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "111"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "408352425318555648"
+          ],
+          "editableUntil": "2013-12-04T22:19:39.674Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -94,7 +104,7 @@
       }
     ],
     "wof:id": 1729291133,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "This day marks the end of an era: #PanAm's final flight was on this day in 1991. http://t.co/MMtJK5D89z #avgeek",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

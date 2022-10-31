@@ -24,6 +24,16 @@
         "0",
         "187"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1068327372640808960"
+          ],
+          "editableUntil": "2018-11-30T02:44:28.857Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -131,13 +141,9 @@
               "duration_millis": "29997",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1068327299060183040/pu/pl/mIErPvY_64Fp8w4e.m3u8?tag=5"
-                },
-                {
-                  "bitrate": "832000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1068327299060183040/pu/vid/640x360/0kTwfBYvrkqNadJ9.mp4?tag=5"
+                  "url": "https://video.twimg.com/ext_tw_video/1068327299060183040/pu/vid/1280x720/xtf-eI69iFuFp99P.mp4?tag=5"
                 },
                 {
                   "bitrate": "256000",
@@ -145,9 +151,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1068327299060183040/pu/vid/320x180/ffB3F-AFvB6IXdpt.mp4?tag=5"
                 },
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1068327299060183040/pu/vid/1280x720/xtf-eI69iFuFp99P.mp4?tag=5"
+                  "url": "https://video.twimg.com/ext_tw_video/1068327299060183040/pu/vid/640x360/0kTwfBYvrkqNadJ9.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1068327299060183040/pu/pl/mIErPvY_64Fp8w4e.m3u8?tag=5"
                 }
               ]
             }
@@ -198,7 +208,7 @@
       }
     ],
     "wof:id": 1729304777,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251131,
     "wof:name": "In 1934, #LydiaMendoza recorded her most famous ballad, “Mal Hombre” (Bad Man). Many of her songs explore dark themes of heartbreak and suffering. #StoryofArhoolie https://t.co/3G6HP708Ei",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

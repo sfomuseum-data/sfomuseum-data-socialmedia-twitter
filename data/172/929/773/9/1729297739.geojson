@@ -24,6 +24,16 @@
         "0",
         "125"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "774449883755515904"
+          ],
+          "editableUntil": "2016-09-10T04:00:15.527Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -116,14 +126,14 @@
           }
         ]
       },
-      "favorite_count": "2",
+      "favorite_count": "1",
       "favorited": false,
       "full_text": "Notably, the white straw beret of synthetic fiber is paired in contrast to the suit. #FashionInFlight https://t.co/FNWJXa71C2",
       "id": "774449883755515904",
       "id_str": "774449883755515904",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "1",
+      "retweet_count": "0",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -155,7 +165,7 @@
       }
     ],
     "wof:id": 1729297739,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251163,
     "wof:name": "Notably, the white straw beret of synthetic fiber is paired in contrast to the suit. #FashionInFlight https://t.co/FNWJXa71C2",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

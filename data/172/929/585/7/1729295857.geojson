@@ -24,6 +24,16 @@
         "0",
         "106"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "725367639548170240"
+          ],
+          "editableUntil": "2016-04-27T17:24:56.604Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -135,23 +145,23 @@
               "duration_millis": "20027",
               "variants": [
                 {
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/725194002392186880/pu/vid/320x180/xZyRBqT5NgL_rCX8.mp4"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/725194002392186880/pu/vid/1280x720/8B5xqoO8KAlS9csg.mp4"
-                },
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/725194002392186880/pu/vid/640x360/b5aEVgpiU8cBkYRT.mp4"
                 },
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/725194002392186880/pu/pl/Bbhy8S8ouPe_Cuwx.m3u8"
                 },
                 {
-                  "bitrate": "320000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/725194002392186880/pu/vid/320x180/xZyRBqT5NgL_rCX8.mp4"
+                  "url": "https://video.twimg.com/ext_tw_video/725194002392186880/pu/vid/640x360/b5aEVgpiU8cBkYRT.mp4"
                 }
               ]
             }
@@ -197,7 +207,7 @@
       }
     ],
     "wof:id": 1729295857,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "RT @museumofflight: Engines on the Boeing 247D shut down today after final flight. https://t.co/DtlUmmZQm4",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "132"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "751838500538945536"
+          ],
+          "editableUntil": "2016-07-09T18:30:41.669Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -108,14 +118,14 @@
           }
         ]
       },
-      "favorite_count": "1",
+      "favorite_count": "2",
       "favorited": false,
       "full_text": "Do your summer travel plans include flying through SFO? The Aviation Museum \u0026amp; Library is now open daily! https://t.co/6PGxpWrLXq",
       "id": "751838500538945536",
       "id_str": "751838500538945536",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "3",
+      "retweet_count": "2",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -147,7 +157,7 @@
       }
     ],
     "wof:id": 1729296897,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251168,
     "wof:name": "Do your summer travel plans include flying through SFO? The Aviation Museum \u0026amp; Library is now open daily! https://t.co/6PGxpWrLXq",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

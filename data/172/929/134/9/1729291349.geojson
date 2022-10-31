@@ -24,6 +24,16 @@
         "0",
         "126"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "413437866791165952"
+          ],
+          "editableUntil": "2013-12-18T23:07:23.404Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -61,7 +71,7 @@
               "41",
               "46"
             ],
-            "name": "Smithsonian's NMNH",
+            "name": "Smithsonian NMNH",
             "screen_name": "NMNH"
           }
         ]
@@ -105,7 +115,7 @@
       }
     ],
     "wof:id": 1729291349,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "We clearly need to invite the folks from @NMNH's @archeologylab to our holiday party. http://t.co/weVwVLIp6S #anthrocakes #yum",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

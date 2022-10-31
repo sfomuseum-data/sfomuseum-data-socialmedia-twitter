@@ -24,6 +24,16 @@
         "0",
         "75"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "920345567355654144"
+          ],
+          "editableUntil": "2017-10-17T18:17:37.108Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -197,7 +207,7 @@
       }
     ],
     "wof:id": 1729301369,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251147,
     "wof:name": "RT @CNNTravel: Presidential planes through history. https://t.co/2QFTnqAep0",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

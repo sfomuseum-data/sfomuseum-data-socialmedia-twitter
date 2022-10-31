@@ -24,6 +24,16 @@
         "0",
         "109"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1076210952490475520"
+          ],
+          "editableUntil": "2018-12-21T20:51:00.763Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -135,13 +145,9 @@
               "duration_millis": "45002",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1076205263881818112/pu/pl/p0fszRR2kzvsAgTs.m3u8?tag=6"
-                },
-                {
-                  "bitrate": "832000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1076205263881818112/pu/vid/640x360/CL9cUERUVxkU1xMC.mp4?tag=6"
+                  "url": "https://video.twimg.com/ext_tw_video/1076205263881818112/pu/vid/1280x720/fgTDk0IEN95DOFyw.mp4?tag=6"
                 },
                 {
                   "bitrate": "256000",
@@ -149,9 +155,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1076205263881818112/pu/vid/320x180/rdUIaiGGbXACv1cZ.mp4?tag=6"
                 },
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1076205263881818112/pu/vid/1280x720/fgTDk0IEN95DOFyw.mp4?tag=6"
+                  "url": "https://video.twimg.com/ext_tw_video/1076205263881818112/pu/vid/640x360/CL9cUERUVxkU1xMC.mp4?tag=6"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1076205263881818112/pu/pl/p0fszRR2kzvsAgTs.m3u8?tag=6"
                 }
               ]
             }
@@ -197,7 +207,7 @@
       }
     ],
     "wof:id": 1729304981,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251129,
     "wof:name": "RT @flySFO: Come listen to the Golden Gate Boys Choir in the International Terminal 🌟 https://t.co/L5dvNpQc87",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

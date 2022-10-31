@@ -24,6 +24,16 @@
         "0",
         "247"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "971556909588205568"
+          ],
+          "editableUntil": "2018-03-08T01:53:12.557Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -126,23 +136,23 @@
               "duration_millis": "45000",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/971556665379061760/pu/vid/640x360/hh5xZQCVOTjXmJxi.mp4"
-                },
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/971556665379061760/pu/vid/1280x720/fLaljHa40fsX-BcG.mp4"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/971556665379061760/pu/vid/320x180/tansSqrjFQZPCTiy.mp4"
                 },
                 {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/971556665379061760/pu/vid/640x360/hh5xZQCVOTjXmJxi.mp4"
+                },
+                {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/971556665379061760/pu/pl/A-ubRkOqfXlYj7Jy.m3u8"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/971556665379061760/pu/vid/1280x720/fLaljHa40fsX-BcG.mp4"
                 }
               ]
             }
@@ -188,7 +198,7 @@
       }
     ],
     "wof:id": 1729302541,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251141,
     "wof:name": "Join us for a special event this Saturday at 4:30! See a live display of backstrap loom weaving by Elvia Gómez López, president of Cooperativa Jolom Mayaetik. See our event page for more information: https://t.co/l24avXc1hR https://t.co/yDlovNAGXf",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

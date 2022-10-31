@@ -24,6 +24,16 @@
         "0",
         "117"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "123796258094710785"
+          ],
+          "editableUntil": "2011-10-11T16:55:02.610Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729309481,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251181,
     "wof:name": "RT @punknews: RT @PatAtFAT: Attn record nerds traveling to SFO. Cool vinyl exhibit in Terminal 2 http://t.co/xJ3J8PFR",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

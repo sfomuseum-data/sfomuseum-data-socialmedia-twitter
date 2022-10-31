@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "625781580586315776"
+          ],
+          "editableUntil": "2015-07-27T22:05:29.928Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -87,7 +97,7 @@
       }
     ],
     "wof:id": 1729293625,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "RT @airlivenet: BREAKING American Airlines Dreamliner suffered severe bird strike today during flight #AA88 from Beijing to Dallas. http://…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

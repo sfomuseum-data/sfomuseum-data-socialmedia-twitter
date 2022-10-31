@@ -21,6 +21,16 @@
         "0",
         "298"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1333561124529213440"
+          ],
+          "editableUntil": "2020-12-01T00:28:43.112Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -157,10 +167,6 @@
                   "url": "https://video.twimg.com/ext_tw_video/1333561084926521344/pu/vid/360x450/XA1__AyIudnYqYgc.mp4?tag=10"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1333561084926521344/pu/pl/Xawnn7P7i8mTBozp.m3u8?tag=10"
-                },
-                {
                   "bitrate": "632000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1333561084926521344/pu/vid/320x400/NO2eU7Xyw_NwF_fZ.mp4?tag=10"
@@ -169,6 +175,10 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1333561084926521344/pu/vid/720x900/fD21sxbMTRptr4hO.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1333561084926521344/pu/pl/Xawnn7P7i8mTBozp.m3u8?tag=10"
                 }
               ]
             }
@@ -213,7 +223,7 @@
       }
     ],
     "wof:id": 1763511341,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251113,
     "wof:name": "Can you imagine cleaning over 5,000 three-by-three inch canvases? Twice a year, one of our wonderful staffers takes a few sessions, with a cumulative time of 24 hours, to clean “Gateway” by #IkJoongKang. #behindthescenes #MuseumMonday #MuseumFromHome https://t.co/WTJ6HV7jqz https://t.co/b0faJa4Wbf",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

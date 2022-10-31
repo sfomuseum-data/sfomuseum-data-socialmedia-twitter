@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "458645550221762561"
+          ],
+          "editableUntil": "2014-04-22T17:06:35.052Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -100,7 +110,7 @@
       }
     ],
     "wof:id": 1729291951,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251174,
     "wof:name": "RT @grahamdesignsf: Next time thru flysfo check out @sfomuseum T2 David Rumsey Maps of San Francisco http://t.co/ZrEuJ7UEMA",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

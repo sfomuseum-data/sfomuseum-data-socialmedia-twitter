@@ -24,6 +24,16 @@
         "0",
         "242"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1047646022313246720"
+          ],
+          "editableUntil": "2018-10-04T01:04:10.698Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -159,23 +169,23 @@
               "duration_millis": "29997",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1047645936451645441/pu/vid/1280x720/9elA5JzmbUKyBrdh.mp4?tag=5"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1047645936451645441/pu/pl/s_lai2htvSuAfII-.m3u8?tag=5"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1047645936451645441/pu/vid/320x180/SZC2evLs5BnXQWuA.mp4?tag=5"
                 },
                 {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1047645936451645441/pu/vid/1280x720/9elA5JzmbUKyBrdh.mp4?tag=5"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1047645936451645441/pu/vid/640x360/ABCsK_vNETxGfxOD.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1047645936451645441/pu/pl/s_lai2htvSuAfII-.m3u8?tag=5"
                 }
               ]
             }
@@ -221,7 +231,7 @@
       }
     ],
     "wof:id": 1729304337,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251135,
     "wof:name": "#FredMcDowell’s version of “You Got to Move,” featured on this album, gained widespread recognition after #theRollingStones covered the song on their 1971 album “Sticky Fingers.” #StoryofArhoolie @Folkways @ArhoolieFdn https://t.co/EtYfzaIfF4",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

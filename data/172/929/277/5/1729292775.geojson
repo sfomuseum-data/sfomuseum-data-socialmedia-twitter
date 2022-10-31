@@ -24,6 +24,16 @@
         "0",
         "121"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "533060998203453440"
+          ],
+          "editableUntil": "2014-11-14T01:27:00.423Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -40,7 +50,7 @@
         ],
         "user_mentions": []
       },
-      "favorite_count": "1",
+      "favorite_count": "0",
       "favorited": false,
       "full_text": "We had a special visitor today! Marvin Lipofsky came by to check out Studio Glass, the exhibition… http://t.co/FRelY9jhMk",
       "id": "533060998203453440",
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729292775,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "We had a special visitor today! Marvin Lipofsky came by to check out Studio Glass, the exhibition… http://t.co/FRelY9jhMk",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

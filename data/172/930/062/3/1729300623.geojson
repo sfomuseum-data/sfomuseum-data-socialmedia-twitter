@@ -24,6 +24,16 @@
         "0",
         "35"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "882337925362401280"
+          ],
+          "editableUntil": "2017-07-04T21:08:49.109Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -132,7 +142,7 @@
       "full_text": "RT @flySFO: https://t.co/8DiEiKOaPT",
       "id": "882337925362401280",
       "id_str": "882337925362401280",
-      "lang": "und",
+      "lang": "zxx",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
@@ -166,7 +176,7 @@
       }
     ],
     "wof:id": 1729300623,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251149,
     "wof:name": "RT @flySFO: https://t.co/8DiEiKOaPT",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "27"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "240954084306337792"
+          ],
+          "editableUntil": "2012-08-29T23:58:25.066Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -83,7 +93,7 @@
       }
     ],
     "wof:id": 1729310449,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "@goodinthestacks Thanks! :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

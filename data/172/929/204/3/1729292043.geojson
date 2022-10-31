@@ -24,6 +24,16 @@
         "0",
         "57"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "469612882683252738"
+          ],
+          "editableUntil": "2014-05-22T23:26:50.874Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -147,7 +157,7 @@
       "full_text": "RT @flySFO: #throwbackthursday #T2 http://t.co/JB2gQvQwrv",
       "id": "469612882683252738",
       "id_str": "469612882683252738",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
@@ -181,7 +191,7 @@
       }
     ],
     "wof:id": 1729292043,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251174,
     "wof:name": "RT @flySFO: #throwbackthursday #T2 http://t.co/JB2gQvQwrv",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

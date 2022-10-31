@@ -24,6 +24,16 @@
         "0",
         "84"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1081246520421183488"
+          ],
+          "editableUntil": "2019-01-04T18:20:33.714Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -174,7 +184,7 @@
       }
     ],
     "wof:id": 1729305121,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251129,
     "wof:name": "RT @SouthwestAir: We already miss you, Herbie. #HonoringHerb https://t.co/SQcvSdkbC2",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

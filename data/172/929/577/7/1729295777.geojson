@@ -24,6 +24,16 @@
         "0",
         "104"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "720722354742034432"
+          ],
+          "editableUntil": "2016-04-14T21:46:14.401Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -181,7 +191,7 @@
       }
     ],
     "wof:id": 1729295777,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "RT @flySFO: #Tbt to 5 years ago for Terminal 2's opening! Happy Birthday T2 #SFO https://t.co/W6kbf0lGQP",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

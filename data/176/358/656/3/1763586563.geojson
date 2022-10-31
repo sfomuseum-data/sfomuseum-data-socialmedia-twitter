@@ -21,6 +21,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1499072517180248068"
+          ],
+          "editableUntil": "2022-03-02T17:51:54.173Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -75,7 +85,7 @@
       }
     ],
     "wof:id": 1763586563,
-    "wof:lastmodified": 1650908079,
+    "wof:lastmodified": 1667251174,
     "wof:name": "RT @airandspace: Today in 1969, the first Concorde supersonic transport, Concorde 001, made its maiden flight. The first supersonic airline…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

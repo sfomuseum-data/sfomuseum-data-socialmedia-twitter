@@ -21,6 +21,16 @@
         "0",
         "88"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1443629504652451849"
+          ],
+          "editableUntil": "2021-09-30T18:01:09.905Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -90,7 +100,7 @@
               "3",
               "10"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           },
           {
@@ -307,7 +317,7 @@
       }
     ],
     "wof:id": 1763585615,
-    "wof:lastmodified": 1650908037,
+    "wof:lastmodified": 1667251181,
     "wof:name": "RT @flySFO: This new #SFGiants @AlaskaAir livery 🥳\n\n#ResilientSF https://t.co/0lURRyUUjV",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

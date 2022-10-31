@@ -24,6 +24,16 @@
         "0",
         "150"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "970758387129573377"
+          ],
+          "editableUntil": "2018-03-05T21:00:09.967Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -151,7 +161,7 @@
       "id_str": "970758387129573377",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "10",
+      "retweet_count": "9",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -183,7 +193,7 @@
       }
     ],
     "wof:id": 1729302569,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251141,
     "wof:name": "#Onthisday in 1976, the first #Boeing #747SP (Special Performance) was delivered to Pan American World Airways. #avgeek #panam https://t.co/TJEo3Hzk28",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

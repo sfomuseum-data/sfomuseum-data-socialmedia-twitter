@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "133628049978695680"
+          ],
+          "editableUntil": "2011-11-07T20:03:04.461Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729290619,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251180,
     "wof:name": "New blog post from Italian Motor Magazine featuring our exhibit of 1950s and '60s Italian motorcycles! http://t.co/OJVmazUA",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

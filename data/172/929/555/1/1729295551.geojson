@@ -24,6 +24,16 @@
         "0",
         "58"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "712089113575366656"
+          ],
+          "editableUntil": "2016-03-22T02:00:49.309Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -140,7 +150,7 @@
       "full_text": "RT @esaesmicancion: #ArtNouveauSFO https://t.co/CIPhxPkp6p",
       "id": "712089113575366656",
       "id_str": "712089113575366656",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
@@ -174,7 +184,7 @@
       }
     ],
     "wof:id": 1729295551,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "RT @esaesmicancion: #ArtNouveauSFO https://t.co/CIPhxPkp6p",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "516623806522466305"
+          ],
+          "editableUntil": "2014-09-29T16:51:28.538Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -226,7 +236,7 @@
       }
     ],
     "wof:id": 1729292613,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "RT @GWHAThistory: Very cool @DavidRumseyMaps old SF maps exhibit @SFO... Terminal 2 is more fun. ; ) http://t.co/Pi7CWO2mhx",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

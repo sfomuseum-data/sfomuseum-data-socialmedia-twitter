@@ -24,6 +24,16 @@
         "0",
         "114"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "991447286696755201"
+          ],
+          "editableUntil": "2018-05-01T23:10:28.005Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -191,7 +201,7 @@
       }
     ],
     "wof:id": 1729303039,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251139,
     "wof:name": "RT @flySFO: Celebrating Air Canada's inaugural flight from #sfo to Edmonton #yeg @AirCanad https://t.co/0zlaw8UDW6",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

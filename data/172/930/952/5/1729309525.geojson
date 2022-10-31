@@ -24,6 +24,16 @@
         "0",
         "44"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "198191397852024833"
+          ],
+          "editableUntil": "2012-05-03T23:54:46.123Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -70,7 +80,7 @@
       }
     ],
     "wof:id": 1729309525,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "@MasterJenti Thanks! We're glad you like it!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

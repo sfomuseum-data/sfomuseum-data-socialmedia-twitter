@@ -24,6 +24,16 @@
         "0",
         "27"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "236237350315909120"
+          ],
+          "editableUntil": "2012-08-16T23:35:48.050Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729310433,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "@Webhead Is this better? :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

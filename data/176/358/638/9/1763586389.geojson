@@ -21,6 +21,16 @@
         "0",
         "292"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1489358046933360643"
+          ],
+          "editableUntil": "2022-02-03T22:30:03.980Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -153,6 +163,15 @@
               "duration_millis": "32240",
               "variants": [
                 {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1489358003966865411/pu/vid/640x360/t_IBa8DBIq3eg0IG.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1489358003966865411/pu/pl/tv0CS5lMTrp8LzWU.m3u8?tag=12\u0026container=fmp4"
+                },
+                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1489358003966865411/pu/vid/480x270/Sd8bFsQM3x5AJpj8.mp4?tag=12"
@@ -161,15 +180,6 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1489358003966865411/pu/vid/960x540/7wT7gbTUH60WVztl.mp4?tag=12"
-                },
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1489358003966865411/pu/vid/640x360/t_IBa8DBIq3eg0IG.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1489358003966865411/pu/pl/tv0CS5lMTrp8LzWU.m3u8?tag=12\u0026container=fmp4"
                 }
               ]
             }
@@ -214,7 +224,7 @@
       }
     ],
     "wof:id": 1763586389,
-    "wof:lastmodified": 1650908072,
+    "wof:lastmodified": 1667251176,
     "wof:name": "London-based filmmaker Azeem Bhati explores the beauty and importance of our human connections through the story of a doctor who steps outside during her night shift to deliver news during the pandemic.\n#VideoArts #VideoArtsSFO #AzeemBhati #JuniorMessenger @AzanaFilms https://t.co/KJgYCNUxpV",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

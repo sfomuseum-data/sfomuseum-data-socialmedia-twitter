@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "720066507238162432"
+          ],
+          "editableUntil": "2016-04-13T02:20:08.171Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -116,14 +126,14 @@
           }
         ]
       },
-      "favorite_count": "1",
+      "favorite_count": "0",
       "favorited": false,
       "full_text": "See more handy purses in \"Essential Style\" on display, pre-security, in the International Terminal. #EssentialPurses https://t.co/l969JqfWdy",
       "id": "720066507238162432",
       "id_str": "720066507238162432",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "1",
+      "retweet_count": "0",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -155,7 +165,7 @@
       }
     ],
     "wof:id": 1729295693,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "See more handy purses in \"Essential Style\" on display, pre-security, in the International Terminal. #EssentialPurses https://t.co/l969JqfWdy",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

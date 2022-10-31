@@ -24,6 +24,16 @@
         "0",
         "96"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "385157433829908480"
+          ],
+          "editableUntil": "2013-10-01T22:11:02.761Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729290895,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "Walking into our design lab can yield some unexpected sights sometimes... http://t.co/ilH1xeYc9y",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

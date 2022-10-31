@@ -24,6 +24,16 @@
         "0",
         "111"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "351713836505636865"
+          ],
+          "editableUntil": "2013-07-01T15:18:07.807Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -101,7 +111,7 @@
       }
     ],
     "wof:id": 1729312221,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251176,
     "wof:name": "RT @KQEDnews: #SFO free shuttle has now moved to Caltrain side of #Millbrae station from #BART side of station.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "133"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "829802705447120896"
+          ],
+          "editableUntil": "2017-02-09T21:52:36.624Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -135,9 +145,9 @@
               "duration_millis": "78828",
               "variants": [
                 {
-                  "bitrate": "256000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/829673147066621952/pu/vid/320x180/G48TBAlukwqofsV8.mp4"
+                  "url": "https://video.twimg.com/ext_tw_video/829673147066621952/pu/vid/640x360/Ig5TTD_6bpE8aFcq.mp4"
                 },
                 {
                   "content_type": "application/x-mpegURL",
@@ -149,9 +159,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/829673147066621952/pu/vid/1280x720/geoxRkOzqMChrXCg.mp4"
                 },
                 {
-                  "bitrate": "832000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/829673147066621952/pu/vid/640x360/Ig5TTD_6bpE8aFcq.mp4"
+                  "url": "https://video.twimg.com/ext_tw_video/829673147066621952/pu/vid/320x180/G48TBAlukwqofsV8.mp4"
                 }
               ]
             }
@@ -197,7 +207,7 @@
       }
     ],
     "wof:id": 1729299331,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251157,
     "wof:name": "RT @airandspace: Today in 1969: 1st Boeing 747-100 \"Jumbo Jet\" made its 1st flight. Learn more about the 747. https://t.co/5SZJADz4fQ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

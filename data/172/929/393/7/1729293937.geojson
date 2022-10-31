@@ -24,6 +24,16 @@
         "0",
         "77"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "636202829439442944"
+          ],
+          "editableUntil": "2015-08-25T16:15:49.272Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -174,7 +184,7 @@
       }
     ],
     "wof:id": 1729293937,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "RT @stshank: There's a terrific Dalek exhibit at #SFO. http://t.co/p8qYnlN0Td",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

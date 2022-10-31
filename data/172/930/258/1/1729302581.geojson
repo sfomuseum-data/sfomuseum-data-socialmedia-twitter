@@ -24,6 +24,16 @@
         "0",
         "84"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "969713348735516672"
+          ],
+          "editableUntil": "2018-03-02T23:47:33.398Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -191,7 +201,7 @@
       }
     ],
     "wof:id": 1729302581,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251141,
     "wof:name": "RT @flySFO: Somewhere over the #rainbow...#sfo @SouthwestAir https://t.co/kCfDPMtByI",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

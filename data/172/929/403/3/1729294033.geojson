@@ -24,6 +24,16 @@
         "0",
         "99"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "643567471321083906"
+          ],
+          "editableUntil": "2015-09-15T00:00:16.725Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -155,7 +165,7 @@
       }
     ],
     "wof:id": 1729294033,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "Seven cases down and time is ticking for case number eight! #behindthescenes http://t.co/W5NJm0Ga30",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

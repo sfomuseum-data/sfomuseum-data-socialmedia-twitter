@@ -24,19 +24,29 @@
         "0",
         "65"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "147722912378531840"
+          ],
+          "editableUntil": "2011-12-16T17:31:01.527Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
         "urls": [],
         "user_mentions": [
           {
-            "id": "15332872",
-            "id_str": "15332872",
+            "id": "1574875120581091338",
+            "id_str": "1574875120581091338",
             "indices": [
               "0",
               "8"
             ],
-            "name": "John Maschak",
+            "name": "Mason Maschak",
             "screen_name": "maschak"
           }
         ]
@@ -46,7 +56,6 @@
       "full_text": "@maschak Nice pictures! Thanks for taking a look at our exhibits!",
       "id": "147722912378531840",
       "id_str": "147722912378531840",
-      "in_reply_to_screen_name": "maschak",
       "in_reply_to_user_id": "15332872",
       "in_reply_to_user_id_str": "15332872",
       "lang": "en",
@@ -82,7 +91,7 @@
       }
     ],
     "wof:id": 1729297851,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251179,
     "wof:name": "@maschak Nice pictures! Thanks for taking a look at our exhibits!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

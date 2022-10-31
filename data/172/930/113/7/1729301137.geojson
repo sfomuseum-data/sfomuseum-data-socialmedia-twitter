@@ -24,6 +24,16 @@
         "0",
         "65"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "908119522321645568"
+          ],
+          "editableUntil": "2017-09-14T00:35:40.823Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -76,7 +86,7 @@
       }
     ],
     "wof:id": 1729301137,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251147,
     "wof:name": "Thank you to everyone who sent us questions for #AskACurator day!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

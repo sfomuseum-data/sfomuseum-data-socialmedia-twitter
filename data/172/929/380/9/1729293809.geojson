@@ -24,6 +24,16 @@
         "0",
         "139"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "632345394710642688"
+          ],
+          "editableUntil": "2015-08-15T00:47:45.165Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -44,7 +54,7 @@
               "29",
               "36"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           },
           {
@@ -97,7 +107,7 @@
       }
     ],
     "wof:id": 1729293809,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251173,
     "wof:name": "If you happen to fly through @flySFO between Nov 2015 to May 2016, we will have a @Pixar exhibition in the International Terminal! #D23Expo",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

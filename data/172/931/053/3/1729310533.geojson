@@ -24,6 +24,16 @@
         "0",
         "99"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "243770712983228416"
+          ],
+          "editableUntil": "2012-09-06T18:30:41.673Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729310533,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251178,
     "wof:name": "Nice photos of our last exhibition \"Threading the Needle\" posted on this blog:\nhttp://t.co/yAKFGv8g",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

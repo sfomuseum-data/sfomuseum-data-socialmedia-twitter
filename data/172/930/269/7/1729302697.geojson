@@ -24,6 +24,16 @@
         "0",
         "203"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "973413728895975424"
+          ],
+          "editableUntil": "2018-03-13T04:51:32.778Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -126,11 +136,6 @@
               "duration_millis": "30233",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/973413679914872832/pu/vid/1280x720/bekmBPqAO0B_WOL8.mp4"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/973413679914872832/pu/vid/320x180/Pih9Ds-am0tdbU29.mp4"
@@ -143,6 +148,11 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/973413679914872832/pu/pl/ZsU6C-0m86XtvJP3.m3u8"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/973413679914872832/pu/vid/1280x720/bekmBPqAO0B_WOL8.mp4"
                 }
               ]
             }
@@ -188,7 +198,7 @@
       }
     ],
     "wof:id": 1729302697,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251141,
     "wof:name": "NOW PLAYING: \"The Horsemen\" by Glen Milner. See this short documentary about the Almonte horsemen driving more than 1,000 horses across the Spanish plains. https://t.co/jaTazSJLf3 https://t.co/SMXJSPqpoH",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

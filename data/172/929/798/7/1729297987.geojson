@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "780484795235176448"
+          ],
+          "editableUntil": "2016-09-26T19:40:50.547Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -87,7 +97,7 @@
       }
     ],
     "wof:id": 1729297987,
-    "wof:lastmodified": 1650908013,
+    "wof:lastmodified": 1667251163,
     "wof:name": "RT @BoeingAirplanes: 35 years strong! The #Boeing 767 first flew on this day in 1981. Since then, nearly 70 airlines have taken delivery of…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -21,6 +21,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1471953814831841285"
+          ],
+          "editableUntil": "2021-12-17T21:51:51.692Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -75,7 +85,7 @@
       }
     ],
     "wof:id": 1763586165,
-    "wof:lastmodified": 1650908062,
+    "wof:lastmodified": 1667251178,
     "wof:name": "RT @airandspace: Today in 1903, the the Wright brothers made a flight that changed everything. The Wright Flyer became the first powered, h…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

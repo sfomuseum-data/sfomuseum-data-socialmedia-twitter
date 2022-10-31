@@ -24,6 +24,16 @@
         "0",
         "139"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "126060249798033408"
+          ],
+          "editableUntil": "2011-10-17T22:51:20.295Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -38,13 +48,13 @@
         "urls": [],
         "user_mentions": [
           {
-            "id": "48453924",
-            "id_str": "48453924",
+            "id": "1515226318400491527",
+            "id_str": "1515226318400491527",
             "indices": [
               "3",
               "11"
             ],
-            "name": "Ted Beam",
+            "name": "Pilgrim",
             "screen_name": "tedbeam"
           },
           {
@@ -97,7 +107,7 @@
       }
     ],
     "wof:id": 1729310701,
-    "wof:lastmodified": 1650908096,
+    "wof:lastmodified": 1667251180,
     "wof:name": "RT @TedBeam: @SFOMuseum I can dig the sweet denim! Thx for that exhibit--great way to pass time during my 4-hour layover. :) #TheAntennaAge",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

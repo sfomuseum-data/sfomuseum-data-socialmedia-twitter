@@ -21,6 +21,16 @@
         "0",
         "130"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1356765214406889472"
+          ],
+          "editableUntil": "2021-02-03T01:13:29.250Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -64,7 +74,7 @@
       }
     ],
     "wof:id": 1763511647,
-    "wof:lastmodified": 1650908020,
+    "wof:lastmodified": 1667251113,
     "wof:name": "\"I know a man who lives in the Bay Area. He's 101 years old, still very sharp, and he was a flying boat captain for Pan American.\"",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

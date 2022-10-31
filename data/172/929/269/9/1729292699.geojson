@@ -24,6 +24,16 @@
         "0",
         "53"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "530848159908782080"
+          ],
+          "editableUntil": "2014-11-07T22:53:58.661Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -67,7 +77,7 @@
       "full_text": "#FridayFun #PanAm #nonsequitur http://t.co/FyiMdvLPKY",
       "id": "530848159908782080",
       "id_str": "530848159908782080",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "1",
       "retweeted": false,
@@ -101,7 +111,7 @@
       }
     ],
     "wof:id": 1729292699,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "#FridayFun #PanAm #nonsequitur http://t.co/FyiMdvLPKY",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

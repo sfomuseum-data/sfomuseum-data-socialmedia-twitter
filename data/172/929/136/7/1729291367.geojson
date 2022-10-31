@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "420705193110798337"
+          ],
+          "editableUntil": "2014-01-08T00:25:09.019Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729291367,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "RT @SFMOMA: Ever wonder how museums come to name their exhibitions? @ARTnewsmag explores→ http://t.co/YA4r073PJF h/t @Artsy",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

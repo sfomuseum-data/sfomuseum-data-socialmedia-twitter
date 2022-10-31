@@ -24,6 +24,16 @@
         "0",
         "262"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1248058404947419137"
+          ],
+          "editableUntil": "2020-04-09T01:51:26.200Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -36,7 +46,7 @@
               "0",
               "7"
             ],
-            "name": "cvvhrn🇺🇦🇺🇦🇺🇦🇺🇦",
+            "name": "cvvhrn / FreddyB Aviation Photography 🇺🇦🇺🇦",
             "screen_name": "cvvhrn"
           },
           {
@@ -46,7 +56,7 @@
               "8",
               "15"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           },
           {
@@ -58,16 +68,6 @@
             ],
             "name": "CTP Watcher ✈️",
             "screen_name": "WatcherCtp"
-          },
-          {
-            "id": "1136634985845104640",
-            "id_str": "1136634985845104640",
-            "indices": [
-              "28",
-              "40"
-            ],
-            "name": "knuq-spotter",
-            "screen_name": "knuqspotter"
           },
           {
             "id": "209492408",
@@ -144,7 +144,7 @@
       }
     ],
     "wof:id": 1729308207,
-    "wof:lastmodified": 1650908019,
+    "wof:lastmodified": 1667251117,
     "wof:name": "@cvvhrn @flySFO @WatcherCtp @knuqspotter @jetcitystar @PlaneSpotIsCool @EightOneECHO These are absolutely fantastic photos! If you or your family are interested in donating any of your photos, please email us at curator@flysfo.com. Thank you so much for sharing!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

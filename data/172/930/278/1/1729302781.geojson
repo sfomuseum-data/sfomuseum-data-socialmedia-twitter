@@ -24,6 +24,16 @@
         "0",
         "32"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "120954683178225664"
+          ],
+          "editableUntil": "2011-10-03T20:43:38.356Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729302781,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251181,
     "wof:name": "@wetchicken Thanks for visiting!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

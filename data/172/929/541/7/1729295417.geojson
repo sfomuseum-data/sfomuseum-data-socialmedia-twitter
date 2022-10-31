@@ -24,6 +24,16 @@
         "0",
         "132"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "142289359025086466"
+          ],
+          "editableUntil": "2011-12-01T17:40:01.457Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -36,7 +46,7 @@
               "3",
               "15"
             ],
-            "name": "Richard Healy",
+            "name": "Richard H",
             "screen_name": "healy9healy"
           },
           {
@@ -89,7 +99,7 @@
       }
     ],
     "wof:id": 1729295417,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251180,
     "wof:name": "MT @healy9healy: @Marc_Dylan SFO has a great airport with cool displays to kill time.  Excellent exhibit now on the early days of tv",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "137"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "697595952245424129"
+          ],
+          "editableUntil": "2016-02-11T02:10:10.378Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -123,7 +133,7 @@
       "id_str": "697595952245424129",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "14",
+      "retweet_count": "13",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -155,7 +165,7 @@
       }
     ],
     "wof:id": 1729295211,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "Did you know that from 1982 to 1988 Pan American Airways offered its own complimentary helicopter service? #PanAm https://t.co/Fx1ue7InW2",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "140"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "405107479643955200"
+          ],
+          "editableUntil": "2013-11-25T23:25:24.337Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -79,7 +89,7 @@
       }
     ],
     "wof:id": 1729291171,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "RT @SFBayBridge: If you're flying through SFO this holiday season, you should check out the exhibit in terminal 3 about my new span! http:/…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

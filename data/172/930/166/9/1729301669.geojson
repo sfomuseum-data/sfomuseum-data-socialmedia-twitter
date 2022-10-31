@@ -24,6 +24,16 @@
         "0",
         "114"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "927990226584182784"
+          ],
+          "editableUntil": "2017-11-07T20:34:45.899Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -113,7 +123,7 @@
               "83",
               "90"
             ],
-            "name": "San Francisco International Airport (SFO) ✈️😷",
+            "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
           }
         ]
@@ -170,23 +180,23 @@
               "duration_millis": "140003",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/927978004390690816/pu/pl/NKakGTXEh91A9ZhX.m3u8"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/927978004390690816/pu/vid/320x180/RTepTlyVTl0TBMQd.mp4"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/927978004390690816/pu/vid/640x360/8fJaEaXbi0cDdmn2.mp4"
                 },
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/927978004390690816/pu/pl/NKakGTXEh91A9ZhX.m3u8"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/927978004390690816/pu/vid/1280x720/OIsgnYT9TtW-o2NO.mp4"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/927978004390690816/pu/vid/320x180/RTepTlyVTl0TBMQd.mp4"
                 }
               ]
             }
@@ -232,7 +242,7 @@
       }
     ],
     "wof:id": 1729301669,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251145,
     "wof:name": "RT @timjue: The very last @United Boeing 747 pushback ever. #UA747farewell #avgeek @flySFO https://t.co/kQ8iUSE3sY",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

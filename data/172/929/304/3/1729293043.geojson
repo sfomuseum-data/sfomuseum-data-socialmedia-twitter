@@ -24,6 +24,16 @@
         "0",
         "100"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "567749756911648768"
+          ],
+          "editableUntil": "2015-02-17T18:47:44.985Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -100,7 +110,7 @@
       }
     ],
     "wof:id": 1729293043,
-    "wof:lastmodified": 1650908011,
+    "wof:lastmodified": 1667251174,
     "wof:name": "RT @redclayco: The @sfomuseum is really amazing. Read our entire review here: http://t.co/knZyXrxeml",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

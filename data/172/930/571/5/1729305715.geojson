@@ -24,6 +24,16 @@
         "0",
         "258"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1109164595992653824"
+          ],
+          "editableUntil": "2019-03-22T19:17:01.623Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -153,11 +163,6 @@
                   "url": "https://video.twimg.com/ext_tw_video/1109164387879653376/pu/vid/1280x720/1NGQgxhwNkBUGfwP.mp4?tag=8"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1109164387879653376/pu/vid/640x360/eZ095On5Sp2fmSN5.mp4?tag=8"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1109164387879653376/pu/vid/320x180/QoLpPCib2VlS_NaM.mp4?tag=8"
@@ -165,6 +170,11 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1109164387879653376/pu/pl/-TrtcIhdQBUbsPPc.m3u8?tag=8"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1109164387879653376/pu/vid/640x360/eZ095On5Sp2fmSN5.mp4?tag=8"
                 }
               ]
             }
@@ -210,7 +220,7 @@
       }
     ],
     "wof:id": 1729305715,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251127,
     "wof:name": "NOW PLAYING: \"Day Zero\" by Jamie Hancock. \"Day Zero\" documents how Cape Town, South Africa, successfully managed a severe water crisis critical to the future of their city. https://t.co/8q2satJWip #VideoArtsSFOM #WorldWaterDay  #water https://t.co/xoqRv2tD8s",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

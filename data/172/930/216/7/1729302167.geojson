@@ -24,6 +24,16 @@
         "0",
         "60"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "159325916064006144"
+          ],
+          "editableUntil": "2012-01-17T17:57:13.179Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -100,7 +110,7 @@
       }
     ],
     "wof:id": 1729302167,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251179,
     "wof:name": "RT @crazy1eye: @SFOmuseum is dynamite!  http://t.co/6hjW1RQd",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

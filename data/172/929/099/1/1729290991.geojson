@@ -24,6 +24,16 @@
         "0",
         "100"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "396315491209601024"
+          ],
+          "editableUntil": "2013-11-01T17:09:10.947Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729290991,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "RT @sketchcrawl: A piece of my childhood, in a SFO toy exhibit of all places, http://t.co/Lpc4qWRrOI",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

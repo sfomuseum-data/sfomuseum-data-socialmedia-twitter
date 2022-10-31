@@ -24,6 +24,16 @@
         "0",
         "47"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "783870593137463297"
+          ],
+          "editableUntil": "2016-10-06T03:54:47.672Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -140,7 +150,7 @@
       "full_text": "RT @SFGiants: #BeliEVEN https://t.co/H1J2B36shX",
       "id": "783870593137463297",
       "id_str": "783870593137463297",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
@@ -174,7 +184,7 @@
       }
     ],
     "wof:id": 1729298085,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251161,
     "wof:name": "RT @SFGiants: #BeliEVEN https://t.co/H1J2B36shX",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "36"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "448174500740608000"
+          ],
+          "editableUntil": "2014-03-24T19:38:22.313Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729291781,
-    "wof:lastmodified": 1650908010,
+    "wof:lastmodified": 1667251175,
     "wof:name": "@burritojustice Thanks for visiting!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

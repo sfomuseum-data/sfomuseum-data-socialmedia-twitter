@@ -24,6 +24,16 @@
         "0",
         "286"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1195036311532400640"
+          ],
+          "editableUntil": "2019-11-14T18:20:34.027Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -134,13 +144,9 @@
               "duration_millis": "35327",
               "variants": [
                 {
-                  "bitrate": "832000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1195036247422488576/pu/vid/640x360/TKeeGQ6-yR_MjwrD.mp4?tag=10"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1195036247422488576/pu/pl/mBwXo4KDx7T5ZoXV.m3u8?tag=10"
+                  "url": "https://video.twimg.com/ext_tw_video/1195036247422488576/pu/vid/480x270/xDggjv07KoVxtIRD.mp4?tag=10"
                 },
                 {
                   "bitrate": "2176000",
@@ -148,9 +154,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1195036247422488576/pu/vid/1280x720/F8p7Yerzbo4ZSCI3.mp4?tag=10"
                 },
                 {
-                  "bitrate": "256000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1195036247422488576/pu/vid/480x270/xDggjv07KoVxtIRD.mp4?tag=10"
+                  "url": "https://video.twimg.com/ext_tw_video/1195036247422488576/pu/vid/640x360/TKeeGQ6-yR_MjwrD.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1195036247422488576/pu/pl/mBwXo4KDx7T5ZoXV.m3u8?tag=10"
                 }
               ]
             }
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729307315,
-    "wof:lastmodified": 1650908018,
+    "wof:lastmodified": 1667251121,
     "wof:name": "NOW PLAYING: “Mino Bimaadiziwin” by Shane McSauby. A trans youth who has lost connection to his Native culture is profoundly affected by a chance encounter with a mysterious woman in this story of identity and reconnection. https://t.co/NOm06gPPVq #VideoArtsSFOM https://t.co/Sxd3u8WbUT",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

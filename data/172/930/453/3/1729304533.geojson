@@ -24,6 +24,16 @@
         "0",
         "288"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1054442145933709312"
+          ],
+          "editableUntil": "2018-10-22T19:09:32.835Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -134,14 +144,13 @@
               "duration_millis": "38480",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1054442025439744000/pu/vid/1280x720/QFbg4RpqCXyvMl8D.mp4?tag=5"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1054442025439744000/pu/vid/320x180/YOANkN6mcOjIu-9F.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1054442025439744000/pu/pl/8UryESAfbNNuyeA9.m3u8?tag=5"
                 },
                 {
                   "bitrate": "832000",
@@ -149,8 +158,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1054442025439744000/pu/vid/640x360/8TRrVH4AAmqK-O70.mp4?tag=5"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1054442025439744000/pu/pl/8UryESAfbNNuyeA9.m3u8?tag=5"
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1054442025439744000/pu/vid/1280x720/QFbg4RpqCXyvMl8D.mp4?tag=5"
                 }
               ]
             }
@@ -196,7 +206,7 @@
       }
     ],
     "wof:id": 1729304533,
-    "wof:lastmodified": 1650908017,
+    "wof:lastmodified": 1667251132,
     "wof:name": "NOW PLAYING: \"Tau Seru\" by Rodd Rathjen. The only distractions for a young shepherd working in the vast and lonely landscape of the Indian Himalayas are the vehicles that cut through the desert on their way to somewhere else. https://t.co/V0qH9OiqiH #VideoArtsSFOM https://t.co/fmznhz9y3W",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

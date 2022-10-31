@@ -24,6 +24,16 @@
         "0",
         "164"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "804126649511919616"
+          ],
+          "editableUntil": "2016-12-01T01:25:07.851Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -135,23 +145,23 @@
               "duration_millis": "58508",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/804126352190246912/pu/pl/8fpV5qh1YrMFJXT1.m3u8"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/804126352190246912/pu/vid/640x360/Vci9ZgfX-5FhvSrv.mp4"
                 },
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/804126352190246912/pu/vid/320x180/Egj7qHZPDjKreDbf.mp4"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/804126352190246912/pu/pl/8fpV5qh1YrMFJXT1.m3u8"
                 },
                 {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/804126352190246912/pu/vid/1280x720/036l2kw2Ja4V_yKl.mp4"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/804126352190246912/pu/vid/320x180/Egj7qHZPDjKreDbf.mp4"
                 }
               ]
             }
@@ -197,7 +207,7 @@
       }
     ],
     "wof:id": 1729298707,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251159,
     "wof:name": "Ever wonder how @SFOMuseum installs our exhibits? Check out this video of our team installing The Mysterious Talking Board: #OuijaAndBeyond. https://t.co/TkmLHMhETq",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "188"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "961803334838448129"
+          ],
+          "editableUntil": "2018-02-09T03:55:59.124Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "media": [
@@ -126,11 +136,6 @@
               "duration_millis": "25733",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/961803257021476869/pu/vid/1280x720/szLJCS53QSWe9lTk.mp4"
-                },
-                {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/961803257021476869/pu/pl/gMOKyyVKOj6rT2Iz.m3u8"
                 },
@@ -143,6 +148,11 @@
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/961803257021476869/pu/vid/320x180/_Cw4eZX5F1frxuo2.mp4"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/961803257021476869/pu/vid/1280x720/szLJCS53QSWe9lTk.mp4"
                 }
               ]
             }
@@ -188,7 +198,7 @@
       }
     ],
     "wof:id": 1729302427,
-    "wof:lastmodified": 1650908016,
+    "wof:lastmodified": 1667251143,
     "wof:name": "NOW PLAYING: \"Offline Dating\" by Samuel Abrahams. The rapidly changing methods of social interaction are explored in this short documentary. https://t.co/mJTSSuy1vN https://t.co/6O8Au0qgOL",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

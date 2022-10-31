@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "711613577254322177"
+          ],
+          "editableUntil": "2016-03-20T18:31:12.615Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -191,7 +201,7 @@
       }
     ],
     "wof:id": 1729295563,
-    "wof:lastmodified": 1650908012,
+    "wof:lastmodified": 1667251169,
     "wof:name": "These posters from JAL (Japan Airlines) show the complex instrument panels in a Boeing 747. #AVGeek https://t.co/fzfYROiFTh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

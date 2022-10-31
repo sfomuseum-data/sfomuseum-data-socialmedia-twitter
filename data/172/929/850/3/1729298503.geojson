@@ -24,6 +24,16 @@
         "0",
         "105"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "798581509032579072"
+          ],
+          "editableUntil": "2016-11-15T18:10:43.337Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -90,7 +100,7 @@
       }
     ],
     "wof:id": 1729298503,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251159,
     "wof:name": "RT @guardian: Richard Branson reveals prototype for supersonic passenger aircraft https://t.co/QjDNOukTFM",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "123"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "835320233363582977"
+          ],
+          "editableUntil": "2017-02-25T03:17:17.790Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -174,7 +184,7 @@
       }
     ],
     "wof:id": 1729299401,
-    "wof:lastmodified": 1650908014,
+    "wof:lastmodified": 1667251157,
     "wof:name": "RT @flySFO: #SFO joins San Francisco City Hall in a show of support for the transgender \ncommunity. https://t.co/2G2tiLLZ1d",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

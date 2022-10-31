@@ -24,6 +24,16 @@
         "0",
         "25"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "915679326519152640"
+          ],
+          "editableUntil": "2017-10-04T21:15:38.598Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -36,7 +46,7 @@
               "0",
               "15"
             ],
-            "name": "David Winckoski",
+            "name": "PacificBlue",
             "screen_name": "DavidWinckoski"
           }
         ]
@@ -84,7 +94,7 @@
       }
     ],
     "wof:id": 1729301343,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251147,
     "wof:name": "@DavidWinckoski Correct!!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

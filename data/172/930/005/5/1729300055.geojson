@@ -24,6 +24,16 @@
         "0",
         "162"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "857794014703124480"
+          ],
+          "editableUntil": "2017-04-28T03:40:04.804Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -151,7 +161,7 @@
       "id_str": "857794014703124480",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "10",
+      "retweet_count": "9",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
@@ -183,7 +193,7 @@
       }
     ],
     "wof:id": 1729300055,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251151,
     "wof:name": "The first flight of the #Airbus #A380, the world's largest commercial passenger jet, took off #onthisday in 2005. #avgeek #aviationhistory https://t.co/tTn2eEr6AB",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -24,6 +24,16 @@
         "0",
         "77"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "925396881273888768"
+          ],
+          "editableUntil": "2017-10-31T16:49:44.195Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -154,7 +164,7 @@
       "full_text": "RT @flySFO: #spookysfo #HappyHalloween #Halloween2017 https://t.co/LBNL3NQwtw",
       "id": "925396881273888768",
       "id_str": "925396881273888768",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
@@ -188,7 +198,7 @@
       }
     ],
     "wof:id": 1729301631,
-    "wof:lastmodified": 1650908015,
+    "wof:lastmodified": 1667251145,
     "wof:name": "RT @flySFO: #spookysfo #HappyHalloween #Halloween2017 https://t.co/LBNL3NQwtw",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
