@@ -1,0 +1,193 @@
+{
+  "id": 1880137841,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-12-09",
+    "date:cessation_upper": "2022-12-09",
+    "date:inception_lower": "2022-12-09",
+    "date:inception_upper": "2022-12-09",
+    "edtf:cessation": "2022-12-09T00:23:50Z",
+    "edtf:inception": "2022-12-09T00:23:50Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1670545430,
+      "created_at": "Fri Dec 09 00:23:50 +0000 2022",
+      "display_text_range": [
+        "0",
+        "295"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1601009691462541312"
+          ],
+          "editableUntil": "2022-12-09T00:53:50.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "242",
+              "258"
+            ],
+            "text": "DefunctThursday"
+          },
+          {
+            "indices": [
+              "259",
+              "266"
+            ],
+            "text": "avgeek"
+          },
+          {
+            "indices": [
+              "267",
+              "271"
+            ],
+            "text": "TWA"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SKKeQFnoiC",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1601009691462541312/photo/1",
+            "id": "1601007664837758976",
+            "id_str": "1601007664837758976",
+            "indices": [
+              "272",
+              "295"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fjfr_RlVEAAR1fF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fjfr_RlVEAAR1fF.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1412"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "847"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "480"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/SKKeQFnoiC"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SKKeQFnoiC",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1601009691462541312/photo/1",
+            "id": "1601007664837758976",
+            "id_str": "1601007664837758976",
+            "indices": [
+              "272",
+              "295"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fjfr_RlVEAAR1fF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fjfr_RlVEAAR1fF.jpg",
+            "sizes": {
+              "large": {
+                "h": "2000",
+                "resize": "fit",
+                "w": "1412"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "847"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "480"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/SKKeQFnoiC"
+          }
+        ]
+      },
+      "favorite_count": "8",
+      "favorited": false,
+      "full_text": "Until WWII, Transcontinental and Western Air Inc (TWA) primarily operated domestic passenger and mail services in the U.S. In early 1946, TWA inaugurated transatlantic services from NY to Paris and Frankfurt with Lockheed 049 Constellations. #DefunctThursday #avgeek #TWA https://t.co/SKKeQFnoiC",
+      "id": "1601009691462541312",
+      "id_str": "1601009691462541312",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219563,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137841,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137841,
+    "wof:lastmodified": 1692219563,
+    "wof:name": "Until WWII, Transcontinental and Western Air Inc (TWA) primarily operated domestic passenger and mail services in the U.S. In early 1946, TWA inaugurated transatlantic services from NY to Paris and Frankfurt with Lockheed 049 Constellations. #DefunctThursday #avgeek #TWA https://t.co/SKKeQFnoiC",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

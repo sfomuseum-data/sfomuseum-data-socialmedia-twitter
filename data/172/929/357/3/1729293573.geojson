@@ -29,7 +29,7 @@
           "editTweetIds": [
             "623273688134086656"
           ],
-          "editableUntil": "2015-07-21T00:00:01.773Z",
+          "editableUntil": "2015-07-21T00:30:01.773Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
@@ -84,18 +84,7 @@
         ],
         "symbols": [],
         "urls": [],
-        "user_mentions": [
-          {
-            "id": "249816517",
-            "id_str": "249816517",
-            "indices": [
-              "49",
-              "62"
-            ],
-            "name": "mingeimuseum",
-            "screen_name": "MingeiMuseum"
-          }
-        ]
+        "user_mentions": []
       },
       "extended_entities": {
         "media": [
@@ -137,14 +126,14 @@
           }
         ]
       },
-      "favorite_count": "11",
+      "favorite_count": "10",
       "favorited": false,
       "full_text": "Next week our Japanese Folk Art exhibit from the @MingeiMuseum in San Diego opens! Here's a sneak peak #MewseumMonday http://t.co/SvFnKAwU6e",
       "id": "623273688134086656",
       "id_str": "623273688134086656",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "13",
+      "retweet_count": "12",
       "retweeted": false,
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
@@ -176,7 +165,7 @@
       }
     ],
     "wof:id": 1729293573,
-    "wof:lastmodified": 1667496392,
+    "wof:lastmodified": 1692219575,
     "wof:name": "Next week our Japanese Folk Art exhibit from the @MingeiMuseum in San Diego opens! Here's a sneak peak #MewseumMonday http://t.co/SvFnKAwU6e",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -1,0 +1,198 @@
+{
+  "id": 1880137511,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-01-13",
+    "date:cessation_upper": "2023-01-13",
+    "date:inception_lower": "2023-01-13",
+    "date:inception_upper": "2023-01-13",
+    "edtf:cessation": "2023-01-13T19:28:42Z",
+    "edtf:inception": "2023-01-13T19:28:42Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1673638122,
+      "created_at": "Fri Jan 13 19:28:42 +0000 2023",
+      "display_text_range": [
+        "0",
+        "264"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1613981380219916288"
+          ],
+          "editableUntil": "2023-01-13T19:58:42.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "214",
+              "222"
+            ],
+            "text": "Braniff"
+          },
+          {
+            "indices": [
+              "223",
+              "232"
+            ],
+            "text": "Concorde"
+          },
+          {
+            "indices": [
+              "233",
+              "240"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mlFyW9wymc",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1613981380219916288/photo/1",
+            "id": "1613981352696893441",
+            "id_str": "1613981352696893441",
+            "indices": [
+              "241",
+              "264"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FmYDfTGaUAETDmc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FmYDfTGaUAETDmc.jpg",
+            "sizes": {
+              "large": {
+                "h": "1629",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "954",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "541",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/mlFyW9wymc"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mlFyW9wymc",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1613981380219916288/photo/1",
+            "id": "1613981352696893441",
+            "id_str": "1613981352696893441",
+            "indices": [
+              "241",
+              "264"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FmYDfTGaUAETDmc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FmYDfTGaUAETDmc.jpg",
+            "sizes": {
+              "large": {
+                "h": "1629",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "954",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "541",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/mlFyW9wymc"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "While the Concordes were flown at Mach 2 (over 1,300 mph) out over the Atlantic, Braniff could not exceed Mach 0.95 on the overland DFW–IAD leg. Service only lasted a year and a half and was canceled in June 1980. #Braniff #Concorde #avgeek https://t.co/mlFyW9wymc",
+      "id": "1613981380219916288",
+      "id_str": "1613981380219916288",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1613981342362128384",
+      "in_reply_to_status_id_str": "1613981342362128384",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219554,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137511,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137511,
+    "wof:lastmodified": 1692219554,
+    "wof:name": "While the Concordes were flown at Mach 2 (over 1,300 mph) out over the Atlantic, Braniff could not exceed Mach 0.95 on the overland DFW–IAD leg. Service only lasted a year and a half and was canceled in June 1980. #Braniff #Concorde #avgeek https://t.co/mlFyW9wymc",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

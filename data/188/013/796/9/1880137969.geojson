@@ -1,0 +1,191 @@
+{
+  "id": 1880137969,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-11-18",
+    "date:cessation_upper": "2022-11-18",
+    "date:inception_lower": "2022-11-18",
+    "date:inception_upper": "2022-11-18",
+    "edtf:cessation": "2022-11-18T01:39:51Z",
+    "edtf:inception": "2022-11-18T01:39:51Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1668735591,
+      "created_at": "Fri Nov 18 01:39:51 +0000 2022",
+      "display_text_range": [
+        "0",
+        "227"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1593418676400623617"
+          ],
+          "editableUntil": "2022-11-18T02:09:51.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "179",
+              "195"
+            ],
+            "text": "DefunctThursday"
+          },
+          {
+            "indices": [
+              "196",
+              "203"
+            ],
+            "text": "AvGeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/CD0d6eusTq",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1593418676400623617/photo/1",
+            "id": "1593418672541863936",
+            "id_str": "1593418672541863936",
+            "indices": [
+              "204",
+              "227"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fhz11yNVEAAE71a.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fhz11yNVEAAE71a.jpg",
+            "sizes": {
+              "large": {
+                "h": "1027",
+                "resize": "fit",
+                "w": "1630"
+              },
+              "medium": {
+                "h": "756",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "428",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/CD0d6eusTq"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/CD0d6eusTq",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1593418676400623617/photo/1",
+            "id": "1593418672541863936",
+            "id_str": "1593418672541863936",
+            "indices": [
+              "204",
+              "227"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fhz11yNVEAAE71a.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fhz11yNVEAAE71a.jpg",
+            "sizes": {
+              "large": {
+                "h": "1027",
+                "resize": "fit",
+                "w": "1630"
+              },
+              "medium": {
+                "h": "756",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "428",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/CD0d6eusTq"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "During the early 1960s, Swissair introduced Douglas DC-8 and Convair 990 jetliners, which provided nonstop transatlantic service to Europe in as little as six-and-one-half hours. #DefunctThursday #AvGeek https://t.co/CD0d6eusTq",
+      "id": "1593418676400623617",
+      "id_str": "1593418676400623617",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1593418670255968257",
+      "in_reply_to_status_id_str": "1593418670255968257",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219567,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137969,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137969,
+    "wof:lastmodified": 1692219567,
+    "wof:name": "During the early 1960s, Swissair introduced Douglas DC-8 and Convair 990 jetliners, which provided nonstop transatlantic service to Europe in as little as six-and-one-half hours. #DefunctThursday #AvGeek https://t.co/CD0d6eusTq",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

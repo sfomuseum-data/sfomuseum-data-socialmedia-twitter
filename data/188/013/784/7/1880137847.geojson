@@ -1,0 +1,186 @@
+{
+  "id": 1880137847,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-12-07",
+    "date:cessation_upper": "2022-12-07",
+    "date:inception_lower": "2022-12-07",
+    "date:inception_upper": "2022-12-07",
+    "edtf:cessation": "2022-12-07T02:42:23Z",
+    "edtf:inception": "2022-12-07T02:42:23Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1670380943,
+      "created_at": "Wed Dec 07 02:42:23 +0000 2022",
+      "display_text_range": [
+        "0",
+        "235"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1600319784142647296"
+          ],
+          "editableUntil": "2022-12-07T03:12:23.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/nae9otev2Y",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1600319784142647296/photo/1",
+            "id": "1600318525519691776",
+            "id_str": "1600318525519691776",
+            "indices": [
+              "212",
+              "235"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FjV5OFkUAAAbGUk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FjV5OFkUAAAbGUk.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1638"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "544"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/nae9otev2Y"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/3oyMqFX",
+            "expanded_url": "https://bit.ly/3oyMqFX",
+            "indices": [
+              "188",
+              "211"
+            ],
+            "url": "https://t.co/F3zqGMQD1t"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/nae9otev2Y",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1600319784142647296/photo/1",
+            "id": "1600318525519691776",
+            "id_str": "1600318525519691776",
+            "indices": [
+              "212",
+              "235"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FjV5OFkUAAAbGUk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FjV5OFkUAAAbGUk.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1638"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "544"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/nae9otev2Y"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "See “Flying the Southern Cross Route: Seventy-Five years of Australian Commercial Air Service to North America” on display, pre-security, in the Aviation Museum and Library and online at: https://t.co/F3zqGMQD1t https://t.co/nae9otev2Y",
+      "id": "1600319784142647296",
+      "id_str": "1600319784142647296",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1600319775434948610",
+      "in_reply_to_status_id_str": "1600319775434948610",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219563,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137847,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137847,
+    "wof:lastmodified": 1692219563,
+    "wof:name": "See “Flying the Southern Cross Route: Seventy-Five years of Australian Commercial Air Service to North America” on display, pre-security, in the Aviation Museum and Library and online at: https://t.co/F3zqGMQD1t https://t.co/nae9otev2Y",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

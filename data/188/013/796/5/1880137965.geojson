@@ -1,0 +1,282 @@
+{
+  "id": 1880137965,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-11-18",
+    "date:cessation_upper": "2022-11-18",
+    "date:inception_lower": "2022-11-18",
+    "date:inception_upper": "2022-11-18",
+    "edtf:cessation": "2022-11-18T20:07:14Z",
+    "edtf:inception": "2022-11-18T20:07:14Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1668802034,
+      "created_at": "Fri Nov 18 20:07:14 +0000 2022",
+      "display_text_range": [
+        "0",
+        "302"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1593697360067993600"
+          ],
+          "editableUntil": "2022-11-18T20:37:14.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "239",
+              "246"
+            ],
+            "text": "AvGeek"
+          },
+          {
+            "indices": [
+              "247",
+              "258"
+            ],
+            "text": "SFOHistory"
+          },
+          {
+            "indices": [
+              "259",
+              "263"
+            ],
+            "text": "SFO"
+          },
+          {
+            "indices": [
+              "264",
+              "278"
+            ],
+            "text": "MillsFieldSFO"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/55f0oNfheY",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1593697360067993600/photo/1",
+            "id": "1593697257680822272",
+            "id_str": "1593697257680822272",
+            "indices": [
+              "279",
+              "302"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fh3zNkuUYAAxV21.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fh3zNkuUYAAxV21.jpg",
+            "sizes": {
+              "large": {
+                "h": "1606",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "941",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "533",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/55f0oNfheY"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/3Epbb0a",
+            "expanded_url": "https://bit.ly/3Epbb0a",
+            "indices": [
+              "214",
+              "237"
+            ],
+            "url": "https://t.co/b70eOVeJLL"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/55f0oNfheY",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1593697360067993600/photo/1",
+            "id": "1593697257680822272",
+            "id_str": "1593697257680822272",
+            "indices": [
+              "279",
+              "302"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fh3zNkuUYAAxV21.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fh3zNkuUYAAxV21.jpg",
+            "sizes": {
+              "large": {
+                "h": "1606",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "941",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "533",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/55f0oNfheY"
+          },
+          {
+            "display_url": "pic.twitter.com/55f0oNfheY",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1593697360067993600/photo/1",
+            "id": "1593697231667724288",
+            "id_str": "1593697231667724288",
+            "indices": [
+              "279",
+              "302"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fh3zMD0UAAAttC2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fh3zMD0UAAAttC2.jpg",
+            "sizes": {
+              "large": {
+                "h": "645",
+                "resize": "fit",
+                "w": "638"
+              },
+              "medium": {
+                "h": "645",
+                "resize": "fit",
+                "w": "638"
+              },
+              "small": {
+                "h": "645",
+                "resize": "fit",
+                "w": "638"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/55f0oNfheY"
+          },
+          {
+            "display_url": "pic.twitter.com/55f0oNfheY",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1593697360067993600/photo/1",
+            "id": "1593696775512080384",
+            "id_str": "1593696775512080384",
+            "indices": [
+              "279",
+              "302"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fh3yxggVQAAgRAw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fh3yxggVQAAgRAw.jpg",
+            "sizes": {
+              "large": {
+                "h": "1590",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "932",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "528",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/55f0oNfheY"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Under construction for three years, the 1954 San Francisco International Airport Terminal building was extensively documented. Browse over one hundred and fifty photos from its construction in our online database: https://t.co/b70eOVeJLL\n\n#AvGeek #SFOHistory #SFO #MillsFieldSFO https://t.co/55f0oNfheY",
+      "id": "1593697360067993600",
+      "id_str": "1593697360067993600",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219566,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137965,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137965,
+    "wof:lastmodified": 1692219566,
+    "wof:name": "Under construction for three years, the 1954 San Francisco International Airport Terminal building was extensively documented. Browse over one hundred and fifty photos from its construction in our online database: https://t.co/b70eOVeJLL\n\n#AvGeek #SFOHistory #SFO #MillsFieldSFO https://t.co/55f0oNfheY",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

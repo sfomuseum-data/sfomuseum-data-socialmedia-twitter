@@ -1,0 +1,97 @@
+{
+  "id": 1880138177,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-05-12",
+    "date:cessation_upper": "2023-05-12",
+    "date:inception_lower": "2023-05-12",
+    "date:inception_upper": "2023-05-12",
+    "edtf:cessation": "2023-05-12T18:20:52Z",
+    "edtf:inception": "2023-05-12T18:20:52Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1683915652,
+      "created_at": "Fri May 12 18:20:52 +0000 2023",
+      "display_text_range": [
+        "0",
+        "126"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1657088468571557888"
+          ],
+          "editableUntil": "2023-05-12T18:50:52.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "📸:\nphotograph: San Francisco Airport, aerial view; 05/12/1940 \nTransfer from San Francisco International Airport \n2008.129.033",
+      "id": "1657088468571557888",
+      "id_str": "1657088468571557888",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1657088465228660738",
+      "in_reply_to_status_id_str": "1657088465228660738",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219572,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880138177,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880138177,
+    "wof:lastmodified": 1692219572,
+    "wof:name": "📸:\nphotograph: San Francisco Airport, aerial view; 05/12/1940 \nTransfer from San Francisco International Airport \n2008.129.033",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

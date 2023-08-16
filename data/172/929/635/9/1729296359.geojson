@@ -29,7 +29,7 @@
           "editTweetIds": [
             "739949890562711552"
           ],
-          "editableUntil": "2016-06-06T23:09:36.171Z",
+          "editableUntil": "2016-06-06T23:39:36.171Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
@@ -49,6 +49,16 @@
           }
         ],
         "user_mentions": [
+          {
+            "id": "1598718965592760325",
+            "id_str": "1598718965592760325",
+            "indices": [
+              "0",
+              "8"
+            ],
+            "name": "Art.Rrey",
+            "screen_name": "ArtRrey"
+          },
           {
             "id": "16408759",
             "id_str": "16408759",
@@ -104,7 +114,7 @@
       }
     ],
     "wof:id": 1729296359,
-    "wof:lastmodified": 1667496389,
+    "wof:lastmodified": 1692219573,
     "wof:name": "@artrrey Did you know these models were originally built to be controlled by remote control!? Learn more: https://t.co/qGaCkZfV1y @flySFO",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

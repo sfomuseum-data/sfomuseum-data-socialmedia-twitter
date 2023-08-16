@@ -1,0 +1,179 @@
+{
+  "id": 1880137551,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-01-10",
+    "date:cessation_upper": "2023-01-10",
+    "date:inception_lower": "2023-01-10",
+    "date:inception_upper": "2023-01-10",
+    "edtf:cessation": "2023-01-10T00:52:42Z",
+    "edtf:inception": "2023-01-10T00:52:42Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1673311962,
+      "created_at": "Tue Jan 10 00:52:42 +0000 2023",
+      "display_text_range": [
+        "0",
+        "302"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1612613366266351616"
+          ],
+          "editableUntil": "2023-01-10T01:22:42.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "268",
+              "278"
+            ],
+            "text": "52Objects"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/svHunoRCXC",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1612613366266351616/photo/1",
+            "id": "1612612972089835521",
+            "id_str": "1612612972089835521",
+            "indices": [
+              "279",
+              "302"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FmEm9EGaAAECotK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FmEm9EGaAAECotK.jpg",
+            "sizes": {
+              "large": {
+                "h": "1138",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "683",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "387",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/svHunoRCXC"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/svHunoRCXC",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1612613366266351616/photo/1",
+            "id": "1612612972089835521",
+            "id_str": "1612612972089835521",
+            "indices": [
+              "279",
+              "302"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FmEm9EGaAAECotK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FmEm9EGaAAECotK.jpg",
+            "sizes": {
+              "large": {
+                "h": "1138",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "683",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "387",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/svHunoRCXC"
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "This pencil-drawn site plan was produced by SF’s Department of Public Works, for the Mills Field Municipal Airport, titled “Progress Chart for Grading / Contract No. 1” and dated March 18, 1927.  Notice the proposed runways and the administrative building and hangar. #52Objects https://t.co/svHunoRCXC",
+      "id": "1612613366266351616",
+      "id_str": "1612613366266351616",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219556,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137551,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137551,
+    "wof:lastmodified": 1692219556,
+    "wof:name": "This pencil-drawn site plan was produced by SF’s Department of Public Works, for the Mills Field Municipal Airport, titled “Progress Chart for Grading / Contract No. 1” and dated March 18, 1927.  Notice the proposed runways and the administrative building and hangar. #52Objects https://t.co/svHunoRCXC",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

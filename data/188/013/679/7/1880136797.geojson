@@ -1,0 +1,179 @@
+{
+  "id": 1880136797,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-06-23",
+    "date:cessation_upper": "2023-06-23",
+    "date:inception_lower": "2023-06-23",
+    "date:inception_upper": "2023-06-23",
+    "edtf:cessation": "2023-06-23T20:00:25Z",
+    "edtf:inception": "2023-06-23T20:00:25Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1687550425,
+      "created_at": "Fri Jun 23 20:00:25 +0000 2023",
+      "display_text_range": [
+        "0",
+        "291"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1672333810061709312"
+          ],
+          "editableUntil": "2023-06-23T21:00:25.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "246",
+              "267"
+            ],
+            "text": "ToSurviveOnThisShore"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/uqR1BWjbTf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1672333810061709312/photo/1",
+            "id": "1672312164391206912",
+            "id_str": "1672312164391206912",
+            "indices": [
+              "268",
+              "291"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FzU_DaAaQAA5nc2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FzU_DaAaQAA5nc2.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/uqR1BWjbTf"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/uqR1BWjbTf",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1672333810061709312/photo/1",
+            "id": "1672312164391206912",
+            "id_str": "1672312164391206912",
+            "indices": [
+              "268",
+              "291"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FzU_DaAaQAA5nc2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FzU_DaAaQAA5nc2.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/uqR1BWjbTf"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "“Tell the young people going through transitions to never give up... I went through periods of giving up, but I had to push myself. I want to take care of and appreciate what life is offering me as a man. I’m living the life that I lost.” - Tony #ToSurviveOnThisShore https://t.co/uqR1BWjbTf",
+      "id": "1672333810061709312",
+      "id_str": "1672333810061709312",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219535,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880136797,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880136797,
+    "wof:lastmodified": 1692219535,
+    "wof:name": "“Tell the young people going through transitions to never give up... I went through periods of giving up, but I had to push myself. I want to take care of and appreciate what life is offering me as a man. I’m living the life that I lost.” - Tony #ToSurviveOnThisShore https://t.co/uqR1BWjbTf",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

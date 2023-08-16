@@ -1,0 +1,111 @@
+{
+  "id": 1880137407,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-01-31",
+    "date:cessation_upper": "2023-01-31",
+    "date:inception_lower": "2023-01-31",
+    "date:inception_upper": "2023-01-31",
+    "edtf:cessation": "2023-01-31T22:19:31Z",
+    "edtf:inception": "2023-01-31T22:19:31Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1675203571,
+      "created_at": "Tue Jan 31 22:19:31 +0000 2023",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1620547350266785793"
+          ],
+          "editableUntil": "2023-01-31T22:49:31.274Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "100",
+              "116"
+            ],
+            "text": "QueenOfTheSkies"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "22090282",
+            "id_str": "22090282",
+            "indices": [
+              "3",
+              "19"
+            ],
+            "name": "Boeing Airplanes",
+            "screen_name": "BoeingAirplanes"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @BoeingAirplanes: Introducing the last 747! 👑✈️\n\nHere is a look at how we put together the final #QueenOfTheSkies. https://t.co/ngkPWwCT…",
+      "id": "1620547350266785793",
+      "id_str": "1620547350266785793",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219552,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137407,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137407,
+    "wof:lastmodified": 1692219552,
+    "wof:name": "RT @BoeingAirplanes: Introducing the last 747! 👑✈️\n\nHere is a look at how we put together the final #QueenOfTheSkies. https://t.co/ngkPWwCT…",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

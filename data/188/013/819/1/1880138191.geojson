@@ -1,0 +1,211 @@
+{
+  "id": 1880138191,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-05-09",
+    "date:cessation_upper": "2023-05-09",
+    "date:inception_lower": "2023-05-09",
+    "date:inception_upper": "2023-05-09",
+    "edtf:cessation": "2023-05-09T17:39:54Z",
+    "edtf:inception": "2023-05-09T17:39:54Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1683653994,
+      "created_at": "Tue May 09 17:39:54 +0000 2023",
+      "display_text_range": [
+        "0",
+        "231"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1655990995996282881"
+          ],
+          "editableUntil": "2023-05-09T18:09:54.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "154",
+              "167"
+            ],
+            "text": "FongChungRay"
+          },
+          {
+            "indices": [
+              "168",
+              "174"
+            ],
+            "text": "APAHM"
+          },
+          {
+            "indices": [
+              "175",
+              "193"
+            ],
+            "text": "AAPIHeritageMonth"
+          },
+          {
+            "indices": [
+              "194",
+              "201"
+            ],
+            "text": "AAPIHM"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/bVtHHKlRZb",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1655990995996282881/photo/1",
+            "id": "1655988057571749888",
+            "id_str": "1655988057571749888",
+            "indices": [
+              "208",
+              "231"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FvtAXVPacAAx64_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FvtAXVPacAAx64_.jpg",
+            "sizes": {
+              "large": {
+                "h": "1365",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/bVtHHKlRZb"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "18958334",
+            "id_str": "18958334",
+            "indices": [
+              "202",
+              "207"
+            ],
+            "name": "SF Arts Commission",
+            "screen_name": "SFAC"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/bVtHHKlRZb",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1655990995996282881/photo/1",
+            "id": "1655988057571749888",
+            "id_str": "1655988057571749888",
+            "indices": [
+              "208",
+              "231"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FvtAXVPacAAx64_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FvtAXVPacAAx64_.jpg",
+            "sizes": {
+              "large": {
+                "h": "1365",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/bVtHHKlRZb"
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "Born in 1933, in Henan, China, Fong Chung-ray found his interest in abstract art when reading American journals and books after moving to Taiwan in 1949. #FongChungRay #APAHM #AAPIHeritageMonth #AAPIHM @SFAC https://t.co/bVtHHKlRZb",
+      "id": "1655990995996282881",
+      "id_str": "1655990995996282881",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219572,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880138191,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880138191,
+    "wof:lastmodified": 1692219572,
+    "wof:name": "Born in 1933, in Henan, China, Fong Chung-ray found his interest in abstract art when reading American journals and books after moving to Taiwan in 1949. #FongChungRay #APAHM #AAPIHeritageMonth #AAPIHM @SFAC https://t.co/bVtHHKlRZb",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

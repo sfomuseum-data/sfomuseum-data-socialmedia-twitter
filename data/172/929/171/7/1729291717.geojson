@@ -29,7 +29,7 @@
           "editTweetIds": [
             "445603530909712384"
           ],
-          "editableUntil": "2014-03-17T17:22:15.339Z",
+          "editableUntil": "2014-03-17T17:52:15.339Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
@@ -38,25 +38,13 @@
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": [
-          {
-            "id": "397425414",
-            "id_str": "397425414",
-            "indices": [
-              "0",
-              "15"
-            ],
-            "name": "Amanda Padilla",
-            "screen_name": "amandalpadilla"
-          }
-        ]
+        "user_mentions": []
       },
       "favorite_count": "0",
       "favorited": false,
       "full_text": "@amandalpadilla Thanks :)",
       "id": "445603530909712384",
       "id_str": "445603530909712384",
-      "in_reply_to_screen_name": "amandalpadilla",
       "in_reply_to_status_id": "445599558601433088",
       "in_reply_to_status_id_str": "445599558601433088",
       "in_reply_to_user_id": "397425414",
@@ -94,7 +82,7 @@
       }
     ],
     "wof:id": 1729291717,
-    "wof:lastmodified": 1667496394,
+    "wof:lastmodified": 1692219576,
     "wof:name": "@amandalpadilla Thanks :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

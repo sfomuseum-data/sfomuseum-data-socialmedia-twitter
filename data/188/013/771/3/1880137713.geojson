@@ -1,0 +1,198 @@
+{
+  "id": 1880137713,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-12-16",
+    "date:cessation_upper": "2022-12-16",
+    "date:inception_lower": "2022-12-16",
+    "date:inception_upper": "2022-12-16",
+    "edtf:cessation": "2022-12-16T00:42:49Z",
+    "edtf:inception": "2022-12-16T00:42:49Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1671151369,
+      "created_at": "Fri Dec 16 00:42:49 +0000 2022",
+      "display_text_range": [
+        "0",
+        "286"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1603551183217389569"
+          ],
+          "editableUntil": "2022-12-16T01:12:49.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "233",
+              "249"
+            ],
+            "text": "DefunctThursday"
+          },
+          {
+            "indices": [
+              "250",
+              "257"
+            ],
+            "text": "AvGeek"
+          },
+          {
+            "indices": [
+              "258",
+              "262"
+            ],
+            "text": "TWA"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/My9KRCqB0a",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1603551183217389569/photo/1",
+            "id": "1603550598653100032",
+            "id_str": "1603550598653100032",
+            "indices": [
+              "263",
+              "286"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FkD0xgQVQAApaJy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FkD0xgQVQAApaJy.jpg",
+            "sizes": {
+              "large": {
+                "h": "1255",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "753",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "427",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/My9KRCqB0a"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/My9KRCqB0a",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1603551183217389569/photo/1",
+            "id": "1603550598653100032",
+            "id_str": "1603550598653100032",
+            "indices": [
+              "263",
+              "286"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FkD0xgQVQAApaJy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FkD0xgQVQAApaJy.jpg",
+            "sizes": {
+              "large": {
+                "h": "1255",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "753",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "427",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/My9KRCqB0a"
+          }
+        ]
+      },
+      "favorite_count": "7",
+      "favorited": false,
+      "full_text": "In 1971, TWA introduced a new flight attendant uniform conceived by Valentino Garavani in preparation for their Lockheed L-1011 TriStar delivery. In 1972, the airline proclaimed the L-1011 to be “the next generation of the jet age.” #DefunctThursday #AvGeek #TWA https://t.co/My9KRCqB0a",
+      "id": "1603551183217389569",
+      "id_str": "1603551183217389569",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1603551177186033664",
+      "in_reply_to_status_id_str": "1603551177186033664",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219560,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137713,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137713,
+    "wof:lastmodified": 1692219560,
+    "wof:name": "In 1971, TWA introduced a new flight attendant uniform conceived by Valentino Garavani in preparation for their Lockheed L-1011 TriStar delivery. In 1972, the airline proclaimed the L-1011 to be “the next generation of the jet age.” #DefunctThursday #AvGeek #TWA https://t.co/My9KRCqB0a",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

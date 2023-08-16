@@ -29,7 +29,7 @@
           "editTweetIds": [
             "241669347553189888"
           ],
-          "editableUntil": "2012-08-31T23:20:37.113Z",
+          "editableUntil": "2012-08-31T23:50:37.113Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
@@ -38,25 +38,13 @@
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": [
-          {
-            "id": "592030246",
-            "id_str": "592030246",
-            "indices": [
-              "0",
-              "8"
-            ],
-            "name": "glenn fye",
-            "screen_name": "glenfye"
-          }
-        ]
+        "user_mentions": []
       },
       "favorite_count": "1",
       "favorited": false,
       "full_text": "@glenfye Hello! We are using FileMaker Pro.",
       "id": "241669347553189888",
       "id_str": "241669347553189888",
-      "in_reply_to_screen_name": "glenfye",
       "in_reply_to_status_id": "241649607409553409",
       "in_reply_to_status_id_str": "241649607409553409",
       "in_reply_to_user_id": "592030246",
@@ -94,7 +82,7 @@
       }
     ],
     "wof:id": 1729310435,
-    "wof:lastmodified": 1667496397,
+    "wof:lastmodified": 1692219579,
     "wof:name": "@glenfye Hello! We are using FileMaker Pro.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

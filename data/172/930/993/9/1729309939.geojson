@@ -29,7 +29,7 @@
           "editTweetIds": [
             "217742002366840832"
           ],
-          "editableUntil": "2012-06-26T22:41:53.472Z",
+          "editableUntil": "2012-06-26T23:11:53.472Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
@@ -38,7 +38,18 @@
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": []
+        "user_mentions": [
+          {
+            "id": "1592462786092728321",
+            "id_str": "1592462786092728321",
+            "indices": [
+              "0",
+              "8"
+            ],
+            "name": "ewin grr",
+            "screen_name": "EwinGrr"
+          }
+        ]
       },
       "favorite_count": "0",
       "favorited": false,
@@ -82,7 +93,7 @@
       }
     ],
     "wof:id": 1729309939,
-    "wof:lastmodified": 1667496397,
+    "wof:lastmodified": 1692219579,
     "wof:name": "@ewingrr You found us! Welcome! Make yourself at home!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

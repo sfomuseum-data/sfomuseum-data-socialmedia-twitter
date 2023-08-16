@@ -1,0 +1,179 @@
+{
+  "id": 1880137459,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-01-20",
+    "date:cessation_upper": "2023-01-20",
+    "date:inception_lower": "2023-01-20",
+    "date:inception_upper": "2023-01-20",
+    "edtf:cessation": "2023-01-20T21:37:39Z",
+    "edtf:inception": "2023-01-20T21:37:39Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1674250659,
+      "created_at": "Fri Jan 20 21:37:39 +0000 2023",
+      "display_text_range": [
+        "0",
+        "292"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1616550547716476930"
+          ],
+          "editableUntil": "2023-01-20T22:07:39.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "247",
+              "268"
+            ],
+            "text": "ToSurviveOnThisShore"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/J3kr2XnT2Q",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1616550547716476930/photo/1",
+            "id": "1616550540250583040",
+            "id_str": "1616550540250583040",
+            "indices": [
+              "269",
+              "292"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fm8kJskaEAA0cX8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fm8kJskaEAA0cX8.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/J3kr2XnT2Q"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/J3kr2XnT2Q",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1616550547716476930/photo/1",
+            "id": "1616550540250583040",
+            "id_str": "1616550540250583040",
+            "indices": [
+              "269",
+              "292"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fm8kJskaEAA0cX8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fm8kJskaEAA0cX8.jpg",
+            "sizes": {
+              "large": {
+                "h": "1600",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/J3kr2XnT2Q"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "“The activism keeps me young. It really does. But I love my age, and I love when I can mentor somebody else. I love it because – and I never thought I'd say this – my age gives me a perspective that youth denied me.” Alexis, 64, Chicago, IL, 2014 #ToSurviveOnThisShore https://t.co/J3kr2XnT2Q",
+      "id": "1616550547716476930",
+      "id_str": "1616550547716476930",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219553,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137459,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137459,
+    "wof:lastmodified": 1692219553,
+    "wof:name": "“The activism keeps me young. It really does. But I love my age, and I love when I can mentor somebody else. I love it because – and I never thought I'd say this – my age gives me a perspective that youth denied me.” Alexis, 64, Chicago, IL, 2014 #ToSurviveOnThisShore https://t.co/J3kr2XnT2Q",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

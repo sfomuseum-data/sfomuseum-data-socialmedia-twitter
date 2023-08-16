@@ -1,0 +1,215 @@
+{
+  "id": 1880138249,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-05-01",
+    "date:cessation_upper": "2023-05-01",
+    "date:inception_lower": "2023-05-01",
+    "date:inception_upper": "2023-05-01",
+    "edtf:cessation": "2023-05-01T18:25:58Z",
+    "edtf:inception": "2023-05-01T18:25:58Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1682965558,
+      "created_at": "Mon May 01 18:25:58 +0000 2023",
+      "display_text_range": [
+        "0",
+        "154"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1653103486354202626"
+          ],
+          "editableUntil": "2023-05-01T18:55:58.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "120",
+              "130"
+            ],
+            "text": "52Objects"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/dFp6gHAe3Z",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1653103486354202626/photo/1",
+            "id": "1653102892319133696",
+            "id_str": "1653102892319133696",
+            "indices": [
+              "131",
+              "154"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FvEAUnHaUAAooTO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FvEAUnHaUAAooTO.jpg",
+            "sizes": {
+              "large": {
+                "h": "1863",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1091",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "619",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/dFp6gHAe3Z"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/dFp6gHAe3Z",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1653103486354202626/photo/1",
+            "id": "1653102892319133696",
+            "id_str": "1653102892319133696",
+            "indices": [
+              "131",
+              "154"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FvEAUnHaUAAooTO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FvEAUnHaUAAooTO.jpg",
+            "sizes": {
+              "large": {
+                "h": "1863",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1091",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "619",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/dFp6gHAe3Z"
+          },
+          {
+            "display_url": "pic.twitter.com/dFp6gHAe3Z",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1653103486354202626/photo/1",
+            "id": "1653102977790660609",
+            "id_str": "1653102977790660609",
+            "indices": [
+              "131",
+              "154"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FvEAZlhaUAEaHmP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FvEAZlhaUAEaHmP.jpg",
+            "sizes": {
+              "large": {
+                "h": "1863",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1091",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "619",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/dFp6gHAe3Z"
+          }
+        ]
+      },
+      "favorite_count": "12",
+      "favorited": false,
+      "full_text": "How much information can you squeeze on to a matchbook cover? Continental Air Lines took on the challenge in the 1950s. #52Objects https://t.co/dFp6gHAe3Z",
+      "id": "1653103486354202626",
+      "id_str": "1653103486354202626",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219578,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880138249,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880138249,
+    "wof:lastmodified": 1692219578,
+    "wof:name": "How much information can you squeeze on to a matchbook cover? Continental Air Lines took on the challenge in the 1950s. #52Objects https://t.co/dFp6gHAe3Z",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

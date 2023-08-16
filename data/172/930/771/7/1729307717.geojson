@@ -29,113 +29,26 @@
           "editTweetIds": [
             "174194844066000896"
           ],
-          "editableUntil": "2012-02-27T18:41:01.866Z",
+          "editableUntil": "2012-02-27T19:11:01.866Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
       },
       "entities": {
         "hashtags": [],
-        "media": [
+        "symbols": [],
+        "urls": [
           {
             "display_url": "pic.twitter.com/MGky12aL",
             "expanded_url": "https://twitter.com/jensvoigtsarmy/status/173524529811947520/photo/1",
-            "id": "173524529816141824",
-            "id_str": "173524529816141824",
             "indices": [
               "112",
               "132"
             ],
-            "media_url": "http://pbs.twimg.com/media/Amh7o_eCAAAXEXL.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Amh7o_eCAAAXEXL.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "960"
-              },
-              "medium": {
-                "h": "720",
-                "resize": "fit",
-                "w": "960"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "173524529811947520",
-            "source_status_id_str": "173524529811947520",
-            "source_user_id": "238363442",
-            "source_user_id_str": "238363442",
-            "type": "photo",
             "url": "http://t.co/MGky12aL"
           }
         ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-          {
-            "id": "238363442",
-            "id_str": "238363442",
-            "indices": [
-              "49",
-              "64"
-            ],
-            "name": "Admiral Longpour",
-            "screen_name": "jensvoigtsarmy"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/MGky12aL",
-            "expanded_url": "https://twitter.com/jensvoigtsarmy/status/173524529811947520/photo/1",
-            "id": "173524529816141824",
-            "id_str": "173524529816141824",
-            "indices": [
-              "112",
-              "132"
-            ],
-            "media_url": "http://pbs.twimg.com/media/Amh7o_eCAAAXEXL.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Amh7o_eCAAAXEXL.jpg",
-            "sizes": {
-              "large": {
-                "h": "720",
-                "resize": "fit",
-                "w": "960"
-              },
-              "medium": {
-                "h": "720",
-                "resize": "fit",
-                "w": "960"
-              },
-              "small": {
-                "h": "510",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "173524529811947520",
-            "source_status_id_str": "173524529811947520",
-            "source_user_id": "238363442",
-            "source_user_id_str": "238363442",
-            "type": "photo",
-            "url": "http://t.co/MGky12aL"
-          }
-        ]
+        "user_mentions": []
       },
       "favorite_count": "1",
       "favorited": false,
@@ -176,7 +89,7 @@
       }
     ],
     "wof:id": 1729307717,
-    "wof:lastmodified": 1667496398,
+    "wof:lastmodified": 1692219580,
     "wof:name": "Isn't Ducati's \"Marianna\" a beauty? Good pic! RT @jensvoigtsarmy: 1950's Italian bike exhibit at SFO right now. http://t.co/MGky12aL",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -29,55 +29,13 @@
           "editTweetIds": [
             "261862804062101504"
           ],
-          "editableUntil": "2012-10-26T16:42:12.321Z",
+          "editableUntil": "2012-10-26T17:12:12.321Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
       },
       "entities": {
         "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/2CHLRBbP",
-            "expanded_url": "https://twitter.com/Wininoid/status/261625455478706176/photo/1",
-            "id": "261625455487094784",
-            "id_str": "261625455487094784",
-            "indices": [
-              "119",
-              "139"
-            ],
-            "media_url": "http://pbs.twimg.com/media/A6F69zKCEAAUuyp.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/A6F69zKCEAAUuyp.jpg",
-            "sizes": {
-              "large": {
-                "h": "1152",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "261625455478706176",
-            "source_status_id_str": "261625455478706176",
-            "source_user_id": "67819698",
-            "source_user_id_str": "67819698",
-            "type": "photo",
-            "url": "http://t.co/2CHLRBbP"
-          }
-        ],
         "symbols": [],
         "urls": [
           {
@@ -88,6 +46,15 @@
               "42"
             ],
             "url": "http://t.co/pw8XYD3Z"
+          },
+          {
+            "display_url": "pic.twitter.com/2CHLRBbP",
+            "expanded_url": "https://twitter.com/Wininoid/status/261625455478706176/photo/1",
+            "indices": [
+              "119",
+              "139"
+            ],
+            "url": "http://t.co/2CHLRBbP"
           }
         ],
         "user_mentions": [
@@ -100,50 +67,6 @@
             ],
             "name": "Todd",
             "screen_name": "Wininoid"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/2CHLRBbP",
-            "expanded_url": "https://twitter.com/Wininoid/status/261625455478706176/photo/1",
-            "id": "261625455487094784",
-            "id_str": "261625455487094784",
-            "indices": [
-              "119",
-              "139"
-            ],
-            "media_url": "http://pbs.twimg.com/media/A6F69zKCEAAUuyp.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/A6F69zKCEAAUuyp.jpg",
-            "sizes": {
-              "large": {
-                "h": "1152",
-                "resize": "fit",
-                "w": "2048"
-              },
-              "medium": {
-                "h": "675",
-                "resize": "fit",
-                "w": "1200"
-              },
-              "small": {
-                "h": "383",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "261625455478706176",
-            "source_status_id_str": "261625455478706176",
-            "source_user_id": "67819698",
-            "source_user_id_str": "67819698",
-            "type": "photo",
-            "url": "http://t.co/2CHLRBbP"
           }
         ]
       },
@@ -186,7 +109,7 @@
       }
     ],
     "wof:id": 1729310987,
-    "wof:lastmodified": 1667496396,
+    "wof:lastmodified": 1692219579,
     "wof:name": "From 1912! More info: http://t.co/pw8XYD3Z RT @Wininoid: Some classic boardgames on display at SFO. I love this cover! http://t.co/2CHLRBbP",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -1,0 +1,184 @@
+{
+  "id": 1880137337,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-02-10",
+    "date:cessation_upper": "2023-02-10",
+    "date:inception_lower": "2023-02-10",
+    "date:inception_upper": "2023-02-10",
+    "edtf:cessation": "2023-02-10T01:14:19Z",
+    "edtf:inception": "2023-02-10T01:14:19Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1675991659,
+      "created_at": "Fri Feb 10 01:14:19 +0000 2023",
+      "display_text_range": [
+        "0",
+        "301"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1623852833291534339"
+          ],
+          "editableUntil": "2023-02-10T01:44:19.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "258",
+              "277"
+            ],
+            "text": "SSTFirstGeneration"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/62lr1LHSYi",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1623852833291534339/photo/1",
+            "id": "1623852613006680064",
+            "id_str": "1623852613006680064",
+            "indices": [
+              "278",
+              "301"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FokVWRXaYAAvn_5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FokVWRXaYAAvn_5.jpg",
+            "sizes": {
+              "large": {
+                "h": "1624",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "951",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "539",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/62lr1LHSYi"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/62lr1LHSYi",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1623852833291534339/photo/1",
+            "id": "1623852613006680064",
+            "id_str": "1623852613006680064",
+            "indices": [
+              "278",
+              "301"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FokVWRXaYAAvn_5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FokVWRXaYAAvn_5.jpg",
+            "sizes": {
+              "large": {
+                "h": "1624",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "951",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "539",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/62lr1LHSYi"
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "Lockheed’s SST design was similar the Concorde, both aircraft featuring a long nose section, a delta wing, and a long narrow body. By 1967, Lockheed constructed a full-size display of the L-2000 SST and was actively promoting the aircraft to major airlines. #SSTFirstGeneration https://t.co/62lr1LHSYi",
+      "id": "1623852833291534339",
+      "id_str": "1623852833291534339",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1623852827734065152",
+      "in_reply_to_status_id_str": "1623852827734065152",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219550,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137337,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137337,
+    "wof:lastmodified": 1692219550,
+    "wof:name": "Lockheed’s SST design was similar the Concorde, both aircraft featuring a long nose section, a delta wing, and a long narrow body. By 1967, Lockheed constructed a full-size display of the L-2000 SST and was actively promoting the aircraft to major airlines. #SSTFirstGeneration https://t.co/62lr1LHSYi",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

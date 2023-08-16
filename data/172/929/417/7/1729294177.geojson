@@ -29,57 +29,25 @@
           "editTweetIds": [
             "651079616719925248"
           ],
-          "editableUntil": "2015-10-05T17:30:51.757Z",
+          "editableUntil": "2015-10-05T18:00:51.757Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
       },
       "entities": {
         "hashtags": [],
-        "media": [
+        "symbols": [],
+        "urls": [
           {
             "display_url": "pic.twitter.com/tPmJDdnSW1",
             "expanded_url": "https://twitter.com/KitsuneHatagoya/status/650190149012209665/photo/1",
-            "id": "650190142536204289",
-            "id_str": "650190142536204289",
             "indices": [
               "70",
               "92"
             ],
-            "media_url": "http://pbs.twimg.com/media/CQXwfWJUwAEgkxz.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CQXwfWJUwAEgkxz.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "650190149012209665",
-            "source_status_id_str": "650190149012209665",
-            "source_user_id": "1304970102",
-            "source_user_id_str": "1304970102",
-            "type": "photo",
             "url": "http://t.co/tPmJDdnSW1"
           }
         ],
-        "symbols": [],
-        "urls": [],
         "user_mentions": [
           {
             "id": "1304970102",
@@ -90,90 +58,6 @@
             ],
             "name": "Kitsune Monogatari",
             "screen_name": "KitsuneHatagoya"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/tPmJDdnSW1",
-            "expanded_url": "https://twitter.com/KitsuneHatagoya/status/650190149012209665/photo/1",
-            "id": "650190142536204289",
-            "id_str": "650190142536204289",
-            "indices": [
-              "70",
-              "92"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CQXwfWJUwAEgkxz.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CQXwfWJUwAEgkxz.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "650190149012209665",
-            "source_status_id_str": "650190149012209665",
-            "source_user_id": "1304970102",
-            "source_user_id_str": "1304970102",
-            "type": "photo",
-            "url": "http://t.co/tPmJDdnSW1"
-          },
-          {
-            "display_url": "pic.twitter.com/tPmJDdnSW1",
-            "expanded_url": "https://twitter.com/KitsuneHatagoya/status/650190149012209665/photo/1",
-            "id": "650190143622508544",
-            "id_str": "650190143622508544",
-            "indices": [
-              "70",
-              "92"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CQXwfaMUcAAREf9.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CQXwfaMUcAAREf9.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "650190149012209665",
-            "source_status_id_str": "650190149012209665",
-            "source_user_id": "1304970102",
-            "source_user_id_str": "1304970102",
-            "type": "photo",
-            "url": "http://t.co/tPmJDdnSW1"
           }
         ]
       },
@@ -216,7 +100,7 @@
       }
     ],
     "wof:id": 1729294177,
-    "wof:lastmodified": 1667496391,
+    "wof:lastmodified": 1692219575,
     "wof:name": "RT @KitsuneHatagoya: Mingei exhibition at San Francisco airport (SFO) http://t.co/tPmJDdnSW1",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
