@@ -29,7 +29,7 @@
           "editTweetIds": [
             "523273677459042304"
           ],
-          "editableUntil": "2014-10-18T01:15:41.318Z",
+          "editableUntil": "2014-10-18T01:45:41.318Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
@@ -38,25 +38,13 @@
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": [
-          {
-            "id": "38446941",
-            "id_str": "38446941",
-            "indices": [
-              "0",
-              "10"
-            ],
-            "name": "there’s a sort of evil out there🌲",
-            "screen_name": "alli_rico"
-          }
-        ]
+        "user_mentions": []
       },
-      "favorite_count": "1",
+      "favorite_count": "0",
       "favorited": false,
       "full_text": "@alli_rico Thank you!!",
       "id": "523273677459042304",
       "id_str": "523273677459042304",
-      "in_reply_to_screen_name": "alli_rico",
       "in_reply_to_status_id": "523273509569855488",
       "in_reply_to_status_id_str": "523273509569855488",
       "in_reply_to_user_id": "38446941",
@@ -94,7 +82,7 @@
       }
     ],
     "wof:id": 1729292645,
-    "wof:lastmodified": 1667496393,
+    "wof:lastmodified": 1692219576,
     "wof:name": "@alli_rico Thank you!!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -1,0 +1,200 @@
+{
+  "id": 1880137409,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-02-01",
+    "date:cessation_upper": "2023-02-01",
+    "date:inception_lower": "2023-02-01",
+    "date:inception_upper": "2023-02-01",
+    "edtf:cessation": "2023-02-01T01:08:57Z",
+    "edtf:inception": "2023-02-01T01:08:57Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1675213737,
+      "created_at": "Wed Feb 01 01:08:57 +0000 2023",
+      "display_text_range": [
+        "0",
+        "303"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1620589991050240002"
+          ],
+          "editableUntil": "2023-02-01T01:38:57.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "0",
+              "10"
+            ],
+            "text": "Onthisday"
+          },
+          {
+            "indices": [
+              "252",
+              "259"
+            ],
+            "text": "AvGeek"
+          },
+          {
+            "indices": [
+              "260",
+              "266"
+            ],
+            "text": "PanAm"
+          },
+          {
+            "indices": [
+              "267",
+              "279"
+            ],
+            "text": "Fairchild71"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/qceDtedOyV",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1620589991050240002/photo/1",
+            "id": "1620589580708900864",
+            "id_str": "1620589580708900864",
+            "indices": [
+              "280",
+              "303"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fn19oyzacAAH_4r.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fn19oyzacAAH_4r.jpg",
+            "sizes": {
+              "large": {
+                "h": "1557",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "934",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "529",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/qceDtedOyV"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/qceDtedOyV",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1620589991050240002/photo/1",
+            "id": "1620589580708900864",
+            "id_str": "1620589580708900864",
+            "indices": [
+              "280",
+              "303"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fn19oyzacAAH_4r.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fn19oyzacAAH_4r.jpg",
+            "sizes": {
+              "large": {
+                "h": "1557",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "934",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "529",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/qceDtedOyV"
+          }
+        ]
+      },
+      "favorite_count": "15",
+      "favorited": false,
+      "full_text": "#Onthisday in 1929, the first Fairchild 71 was delivered to Pan American Airways. This rare photo of NC9726 was taken shortly after the aircraft was delivered to Pan American; it was then transferred to the PAA subsidiary airline Mexicana de Aviacion. #AvGeek #PanAm #Fairchild71 https://t.co/qceDtedOyV",
+      "id": "1620589991050240002",
+      "id_str": "1620589991050240002",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219552,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137409,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137409,
+    "wof:lastmodified": 1692219552,
+    "wof:name": "#Onthisday in 1929, the first Fairchild 71 was delivered to Pan American Airways. This rare photo of NC9726 was taken shortly after the aircraft was delivered to Pan American; it was then transferred to the PAA subsidiary airline Mexicana de Aviacion. #AvGeek #PanAm #Fairchild71 https://t.co/qceDtedOyV",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -29,7 +29,7 @@
           "editTweetIds": [
             "124888701405904897"
           ],
-          "editableUntil": "2011-10-14T17:16:01.392Z",
+          "editableUntil": "2011-10-14T17:46:01.392Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
@@ -39,6 +39,16 @@
         "symbols": [],
         "urls": [],
         "user_mentions": [
+          {
+            "id": "1506452036820553730",
+            "id_str": "1506452036820553730",
+            "indices": [
+              "56",
+              "63"
+            ],
+            "name": "weynn",
+            "screen_name": "brrein"
+          },
           {
             "id": "794841",
             "id_str": "794841",
@@ -89,7 +99,7 @@
       }
     ],
     "wof:id": 1729310089,
-    "wof:lastmodified": 1667496400,
+    "wof:lastmodified": 1692219582,
     "wof:name": "Wow! \"Worth being early\"! Glad you like the exhibit! RT @brrein: @sfo airport with time to look @ 75yrs of TV technology. Worth being early.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

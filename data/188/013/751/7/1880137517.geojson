@@ -1,0 +1,236 @@
+{
+  "id": 1880137517,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-01-13",
+    "date:cessation_upper": "2023-01-13",
+    "date:inception_lower": "2023-01-13",
+    "date:inception_upper": "2023-01-13",
+    "edtf:cessation": "2023-01-13T19:28:32Z",
+    "edtf:inception": "2023-01-13T19:28:32Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1673638112,
+      "created_at": "Fri Jan 13 19:28:32 +0000 2023",
+      "display_text_range": [
+        "0",
+        "245"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1613981342362128384"
+          ],
+          "editableUntil": "2023-01-13T19:58:32.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "175",
+              "185"
+            ],
+            "text": "onthisday"
+          },
+          {
+            "indices": [
+              "195",
+              "203"
+            ],
+            "text": "Braniff"
+          },
+          {
+            "indices": [
+              "204",
+              "213"
+            ],
+            "text": "Concorde"
+          },
+          {
+            "indices": [
+              "214",
+              "221"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/K3S5kzGJny",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1613981342362128384/photo/1",
+            "id": "1613981082885697536",
+            "id_str": "1613981082885697536",
+            "indices": [
+              "222",
+              "245"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FmYDPl-aMAAJwrl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FmYDPl-aMAAJwrl.jpg",
+            "sizes": {
+              "large": {
+                "h": "1542",
+                "resize": "fit",
+                "w": "1950"
+              },
+              "medium": {
+                "h": "949",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "538",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/K3S5kzGJny"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/K3S5kzGJny",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1613981342362128384/photo/1",
+            "id": "1613981082885697536",
+            "id_str": "1613981082885697536",
+            "indices": [
+              "222",
+              "245"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FmYDPl-aMAAJwrl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FmYDPl-aMAAJwrl.jpg",
+            "sizes": {
+              "large": {
+                "h": "1542",
+                "resize": "fit",
+                "w": "1950"
+              },
+              "medium": {
+                "h": "949",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "538",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/K3S5kzGJny"
+          },
+          {
+            "display_url": "pic.twitter.com/K3S5kzGJny",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1613981342362128384/photo/1",
+            "id": "1613981083112181760",
+            "id_str": "1613981083112181760",
+            "indices": [
+              "222",
+              "245"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FmYDPm0aEAAW1Ay.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FmYDPm0aEAAW1Ay.jpg",
+            "sizes": {
+              "large": {
+                "h": "1559",
+                "resize": "fit",
+                "w": "1968"
+              },
+              "medium": {
+                "h": "951",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "539",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/K3S5kzGJny"
+          }
+        ]
+      },
+      "favorite_count": "21",
+      "favorited": false,
+      "full_text": "The inaugural flight of the Concorde for the Braniff International Airways and British Airways joint SST service from Dallas-Fort Worth via Washington, DC, to London departed #onthisday in 1979. #Braniff #Concorde #avgeek https://t.co/K3S5kzGJny",
+      "id": "1613981342362128384",
+      "id_str": "1613981342362128384",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "5",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219554,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137517,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137517,
+    "wof:lastmodified": 1692219554,
+    "wof:name": "The inaugural flight of the Concorde for the Braniff International Airways and British Airways joint SST service from Dallas-Fort Worth via Washington, DC, to London departed #onthisday in 1979. #Braniff #Concorde #avgeek https://t.co/K3S5kzGJny",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

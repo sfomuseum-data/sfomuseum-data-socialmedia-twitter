@@ -29,7 +29,7 @@
           "editTweetIds": [
             "190559746011561984"
           ],
-          "editableUntil": "2012-04-12T22:29:18.535Z",
+          "editableUntil": "2012-04-12T22:59:18.535Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
@@ -50,16 +50,6 @@
         ],
         "user_mentions": [
           {
-            "id": "31093",
-            "id_str": "31093",
-            "indices": [
-              "0",
-              "14"
-            ],
-            "name": "Bradley Thompson",
-            "screen_name": "bradvertising"
-          },
-          {
             "id": "1598411",
             "id_str": "1598411",
             "indices": [
@@ -76,7 +66,6 @@
       "full_text": "@bradvertising @TelstarLogistic No plans yet- we'd need an army of interns. In the meantime, one for the road: http://t.co/E3o1zA9m",
       "id": "190559746011561984",
       "id_str": "190559746011561984",
-      "in_reply_to_screen_name": "bradvertising",
       "in_reply_to_status_id": "190554304904568834",
       "in_reply_to_status_id_str": "190554304904568834",
       "in_reply_to_user_id": "31093",
@@ -115,7 +104,7 @@
       }
     ],
     "wof:id": 1729309213,
-    "wof:lastmodified": 1667496398,
+    "wof:lastmodified": 1692219580,
     "wof:name": "@bradvertising @TelstarLogistic No plans yet- we'd need an army of interns. In the meantime, one for the road: http://t.co/E3o1zA9m",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -29,7 +29,7 @@
           "editTweetIds": [
             "136127181947539456"
           ],
-          "editableUntil": "2011-11-14T17:33:43.954Z",
+          "editableUntil": "2011-11-14T18:03:43.954Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
@@ -38,7 +38,18 @@
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": []
+        "user_mentions": [
+          {
+            "id": "1137905861337255936",
+            "id_str": "1137905861337255936",
+            "indices": [
+              "0",
+              "15"
+            ],
+            "name": "faith",
+            "screen_name": "trippinonlight"
+          }
+        ]
       },
       "favorite_count": "0",
       "favorited": false,
@@ -81,7 +92,7 @@
       }
     ],
     "wof:id": 1729291875,
-    "wof:lastmodified": 1667496400,
+    "wof:lastmodified": 1692219582,
     "wof:name": "@trippinonlight We're glad you liked it! Hope you had a great trip!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

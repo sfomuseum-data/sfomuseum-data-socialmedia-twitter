@@ -1,0 +1,179 @@
+{
+  "id": 1880137915,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-11-30",
+    "date:cessation_upper": "2022-11-30",
+    "date:inception_lower": "2022-11-30",
+    "date:inception_upper": "2022-11-30",
+    "edtf:cessation": "2022-11-30T00:41:39Z",
+    "edtf:inception": "2022-11-30T00:41:39Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1669768899,
+      "created_at": "Wed Nov 30 00:41:39 +0000 2022",
+      "display_text_range": [
+        "0",
+        "254"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1597752682797621249"
+          ],
+          "editableUntil": "2022-11-30T01:11:39.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "213",
+              "230"
+            ],
+            "text": "SFOperaCentennia"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/29U78OW2er",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1597752682797621249/photo/1",
+            "id": "1597752677856788481",
+            "id_str": "1597752677856788481",
+            "indices": [
+              "231",
+              "254"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FixbmGKVQAEDEHS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FixbmGKVQAEDEHS.jpg",
+            "sizes": {
+              "large": {
+                "h": "531",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "311",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "176",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/29U78OW2er"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/29U78OW2er",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1597752682797621249/photo/1",
+            "id": "1597752677856788481",
+            "id_str": "1597752677856788481",
+            "indices": [
+              "231",
+              "254"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FixbmGKVQAEDEHS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FixbmGKVQAEDEHS.jpg",
+            "sizes": {
+              "large": {
+                "h": "531",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "311",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "176",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/29U78OW2er"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "This panoramic photograph is the oldest-known image of the San Francisco Opera company, taken on October 6, 1932, during the company’s first season. General Director Gaetano Merola is seated at front-row-center.  #SFOperaCentennia https://t.co/29U78OW2er",
+      "id": "1597752682797621249",
+      "id_str": "1597752682797621249",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219565,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137915,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137915,
+    "wof:lastmodified": 1692219565,
+    "wof:name": "This panoramic photograph is the oldest-known image of the San Francisco Opera company, taken on October 6, 1932, during the company’s first season. General Director Gaetano Merola is seated at front-row-center.  #SFOperaCentennia https://t.co/29U78OW2er",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

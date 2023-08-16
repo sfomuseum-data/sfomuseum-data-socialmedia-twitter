@@ -29,7 +29,7 @@
           "editTweetIds": [
             "885218117076402176"
           ],
-          "editableUntil": "2017-07-12T19:53:40.325Z",
+          "editableUntil": "2017-07-12T20:23:40.325Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
@@ -63,7 +63,18 @@
             "url": "https://t.co/l3SGXC6Q8L"
           }
         ],
-        "user_mentions": []
+        "user_mentions": [
+          {
+            "id": "1586362612270374912",
+            "id_str": "1586362612270374912",
+            "indices": [
+              "0",
+              "15"
+            ],
+            "name": "Alexandra Blech",
+            "screen_name": "AlexandraBlech"
+          }
+        ]
       },
       "favorite_count": "0",
       "favorited": false,
@@ -108,7 +119,7 @@
       }
     ],
     "wof:id": 1729300681,
-    "wof:lastmodified": 1667496383,
+    "wof:lastmodified": 1692219564,
     "wof:name": "@alexandrablech \"Flying #theMainLine: A History of #United Airlines\", is on display, post-security, in Terminal 3 until March 2018. https://t.co/l3SGXC6Q8L",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

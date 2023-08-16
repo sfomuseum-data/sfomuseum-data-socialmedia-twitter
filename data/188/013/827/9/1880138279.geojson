@@ -1,0 +1,222 @@
+{
+  "id": 1880138279,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-04-25",
+    "date:cessation_upper": "2023-04-25",
+    "date:inception_lower": "2023-04-25",
+    "date:inception_upper": "2023-04-25",
+    "edtf:cessation": "2023-04-25T18:43:39Z",
+    "edtf:inception": "2023-04-25T18:43:39Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1682448219,
+      "created_at": "Tue Apr 25 18:43:39 +0000 2023",
+      "display_text_range": [
+        "0",
+        "181"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1650933606330814465"
+          ],
+          "editableUntil": "2023-04-25T19:13:39.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "109",
+              "120"
+            ],
+            "text": "EarthMonth"
+          },
+          {
+            "indices": [
+              "121",
+              "133"
+            ],
+            "text": "EllenHarvey"
+          },
+          {
+            "indices": [
+              "134",
+              "144"
+            ],
+            "text": "PublicArt"
+          },
+          {
+            "indices": [
+              "145",
+              "152"
+            ],
+            "text": "mosaic"
+          },
+          {
+            "indices": [
+              "153",
+              "157"
+            ],
+            "text": "map"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FFEs1HOK8E",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1650933606330814465/photo/1",
+            "id": "1650933414382698497",
+            "id_str": "1650933414382698497",
+            "indices": [
+              "158",
+              "181"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FulLMYAagAE4m9x.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FulLMYAagAE4m9x.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1365"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FFEs1HOK8E"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2zcfQmo",
+            "expanded_url": "https://bit.ly/2zcfQmo",
+            "indices": [
+              "84",
+              "107"
+            ],
+            "url": "https://t.co/izglNdUuXI"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FFEs1HOK8E",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1650933606330814465/photo/1",
+            "id": "1650933414382698497",
+            "id_str": "1650933414382698497",
+            "indices": [
+              "158",
+              "181"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FulLMYAagAE4m9x.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FulLMYAagAE4m9x.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1365"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "800"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "453"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FFEs1HOK8E"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "See “Green Map” by Ellen Harvey on display, in the Grand Hyatt Hotel and online at: https://t.co/izglNdUuXI\n\n#EarthMonth #EllenHarvey #PublicArt #mosaic #map https://t.co/FFEs1HOK8E",
+      "id": "1650933606330814465",
+      "id_str": "1650933606330814465",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1650933601746419712",
+      "in_reply_to_status_id_str": "1650933601746419712",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219581,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880138279,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880138279,
+    "wof:lastmodified": 1692219581,
+    "wof:name": "See “Green Map” by Ellen Harvey on display, in the Grand Hyatt Hotel and online at: https://t.co/izglNdUuXI\n\n#EarthMonth #EllenHarvey #PublicArt #mosaic #map https://t.co/FFEs1HOK8E",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

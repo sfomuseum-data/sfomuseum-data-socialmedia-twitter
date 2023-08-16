@@ -1,0 +1,204 @@
+{
+  "id": 1880137401,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-02-01",
+    "date:cessation_upper": "2023-02-01",
+    "date:inception_lower": "2023-02-01",
+    "date:inception_upper": "2023-02-01",
+    "edtf:cessation": "2023-02-01T21:05:50Z",
+    "edtf:inception": "2023-02-01T21:05:50Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1675285550,
+      "created_at": "Wed Feb 01 21:05:50 +0000 2023",
+      "display_text_range": [
+        "0",
+        "298"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1620891195563184129"
+          ],
+          "editableUntil": "2023-02-01T21:35:50.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "213",
+              "231"
+            ],
+            "text": "BlackHistoryMonth"
+          },
+          {
+            "indices": [
+              "241",
+              "259"
+            ],
+            "text": "SFOperaCentennial"
+          },
+          {
+            "indices": [
+              "260",
+              "274"
+            ],
+            "text": "LeontynePrice"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IkUfpn2OnD",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1620891195563184129/photo/1",
+            "id": "1620890607819554816",
+            "id_str": "1620890607819554816",
+            "indices": [
+              "275",
+              "298"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fn6Pa4LaAAAV_hd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fn6Pa4LaAAAV_hd.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1500"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "879"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "498"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IkUfpn2OnD"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "183320631",
+            "id_str": "183320631",
+            "indices": [
+              "232",
+              "240"
+            ],
+            "name": "San Francisco Opera",
+            "screen_name": "SFOpera"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IkUfpn2OnD",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1620891195563184129/photo/1",
+            "id": "1620890607819554816",
+            "id_str": "1620890607819554816",
+            "indices": [
+              "275",
+              "298"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fn6Pa4LaAAAV_hd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fn6Pa4LaAAAV_hd.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1500"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "879"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "498"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IkUfpn2OnD"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "American soprano Leontyne Price (b. 1927) is beloved for her extraordinary voice and radiant charm. Price is an internationally renowned opera performer, concert singer, and Grammy Award-winning recording artist. #BlackHistoryMonth @SFOpera #SFOperaCentennial #LeontynePrice https://t.co/IkUfpn2OnD",
+      "id": "1620891195563184129",
+      "id_str": "1620891195563184129",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219551,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137401,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137401,
+    "wof:lastmodified": 1692219551,
+    "wof:name": "American soprano Leontyne Price (b. 1927) is beloved for her extraordinary voice and radiant charm. Price is an internationally renowned opera performer, concert singer, and Grammy Award-winning recording artist. #BlackHistoryMonth @SFOpera #SFOperaCentennial #LeontynePrice https://t.co/IkUfpn2OnD",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,193 @@
+{
+  "id": 1880137155,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
+    "date:inception_lower": "2023-02-28",
+    "date:inception_upper": "2023-02-28",
+    "edtf:cessation": "2023-02-28T18:23:38Z",
+    "edtf:inception": "2023-02-28T18:23:38Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1677608618,
+      "created_at": "Tue Feb 28 18:23:38 +0000 2023",
+      "display_text_range": [
+        "0",
+        "170"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1630634848351326208"
+          ],
+          "editableUntil": "2023-02-28T18:53:38.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "112",
+              "123"
+            ],
+            "text": "SFOHistory"
+          },
+          {
+            "indices": [
+              "124",
+              "131"
+            ],
+            "text": "AvGeek"
+          },
+          {
+            "indices": [
+              "132",
+              "146"
+            ],
+            "text": "TriviaTuesday"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/sVXQfCnbg5",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1630634848351326208/photo/1",
+            "id": "1630633451878764545",
+            "id_str": "1630633451878764545",
+            "indices": [
+              "147",
+              "170"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FqEsfCoaUAEpMwO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FqEsfCoaUAEpMwO.jpg",
+            "sizes": {
+              "large": {
+                "h": "1034",
+                "resize": "fit",
+                "w": "1438"
+              },
+              "medium": {
+                "h": "863",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "489",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/sVXQfCnbg5"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/sVXQfCnbg5",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1630634848351326208/photo/1",
+            "id": "1630633451878764545",
+            "id_str": "1630633451878764545",
+            "indices": [
+              "147",
+              "170"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FqEsfCoaUAEpMwO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FqEsfCoaUAEpMwO.jpg",
+            "sizes": {
+              "large": {
+                "h": "1034",
+                "resize": "fit",
+                "w": "1438"
+              },
+              "medium": {
+                "h": "863",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "489",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/sVXQfCnbg5"
+          }
+        ]
+      },
+      "favorite_count": "50",
+      "favorited": false,
+      "full_text": "This terminal, shown under construction in 1983, does not look like this today. Which terminal at SFO is this?\n\n#SFOHistory #AvGeek #TriviaTuesday https://t.co/sVXQfCnbg5",
+      "id": "1630634848351326208",
+      "id_str": "1630634848351326208",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "7",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219545,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137155,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137155,
+    "wof:lastmodified": 1692219545,
+    "wof:name": "This terminal, shown under construction in 1983, does not look like this today. Which terminal at SFO is this?\n\n#SFOHistory #AvGeek #TriviaTuesday https://t.co/sVXQfCnbg5",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -1,0 +1,215 @@
+{
+  "id": 1880137609,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-01-04",
+    "date:cessation_upper": "2023-01-04",
+    "date:inception_lower": "2023-01-04",
+    "date:inception_upper": "2023-01-04",
+    "edtf:cessation": "2023-01-04T22:29:32Z",
+    "edtf:inception": "2023-01-04T22:29:32Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1672871372,
+      "created_at": "Wed Jan 04 22:29:32 +0000 2023",
+      "display_text_range": [
+        "0",
+        "273"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1610765399142076416"
+          ],
+          "editableUntil": "2023-01-04T22:59:32.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "228",
+              "249"
+            ],
+            "text": "victorianpaperedwall"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/4xTrqmTamk",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1610765399142076416/photo/1",
+            "id": "1610765115556761601",
+            "id_str": "1610765115556761601",
+            "indices": [
+              "250",
+              "273"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FlqWVqFaEAE4rRn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FlqWVqFaEAE4rRn.jpg",
+            "sizes": {
+              "large": {
+                "h": "1130",
+                "resize": "fit",
+                "w": "1130"
+              },
+              "medium": {
+                "h": "1130",
+                "resize": "fit",
+                "w": "1130"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/4xTrqmTamk"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/4xTrqmTamk",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1610765399142076416/photo/1",
+            "id": "1610765115556761601",
+            "id_str": "1610765115556761601",
+            "indices": [
+              "250",
+              "273"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FlqWVqFaEAE4rRn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FlqWVqFaEAE4rRn.jpg",
+            "sizes": {
+              "large": {
+                "h": "1130",
+                "resize": "fit",
+                "w": "1130"
+              },
+              "medium": {
+                "h": "1130",
+                "resize": "fit",
+                "w": "1130"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/4xTrqmTamk"
+          },
+          {
+            "display_url": "pic.twitter.com/4xTrqmTamk",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1610765399142076416/photo/1",
+            "id": "1610765142563913731",
+            "id_str": "1610765142563913731",
+            "indices": [
+              "250",
+              "273"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FlqWXOsagAMi58l.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FlqWXOsagAMi58l.jpg",
+            "sizes": {
+              "large": {
+                "h": "1837",
+                "resize": "fit",
+                "w": "1837"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/4xTrqmTamk"
+          }
+        ]
+      },
+      "favorite_count": "6",
+      "favorited": false,
+      "full_text": "The Victorians’ intense fascination with the exotic stemmed from popular novels, illustrated travelogues, exhibitions, and increasing travel by steamship. Entire rooms might be fashioned in Moorish or Japanese-inspired designs. #victorianpaperedwall https://t.co/4xTrqmTamk",
+      "id": "1610765399142076416",
+      "id_str": "1610765399142076416",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219557,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137609,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137609,
+    "wof:lastmodified": 1692219557,
+    "wof:name": "The Victorians’ intense fascination with the exotic stemmed from popular novels, illustrated travelogues, exhibitions, and increasing travel by steamship. Entire rooms might be fashioned in Moorish or Japanese-inspired designs. #victorianpaperedwall https://t.co/4xTrqmTamk",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

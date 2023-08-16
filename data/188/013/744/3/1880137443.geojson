@@ -1,0 +1,231 @@
+{
+  "id": 1880137443,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-01-26",
+    "date:cessation_upper": "2023-01-26",
+    "date:inception_lower": "2023-01-26",
+    "date:inception_upper": "2023-01-26",
+    "edtf:cessation": "2023-01-26T19:12:46Z",
+    "edtf:inception": "2023-01-26T19:12:46Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1674760366,
+      "created_at": "Thu Jan 26 19:12:46 +0000 2023",
+      "display_text_range": [
+        "0",
+        "298"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1618688416224546816"
+          ],
+          "editableUntil": "2023-01-26T19:42:46.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "226",
+              "234"
+            ],
+            "text": "catchme"
+          },
+          {
+            "indices": [
+              "235",
+              "249"
+            ],
+            "text": "franciscocruz"
+          },
+          {
+            "indices": [
+              "250",
+              "260"
+            ],
+            "text": "VideoArts"
+          },
+          {
+            "indices": [
+              "261",
+              "274"
+            ],
+            "text": "VideoArtsSFO"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/kVdOyoyIRn",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1618688416224546816/video/1",
+            "id": "1618686897177649152",
+            "id_str": "1618686897177649152",
+            "indices": [
+              "275",
+              "298"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FprahxRacAEZgYm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FprahxRacAEZgYm.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/kVdOyoyIRn"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/kVdOyoyIRn",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1618688416224546816/video/1",
+            "id": "1618686897177649152",
+            "id_str": "1618686897177649152",
+            "indices": [
+              "275",
+              "298"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FprahxRacAEZgYm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FprahxRacAEZgYm.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/kVdOyoyIRn",
+            "video_info": {
+              "aspect_ratio": [
+                "16",
+                "9"
+              ],
+              "duration_millis": "53762",
+              "variants": [
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1618686897177649152/pu/vid/640x360/Synh4VJYxQx_tPah.mp4?tag=12"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1618686897177649152/pu/vid/1280x720/N39z2O0cUDImbMtA.mp4?tag=12"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1618686897177649152/pu/vid/480x270/hJ-V0hpid73Bvp4K.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1618686897177649152/pu/pl/lrwSQWqhGN4decv9.m3u8?tag=12\u0026container=fmp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "In an homage to the unexpected passing of his acrobatic partner and brother, Raphael Cruz, Montreal-based filmmaker Francisco Cruz captures the intimate details of two circus acrobatic performers using hand-to-hand technique. #catchme #franciscocruz #VideoArts #VideoArtsSFO https://t.co/kVdOyoyIRn",
+      "id": "1618688416224546816",
+      "id_str": "1618688416224546816",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219553,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880137443,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880137443,
+    "wof:lastmodified": 1692219553,
+    "wof:name": "In an homage to the unexpected passing of his acrobatic partner and brother, Raphael Cruz, Montreal-based filmmaker Francisco Cruz captures the intimate details of two circus acrobatic performers using hand-to-hand technique. #catchme #franciscocruz #VideoArts #VideoArtsSFO https://t.co/kVdOyoyIRn",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

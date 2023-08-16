@@ -29,7 +29,7 @@
           "editTweetIds": [
             "416300290963668992"
           ],
-          "editableUntil": "2013-12-26T20:41:38.508Z",
+          "editableUntil": "2013-12-26T21:11:38.508Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
@@ -44,61 +44,19 @@
             "text": "snailcontainers"
           }
         ],
-        "media": [
+        "symbols": [],
+        "urls": [
           {
             "display_url": "pic.twitter.com/s9IhFS0xPi",
             "expanded_url": "https://twitter.com/MetaGrrrl/status/416299484667056128/photo/1",
-            "id": "416299484415422464",
-            "id_str": "416299484415422464",
             "indices": [
               "82",
               "104"
             ],
-            "media_url": "http://pbs.twimg.com/media/Bcb-LOjCcAAO7-u.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Bcb-LOjCcAAO7-u.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "416299484667056128",
-            "source_status_id_str": "416299484667056128",
-            "source_user_id": "6722",
-            "source_user_id_str": "6722",
-            "type": "photo",
             "url": "http://t.co/s9IhFS0xPi"
           }
         ],
-        "symbols": [],
-        "urls": [],
         "user_mentions": [
-          {
-            "id": "6722",
-            "id_str": "6722",
-            "indices": [
-              "14",
-              "24"
-            ],
-            "name": "Dinah 🇺🇦🕊",
-            "screen_name": "MetaGrrrl"
-          },
           {
             "id": "116329337",
             "id_str": "116329337",
@@ -111,51 +69,7 @@
           }
         ]
       },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/s9IhFS0xPi",
-            "expanded_url": "https://twitter.com/MetaGrrrl/status/416299484667056128/photo/1",
-            "id": "416299484415422464",
-            "id_str": "416299484415422464",
-            "indices": [
-              "82",
-              "104"
-            ],
-            "media_url": "http://pbs.twimg.com/media/Bcb-LOjCcAAO7-u.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Bcb-LOjCcAAO7-u.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "416299484667056128",
-            "source_status_id_str": "416299484667056128",
-            "source_user_id": "6722",
-            "source_user_id_str": "6722",
-            "type": "photo",
-            "url": "http://t.co/s9IhFS0xPi"
-          }
-        ]
-      },
-      "favorite_count": "1",
+      "favorite_count": "0",
       "favorited": false,
       "full_text": "We try :)  RT @MetaGrrrl: This museum has everything! @SFOMuseum #snailcontainers http://t.co/s9IhFS0xPi",
       "id": "416300290963668992",
@@ -194,7 +108,7 @@
       }
     ],
     "wof:id": 1729291301,
-    "wof:lastmodified": 1667496394,
+    "wof:lastmodified": 1692219577,
     "wof:name": "We try :)  RT @MetaGrrrl: This museum has everything! @SFOMuseum #snailcontainers http://t.co/s9IhFS0xPi",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -26,7 +26,7 @@
           "editTweetIds": [
             "1369719435838201860"
           ],
-          "editableUntil": "2021-03-10T19:08:56.317Z",
+          "editableUntil": "2021-03-10T19:38:56.317Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
@@ -35,25 +35,13 @@
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": [
-          {
-            "id": "319731408",
-            "id_str": "319731408",
-            "indices": [
-              "0",
-              "12"
-            ],
-            "name": "Darryl Ramm",
-            "screen_name": "darryl_ramm"
-          }
-        ]
+        "user_mentions": []
       },
-      "favorite_count": "1",
+      "favorite_count": "0",
       "favorited": false,
       "full_text": "@darryl_ramm You know, that’s a little bit of a mystery to us as well. It's most likely that the rooms were used by pilots, particularly airmail pilots, in need of an overnight crash pad.",
       "id": "1369719435838201860",
       "id_str": "1369719435838201860",
-      "in_reply_to_screen_name": "darryl_ramm",
       "in_reply_to_status_id": "1369452635783262210",
       "in_reply_to_status_id_str": "1369452635783262210",
       "in_reply_to_user_id": "319731408",
@@ -90,7 +78,7 @@
       }
     ],
     "wof:id": 1763511817,
-    "wof:lastmodified": 1667496402,
+    "wof:lastmodified": 1692219540,
     "wof:name": "@darryl_ramm You know, that’s a little bit of a mystery to us as well. It's most likely that the rooms were used by pilots, particularly airmail pilots, in need of an overnight crash pad.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

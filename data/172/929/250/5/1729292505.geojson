@@ -29,7 +29,7 @@
           "editTweetIds": [
             "136222092625580033"
           ],
-          "editableUntil": "2011-11-14T23:50:52.423Z",
+          "editableUntil": "2011-11-15T00:20:52.423Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
@@ -38,7 +38,18 @@
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": []
+        "user_mentions": [
+          {
+            "id": "1137905861337255936",
+            "id_str": "1137905861337255936",
+            "indices": [
+              "0",
+              "15"
+            ],
+            "name": "faith",
+            "screen_name": "trippinonlight"
+          }
+        ]
       },
       "favorite_count": "0",
       "favorited": false,
@@ -83,7 +94,7 @@
       }
     ],
     "wof:id": 1729292505,
-    "wof:lastmodified": 1667496400,
+    "wof:lastmodified": 1692219582,
     "wof:name": "@trippinonlight Our curators (one of whom plays Yma Sumac occasionally in our design lab) will be happy to hear that!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

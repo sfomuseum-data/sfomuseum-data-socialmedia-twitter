@@ -1,0 +1,191 @@
+{
+  "id": 1880138149,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-10-31",
+    "date:cessation_upper": "2022-10-31",
+    "date:inception_lower": "2022-10-31",
+    "date:inception_upper": "2022-10-31",
+    "edtf:cessation": "2022-10-31T23:43:01Z",
+    "edtf:inception": "2022-10-31T23:43:01Z",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1667259781,
+      "created_at": "Mon Oct 31 23:43:01 +0000 2022",
+      "display_text_range": [
+        "0",
+        "252"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1587228681369538561"
+          ],
+          "editableUntil": "2022-11-01T00:13:01.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "181",
+              "206"
+            ],
+            "text": "CaliforniaModernistWomen"
+          },
+          {
+            "indices": [
+              "207",
+              "228"
+            ],
+            "text": "MargueriteWildenhain"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PKTbleyAhO",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1587228681369538561/photo/1",
+            "id": "1587228449894109186",
+            "id_str": "1587228449894109186",
+            "indices": [
+              "229",
+              "252"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fgb33Z1VEAIocLm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fgb33Z1VEAIocLm.jpg",
+            "sizes": {
+              "large": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "medium": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PKTbleyAhO"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PKTbleyAhO",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1587228681369538561/photo/1",
+            "id": "1587228449894109186",
+            "id_str": "1587228449894109186",
+            "indices": [
+              "229",
+              "252"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fgb33Z1VEAIocLm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fgb33Z1VEAIocLm.jpg",
+            "sizes": {
+              "large": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "medium": {
+                "h": "810",
+                "resize": "fit",
+                "w": "1100"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PKTbleyAhO"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Two years later in 1942, she was the first resident at Pond Farm, an art colony and refuge for European artists near Guerneville in the Russian River Valley of Northern California. #CaliforniaModernistWomen #MargueriteWildenhain https://t.co/PKTbleyAhO",
+      "id": "1587228681369538561",
+      "id_str": "1587228681369538561",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1587228675329572864",
+      "in_reply_to_status_id_str": "1587228675329572864",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1692219571,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1880138149,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1880138149,
+    "wof:lastmodified": 1692219571,
+    "wof:name": "Two years later in 1942, she was the first resident at Pond Farm, an art colony and refuge for European artists near Guerneville in the Russian River Valley of Northern California. #CaliforniaModernistWomen #MargueriteWildenhain https://t.co/PKTbleyAhO",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

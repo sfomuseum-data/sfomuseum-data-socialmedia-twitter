@@ -29,7 +29,7 @@
           "editTweetIds": [
             "1048253512339976192"
           ],
-          "editableUntil": "2018-10-05T17:18:07.607Z",
+          "editableUntil": "2018-10-05T17:48:07.607Z",
           "editsRemaining": "5",
           "isEditEligible": true
         }
@@ -48,7 +48,18 @@
             "url": "https://t.co/1nHbV7kJKM"
           }
         ],
-        "user_mentions": []
+        "user_mentions": [
+          {
+            "id": "1650915041582157825",
+            "id_str": "1650915041582157825",
+            "indices": [
+              "0",
+              "15"
+            ],
+            "name": "CaliforniaLove",
+            "screen_name": "CaliforniaGlow"
+          }
+        ]
       },
       "favorite_count": "0",
       "favorited": false,
@@ -94,7 +105,7 @@
       }
     ],
     "wof:id": 1729304435,
-    "wof:lastmodified": 1667496379,
+    "wof:lastmodified": 1692219554,
     "wof:name": "@californiaglow Wow! Thanks so much for sharing your walkthrough! We are so glad you enjoyed our exhibition! What was your favorite object? https://t.co/1nHbV7kJKM",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
