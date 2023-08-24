@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "OrangeOctober",
+      "gogiants"
+    ],
     "twitter:tweet": {
       "created": 1351273843,
       "created_at": "Fri Oct 26 17:50:43 +0000 2012",
@@ -108,6 +112,11 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "ATCPeter",
+      "SFGiants",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -135,7 +144,7 @@
       }
     ],
     "wof:id": 1729310977,
-    "wof:lastmodified": 1692219579,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Awesome! #OrangeOctober RT @ATCPeter: The @sfgiants get a water cannon salute leaving @flySFO today. #gogiants http://t.co/FD4D6v5V",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

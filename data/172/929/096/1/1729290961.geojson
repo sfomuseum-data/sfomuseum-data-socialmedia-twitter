@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "airport",
+      "SanFrancisco"
+    ],
     "twitter:tweet": {
       "created": 1383598022,
       "created_at": "Mon Nov 04 20:47:02 +0000 2013",
@@ -77,6 +81,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "travelshopgirl"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -104,7 +111,7 @@
       }
     ],
     "wof:id": 1729290961,
-    "wof:lastmodified": 1692219577,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @travelshopgirl: Awesome Japanese toy exhibit set to open shortly at SFO. We took a sneak peek! #airport #SanFrancisco… http://t.co/Gzmk…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

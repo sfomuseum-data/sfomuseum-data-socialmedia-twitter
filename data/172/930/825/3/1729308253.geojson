@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "MangaDrawingClub",
+      "MuseumFromHome"
+    ],
     "twitter:tweet": {
       "created": 1585968304,
       "created_at": "Sat Apr 04 02:45:04 +0000 2020",
@@ -166,6 +170,9 @@
       "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "artschoolsfbay"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -193,7 +200,7 @@
       }
     ],
     "wof:id": 1729308253,
-    "wof:lastmodified": 1692219544,
+    "wof:lastmodified": 1692895851,
     "wof:name": "See drawings from the Art School of San Francisco Bay’s #MangaDrawingClub online at: https://t.co/rqMqJf9PGR #MuseumFromHome @artschoolsfbay https://t.co/vzeEdLRlC5",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

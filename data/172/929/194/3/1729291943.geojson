@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "japanesetoys",
+      "kaiju"
+    ],
     "twitter:tweet": {
       "created": 1398220406,
       "created_at": "Wed Apr 23 02:33:26 +0000 2014",
@@ -98,6 +102,10 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "maxtoyco",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -125,7 +133,7 @@
       }
     ],
     "wof:id": 1729291943,
-    "wof:lastmodified": 1692219576,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @maxtoyco: @sfomuseum Just finished my talk with Bandai Toys Nonaka-San  #japanesetoys ! At SFO airport #kaiju… http://t.co/Mjvz4COsUz",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1460158090,
       "created_at": "Fri Apr 08 23:28:10 +0000 2016",
@@ -81,6 +84,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "Eli_Imperial"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -108,7 +114,7 @@
       }
     ],
     "wof:id": 1729295711,
-    "wof:lastmodified": 1692219573,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @Eli_Imperial: #SFO aviation museum @ San Francisco International Airport (SFO) https://t.co/R1i45nWXE6",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

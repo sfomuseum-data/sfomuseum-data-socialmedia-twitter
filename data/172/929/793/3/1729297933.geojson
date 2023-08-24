@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "52Museums",
+      "MuseumMonday"
+    ],
     "twitter:tweet": {
       "created": 1474332012,
       "created_at": "Tue Sep 20 00:40:12 +0000 2016",
@@ -156,6 +160,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "52Museums"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -183,7 +190,7 @@
       }
     ],
     "wof:id": 1729297933,
-    "wof:lastmodified": 1692219570,
+    "wof:lastmodified": 1692895852,
     "wof:name": "We'll be taking over the @52Museums account on October 31st! #52Museums #MuseumMonday https://t.co/cxpPAQFoMh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

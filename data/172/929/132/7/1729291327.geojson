@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "traveling",
+      "publicart"
+    ],
     "twitter:tweet": {
       "created": 1387568016,
       "created_at": "Fri Dec 20 19:33:36 +0000 2013",
@@ -108,6 +112,11 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "PQPP3",
+      "flySFO",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -135,7 +144,7 @@
       }
     ],
     "wof:id": 1729291327,
-    "wof:lastmodified": 1692219577,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @PQPP3: If you r #traveling this season thru @flysfo check out all the great #publicart @SFOMuseum http://t.co/QJaKA5XxT4 http://t.co/I8…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "HNL"
+    ],
     "twitter:tweet": {
       "created": 1510074745,
       "created_at": "Tue Nov 07 17:12:25 +0000 2017",
@@ -90,6 +93,11 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "airlinemaps",
+      "united",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -117,7 +125,7 @@
       }
     ],
     "wof:id": 1729301597,
-    "wof:lastmodified": 1692219560,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @airlinemaps: Today is @united's last 747 flight, recreating its 1st jumbo jet flight from @flySFO to #HNL in 1970. https://t.co/UotMPwk…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

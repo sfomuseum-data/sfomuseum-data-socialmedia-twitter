@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "PanAm",
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1596840960,
       "created_at": "Fri Aug 07 22:56:00 +0000 2020",
@@ -88,6 +92,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "panamhistory"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -115,7 +122,7 @@
       }
     ],
     "wof:id": 1729308639,
-    "wof:lastmodified": 1692219543,
+    "wof:lastmodified": 1692895851,
     "wof:name": "Are you looking for some fun weekend entertainment? Our friends at the Pan Am Historical Foundation (@panamhistory), helped produce \"Across the Pacific\", a 3-part documentary on the founding and early history of #PanAm! See the first part here: https://t.co/mGhb92i7Yb #avgeek",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

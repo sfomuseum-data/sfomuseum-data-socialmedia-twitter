@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "OTD",
+      "avgeek",
+      "flashback"
+    ],
     "twitter:tweet": {
       "created": 1493842302,
       "created_at": "Wed May 03 20:11:42 +0000 2017",
@@ -84,6 +89,9 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "BoeingAirplanes"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -111,7 +119,7 @@
       }
     ],
     "wof:id": 1729300019,
-    "wof:lastmodified": 1692219565,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @BoeingAirplanes: #OTD 7 years ago, we began assembly on the first 747-8i. Turn your sound on for this one. #avgeek #flashback https://t…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

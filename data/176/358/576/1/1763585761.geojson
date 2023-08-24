@@ -14,6 +14,9 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1635797818,
       "created_at": "Mon Nov 01 20:16:58 +0000 2021",
@@ -164,6 +167,10 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "pankajsuman330"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -190,7 +197,7 @@
       }
     ],
     "wof:id": 1763585761,
-    "wof:lastmodified": 1692219537,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @flySFO: Happy November from #SFO!\n\n📸 @pankajsuman330 https://t.co/7JdnQ2FoWl",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

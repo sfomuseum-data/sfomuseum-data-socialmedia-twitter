@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "AskACurator"
+    ],
     "twitter:tweet": {
       "created": 1473869462,
       "created_at": "Wed Sep 14 16:11:02 +0000 2016",
@@ -75,6 +78,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "sfbrent"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -102,7 +108,7 @@
       }
     ],
     "wof:id": 1729297813,
-    "wof:lastmodified": 1692219570,
+    "wof:lastmodified": 1692895852,
     "wof:name": "@sfbrent Great question! Each uniform piece is cataloged and tagged individually with its own number. #AskACurator",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

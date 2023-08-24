@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "MuseumOlympics"
+    ],
     "twitter:tweet": {
       "created": 1344018551,
       "created_at": "Fri Aug 03 18:29:11 +0000 2012",
@@ -85,6 +88,10 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SOCPMuseum",
+      "asianartmuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -112,7 +119,7 @@
       }
     ],
     "wof:id": 1729310243,
-    "wof:lastmodified": 1692219579,
+    "wof:lastmodified": 1692895853,
     "wof:name": "@SOCPMuseum @AsianArtMuseum Perfect! You wouldn't know it to look at our horse, but bronze is in the bag! #MuseumOlympics",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

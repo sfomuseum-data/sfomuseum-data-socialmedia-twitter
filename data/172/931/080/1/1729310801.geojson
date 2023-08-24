@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "instantcalm"
+    ],
     "twitter:tweet": {
       "created": 1349474702,
       "created_at": "Fri Oct 05 22:05:02 +0000 2012",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "pattonoswalt",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729310801,
-    "wof:lastmodified": 1692219579,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Aww, you're making us blush :) RT @pattonoswalt: .@SFOMuseum  You guys are seriously the best. If only every airport had you... #instantcalm",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

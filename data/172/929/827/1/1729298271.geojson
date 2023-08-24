@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "DeltaRunwayReveal"
+    ],
     "twitter:tweet": {
       "created": 1476822888,
       "created_at": "Tue Oct 18 20:34:48 +0000 2016",
@@ -167,6 +170,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "airlineguys",
+      "Zac_Posen"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -194,7 +201,7 @@
       }
     ],
     "wof:id": 1729298271,
-    "wof:lastmodified": 1692219569,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @airlineguys: @Zac_Posen kept the full-figured woman in mind #DeltaRunwayReveal https://t.co/Lxn8XyIzeT",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

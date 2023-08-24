@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "NationalAviationDay"
+    ],
     "twitter:tweet": {
       "created": 1440025805,
       "created_at": "Wed Aug 19 23:10:05 +0000 2015",
@@ -167,6 +170,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "NASA"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -194,7 +200,7 @@
       }
     ],
     "wof:id": 1729293873,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @NASA: How will you celebrate #NationalAviationDay today? Here's our 10 favorite ways: http://t.co/RnigZtrKK9 http://t.co/5EjTRZJ1Pj",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

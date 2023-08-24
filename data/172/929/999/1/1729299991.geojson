@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "A321neo"
+    ],
     "twitter:tweet": {
       "created": 1492704549,
       "created_at": "Thu Apr 20 16:09:09 +0000 2017",
@@ -177,6 +180,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "Airbus",
+      "VirginAmerica"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -204,7 +211,7 @@
       }
     ],
     "wof:id": 1729299991,
-    "wof:lastmodified": 1692219565,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @Airbus: Congrats @VirginAmerica on being the world’s first #A321neo operator! ✈️ 🇺🇸 https://t.co/YJvc9okxYJ https://t.co/RB86Zo8Dv4",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

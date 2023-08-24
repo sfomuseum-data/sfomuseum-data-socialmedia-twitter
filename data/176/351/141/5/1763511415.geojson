@@ -14,6 +14,10 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "MaskOnStayStrong",
+      "MaskOnSFO"
+    ],
     "twitter:tweet": {
       "created": 1607668638,
       "created_at": "Fri Dec 11 06:37:18 +0000 2020",
@@ -281,6 +285,9 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -307,7 +314,7 @@
       }
     ],
     "wof:id": 1763511415,
-    "wof:lastmodified": 1692219542,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @flySFO: 🎶 Droppin' soon 😷 🎶\n\n#MaskOnStayStrong\n#MaskOnSFO https://t.co/PT5SQ6DGH0",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

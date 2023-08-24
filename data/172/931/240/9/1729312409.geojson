@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "reuse",
+      "waste"
+    ],
     "twitter:tweet": {
       "created": 1375376107,
       "created_at": "Thu Aug 01 16:55:07 +0000 2013",
@@ -77,6 +81,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "katemcginnis"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -104,7 +111,7 @@
       }
     ],
     "wof:id": 1729312409,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @katemcginnis: Enjoyed the Art of Recology exhibit @ SFO this afternoon. Good reminder that #reuse is a great way to minimize #waste. Cc…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

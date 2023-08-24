@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sniff",
+      "ultraman",
+      "SFOmuseum"
+    ],
     "twitter:tweet": {
       "created": 1372714725,
       "created_at": "Mon Jul 01 21:38:45 +0000 2013",
@@ -95,6 +100,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "maxtoyco"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -122,7 +130,7 @@
       }
     ],
     "wof:id": 1729312223,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @maxtoyco: Original #ultraman suit leaving for #SFOmuseum Japanese Toy exhibit #sniff http://t.co/rMIvmTTalZ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

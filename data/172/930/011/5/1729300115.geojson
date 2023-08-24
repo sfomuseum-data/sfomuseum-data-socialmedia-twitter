@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFOHistory",
+      "TBT"
+    ],
     "twitter:tweet": {
       "created": 1493953212,
       "created_at": "Fri May 05 03:00:12 +0000 2017",
@@ -166,6 +170,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -193,7 +200,7 @@
       }
     ],
     "wof:id": 1729300115,
-    "wof:lastmodified": 1692219565,
+    "wof:lastmodified": 1692895852,
     "wof:name": "This year @flySFO turns 90! See photos of the airport throughout the years in our online database! https://t.co/ZQC3yeQ2y8 #SFOHistory #TBT https://t.co/NMOnhxRATj",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

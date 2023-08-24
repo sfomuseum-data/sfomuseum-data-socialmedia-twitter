@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "A350",
+      "sfo"
+    ],
     "twitter:tweet": {
       "created": 1509335338,
       "created_at": "Mon Oct 30 03:48:58 +0000 2017",
@@ -174,6 +178,10 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "cathaypacificUS"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -201,7 +209,7 @@
       }
     ],
     "wof:id": 1729301473,
-    "wof:lastmodified": 1692219560,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: Celebrating the arrival of @cathaypacificUS #A350!!! #sfo https://t.co/Ernw9QBnAy",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfo",
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1466457842,
       "created_at": "Mon Jun 20 21:24:02 +0000 2016",
@@ -174,6 +178,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "SaudiEmbassyUSA"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -201,7 +209,7 @@
       }
     ],
     "wof:id": 1729296503,
-    "wof:lastmodified": 1692219572,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: Saudi Arabian Prince visit #sfo #avgeek @SaudiEmbassyUSA https://t.co/BsGuGHUE2n",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

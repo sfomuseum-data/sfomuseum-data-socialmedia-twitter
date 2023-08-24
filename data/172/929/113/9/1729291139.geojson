@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO",
+      "JapaneseToys"
+    ],
     "twitter:tweet": {
       "created": 1386184365,
       "created_at": "Wed Dec 04 19:12:45 +0000 2013",
@@ -93,6 +97,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "midlifemixtape"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -120,7 +127,7 @@
       }
     ],
     "wof:id": 1729291139,
-    "wof:lastmodified": 1692219577,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Best compliment possible :) RT @midlifemixtape: #SFO has the best museum exhibits, even at 5:00 am: #JapaneseToys http://t.co/NhJVzKRoU2",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

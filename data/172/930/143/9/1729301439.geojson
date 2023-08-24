@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "3XCX"
+    ],
     "twitter:tweet": {
       "created": 1508872381,
       "created_at": "Tue Oct 24 19:13:01 +0000 2017",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "cathaypacific"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729301439,
-    "wof:lastmodified": 1692219560,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: Enter the #3XCX Trivia Contest at https://t.co/adVN3rgWDj by 11/6, for a chance to win a trip to Hong Kong on @cathaypacific ht…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

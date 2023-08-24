@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "onthisday",
+      "PanAm",
+      "MuseumFromHome"
+    ],
     "twitter:tweet": {
       "created": 1585705507,
       "created_at": "Wed Apr 01 01:45:07 +0000 2020",
@@ -163,6 +168,9 @@
       "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "panamhistory"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -190,7 +198,7 @@
       }
     ],
     "wof:id": 1729308163,
-    "wof:lastmodified": 1692219544,
+    "wof:lastmodified": 1692895851,
     "wof:name": "The Pan Am Historical Foundation (@panamhistory) was established #onthisday in 1992 by a group of former #PanAm employees to preserve and promote the unique heritage of Pan American World Airways, Inc. Thank you for your donations to the SFO Museum collection. #MuseumFromHome https://t.co/6HoAvIoLZP",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

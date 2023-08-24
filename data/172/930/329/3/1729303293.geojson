@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO",
+      "Nonstopicelandair"
+    ],
     "twitter:tweet": {
       "created": 1527698198,
       "created_at": "Wed May 30 16:36:38 +0000 2018",
@@ -88,6 +92,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -115,7 +122,7 @@
       }
     ],
     "wof:id": 1729303293,
-    "wof:lastmodified": 1692219556,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: #SFO Enter the #Nonstopicelandair Trivia contest at https://t.co/UyLoH3axyU by June 6, for a chance to win 2 economy class tick…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

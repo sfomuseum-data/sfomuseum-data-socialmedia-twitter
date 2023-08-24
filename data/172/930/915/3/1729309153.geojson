@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "music",
+      "classical"
+    ],
     "twitter:tweet": {
       "created": 1333988154,
       "created_at": "Mon Apr 09 16:15:54 +0000 2012",
@@ -98,6 +102,10 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFSymphony",
+      "silberman11"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -125,7 +133,7 @@
       }
     ],
     "wof:id": 1729309153,
-    "wof:lastmodified": 1692219580,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Celebrating @SFSymphony's 100 years of excellence! RT @silberman11: Cool SFS exhibit at SFO #music #classical http://t.co/16cNPdcB",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "AskACurator",
+      "bestkeptsecret"
+    ],
     "twitter:tweet": {
       "created": 1348081096,
       "created_at": "Wed Sep 19 18:58:16 +0000 2012",
@@ -82,6 +86,9 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "CurateReynolda"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -109,7 +116,7 @@
       }
     ],
     "wof:id": 1729310547,
-    "wof:lastmodified": 1692219579,
+    "wof:lastmodified": 1692895853,
     "wof:name": "@CurateReynolda That our collection (museum, library, \u0026amp; archives) totals 75k+ objects \u0026amp; we're open 24hrs a day #AskACurator #bestkeptsecret",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

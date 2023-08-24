@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "JapaneseToys"
+    ],
     "twitter:tweet": {
       "created": 1382561009,
       "created_at": "Wed Oct 23 20:43:29 +0000 2013",
@@ -85,6 +88,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "scottthepainter",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -112,7 +119,7 @@
       }
     ],
     "wof:id": 1729290921,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "'Japanese Toys! From Kokeshi to Kaiju' should be equally eye-catching! #JapaneseToys RT @scottthepainter: @SFOMuseum oooo what's next?",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

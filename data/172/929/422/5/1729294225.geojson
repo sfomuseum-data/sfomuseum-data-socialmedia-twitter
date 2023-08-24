@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "MyKindOfMuseum"
+    ],
     "twitter:tweet": {
       "created": 1322511436,
       "created_at": "Mon Nov 28 20:17:16 +0000 2011",
@@ -81,6 +84,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "monocase"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -108,7 +114,7 @@
       }
     ],
     "wof:id": 1729294225,
-    "wof:lastmodified": 1692219582,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @monocase: Nice to see DJ Qbert's wares on display in SFO #MyKindOfMuseum . http://t.co/bcsCBVEW",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

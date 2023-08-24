@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfo"
+    ],
     "twitter:tweet": {
       "created": 1321897081,
       "created_at": "Mon Nov 21 17:38:01 +0000 2011",
@@ -81,6 +84,9 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "WKGPCREW"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -108,7 +114,7 @@
       }
     ],
     "wof:id": 1729293087,
-    "wof:lastmodified": 1692219582,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @WKGPCREW: They built this city on rock and roll #sfo music exhibit http://t.co/vf7HBqcE",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

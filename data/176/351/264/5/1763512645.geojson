@@ -14,6 +14,9 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1626296476,
       "created_at": "Wed Jul 14 21:01:16 +0000 2021",
@@ -195,6 +198,10 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "USAGym"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -221,7 +228,7 @@
       }
     ],
     "wof:id": 1763512645,
-    "wof:lastmodified": 1692219538,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @flySFO: #SFO to Tokyo! 🇺🇸 @USAGym is off to Japan! 🇺🇸🥳 https://t.co/GsZMYzsgrE",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

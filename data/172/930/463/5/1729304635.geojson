@@ -17,6 +17,12 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Boeing",
+      "SFO",
+      "onthisday",
+      "UA747Farewell"
+    ],
     "twitter:tweet": {
       "created": 1541631924,
       "created_at": "Wed Nov 07 23:05:24 +0000 2018",
@@ -102,6 +108,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "united"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -129,7 +138,7 @@
       }
     ],
     "wof:id": 1729304635,
-    "wof:lastmodified": 1692219553,
+    "wof:lastmodified": 1692895851,
     "wof:name": "The last scheduled United #Boeing #747 flight took off from #SFO to Honolulu #onthisday in 2017. The plane, painted in a classic livery, departed at 11AM. The celebration including a visit from United CEO Oscar Munoz. ⚡️ “#UA747Farewell ” by @united\n\nhttps://t.co/O49WFZmP0o",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

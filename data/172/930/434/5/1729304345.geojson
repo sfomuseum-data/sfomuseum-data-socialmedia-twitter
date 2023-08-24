@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "PanAm",
+      "747s"
+    ],
     "twitter:tweet": {
       "created": 1538589922,
       "created_at": "Wed Oct 03 18:05:22 +0000 2018",
@@ -77,6 +81,9 @@
       "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "panamhistory"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -104,7 +111,7 @@
       }
     ],
     "wof:id": 1729304345,
-    "wof:lastmodified": 1692219554,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @panamhistory: October 3, 1970 #PanAm received one of its first #747s from Boeing: N747PA Clipper Juan T. Trippe (aka Clipper America) s…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

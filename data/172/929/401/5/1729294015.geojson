@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "KirksMonster",
+      "Periscope"
+    ],
     "twitter:tweet": {
       "created": 1442362774,
       "created_at": "Wed Sep 16 00:19:34 +0000 2015",
@@ -98,6 +102,10 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "maxelope",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -125,7 +133,7 @@
       }
     ],
     "wof:id": 1729294015,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @maxelope: 🔴 Live in 2hrs: horror 🎥 💀 🎸movie memorabilia #KirksMonster Exhibit @SFOMuseum on #Periscope http://t.co/J97hnlMRWn",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

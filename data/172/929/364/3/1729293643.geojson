@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "avgeek",
+      "airports"
+    ],
     "twitter:tweet": {
       "created": 1437591319,
       "created_at": "Wed Jul 22 18:55:19 +0000 2015",
@@ -87,6 +91,10 @@
       "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "tomhalltravel",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -114,7 +122,7 @@
       }
     ],
     "wof:id": 1729293643,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @tomhalltravel: . @flySFO great aviation museum and library. Clipper route history. And these playing cards! #avgeek #airports http://t.…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

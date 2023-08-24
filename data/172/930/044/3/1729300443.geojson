@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "AFTACON"
+    ],
     "twitter:tweet": {
       "created": 1497572435,
       "created_at": "Fri Jun 16 00:20:35 +0000 2017",
@@ -159,6 +162,10 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFAC",
+      "Americans4Arts"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -186,7 +193,7 @@
       }
     ],
     "wof:id": 1729300443,
-    "wof:lastmodified": 1692219564,
+    "wof:lastmodified": 1692895852,
     "wof:name": "Helping @SFAC kick off  @Americans4Arts #AFTACON with a tour of public art in the terminals! https://t.co/MAAde743nX",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

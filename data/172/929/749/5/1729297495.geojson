@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "MD80s",
+      "Super80SendOff"
+    ],
     "twitter:tweet": {
       "created": 1471977604,
       "created_at": "Tue Aug 23 18:40:04 +0000 2016",
@@ -294,6 +298,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "AirwaysLive",
+      "AmericanAir"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -321,7 +329,7 @@
       }
     ],
     "wof:id": 1729297495,
-    "wof:lastmodified": 1692219570,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @airwayslive: 13 @AmericanAir #MD80s have arrived at RAC so far on #Super80SendOff from around the USA https://t.co/z89aVCdmyy",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "astrohadfield"
+    ],
     "twitter:tweet": {
       "created": 1345837177,
       "created_at": "Fri Aug 24 19:39:37 +0000 2012",
@@ -111,6 +114,11 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "csa_asc",
+      "SFOMuseum",
+      "datachick"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -138,7 +146,7 @@
       }
     ],
     "wof:id": 1729310501,
-    "wof:lastmodified": 1692219579,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @csa_asc: Chris 2D and aviation gear @SFOMuseum: perfect match! RT @datachick: @csa_asc http://t.co/lGtlmqfs… \u0026lt; Sharing #astrohadfield",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

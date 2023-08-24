@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Love",
+      "SFO",
+      "Pride"
+    ],
     "twitter:tweet": {
       "created": 1372355131,
       "created_at": "Thu Jun 27 17:45:31 +0000 2013",
@@ -171,6 +176,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -198,7 +206,7 @@
       }
     ],
     "wof:id": 1729312255,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "#Love RT @flysfo: Our Rainbow colors are a beautiful sight!  #SFO #Pride http://t.co/6QBkjaimZx",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

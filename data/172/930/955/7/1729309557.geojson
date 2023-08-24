@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "FF"
+    ],
     "twitter:tweet": {
       "created": 1337382249,
       "created_at": "Fri May 18 23:04:09 +0000 2012",
@@ -140,6 +143,16 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "mocfa",
+      "Jewseum",
+      "SFArtEnthusiast",
+      "deyoungmuseum",
+      "legionofhonor",
+      "SFMOMA",
+      "sfmexicanmuseum",
+      "cartoonart"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -167,7 +180,7 @@
       }
     ],
     "wof:id": 1729309557,
-    "wof:lastmodified": 1692219580,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @SFArtEnthusiast: #FF Art Museum Day! @deyoungmuseum @LegionofHonor @SFMOMA @sfmexicanmuseum @cartoonart @mocfa @Jewseum @asianartmus ...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfo"
+    ],
     "twitter:tweet": {
       "created": 1503950491,
       "created_at": "Mon Aug 28 20:01:31 +0000 2017",
@@ -81,6 +84,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -108,7 +114,7 @@
       }
     ],
     "wof:id": 1729301047,
-    "wof:lastmodified": 1692219563,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: Thanks for coming, glad you had a great time! #sfo https://t.co/1M1Tv0NY6H",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

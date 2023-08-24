@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "FlySFO"
+    ],
     "twitter:tweet": {
       "created": 1465576878,
       "created_at": "Fri Jun 10 16:41:18 +0000 2016",
@@ -167,6 +170,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "wow_air",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -194,7 +201,7 @@
       }
     ],
     "wof:id": 1729296411,
-    "wof:lastmodified": 1692219573,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @wow_air: Yeah, we just touched down in San Fran for the first time ever and @FlySFO just lit up! #FlySFO https://t.co/N6WBzHm8Ki",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "PanAm"
+    ],
     "twitter:tweet": {
       "created": 1511389115,
       "created_at": "Wed Nov 22 22:18:35 +0000 2017",
@@ -70,6 +73,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "panamhistory"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -97,7 +103,7 @@
       }
     ],
     "wof:id": 1729301761,
-    "wof:lastmodified": 1692219560,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @panamhistory: Nov. 22, 1935: #PanAm M-130 China Clipper lifts off San Francisco Bay on her historic journey across the Pacific. \nhttps:…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

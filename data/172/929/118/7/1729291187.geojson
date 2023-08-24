@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "HelloKitty"
+    ],
     "twitter:tweet": {
       "created": 1385401333,
       "created_at": "Mon Nov 25 17:42:13 +0000 2013",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "bonniegrrl",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729291187,
-    "wof:lastmodified": 1692219577,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @bonniegrrl: The giant #HelloKitty in the \"Japanese Toys\" exhibit at @SFOMuseum should always be there to greet travelers! http://t.co/4…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

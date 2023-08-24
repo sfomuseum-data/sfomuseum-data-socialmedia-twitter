@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "throwbackthursday",
+      "tbt"
+    ],
     "twitter:tweet": {
       "created": 1380840557,
       "created_at": "Thu Oct 03 22:49:17 +0000 2013",
@@ -88,6 +92,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -115,7 +122,7 @@
       }
     ],
     "wof:id": 1729290893,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "A lot has changed since 1959, but @flySFO is still recognizable in this photo: http://t.co/YDc6Sqr2zo #throwbackthursday #tbt",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

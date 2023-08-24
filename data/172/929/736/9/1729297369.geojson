@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "ArtandDisability"
+    ],
     "twitter:tweet": {
       "created": 1470847732,
       "created_at": "Wed Aug 10 16:48:52 +0000 2016",
@@ -167,6 +170,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "LCarlin_anthro",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -194,7 +201,7 @@
       }
     ],
     "wof:id": 1729297369,
-    "wof:lastmodified": 1692219571,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @LCarlin_anthro: \"Because there is not enough happiness\": #ArtandDisability @SFOMuseum https://t.co/nczWpEmbRF",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

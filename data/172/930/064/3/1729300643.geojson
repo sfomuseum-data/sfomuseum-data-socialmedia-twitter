@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "tbt",
+      "republicairlines",
+      "retro"
+    ],
     "twitter:tweet": {
       "created": 1499360040,
       "created_at": "Thu Jul 06 16:54:00 +0000 2017",
@@ -181,6 +186,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "airlineguys"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -208,7 +216,7 @@
       }
     ],
     "wof:id": 1729300643,
-    "wof:lastmodified": 1692219564,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @airlineguys: \"Nobody serves our republic like Republic\" https://t.co/W6HmTMj9kc #tbt #republicairlines #retro https://t.co/OC6rL490TR",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "contemporaryart",
+      "contemporaryglass",
+      "fineart"
+    ],
     "twitter:tweet": {
       "created": 1417642586,
       "created_at": "Wed Dec 03 21:36:26 +0000 2014",
@@ -84,6 +89,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "MicaelaGallery"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -111,7 +119,7 @@
       }
     ],
     "wof:id": 1729292813,
-    "wof:lastmodified": 1692219576,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @MicaelaGallery: Marvin Lipofsky and colleagues on exhibition at Terminal 2, SFO museum #contemporaryart #contemporaryglass #fineart htt…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

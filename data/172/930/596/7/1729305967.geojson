@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Honolulu",
+      "PanAm"
+    ],
     "twitter:tweet": {
       "created": 1555535896,
       "created_at": "Wed Apr 17 21:18:16 +0000 2019",
@@ -77,6 +81,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "panamhistory"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -104,7 +111,7 @@
       }
     ],
     "wof:id": 1729305967,
-    "wof:lastmodified": 1692219550,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @panamhistory: Apr. 17,1935 S-42 Pan American Clipper NC823M arrived in #Honolulu w/ Capt. Ed Musick piloting, the beginning of #PanAm’s…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

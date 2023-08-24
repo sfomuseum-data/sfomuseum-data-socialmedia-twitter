@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "TBT",
+      "airports"
+    ],
     "twitter:tweet": {
       "created": 1459443297,
       "created_at": "Thu Mar 31 16:54:57 +0000 2016",
@@ -98,6 +102,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "AAAEDelivers"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -125,7 +133,7 @@
       }
     ],
     "wof:id": 1729295679,
-    "wof:lastmodified": 1692219574,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @AAAEDelivers: Hangar No. 1 at Mills Field (now part of @flySFO) in 1928. More pics here: https://t.co/rmldmmlq2K #TBT #airports https:/…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

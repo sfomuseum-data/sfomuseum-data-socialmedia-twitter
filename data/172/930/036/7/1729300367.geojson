@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "OnThisDay"
+    ],
     "twitter:tweet": {
       "created": 1497309827,
       "created_at": "Mon Jun 12 23:23:47 +0000 2017",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "AirlineGeeks",
+      "BoeingAirplanes"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729300367,
-    "wof:lastmodified": 1692219565,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @AirlineGeeks: #OnThisDay in 1994, the @BoeingAirplanes 777 took to the skies for the first time. Nearly 1,500 fly today. 🛫\n\nWatch: http…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

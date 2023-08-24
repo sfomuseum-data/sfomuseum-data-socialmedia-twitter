@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "TheNationsGame",
+      "SB50"
+    ],
     "twitter:tweet": {
       "created": 1454384711,
       "created_at": "Tue Feb 02 03:45:11 +0000 2016",
@@ -166,6 +170,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "NFL",
+      "49ers"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -193,7 +201,7 @@
       }
     ],
     "wof:id": 1729295157,
-    "wof:lastmodified": 1692219574,
+    "wof:lastmodified": 1692895852,
     "wof:name": "The @49ers were the first franchise in @NFL history to earn five Super Bowl titles. #TheNationsGame #SB50 https://t.co/7rGnWxBX6R",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

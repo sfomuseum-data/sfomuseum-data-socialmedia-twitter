@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "MuseumBabe"
+    ],
     "twitter:tweet": {
       "created": 1327095783,
       "created_at": "Fri Jan 20 21:43:03 +0000 2012",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "museumbabes",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729303477,
-    "wof:lastmodified": 1692219581,
+    "wof:lastmodified": 1692895853,
     "wof:name": "#MuseumBabe photobomb! RT @CarrianHarwig: @museumbabes Checking out a very unique exhibit @SFOMuseum http://t.co/2IRukYmq",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

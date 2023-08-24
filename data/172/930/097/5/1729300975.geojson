@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "solareclipse2017",
+      "sfo"
+    ],
     "twitter:tweet": {
       "created": 1503341607,
       "created_at": "Mon Aug 21 18:53:27 +0000 2017",
@@ -164,6 +168,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -191,7 +198,7 @@
       }
     ],
     "wof:id": 1729300975,
-    "wof:lastmodified": 1692219563,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: In case you missed it! #solareclipse2017 #sfo https://t.co/ajzFpmoW4C",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "pride"
+    ],
     "twitter:tweet": {
       "created": 1529611684,
       "created_at": "Thu Jun 21 20:08:04 +0000 2018",
@@ -159,6 +162,10 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "Mugwumpin",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -186,7 +193,7 @@
       }
     ],
     "wof:id": 1729303505,
-    "wof:lastmodified": 1692219556,
+    "wof:lastmodified": 1692895852,
     "wof:name": "Join SFO Museum and @mugwumpin for #pride fun and celebration in the International Terminal at @flySFO today until 3 and tomorrow from 11-3. https://t.co/milWHSSGZZ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

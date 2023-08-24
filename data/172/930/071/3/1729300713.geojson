@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Beluga",
+      "BelugaXL"
+    ],
     "twitter:tweet": {
       "created": 1500569829,
       "created_at": "Thu Jul 20 16:57:09 +0000 2017",
@@ -77,6 +81,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "Airbus"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -104,7 +111,7 @@
       }
     ],
     "wof:id": 1729300713,
-    "wof:lastmodified": 1692219564,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @Airbus: We have opened a new 7200 m² hangar in Getafe to help the #Beluga \u0026amp; #BelugaXL increase their flying hours to support our produc…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

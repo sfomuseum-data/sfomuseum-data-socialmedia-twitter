@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Uniforms"
+    ],
     "twitter:tweet": {
       "created": 1439571137,
       "created_at": "Fri Aug 14 16:52:17 +0000 2015",
@@ -177,6 +180,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "airwaysnews",
+      "AmericanAir"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -204,7 +211,7 @@
       }
     ],
     "wof:id": 1729293817,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @AirwaysNews: STORY: @AmericanAir to Launch New Trial on #Uniforms, http://t.co/8P8znRheXT http://t.co/MV7yAW5J1j",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

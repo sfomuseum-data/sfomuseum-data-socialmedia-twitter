@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Zeiss",
+      "microscopy"
+    ],
     "twitter:tweet": {
       "created": 1329515285,
       "created_at": "Fri Feb 17 21:48:05 +0000 2012",
@@ -88,6 +92,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "zeiss_micro"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -115,7 +122,7 @@
       }
     ],
     "wof:id": 1729307113,
-    "wof:lastmodified": 1692219580,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Here's one! http://t.co/TthQAgZq MT @zeiss_micro: Visit the exhibition A World Examined w/ vintage microscopes by Carl #Zeiss #microscopy",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

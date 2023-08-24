@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "expo",
+      "céramiques"
+    ],
     "twitter:tweet": {
       "created": 1396462007,
       "created_at": "Wed Apr 02 18:06:47 +0000 2014",
@@ -98,6 +102,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "JuleeBrand",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -125,7 +133,7 @@
       }
     ],
     "wof:id": 1729291745,
-    "wof:lastmodified": 1692219576,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @JuleeBrand: Sublime #expo de #céramiques à l'aéroport de San Francisco : Vessels from the Forrest http://t.co/ONcmeKqU6r @SFOMuseum",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

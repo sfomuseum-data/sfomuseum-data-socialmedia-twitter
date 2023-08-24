@@ -14,6 +14,9 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "60YearsofArhoolie"
+    ],
     "twitter:tweet": {
       "created": 1607380530,
       "created_at": "Mon Dec 07 22:35:30 +0000 2020",
@@ -77,6 +80,10 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "ArhoolieFdn",
+      "tajmahalblues"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -103,7 +110,7 @@
       }
     ],
     "wof:id": 1763511423,
-    "wof:lastmodified": 1692219542,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @ArhoolieFdn: Join us on December 10 for #60YearsofArhoolie! A free virtual music event featuring performances by @tajmahalblues @BillyF…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

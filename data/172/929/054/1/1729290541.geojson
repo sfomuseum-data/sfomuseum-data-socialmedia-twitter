@@ -17,6 +17,13 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "travel",
+      "layover",
+      "FF",
+      "art",
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1316202087,
       "created_at": "Fri Sep 16 19:41:27 +0000 2011",
@@ -108,6 +115,10 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SanBrunoCal",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -135,7 +146,7 @@
       }
     ],
     "wof:id": 1729290541,
-    "wof:lastmodified": 1692219582,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Aww!Thanks! RT @SanBrunoCal: #FF Welcome to Twitter @SFOMuseum! Follow them for something to do at the Airport :) #art #SFO #travel #layover",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

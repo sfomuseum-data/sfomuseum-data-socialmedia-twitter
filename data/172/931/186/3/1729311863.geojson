@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "MuseumLove"
+    ],
     "twitter:tweet": {
       "created": 1366821163,
       "created_at": "Wed Apr 24 16:32:43 +0000 2013",
@@ -94,6 +97,10 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFGate",
+      "asianartmuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -121,7 +128,7 @@
       }
     ],
     "wof:id": 1729311863,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "@asianartmuseum Lovely article on Vincent \u0026amp; his excellent work in today's @sfgate! Congrats! http://t.co/J9xsWS4oGN #MuseumLove",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

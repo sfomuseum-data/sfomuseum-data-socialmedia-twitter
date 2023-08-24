@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Tiffany"
+    ],
     "twitter:tweet": {
       "created": 1406740627,
       "created_at": "Wed Jul 30 17:17:07 +0000 2014",
@@ -90,6 +93,11 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFDealTrackers",
+      "SFOMuseum",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -117,7 +125,7 @@
       }
     ],
     "wof:id": 1729292313,
-    "wof:lastmodified": 1692219576,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @SFDealTrackers: Ohh and ahh #Tiffany glass on display @SFOMuseum and big smiles from the advertising icon exhibit too.Way to go @flySFO…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

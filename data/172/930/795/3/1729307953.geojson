@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "LoveYourPetDay",
+      "SFOWagBrigade"
+    ],
     "twitter:tweet": {
       "created": 1582234819,
       "created_at": "Thu Feb 20 21:40:19 +0000 2020",
@@ -164,6 +168,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -191,7 +198,7 @@
       }
     ],
     "wof:id": 1729307953,
-    "wof:lastmodified": 1692219544,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @flySFO: Today is #LoveYourPetDay 💙 🐾 #SFOWagBrigade\nShare a pic of your favorite furry travel companion! https://t.co/KeguDq4T3D",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

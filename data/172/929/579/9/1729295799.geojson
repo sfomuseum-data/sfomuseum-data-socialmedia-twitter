@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "EarthDay"
+    ],
     "twitter:tweet": {
       "created": 1461359351,
       "created_at": "Fri Apr 22 21:09:11 +0000 2016",
@@ -157,6 +160,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -184,7 +190,7 @@
       }
     ],
     "wof:id": 1729295799,
-    "wof:lastmodified": 1692219573,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: This is one of the ways SFO helps our Earth stay great! Happy #EarthDay https://t.co/k7mNQ12GpS",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

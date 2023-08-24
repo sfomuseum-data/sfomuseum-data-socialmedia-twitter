@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "StayAtHome"
+    ],
     "twitter:tweet": {
       "created": 1585102350,
       "created_at": "Wed Mar 25 02:12:30 +0000 2020",
@@ -70,6 +73,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -97,7 +103,7 @@
       }
     ],
     "wof:id": 1729308191,
-    "wof:lastmodified": 1692219544,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @flySFO: While we miss our passengers, we are glad to see that everyone is taking California’s #StayAtHome order seriously.\nIf you need…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "onthisday",
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1470445809,
       "created_at": "Sat Aug 06 01:10:09 +0000 2016",
@@ -156,6 +160,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "AmericanAir"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -183,7 +190,7 @@
       }
     ],
     "wof:id": 1729297319,
-    "wof:lastmodified": 1692219571,
+    "wof:lastmodified": 1692895852,
     "wof:name": "The first McDonnell Douglas DC-10 entered service on @AmericanAir's LA to Chicago route #onthisday in 1971. #avgeek https://t.co/o3mJdukfC8",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "aviation",
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1467219646,
       "created_at": "Wed Jun 29 17:00:46 +0000 2016",
@@ -184,6 +188,11 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "AviationTimes",
+      "TRANSAERO",
+      "Boeing"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -211,7 +220,7 @@
       }
     ],
     "wof:id": 1729296763,
-    "wof:lastmodified": 1692219572,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @AviationTimes: Grrrrreat livery on this @TRANSAERO @Boeing 747 ! #aviation #avgeek https://t.co/fAVP6Cjb41",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

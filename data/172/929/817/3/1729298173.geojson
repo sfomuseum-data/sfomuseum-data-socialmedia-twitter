@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "DeltaRunwayReveal"
+    ],
     "twitter:tweet": {
       "created": 1476815562,
       "created_at": "Tue Oct 18 18:32:42 +0000 2016",
@@ -167,6 +170,10 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "Delta",
+      "Zac_Posen"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -194,7 +201,7 @@
       }
     ],
     "wof:id": 1729298173,
-    "wof:lastmodified": 1692219569,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @Delta: Runway to runway. This is the first look at our new collection with @Zac_Posen #DeltaRunwayReveal https://t.co/hmgC93VPyh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

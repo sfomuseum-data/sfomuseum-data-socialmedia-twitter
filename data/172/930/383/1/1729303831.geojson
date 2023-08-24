@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "maps"
+    ],
     "twitter:tweet": {
       "created": 1533666790,
       "created_at": "Tue Aug 07 18:33:10 +0000 2018",
@@ -90,6 +93,9 @@
       "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -117,7 +123,7 @@
       }
     ],
     "wof:id": 1729303831,
-    "wof:lastmodified": 1692219556,
+    "wof:lastmodified": 1692895852,
     "wof:name": "Have we mentioned that we've launched a new digital playground? It's a work in progress with much more to come, but we've got a blog going at https://t.co/zEnBYU1UmW and we've been having a lot of fun with old #maps of @flySFO at https://t.co/pz6xehOt8q",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

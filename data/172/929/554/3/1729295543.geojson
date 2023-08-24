@@ -17,6 +17,12 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SonomaCounty",
+      "SFO",
+      "MargauriteWildenhain",
+      "PondFarm"
+    ],
     "twitter:tweet": {
       "created": 1457975392,
       "created_at": "Mon Mar 14 17:09:52 +0000 2016",
@@ -178,6 +184,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "KennySonoma"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -205,7 +214,7 @@
       }
     ],
     "wof:id": 1729295543,
-    "wof:lastmodified": 1692219574,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @KennySonoma: Great new #SonomaCounty exhibit at #SFO : A Potter's Life- #MargauriteWildenhain at #PondFarm https://t.co/h4Q9md9Mua",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

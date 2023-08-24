@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "UA747Farewell"
+    ],
     "twitter:tweet": {
       "created": 1510081308,
       "created_at": "Tue Nov 07 19:01:48 +0000 2017",
@@ -247,6 +250,10 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "seanlewiswgn",
+      "united"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -274,7 +281,7 @@
       }
     ],
     "wof:id": 1729301673,
-    "wof:lastmodified": 1692219560,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @seanlewiswgn: A huge crowd \u0026amp; personal stories as @United retires 747 after 47 years #UA747Farewell https://t.co/cwmXS3SRAP",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

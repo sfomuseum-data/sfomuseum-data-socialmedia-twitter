@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfo",
+      "sfohistory",
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1507761305,
       "created_at": "Wed Oct 11 22:35:05 +0000 2017",
@@ -163,6 +168,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -190,7 +198,7 @@
       }
     ],
     "wof:id": 1729301413,
-    "wof:lastmodified": 1692219563,
+    "wof:lastmodified": 1692895852,
     "wof:name": "See @flySFO's new iconic air traffic control tower rising beautifully into the sky in between Terminal 1 and 2. #sfohistory #avgeek #sfo https://t.co/Oa2B84oZeg",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

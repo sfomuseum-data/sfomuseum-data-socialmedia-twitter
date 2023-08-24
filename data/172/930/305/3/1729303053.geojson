@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "ManekiNeko",
+      "BeckoningCat"
+    ],
     "twitter:tweet": {
       "created": 1524942305,
       "created_at": "Sat Apr 28 19:05:05 +0000 2018",
@@ -166,6 +170,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "MinGei"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -193,7 +200,7 @@
       }
     ],
     "wof:id": 1729303053,
-    "wof:lastmodified": 1692219556,
+    "wof:lastmodified": 1692895852,
     "wof:name": "This exhibition was made possible by a generous loan from @Mingei International Museum. \"#ManekiNeko: Japanese #BeckoningCat\" is on display post-security, in Terminal 2. https://t.co/yLeWIMuL97 https://t.co/jI5BTocflF",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "classicmonsters",
+      "kirksmonsters"
+    ],
     "twitter:tweet": {
       "created": 1438206064,
       "created_at": "Wed Jul 29 21:41:04 +0000 2015",
@@ -161,6 +165,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "POTG_TRAVELGEAR"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -188,7 +195,7 @@
       }
     ],
     "wof:id": 1729293733,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "@POTG_TRAVELGEAR We've got a whole section dedicated to it in our #classicmonsters exhibition! #kirksmonsters http://t.co/tUejIesyXD",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

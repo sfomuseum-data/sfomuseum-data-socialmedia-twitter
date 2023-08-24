@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Tabletop"
+    ],
     "twitter:tweet": {
       "created": 1367967320,
       "created_at": "Tue May 07 22:55:20 +0000 2013",
@@ -110,6 +113,13 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "wilw",
+      "bonniegrrl",
+      "SFOMuseum",
+      "VirginAmerica"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -137,7 +147,7 @@
       }
     ],
     "wof:id": 1729311941,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @bonniegrrl: I love the History of Board Games exhibit by @SFOMuseum in the @VirginAmerica terminal at @flySFO! #Tabletop @wilw http://t…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

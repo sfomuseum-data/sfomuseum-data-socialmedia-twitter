@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Concorde",
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1478022718,
       "created_at": "Tue Nov 01 17:51:58 +0000 2016",
@@ -195,6 +199,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "museumofflight"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -222,7 +229,7 @@
       }
     ],
     "wof:id": 1729298357,
-    "wof:lastmodified": 1692219569,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @museumofflight: Onward Concorde! #Concorde #avgeek https://t.co/dBBKwmqTbH",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "FlyL1011",
+      "FlyPanAm"
+    ],
     "twitter:tweet": {
       "created": 1570820222,
       "created_at": "Fri Oct 11 18:57:02 +0000 2019",
@@ -164,6 +168,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "FlyPanAm"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -191,7 +198,7 @@
       }
     ],
     "wof:id": 1729307165,
-    "wof:lastmodified": 1692219546,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @FlyPanAm: Happy 10 11. #FlyPanAm #FlyL1011 https://t.co/E8NuE8DxTZ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

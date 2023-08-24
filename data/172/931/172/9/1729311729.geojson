@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "art"
+    ],
     "twitter:tweet": {
       "created": 1365452179,
       "created_at": "Mon Apr 08 20:16:19 +0000 2013",
@@ -81,6 +84,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "lorenzolw"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -108,7 +114,7 @@
       }
     ],
     "wof:id": 1729311729,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @lorenzolw: #art in terminal at SFO. Always good. This is by Ethan Estess. Titled last five at the farallones;… http://t.co/CGo8K9bspH",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

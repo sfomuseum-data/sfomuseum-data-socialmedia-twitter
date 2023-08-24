@@ -14,6 +14,10 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "publicart",
+      "LouisianaBendolph"
+    ],
     "twitter:tweet": {
       "created": 1644023686,
       "created_at": "Sat Feb 05 01:14:46 +0000 2022",
@@ -168,6 +172,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFAC"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -194,7 +201,7 @@
       }
     ],
     "wof:id": 1763586379,
-    "wof:lastmodified": 1692219585,
+    "wof:lastmodified": 1692895853,
     "wof:name": "See “New Generation” by Louisiana Bendolph on display post-security in Terminal 3 and online at:  https://t.co/3Gq4sMBuLx\n#publicart #LouisianaBendolph @SFAC https://t.co/gIftpRpi6J",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

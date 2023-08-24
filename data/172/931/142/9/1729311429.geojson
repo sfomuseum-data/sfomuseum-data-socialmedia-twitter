@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfo",
+      "sanfrancisco"
+    ],
     "twitter:tweet": {
       "created": 1358534514,
       "created_at": "Fri Jan 18 18:41:54 +0000 2013",
@@ -164,6 +168,9 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "jsbanga"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -191,7 +198,7 @@
       }
     ],
     "wof:id": 1729311429,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Thank you! RT @jsbanga: Consistently impressed with SFO Museum! \"Deities in Stone\" #sfo #sanfrancisco http://t.co/Pi33RiPO",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

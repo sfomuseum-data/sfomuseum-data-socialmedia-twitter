@@ -14,6 +14,9 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "GoodLeadsTheWay"
+    ],
     "twitter:tweet": {
       "created": 1666366648,
       "created_at": "Fri Oct 21 15:37:28 +0000 2022",
@@ -97,6 +100,12 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "_Richard_Lyu",
+      "united",
+      "SFOMuseum",
+      "flySFO"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -123,7 +132,7 @@
       }
     ],
     "wof:id": 1796525819,
-    "wof:lastmodified": 1667496373,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @_Richard_Lyu: Good morning. Are you hungry? Look at the classic meal service sets. 😊@united @SFOMuseum @flySFO #GoodLeadsTheWay https:/…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

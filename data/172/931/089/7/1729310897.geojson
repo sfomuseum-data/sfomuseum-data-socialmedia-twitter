@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFGiants",
+      "Awesome",
+      "OrangeOctober"
+    ],
     "twitter:tweet": {
       "created": 1351111461,
       "created_at": "Wed Oct 24 20:44:21 +0000 2012",
@@ -84,6 +89,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -111,7 +119,7 @@
       }
     ],
     "wof:id": 1729310897,
-    "wof:lastmodified": 1692219579,
+    "wof:lastmodified": 1692895853,
     "wof:name": "We're installing our newest exhibit in T2, \u0026amp; SO many #SFGiants fans are cruising around @flySFO! #Awesome #OrangeOctober",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

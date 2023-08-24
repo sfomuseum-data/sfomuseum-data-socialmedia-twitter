@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "NationalAviationDay",
+      "AvGeek"
+    ],
     "twitter:tweet": {
       "created": 1471624656,
       "created_at": "Fri Aug 19 16:37:36 +0000 2016",
@@ -164,6 +168,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "JetBlue"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -191,7 +198,7 @@
       }
     ],
     "wof:id": 1729297461,
-    "wof:lastmodified": 1692219571,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @JetBlue: Oscar-Mike-Golf, it’s #NationalAviationDay! #AvGeek https://t.co/AIL1ceOMPo",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1498167175,
       "created_at": "Thu Jun 22 21:32:55 +0000 2017",
@@ -217,6 +220,11 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "united",
+      "flySFO",
+      "cjmcginnis"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -244,7 +252,7 @@
       }
     ],
     "wof:id": 1729300515,
-    "wof:lastmodified": 1692219564,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @cjmcginnis: Cool new @united Main Line exhibit installed today @flySFO T3 #avgeek https://t.co/Npe8zcNUY0",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

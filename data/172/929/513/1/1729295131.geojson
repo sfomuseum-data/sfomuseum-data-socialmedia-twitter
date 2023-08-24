@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "TheNationsGame",
+      "FlySFO",
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1454542331,
       "created_at": "Wed Feb 03 23:32:11 +0000 2016",
@@ -105,6 +110,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFOMuseum",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -132,7 +141,7 @@
       }
     ],
     "wof:id": 1729295131,
-    "wof:lastmodified": 1692219574,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: #SFO is the only place to see the @SFOMuseum #TheNationsGame Exhibit! Don't miss out #FlySFO! Visit https://t.co/h3TeF4J7vd #SB…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

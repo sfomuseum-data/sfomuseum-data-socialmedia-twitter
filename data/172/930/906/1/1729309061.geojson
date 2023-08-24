@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "AVGeeks"
+    ],
     "twitter:tweet": {
       "created": 1332969657,
       "created_at": "Wed Mar 28 21:20:57 +0000 2012",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "hharteveldt",
+      "GlobeTrotScott"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729309061,
-    "wof:lastmodified": 1692219580,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Perhaps a little vino with dinner? We've got a glass for you, @hharteveldt @GlobeTrotScott @williamjfischer http://t.co/9WZEYhES #AVGeeks",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

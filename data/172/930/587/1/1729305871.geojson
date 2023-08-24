@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "UK",
+      "Concorde"
+    ],
     "twitter:tweet": {
       "created": 1554830600,
       "created_at": "Tue Apr 09 17:23:20 +0000 2019",
@@ -77,6 +81,9 @@
       "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "BAESystemsAir"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -104,7 +111,7 @@
       }
     ],
     "wof:id": 1729305871,
-    "wof:lastmodified": 1692219551,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @BAESystemsAir: Today marks 50 years since the first #UK flight of the iconic #Concorde aircraft, a programme which was at the forefront…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

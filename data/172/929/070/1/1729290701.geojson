@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO",
+      "SF"
+    ],
     "twitter:tweet": {
       "created": 1377890478,
       "created_at": "Fri Aug 30 19:21:18 +0000 2013",
@@ -77,6 +81,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFEnvironment"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -104,7 +111,7 @@
       }
     ],
     "wof:id": 1729290701,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @SFEnvironment: Have some time between flights at #SFO? Check out the life-size Hummer made out of styrofoam from #SF trash: http://t.co…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

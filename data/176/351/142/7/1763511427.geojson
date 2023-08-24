@@ -14,6 +14,9 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1607365675,
       "created_at": "Mon Dec 07 18:27:55 +0000 2020",
@@ -77,6 +80,10 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "AFARmedia"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -103,7 +110,7 @@
       }
     ],
     "wof:id": 1763511427,
-    "wof:lastmodified": 1692219542,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @flySFO: 🏆 Thank you! For the second year in a row readers of @AFARmedia named #SFO as the top airport in the nation!!! \n\nhttps://t.co/F…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

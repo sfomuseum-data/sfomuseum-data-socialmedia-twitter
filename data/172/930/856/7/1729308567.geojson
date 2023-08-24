@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1591412125,
       "created_at": "Sat Jun 06 02:55:25 +0000 2020",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "united"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729308567,
-    "wof:lastmodified": 1692219543,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @flySFO: Earlier today Jeff Littlefield, #SFO’s Chief Operating Officer, joined a team of @united Airlines employees in the Rotunda in T…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfotagyourbag"
+    ],
     "twitter:tweet": {
       "created": 1379372744,
       "created_at": "Mon Sep 16 23:05:44 +0000 2013",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "timbuk2"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729290863,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Love flight bags? So does @flySFO! Send them a pic of your bag for a chance to win a @timbuk2 prize! http://t.co/4uMwZHIZEM #sfotagyourbag",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

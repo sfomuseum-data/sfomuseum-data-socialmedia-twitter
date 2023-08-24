@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "aviationday",
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1472497201,
       "created_at": "Mon Aug 29 19:00:01 +0000 2016",
@@ -174,6 +178,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "CNNTravel"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -201,7 +208,7 @@
       }
     ],
     "wof:id": 1729297649,
-    "wof:lastmodified": 1692219570,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @CNNTravel: Ever wondered how planes get their names? https://t.co/3CIKyFTvQ7  #aviationday #avgeek https://t.co/U3FtuI2aYN",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

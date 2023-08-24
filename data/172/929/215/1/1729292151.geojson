@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "AAAEarts"
+    ],
     "twitter:tweet": {
       "created": 1403644189,
       "created_at": "Tue Jun 24 21:09:49 +0000 2014",
@@ -85,6 +88,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "caseyflies"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -112,7 +119,7 @@
       }
     ],
     "wof:id": 1729292151,
-    "wof:lastmodified": 1692219576,
+    "wof:lastmodified": 1692895853,
     "wof:name": "@caseyflies We're SO excited to be hosting! Looking forward to seeing you tomorrow @flySFO! #AAAEarts",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

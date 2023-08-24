@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "pilot"
+    ],
     "twitter:tweet": {
       "created": 1485452764,
       "created_at": "Thu Jan 26 17:46:04 +0000 2017",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "EmbryRiddle",
+      "Google"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729299119,
-    "wof:lastmodified": 1692219567,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @EmbryRiddle: Woo! Bessie Coleman, 1st African-American female #pilot, made the @Google homepage. She took flight in 1921 https://t.co/D…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

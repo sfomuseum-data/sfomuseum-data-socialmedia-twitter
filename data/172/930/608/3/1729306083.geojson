@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "onthisday",
+      "SFOhistory",
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1557262504,
       "created_at": "Tue May 07 20:55:04 +0000 2019",
@@ -163,6 +168,9 @@
       "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -190,7 +198,7 @@
       }
     ],
     "wof:id": 1729306083,
-    "wof:lastmodified": 1692219550,
+    "wof:lastmodified": 1692895851,
     "wof:name": "The dedication ceremony of Mills Field Municipal Airport of San Francisco, the original name of @flySFO, commenced #onthisday in 1927. #SFOhistory #avgeek https://t.co/Z60HzWjK3Q",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

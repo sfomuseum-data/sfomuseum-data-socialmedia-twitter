@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "free",
+      "sfhistory"
+    ],
     "twitter:tweet": {
       "created": 1427825479,
       "created_at": "Tue Mar 31 18:11:19 +0000 2015",
@@ -98,6 +102,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "SSFLibrary"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -125,7 +133,7 @@
       }
     ],
     "wof:id": 1729293267,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Learn about @flySFO's fascinating history at a #free talk tonight at 6pm, via @SSFLibrary. Details: http://t.co/LotLugU9UQ #sfhistory",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

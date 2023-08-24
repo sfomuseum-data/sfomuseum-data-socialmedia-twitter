@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "MuseumLove"
+    ],
     "twitter:tweet": {
       "created": 1324498611,
       "created_at": "Wed Dec 21 20:16:51 +0000 2011",
@@ -84,6 +87,10 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "TheRadiantBaby",
+      "deyoungmuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -111,7 +118,7 @@
       }
     ],
     "wof:id": 1729299095,
-    "wof:lastmodified": 1692219581,
+    "wof:lastmodified": 1692895853,
     "wof:name": "@theradiantbaby @deyoungmuseum I hit 'send' too early - so into the #MuseumLove! Happy holidays \u0026 see you soon!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

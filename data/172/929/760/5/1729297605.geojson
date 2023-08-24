@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "findyourpark",
+      "SanFrancisco",
+      "California"
+    ],
     "twitter:tweet": {
       "created": 1472011713,
       "created_at": "Wed Aug 24 04:08:33 +0000 2016",
@@ -94,6 +99,10 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "Interior",
+      "GoldenGateNPS"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -121,7 +130,7 @@
       }
     ],
     "wof:id": 1729297605,
-    "wof:lastmodified": 1692219570,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @Interior: We’ve left our 💓 in #SanFrancisco w/ this fog-laced view @GoldenGateNPS by Dave Gordon #California #findyourpark https://t.co…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

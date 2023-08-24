@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "StarWars",
+      "OnwardAndUpward"
+    ],
     "twitter:tweet": {
       "created": 1600992177,
       "created_at": "Fri Sep 25 00:02:57 +0000 2020",
@@ -205,6 +209,10 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "united",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -232,7 +240,7 @@
       }
     ],
     "wof:id": 1729308803,
-    "wof:lastmodified": 1692219542,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @flySFO: Always a fun sight to see when we get a visit from this @united beauty! ✈️ #StarWars #OnwardAndUpward https://t.co/622eJ25j3U",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

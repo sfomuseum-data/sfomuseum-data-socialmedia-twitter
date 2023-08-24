@@ -14,6 +14,10 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFAC",
+      "publicart"
+    ],
     "twitter:tweet": {
       "created": 1672164370,
       "created_at": "Tue Dec 27 18:06:10 +0000 2022",
@@ -158,6 +162,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFAC"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -184,7 +191,7 @@
       }
     ],
     "wof:id": 1880137633,
-    "wof:lastmodified": 1692219558,
+    "wof:lastmodified": 1692895852,
     "wof:name": "The artists, Stacey Carter and Derek Lynch, curated historic photographs and contemporary architectural elements then recombined them to capture the essence of San Francisco. #SFAC #publicart @SFAC https://t.co/Gur6Sip6sz",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

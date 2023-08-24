@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "MTB"
+    ],
     "twitter:tweet": {
       "created": 1357335970,
       "created_at": "Fri Jan 04 21:46:10 +0000 2013",
@@ -70,6 +73,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "bikeconsultant"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -97,7 +103,7 @@
       }
     ],
     "wof:id": 1729311355,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @bikeconsultant: Awesome display of #MTB history at SFO through the end of this month, check out the web version: http://t.co/AzeAZ7O ...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

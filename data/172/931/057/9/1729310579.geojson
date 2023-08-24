@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "askacurator"
+    ],
     "twitter:tweet": {
       "created": 1347650022,
       "created_at": "Fri Sep 14 19:13:42 +0000 2012",
@@ -95,6 +98,11 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "alaskamuseum",
+      "ParkwoodEstate",
+      "santacruzmah"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -122,7 +130,7 @@
       }
     ],
     "wof:id": 1729310579,
-    "wof:lastmodified": 1692219579,
+    "wof:lastmodified": 1692895853,
     "wof:name": "@NewarkMuseum @alaskamuseum @ParkwoodEstate @santacruzmah Ditto! So curious to see what we'll all be asked on 9/19! #askacurator",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

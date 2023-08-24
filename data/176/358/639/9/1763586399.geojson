@@ -14,6 +14,9 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "BlackHistoryMonth"
+    ],
     "twitter:tweet": {
       "created": 1643776077,
       "created_at": "Wed Feb 02 04:27:57 +0000 2022",
@@ -67,6 +70,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "airandspace"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -93,7 +99,7 @@
       }
     ],
     "wof:id": 1763586399,
-    "wof:lastmodified": 1692219585,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @airandspace: Today is the first day of #BlackHistoryMonth. Learn about some of the inspiring people who stood in the face of adversity…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

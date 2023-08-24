@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "avgeek",
+      "avpix"
+    ],
     "twitter:tweet": {
       "created": 1438124730,
       "created_at": "Tue Jul 28 23:05:30 +0000 2015",
@@ -77,6 +81,9 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "Aviation_Pics"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -104,7 +111,7 @@
       }
     ],
     "wof:id": 1729293729,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @Aviation_Pics: Jet Time flaring above the runway with a beautiful setting sun reflecting in the water.. #avgeek #avpix http://t.co/t7Py…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

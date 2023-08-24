@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "NationalPigDay"
+    ],
     "twitter:tweet": {
       "created": 1488396236,
       "created_at": "Wed Mar 01 19:23:56 +0000 2017",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "sfspca",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729299467,
-    "wof:lastmodified": 1692219566,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @sfspca: Happy #NationalPigDay to our very own LiLou! Want to meet her in person? She'll be at @flySFO on March 25, 1pm in terminal 3! h…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

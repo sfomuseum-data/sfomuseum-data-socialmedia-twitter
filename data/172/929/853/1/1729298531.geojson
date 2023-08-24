@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1478815164,
       "created_at": "Thu Nov 10 21:59:24 +0000 2016",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "TodayInTheSky",
+      "photoJDL"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729298531,
-    "wof:lastmodified": 1692219568,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @TodayInTheSky: Today in the Sky's #avgeek POTD (from our November 'avgeek photo gallery') https://t.co/zKgmoqaA5i (by @photoJDL) https:…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

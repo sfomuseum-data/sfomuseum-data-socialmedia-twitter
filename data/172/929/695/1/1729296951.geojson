@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "histgender",
+      "womeninaviation"
+    ],
     "twitter:tweet": {
       "created": 1468875767,
       "created_at": "Mon Jul 18 21:02:47 +0000 2016",
@@ -88,6 +92,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "karins42"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -115,7 +122,7 @@
       }
     ],
     "wof:id": 1729296951,
-    "wof:lastmodified": 1692219571,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @karins42: #histgender #womeninaviation https://t.co/qXYwX7I8pD",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

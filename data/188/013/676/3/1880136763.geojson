@@ -14,6 +14,10 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "PublicArt",
+      "SpencerFinch"
+    ],
     "twitter:tweet": {
       "created": 1688160109,
       "created_at": "Fri Jun 30 21:21:49 +0000 2023",
@@ -158,6 +162,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFAC"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -184,7 +191,7 @@
       }
     ],
     "wof:id": 1880136763,
-    "wof:lastmodified": 1692219535,
+    "wof:lastmodified": 1692895851,
     "wof:name": "In \"Orion,\" the younger stars appear blue. Alnitak and Mintaka’s spectral “fingerprint” are similar and look almost identically blue. The position of the star sculptures in the installation roughly correlates to their position in the night sky. @SFAC #PublicArt #SpencerFinch https://t.co/ZknixodHGx",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

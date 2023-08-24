@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO",
+      "randomgems",
+      "display"
+    ],
     "twitter:tweet": {
       "created": 1319151963,
       "created_at": "Thu Oct 20 23:06:03 +0000 2011",
@@ -95,6 +100,9 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "HeidiRKling"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -122,7 +130,7 @@
       }
     ],
     "wof:id": 1729311315,
-    "wof:lastmodified": 1692219582,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @HeidiRKling: Remember picture albums? Neither do I really, but how cool are these?? #SFO #randomgems #display http://t.co/KBA5lAj5",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

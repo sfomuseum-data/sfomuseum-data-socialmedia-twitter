@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "BestAirportExhibits",
+      "Television"
+    ],
     "twitter:tweet": {
       "created": 1317845401,
       "created_at": "Wed Oct 05 20:10:01 +0000 2011",
@@ -97,6 +101,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "mister_fusspot"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -124,7 +132,7 @@
       }
     ],
     "wof:id": 1729302763,
-    "wof:lastmodified": 1692219582,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @flysfo: We love to hear that! RT @mister_fusspot: #Television exhibit @flySFO is great fun; wish I had more time. #BestAirportExhibits",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

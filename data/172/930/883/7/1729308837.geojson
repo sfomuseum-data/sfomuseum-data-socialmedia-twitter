@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "retro",
+      "tv",
+      "scifi"
+    ],
     "twitter:tweet": {
       "created": 1318274710,
       "created_at": "Mon Oct 10 19:25:10 +0000 2011",
@@ -95,6 +100,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "darrenmason"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -122,7 +130,7 @@
       }
     ],
     "wof:id": 1729308837,
-    "wof:lastmodified": 1692219582,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @darrenmason: Photo: SFO geekery #retro #tv #scifi (Taken with Instagram at Rotating exhibitions terminal 3) http://t.co/xlrGPll1",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

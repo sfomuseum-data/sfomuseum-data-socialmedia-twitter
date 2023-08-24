@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "OuijaAndBeyond"
+    ],
     "twitter:tweet": {
       "created": 1492446403,
       "created_at": "Mon Apr 17 16:26:43 +0000 2017",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "raymondjune",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729299903,
-    "wof:lastmodified": 1692219565,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @raymondjune: .@SFOMuseum has the best US airport curation. Fascinating exhibit on the history of the talking board. #OuijaAndBeyond #sp…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

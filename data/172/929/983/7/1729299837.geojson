@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "TheTypewriter"
+    ],
     "twitter:tweet": {
       "created": 1490831457,
       "created_at": "Wed Mar 29 23:50:57 +0000 2017",
@@ -85,6 +88,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "tsmullaney",
+      "jwassers"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -112,7 +119,7 @@
       }
     ],
     "wof:id": 1729299837,
-    "wof:lastmodified": 1692219566,
+    "wof:lastmodified": 1692895852,
     "wof:name": "@tsmullaney @jwassers We're really excited about #TheTypewriter! It's slated to open in mid May, so expect to hear more about it soon!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

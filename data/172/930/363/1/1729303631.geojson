@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "avgeek",
+      "vintageavgeek"
+    ],
     "twitter:tweet": {
       "created": 1530648891,
       "created_at": "Tue Jul 03 20:14:51 +0000 2018",
@@ -164,6 +168,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "photoJDL"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -191,7 +198,7 @@
       }
     ],
     "wof:id": 1729303631,
-    "wof:lastmodified": 1692219556,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @photoJDL: Tickets were a helluva lot cooler 65 years ago. #avgeek #vintageavgeek https://t.co/WALzynA2hz",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

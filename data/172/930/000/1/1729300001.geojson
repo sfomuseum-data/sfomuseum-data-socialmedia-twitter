@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfo",
+      "wagbrigade",
+      "therapypig"
+    ],
     "twitter:tweet": {
       "created": 1492557923,
       "created_at": "Tue Apr 18 23:25:23 +0000 2017",
@@ -221,6 +226,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -248,7 +257,7 @@
       }
     ],
     "wof:id": 1729300001,
-    "wof:lastmodified": 1692219565,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: LiLou is here next to the @SFOMuseum stop by and say hi! #sfo #wagbrigade #therapypig https://t.co/ck5bjAEskv",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

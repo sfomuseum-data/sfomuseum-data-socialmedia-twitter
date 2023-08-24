@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfofieldtrip"
+    ],
     "twitter:tweet": {
       "created": 1350510855,
       "created_at": "Wed Oct 17 21:54:15 +0000 2012",
@@ -70,6 +73,9 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "socalgecko"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -97,7 +103,7 @@
       }
     ],
     "wof:id": 1729310843,
-    "wof:lastmodified": 1692219579,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Thanks for taking your #sfofieldtrip, @socalgecko! Come back and visit any time! Have a good flight back to LA :)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

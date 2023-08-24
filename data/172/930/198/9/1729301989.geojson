@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "TheMainLine",
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1514311186,
       "created_at": "Tue Dec 26 17:59:46 +0000 2017",
@@ -324,6 +328,12 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "united",
+      "jefftabaco",
+      "flySFO",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -351,7 +361,7 @@
       }
     ],
     "wof:id": 1729301989,
-    "wof:lastmodified": 1692219559,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @jefftabaco: Always love @flySFO @SFOMuseum exhibits. https://t.co/X5gVx7nJqw @united #TheMainLine #avgeek https://t.co/2UgFx05BvV",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

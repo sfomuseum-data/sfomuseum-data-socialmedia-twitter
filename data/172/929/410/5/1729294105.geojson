@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SB50"
+    ],
     "twitter:tweet": {
       "created": 1443636489,
       "created_at": "Wed Sep 30 18:08:09 +0000 2015",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "superbowl50",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729294105,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @superbowl50: To celebrate #SB50 @SFOMuseum​ is presenting a selection of memorabilia \u0026amp; game-worn artifacts http://t.co/G9tCsO0AkR http:…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

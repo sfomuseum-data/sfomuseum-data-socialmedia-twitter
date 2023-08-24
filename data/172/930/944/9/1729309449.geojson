@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1318455601,
       "created_at": "Wed Oct 12 21:40:01 +0000 2011",
@@ -88,6 +91,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "StuckatAirport"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -115,7 +121,7 @@
       }
     ],
     "wof:id": 1729309449,
-    "wof:lastmodified": 1692219582,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @stuckatairport: The evolution of the record (RPMs - remember those?) now at #SFO in new offering from #SFO museum.  http://t.co/lZM6ZRkT",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

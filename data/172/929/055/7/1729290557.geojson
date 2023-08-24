@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "FF"
+    ],
     "twitter:tweet": {
       "created": 1316294468,
       "created_at": "Sat Sep 17 21:21:08 +0000 2011",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "MillbraeLibrary",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729290557,
-    "wof:lastmodified": 1692219582,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @MillbraeLibrary: #FF The way cool aviation museum \u0026 library at SFO is now on Twitter @SFOMuseum",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

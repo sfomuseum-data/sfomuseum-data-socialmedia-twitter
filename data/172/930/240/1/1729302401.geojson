@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfo"
+    ],
     "twitter:tweet": {
       "created": 1518216672,
       "created_at": "Fri Feb 09 22:51:12 +0000 2018",
@@ -177,6 +180,11 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "united",
+      "TeamUSA"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -204,7 +212,7 @@
       }
     ],
     "wof:id": 1729302401,
-    "wof:lastmodified": 1692219558,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: For 38 years, @united has been flying @TeamUSA athletes around the globe. #sfo Go Team USA https://t.co/3urJdlnjp4",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

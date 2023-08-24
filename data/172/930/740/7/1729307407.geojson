@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "onthisday",
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1573860895,
       "created_at": "Fri Nov 15 23:34:55 +0000 2019",
@@ -156,6 +160,9 @@
       "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -183,7 +190,7 @@
       }
     ],
     "wof:id": 1729307407,
-    "wof:lastmodified": 1692219546,
+    "wof:lastmodified": 1692895851,
     "wof:name": "Coast Guard Air Station San Francisco was commissioned #onthisday in 1940. @flySFO provided 20.53 acres at its seaplane harbor for the Air Station site. In exchange, the federal government dredged and maintained the harbor and its channel to the bay. #avgeek https://t.co/iqXxDVh6Wy",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

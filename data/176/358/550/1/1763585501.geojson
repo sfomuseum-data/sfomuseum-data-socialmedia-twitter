@@ -14,6 +14,10 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO",
+      "COVID19"
+    ],
     "twitter:tweet": {
       "created": 1632343767,
       "created_at": "Wed Sep 22 20:49:27 +0000 2021",
@@ -74,6 +78,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -100,7 +107,7 @@
       }
     ],
     "wof:id": 1763585501,
-    "wof:lastmodified": 1692219537,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @flySFO: #SFO is the first US airport to require #COVID19 vaccinations for all on-site employees. Effective immediately, every SFO tenan…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

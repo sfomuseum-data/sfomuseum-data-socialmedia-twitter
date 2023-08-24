@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "UA747Farewell",
+      "QueenOfTheSkies"
+    ],
     "twitter:tweet": {
       "created": 1510101699,
       "created_at": "Wed Nov 08 00:41:39 +0000 2017",
@@ -164,6 +168,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "pilotual"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -191,7 +198,7 @@
       }
     ],
     "wof:id": 1729301649,
-    "wof:lastmodified": 1692219560,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @pilotual: And we’re off! #UA747Farewell #QueenOfTheSkies https://t.co/iYFWWEBnmj",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

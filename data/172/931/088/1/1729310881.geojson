@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "OrgangeOctober"
+    ],
     "twitter:tweet": {
       "created": 1351195225,
       "created_at": "Thu Oct 25 20:00:25 +0000 2012",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "deyoungmuseum",
+      "SFGiants"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729310881,
-    "wof:lastmodified": 1692219579,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @deyoungmuseum: We gotta get in on this! Check out #OrgangeOctober art here: http://t.co/ZA5vqMIW Go @SFGiants! Batter up, @DIADetroi ...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

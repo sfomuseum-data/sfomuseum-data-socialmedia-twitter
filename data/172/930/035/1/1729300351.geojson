@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "YearRoundBula"
+    ],
     "twitter:tweet": {
       "created": 1497399215,
       "created_at": "Wed Jun 14 00:13:35 +0000 2017",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "FijiAirways"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729300351,
-    "wof:lastmodified": 1692219565,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: Enter the #YearRoundBula Trivia Contest by 6/15 for a chance to win 2 tickets to Fiji on @FijiAirways at https://t.co/1Lp5ZAQ3z…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

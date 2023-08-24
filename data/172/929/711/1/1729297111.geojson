@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "FashionInFlight"
+    ],
     "twitter:tweet": {
       "created": 1469916865,
       "created_at": "Sat Jul 30 22:14:25 +0000 2016",
@@ -75,6 +78,9 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "socalgecko"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -102,7 +108,7 @@
       }
     ],
     "wof:id": 1729297111,
-    "wof:lastmodified": 1692219571,
+    "wof:lastmodified": 1692895852,
     "wof:name": "@socalgecko We'd be more than happy to send you the brochure for #FashionInFlight free of charge!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

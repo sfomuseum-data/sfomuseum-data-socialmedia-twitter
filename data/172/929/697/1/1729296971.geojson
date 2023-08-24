@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Boeing100"
+    ],
     "twitter:tweet": {
       "created": 1468619595,
       "created_at": "Fri Jul 15 21:53:15 +0000 2016",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "AirlineGeeks",
+      "BoeingAirplanes"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729296971,
-    "wof:lastmodified": 1692219571,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @AirlineGeeks: A picture is a thousand words, but in this case represents 100 years of innovation. @BoeingAirplanes #Boeing100 https://t…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

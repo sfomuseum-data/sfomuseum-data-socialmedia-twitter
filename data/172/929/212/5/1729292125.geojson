@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "AAAEarts"
+    ],
     "twitter:tweet": {
       "created": 1403890185,
       "created_at": "Fri Jun 27 17:29:45 +0000 2014",
@@ -95,6 +98,11 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "caseyflies",
+      "flySFO",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -122,7 +130,7 @@
       }
     ],
     "wof:id": 1729292125,
-    "wof:lastmodified": 1692219576,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Thanks! #AAAEarts has been fun! RT @caseyflies: Impressive look behind the scenes at @flySFO’s @SFOMuseum. Great presentation this morning.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -14,6 +14,10 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "avgeek",
+      "SFOHistory"
+    ],
     "twitter:tweet": {
       "created": 1664409699,
       "created_at": "Thu Sep 29 00:01:39 +0000 2022",
@@ -163,6 +167,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -189,7 +196,7 @@
       }
     ],
     "wof:id": 1796527171,
-    "wof:lastmodified": 1667496396,
+    "wof:lastmodified": 1692895852,
     "wof:name": "Want to nerd out about airport history? Within our online database are more than 40 administrative records from the airport’s early history, including the 1927 rental agreement for the parcel of land @flySFO sits on today. https://t.co/QdMYPCN6hR #SFOHistory #avgeek https://t.co/WgDZEFWrMf",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

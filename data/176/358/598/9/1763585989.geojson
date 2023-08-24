@@ -14,6 +14,10 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFOHistory",
+      "MillsField"
+    ],
     "twitter:tweet": {
       "created": 1637716859,
       "created_at": "Wed Nov 24 01:20:59 +0000 2021",
@@ -158,6 +162,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -184,7 +191,7 @@
       }
     ],
     "wof:id": 1763585989,
-    "wof:lastmodified": 1692219587,
+    "wof:lastmodified": 1692895853,
     "wof:name": "A grand Spanish Colonial Revival-style passenger terminal, complete with a modern four-story control tower, also opened in 1937—crowning the first phase of expansion at @flysfo.  #SFOHistory #MillsField https://t.co/EDB6hv7ZWG",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

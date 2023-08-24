@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1333470253,
       "created_at": "Tue Apr 03 16:24:13 +0000 2012",
@@ -70,6 +73,9 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "janniaragon"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -97,7 +103,7 @@
       }
     ],
     "wof:id": 1729309125,
-    "wof:lastmodified": 1692219580,
+    "wof:lastmodified": 1692895853,
     "wof:name": "That's exactly what we like to hear! RT @janniaragon: The art in #SFO is lovely--related to sewing. Great displays. Lots looking at the art.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

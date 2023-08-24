@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "MuseumOlympics"
+    ],
     "twitter:tweet": {
       "created": 1344277806,
       "created_at": "Mon Aug 06 18:30:06 +0000 2012",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "middartmuseum",
+      "exploratorium"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729310311,
-    "wof:lastmodified": 1692219579,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Seconded! RT @middartmuseum: Concise label writing MT @exploratorium: What super-human strength would you bring to the #MuseumOlympics?",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

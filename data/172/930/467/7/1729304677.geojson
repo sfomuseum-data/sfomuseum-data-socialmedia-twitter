@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SanFrancisco"
+    ],
     "twitter:tweet": {
       "created": 1328139139,
       "created_at": "Wed Feb 01 23:32:19 +0000 2012",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "onlyinsf",
+      "calacademy"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729304677,
-    "wof:lastmodified": 1692219581,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Yes! RT @calacademy: LOVE this video about #SanFrancisco from @onlyinsf. Makes us feel lucky to be living in this city. http://t.co/1zb6wLVC",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

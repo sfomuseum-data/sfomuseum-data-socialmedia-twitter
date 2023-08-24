@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "airport",
+      "PaxEx",
+      "art"
+    ],
     "twitter:tweet": {
       "created": 1393871262,
       "created_at": "Mon Mar 03 18:27:42 +0000 2014",
@@ -105,6 +110,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFOMuseum",
+      "ellie_zheleva"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -132,7 +141,7 @@
       }
     ],
     "wof:id": 1729291573,
-    "wof:lastmodified": 1692219577,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @ellie_zheleva: Awesome Japanese toys exhibit! Thank you @SFOmuseum! #airport #PaxEx #art @ San Francisco… http://t.co/WFBR19i5AN",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

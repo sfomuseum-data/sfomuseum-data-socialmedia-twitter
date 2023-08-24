@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Onthisday",
+      "avgeek",
+      "SFOHistory"
+    ],
     "twitter:tweet": {
       "created": 1506189614,
       "created_at": "Sat Sep 23 18:00:14 +0000 2017",
@@ -163,6 +168,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -190,7 +198,7 @@
       }
     ],
     "wof:id": 1729301203,
-    "wof:lastmodified": 1692219563,
+    "wof:lastmodified": 1692895852,
     "wof:name": "#Onthisday in 1927, Hangar No. 1 at Mills Field (now @flySFO) was completed. #avgeek #SFOHistory https://t.co/rmSBoyZ7Fd",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

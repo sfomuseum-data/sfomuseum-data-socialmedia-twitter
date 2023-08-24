@@ -17,6 +17,13 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "creepy",
+      "airport",
+      "automaton",
+      "rabbit",
+      "museum"
+    ],
     "twitter:tweet": {
       "created": 1327340116,
       "created_at": "Mon Jan 23 17:35:16 +0000 2012",
@@ -116,6 +123,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "Briezeee"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -143,7 +153,7 @@
       }
     ],
     "wof:id": 1729303471,
-    "wof:lastmodified": 1692219581,
+    "wof:lastmodified": 1692895853,
     "wof:name": "We like the #creepy hash MT @Briezeee: The things you find at #airport #automaton #rabbit #museum #creepy @ SFO http://t.co/FcPjlozL",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

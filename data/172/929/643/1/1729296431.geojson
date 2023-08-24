@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1465576492,
       "created_at": "Fri Jun 10 16:34:52 +0000 2016",
@@ -177,6 +180,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "TodayInTheSky",
+      "photoJDL"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -204,7 +211,7 @@
       }
     ],
     "wof:id": 1729296431,
-    "wof:lastmodified": 1692219573,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @TodayInTheSky: June's #avgeek gallery: 30 cool aviation photos https://t.co/Bxw8MeMXmC (pic: @photoJDL) https://t.co/Pv1BB9lNrh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

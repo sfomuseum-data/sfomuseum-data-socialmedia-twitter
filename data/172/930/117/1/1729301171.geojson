@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "AskACurator"
+    ],
     "twitter:tweet": {
       "created": 1505325185,
       "created_at": "Wed Sep 13 17:53:05 +0000 2017",
@@ -105,6 +108,12 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "MarDixon",
+      "honolulumuseum",
+      "metmuseum",
+      "amhn"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -132,7 +141,7 @@
       }
     ],
     "wof:id": 1729301171,
-    "wof:lastmodified": 1692219563,
+    "wof:lastmodified": 1692895852,
     "wof:name": "@MarDixon Summer school @honolulumuseum age 7 and being dazzled by @metmuseum \u0026amp; @AMHN at age 9 sealed the magic of museums for me. –Megan #AskACurator",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

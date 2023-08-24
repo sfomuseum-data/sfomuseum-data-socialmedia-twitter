@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfo",
+      "pride",
+      "Pride2016"
+    ],
     "twitter:tweet": {
       "created": 1466968885,
       "created_at": "Sun Jun 26 19:21:25 +0000 2016",
@@ -178,6 +183,9 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -205,7 +213,7 @@
       }
     ],
     "wof:id": 1729296673,
-    "wof:lastmodified": 1692219572,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: #sfo welcomes everyone attending the San Francisco Pride Celebration. #pride #Pride2016 #sfo https://t.co/7bqV8qHfwy",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

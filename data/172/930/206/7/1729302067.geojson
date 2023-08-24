@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "HappyBirthday",
+      "SFMuni"
+    ],
     "twitter:tweet": {
       "created": 1514480572,
       "created_at": "Thu Dec 28 17:02:52 +0000 2017",
@@ -77,6 +81,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFMTAPhoto"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -104,7 +111,7 @@
       }
     ],
     "wof:id": 1729302067,
-    "wof:lastmodified": 1692219559,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @SFMTAPhoto: #HappyBirthday #SFMuni!  Today is the 105th birthday of the \"People's Railway\". Did you know that Muni was the nation's fir…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

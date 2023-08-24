@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "QFO"
+    ],
     "twitter:tweet": {
       "created": 1318369857,
       "created_at": "Tue Oct 11 21:50:57 +0000 2011",
@@ -121,6 +124,13 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "ThudRumble",
+      "questlove",
+      "DJQbert",
+      "SFOMuseum",
+      "djdstyles"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -148,7 +158,7 @@
       }
     ],
     "wof:id": 1729309467,
-    "wof:lastmodified": 1692219582,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Oh yes!! We'd love pictures! RT @thudrumble: @questlove Any pics with @DJQbert's #QFO? @SFOMuseum http://t.co/BezY0JhZ @djdstyles wax figure",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

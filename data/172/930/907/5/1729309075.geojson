@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "QFO"
+    ],
     "twitter:tweet": {
       "created": 1332795427,
       "created_at": "Mon Mar 26 20:57:07 +0000 2012",
@@ -81,6 +84,9 @@
       "source": "\u003ca href=\"http://instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "DJQbert"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -108,7 +114,7 @@
       }
     ],
     "wof:id": 1729309075,
-    "wof:lastmodified": 1692219580,
+    "wof:lastmodified": 1692895853,
     "wof:name": "And out goes @DJQbert's #QFO... http://t.co/kuI92pNc",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

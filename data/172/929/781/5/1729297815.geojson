@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "AskACurator",
+      "ToyStory20"
+    ],
     "twitter:tweet": {
       "created": 1473868713,
       "created_at": "Wed Sep 14 15:58:33 +0000 2016",
@@ -161,6 +165,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "creativecityapp"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -188,7 +195,7 @@
       }
     ],
     "wof:id": 1729297815,
-    "wof:lastmodified": 1692219570,
+    "wof:lastmodified": 1692895852,
     "wof:name": "@creativecityapp That would be #ToyStory20, as it's hard to resist @DisneyPixar's classic characters #AskACurator https://t.co/5MJ6vL8lRC",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

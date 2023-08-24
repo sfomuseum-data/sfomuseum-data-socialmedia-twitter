@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "PanAfrica",
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1370017426,
       "created_at": "Fri May 31 16:23:46 +0000 2013",
@@ -88,6 +92,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "JamesJetsOften"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -115,7 +122,7 @@
       }
     ],
     "wof:id": 1729312149,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Thanks to the folks who came to last night's #PanAfrica talk by Tom Culbert! Great pic by @JamesJetsOften- http://t.co/6JnId8xbvJ #avgeek",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

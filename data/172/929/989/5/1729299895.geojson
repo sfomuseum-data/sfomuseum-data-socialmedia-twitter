@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "CopaMatch"
+    ],
     "twitter:tweet": {
       "created": 1492459543,
       "created_at": "Mon Apr 17 20:05:43 +0000 2017",
@@ -81,6 +84,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -108,7 +114,7 @@
       }
     ],
     "wof:id": 1729299895,
-    "wof:lastmodified": 1692219565,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: Play the #CopaMatch game now through 5/8 at https://t.co/orQTraUSHB, for a chance to win 2 tickets to Panama City or Rio on @Co…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

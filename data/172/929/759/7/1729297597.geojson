@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfo"
+    ],
     "twitter:tweet": {
       "created": 1472061596,
       "created_at": "Wed Aug 24 17:59:56 +0000 2016",
@@ -217,6 +220,10 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -244,7 +251,7 @@
       }
     ],
     "wof:id": 1729297597,
-    "wof:lastmodified": 1692219570,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: New @SFOMuseum Exhibit! https://t.co/H2D1KCRx5y #sfo https://t.co/5dXrbludTZ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

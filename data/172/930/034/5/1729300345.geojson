@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "FlyPanAm"
+    ],
     "twitter:tweet": {
       "created": 1497455499,
       "created_at": "Wed Jun 14 15:51:39 +0000 2017",
@@ -157,6 +160,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "FlyPanAm"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -184,7 +190,7 @@
       }
     ],
     "wof:id": 1729300345,
-    "wof:lastmodified": 1692219565,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @FlyPanAm: A wonderful photo of Pan Am's L-1011-500 Clipper Flying Eagle by Erik Simonsen. #FlyPanAm https://t.co/c4SvDFoNv1",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

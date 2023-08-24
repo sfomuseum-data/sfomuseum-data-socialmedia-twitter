@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "recology",
+      "sfo",
+      "sfoairport"
+    ],
     "twitter:tweet": {
       "created": 1375481587,
       "created_at": "Fri Aug 02 22:13:07 +0000 2013",
@@ -100,6 +105,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "rice2mo"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -127,7 +135,7 @@
       }
     ],
     "wof:id": 1729312415,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Awesome photos from our #recology exhibit! RT @rice2mo: SFO Airport Display. #sfo #sfoairport http://t.co/wa3myuEO8K",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

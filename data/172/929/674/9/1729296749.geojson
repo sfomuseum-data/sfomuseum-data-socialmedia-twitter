@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1467226126,
       "created_at": "Wed Jun 29 18:48:46 +0000 2016",
@@ -177,6 +180,11 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "mayoredlee",
+      "MayorsOfficeSF"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -204,7 +212,7 @@
       }
     ],
     "wof:id": 1729296749,
-    "wof:lastmodified": 1692219572,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: San Francisco's Mayor @mayoredlee at the T1 groundbreaking ceremony. #SFO @MayorsOfficeSF https://t.co/zsSpfjvowu",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

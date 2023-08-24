@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "HarveyMilkDay",
+      "HarveyMilkArchives"
+    ],
     "twitter:tweet": {
       "created": 1590180858,
       "created_at": "Fri May 22 20:54:18 +0000 2020",
@@ -77,6 +81,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFPublicLibrary"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -104,7 +111,7 @@
       }
     ],
     "wof:id": 1729308485,
-    "wof:lastmodified": 1692219543,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @SFPublicLibrary: Celebrating #HarveyMilkDay \u0026amp; honoring his gay rights activism. SFPL is the home to the #HarveyMilkArchives More photos…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

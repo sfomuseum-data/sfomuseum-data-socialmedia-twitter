@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "OnThisDay"
+    ],
     "twitter:tweet": {
       "created": 1551574057,
       "created_at": "Sun Mar 03 00:47:37 +0000 2019",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "airlinemaps",
+      "united"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729305547,
-    "wof:lastmodified": 1692219551,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @airlinemaps: #OnThisDay Continental flew its last flight in 2012, when it merged into @united. Their proposed merger map from 2010 http…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

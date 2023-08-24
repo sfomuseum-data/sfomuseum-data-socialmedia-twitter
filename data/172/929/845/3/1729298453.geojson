@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "AVgeeks"
+    ],
     "twitter:tweet": {
       "created": 1324338541,
       "created_at": "Mon Dec 19 23:49:01 +0000 2011",
@@ -100,6 +103,10 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFGate",
+      "Hillermuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -127,7 +134,7 @@
       }
     ],
     "wof:id": 1729298453,
-    "wof:lastmodified": 1692219581,
+    "wof:lastmodified": 1692895853,
     "wof:name": "#AVgeeks, it's the 100th anniv. of pioneering flight over Mt. Tam; via @SFGate http://t.co/hKQPEVWh \u0026 @Hillermuseum http://t.co/oW5Z0E32",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

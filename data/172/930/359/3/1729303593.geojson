@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "LeahRosenberg",
+      "publicart"
+    ],
     "twitter:tweet": {
       "created": 1530992404,
       "created_at": "Sat Jul 07 19:40:04 +0000 2018",
@@ -166,6 +170,9 @@
       "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFAC"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -193,7 +200,7 @@
       }
     ],
     "wof:id": 1729303593,
-    "wof:lastmodified": 1692219556,
+    "wof:lastmodified": 1692895852,
     "wof:name": "See \"Everywhere a Color\" by #LeahRosenberg, on display, post-security in the International Terminal. #publicart @SFAC https://t.co/KJ7W8I2vxb https://t.co/tQ5wR18XEz",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

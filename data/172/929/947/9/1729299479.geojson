@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "GamesOfChance",
+      "SFO",
+      "gaming"
+    ],
     "twitter:tweet": {
       "created": 1488302779,
       "created_at": "Tue Feb 28 17:26:19 +0000 2017",
@@ -94,6 +99,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "onthebass",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -121,7 +130,7 @@
       }
     ],
     "wof:id": 1729299479,
-    "wof:lastmodified": 1692219566,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @onthebass: @SFOMuseum your current exhibition #GamesOfChance is awesome. Thnx for not being a standard boring airport #SFO #gaming #pok…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

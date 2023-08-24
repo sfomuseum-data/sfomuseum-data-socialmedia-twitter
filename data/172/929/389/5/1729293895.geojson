@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SpreadYourWings",
+      "NationalAviationDay"
+    ],
     "twitter:tweet": {
       "created": 1439923666,
       "created_at": "Tue Aug 18 18:47:46 +0000 2015",
@@ -88,6 +92,9 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "NASAaero"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -115,7 +122,7 @@
       }
     ],
     "wof:id": 1729293895,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @NASAAero: Decided where to #SpreadYourWings tomorrow for #NationalAviationDay? Take a pic and post it! http://t.co/DId1OzAwmy http://t.…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

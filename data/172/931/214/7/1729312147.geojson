@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "LOSTWARRIOR"
+    ],
     "twitter:tweet": {
       "created": 1370022158,
       "created_at": "Fri May 31 17:42:38 +0000 2013",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "asianartmuseum",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729312147,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @asianartmuseum: #LOSTWARRIOR enjoying some @sfomuseum art (from our collection) at the airport. Maybe he already misses us http://t.co/…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

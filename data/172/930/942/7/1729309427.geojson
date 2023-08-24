@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "artsfund"
+    ],
     "twitter:tweet": {
       "created": 1335474977,
       "created_at": "Thu Apr 26 21:16:17 +0000 2012",
@@ -75,6 +78,9 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "ybca"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -102,7 +108,7 @@
       }
     ],
     "wof:id": 1729309427,
-    "wof:lastmodified": 1692219580,
+    "wof:lastmodified": 1692895853,
     "wof:name": "@ybca That was great - thank you! #artsfund",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

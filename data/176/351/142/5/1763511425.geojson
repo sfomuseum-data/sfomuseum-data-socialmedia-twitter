@@ -14,6 +14,9 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1607553142,
       "created_at": "Wed Dec 09 22:32:22 +0000 2020",
@@ -77,6 +80,10 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "airportscouncil",
+      "flySFO"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -103,7 +110,7 @@
       }
     ],
     "wof:id": 1763511425,
-    "wof:lastmodified": 1692219542,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @flySFO: Health and safety is our priority. #SFO has received the Airport Health Accreditation from @airportscouncil, which evaluates ne…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

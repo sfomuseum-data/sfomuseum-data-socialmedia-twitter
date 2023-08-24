@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "grouphug",
+      "ceramics"
+    ],
     "twitter:tweet": {
       "created": 1344979798,
       "created_at": "Tue Aug 14 21:29:58 +0000 2012",
@@ -87,6 +91,10 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "vb2023",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -114,7 +122,7 @@
       }
     ],
     "wof:id": 1729310339,
-    "wof:lastmodified": 1692219579,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Yow! We love that you love our programming! #grouphug RT @VB2023: .@SFOMuseum Love your programming, girl!  #ceramics",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

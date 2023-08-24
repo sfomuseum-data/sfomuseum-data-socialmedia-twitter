@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "FashionInFlight",
+      "Delta",
+      "crewlife"
+    ],
     "twitter:tweet": {
       "created": 1476813584,
       "created_at": "Tue Oct 18 17:59:44 +0000 2016",
@@ -84,6 +89,9 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -111,7 +119,7 @@
       }
     ],
     "wof:id": 1729298171,
-    "wof:lastmodified": 1692219569,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @SFOMuseum: #Delta’s 1969 to 1970 polyester-knit dress uniform came in three pastel colors. #crewlife #FashionInFlight https://t.co/ZZs0…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

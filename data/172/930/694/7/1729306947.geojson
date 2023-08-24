@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "AskaCuratorDay"
+    ],
     "twitter:tweet": {
       "created": 1568828926,
       "created_at": "Wed Sep 18 17:48:46 +0000 2019",
@@ -174,6 +177,10 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "Railok",
+      "SAS"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -201,7 +208,7 @@
       }
     ],
     "wof:id": 1729306947,
-    "wof:lastmodified": 1692219546,
+    "wof:lastmodified": 1692895851,
     "wof:name": "@Railok Hi Stefan! We have over 400 objects pertaining to @SAS, you can see a few of the objects we have on our online database such as this flight bag. https://t.co/dpWpXE8VOm Thanks for asking! #AskaCuratorDay https://t.co/iUeVqe1flx",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

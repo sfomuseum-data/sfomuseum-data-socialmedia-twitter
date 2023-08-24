@@ -17,6 +17,12 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Sikorksy",
+      "panam",
+      "LatinAmerica",
+      "TBT"
+    ],
     "twitter:tweet": {
       "created": 1535662633,
       "created_at": "Thu Aug 30 20:57:13 +0000 2018",
@@ -178,6 +184,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "panamhistory"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -205,7 +214,7 @@
       }
     ],
     "wof:id": 1729303997,
-    "wof:lastmodified": 1692219555,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @panamhistory: August 30, 1932 Pan Am received #Sikorksy S-40 \"Southern Clipper\" #panam #LatinAmerica #TBT https://t.co/7OJwgf8Lwv",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

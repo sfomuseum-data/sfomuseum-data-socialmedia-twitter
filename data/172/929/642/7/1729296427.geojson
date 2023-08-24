@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "StrengthInNumbers",
+      "Warriors",
+      "NBAFinals"
+    ],
     "twitter:tweet": {
       "created": 1465621131,
       "created_at": "Sat Jun 11 04:58:51 +0000 2016",
@@ -84,6 +89,9 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "mayoredlee"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -111,7 +119,7 @@
       }
     ],
     "wof:id": 1729296427,
-    "wof:lastmodified": 1692219572,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @mayoredlee: Great game, #Warriors! #NBAFinals #StrengthInNumbers",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFSU"
+    ],
     "twitter:tweet": {
       "created": 1427994553,
       "created_at": "Thu Apr 02 17:09:13 +0000 2015",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFStateLCA",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729293265,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @SFStateLCA: Exhibit of Egyptian artifacts @SFOMuseum features items from #SFSU Sutro collection http://t.co/Lqt2Y5yd8r",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

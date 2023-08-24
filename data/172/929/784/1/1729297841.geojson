@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "HIPHOP"
+    ],
     "twitter:tweet": {
       "created": 1323996828,
       "created_at": "Fri Dec 16 00:53:48 +0000 2011",
@@ -111,6 +114,12 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "ThudRumble",
+      "DJQbert",
+      "nytimes",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -138,7 +147,7 @@
       }
     ],
     "wof:id": 1729297841,
-    "wof:lastmodified": 1692219582,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @ThudRumble: @DJQbert made it in the @NYTimes for his free #HIPHOP show at the @SFOMuseum airport!  http://t.co/TD1C6Bnv",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

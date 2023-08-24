@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfo"
+    ],
     "twitter:tweet": {
       "created": 1362071959,
       "created_at": "Thu Feb 28 17:19:19 +0000 2013",
@@ -70,6 +73,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "alithek"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -97,7 +103,7 @@
       }
     ],
     "wof:id": 1729311501,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @alithek: Board game exhibit at #sfo featuring \"Easy Money\" - a game similar to Monopoly that never took off in the same way. http:// ...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

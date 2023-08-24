@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "streetart"
+    ],
     "twitter:tweet": {
       "created": 1378250964,
       "created_at": "Tue Sep 03 23:29:24 +0000 2013",
@@ -81,6 +84,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SVG_airport"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -108,7 +114,7 @@
       }
     ],
     "wof:id": 1729290691,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Art in airports? How about art ON airports? Norway's @SVG_Airport has fresh paint on their control tower: http://t.co/7lDWY1BULL #streetart",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

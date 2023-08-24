@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "1950sConsumer"
+    ],
     "twitter:tweet": {
       "created": 1551292054,
       "created_at": "Wed Feb 27 18:27:34 +0000 2019",
@@ -90,6 +93,11 @@
       "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "PurcellOutdoors",
+      "flySFO",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -117,7 +125,7 @@
       }
     ],
     "wof:id": 1729305485,
-    "wof:lastmodified": 1692219551,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @PurcellOutdoors: Love the exhibits at @flySFO in general. But this one just might be my favorite #1950sConsumer @SFOMuseum Mid-century…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

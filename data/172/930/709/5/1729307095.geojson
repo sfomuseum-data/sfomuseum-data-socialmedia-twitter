@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFOHistory",
+      "nationalpancakeday"
+    ],
     "twitter:tweet": {
       "created": 1569553200,
       "created_at": "Fri Sep 27 03:00:00 +0000 2019",
@@ -192,6 +196,9 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -219,7 +226,7 @@
       }
     ],
     "wof:id": 1729307095,
-    "wof:lastmodified": 1692219546,
+    "wof:lastmodified": 1692895851,
     "wof:name": "Pancake Palace used to be a restaurant in the old International Terminal (now Terminal 2) at @flysfo. It boasted 14 different varieties of pancakes in the 1960s. Did you ever dine there? Which pancake would you order? #SFOHistory #nationalpancakeday https://t.co/tb1yjEvE7i",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,12 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "airportart",
+      "windows",
+      "art",
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1329424433,
       "created_at": "Thu Feb 16 20:33:53 +0000 2012",
@@ -119,6 +125,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "IHateTaxis",
+      "yingaling"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -146,7 +156,7 @@
       }
     ],
     "wof:id": 1729307155,
-    "wof:lastmodified": 1692219581,
+    "wof:lastmodified": 1692895853,
     "wof:name": "We're great for #art!!! RT @IHateTaxis: #SFO is gr8 4 #airportart RT @yingaling: Window #art #windows @ SFO http://t.co/fZBAGki8",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

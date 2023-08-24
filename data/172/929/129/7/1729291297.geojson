@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "RevolutionsPerMinute"
+    ],
     "twitter:tweet": {
       "created": 1320701926,
       "created_at": "Mon Nov 07 21:38:46 +0000 2011",
@@ -101,6 +104,11 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "LotusSF",
+      "DJQbert",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -128,7 +136,7 @@
       }
     ],
     "wof:id": 1729291297,
-    "wof:lastmodified": 1692219582,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @LotusSF: Missing that early afternoon flight wasn't so bad after all... @djqbert  @sfomuseum #RevolutionsPerMinute http://t.co/FdjoKdgl",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

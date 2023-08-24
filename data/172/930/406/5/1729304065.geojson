@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "FF"
+    ],
     "twitter:tweet": {
       "created": 1327683845,
       "created_at": "Fri Jan 27 17:04:05 +0000 2012",
@@ -110,6 +113,13 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "Airportia",
+      "caseyflies",
+      "SFOMuseum",
+      "skyharborgirl",
+      "NBAA"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -137,7 +147,7 @@
       }
     ],
     "wof:id": 1729304065,
-    "wof:lastmodified": 1692219581,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Thanks! We hope you do, too! RT @caseyflies: It's Friday! Have a great weekend @SFOMuseum @skyharborgirl @NBAA @FlyPHF @Airportia #FF",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

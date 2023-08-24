@@ -14,6 +14,12 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "PublicArt",
+      "SpencerFinch",
+      "Scuplture",
+      "LED"
+    ],
     "twitter:tweet": {
       "created": 1688160108,
       "created_at": "Fri Jun 30 21:21:48 +0000 2023",
@@ -172,6 +178,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFAC"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -198,7 +207,7 @@
       }
     ],
     "wof:id": 1880136761,
-    "wof:lastmodified": 1692219535,
+    "wof:lastmodified": 1692895851,
     "wof:name": "Finch affixes colored filters on LED light tubes to represent the spectral color emission of each star. For example, Betelgeuse is a very old star and appears red in the night sky. @SFAC #PublicArt #SpencerFinch #Scuplture #LED https://t.co/mhQ7nOSX7n",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

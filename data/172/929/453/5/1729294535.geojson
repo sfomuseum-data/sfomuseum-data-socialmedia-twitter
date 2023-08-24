@@ -17,6 +17,13 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "airport",
+      "artgallery",
+      "JanetEchelman",
+      "art",
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1448321211,
       "created_at": "Mon Nov 23 23:26:51 +0000 2015",
@@ -185,6 +192,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "limeSHIFTart"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -212,7 +222,7 @@
       }
     ],
     "wof:id": 1729294535,
-    "wof:lastmodified": 1692219574,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @limeSHIFTart: #airport as #artgallery / loving #JanetEchelman's #art piece at #SFO https://t.co/Zdr1HO9yML",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

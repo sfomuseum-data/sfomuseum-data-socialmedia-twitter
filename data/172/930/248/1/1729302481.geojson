@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "NationalPigDay"
+    ],
     "twitter:tweet": {
       "created": 1519941979,
       "created_at": "Thu Mar 01 22:06:19 +0000 2018",
@@ -198,6 +201,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "lilouthepig"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -225,7 +232,7 @@
       }
     ],
     "wof:id": 1729302481,
-    "wof:lastmodified": 1692219558,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: Today is #NationalPigDay and @lilouthepig is here in T3 🐷 https://t.co/0qW6XpTwc6",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

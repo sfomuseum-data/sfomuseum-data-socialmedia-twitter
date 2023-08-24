@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "OnThisDay",
+      "avgeek",
+      "sfohistory"
+    ],
     "twitter:tweet": {
       "created": 1502747710,
       "created_at": "Mon Aug 14 21:55:10 +0000 2017",
@@ -173,6 +178,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "united",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -200,7 +209,7 @@
       }
     ],
     "wof:id": 1729300855,
-    "wof:lastmodified": 1692219563,
+    "wof:lastmodified": 1692895852,
     "wof:name": "#OnThisDay in 1971, the first Douglas DC-10 service started at San Francisco International Airport. @united @flysfo #avgeek #sfohistory https://t.co/chxboLNyiB",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "OnThisDay",
+      "SFOHistory"
+    ],
     "twitter:tweet": {
       "created": 1465321978,
       "created_at": "Tue Jun 07 17:52:58 +0000 2016",
@@ -156,6 +160,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -183,7 +190,7 @@
       }
     ],
     "wof:id": 1729296349,
-    "wof:lastmodified": 1692219573,
+    "wof:lastmodified": 1692895852,
     "wof:name": "#OnThisDay in 1927, the Mills Field Municipal Airport of San Francisco began operations. #SFOHistory @flySFO https://t.co/dKAcGtV20r",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

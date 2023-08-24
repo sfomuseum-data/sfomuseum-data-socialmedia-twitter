@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "askacurator"
+    ],
     "twitter:tweet": {
       "created": 1505331937,
       "created_at": "Wed Sep 13 19:45:37 +0000 2017",
@@ -81,6 +84,9 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "AskaCurator"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -108,7 +114,7 @@
       }
     ],
     "wof:id": 1729301147,
-    "wof:lastmodified": 1692219563,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @AskACurator: Good questions for all #askacurator https://t.co/9iA9l2NUzu",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

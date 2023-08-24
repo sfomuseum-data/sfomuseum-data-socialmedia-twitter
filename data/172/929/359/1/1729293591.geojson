@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "ILoveYouCA",
+      "FossilFriday"
+    ],
     "twitter:tweet": {
       "created": 1437163084,
       "created_at": "Fri Jul 17 19:58:04 +0000 2015",
@@ -156,6 +160,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "calacademy"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -183,7 +190,7 @@
       }
     ],
     "wof:id": 1729293591,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "A 145 million year old ammonite is featured in our #ILoveYouCA exhibit, loaned from @calacademy! #FossilFriday http://t.co/9hvn9Gdc0H",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

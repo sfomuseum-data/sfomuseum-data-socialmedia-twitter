@@ -17,6 +17,12 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO",
+      "Vestax",
+      "djqbert",
+      "t2"
+    ],
     "twitter:tweet": {
       "created": 1326303303,
       "created_at": "Wed Jan 11 17:35:03 +0000 2012",
@@ -101,6 +107,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "rwang0",
+      "XochiAdame"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -128,7 +138,7 @@
       }
     ],
     "wof:id": 1729301543,
-    "wof:lastmodified": 1692219581,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @xochiadame: Invisible Skratch Piklz! :'D RT @rwang0: Cool display of turntables at #SFO #Vestax from #djqbert on display in #t2 http ...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Recology",
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1381359397,
       "created_at": "Wed Oct 09 22:56:37 +0000 2013",
@@ -164,6 +168,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "RAMEKON"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -191,7 +198,7 @@
       }
     ],
     "wof:id": 1729290867,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Dive into art! RT @RAMEKON: The Art of #Recology: The Artist in Residence Program 1990–2013 at #SFO http://t.co/47pyvx8mXF",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

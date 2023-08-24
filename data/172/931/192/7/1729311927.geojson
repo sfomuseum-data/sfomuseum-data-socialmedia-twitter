@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "quote"
+    ],
     "twitter:tweet": {
       "created": 1319731382,
       "created_at": "Thu Oct 27 16:03:02 +0000 2011",
@@ -70,6 +73,9 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "metmuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -97,7 +103,7 @@
       }
     ],
     "wof:id": 1729311927,
-    "wof:lastmodified": 1692219582,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @metmuseum: \"Painting is not separate from life. It is one.\"—Lee Krasner #quote",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

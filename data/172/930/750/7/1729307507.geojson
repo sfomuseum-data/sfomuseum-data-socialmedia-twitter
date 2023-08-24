@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "onthisday",
+      "SFOHistory"
+    ],
     "twitter:tweet": {
       "created": 1575998406,
       "created_at": "Tue Dec 10 17:20:06 +0000 2019",
@@ -156,6 +160,9 @@
       "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -183,7 +190,7 @@
       }
     ],
     "wof:id": 1729307507,
-    "wof:lastmodified": 1692219545,
+    "wof:lastmodified": 1692895851,
     "wof:name": "Officially opened to the public #onthisday in 2000, the International Terminal at SFO was then the largest public works project in Northern California. Have you ever flown out of our International Terminal? #SFOHistory @flySFO \n\nPhoto by Alain McLaughlin. https://t.co/mUNY8EiCFc",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

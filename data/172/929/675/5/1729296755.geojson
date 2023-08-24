@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1467223710,
       "created_at": "Wed Jun 29 18:08:30 +0000 2016",
@@ -188,6 +191,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -215,7 +221,7 @@
       }
     ],
     "wof:id": 1729296755,
-    "wof:lastmodified": 1692219572,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: #SFO Terminal 1 groundbreaking ceremony! https://t.co/rkczFLYDaw",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

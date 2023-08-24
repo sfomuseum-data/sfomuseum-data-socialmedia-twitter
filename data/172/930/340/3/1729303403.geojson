@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "OTD",
+      "Boeing"
+    ],
     "twitter:tweet": {
       "created": 1528839228,
       "created_at": "Tue Jun 12 21:33:48 +0000 2018",
@@ -77,6 +81,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "BoeingAirplanes"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -104,7 +111,7 @@
       }
     ],
     "wof:id": 1729303403,
-    "wof:lastmodified": 1692219556,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @BoeingAirplanes: #OTD in 1994, the world watched as our #Boeing 777 took to the skies for the first time. The 777 is going strong today…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

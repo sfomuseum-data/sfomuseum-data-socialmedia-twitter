@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1384798722,
       "created_at": "Mon Nov 18 18:18:42 +0000 2013",
@@ -105,6 +108,12 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "MichaelFabiano",
+      "JamesJetsOften",
+      "routehappy",
+      "thatjohn"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -132,7 +141,7 @@
       }
     ],
     "wof:id": 1729291105,
-    "wof:lastmodified": 1692219577,
+    "wof:lastmodified": 1692895853,
     "wof:name": "@JamesJetsOften Will do! Expect the #avgeek news later this week.  (cc: @routehappy @thatjohn @MichaelFabiano)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

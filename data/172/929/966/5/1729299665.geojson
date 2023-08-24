@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "OTD",
+      "womenshistorymonth",
+      "herstory"
+    ],
     "twitter:tweet": {
       "created": 1489783880,
       "created_at": "Fri Mar 17 20:51:20 +0000 2017",
@@ -84,6 +89,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "futureofflight"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -111,7 +119,7 @@
       }
     ],
     "wof:id": 1729299665,
-    "wof:lastmodified": 1692219566,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @futureofflight: #OTD in 1937, Amelia Earhart made her first attempt of her around-the-world flight. #womenshistorymonth #herstory #hist…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

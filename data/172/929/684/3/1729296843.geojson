@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFOHistory"
+    ],
     "twitter:tweet": {
       "created": 1468372807,
       "created_at": "Wed Jul 13 01:20:07 +0000 2016",
@@ -149,6 +152,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -176,7 +182,7 @@
       }
     ],
     "wof:id": 1729296843,
-    "wof:lastmodified": 1692219571,
+    "wof:lastmodified": 1692895852,
     "wof:name": "One of the earliest fully enclosed, retractable jet bridges was installed at @flySFO in 1959.    #SFOHistory https://t.co/vbAvjdyCHX",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

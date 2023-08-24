@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1473207654,
       "created_at": "Wed Sep 07 00:20:54 +0000 2016",
@@ -237,6 +240,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -264,7 +270,7 @@
       }
     ],
     "wof:id": 1729297747,
-    "wof:lastmodified": 1692219570,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: Sneak peek of the interim boarding area B opening this Thursday morning! #SFO https://t.co/fT6rN7JCqh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

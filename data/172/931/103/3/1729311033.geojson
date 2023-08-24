@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1351883067,
       "created_at": "Fri Nov 02 19:04:27 +0000 2012",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFAC",
+      "SFMOMA"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729311033,
-    "wof:lastmodified": 1692219579,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @SFAC: Civic Art Cllxn painting by Jay DeFeo originally purchased for #SFO hits big time in @SFMOMA retrospective... http://t.co/cvKlAk4D",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -14,6 +14,10 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFGiants",
+      "ResilientSF"
+    ],
     "twitter:tweet": {
       "created": 1633023069,
       "created_at": "Thu Sep 30 17:31:09 +0000 2021",
@@ -291,6 +295,10 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO",
+      "AlaskaAir"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -317,7 +325,7 @@
       }
     ],
     "wof:id": 1763585615,
-    "wof:lastmodified": 1692219537,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @flySFO: This new #SFGiants @AlaskaAir livery 🥳\n\n#ResilientSF https://t.co/0lURRyUUjV",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

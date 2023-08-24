@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "TheTypewriter"
+    ],
     "twitter:tweet": {
       "created": 1495489206,
       "created_at": "Mon May 22 21:40:06 +0000 2017",
@@ -75,6 +78,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "Dr_Stofer"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -102,7 +108,7 @@
       }
     ],
     "wof:id": 1729300197,
-    "wof:lastmodified": 1692219565,
+    "wof:lastmodified": 1692895852,
     "wof:name": "@dr_stofer Thank you for the thoughtful inquiry and for your interest in our exhibition! We hope you enjoyed stopping by! #TheTypewriter (3/3)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

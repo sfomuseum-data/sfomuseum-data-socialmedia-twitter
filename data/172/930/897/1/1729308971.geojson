@@ -17,6 +17,13 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO",
+      "travel",
+      "airport",
+      "art",
+      "sewing"
+    ],
     "twitter:tweet": {
       "created": 1331595001,
       "created_at": "Mon Mar 12 23:30:01 +0000 2012",
@@ -109,6 +116,9 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "StuckatAirport"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -136,7 +146,7 @@
       }
     ],
     "wof:id": 1729308971,
-    "wof:lastmodified": 1692219580,
+    "wof:lastmodified": 1692895853,
     "wof:name": "We're \"sew\" happy about the exhibit! MT @StuckatAirport: Things are \"sew-sew\" at #SFO. http://t.co/D6WHnVHX #travel #airport #art #sewing",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

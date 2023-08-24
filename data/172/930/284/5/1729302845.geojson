@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "travel"
+    ],
     "twitter:tweet": {
       "created": 1326910739,
       "created_at": "Wed Jan 18 18:18:59 +0000 2012",
@@ -101,6 +104,11 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "travergence",
+      "SFOMuseum",
+      "Jaunted"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -128,7 +136,7 @@
       }
     ],
     "wof:id": 1729302845,
-    "wof:lastmodified": 1692219581,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @travergence: Love this @sfomuseum exhibit of in-flight cocktails circa 1960s-1980s http://t.co/hHd5mFBo via @jaunted #travel",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

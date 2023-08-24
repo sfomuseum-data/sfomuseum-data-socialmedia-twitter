@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "PetMe",
+      "NationalPuppyDay"
+    ],
     "twitter:tweet": {
       "created": 1458761556,
       "created_at": "Wed Mar 23 19:32:36 +0000 2016",
@@ -164,6 +168,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -191,7 +198,7 @@
       }
     ],
     "wof:id": 1729295539,
-    "wof:lastmodified": 1692219574,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: Our Wag Brigade dogs still like to be treated like puppies! #PetMe #NationalPuppyDay https://t.co/ls872mhpRW",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

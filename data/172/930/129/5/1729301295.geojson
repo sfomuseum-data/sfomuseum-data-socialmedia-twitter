@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfo"
+    ],
     "twitter:tweet": {
       "created": 1506536605,
       "created_at": "Wed Sep 27 18:23:25 +0000 2017",
@@ -81,6 +84,9 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -108,7 +114,7 @@
       }
     ],
     "wof:id": 1729301295,
-    "wof:lastmodified": 1692219563,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: #sfo is looking for a 3522 Senior Museum Preparator! Visit https://t.co/qCb2Bmu1P3 for info and to apply.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

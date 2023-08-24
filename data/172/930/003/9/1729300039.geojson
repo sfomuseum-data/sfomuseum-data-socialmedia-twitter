@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "OnThisDay"
+    ],
     "twitter:tweet": {
       "created": 1493742710,
       "created_at": "Tue May 02 16:31:50 +0000 2017",
@@ -81,6 +84,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "sciencemuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -108,7 +114,7 @@
       }
     ],
     "wof:id": 1729300039,
-    "wof:lastmodified": 1692219565,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @sciencemuseum: #OnThisDay in 1952 a de Havilland Comet became the first jet aircraft to enter commercial service https://t.co/ingtUfYAcw",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

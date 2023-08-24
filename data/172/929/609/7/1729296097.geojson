@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "DYK",
+      "womenshistory",
+      "womeninaviation"
+    ],
     "twitter:tweet": {
       "created": 1462985907,
       "created_at": "Wed May 11 16:58:27 +0000 2016",
@@ -84,6 +89,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "womenshistory"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -111,7 +119,7 @@
       }
     ],
     "wof:id": 1729296097,
-    "wof:lastmodified": 1692219573,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @womenshistory: #DYK Harriet Quimby was the first woman to fly solo across the English Channel #womenshistory #womeninaviation",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

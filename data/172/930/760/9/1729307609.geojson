@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1578351207,
       "created_at": "Mon Jan 06 22:53:27 +0000 2020",
@@ -70,6 +73,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -97,7 +103,7 @@
       }
     ],
     "wof:id": 1729307609,
-    "wof:lastmodified": 1692219545,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @flySFO: 🗣️ Our 2020 summer internship program is now accepting applications! See what it's like to work at #SFO and learn more about ca…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "London",
+      "GoldsmithsFair",
+      "BritishSilver"
+    ],
     "twitter:tweet": {
       "created": 1538786471,
       "created_at": "Sat Oct 06 00:41:11 +0000 2018",
@@ -286,6 +291,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "GoldsmithsCo"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -313,7 +321,7 @@
       }
     ],
     "wof:id": 1729304431,
-    "wof:lastmodified": 1692219554,
+    "wof:lastmodified": 1692895852,
     "wof:name": "Some of the objects in \"A Sterling Renaissance\" were purchased at #London’s #GoldsmithsFair, an annual purchasing fair held by The @GoldsmithsCo that places the public in direct contact with extraordinary artists. Happening this weekend: https://t.co/z3aOghKGzY #BritishSilver https://t.co/GMUPMfQXfK",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

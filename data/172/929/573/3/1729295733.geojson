@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "ArtAndDisability"
+    ],
     "twitter:tweet": {
       "created": 1460994724,
       "created_at": "Mon Apr 18 15:52:04 +0000 2016",
@@ -90,6 +93,11 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "erinreiss",
+      "SFOMuseum",
+      "_JudithScott"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -117,7 +125,7 @@
       }
     ],
     "wof:id": 1729295733,
-    "wof:lastmodified": 1692219573,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @erinreiss: 1. @SFOMuseum exists 2. They have an amazing show about #ArtAndDisability featuring beautiful work by @_JudithScott https://…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

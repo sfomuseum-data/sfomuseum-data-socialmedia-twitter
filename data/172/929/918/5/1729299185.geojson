@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "KLMblog"
+    ],
     "twitter:tweet": {
       "created": 1485892793,
       "created_at": "Tue Jan 31 19:59:53 +0000 2017",
@@ -167,6 +170,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "KLM"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -194,7 +200,7 @@
       }
     ],
     "wof:id": 1729299185,
-    "wof:lastmodified": 1692219567,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @KLM: How to illustrate the proportions of the new Boeing 747 in 1969? https://t.co/OVubzflOCG #KLMblog https://t.co/uL5b6a24DY",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

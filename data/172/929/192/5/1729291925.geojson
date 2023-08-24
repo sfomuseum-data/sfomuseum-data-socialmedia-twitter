@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "FF"
+    ],
     "twitter:tweet": {
       "created": 1398466745,
       "created_at": "Fri Apr 25 22:59:05 +0000 2014",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "galleries_aau",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729291925,
-    "wof:lastmodified": 1692219576,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @galleries_aau: #FF @SFOMuseum - The only accredited museum at an airport is also one of the most fun!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

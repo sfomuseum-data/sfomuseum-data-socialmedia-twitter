@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1402085486,
       "created_at": "Fri Jun 06 20:11:26 +0000 2014",
@@ -75,6 +78,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "alli_burnie"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -102,7 +108,7 @@
       }
     ],
     "wof:id": 1729292113,
-    "wof:lastmodified": 1692219576,
+    "wof:lastmodified": 1692895853,
     "wof:name": "@Alli_Burnie There's free wifi in all of the terminals- select '#SFO FREE WIFI', accept the terms, \u0026amp; you should be good to go.",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

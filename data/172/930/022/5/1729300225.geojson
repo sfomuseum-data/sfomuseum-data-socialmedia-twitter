@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "ThrowbackThursday",
+      "SFOHistory"
+    ],
     "twitter:tweet": {
       "created": 1495162812,
       "created_at": "Fri May 19 03:00:12 +0000 2017",
@@ -156,6 +160,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -183,7 +190,7 @@
       }
     ],
     "wof:id": 1729300225,
-    "wof:lastmodified": 1692219565,
+    "wof:lastmodified": 1692895852,
     "wof:name": "By the late 1940s, the single terminal at @flySFO was bustling with activity, as seen in this 1948 photo. #SFOHistory #ThrowbackThursday https://t.co/jrZgRzVsGq",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

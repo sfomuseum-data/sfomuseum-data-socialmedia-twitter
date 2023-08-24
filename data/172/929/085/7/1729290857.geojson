@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO",
+      "BayBridge",
+      "EastSpan"
+    ],
     "twitter:tweet": {
       "created": 1381440458,
       "created_at": "Thu Oct 10 21:27:38 +0000 2013",
@@ -95,6 +100,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "MTCBATA"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -122,7 +130,7 @@
       }
     ],
     "wof:id": 1729290857,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @MTCBATA: Flying #SFO? Check out a new photo show: \"Aerial Artistry: The New #BayBridge #EastSpan From Above.\" http://t.co/J6TDRb6ifh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

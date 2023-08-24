@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1408406619,
       "created_at": "Tue Aug 19 00:03:39 +0000 2014",
@@ -100,6 +103,12 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "StanfordLibs",
+      "larrybobsf",
+      "DavidRumseyMaps",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -127,7 +136,7 @@
       }
     ],
     "wof:id": 1729292353,
-    "wof:lastmodified": 1692219576,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @larrybobsf: Exhibit of @DavidRumseyMaps at #SFO @flySFO is a cool slice of SF history. They're held by @StanfordLibs, online at http://…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

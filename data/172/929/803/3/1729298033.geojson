@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "avgeek",
+      "planespotter",
+      "sfo"
+    ],
     "twitter:tweet": {
       "created": 1475253943,
       "created_at": "Fri Sep 30 16:45:43 +0000 2016",
@@ -95,6 +100,9 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -122,7 +130,7 @@
       }
     ],
     "wof:id": 1729298033,
-    "wof:lastmodified": 1692219569,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: Thanks for sharing! #sfo #avgeek #planespotter https://t.co/ftBC8pR9nR",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

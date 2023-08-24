@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SF"
+    ],
     "twitter:tweet": {
       "created": 1497995097,
       "created_at": "Tue Jun 20 21:44:57 +0000 2017",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "mayoredlee",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729300423,
-    "wof:lastmodified": 1692219564,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @mayoredlee: We want our visitors to enjoy #SF the moment they step off the plane. The new Grand Hyatt a @flysfo will make our great air…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "advertising",
+      "PopCulture"
+    ],
     "twitter:tweet": {
       "created": 1412635617,
       "created_at": "Mon Oct 06 22:46:57 +0000 2014",
@@ -98,6 +102,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFOMuseum",
+      "Blazenhoff"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -125,7 +133,7 @@
       }
     ],
     "wof:id": 1729292581,
-    "wof:lastmodified": 1692219576,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @Blazenhoff: There's a vintage #advertising icon exhibit at @SFOMuseum by #PopCulture historian Warren Dotz!  http://t.co/VVFlJx2diG #cu…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

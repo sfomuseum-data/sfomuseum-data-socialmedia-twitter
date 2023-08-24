@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "HappyBirthdaySaulBass",
+      "SaulBass"
+    ],
     "twitter:tweet": {
       "created": 1525802827,
       "created_at": "Tue May 08 18:07:07 +0000 2018",
@@ -174,6 +178,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "e_russell"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -201,7 +208,7 @@
       }
     ],
     "wof:id": 1729303123,
-    "wof:lastmodified": 1692219556,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @e_russell: #HappyBirthdaySaulBass 🎂 https://t.co/Yd9Kr4O8ls #SaulBass https://t.co/AOalbn3RHd",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "avgeeks"
+    ],
     "twitter:tweet": {
       "created": 1406833828,
       "created_at": "Thu Jul 31 19:10:28 +0000 2014",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "airandspace",
+      "BoingBoing"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729292317,
-    "wof:lastmodified": 1692219576,
+    "wof:lastmodified": 1692895853,
     "wof:name": "DC #avgeeks, check out @airandspace's new exhibit, Hawaii By Air: http://t.co/1YRV3bXAqT We LOVE that Continental poster! (via @boingboing)",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

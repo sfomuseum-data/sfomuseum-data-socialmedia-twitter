@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "MuseumLove"
+    ],
     "twitter:tweet": {
       "created": 1318962723,
       "created_at": "Tue Oct 18 18:32:03 +0000 2011",
@@ -101,6 +104,11 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "sfexaminer",
+      "creativitykids",
+      "zeum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -128,7 +136,7 @@
       }
     ],
     "wof:id": 1729310685,
-    "wof:lastmodified": 1692219582,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Congrats \u0026 #MuseumLove to @creativitykids (former @zeum) on their successful reopening and rebranding! Via @sfexaminer http://t.co/rZrXubwl",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

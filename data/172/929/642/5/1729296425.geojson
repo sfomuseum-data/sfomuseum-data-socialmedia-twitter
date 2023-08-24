@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "wowair"
+    ],
     "twitter:tweet": {
       "created": 1465576868,
       "created_at": "Fri Jun 10 16:41:08 +0000 2016",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "wow_air",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729296425,
-    "wof:lastmodified": 1692219573,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @wow_air: Here you can see a #wowair Airbus A330 landing at San Francisco International Airport (@flySFO) for the first time! https://t.…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

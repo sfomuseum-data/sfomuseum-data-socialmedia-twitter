@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "WelcomeHKAirlines"
+    ],
     "twitter:tweet": {
       "created": 1521131992,
       "created_at": "Thu Mar 15 16:39:52 +0000 2018",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "hkairlines",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729302685,
-    "wof:lastmodified": 1692219558,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: Enter the #WelcomeHKAirlines Contest by 4/16, for a chance to win 2 round trip economy tickets to Hong Kong on @hkairlines . To…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

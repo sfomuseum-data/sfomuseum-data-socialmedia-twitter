@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "MuseumFromHome",
+      "MangaDrawingClub"
+    ],
     "twitter:tweet": {
       "created": 1585968004,
       "created_at": "Sat Apr 04 02:40:04 +0000 2020",
@@ -156,6 +160,9 @@
       "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "artschoolsfbay"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -183,7 +190,7 @@
       }
     ],
     "wof:id": 1729308229,
-    "wof:lastmodified": 1692219544,
+    "wof:lastmodified": 1692895851,
     "wof:name": "The artwork in this exhibition was created by Art School of San Francisco Bay’s #MangaDrawingClub students ages ten to seventeen. Manga is a popular Japanese art in the form of comic books which tells stories through pictures and words. #MuseumFromHome @artschoolsfbay https://t.co/jOLQHYr8LM",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

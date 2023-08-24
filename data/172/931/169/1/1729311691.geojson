@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "MuseumLove"
+    ],
     "twitter:tweet": {
       "created": 1364414868,
       "created_at": "Wed Mar 27 20:07:48 +0000 2013",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "deyoungmuseum",
+      "legionofhonor"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729311691,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Congratulations \u0026amp; #MuseumLove to @deYoungMuseum \u0026amp; @LegionofHonor on the announcement of their new Director! http://t.co/fLEH56ZlTr",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

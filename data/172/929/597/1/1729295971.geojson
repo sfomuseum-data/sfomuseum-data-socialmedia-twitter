@@ -17,6 +17,12 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "thatswhatsup",
+      "isport",
+      "monster",
+      "SFOgig"
+    ],
     "twitter:tweet": {
       "created": 1322883684,
       "created_at": "Sat Dec 03 03:41:24 +0000 2011",
@@ -111,6 +117,11 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "DJQbert",
+      "flavavicious",
+      "MonsterCable"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -138,7 +149,7 @@
       }
     ],
     "wof:id": 1729295971,
-    "wof:lastmodified": 1692219582,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @flavavicious: Okay, one more time: @monstercable #isport #monster #SFOgig @djqbert #thatswhatsup",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

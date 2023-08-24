@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "AVGeek"
+    ],
     "twitter:tweet": {
       "created": 1471399215,
       "created_at": "Wed Aug 17 02:00:15 +0000 2016",
@@ -81,6 +84,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "WIRED"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -108,7 +114,7 @@
       }
     ],
     "wof:id": 1729297421,
-    "wof:lastmodified": 1692219571,
+    "wof:lastmodified": 1692895852,
     "wof:name": "Modern flight simulators can imitate nearly every possible flight situation. Learn more in this @Wired video https://t.co/WajOKtnqr6 #AVGeek",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfo"
+    ],
     "twitter:tweet": {
       "created": 1339453386,
       "created_at": "Mon Jun 11 22:23:06 +0000 2012",
@@ -157,6 +160,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "marshallpruett"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -184,7 +190,7 @@
       }
     ],
     "wof:id": 1729309823,
-    "wof:lastmodified": 1692219579,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @marshallpruett: My airport's art kicks your airport's ass. #sfo http://t.co/kL1JuYEM",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

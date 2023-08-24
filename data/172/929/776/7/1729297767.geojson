@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "ArtAndDisability"
+    ],
     "twitter:tweet": {
       "created": 1474301697,
       "created_at": "Mon Sep 19 16:14:57 +0000 2016",
@@ -207,6 +210,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "DJ44",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -234,7 +241,7 @@
       }
     ],
     "wof:id": 1729297767,
-    "wof:lastmodified": 1692219570,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @DJ44: Great exhibit if you're coming through SFO. Don't miss @SFOMuseum #ArtAndDisability https://t.co/DPTMm5L9N2",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

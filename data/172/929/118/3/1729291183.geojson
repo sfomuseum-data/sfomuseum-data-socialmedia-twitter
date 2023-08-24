@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Japanese",
+      "toy"
+    ],
     "twitter:tweet": {
       "created": 1385155721,
       "created_at": "Fri Nov 22 21:28:41 +0000 2013",
@@ -98,6 +102,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "PlanetMidori",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -125,7 +133,7 @@
       }
     ],
     "wof:id": 1729291183,
-    "wof:lastmodified": 1692219577,
+    "wof:lastmodified": 1692895853,
     "wof:name": "GoGoGo! RT @PlanetMidori: Speed Racer \u0026amp; me! @SFOMuseum #Japanese #toy exhibit  (back in SF for 11hours!) http://t.co/0iGSbEQM5O",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

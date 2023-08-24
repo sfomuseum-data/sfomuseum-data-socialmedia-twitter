@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "museumlove",
+      "ITweetMuseums",
+      "AAM2014"
+    ],
     "twitter:tweet": {
       "created": 1400522269,
       "created_at": "Mon May 19 17:57:49 +0000 2014",
@@ -186,6 +191,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "caw_",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -213,7 +222,7 @@
       }
     ],
     "wof:id": 1729292063,
-    "wof:lastmodified": 1692219576,
+    "wof:lastmodified": 1692895853,
     "wof:name": "#museumlove to you in Seattle! RT @caw_: Art, exhibition, museum, en route. @SFOMuseum #ITweetMuseums #AAM2014 http://t.co/UbAsxZEaLi",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

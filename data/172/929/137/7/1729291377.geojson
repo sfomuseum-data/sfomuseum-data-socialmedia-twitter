@@ -17,6 +17,12 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "museum",
+      "lp",
+      "travel",
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1389217332,
       "created_at": "Wed Jan 08 21:42:12 +0000 2014",
@@ -102,6 +108,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "ManuBarack"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -129,7 +138,7 @@
       }
     ],
     "wof:id": 1729291377,
-    "wof:lastmodified": 1692219577,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @ManuBarack: 8 airports around the world with awesome art exhibits http://t.co/Mwo15aGfq3 #travel #SFO #museum #lp",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

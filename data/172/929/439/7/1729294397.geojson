@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "NFL",
+      "Superbowl"
+    ],
     "twitter:tweet": {
       "created": 1445884074,
       "created_at": "Mon Oct 26 18:27:54 +0000 2015",
@@ -174,6 +178,10 @@
       "source": "\u003ca href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "reynoldspost",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -201,7 +209,7 @@
       }
     ],
     "wof:id": 1729294397,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @reynoldspost: Very cool display of #NFL memorabilia at @flySFO for #Superbowl 50. https://t.co/MXaoIkTPJK",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

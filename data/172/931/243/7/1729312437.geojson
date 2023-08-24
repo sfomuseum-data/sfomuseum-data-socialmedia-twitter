@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sfo",
+      "art",
+      "exhibit"
+    ],
     "twitter:tweet": {
       "created": 1377101447,
       "created_at": "Wed Aug 21 16:10:47 +0000 2013",
@@ -95,6 +100,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "METAGASM"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -122,7 +130,7 @@
       }
     ],
     "wof:id": 1729312437,
-    "wof:lastmodified": 1692219578,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Hope you made it to your gate in time!  :)  RT @metagasm: #sfo #art #exhibit gonna make me miss my flight!! http://t.co/Dh6N569cXZ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

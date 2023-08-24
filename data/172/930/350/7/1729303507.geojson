@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "FlySFO",
+      "FirstDayofSummer",
+      "travel"
+    ],
     "twitter:tweet": {
       "created": 1529617652,
       "created_at": "Thu Jun 21 21:47:32 +0000 2018",
@@ -95,6 +100,9 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -122,7 +130,7 @@
       }
     ],
     "wof:id": 1729303507,
-    "wof:lastmodified": 1692219556,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @flySFO: Happy first day of summer! Visit https://t.co/RmD4kojZ0B for tips on summer air travel. #FlySFO  #FirstDayofSummer #travel http…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

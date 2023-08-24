@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sanfrancisco"
+    ],
     "twitter:tweet": {
       "created": 1391017130,
       "created_at": "Wed Jan 29 17:38:50 +0000 2014",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "kleungsf",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729291493,
-    "wof:lastmodified": 1692219577,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Thanks! Glad you saw it- it's about to close. MT @kleungsf: @SFOMuseum nice exhibit @ intl term #sanfrancisco airport http://t.co/aMoyiOxN5V",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

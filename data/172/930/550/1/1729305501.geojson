@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SanazMazinani",
+      "publicart",
+      "WomensHistoryMonth"
+    ],
     "twitter:tweet": {
       "created": 1551836342,
       "created_at": "Wed Mar 06 01:39:02 +0000 2019",
@@ -188,6 +193,9 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFAC"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -215,7 +223,7 @@
       }
     ],
     "wof:id": 1729305501,
-    "wof:lastmodified": 1692219551,
+    "wof:lastmodified": 1692895851,
     "wof:name": "@SFAC \"Forever in the Sky\" by #SanazMazinani, is on display, post-security, in Terminal 3. https://t.co/vwTcO4pby8 #publicart #WomensHistoryMonth @SFAC https://t.co/oDrit6zY1x",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

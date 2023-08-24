@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "afterdarkRPS"
+    ],
     "twitter:tweet": {
       "created": 1325719727,
       "created_at": "Wed Jan 04 23:28:47 +0000 2012",
@@ -75,6 +78,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "exploratorium"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -102,7 +108,7 @@
       }
     ],
     "wof:id": 1729300951,
-    "wof:lastmodified": 1692219581,
+    "wof:lastmodified": 1692895853,
     "wof:name": "@exploratorium Scissors and rocks don't fly at airports (ha!), so we'd throw paper #afterdarkRPS",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,12 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "lions",
+      "nfl",
+      "superbowl",
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1443473489,
       "created_at": "Mon Sep 28 20:51:29 +0000 2015",
@@ -188,6 +194,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "ThatLawyerGuy",
+      "nielsonTSN1260"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -215,7 +225,7 @@
       }
     ],
     "wof:id": 1729294121,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @ThatLawyerGuy: @nielsonTSN1260 sleek #superbowl exhibit in #SFO airport #lions #nfl http://t.co/twAwurUEtY",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SF",
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1347489945,
       "created_at": "Wed Sep 12 22:45:45 +0000 2012",
@@ -88,6 +92,9 @@
       "source": "\u003ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "Getaround"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -115,7 +122,7 @@
       }
     ],
     "wof:id": 1729310597,
-    "wof:lastmodified": 1692219579,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Highlights from around the city! MT @Getaround: 19 art galleries in #SFO alone! Infographic: Arts \u0026amp; Culture in #SF - http://t.co/rmZQRAiH",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

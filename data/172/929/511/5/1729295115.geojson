@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Panthers",
+      "TheNationsGame",
+      "SB50"
+    ],
     "twitter:tweet": {
       "created": 1454785339,
       "created_at": "Sat Feb 06 19:02:19 +0000 2016",
@@ -163,6 +168,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "NFL"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -190,7 +198,7 @@
       }
     ],
     "wof:id": 1729295115,
-    "wof:lastmodified": 1692219574,
+    "wof:lastmodified": 1692895852,
     "wof:name": "Based in Charlotte, North Carolina, the Carolina #Panthers joined the @NFL in 1995. #TheNationsGame #SB50 https://t.co/ULjQB9UJxx",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

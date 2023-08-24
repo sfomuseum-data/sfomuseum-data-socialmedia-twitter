@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "A380",
+      "AvGeek"
+    ],
     "twitter:tweet": {
       "created": 1582832894,
       "created_at": "Thu Feb 27 19:48:14 +0000 2020",
@@ -77,6 +81,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "Frenchpainter"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -104,7 +111,7 @@
       }
     ],
     "wof:id": 1729308031,
-    "wof:lastmodified": 1692219544,
+    "wof:lastmodified": 1692895851,
     "wof:name": "RT @Frenchpainter: The final #A380 convoy drive through the streets of Levignac near Toulouse heads to the final assembly line. 😥 #AvGeek h…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

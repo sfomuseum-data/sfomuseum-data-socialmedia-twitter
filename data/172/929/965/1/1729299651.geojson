@@ -17,6 +17,14 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "jetage",
+      "OnThisDay",
+      "TWA",
+      "Boeing",
+      "SFOHistory",
+      "avgeek"
+    ],
     "twitter:tweet": {
       "created": 1490065211,
       "created_at": "Tue Mar 21 03:00:11 +0000 2017",
@@ -184,6 +192,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -211,7 +222,7 @@
       }
     ],
     "wof:id": 1729299651,
-    "wof:lastmodified": 1692219566,
+    "wof:lastmodified": 1692895852,
     "wof:name": "#OnThisDay in 1959, a #TWA #Boeing 707 inaugurated jet service at San Francisco International Airport. @flySFO #SFOHistory #avgeek #jetage https://t.co/0K8ZBa8ty1",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

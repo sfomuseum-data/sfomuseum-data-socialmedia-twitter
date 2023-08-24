@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1458331261,
       "created_at": "Fri Mar 18 20:01:01 +0000 2016",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "ChinaSouthernNA",
+      "flySFO"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729295581,
-    "wof:lastmodified": 1692219574,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @ChinaSouthernNA: Flying to or leaving SF? Check out these free museums and exhibition at #SFO! @FlySFO https://t.co/KqQTiAlj0J https://…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

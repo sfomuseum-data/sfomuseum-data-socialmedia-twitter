@@ -17,6 +17,11 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "MuseumLove",
+      "MoMA",
+      "Giants"
+    ],
     "twitter:tweet": {
       "created": 1326848888,
       "created_at": "Wed Jan 18 01:08:08 +0000 2012",
@@ -114,6 +119,12 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "49ers",
+      "giantspathanlon",
+      "sportswatch",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -141,7 +152,7 @@
       }
     ],
     "wof:id": 1729302855,
-    "wof:lastmodified": 1692219581,
+    "wof:lastmodified": 1692895853,
     "wof:name": "Much #MuseumLove to @49ers!! RT @giantspathanlon: @sportswatch @SFOMuseum #MoMA says you can kiss my exhibit! Go #Giants!!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

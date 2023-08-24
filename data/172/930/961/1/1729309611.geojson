@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "sewing"
+    ],
     "twitter:tweet": {
       "created": 1337978487,
       "created_at": "Fri May 25 20:41:27 +0000 2012",
@@ -80,6 +83,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "marybirdsong",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -107,7 +114,7 @@
       }
     ],
     "wof:id": 1729309611,
-    "wof:lastmodified": 1692219580,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @marybirdsong: @SFOMuseum yr exhibit \"threading the needle: sewing in the machine age\" inspired me 2 spiff up my #sewing rm- voila! h ...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

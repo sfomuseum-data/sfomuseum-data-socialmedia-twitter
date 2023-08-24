@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "NationalAviationDay",
+      "AVGeek"
+    ],
     "twitter:tweet": {
       "created": 1439923803,
       "created_at": "Tue Aug 18 18:50:03 +0000 2015",
@@ -98,6 +102,10 @@
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "The_SolarSystem",
+      "CNN"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -125,7 +133,7 @@
       }
     ],
     "wof:id": 1729293887,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @The_SolarSystem: Dear aviation: Are you OK? You need a day to yourself ~via @CNN #NationalAviationDay #AVGeek http://t.co/3m61trDQlD",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

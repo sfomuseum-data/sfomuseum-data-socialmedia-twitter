@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "OSH15"
+    ],
     "twitter:tweet": {
       "created": 1438030249,
       "created_at": "Mon Jul 27 20:50:49 +0000 2015",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "CNNTravel",
+      "thompatterson"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -118,7 +125,7 @@
       }
     ],
     "wof:id": 1729293619,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @CNNTravel: What's it like to fly in a tin 'time machine'? Find out with @thompatterson #OSH15 http://t.co/xLgMgTfRGG http://t.co/g4k0cI…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

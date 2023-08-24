@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Art"
+    ],
     "twitter:tweet": {
       "created": 1450113606,
       "created_at": "Mon Dec 14 17:20:06 +0000 2015",
@@ -187,6 +190,11 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "sfchronicle",
+      "flySFO",
+      "SamWhitingSF"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -214,7 +222,7 @@
       }
     ],
     "wof:id": 1729294737,
-    "wof:lastmodified": 1692219574,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @sfchronicle: #Art installations soothe delays for those who @flySFO. via @SamWhitingSF https://t.co/oUSi8E83qO https://t.co/FoNi6Arbg6",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

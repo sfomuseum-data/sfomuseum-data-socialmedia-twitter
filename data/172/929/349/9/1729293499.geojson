@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "histfood"
+    ],
     "twitter:tweet": {
       "created": 1434043238,
       "created_at": "Thu Jun 11 17:20:38 +0000 2015",
@@ -177,6 +180,11 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "amandaeherbert",
+      "SFOMuseum",
+      "historecipes"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -204,7 +212,7 @@
       }
     ],
     "wof:id": 1729293499,
-    "wof:lastmodified": 1692219575,
+    "wof:lastmodified": 1692895853,
     "wof:name": "RT @amandaeherbert: Wonder dishes! The Jell-O Guide (1930) @SFOMuseum #histfood cc: @historecipes http://t.co/aOVGSkglFs",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "AGU15"
+    ],
     "twitter:tweet": {
       "created": 1450284008,
       "created_at": "Wed Dec 16 16:40:08 +0000 2015",
@@ -167,6 +170,10 @@
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "xbrycicle",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -194,7 +201,7 @@
       }
     ],
     "wof:id": 1729294719,
-    "wof:lastmodified": 1692219574,
+    "wof:lastmodified": 1692895852,
     "wof:name": "RT @xbrycicle: Perfect timing for #AGU15 @SFOMuseum https://t.co/cUSscaNjYH",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
