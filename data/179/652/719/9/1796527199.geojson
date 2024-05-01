@@ -158,9 +158,8 @@
               "duration_millis": "59640",
               "variants": [
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1573001826282385408/pu/vid/480x270/Qf6IoQD0yBdXTKST.mp4?tag=12"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1573001826282385408/pu/pl/Cu_ZvRFgKqzUbkt7.m3u8?tag=12\u0026container=cmaf"
                 },
                 {
                   "bitrate": "2176000",
@@ -173,8 +172,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1573001826282385408/pu/vid/640x360/OU20ZgYdjanv3xJU.mp4?tag=12"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1573001826282385408/pu/pl/Cu_ZvRFgKqzUbkt7.m3u8?tag=12\u0026container=fmp4"
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1573001826282385408/pu/vid/480x270/Qf6IoQD0yBdXTKST.mp4?tag=12"
                 }
               ]
             }
@@ -219,7 +219,7 @@
       }
     ],
     "wof:id": 1796527199,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589723,
     "wof:name": "In this offbeat comedy set in Australia, Sydney-based filmmaker Alex Feggans tells a story of a backpacker who stops by a remote gas station and is confronted with a bizarre situation. #jackrabbit #alexfeggans #VideoArts #VideoArtsSFO https://t.co/eypYE6L0aD",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -142,9 +142,9 @@
               "duration_millis": "110000",
               "variants": [
                 {
-                  "bitrate": "832000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1328122446134669312/pu/vid/640x360/SVwLlcJIlKPUhwdX.mp4?tag=10"
+                  "url": "https://video.twimg.com/ext_tw_video/1328122446134669312/pu/vid/1280x720/MIsVze9vWbcaFc-0.mp4?tag=10"
                 },
                 {
                   "bitrate": "256000",
@@ -152,13 +152,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1328122446134669312/pu/vid/480x270/19esZziWrIo7K4UG.mp4?tag=10"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1328122446134669312/pu/vid/1280x720/MIsVze9vWbcaFc-0.mp4?tag=10"
-                },
-                {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1328122446134669312/pu/pl/btoN_mB3K1u01QrQ.m3u8?tag=10"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1328122446134669312/pu/vid/640x360/SVwLlcJIlKPUhwdX.mp4?tag=10"
                 }
               ]
             }
@@ -206,7 +206,7 @@
       }
     ],
     "wof:id": 1763511359,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589701,
     "wof:name": "RT @Qantas: 100 years ago today, Qantas began from the remote dust of outback Australia. This is our story... https://t.co/cFgDGcOcQP",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

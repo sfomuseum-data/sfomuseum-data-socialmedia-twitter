@@ -169,13 +169,13 @@
                   "url": "https://video.twimg.com/amplify_video/826194575857364992/vid/530x640/AYCfSPQm6LpdFxFP.mp4"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/amplify_video/826194575857364992/pl/VxV0-MIlRaVEhXFs.m3u8"
-                },
-                {
                   "bitrate": "320000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/826194575857364992/vid/264x320/gzPqsR9VDm70Ms4_.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/826194575857364992/pl/VxV0-MIlRaVEhXFs.m3u8"
                 }
               ]
             }
@@ -224,7 +224,7 @@
       }
     ],
     "wof:id": 1729299169,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589717,
     "wof:name": "RT @CNTraveler: Travel opens hearts and minds. Beauty is everywhere. #TravelIsLove https://t.co/AWrVjUD6c5",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

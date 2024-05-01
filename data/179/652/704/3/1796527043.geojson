@@ -142,23 +142,23 @@
               "duration_millis": "41416",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1517539939415588864/pu/pl/dNohET-OdktIBEKs.m3u8?tag=12\u0026container=fmp4"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1517539939415588864/pu/vid/844x360/vTMu571SXTcFVE2b.mp4?tag=12"
                 },
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1517539939415588864/pu/vid/632x270/_2D8gLpGnN_mqRzT.mp4?tag=12"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1517539939415588864/pu/vid/1688x720/CZF5v4HBIh6B67ac.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1517539939415588864/pu/pl/dNohET-OdktIBEKs.m3u8?tag=12\u0026container=cmaf"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1517539939415588864/pu/vid/632x270/_2D8gLpGnN_mqRzT.mp4?tag=12"
                 }
               ]
             }
@@ -203,7 +203,7 @@
       }
     ],
     "wof:id": 1796527043,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589728,
     "wof:name": "British filmmaker Jamie Hancock follows Welsh land artist Jon Foreman on his adventures creating art in the outdoors. Together with his partner Briony and his son Alijah, they teach us the healing power of nature and how it inspires our innate creativity. #VideoArts #VideoArtsSFO https://t.co/CFucBYrnVD",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

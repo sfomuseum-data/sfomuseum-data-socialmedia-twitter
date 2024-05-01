@@ -164,14 +164,14 @@
                   "url": "https://video.twimg.com/ext_tw_video/836236311795273728/pu/pl/_MvxX_I2mqCm9EEY.m3u8"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/836236311795273728/pu/vid/1280x720/U3W-aE8eOtdrvQtf.mp4"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/836236311795273728/pu/vid/320x180/yCJ-Ng63UhkvmA5i.mp4"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/836236311795273728/pu/vid/1280x720/U3W-aE8eOtdrvQtf.mp4"
                 }
               ]
             }
@@ -221,7 +221,7 @@
       }
     ],
     "wof:id": 1729299495,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589717,
     "wof:name": "RT @AviationNews: Mechanics and robots collaborate in @boeing factory for B777 assembly https://t.co/vqB9nVQw8l",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

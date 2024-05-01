@@ -1,0 +1,179 @@
+{
+  "id": 1913814151,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-07-21",
+    "date:cessation_upper": "2023-07-21",
+    "date:inception_lower": "2023-07-21",
+    "date:inception_upper": "2023-07-21",
+    "edtf:cessation": "2023-07-20T17:44:15-07:00",
+    "edtf:inception": "2023-07-20T17:44:15-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1689900255,
+      "created_at": "Fri Jul 21 00:44:15 +0000 2023",
+      "display_text_range": [
+        "0",
+        "293"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1682189710792491010"
+          ],
+          "editableUntil": "2023-07-21T01:44:15.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "262",
+              "269"
+            ],
+            "text": "avgeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GS2LwQfZXh",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1682189710792491010/photo/1",
+            "id": "1682189698347958272",
+            "id_str": "1682189698347958272",
+            "indices": [
+              "270",
+              "293"
+            ],
+            "media_url": "http://pbs.twimg.com/media/F1hWnjbaAAAuG2I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/F1hWnjbaAAAuG2I.jpg",
+            "sizes": {
+              "large": {
+                "h": "1397",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "838",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "475",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GS2LwQfZXh"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GS2LwQfZXh",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1682189710792491010/photo/1",
+            "id": "1682189698347958272",
+            "id_str": "1682189698347958272",
+            "indices": [
+              "270",
+              "293"
+            ],
+            "media_url": "http://pbs.twimg.com/media/F1hWnjbaAAAuG2I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/F1hWnjbaAAAuG2I.jpg",
+            "sizes": {
+              "large": {
+                "h": "1397",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "838",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "475",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GS2LwQfZXh"
+          }
+        ]
+      },
+      "favorite_count": "8",
+      "favorited": false,
+      "full_text": "The Boeing 40 embarked on its maiden flight in July 1925. The first Boeing aircraft built to carry passengers, it was primarily used as an air mail plane. Boeing Air Transport, which would later become United Air Lines, introduced the Boeing 40 on July 1, 1927. #avgeek https://t.co/GS2LwQfZXh",
+      "id": "1682189710792491010",
+      "id_str": "1682189710792491010",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1714589712,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1913814151,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1913814151,
+    "wof:lastmodified": 1714589712,
+    "wof:name": "The Boeing 40 embarked on its maiden flight in July 1925. The first Boeing aircraft built to carry passengers, it was primarily used as an air mail plane. Boeing Air Transport, which would later become United Air Lines, introduced the Boeing 40 on July 1, 1927. #avgeek https://t.co/GS2LwQfZXh",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

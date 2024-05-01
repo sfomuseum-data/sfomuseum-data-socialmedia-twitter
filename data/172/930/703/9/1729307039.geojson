@@ -155,8 +155,9 @@
               "duration_millis": "45160",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1179885915109330944/pu/pl/7k2l8LuRjt-tPk8u.m3u8?tag=10"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1179885915109330944/pu/vid/640x360/PZtdinmZB66QdGSZ.mp4?tag=10"
                 },
                 {
                   "bitrate": "2176000",
@@ -164,14 +165,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1179885915109330944/pu/vid/1280x720/cLYhZ2SfhRNB7nmB.mp4?tag=10"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1179885915109330944/pu/vid/640x360/PZtdinmZB66QdGSZ.mp4?tag=10"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1179885915109330944/pu/vid/480x270/LU3GZyT2eWeg5et8.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1179885915109330944/pu/pl/7k2l8LuRjt-tPk8u.m3u8?tag=10"
                 }
               ]
             }
@@ -185,7 +185,7 @@
       "id_str": "1179885996692783104",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "3",
+      "retweet_count": "2",
       "retweeted": false,
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
@@ -217,7 +217,7 @@
       }
     ],
     "wof:id": 1729307039,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589711,
     "wof:name": "NOW PLAYING: “Listen” by Jake Graf. Graf gives voice to transgender youths who are often either disregarded or vilified when trying to communicate their daily struggles against bullying. #NationalBullyingPreventionMonth #VideoArtsSFOM https://t.co/GlvLnpFUBw https://t.co/T025D6So55",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

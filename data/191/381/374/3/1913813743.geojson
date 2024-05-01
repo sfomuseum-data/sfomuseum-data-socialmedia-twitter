@@ -1,0 +1,219 @@
+{
+  "id": 1913813743,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-11-02",
+    "date:cessation_upper": "2023-11-02",
+    "date:inception_lower": "2023-11-02",
+    "date:inception_upper": "2023-11-02",
+    "edtf:cessation": "2023-11-01T17:16:29-07:00",
+    "edtf:inception": "2023-11-01T17:16:29-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1698884189,
+      "created_at": "Thu Nov 02 00:16:29 +0000 2023",
+      "display_text_range": [
+        "0",
+        "278"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1719871061788070123"
+          ],
+          "editableUntil": "2023-11-02T01:16:29.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "217",
+              "224"
+            ],
+            "text": "Ballet"
+          },
+          {
+            "indices": [
+              "225",
+              "238"
+            ],
+            "text": "SFBalletAt90"
+          },
+          {
+            "indices": [
+              "239",
+              "254"
+            ],
+            "text": "WorldBalletDay"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mzbUBXvAwe",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1719871061788070123/photo/1",
+            "id": "1719870218594590720",
+            "id_str": "1719870218594590720",
+            "indices": [
+              "255",
+              "278"
+            ],
+            "media_url": "http://pbs.twimg.com/media/F9402f8aoAAYZ4R.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/F9402f8aoAAYZ4R.jpg",
+            "sizes": {
+              "large": {
+                "h": "1508",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/mzbUBXvAwe"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/SFBalletAt90",
+            "expanded_url": "https://bit.ly/SFBalletAt90",
+            "indices": [
+              "183",
+              "206"
+            ],
+            "url": "https://t.co/zSkalPVGp2"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "20829172",
+            "id_str": "20829172",
+            "indices": [
+              "207",
+              "216"
+            ],
+            "name": "San Francisco Ballet",
+            "screen_name": "sfballet"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mzbUBXvAwe",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1719871061788070123/photo/1",
+            "id": "1719870218594590720",
+            "id_str": "1719870218594590720",
+            "indices": [
+              "255",
+              "278"
+            ],
+            "media_url": "http://pbs.twimg.com/media/F9402f8aoAAYZ4R.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/F9402f8aoAAYZ4R.jpg",
+            "sizes": {
+              "large": {
+                "h": "1508",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/mzbUBXvAwe"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Special thank you to San Francisco Ballet for making this exhibition possible. See “San Francisco Ballet at 90” on display, pre-security, in the International Terminal and online at: https://t.co/zSkalPVGp2 @SFBallet #Ballet #SFBalletAt90 #WorldBalletDay https://t.co/mzbUBXvAwe",
+      "id": "1719871061788070123",
+      "id_str": "1719871061788070123",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1719871057824456870",
+      "in_reply_to_status_id_str": "1719871057824456870",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1714589693,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1913813743,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1913813743,
+    "wof:lastmodified": 1714589693,
+    "wof:name": "Special thank you to San Francisco Ballet for making this exhibition possible. See “San Francisco Ballet at 90” on display, pre-security, in the International Terminal and online at: https://t.co/zSkalPVGp2 @SFBallet #Ballet #SFBalletAt90 #WorldBalletDay https://t.co/mzbUBXvAwe",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

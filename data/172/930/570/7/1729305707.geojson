@@ -153,15 +153,6 @@
               "duration_millis": "29997",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1108897929811484672/pu/vid/640x360/1cSxM-K4kRzvizNl.mp4?tag=8"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1108897929811484672/pu/pl/V4IrdVPA7_T_t_EF.m3u8?tag=8"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1108897929811484672/pu/vid/1280x720/7YSMreono_F72KTq.mp4?tag=8"
@@ -170,6 +161,15 @@
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1108897929811484672/pu/vid/320x180/1Q2YbQeet1AsX-kK.mp4?tag=8"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1108897929811484672/pu/vid/640x360/1cSxM-K4kRzvizNl.mp4?tag=8"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1108897929811484672/pu/pl/V4IrdVPA7_T_t_EF.m3u8?tag=8"
                 }
               ]
             }
@@ -215,7 +215,7 @@
       }
     ],
     "wof:id": 1729305707,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "North Carolina native #ElizabethCotten (1895–1987) first picked up her brother’s banjo at the age of eight. Left-handed, she taught herself to play the right-handed guitar upside down. #StoryofArhoolie #WomensHistoryMonth https://t.co/u2NcUZLiPs",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

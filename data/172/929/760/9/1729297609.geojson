@@ -174,9 +174,8 @@
               "duration_millis": "9310",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/770985064415031296/pu/vid/1280x720/l9mA9vXKqBrhLAKA.mp4"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/770985064415031296/pu/pl/8Z1YJt6QCMhY2eB3.m3u8"
                 },
                 {
                   "bitrate": "320000",
@@ -184,8 +183,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/770985064415031296/pu/vid/320x180/HCrwOg43Aabv22Fy.mp4"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/770985064415031296/pu/pl/8Z1YJt6QCMhY2eB3.m3u8"
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/770985064415031296/pu/vid/1280x720/l9mA9vXKqBrhLAKA.mp4"
                 },
                 {
                   "bitrate": "832000",
@@ -240,7 +240,7 @@
       }
     ],
     "wof:id": 1729297609,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589717,
     "wof:name": "RT @airwaysmagazine: Water canon salute on our way to the runway with @JetBlue #HolaCuba #JetBlueSNU https://t.co/xZ0DJhSqOV",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

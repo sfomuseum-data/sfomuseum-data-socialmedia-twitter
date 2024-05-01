@@ -189,14 +189,13 @@
               "duration_millis": "54637",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1532750938909200384/pu/pl/JrNNjLWI0HmYEhHv.m3u8?tag=12\u0026container=cmaf"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1532750938909200384/pu/vid/1280x720/Yw6-1_I8_n7Uk7bi.mp4?tag=12"
-                },
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1532750938909200384/pu/vid/640x360/jPa60edRt9PSgoSr.mp4?tag=12"
                 },
                 {
                   "bitrate": "256000",
@@ -204,22 +203,23 @@
                   "url": "https://video.twimg.com/ext_tw_video/1532750938909200384/pu/vid/480x270/rV3OenhzTWWrfyXG.mp4?tag=12"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1532750938909200384/pu/pl/JrNNjLWI0HmYEhHv.m3u8?tag=12\u0026container=fmp4"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1532750938909200384/pu/vid/640x360/jPa60edRt9PSgoSr.mp4?tag=12"
                 }
               ]
             }
           }
         ]
       },
-      "favorite_count": "3",
+      "favorite_count": "4",
       "favorited": false,
       "full_text": "Filmmaker Nicole Teeny celebrates one of the world’s first Queer-affirming and gender-equal mosques, located in Toronto and co-founded by Imam El-Farouk and his husband Troy. https://t.co/OGuVFm64QY\n#VideoArts #VideoArtsSFO #pride #unitymosque @nicoleteeny @cavelightfilms https://t.co/UD1ePwry0J",
       "id": "1532751063488397313",
       "id_str": "1532751063488397313",
       "lang": "en",
       "possibly_sensitive": false,
-      "retweet_count": "0",
+      "retweet_count": "1",
       "retweeted": false,
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
@@ -254,7 +254,7 @@
       }
     ],
     "wof:id": 1796526631,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589726,
     "wof:name": "Filmmaker Nicole Teeny celebrates one of the world’s first Queer-affirming and gender-equal mosques, located in Toronto and co-founded by Imam El-Farouk and his husband Troy. https://t.co/OGuVFm64QY\n#VideoArts #VideoArtsSFO #pride #unitymosque @nicoleteeny @cavelightfilms https://t.co/UD1ePwry0J",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

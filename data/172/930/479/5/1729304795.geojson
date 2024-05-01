@@ -145,23 +145,23 @@
               "duration_millis": "4757",
               "variants": [
                 {
-                  "bitrate": "256000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1067854876984598529/pu/vid/320x180/LWGISMHIKdXAtQ29.mp4?tag=5"
+                  "url": "https://video.twimg.com/ext_tw_video/1067854876984598529/pu/vid/640x360/YVs9gN8Y5aOFEr5-.mp4?tag=5"
                 },
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1067854876984598529/pu/pl/i8enRFcNTFwar_WY.m3u8?tag=5"
                 },
                 {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1067854876984598529/pu/vid/320x180/LWGISMHIKdXAtQ29.mp4?tag=5"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1067854876984598529/pu/vid/1280x720/7DPGstEUL2u5PiEW.mp4?tag=5"
-                },
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1067854876984598529/pu/vid/640x360/YVs9gN8Y5aOFEr5-.mp4?tag=5"
                 }
               ]
             }
@@ -210,7 +210,7 @@
       }
     ],
     "wof:id": 1729304795,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "RT @flySFO: We had a great time at our 2018 lighting ceremony last night! ❄️🌟 https://t.co/rFzlNFLFB5",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

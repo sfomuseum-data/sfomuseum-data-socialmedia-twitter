@@ -145,8 +145,9 @@
               "duration_millis": "45212",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1013842384201764864/pu/pl/_EWM-CEBUdpH6jHj.m3u8?tag=3"
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1013842384201764864/pu/vid/1280x720/wvJnVOqpN8NvxJWx.mp4?tag=3"
                 },
                 {
                   "bitrate": "256000",
@@ -154,14 +155,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1013842384201764864/pu/vid/320x180/kQsZoWMXQyT1FHoC.mp4?tag=3"
                 },
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1013842384201764864/pu/pl/_EWM-CEBUdpH6jHj.m3u8?tag=3"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1013842384201764864/pu/vid/640x360/p1o2WC9GMK4CHymT.mp4?tag=3"
-                },
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1013842384201764864/pu/vid/1280x720/wvJnVOqpN8NvxJWx.mp4?tag=3"
                 }
               ]
             }
@@ -207,7 +207,7 @@
       }
     ],
     "wof:id": 1729303639,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"The Monolith\" by Angelo J. Guglielmo, Jr. As the  perspective from the window of #GwynethLeech’s studio shifts with the  construction of a high-rise hotel, so too do the artist’s point of view  and her art. #VideoArtsSFOM https://t.co/ny97qmMFXe",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

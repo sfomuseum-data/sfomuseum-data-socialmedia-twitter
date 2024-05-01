@@ -187,23 +187,23 @@
               "duration_millis": "30030",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1059633337017425921/pu/vid/640x360/JYJ2_XkA5sHOqWI1.mp4?tag=5"
-                },
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1059633337017425921/pu/vid/1280x720/HrMGUvNobySUXPAx.mp4?tag=5"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1059633337017425921/pu/vid/320x180/_jNNpnzwbfRDBD43.mp4?tag=5"
                 },
                 {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1059633337017425921/pu/vid/640x360/JYJ2_XkA5sHOqWI1.mp4?tag=5"
+                },
+                {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1059633337017425921/pu/pl/jead8BunH00z5lTQ.m3u8?tag=5"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1059633337017425921/pu/vid/1280x720/HrMGUvNobySUXPAx.mp4?tag=5"
                 }
               ]
             }
@@ -249,7 +249,7 @@
       }
     ],
     "wof:id": 1729304639,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"Rudy with a Flashlight\" by #JonChester. Chester’s hand-drawn animated short for the song “Rudy with a Flashlight” by the late,  #RainerPtacek is a tribute to the #guitarist, #fatherhood, and the filmmaker’s #son, Chester Bliss. https://t.co/trLjXLRLKO #VideoArtsSFOM https://t.co/pKwPtrpl3M",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

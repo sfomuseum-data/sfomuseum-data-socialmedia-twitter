@@ -150,11 +150,6 @@
               "duration_millis": "60074",
               "variants": [
                 {
-                  "bitrate": "432000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1621279746490519552/pu/vid/320x320/pxHwk7J2-JmYNzQu.mp4?tag=12"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1621279746490519552/pu/vid/540x540/naICqXDf2rgYxJd3.mp4?tag=12"
@@ -165,8 +160,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1621279746490519552/pu/vid/720x720/4Xq0vs1sCKoY2-9m.mp4?tag=12"
                 },
                 {
+                  "bitrate": "432000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1621279746490519552/pu/vid/320x320/pxHwk7J2-JmYNzQu.mp4?tag=12"
+                },
+                {
                   "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1621279746490519552/pu/pl/lJSPIIYK3E52u5hG.m3u8?tag=12\u0026container=fmp4"
+                  "url": "https://video.twimg.com/ext_tw_video/1621279746490519552/pu/pl/lJSPIIYK3E52u5hG.m3u8?tag=12\u0026container=cmaf"
                 }
               ]
             }
@@ -211,7 +211,7 @@
       }
     ],
     "wof:id": 1880137389,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589718,
     "wof:name": "Award-winning filmmaker Ben Proudfoot features Los Angeles-based virtuoso jazz pianist Kris Bowers, who tracks his family’s lineage with his 91-year-old grandfather to discover who he is and where he belongs. #VideoArts #VideoArtsSFO #BlackHistoryMonth https://t.co/l0c74eVLdP",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

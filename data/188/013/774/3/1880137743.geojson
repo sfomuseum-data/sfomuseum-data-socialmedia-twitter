@@ -145,8 +145,9 @@
               "duration_millis": "29262",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1664413579771277312/pu/pl/_9K78ynN3KxMITOL.m3u8?tag=12\u0026container=fmp4"
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1664413579771277312/pu/vid/480x270/VAOV3HXWwqXA5M_D.mp4?tag=12"
                 },
                 {
                   "bitrate": "832000",
@@ -154,14 +155,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1664413579771277312/pu/vid/640x360/3XLwjXOPmeBUi41l.mp4?tag=12"
                 },
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1664413579771277312/pu/vid/480x270/VAOV3HXWwqXA5M_D.mp4?tag=12"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1664413579771277312/pu/vid/1280x720/2BOfyXFwvhUaFTD9.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1664413579771277312/pu/pl/_9K78ynN3KxMITOL.m3u8?tag=12\u0026container=cmaf"
                 }
               ]
             }
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1880137743,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589714,
     "wof:name": "Director Whitney Skauge highlights queer, Black drag queen Joan Jett Blakk, who made history when they ran for president in 1992. Terence Alan Smith later reflects on their experiences campaigning for LGBTQ rights at the peak of the AIDS pandemic. @bgproudfoot #Pride https://t.co/cJQBB0xURH",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

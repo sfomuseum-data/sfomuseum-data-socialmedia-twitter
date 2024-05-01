@@ -136,6 +136,11 @@
               "duration_millis": "20900",
               "variants": [
                 {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/953385529545867264/pu/vid/1280x720/gwQ0OzPd9HoaUskn.mp4"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/953385529545867264/pu/vid/640x360/nXdwiatvflBk2V8r.mp4"
@@ -143,11 +148,6 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/953385529545867264/pu/pl/BqHeKvceeGLywI8g.m3u8"
-                },
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/953385529545867264/pu/vid/1280x720/gwQ0OzPd9HoaUskn.mp4"
                 },
                 {
                   "bitrate": "256000",
@@ -198,7 +198,7 @@
       }
     ],
     "wof:id": 1729302227,
-    "wof:lastmodified": 1692219559,
+    "wof:lastmodified": 1714589716,
     "wof:name": "NOW PLAYING: \"97%\" by Ben Brand. On the look for love? Check out this captivating look at one man’s search for love on a subway train. https://t.co/alt1EE9O04 https://t.co/pEXhw9BJZt",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

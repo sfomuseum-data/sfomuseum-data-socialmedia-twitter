@@ -171,6 +171,15 @@
               "duration_millis": "43001",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1202284591127511040/pu/pl/Ekcqc_huQfMVrvDH.m3u8?tag=10"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1202284591127511040/pu/vid/480x270/aAJj7a_hFlsnns0-.mp4?tag=10"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1202284591127511040/pu/vid/640x360/q-UN80mBi_2YfSpO.mp4?tag=10"
@@ -179,15 +188,6 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1202284591127511040/pu/vid/1280x720/sDVCYTaJKMOyuY4_.mp4?tag=10"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1202284591127511040/pu/vid/480x270/aAJj7a_hFlsnns0-.mp4?tag=10"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1202284591127511040/pu/pl/Ekcqc_huQfMVrvDH.m3u8?tag=10"
                 }
               ]
             }
@@ -233,7 +233,7 @@
       }
     ],
     "wof:id": 1729307437,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589707,
     "wof:name": "NOW PLAYING: \"Sacred Strides\" by Forest Woodward, Anna Callaghan, and Marie Sullivan. Relay runners from the #Hopi, #Navajo, and #Ute nations converge to send a message of unity and collective concern for a threatened public land. https://t.co/0GJ2OnNtsT #VideoArtsSFOM https://t.co/eldOS8tD6c",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

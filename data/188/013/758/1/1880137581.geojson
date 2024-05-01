@@ -166,18 +166,18 @@
               "duration_millis": "36703",
               "variants": [
                 {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1611070192599339008/pu/vid/1280x720/3iMYre--BhLTmJUW.mp4?tag=12"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1611070192599339008/pu/vid/640x360/PFfTilpibNOk19Qo.mp4?tag=12"
                 },
                 {
                   "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1611070192599339008/pu/pl/t5KGxmYFViI8Zl3Y.m3u8?tag=12\u0026container=fmp4"
-                },
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1611070192599339008/pu/vid/1280x720/3iMYre--BhLTmJUW.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1611070192599339008/pu/pl/t5KGxmYFViI8Zl3Y.m3u8?tag=12\u0026container=cmaf"
                 },
                 {
                   "bitrate": "256000",
@@ -227,7 +227,7 @@
       }
     ],
     "wof:id": 1880137581,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589719,
     "wof:name": "London-based filmmaker Tom Speers captures the unspoken connection between two boys as they experience adolescence and longing in this cinematic interpretation of Peter LaBerge’s poem. \n#VideoArts #VideoArtsSFO #boysaint #tomspeers #peterlaberge https://t.co/49GFhmU3YT",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

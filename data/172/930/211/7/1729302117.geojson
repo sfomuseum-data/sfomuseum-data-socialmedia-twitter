@@ -137,8 +137,9 @@
               "duration_millis": "45000",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/950459238962233344/pu/pl/XQQLww3hQ04D800x.m3u8"
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/950459238962233344/pu/vid/1280x720/IhVWWwHcXlXbRbOc.mp4"
                 },
                 {
                   "bitrate": "256000",
@@ -146,9 +147,8 @@
                   "url": "https://video.twimg.com/ext_tw_video/950459238962233344/pu/vid/320x180/7fT6LU8WGLyqwKwo.mp4"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/950459238962233344/pu/vid/1280x720/IhVWWwHcXlXbRbOc.mp4"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/950459238962233344/pu/pl/XQQLww3hQ04D800x.m3u8"
                 },
                 {
                   "bitrate": "832000",
@@ -199,7 +199,7 @@
       }
     ],
     "wof:id": 1729302117,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589716,
     "wof:name": "NOW PLAYING: \"Reindeer\" by #EvaWeber. For those who may not have had their fill of reindeer during the holidays, check out this video about the Arctic's indigenous Sámi people. https://t.co/CNYbtHsbc8",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

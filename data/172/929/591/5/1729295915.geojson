@@ -35,7 +35,57 @@
         }
       },
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "indices": [
+              "62",
+              "66"
+            ],
+            "text": "SFO"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/tcp2FB4pv4",
+            "expanded_url": "https://twitter.com/flySFO/status/727980940438331392/photo/1",
+            "id": "727980932133584896",
+            "id_str": "727980932133584896",
+            "indices": [
+              "68",
+              "91"
+            ],
+            "media_url": "http://pbs.twimg.com/media/ChpOzP8UgAAN7Az.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ChpOzP8UgAAN7Az.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1536"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "727980940438331392",
+            "source_status_id_str": "727980940438331392",
+            "source_user_id": "16408759",
+            "source_user_id_str": "16408759",
+            "type": "photo",
+            "url": "https://t.co/tcp2FB4pv4"
+          }
+        ],
         "symbols": [],
         "urls": [],
         "user_mentions": [
@@ -48,6 +98,60 @@
             ],
             "name": "San Francisco International Airport (SFO) ✈️",
             "screen_name": "flySFO"
+          },
+          {
+            "id": "1716626605718515712",
+            "id_str": "1716626605718515712",
+            "indices": [
+              "12",
+              "19"
+            ],
+            "name": "KLM",
+            "screen_name": "KLM_US"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/tcp2FB4pv4",
+            "expanded_url": "https://twitter.com/flySFO/status/727980940438331392/photo/1",
+            "id": "727980932133584896",
+            "id_str": "727980932133584896",
+            "indices": [
+              "68",
+              "91"
+            ],
+            "media_url": "http://pbs.twimg.com/media/ChpOzP8UgAAN7Az.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ChpOzP8UgAAN7Az.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1536"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "900"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "510"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "727980940438331392",
+            "source_status_id_str": "727980940438331392",
+            "source_user_id": "16408759",
+            "source_user_id_str": "16408759",
+            "type": "photo",
+            "url": "https://t.co/tcp2FB4pv4"
           }
         ]
       },
@@ -57,6 +161,7 @@
       "id": "727997511890165761",
       "id_str": "727997511890165761",
       "lang": "en",
+      "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
       "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
@@ -92,7 +197,7 @@
       }
     ],
     "wof:id": 1729295915,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589718,
     "wof:name": "RT @flySFO: @KLM_US's new Boeing 787 Dreamliner has landed at #SFO! https://t.co/tcp2FB4pv4",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

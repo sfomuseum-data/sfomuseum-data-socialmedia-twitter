@@ -145,13 +145,9 @@
               "duration_millis": "20787",
               "variants": [
                 {
-                  "bitrate": "256000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1300504862560456706/pu/vid/480x270/2uHc6Ha9PutG6G-B.mp4?tag=10"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1300504862560456706/pu/pl/2uJ4ghjhUnHshT2b.m3u8?tag=10"
+                  "url": "https://video.twimg.com/ext_tw_video/1300504862560456706/pu/vid/640x360/X3x0-JrBYN1eKtxZ.mp4?tag=10"
                 },
                 {
                   "bitrate": "2176000",
@@ -159,16 +155,20 @@
                   "url": "https://video.twimg.com/ext_tw_video/1300504862560456706/pu/vid/1280x720/5nkyx8_w2ixYSzSf.mp4?tag=10"
                 },
                 {
-                  "bitrate": "832000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1300504862560456706/pu/vid/640x360/X3x0-JrBYN1eKtxZ.mp4?tag=10"
+                  "url": "https://video.twimg.com/ext_tw_video/1300504862560456706/pu/vid/480x270/2uHc6Ha9PutG6G-B.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1300504862560456706/pu/pl/2uJ4ghjhUnHshT2b.m3u8?tag=10"
                 }
               ]
             }
           }
         ]
       },
-      "favorite_count": "8",
+      "favorite_count": "7",
       "favorited": false,
       "full_text": "What was the museum up to while International Terminal A has been closed? We did some housekeeping! Cleaning “Salty Peanuts” by Mildred Howard took our crew of two over four hours to complete.  \n\nInternational Terminal side A reopens tomorrow!  #MuseumFromHome #MuseumMonday https://t.co/YqGixHpXWe",
       "id": "1300504975420735489",
@@ -207,7 +207,7 @@
       }
     ],
     "wof:id": 1729308783,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589703,
     "wof:name": "What was the museum up to while International Terminal A has been closed? We did some housekeeping! Cleaning “Salty Peanuts” by Mildred Howard took our crew of two over four hours to complete.  \n\nInternational Terminal side A reopens tomorrow!  #MuseumFromHome #MuseumMonday https://t.co/YqGixHpXWe",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

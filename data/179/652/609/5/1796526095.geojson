@@ -142,23 +142,23 @@
               "duration_millis": "53880",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1552760056306757632/pu/vid/682x360/zyrTfz5KWrLBCrcv.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1552760056306757632/pu/pl/YiDsZ16P5Y37dBZ0.m3u8?tag=12\u0026container=fmp4"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1552760056306757632/pu/vid/1364x720/jlwKep69IXVOTPze.mp4?tag=12"
                 },
                 {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1552760056306757632/pu/vid/682x360/zyrTfz5KWrLBCrcv.mp4?tag=12"
+                },
+                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1552760056306757632/pu/vid/512x270/w5wpGAm88KiiIFzA.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1552760056306757632/pu/pl/YiDsZ16P5Y37dBZ0.m3u8?tag=12\u0026container=cmaf"
                 }
               ]
             }
@@ -203,7 +203,7 @@
       }
     ],
     "wof:id": 1796526095,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589724,
     "wof:name": "In his experimental film exploring the miniature world of insects, French filmmaker Thomas Blanchard employs brilliant colors to highlight rare phenomena, such as the metamorphosis of a butterfly and carnivorous plants hunting. \n#VideoArts #VideoArtsSFO https://t.co/6q1wfy152l",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

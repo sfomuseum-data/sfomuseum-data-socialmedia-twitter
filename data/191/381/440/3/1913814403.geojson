@@ -1,0 +1,194 @@
+{
+  "id": 1913814403,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-01-04",
+    "date:cessation_upper": "2024-01-04",
+    "date:inception_lower": "2024-01-04",
+    "date:inception_upper": "2024-01-04",
+    "edtf:cessation": "2024-01-04T09:50:10-08:00",
+    "edtf:inception": "2024-01-04T09:50:10-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1704390610,
+      "created_at": "Thu Jan 04 17:50:10 +0000 2024",
+      "display_text_range": [
+        "0",
+        "303"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1742966667226091989"
+          ],
+          "editableUntil": "2024-01-04T18:50:10.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "258",
+              "279"
+            ],
+            "text": "ToSurviveOnThisShore"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SQmNDQlj3X",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1742966667226091989/photo/1",
+            "id": "1742709062234701825",
+            "id_str": "1742709062234701825",
+            "indices": [
+              "280",
+              "303"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GC9YqKlagAErWcB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GC9YqKlagAErWcB.jpg",
+            "sizes": {
+              "large": {
+                "h": "1365",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/SQmNDQlj3X"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "sfomuseum.org/exhibitions/du…",
+            "expanded_url": "https://www.sfomuseum.org/exhibitions/dugan-fabbre-survive-shore",
+            "indices": [
+              "234",
+              "257"
+            ],
+            "url": "https://t.co/FXnpkGQR07"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SQmNDQlj3X",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1742966667226091989/photo/1",
+            "id": "1742709062234701825",
+            "id_str": "1742709062234701825",
+            "indices": [
+              "280",
+              "303"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GC9YqKlagAErWcB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GC9YqKlagAErWcB.jpg",
+            "sizes": {
+              "large": {
+                "h": "1365",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/SQmNDQlj3X"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "“To Survive on this Shore: Photographs and Interviews with Transgender and Gender Nonconforming Older Adults” is on display in the Ruth Kadish Gallery located in the post-security connector between Terminals 2 \u0026amp; 3, and online at: https://t.co/FXnpkGQR07\n#ToSurviveOnThisShore https://t.co/SQmNDQlj3X",
+      "id": "1742966667226091989",
+      "id_str": "1742966667226091989",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1742966661811220692",
+      "in_reply_to_status_id_str": "1742966661811220692",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1714589723,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1913814403,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1913814403,
+    "wof:lastmodified": 1714589723,
+    "wof:name": "“To Survive on this Shore: Photographs and Interviews with Transgender and Gender Nonconforming Older Adults” is on display in the Ruth Kadish Gallery located in the post-security connector between Terminals 2 \u0026amp; 3, and online at: https://t.co/FXnpkGQR07\n#ToSurviveOnThisShore https://t.co/SQmNDQlj3X",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

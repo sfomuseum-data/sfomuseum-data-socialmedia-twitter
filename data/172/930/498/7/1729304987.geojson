@@ -188,10 +188,6 @@
               "duration_millis": "23565",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1074734682489507844/pu/pl/gQwYXex8JnuIF8Jx.m3u8?tag=6"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1074734682489507844/pu/vid/1280x720/2XZviOamMOeG-Law.mp4?tag=6"
@@ -200,6 +196,10 @@
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1074734682489507844/pu/vid/320x180/f1-QqBa9WZyCtxml.mp4?tag=6"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1074734682489507844/pu/pl/gQwYXex8JnuIF8Jx.m3u8?tag=6"
                 },
                 {
                   "bitrate": "832000",
@@ -253,7 +253,7 @@
       }
     ],
     "wof:id": 1729304987,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"#Rebooted\" by Sagar Arun and Rachel Kral. Clichés abound when a retro #comicbook #superhero meets his darker and more modern counterpart in this #animated short. #illustration #VideoArtsSFOM @RinglingCollege https://t.co/E7CNlop6zY",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

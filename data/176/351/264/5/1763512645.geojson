@@ -168,13 +168,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1415406311517220866/pu/vid/720x1280/Q1uHz0QABAEnxqWJ.mp4?tag=12"
                 },
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1415406311517220866/pu/pl/RTZPPkfsXXObVclK.m3u8?tag=12\u0026container=cmaf"
+                },
+                {
                   "bitrate": "632000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1415406311517220866/pu/vid/320x568/GzZIR26mvcFtv5im.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1415406311517220866/pu/pl/RTZPPkfsXXObVclK.m3u8?tag=12\u0026container=fmp4"
                 },
                 {
                   "bitrate": "950000",
@@ -228,7 +228,7 @@
       }
     ],
     "wof:id": 1763512645,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589695,
     "wof:name": "RT @flySFO: #SFO to Tokyo! 🇺🇸 @USAGym is off to Japan! 🇺🇸🥳 https://t.co/GsZMYzsgrE",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

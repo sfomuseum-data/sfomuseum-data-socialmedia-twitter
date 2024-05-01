@@ -1,0 +1,201 @@
+{
+  "id": 1913814523,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-12-09",
+    "date:cessation_upper": "2023-12-09",
+    "date:inception_lower": "2023-12-09",
+    "date:inception_upper": "2023-12-09",
+    "edtf:cessation": "2023-12-08T17:05:58-08:00",
+    "edtf:inception": "2023-12-08T17:05:58-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1702083958,
+      "created_at": "Sat Dec 09 01:05:58 +0000 2023",
+      "display_text_range": [
+        "0",
+        "303"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1733291866685333855"
+          ],
+          "editableUntil": "2023-12-09T02:05:58.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "256",
+              "272"
+            ],
+            "text": "BixbyCollection"
+          },
+          {
+            "indices": [
+              "273",
+              "279"
+            ],
+            "text": "PanAm"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/HbKi2bx1kd",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1733291866685333855/photo/1",
+            "id": "1733291670840696832",
+            "id_str": "1733291670840696832",
+            "indices": [
+              "280",
+              "303"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GA3jl1yaYAANpiX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GA3jl1yaYAANpiX.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HbKi2bx1kd"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "sfomuseum.org/exhibitions/ha…",
+            "expanded_url": "https://www.sfomuseum.org/exhibitions/harold-bixby-collection",
+            "indices": [
+              "231",
+              "254"
+            ],
+            "url": "https://t.co/MvwMYD0SyN"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/HbKi2bx1kd",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1733291866685333855/photo/1",
+            "id": "1733291670840696832",
+            "id_str": "1733291670840696832",
+            "indices": [
+              "280",
+              "303"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GA3jl1yaYAANpiX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GA3jl1yaYAANpiX.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HbKi2bx1kd"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "“Unlocking an Archival Treasure: The Harold Bixby Collection” is on display in the Aviation Museum and Library. Located pre-security in the International Terminal, the Aviation Museum and Library is open daily from 10am to 4:30pm. https://t.co/MvwMYD0SyN\n\n#BixbyCollection #PanAm https://t.co/HbKi2bx1kd",
+      "id": "1733291866685333855",
+      "id_str": "1733291866685333855",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1733291864227451381",
+      "in_reply_to_status_id_str": "1733291864227451381",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1714589729,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1913814523,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1913814523,
+    "wof:lastmodified": 1714589729,
+    "wof:name": "“Unlocking an Archival Treasure: The Harold Bixby Collection” is on display in the Aviation Museum and Library. Located pre-security in the International Terminal, the Aviation Museum and Library is open daily from 10am to 4:30pm. https://t.co/MvwMYD0SyN\n\n#BixbyCollection #PanAm https://t.co/HbKi2bx1kd",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

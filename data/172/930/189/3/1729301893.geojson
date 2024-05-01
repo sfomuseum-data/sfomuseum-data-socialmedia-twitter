@@ -136,11 +136,6 @@
               "duration_millis": "54967",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/938168218723663872/pu/vid/638x360/jQSdBHnkadDckxa8.mp4"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/938168218723663872/pu/vid/318x180/CO-EKbXqRZLJ-lp1.mp4"
@@ -148,6 +143,11 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/938168218723663872/pu/pl/W81bYqMXIx6hhnUo.m3u8"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/938168218723663872/pu/vid/638x360/jQSdBHnkadDckxa8.mp4"
                 }
               ]
             }
@@ -193,7 +193,7 @@
       }
     ],
     "wof:id": 1729301893,
-    "wof:lastmodified": 1692219559,
+    "wof:lastmodified": 1714589716,
     "wof:name": "NOW PLAYING: “Sonámbulo (The Sleepwalker)”. Inspired by the poem “Romance Sonámbulo” by Federico García Lorca, Bulgarian-born filmmaker Theodore Ushev evokes the universe of surrealist artist Joan Miró. At the Video Arts Gallery, pre-security, in the I.T. https://t.co/hNZ49HAjmp https://t.co/bSG6dlLgbp",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

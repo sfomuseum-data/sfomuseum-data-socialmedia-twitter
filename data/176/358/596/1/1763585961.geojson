@@ -163,7 +163,7 @@
               "variants": [
                 {
                   "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1460416798273114112/pu/pl/amhnF6rZyF48H7ru.m3u8?tag=12\u0026container=fmp4"
+                  "url": "https://video.twimg.com/ext_tw_video/1460416798273114112/pu/pl/amhnF6rZyF48H7ru.m3u8?tag=12\u0026container=cmaf"
                 },
                 {
                   "bitrate": "950000",
@@ -171,14 +171,14 @@
                   "url": "https://video.twimg.com/ext_tw_video/1460416798273114112/pu/vid/480x852/4_-57aUUnsiiFOJk.mp4?tag=12"
                 },
                 {
-                  "bitrate": "632000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1460416798273114112/pu/vid/320x568/X5sKBs4jPNd9nQpG.mp4?tag=12"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1460416798273114112/pu/vid/720x1280/Ur6uGijB6Y9HmUDG.mp4?tag=12"
+                },
+                {
+                  "bitrate": "632000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1460416798273114112/pu/vid/320x568/X5sKBs4jPNd9nQpG.mp4?tag=12"
                 }
               ]
             }
@@ -228,7 +228,7 @@
       }
     ],
     "wof:id": 1763585961,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589691,
     "wof:name": "RT @flySFO: The Force will be with you. Always. ⭐️ \n\n@starwars \n@FlyANA_official https://t.co/YKxoPVxWkM",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

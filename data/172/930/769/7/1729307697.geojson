@@ -158,9 +158,8 @@
               "duration_millis": "34440",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1217155524011028480/pu/vid/1280x720/EhU33L1jYAuI1Zmr.mp4?tag=10"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1217155524011028480/pu/pl/k8GKmb6NQOHJFkWl.m3u8?tag=10"
                 },
                 {
                   "bitrate": "256000",
@@ -168,13 +167,14 @@
                   "url": "https://video.twimg.com/ext_tw_video/1217155524011028480/pu/vid/480x270/YpYRCnkVBOpK66in.mp4?tag=10"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1217155524011028480/pu/pl/k8GKmb6NQOHJFkWl.m3u8?tag=10"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1217155524011028480/pu/vid/640x360/YQ2Gtcc4m_dRwKeu.mp4?tag=10"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1217155524011028480/pu/vid/1280x720/EhU33L1jYAuI1Zmr.mp4?tag=10"
                 }
               ]
             }
@@ -223,7 +223,7 @@
       }
     ],
     "wof:id": 1729307697,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589707,
     "wof:name": "NOW PLAYING: \"-N- Uprising\" by Thomas Blanchard (@MonsieurChapeau). In his experimental film that evokes the cycles of nature, Blanchard employs brilliant color to highlight some of the beautiful insects and plants that inhabit our world. https://t.co/zhXOE4ImYJ #VideoArtsSFOM https://t.co/7gx35vCcMx",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

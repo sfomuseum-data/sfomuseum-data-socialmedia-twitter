@@ -156,23 +156,23 @@
               "duration_millis": "24502",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/927989584390008833/pu/vid/1280x720/YVRAyoHBZ8cHvXSC.mp4"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/927989584390008833/pu/vid/640x360/eUW2jdoWZ_wZYZw2.mp4"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/927989584390008833/pu/pl/axR17yvmNGkbHPCH.m3u8"
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/927989584390008833/pu/vid/1280x720/YVRAyoHBZ8cHvXSC.mp4"
                 },
                 {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/927989584390008833/pu/vid/320x180/-zBgoQXZa0DIN5lI.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/927989584390008833/pu/pl/axR17yvmNGkbHPCH.m3u8"
                 }
               ]
             }
@@ -221,7 +221,7 @@
       }
     ],
     "wof:id": 1729301657,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589716,
     "wof:name": "RT @krisvancleave: And the Queen has departed SFO for HNL on last time. Goodbye friend. #ua747farewell https://t.co/w2MpdW8iiv",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

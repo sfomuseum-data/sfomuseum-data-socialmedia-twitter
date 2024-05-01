@@ -155,6 +155,11 @@
               "duration_millis": "38580",
               "variants": [
                 {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1087895552065327104/pu/vid/320x180/FUNh-3TytxTi0MDG.mp4?tag=6"
+                },
+                {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1087895552065327104/pu/pl/mYRXXNCCbVSd9q_X.m3u8?tag=6"
                 },
@@ -162,11 +167,6 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1087895552065327104/pu/vid/640x360/mDbTkWi-iwH4PR3s.mp4?tag=6"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1087895552065327104/pu/vid/320x180/FUNh-3TytxTi0MDG.mp4?tag=6"
                 },
                 {
                   "bitrate": "2176000",
@@ -217,7 +217,7 @@
       }
     ],
     "wof:id": 1729305191,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"Pōhaku\" by Bradley Tangonan. Tangonan profiles Oahu native Tom Pōhaku Stone, who shares his spiritual motivation and his process for reviving the ancient Hawaiian tradition of handcrafting #surfboards from native woods. https://t.co/b2ttCOjFw5 #VideoArtsSFOM https://t.co/c4n7kxiwCb",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

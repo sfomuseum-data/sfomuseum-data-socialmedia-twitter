@@ -136,14 +136,13 @@
               "duration_millis": "40967",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/935569484948967425/pu/vid/1280x720/WOOkXwGACIKur6Pq.mp4"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/935569484948967425/pu/vid/640x360/vqVAPna3El7-zDJd.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/935569484948967425/pu/pl/xvNwkyf6hwZzyNLT.m3u8"
                 },
                 {
                   "bitrate": "256000",
@@ -151,8 +150,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/935569484948967425/pu/vid/320x180/B6cxoXS-2wFrqo8K.mp4"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/935569484948967425/pu/pl/xvNwkyf6hwZzyNLT.m3u8"
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/935569484948967425/pu/vid/1280x720/WOOkXwGACIKur6Pq.mp4"
                 }
               ]
             }
@@ -198,7 +198,7 @@
       }
     ],
     "wof:id": 1729301853,
-    "wof:lastmodified": 1692219560,
+    "wof:lastmodified": 1714589716,
     "wof:name": "NOW PLAYING: “Twenty Eight Feet\" by Kevin Fraser. See this documentary about a man living the simple life on a boat, in the Video Arts Gallery, located pre-security, in the International Terminal. https://t.co/6bWBVrbj5C https://t.co/BCfKVz9zKV",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

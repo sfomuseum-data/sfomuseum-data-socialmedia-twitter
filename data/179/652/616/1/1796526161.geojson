@@ -155,6 +155,15 @@
               "duration_millis": "54054",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1550217142246600705/pu/pl/cdkgrnlelcvjlBYE.m3u8?tag=12\u0026container=cmaf"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1550217142246600705/pu/vid/512x270/Ks2Dub-aOZV2HjT_.mp4?tag=12"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1550217142246600705/pu/vid/1366x720/TbWrAEBsP3HdP_CB.mp4?tag=12"
@@ -163,22 +172,13 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1550217142246600705/pu/vid/682x360/BK0O_XwWjIecFD_A.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1550217142246600705/pu/pl/cdkgrnlelcvjlBYE.m3u8?tag=12\u0026container=fmp4"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1550217142246600705/pu/vid/512x270/Ks2Dub-aOZV2HjT_.mp4?tag=12"
                 }
               ]
             }
           }
         ]
       },
-      "favorite_count": "10",
+      "favorite_count": "7",
       "favorited": false,
       "full_text": "As a reminder of the eternal life of plastic in this all-cardboard short film, award-winning theater and film director Robin Frohardt (@robinfrohardt) illustrates the journey of a plastic bag from the present day to the distant future. https://t.co/S4WYdcHT6g #VideoArtsSFO https://t.co/RJZA2VyZ3w",
       "id": "1550217219094691840",
@@ -219,7 +219,7 @@
       }
     ],
     "wof:id": 1796526161,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589724,
     "wof:name": "As a reminder of the eternal life of plastic in this all-cardboard short film, award-winning theater and film director Robin Frohardt (@robinfrohardt) illustrates the journey of a plastic bag from the present day to the distant future. https://t.co/S4WYdcHT6g #VideoArtsSFO https://t.co/RJZA2VyZ3w",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -137,15 +137,6 @@
               "duration_millis": "14300",
               "variants": [
                 {
-                  "bitrate": "320000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/675075964368502786/pu/vid/320x180/5K30fEnY9MKZ5-HB.mp4"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/675075964368502786/pu/pl/SE7YuXxVC5Ah6cD9.m3u8"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/675075964368502786/pu/vid/640x360/_xYWhBKWId5CutZK.mp4"
@@ -154,6 +145,15 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/675075964368502786/pu/vid/1280x720/8EgyCATj0QgYBTkl.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/675075964368502786/pu/pl/SE7YuXxVC5Ah6cD9.m3u8"
+                },
+                {
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/675075964368502786/pu/vid/320x180/5K30fEnY9MKZ5-HB.mp4"
                 }
               ]
             }
@@ -202,7 +202,7 @@
       }
     ],
     "wof:id": 1729294637,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589718,
     "wof:name": "Today the Aviation Museum \u0026amp; Library was full of cheer as we hosted @flySFO's 2015 Employee Holiday Breakfast! https://t.co/SmY6Kv33ns",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

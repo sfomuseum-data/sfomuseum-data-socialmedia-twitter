@@ -150,13 +150,9 @@
               "duration_millis": "59350",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1638969013379420160/pu/pl/leMCMn9rqpneF9Mx.m3u8?tag=12\u0026container=fmp4"
-                },
-                {
-                  "bitrate": "832000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1638969013379420160/pu/vid/640x360/jBL7j_CIrAi-jR7t.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1638969013379420160/pu/vid/480x270/iyjTgsHPJWytZ726.mp4?tag=12"
                 },
                 {
                   "bitrate": "2176000",
@@ -164,9 +160,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1638969013379420160/pu/vid/1280x720/mzCUErQ4inadR_Ma.mp4?tag=12"
                 },
                 {
-                  "bitrate": "256000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1638969013379420160/pu/vid/480x270/iyjTgsHPJWytZ726.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1638969013379420160/pu/vid/640x360/jBL7j_CIrAi-jR7t.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1638969013379420160/pu/pl/leMCMn9rqpneF9Mx.m3u8?tag=12\u0026container=cmaf"
                 }
               ]
             }
@@ -211,7 +211,7 @@
       }
     ],
     "wof:id": 1880136937,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589717,
     "wof:name": "Indonesian writer and director Andrea Nirmala Widjajanto follows young Anjani after the death of her father as she tries to reconnect with him through his practiced art of Wayang Puppetry. \n#VideoArts #Srikandi #WomensHistoryMonth https://t.co/Fore9lRxgT",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

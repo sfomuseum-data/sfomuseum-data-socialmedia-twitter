@@ -176,14 +176,14 @@
                   "url": "https://video.twimg.com/amplify_video/842464579523235841/pl/Fr_0ReR0U4SUB3AY.m3u8"
                 },
                 {
-                  "bitrate": "320000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/842464579523235841/vid/320x180/mY9uXfekijPeo8lh.mp4"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/842464579523235841/vid/640x360/LjsmlHb6ol3tut6M.mp4"
+                },
+                {
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/842464579523235841/vid/320x180/mY9uXfekijPeo8lh.mp4"
                 }
               ]
             }
@@ -232,7 +232,7 @@
       }
     ],
     "wof:id": 1729299675,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589717,
     "wof:name": "RT @BoeingAirplanes: #TBT On this week just 6 years ago, the 747-8 Intercontinental made its first flight. #avgeek https://t.co/Fgq1MKYcqE",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

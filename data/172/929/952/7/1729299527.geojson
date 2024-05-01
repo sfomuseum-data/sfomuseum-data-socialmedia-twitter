@@ -159,6 +159,15 @@
               "duration_millis": "132332",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/797479784376778752/pl/zOE9eAjjSe3hJFU1.m3u8"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/797479784376778752/vid/640x360/U26mfYHDFKQKPSZt.mp4"
+                },
+                {
                   "bitrate": "320000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/797479784376778752/vid/320x180/HTbj3WlfHaC9GWfX.mp4"
@@ -167,15 +176,6 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/797479784376778752/vid/1280x720/nr7ZvtfEHqjLc1qn.mp4"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/amplify_video/797479784376778752/pl/zOE9eAjjSe3hJFU1.m3u8"
-                },
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/797479784376778752/vid/640x360/U26mfYHDFKQKPSZt.mp4"
                 }
               ]
             }
@@ -224,7 +224,7 @@
       }
     ],
     "wof:id": 1729299527,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589717,
     "wof:name": "RT @Boeing: These women were a Flying Fortress. Meet the intrepid female fliers of the B-17. #InternationalWomensDay https://t.co/1CjXugkWJ3",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

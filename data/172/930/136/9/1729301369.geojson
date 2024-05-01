@@ -145,13 +145,13 @@
               "duration_millis": "158292",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/amplify_video/920050479660384258/pl/t85UmO0ohwjA1S8e.m3u8"
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/920050479660384258/vid/320x180/0Gs9Pnm1E8N-mqlo.mp4"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/920050479660384258/vid/1280x720/NfcaI_JbJ4aB1f_4.mp4"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/920050479660384258/pl/t85UmO0ohwjA1S8e.m3u8"
                 },
                 {
                   "bitrate": "832000",
@@ -159,9 +159,9 @@
                   "url": "https://video.twimg.com/amplify_video/920050479660384258/vid/640x360/569jpTh0FtyH7UaO.mp4"
                 },
                 {
-                  "bitrate": "320000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/920050479660384258/vid/320x180/0Gs9Pnm1E8N-mqlo.mp4"
+                  "url": "https://video.twimg.com/amplify_video/920050479660384258/vid/1280x720/NfcaI_JbJ4aB1f_4.mp4"
                 }
               ]
             }
@@ -210,7 +210,7 @@
       }
     ],
     "wof:id": 1729301369,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589716,
     "wof:name": "RT @CNNTravel: Presidential planes through history. https://t.co/2QFTnqAep0",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

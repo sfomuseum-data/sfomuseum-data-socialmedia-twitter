@@ -147,6 +147,10 @@
               "duration_millis": "24708",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1099122502943404032/pu/pl/pnqrGd3M6hAjEQxT.m3u8?tag=6"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1099122502943404032/pu/vid/1280x720/rulQBMe7MxOYTsQ_.mp4?tag=6"
@@ -155,10 +159,6 @@
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1099122502943404032/pu/vid/320x180/-q0ip6zlMCx01g10.mp4?tag=6"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1099122502943404032/pu/pl/pnqrGd3M6hAjEQxT.m3u8?tag=6"
                 },
                 {
                   "bitrate": "832000",
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1729305403,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"Lost Property\" by Åsa Lucander. In a ritual, an old man at the Lost Property Office attempts to help an old lady in her search for a lost item in Åsa Lucander’s beautifully crafted and unapologetically sentimental film. https://t.co/3sYpMG9MM9 #VideoArtsSFOM https://t.co/Gdp9Ih3o15",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

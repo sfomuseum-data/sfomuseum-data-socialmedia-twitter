@@ -136,14 +136,14 @@
               "duration_millis": "25480",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/991104308564258817/pu/vid/640x360/KJEg5ZXT-ZvG2zan.mp4?tag=3"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/991104308564258817/pu/vid/320x180/gq4v9h9pUo35LvMG.mp4?tag=3"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/991104308564258817/pu/vid/640x360/KJEg5ZXT-ZvG2zan.mp4?tag=3"
                 },
                 {
                   "bitrate": "2176000",
@@ -198,7 +198,7 @@
       }
     ],
     "wof:id": 1729303049,
-    "wof:lastmodified": 1692219556,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING:  \"The Fisherman\" by Luke Saunders. In this animation a  young woman endeavors to complete the life's work of her father in a  thoroughly electrified cityscape that supports a diverse ecosystem of  strange creatures. https://t.co/R0HozUcY9m https://t.co/6Mee0F9bj0",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

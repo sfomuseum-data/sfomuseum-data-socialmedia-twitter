@@ -147,6 +147,15 @@
               "duration_millis": "42875",
               "variants": [
                 {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1209239213771591680/pu/vid/1280x720/msmxDsutw5FY7cD_.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1209239213771591680/pu/pl/oD9PWEmjyuPwUXob.m3u8?tag=10"
+                },
+                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1209239213771591680/pu/vid/480x270/htqpMIjhva8HYwP9.mp4?tag=10"
@@ -155,15 +164,6 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1209239213771591680/pu/vid/640x360/nhyiFZF1MGHqUuSS.mp4?tag=10"
-                },
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1209239213771591680/pu/vid/1280x720/msmxDsutw5FY7cD_.mp4?tag=10"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1209239213771591680/pu/pl/oD9PWEmjyuPwUXob.m3u8?tag=10"
                 }
               ]
             }
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1729307559,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589707,
     "wof:name": "NOW PLAYING: \"The Moon’s Milk\" by Ri Crawford. Captain Millipede and his crew embark on a final expedition to the Moon to harvest its milk in Oakland-based filmmaker Ri Crawford’s stop-motion animated short. https://t.co/5WXnwP4Nwx #VideoArtsSFOM https://t.co/YnC3cVFAnc",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

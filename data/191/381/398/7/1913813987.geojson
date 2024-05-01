@@ -1,0 +1,221 @@
+{
+  "id": 1913813987,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-08-17",
+    "date:cessation_upper": "2023-08-17",
+    "date:inception_lower": "2023-08-17",
+    "date:inception_upper": "2023-08-17",
+    "edtf:cessation": "2023-08-17T16:15:54-07:00",
+    "edtf:inception": "2023-08-17T16:15:54-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1692314154,
+      "created_at": "Thu Aug 17 23:15:54 +0000 2023",
+      "display_text_range": [
+        "0",
+        "293"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1692314339943014547"
+          ],
+          "editableUntil": "2023-08-18T00:15:54.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "256",
+              "269"
+            ],
+            "text": "VideoArtsSFO"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DQ3k0HsvyV",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1692314339943014547/video/1",
+            "id": "1692313032469430272",
+            "id_str": "1692313032469430272",
+            "indices": [
+              "270",
+              "293"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1692313032469430272/pu/img/LMVydoXdLWyDjyVa.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1692313032469430272/pu/img/LMVydoXdLWyDjyVa.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/DQ3k0HsvyV"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "18948365",
+            "id_str": "18948365",
+            "indices": [
+              "34",
+              "39"
+            ],
+            "name": "San José State University",
+            "screen_name": "SJSU"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/DQ3k0HsvyV",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1692314339943014547/video/1",
+            "id": "1692313032469430272",
+            "id_str": "1692313032469430272",
+            "indices": [
+              "270",
+              "293"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1692313032469430272/pu/img/LMVydoXdLWyDjyVa.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1692313032469430272/pu/img/LMVydoXdLWyDjyVa.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/DQ3k0HsvyV",
+            "video_info": {
+              "aspect_ratio": [
+                "16",
+                "9"
+              ],
+              "duration_millis": "60226",
+              "variants": [
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1692313032469430272/pu/vid/480x270/_13aMD76TkIq4H-r.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1692313032469430272/pu/pl/BbuUQ-tMoN_eXtY8.m3u8?tag=12\u0026container=cmaf"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1692313032469430272/pu/vid/640x360/RR7wQvtdUtjlCPNK.mp4?tag=12"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1692313032469430272/pu/vid/1280x720/7CTV18W5Ci09aeRh.mp4?tag=12"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Recent San Jose State University (@SJSU) animation graduate Denise Chan’s Kaeru follows a darkroom photographer as she experiences frustration and self-doubt during the creative process until a young child reminds her of the wonder and joy of photography. #VideoArtsSFO https://t.co/DQ3k0HsvyV",
+      "id": "1692314339943014547",
+      "id_str": "1692314339943014547",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1714589704,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1913813987,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1913813987,
+    "wof:lastmodified": 1714589704,
+    "wof:name": "Recent San Jose State University (@SJSU) animation graduate Denise Chan’s Kaeru follows a darkroom photographer as she experiences frustration and self-doubt during the creative process until a young child reminds her of the wonder and joy of photography. #VideoArtsSFO https://t.co/DQ3k0HsvyV",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

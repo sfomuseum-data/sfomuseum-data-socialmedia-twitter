@@ -145,9 +145,8 @@
               "duration_millis": "13533",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/825420843203358721/pu/vid/480x480/LplCkVGz6yAW06I4.mp4"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/825420843203358721/pu/pl/-zOK_oqMjT8_S1El.m3u8"
                 },
                 {
                   "bitrate": "256000",
@@ -155,8 +154,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/825420843203358721/pu/vid/240x240/nSAMMALnFUUQZY4-.mp4"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/825420843203358721/pu/pl/-zOK_oqMjT8_S1El.m3u8"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/825420843203358721/pu/vid/480x480/LplCkVGz6yAW06I4.mp4"
                 }
               ]
             }
@@ -202,7 +202,7 @@
       }
     ],
     "wof:id": 1729299205,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589717,
     "wof:name": "Creating a dance of rising \u0026amp; falling “butterflies,” Butterfly Wall by Charles Sowers is an interactive sculpture. #airportart #kidsspot https://t.co/oxIhQmx5Yc",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

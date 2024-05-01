@@ -137,10 +137,6 @@
               "duration_millis": "35035",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1046929957740376064/pu/pl/htR18h9o6sIl_yhj.m3u8?tag=5"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1046929957740376064/pu/vid/1280x720/VoEDLt8il9IcBr-P.mp4?tag=5"
@@ -149,6 +145,10 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1046929957740376064/pu/vid/640x360/v3phaYxdxb01DDPD.mp4?tag=5"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1046929957740376064/pu/pl/htR18h9o6sIl_yhj.m3u8?tag=5"
                 },
                 {
                   "bitrate": "256000",
@@ -199,7 +199,7 @@
       }
     ],
     "wof:id": 1729304369,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"3,000 Miles\" by Sean Wang. Wang spent a year living in NYC, far from his SF Bay Area home. This film, comprised of street footage set to his mother’s voicemail messages, is a personal work that touches on themes of identity and family. #VideoArtsSFOM https://t.co/2CVcLjUiVz",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

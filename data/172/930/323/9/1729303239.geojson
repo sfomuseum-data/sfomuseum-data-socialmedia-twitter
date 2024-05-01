@@ -163,13 +163,13 @@
               "duration_millis": "23065",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/998718317090164736/pu/pl/bXvm2fSWtHT0fLWi.m3u8?tag=3"
+                },
+                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/998718317090164736/pu/vid/320x180/RRGC8A_HZLCK4_wu.mp4?tag=3"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/998718317090164736/pu/pl/bXvm2fSWtHT0fLWi.m3u8?tag=3"
                 },
                 {
                   "bitrate": "2176000",
@@ -225,7 +225,7 @@
       }
     ],
     "wof:id": 1729303239,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"Kite Fight\" by Guilherme Tensol. In Rocinha, #Rio de Janeiro’s largest #favela, the popular sport of #kite fighting provides a sense of pride and an escape from the community’s harsh living conditions. https://t.co/xXXczq3Qf2 https://t.co/ERiGsOXZB3",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

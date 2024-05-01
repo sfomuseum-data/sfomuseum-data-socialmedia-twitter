@@ -137,13 +137,13 @@
               "duration_millis": "33567",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1157062044400545792/pu/pl/Jb43DgS6W1Sqqkwv.m3u8?tag=10"
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1157062044400545792/pu/vid/480x270/RjPaBmh2TN8Yq8LK.mp4?tag=10"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1157062044400545792/pu/vid/640x360/PqQgKzolnqGMQvoC.mp4?tag=10"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1157062044400545792/pu/pl/Jb43DgS6W1Sqqkwv.m3u8?tag=10"
                 },
                 {
                   "bitrate": "2176000",
@@ -151,9 +151,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1157062044400545792/pu/vid/1280x720/nAgvwy80hyg81Vv0.mp4?tag=10"
                 },
                 {
-                  "bitrate": "256000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1157062044400545792/pu/vid/480x270/RjPaBmh2TN8Yq8LK.mp4?tag=10"
+                  "url": "https://video.twimg.com/ext_tw_video/1157062044400545792/pu/vid/640x360/PqQgKzolnqGMQvoC.mp4?tag=10"
                 }
               ]
             }
@@ -199,7 +199,7 @@
       }
     ],
     "wof:id": 1729306659,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589713,
     "wof:name": "NOW PLAYING: “Dreams Without Borders” by Muna Al Hariri. First-time filmmaker Muna Al Hariri, a resident of Jordan’s Azraq Refugee Camp, expresses her need to be a normal teenager while sharing her hopes and dreams in this short film. #VideoArtsSFOM https://t.co/FsjnnMtC0i",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

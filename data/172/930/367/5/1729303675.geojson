@@ -153,9 +153,8 @@
               "duration_millis": "30239",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1019008848693088256/pu/vid/640x360/AkrTcnRmH-PPzgGx.mp4?tag=3"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1019008848693088256/pu/pl/FzJqLz5IUSp31OSX.m3u8?tag=3"
                 },
                 {
                   "bitrate": "256000",
@@ -168,8 +167,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1019008848693088256/pu/vid/1280x720/VzU2H6W4vQcGdEti.mp4?tag=3"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1019008848693088256/pu/pl/FzJqLz5IUSp31OSX.m3u8?tag=3"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1019008848693088256/pu/vid/640x360/AkrTcnRmH-PPzgGx.mp4?tag=3"
                 }
               ]
             }
@@ -215,7 +215,7 @@
       }
     ],
     "wof:id": 1729303675,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"Scent of Geranium\" by #NaghmehFarzaneh. In this poignant short, Farzaneh communicates the anxiety, alienation, and complex range of emotions shared by #immigrants coming to the United States. #VideoArtsSFOM https://t.co/Bm4xhRksaj",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

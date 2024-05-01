@@ -152,9 +152,9 @@
               "duration_millis": "54929",
               "variants": [
                 {
-                  "bitrate": "256000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1547684449642418182/pu/vid/480x270/Vr9_ZGAbGStyaxVZ.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1547684449642418182/pu/vid/1280x720/173HorjFZ4tNX2PF.mp4?tag=12"
                 },
                 {
                   "bitrate": "832000",
@@ -162,13 +162,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1547684449642418182/pu/vid/640x360/yuZjTjEeWW1jpQBw.mp4?tag=12"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1547684449642418182/pu/pl/ZqwDULvfsDXcdyU1.m3u8?tag=12\u0026container=fmp4"
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1547684449642418182/pu/vid/480x270/Vr9_ZGAbGStyaxVZ.mp4?tag=12"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1547684449642418182/pu/vid/1280x720/173HorjFZ4tNX2PF.mp4?tag=12"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1547684449642418182/pu/pl/ZqwDULvfsDXcdyU1.m3u8?tag=12\u0026container=cmaf"
                 }
               ]
             }
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1796526239,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589724,
     "wof:name": "In the pampas grasslands of Montauk, New York, dancer Habby “Hob” Jacques and Los Angeles-based director Jess Hu explore and redefine the environment through the movement of flexing. https://t.co/eI2ZEIIaiR\n#VideoArts #VideoArtsSFO https://t.co/fmHJD0AJy4",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

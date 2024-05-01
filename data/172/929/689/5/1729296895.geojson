@@ -165,14 +165,14 @@
                   "url": "https://video.twimg.com/ext_tw_video/753972795030188032/pu/pl/rUp4-4mgh1vBWnYP.m3u8"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/753972795030188032/pu/vid/1280x720/L3bG1yq_sl8yNJ8x.mp4"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/753972795030188032/pu/vid/640x360/pQgqmlv0rxk8QDPJ.mp4"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/753972795030188032/pu/vid/1280x720/L3bG1yq_sl8yNJ8x.mp4"
                 }
               ]
             }
@@ -221,7 +221,7 @@
       }
     ],
     "wof:id": 1729296895,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589718,
     "wof:name": "RT @museumofflight: Happy birthday Boeing! #Boeing100 https://t.co/U0VN8W5Gf5",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -174,8 +174,9 @@
               "duration_millis": "59958",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1598386027155968000/pu/pl/Y_4oDiJ1vLlHDMnJ.m3u8?tag=12\u0026container=fmp4"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1598386027155968000/pu/vid/846x360/cBO5DmGUf68eT0vK.mp4?tag=12"
                 },
                 {
                   "bitrate": "2176000",
@@ -188,9 +189,8 @@
                   "url": "https://video.twimg.com/ext_tw_video/1598386027155968000/pu/vid/634x270/pYdNJ9xxvHg9CCyG.mp4?tag=12"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1598386027155968000/pu/vid/846x360/cBO5DmGUf68eT0vK.mp4?tag=12"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1598386027155968000/pu/pl/Y_4oDiJ1vLlHDMnJ.m3u8?tag=12\u0026container=cmaf"
                 }
               ]
             }
@@ -235,7 +235,7 @@
       }
     ],
     "wof:id": 1880137897,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589720,
     "wof:name": "New York-based filmmaker Andre Andreev illustrates the story of legendary #Arsenal goalkeeper Bob Wilson, who reflects on the grueling and often surreal nature of life between the goalposts. \n#VideoArts #VideoArtsSFO #worldcup #football #illustration https://t.co/sITgZztp9W",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -48,7 +48,18 @@
             "url": "http://t.co/WNEZq4IY"
           }
         ],
-        "user_mentions": []
+        "user_mentions": [
+          {
+            "id": "1712562664931725312",
+            "id_str": "1712562664931725312",
+            "indices": [
+              "43",
+              "52"
+            ],
+            "name": "Jeff Kirk",
+            "screen_name": "jlkirk52"
+          }
+        ]
       },
       "favorite_count": "0",
       "favorited": false,
@@ -89,7 +100,7 @@
       }
     ],
     "wof:id": 1729309359,
-    "wof:lastmodified": 1692219580,
+    "wof:lastmodified": 1714589721,
     "wof:name": "Thanks! Glad you liked Moto Bellissima! RT @Jlkirk52: Cool old Italian motorcycles on display in intl terminal at SFO http://t.co/WNEZq4IY",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

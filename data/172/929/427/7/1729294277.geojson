@@ -155,11 +155,6 @@
               "duration_millis": "13947",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/653990403285217280/pu/vid/640x360/wCG42L3Ou8YbSIBy.mp4"
-                },
-                {
                   "bitrate": "320000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/653990403285217280/pu/vid/320x180/ogCPXGpdmiDtjRx6.mp4"
@@ -168,6 +163,11 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/653990403285217280/pu/vid/1280x720/2Nh1f2_WK397DYwU.mp4"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/653990403285217280/pu/vid/640x360/wCG42L3Ou8YbSIBy.mp4"
                 },
                 {
                   "content_type": "application/x-mpegURL",
@@ -221,7 +221,7 @@
       }
     ],
     "wof:id": 1729294277,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589718,
     "wof:name": "RT @49ers: He certainly did take advantage of it. Happy birthday to the 🐐 @JerryRice! http://t.co/ur3vMnAr2R",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

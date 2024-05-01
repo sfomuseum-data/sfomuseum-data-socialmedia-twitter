@@ -147,9 +147,8 @@
               "duration_millis": "45712",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1191921558953975808/pu/vid/1280x720/qsTVietfKugYuwvC.mp4?tag=10"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1191921558953975808/pu/pl/Axzzp9Zj0Q2AZyvu.m3u8?tag=10"
                 },
                 {
                   "bitrate": "832000",
@@ -162,8 +161,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1191921558953975808/pu/vid/480x270/5_ezuN7JEMS43Ont.mp4?tag=10"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1191921558953975808/pu/pl/Axzzp9Zj0Q2AZyvu.m3u8?tag=10"
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1191921558953975808/pu/vid/1280x720/qsTVietfKugYuwvC.mp4?tag=10"
                 }
               ]
             }
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1729307357,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589707,
     "wof:name": "NOW PLAYING: “Generations” by Anthony Florez. Florez examines native identity through the eyes of Kellie Harry, a member of the Pyramid Lake Paiute Tribe who returned to Nevada to raise her children in the traditional lifestyle. https://t.co/oWqin1Of7z #VideoArtsSFOM https://t.co/SVO3nWRjSj",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -126,15 +126,6 @@
               "duration_millis": "122756",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1157061274720538624/pu/pl/L9ODMrrMcRRTNht4.m3u8?tag=10"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1157061274720538624/pu/vid/480x270/MfStAlN_3aq9KZT0.mp4?tag=10"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1157061274720538624/pu/vid/1280x720/_0B-W1TFxx1E2dzv.mp4?tag=10"
@@ -143,6 +134,15 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1157061274720538624/pu/vid/640x360/LT2w692PNkc2be2x.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1157061274720538624/pu/pl/L9ODMrrMcRRTNht4.m3u8?tag=10"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1157061274720538624/pu/vid/480x270/MfStAlN_3aq9KZT0.mp4?tag=10"
                 }
               ]
             }
@@ -188,7 +188,7 @@
       }
     ],
     "wof:id": 1729306723,
-    "wof:lastmodified": 1692219548,
+    "wof:lastmodified": 1714589713,
     "wof:name": "Leonardo Drew’s work is a multi-layered installation spanning 3 walls. Comprised of hundreds of sculptural components, the installation can be identified as letters of an alphabet that create a narrative. See “Number 69S” by Leonardo Drew, on display, post-security in Terminal 1. https://t.co/j1tECVisMN",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -155,9 +155,8 @@
               "duration_millis": "52052",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/766060015857831936/vid/640x360/lkFBRFnbN79hGRbM.mp4"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/766060015857831936/pl/udUfgAWGGmbRtXQu.m3u8"
                 },
                 {
                   "bitrate": "320000",
@@ -165,13 +164,14 @@
                   "url": "https://video.twimg.com/amplify_video/766060015857831936/vid/320x180/4gCo_prU5VH1WCfs.mp4"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/amplify_video/766060015857831936/pl/udUfgAWGGmbRtXQu.m3u8"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/766060015857831936/vid/1280x720/z8C2enAv18fkRVZ0.mp4"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/766060015857831936/vid/640x360/lkFBRFnbN79hGRbM.mp4"
                 }
               ]
             }
@@ -220,7 +220,7 @@
       }
     ],
     "wof:id": 1729297389,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589717,
     "wof:name": "RT @cnntech: World's largest aircraft completes first test flight https://t.co/VLUeqJeQPH https://t.co/u8a5eqkdrd",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

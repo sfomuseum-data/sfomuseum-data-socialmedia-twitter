@@ -157,18 +157,18 @@
                   "url": "https://video.twimg.com/ext_tw_video/1570521987138850816/pu/vid/480x270/l6QQRY2jhBK3oxbj.mp4?tag=12"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1570521987138850816/pu/vid/640x360/tu0HOJckmSiqHqgM.mp4?tag=12"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1570521987138850816/pu/vid/1280x720/TAsVuKhqP1QB270t.mp4?tag=12"
                 },
                 {
                   "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1570521987138850816/pu/pl/TTznYmSW1WBliM0w.m3u8?tag=12\u0026container=fmp4"
+                  "url": "https://video.twimg.com/ext_tw_video/1570521987138850816/pu/pl/TTznYmSW1WBliM0w.m3u8?tag=12\u0026container=cmaf"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1570521987138850816/pu/vid/640x360/tu0HOJckmSiqHqgM.mp4?tag=12"
                 }
               ]
             }
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1796527239,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589723,
     "wof:name": "In his last film from the “Mexican Handcraft Masters” series, Mariano Rentería Garnica explores the cyclical nature of work created by the artists from the state of Michoacán.\n\nTo view the complete film, follow the link below:\nhttps://t.co/q6OxXQyswP\n#VideoArts #VideoArtsSFO https://t.co/Rjd3qIE6QH",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

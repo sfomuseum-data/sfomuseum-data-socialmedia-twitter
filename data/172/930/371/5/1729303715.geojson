@@ -152,11 +152,6 @@
                   "url": "https://video.twimg.com/ext_tw_video/1016430650398633986/pu/vid/1280x720/o597hNTKqv36Sxn-.mp4?tag=3"
                 },
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1016430650398633986/pu/vid/320x180/6l-pGFed05JIxRx2.mp4?tag=3"
-                },
-                {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1016430650398633986/pu/pl/3B27fWZ7MpbIfVSe.m3u8?tag=3"
                 },
@@ -164,6 +159,11 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1016430650398633986/pu/vid/640x360/DxjbP8RQ5LPtrg4y.mp4?tag=3"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1016430650398633986/pu/vid/320x180/6l-pGFed05JIxRx2.mp4?tag=3"
                 }
               ]
             }
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1729303715,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"Mexican Handcraft Masters: Copper\" by Mariano Rentería Garnica. In this documentary artisan Abono Punzo demonstrates his method for producing beautiful works of copper from waste material in the town of Santa Clara del Cobre. https://t.co/AvsXw6SfNN #VideoArtsSFOM https://t.co/15pdvANQCJ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

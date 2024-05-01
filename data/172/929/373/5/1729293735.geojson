@@ -36,48 +36,6 @@
       },
       "entities": {
         "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/vQz6VLgBzU",
-            "expanded_url": "https://twitter.com/ceohunty/status/625424335470137345/photo/1",
-            "id": "625424322916564992",
-            "id_str": "625424322916564992",
-            "indices": [
-              "88",
-              "110"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CK30G6lUwAAD02z.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CK30G6lUwAAD02z.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "625424335470137345",
-            "source_status_id_str": "625424335470137345",
-            "source_user_id": "817884428",
-            "source_user_id_str": "817884428",
-            "type": "photo",
-            "url": "http://t.co/vQz6VLgBzU"
-          }
-        ],
         "symbols": [],
         "urls": [],
         "user_mentions": [
@@ -90,100 +48,6 @@
             ],
             "name": "",
             "screen_name": "ceohunty"
-          },
-          {
-            "id": "47008576",
-            "id_str": "47008576",
-            "indices": [
-              "73",
-              "87"
-            ],
-            "name": "Kaitlin Olson",
-            "screen_name": "KaitlinJOlson"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/vQz6VLgBzU",
-            "expanded_url": "https://twitter.com/ceohunty/status/625424335470137345/photo/1",
-            "id": "625424322916564992",
-            "id_str": "625424322916564992",
-            "indices": [
-              "88",
-              "110"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CK30G6lUwAAD02z.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CK30G6lUwAAD02z.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "625424335470137345",
-            "source_status_id_str": "625424335470137345",
-            "source_user_id": "817884428",
-            "source_user_id_str": "817884428",
-            "type": "photo",
-            "url": "http://t.co/vQz6VLgBzU"
-          },
-          {
-            "display_url": "pic.twitter.com/vQz6VLgBzU",
-            "expanded_url": "https://twitter.com/ceohunty/status/625424335470137345/photo/1",
-            "id": "625424322954330112",
-            "id_str": "625424322954330112",
-            "indices": [
-              "88",
-              "110"
-            ],
-            "media_url": "http://pbs.twimg.com/media/CK30G6uVAAAWvDm.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CK30G6uVAAAWvDm.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "625424335470137345",
-            "source_status_id_str": "625424335470137345",
-            "source_user_id": "817884428",
-            "source_user_id_str": "817884428",
-            "type": "photo",
-            "url": "http://t.co/vQz6VLgBzU"
           }
         ]
       },
@@ -193,7 +57,6 @@
       "id": "626076782920384513",
       "id_str": "626076782920384513",
       "lang": "en",
-      "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
@@ -230,7 +93,7 @@
       }
     ],
     "wof:id": 1729293735,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589719,
     "wof:name": "RT @ceohunty: SFO has a costume jewelry exhibit, and there were CROWNS.  @KaitlinJOlson http://t.co/vQz6VLgBzU",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

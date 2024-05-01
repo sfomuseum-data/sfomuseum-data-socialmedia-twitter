@@ -147,8 +147,9 @@
               "duration_millis": "46720",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1221969290267480064/pu/pl/uBH1ls-fWZj9FCaI.m3u8?tag=10"
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1221969290267480064/pu/vid/1280x720/YP7pAV8Kqhs1LAi7.mp4?tag=10"
                 },
                 {
                   "bitrate": "256000",
@@ -161,9 +162,8 @@
                   "url": "https://video.twimg.com/ext_tw_video/1221969290267480064/pu/vid/640x360/h6ScBdfo_RUb2SB8.mp4?tag=10"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1221969290267480064/pu/vid/1280x720/YP7pAV8Kqhs1LAi7.mp4?tag=10"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1221969290267480064/pu/pl/uBH1ls-fWZj9FCaI.m3u8?tag=10"
                 }
               ]
             }
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1729307795,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589707,
     "wof:name": "NOW PLAYING: \"Elders\" by Glen Milner. The importance of family is one of the touchstones of Milner’s portrait of Karam and Kartari Chand, two Indian immigrants to England who held the distinction of being the world’s longest married couple. https://t.co/BQwOlyAn8H #VideoArtsSFOM https://t.co/l5skbwWtj5",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

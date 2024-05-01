@@ -174,13 +174,14 @@
               "duration_millis": "28552",
               "variants": [
                 {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1308964537383579648/pu/vid/480x270/q5v3j-n0x3rLq9c6.mp4?tag=10"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1308964537383579648/pu/vid/640x360/OMDHn3It6h9MgiG5.mp4?tag=10"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1308964537383579648/pu/pl/-2UveK7KUI6SEZgi.m3u8?tag=10"
                 },
                 {
                   "bitrate": "2176000",
@@ -188,9 +189,8 @@
                   "url": "https://video.twimg.com/ext_tw_video/1308964537383579648/pu/vid/1280x720/ZzP9BB4aHgGPgNDE.mp4?tag=10"
                 },
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1308964537383579648/pu/vid/480x270/q5v3j-n0x3rLq9c6.mp4?tag=10"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1308964537383579648/pu/pl/-2UveK7KUI6SEZgi.m3u8?tag=10"
                 }
               ]
             }
@@ -240,7 +240,7 @@
       }
     ],
     "wof:id": 1729308803,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589701,
     "wof:name": "RT @flySFO: Always a fun sight to see when we get a visit from this @united beauty! ✈️ #StarWars #OnwardAndUpward https://t.co/622eJ25j3U",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

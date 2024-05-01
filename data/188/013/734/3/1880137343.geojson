@@ -152,13 +152,13 @@
               "duration_millis": "56083",
               "variants": [
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1623757772486758406/pu/vid/480x270/49m7IcoPmrOFI-7t.mp4?tag=12"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1623757772486758406/pu/pl/UoKx0Ijb7mK84CZw.m3u8?tag=12\u0026container=cmaf"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1623757772486758406/pu/pl/UoKx0Ijb7mK84CZw.m3u8?tag=12\u0026container=fmp4"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1623757772486758406/pu/vid/640x360/XPBsJOSbsRn1L248.mp4?tag=12"
                 },
                 {
                   "bitrate": "2176000",
@@ -166,9 +166,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1623757772486758406/pu/vid/1280x720/g6fHaf2WnLZ23SDY.mp4?tag=12"
                 },
                 {
-                  "bitrate": "832000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1623757772486758406/pu/vid/640x360/XPBsJOSbsRn1L248.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1623757772486758406/pu/vid/480x270/49m7IcoPmrOFI-7t.mp4?tag=12"
                 }
               ]
             }
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1880137343,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589718,
     "wof:name": "Oakland-based filmmaker Alba Roland Mejia celebrates the diversity of the Black diaspora in the San Francisco Bay Area. \n\nTo learn more about the filmmaker visit:\nhttps://t.co/gzMv1gQA9P\n\n#VideoArtsSFO #BlackHistoryMonth https://t.co/DLpp5r6opj",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

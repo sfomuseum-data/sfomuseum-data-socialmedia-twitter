@@ -36,50 +36,18 @@
       },
       "entities": {
         "hashtags": [],
-        "media": [
+        "symbols": [],
+        "urls": [
           {
             "display_url": "pic.twitter.com/yFPj7Y79",
             "expanded_url": "https://twitter.com/simon_west/status/170215344907091968/photo/1",
-            "id": "170215344911286273",
-            "id_str": "170215344911286273",
             "indices": [
               "66",
               "86"
             ],
-            "media_url": "http://pbs.twimg.com/media/Aly59FDCAAEs-1k.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Aly59FDCAAEs-1k.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "170215344907091968",
-            "source_status_id_str": "170215344907091968",
-            "source_user_id": "17011436",
-            "source_user_id_str": "17011436",
-            "type": "photo",
             "url": "http://t.co/yFPj7Y79"
           }
         ],
-        "symbols": [],
-        "urls": [],
         "user_mentions": [
           {
             "id": "17011436",
@@ -90,50 +58,6 @@
             ],
             "name": "Simon West",
             "screen_name": "simon_west"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/yFPj7Y79",
-            "expanded_url": "https://twitter.com/simon_west/status/170215344907091968/photo/1",
-            "id": "170215344911286273",
-            "id_str": "170215344911286273",
-            "indices": [
-              "66",
-              "86"
-            ],
-            "media_url": "http://pbs.twimg.com/media/Aly59FDCAAEs-1k.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Aly59FDCAAEs-1k.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "170215344907091968",
-            "source_status_id_str": "170215344907091968",
-            "source_user_id": "17011436",
-            "source_user_id_str": "17011436",
-            "type": "photo",
-            "url": "http://t.co/yFPj7Y79"
           }
         ]
       },
@@ -184,7 +108,7 @@
       }
     ],
     "wof:id": 1729307143,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589722,
     "wof:name": "@simon_west Great photo from our exhibit, Revolutions per Minute! http://t.co/yFPj7Y79 Thanks for looking!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

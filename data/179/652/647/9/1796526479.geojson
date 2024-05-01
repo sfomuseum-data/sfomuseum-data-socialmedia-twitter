@@ -173,9 +173,8 @@
                   "url": "https://video.twimg.com/ext_tw_video/1540070550831108096/pu/vid/1280x720/oy6VVbFqZvr0il79.mp4?tag=12"
                 },
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1540070550831108096/pu/vid/480x270/Wq1MW-SdX8u1xn9y.mp4?tag=12"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1540070550831108096/pu/pl/9hTWT-h8x0g75bNW.m3u8?tag=12\u0026container=cmaf"
                 },
                 {
                   "bitrate": "832000",
@@ -183,8 +182,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1540070550831108096/pu/vid/640x360/yQsM3fzB2V2oNCPV.mp4?tag=12"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1540070550831108096/pu/pl/9hTWT-h8x0g75bNW.m3u8?tag=12\u0026container=fmp4"
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1540070550831108096/pu/vid/480x270/Wq1MW-SdX8u1xn9y.mp4?tag=12"
                 }
               ]
             }
@@ -229,7 +229,7 @@
       }
     ],
     "wof:id": 1796526479,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589726,
     "wof:name": "London-based filmmaker Balan Evans reveals the fierce determination, resilience, and hope of the LGBTQ community in Sierra Leone, where homosexuality is illegal.  https://t.co/D85E3QmNZW\n#VideoArts #VideoArtsSFO #pride #QueenHarold https://t.co/no6JLsE4KZ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

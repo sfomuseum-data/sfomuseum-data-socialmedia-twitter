@@ -1,0 +1,210 @@
+{
+  "id": 1913813825,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-10-13",
+    "date:cessation_upper": "2023-10-13",
+    "date:inception_lower": "2023-10-13",
+    "date:inception_upper": "2023-10-13",
+    "edtf:cessation": "2023-10-13T12:19:26-07:00",
+    "edtf:inception": "2023-10-13T12:19:26-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1697224766,
+      "created_at": "Fri Oct 13 19:19:26 +0000 2023",
+      "display_text_range": [
+        "0",
+        "268"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1712910939031588912"
+          ],
+          "editableUntil": "2023-10-13T20:19:26.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "231",
+              "244"
+            ],
+            "text": "VideoArtsSFO"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/OSIf51xEaG",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1712910939031588912/video/1",
+            "id": "1712909957912580097",
+            "id_str": "1712909957912580097",
+            "indices": [
+              "245",
+              "268"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1712909957912580097/pu/img/WeE0M425r81zSuuX.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1712909957912580097/pu/img/WeE0M425r81zSuuX.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/OSIf51xEaG"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/OSIf51xEaG",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1712910939031588912/video/1",
+            "id": "1712909957912580097",
+            "id_str": "1712909957912580097",
+            "indices": [
+              "245",
+              "268"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1712909957912580097/pu/img/WeE0M425r81zSuuX.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1712909957912580097/pu/img/WeE0M425r81zSuuX.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/OSIf51xEaG",
+            "video_info": {
+              "aspect_ratio": [
+                "16",
+                "9"
+              ],
+              "duration_millis": "50840",
+              "variants": [
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1712909957912580097/pu/vid/avc1/1280x720/7JcPkugfmu8UOPYa.mp4?tag=12"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1712909957912580097/pu/vid/avc1/640x360/2fJR4i8JajB4PEim.mp4?tag=12"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1712909957912580097/pu/vid/avc1/480x270/w9_52tx9zFS1OLLR.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1712909957912580097/pu/pl/97wzBb6jxD91hf5t.m3u8?tag=12\u0026container=cmaf"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Located in France, Justine Faure-Vincent served as the writer, director, composer, and performer in the awarding-winning dance and music film Feel, in which two women dance in opposition to one another in a stark desert landscape.\n#VideoArtsSFO https://t.co/OSIf51xEaG",
+      "id": "1712910939031588912",
+      "id_str": "1712910939031588912",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1714589697,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1913813825,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1913813825,
+    "wof:lastmodified": 1714589697,
+    "wof:name": "Located in France, Justine Faure-Vincent served as the writer, director, composer, and performer in the awarding-winning dance and music film Feel, in which two women dance in opposition to one another in a stark desert landscape.\n#VideoArtsSFO https://t.co/OSIf51xEaG",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

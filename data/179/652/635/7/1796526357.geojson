@@ -152,9 +152,9 @@
               "duration_millis": "47760",
               "variants": [
                 {
-                  "bitrate": "256000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1545140989307678720/pu/vid/480x270/HXsxyk0JU0xHpOqs.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1545140989307678720/pu/vid/1280x720/mxyZmFSck5JOqUdV.mp4?tag=12"
                 },
                 {
                   "bitrate": "832000",
@@ -162,13 +162,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1545140989307678720/pu/vid/640x360/bVCWt8X4pqvkDVof.mp4?tag=12"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1545140989307678720/pu/pl/fAhncHN3OCUCSZl2.m3u8?tag=12\u0026container=fmp4"
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1545140989307678720/pu/vid/480x270/HXsxyk0JU0xHpOqs.mp4?tag=12"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1545140989307678720/pu/vid/1280x720/mxyZmFSck5JOqUdV.mp4?tag=12"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1545140989307678720/pu/pl/fAhncHN3OCUCSZl2.m3u8?tag=12\u0026container=cmaf"
                 }
               ]
             }
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1796526357,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589726,
     "wof:name": "Australian filmmaker Michael Fletcher follows West Papuan fisherman Abdul Aziz as he captures small bait while forming a special bond with the whale sharks around his boat, teaching us how we can coexist peacefully with nature. https://t.co/Y0vVKofQTC\n#VideoArts #VideoArtsSFO https://t.co/UaDzIJSlLL",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

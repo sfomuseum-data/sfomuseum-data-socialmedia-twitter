@@ -145,6 +145,11 @@
               "duration_millis": "37579",
               "variants": [
                 {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1120409251724300292/pu/vid/640x360/dOjENpQYpckUBHTR.mp4?tag=8"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1120409251724300292/pu/vid/1280x720/StVzLBodQsIXIkbm.mp4?tag=8"
@@ -152,11 +157,6 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1120409251724300292/pu/pl/WRRrJDZMxfAEdlp0.m3u8?tag=8"
-                },
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1120409251724300292/pu/vid/640x360/dOjENpQYpckUBHTR.mp4?tag=8"
                 },
                 {
                   "bitrate": "256000",
@@ -207,7 +207,7 @@
       }
     ],
     "wof:id": 1729306043,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"Yosemite\" by Michael Fletcher. With long holds, deliberate pacing, and stunning cinematography, \"Yosemite\" delivers an outsider’s perspective on Yosemite National Park that affords a deep connection to the grandeur of its landscape. #VideoArtsSFOM #EarthDay https://t.co/wPGxbwYjJo",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

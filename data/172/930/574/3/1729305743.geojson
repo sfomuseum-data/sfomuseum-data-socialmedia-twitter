@@ -192,23 +192,23 @@
               "duration_millis": "30030",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1110985004841078786/pu/pl/IjG3k_bkDBu1_GPm.m3u8?tag=8"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1110985004841078786/pu/vid/1280x720/Ym4Fam9GvNIuTHPv.mp4?tag=8"
                 },
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1110985004841078786/pu/vid/320x180/7XepHN-T8bvI7w2G.mp4?tag=8"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1110985004841078786/pu/vid/640x360/qPX3njr1uni4nFVx.mp4?tag=8"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1110985004841078786/pu/pl/IjG3k_bkDBu1_GPm.m3u8?tag=8"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1110985004841078786/pu/vid/320x180/7XepHN-T8bvI7w2G.mp4?tag=8"
                 }
               ]
             }
@@ -259,7 +259,7 @@
       }
     ],
     "wof:id": 1729305743,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "Chris Strachwitz explains on the liner notes to “When Women Sang the Blues” that #MamieSmith made the first ever vocal #blues recording “Crazy Blues” in 1920. #womenshistorymonth  @ArhoolieFdn @ArhoolieRecords @Folkways #BecauseOfHerStory https://t.co/7B1BFUwIJc",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

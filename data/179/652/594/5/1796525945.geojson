@@ -164,17 +164,17 @@
               "variants": [
                 {
                   "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1560331341618524161/pu/pl/BI17NFthFRKu2ncy.m3u8?tag=12\u0026container=fmp4"
-                },
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1560331341618524161/pu/vid/640x360/wE4LEGWX14LV4X_c.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1560331341618524161/pu/pl/BI17NFthFRKu2ncy.m3u8?tag=12\u0026container=cmaf"
                 },
                 {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1560331341618524161/pu/vid/1280x720/hxgfWIlzksUPR_xn.mp4?tag=12"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1560331341618524161/pu/vid/640x360/wE4LEGWX14LV4X_c.mp4?tag=12"
                 },
                 {
                   "bitrate": "256000",
@@ -227,7 +227,7 @@
       }
     ],
     "wof:id": 1796525945,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589724,
     "wof:name": "In Marcello Hutchison-Trujillo’s undergraduate thesis film at @SFSU, he compassionately explores the family tension caused by his father’s long-time friendship with an artist experiencing homelessness during the pandemic.  \nhttps://t.co/s0oA7fUN7a\n\n#VideoArts #VideoArtsSFO https://t.co/fpb6PPoblQ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

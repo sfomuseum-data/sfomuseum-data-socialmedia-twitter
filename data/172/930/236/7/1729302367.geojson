@@ -136,6 +136,15 @@
               "duration_millis": "26433",
               "variants": [
                 {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/958048472090820608/pu/vid/320x180/ai58OjQb8cpx-RaO.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/958048472090820608/pu/pl/pe6OGfdBQ54Z4PI5.m3u8"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/958048472090820608/pu/vid/1280x720/xKfElO1mW8_wzBWP.mp4"
@@ -144,15 +153,6 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/958048472090820608/pu/vid/640x360/U3l5sbBugQtQFiUf.mp4"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/958048472090820608/pu/pl/pe6OGfdBQ54Z4PI5.m3u8"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/958048472090820608/pu/vid/320x180/ai58OjQb8cpx-RaO.mp4"
                 }
               ]
             }
@@ -198,7 +198,7 @@
       }
     ],
     "wof:id": 1729302367,
-    "wof:lastmodified": 1692219559,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"Through You\" by Lucette Braune. Even the smallest encounters matter, illustrated in this animated short in the Video Arts Gallery, located pre-security in the International Terminal. https://t.co/RgsAVysnrn https://t.co/y4xFWKHxjt",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

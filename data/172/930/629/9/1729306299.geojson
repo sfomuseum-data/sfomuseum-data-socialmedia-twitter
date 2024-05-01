@@ -171,13 +171,14 @@
               "duration_millis": "41833",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1138166199320100865/pu/pl/V1oiHZq-m_ZuaDYU.m3u8?tag=10"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1138166199320100865/pu/vid/640x360/wHKXP5D2Yjx1RQTT.mp4?tag=10"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1138166199320100865/pu/vid/480x270/wN16BsHnNDzbEJU0.mp4?tag=10"
                 },
                 {
                   "bitrate": "2176000",
@@ -185,9 +186,8 @@
                   "url": "https://video.twimg.com/ext_tw_video/1138166199320100865/pu/vid/1280x720/24Q29OVqug0d_Kh4.mp4?tag=10"
                 },
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1138166199320100865/pu/vid/480x270/wN16BsHnNDzbEJU0.mp4?tag=10"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1138166199320100865/pu/pl/V1oiHZq-m_ZuaDYU.m3u8?tag=10"
                 }
               ]
             }
@@ -233,7 +233,7 @@
       }
     ],
     "wof:id": 1729306299,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"Red\" by Yuchao Feng. An introverted young man finds comfort, confidence, and freedom while dressing in women’s clothing until coming upon his father in a chance encounter on a busy street. https://t.co/2vN68SDcRk #VideoArtsSFOM #Pride #PrideMonth #TransIsBeautiful https://t.co/2NXowvh1h3",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

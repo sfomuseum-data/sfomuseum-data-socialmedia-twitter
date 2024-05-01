@@ -1,0 +1,191 @@
+{
+  "id": 1913814097,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-03-07",
+    "date:cessation_upper": "2024-03-07",
+    "date:inception_lower": "2024-03-07",
+    "date:inception_upper": "2024-03-07",
+    "edtf:cessation": "2024-03-06T16:30:27-08:00",
+    "edtf:inception": "2024-03-06T16:30:27-08:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1709771427,
+      "created_at": "Thu Mar 07 00:30:27 +0000 2024",
+      "display_text_range": [
+        "0",
+        "254"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1765535448284426462"
+          ],
+          "editableUntil": "2024-03-07T01:30:27.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "200",
+              "215"
+            ],
+            "text": "AliciaMcCarthy"
+          },
+          {
+            "indices": [
+              "216",
+              "230"
+            ],
+            "text": "5WomenArtists"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/EpJKPyd4FE",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1765535448284426462/photo/1",
+            "id": "1765533885193170944",
+            "id_str": "1765533885193170944",
+            "indices": [
+              "231",
+              "254"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GIBvtuHasAAeLFO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GIBvtuHasAAeLFO.jpg",
+            "sizes": {
+              "large": {
+                "h": "1508",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/EpJKPyd4FE"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/EpJKPyd4FE",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1765535448284426462/photo/1",
+            "id": "1765533885193170944",
+            "id_str": "1765533885193170944",
+            "indices": [
+              "231",
+              "254"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GIBvtuHasAAeLFO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GIBvtuHasAAeLFO.jpg",
+            "sizes": {
+              "large": {
+                "h": "1508",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/EpJKPyd4FE"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Alicia McCarthy is a key member of the Mission School, a movement that emerged in the 1990’s in San Francisco and drew inspiration from graffiti, street art, and the use of non-traditional materials. #AliciaMcCarthy #5WomenArtists https://t.co/EpJKPyd4FE",
+      "id": "1765535448284426462",
+      "id_str": "1765535448284426462",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1765535446980079915",
+      "in_reply_to_status_id_str": "1765535446980079915",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1714589709,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1913814097,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1913814097,
+    "wof:lastmodified": 1714589709,
+    "wof:name": "Alicia McCarthy is a key member of the Mission School, a movement that emerged in the 1990’s in San Francisco and drew inspiration from graffiti, street art, and the use of non-traditional materials. #AliciaMcCarthy #5WomenArtists https://t.co/EpJKPyd4FE",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -155,8 +155,9 @@
               "duration_millis": "32658",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1032024717497053184/pu/pl/eQXB6FkEbivdb5QM.m3u8?tag=5"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1032024717497053184/pu/vid/640x360/F8kdF17rZtwPeYk8.mp4?tag=5"
                 },
                 {
                   "bitrate": "256000",
@@ -164,9 +165,8 @@
                   "url": "https://video.twimg.com/ext_tw_video/1032024717497053184/pu/vid/320x180/1oMJhyveF_NKQAAB.mp4?tag=5"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1032024717497053184/pu/vid/640x360/F8kdF17rZtwPeYk8.mp4?tag=5"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1032024717497053184/pu/pl/eQXB6FkEbivdb5QM.m3u8?tag=5"
                 },
                 {
                   "bitrate": "2176000",
@@ -217,7 +217,7 @@
       }
     ],
     "wof:id": 1729303961,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"A New View of the #Moon\" by Alex Gorosh and Wylie Overstreet. Filmmakers Alex Gorosh and Wylie Overstreet invite passersby in Los Angeles to gaze upon what they’ve looked at all their lives but never seen up close. https://t.co/mlSLagufOq #VideoArtsSFOM https://t.co/BKgoaGS5if",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

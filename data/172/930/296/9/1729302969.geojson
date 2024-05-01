@@ -145,9 +145,13 @@
               "duration_millis": "24800",
               "variants": [
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/983465803067502592/pu/vid/1280x720/NUwRYCIVjSSqW7Bu.mp4?tag=2"
+                  "url": "https://video.twimg.com/ext_tw_video/983465803067502592/pu/vid/640x360/yaK8yHrxX6nn9zg8.mp4?tag=2"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/983465803067502592/pu/pl/W8fByX-7HUJxUqqA.m3u8?tag=2"
                 },
                 {
                   "bitrate": "256000",
@@ -155,13 +159,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/983465803067502592/pu/vid/320x180/9GuXU4xSJz4BlnGS.mp4?tag=2"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/983465803067502592/pu/pl/W8fByX-7HUJxUqqA.m3u8?tag=2"
-                },
-                {
-                  "bitrate": "832000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/983465803067502592/pu/vid/640x360/yaK8yHrxX6nn9zg8.mp4?tag=2"
+                  "url": "https://video.twimg.com/ext_tw_video/983465803067502592/pu/vid/1280x720/NUwRYCIVjSSqW7Bu.mp4?tag=2"
                 }
               ]
             }
@@ -207,7 +207,7 @@
       }
     ],
     "wof:id": 1729302969,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: '\"SOWLE\" Tribute' BY AG Rojas and Corbett Jones. This documentary profiles a trio of sisters as they find their solace in the concrete bowls and half pipes of Houston's #skate parks. #VideoArtsSFOM https://t.co/vrQYJH7S3B",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

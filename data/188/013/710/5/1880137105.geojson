@@ -166,9 +166,13 @@
               "duration_millis": "59920",
               "variants": [
                 {
-                  "bitrate": "832000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1631384996308209664/pu/vid/844x360/ZR4JhsQkVgCsJ1gH.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1631384996308209664/pu/vid/1688x720/hB9cyeLZBPLgmnS4.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1631384996308209664/pu/pl/tXGrFIh9RLedAA6s.m3u8?tag=12\u0026container=cmaf"
                 },
                 {
                   "bitrate": "256000",
@@ -176,13 +180,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1631384996308209664/pu/vid/632x270/mNs5yqL5mdIbPlU2.mp4?tag=12"
                 },
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1631384996308209664/pu/vid/1688x720/hB9cyeLZBPLgmnS4.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1631384996308209664/pu/pl/tXGrFIh9RLedAA6s.m3u8?tag=12\u0026container=fmp4"
+                  "url": "https://video.twimg.com/ext_tw_video/1631384996308209664/pu/vid/844x360/ZR4JhsQkVgCsJ1gH.mp4?tag=12"
                 }
               ]
             }
@@ -227,7 +227,7 @@
       }
     ],
     "wof:id": 1880137105,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589717,
     "wof:name": "London-based photographer and filmmaker Zeina Aref celebrates Egyptian women and their expressive journeys towards reclaiming the spaces they rightfully deserve. \n#VideoArts #VideoArtsSFO #Akoon #ZeinaAref #InternationalWomensHistoryMonth https://t.co/wpmb4WNPZb",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

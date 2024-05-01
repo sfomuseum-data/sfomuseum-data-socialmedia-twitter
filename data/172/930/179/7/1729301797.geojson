@@ -137,6 +137,10 @@
               "duration_millis": "21000",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/931672607245479936/pu/pl/XFupMFD-wxmHBWi4.m3u8"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/931672607245479936/pu/vid/360x640/Mga18brSTQvEw11X.mp4"
@@ -145,10 +149,6 @@
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/931672607245479936/pu/vid/180x320/iDlVxl9NIBY8_FQ5.mp4"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/931672607245479936/pu/pl/XFupMFD-wxmHBWi4.m3u8"
                 }
               ]
             }
@@ -194,7 +194,7 @@
       }
     ],
     "wof:id": 1729301797,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589716,
     "wof:name": "What is installing an exhibition like at the airport? Check out our Instagram story! #AmericanFolkArt https://t.co/htqB027Vuh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

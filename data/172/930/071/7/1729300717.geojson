@@ -159,6 +159,11 @@
               "duration_millis": "20040",
               "variants": [
                 {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/885848204021035008/vid/640x360/nteeHvMzXL61qUve.mp4"
+                },
+                {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/amplify_video/885848204021035008/pl/-oycnZrrR52ZV_11.m3u8"
                 },
@@ -166,11 +171,6 @@
                   "bitrate": "320000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/885848204021035008/vid/320x180/xF_1XqnGPlCEHyKJ.mp4"
-                },
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/885848204021035008/vid/640x360/nteeHvMzXL61qUve.mp4"
                 }
               ]
             }
@@ -219,7 +219,7 @@
       }
     ],
     "wof:id": 1729300717,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589717,
     "wof:name": "RT @lufthansa: Give us a 💙  for our first #747! #TBT https://t.co/dkHXUbgoh0",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

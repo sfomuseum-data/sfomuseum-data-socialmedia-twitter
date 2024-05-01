@@ -147,9 +147,8 @@
                   "url": "https://video.twimg.com/ext_tw_video/1493318199432994817/pu/vid/1280x720/f__WVIyW3uu4PcE2.mp4?tag=12"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1493318199432994817/pu/vid/640x360/Pgx-qbzwqJyudLSd.mp4?tag=12"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1493318199432994817/pu/pl/ECiyDBbkaeHRTQSl.m3u8?tag=12\u0026container=cmaf"
                 },
                 {
                   "bitrate": "256000",
@@ -157,8 +156,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1493318199432994817/pu/vid/480x270/xPFFd6LaXZrSm1mS.mp4?tag=12"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1493318199432994817/pu/pl/ECiyDBbkaeHRTQSl.m3u8?tag=12\u0026container=fmp4"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1493318199432994817/pu/vid/640x360/Pgx-qbzwqJyudLSd.mp4?tag=12"
                 }
               ]
             }
@@ -203,7 +203,7 @@
       }
     ],
     "wof:id": 1763586425,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589689,
     "wof:name": "London-based director Jacob Sutton employs the talents of Czech actor and dancer Kristián “Mr. Kriss” Mensa and German artist and choreographer Hannes Langolf to communicate the anticipation of a first kiss.  #VideoArts #VideoArtsSFO https://t.co/FK6N5Q9u9E",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

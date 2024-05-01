@@ -163,13 +163,9 @@
               "duration_millis": "44878",
               "variants": [
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/988933372754911237/pu/vid/1280x720/DYQtx3moXSrByTCs.mp4?tag=3"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/988933372754911237/pu/pl/JGMM6akCiTzom6ep.m3u8?tag=3"
+                  "url": "https://video.twimg.com/ext_tw_video/988933372754911237/pu/vid/320x180/KPRkkVemwBejUs1X.mp4?tag=3"
                 },
                 {
                   "bitrate": "832000",
@@ -177,9 +173,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/988933372754911237/pu/vid/640x360/a792GisPXC4q_ZUq.mp4?tag=3"
                 },
                 {
-                  "bitrate": "256000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/988933372754911237/pu/vid/320x180/KPRkkVemwBejUs1X.mp4?tag=3"
+                  "url": "https://video.twimg.com/ext_tw_video/988933372754911237/pu/vid/1280x720/DYQtx3moXSrByTCs.mp4?tag=3"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/988933372754911237/pu/pl/JGMM6akCiTzom6ep.m3u8?tag=3"
                 }
               ]
             }
@@ -225,7 +225,7 @@
       }
     ],
     "wof:id": 1729303071,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING:  \"Follow Your Fears\" by Yali Sharon. This short #documentary follows professional #motocross rider Brad O'Neal's quest to make a childhood dream become a reality. https://t.co/LDF5RhODzk #VideoArtsSFOM https://t.co/2WfDrW5i9m",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

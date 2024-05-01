@@ -171,13 +171,14 @@
               "duration_millis": "20020",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1204217677188698112/pu/pl/yqTy6C3cHOBgZiVs.m3u8?tag=10"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1204217677188698112/pu/vid/480x270/m1kK-2CJYI-WEJhG.mp4?tag=10"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1204217677188698112/pu/vid/640x360/GRq55XyToc2yMkNt.mp4?tag=10"
                 },
                 {
                   "bitrate": "2176000",
@@ -185,9 +186,8 @@
                   "url": "https://video.twimg.com/ext_tw_video/1204217677188698112/pu/vid/1280x720/JntG9a0sngsicdK_.mp4?tag=10"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1204217677188698112/pu/vid/640x360/GRq55XyToc2yMkNt.mp4?tag=10"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1204217677188698112/pu/pl/yqTy6C3cHOBgZiVs.m3u8?tag=10"
                 }
               ]
             }
@@ -233,7 +233,7 @@
       }
     ],
     "wof:id": 1729307525,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589707,
     "wof:name": "NOW PLAYING: \"TURF Fever\" by Kevin Gordon. Michael Chicago, the son of a #Filipino immigrant mother and an alcoholic father, finds an escape from a difficult home life through #Turfing, a form of street dancing with roots in #Oakland. https://t.co/x8A4XtXbB2 #VideoArtsSFOM https://t.co/Wn1hS2tdYY",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

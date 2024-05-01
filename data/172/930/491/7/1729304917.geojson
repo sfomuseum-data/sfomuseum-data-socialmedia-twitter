@@ -147,16 +147,6 @@
               "duration_millis": "34360",
               "variants": [
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1072250447463731200/pu/vid/320x180/rFMcXhGgDXKZuZn_.mp4?tag=6"
-                },
-                {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1072250447463731200/pu/vid/640x360/CjCvj1vG5FHGuaoC.mp4?tag=6"
-                },
-                {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1072250447463731200/pu/pl/_gmnOkMe36GT8ls4.m3u8?tag=6"
                 },
@@ -164,6 +154,16 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1072250447463731200/pu/vid/1280x720/MG_XnianCFHwGwJp.mp4?tag=6"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1072250447463731200/pu/vid/640x360/CjCvj1vG5FHGuaoC.mp4?tag=6"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1072250447463731200/pu/vid/320x180/rFMcXhGgDXKZuZn_.mp4?tag=6"
                 }
               ]
             }
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1729304917,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"Ari\" by Alex Murawski. Murawski presents a fresh interpretation of a “coming-of-age” story that encourages self-acceptance, invites compassion, and celebrates the courage it takes to be who you truly are. https://t.co/5FmWDLDIg7 #VideoArtsSFOM https://t.co/raDDy6rsXA",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

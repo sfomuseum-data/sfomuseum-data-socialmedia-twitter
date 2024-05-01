@@ -161,14 +161,8 @@
               "duration_millis": "29997",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/vid/640x360/0fqiUeimlEG9Uc7D.mp4?tag=6"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/vid/320x180/nd1Z1kIWSKiKzymy.mp4?tag=6"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/pl/2QwXRj18Sa-VQtBc.m3u8?tag=6"
                 },
                 {
                   "bitrate": "2176000",
@@ -176,8 +170,14 @@
                   "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/vid/1280x720/AWKhW_7ZxD63eJOt.mp4?tag=6"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/pl/2QwXRj18Sa-VQtBc.m3u8?tag=6"
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/vid/320x180/nd1Z1kIWSKiKzymy.mp4?tag=6"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1098785038999511040/pu/vid/640x360/0fqiUeimlEG9Uc7D.mp4?tag=6"
                 }
               ]
             }
@@ -223,7 +223,7 @@
       }
     ],
     "wof:id": 1729305397,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "#SantiagoJiménezSr., born in San Antonio, #Texas, began to play the #accordion at the age of eight. His father Patricio, also played the accordion. #storyofarhoolie https://t.co/AbPnvsIlcS",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

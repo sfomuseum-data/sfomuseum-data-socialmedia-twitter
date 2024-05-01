@@ -160,9 +160,9 @@
               "duration_millis": "58308",
               "variants": [
                 {
-                  "bitrate": "832000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1524854370101100544/pu/vid/640x360/2SFANHR5HCzOF4fd.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1524854370101100544/pu/vid/480x270/riFeQKHDm9b7dK7A.mp4?tag=12"
                 },
                 {
                   "bitrate": "2176000",
@@ -171,12 +171,12 @@
                 },
                 {
                   "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1524854370101100544/pu/pl/LFeuwMvTk3fTNMon.m3u8?tag=12\u0026container=fmp4"
+                  "url": "https://video.twimg.com/ext_tw_video/1524854370101100544/pu/pl/LFeuwMvTk3fTNMon.m3u8?tag=12\u0026container=cmaf"
                 },
                 {
-                  "bitrate": "256000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1524854370101100544/pu/vid/480x270/riFeQKHDm9b7dK7A.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1524854370101100544/pu/vid/640x360/2SFANHR5HCzOF4fd.mp4?tag=12"
                 }
               ]
             }
@@ -221,7 +221,7 @@
       }
     ],
     "wof:id": 1796526835,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589728,
     "wof:name": "Toronto-based filmmaker and creative director Jimmy Vi has crafted a powerful and beautifully composed visual poem to explore the journey of a young Asian-American college student from self-hate to self-love. https://t.co/aPdohgIosG #VideoArts #VideoArtsSFO #AAPIHM https://t.co/ppaUfbIfdo",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -177,23 +177,23 @@
               "duration_millis": "69436",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1004035473843552257/pl/zMUsDoIl8stlHOLw.m3u8?tag=2"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/1004035473843552257/vid/640x360/2XKMhIQ8zo83QRQ4.mp4?tag=2"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/amplify_video/1004035473843552257/pl/zMUsDoIl8stlHOLw.m3u8?tag=2"
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1004035473843552257/vid/1280x720/m81gWnabOn8TM3uT.mp4?tag=2"
                 },
                 {
                   "bitrate": "320000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/1004035473843552257/vid/320x180/-gRyGp_agDDLqwyO.mp4?tag=2"
-                },
-                {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/1004035473843552257/vid/1280x720/m81gWnabOn8TM3uT.mp4?tag=2"
                 }
               ]
             }
@@ -243,7 +243,7 @@
       }
     ],
     "wof:id": 1729303373,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589714,
     "wof:name": "RT @united: T-minus 2️⃣ days until our 737 MAX 9 ✈️✈️✈️ enter service. @BoeingAirplanes #NewPlane #737MAX https://t.co/cw3KdKbprC",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

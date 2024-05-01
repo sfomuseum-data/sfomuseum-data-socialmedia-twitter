@@ -59,7 +59,18 @@
             "url": "http://t.co/Gp9BxoZo"
           }
         ],
-        "user_mentions": []
+        "user_mentions": [
+          {
+            "id": "1753535230995206144",
+            "id_str": "1753535230995206144",
+            "indices": [
+              "17",
+              "23"
+            ],
+            "name": "Yun Dublin",
+            "screen_name": "YDubl"
+          }
+        ]
       },
       "favorite_count": "0",
       "favorited": false,
@@ -100,7 +111,7 @@
       }
     ],
     "wof:id": 1729311899,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589723,
     "wof:name": "Sweet Thanks! RT @YDubL: Super dig the TV exhibit at #SFO. http://t.co/Gp9BxoZo",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

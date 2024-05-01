@@ -1,0 +1,194 @@
+{
+  "id": 1913813571,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-03-27",
+    "date:cessation_upper": "2024-03-27",
+    "date:inception_lower": "2024-03-27",
+    "date:inception_upper": "2024-03-27",
+    "edtf:cessation": "2024-03-27T15:53:07-07:00",
+    "edtf:inception": "2024-03-27T15:53:07-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1711579987,
+      "created_at": "Wed Mar 27 22:53:07 +0000 2024",
+      "display_text_range": [
+        "0",
+        "280"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1773121098327973903"
+          ],
+          "editableUntil": "2024-03-27T23:53:07.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "246",
+              "256"
+            ],
+            "text": "VXForever"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/R3XiYvWeSh",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1773121098327973903/photo/1",
+            "id": "1773120525264621568",
+            "id_str": "1773120525264621568",
+            "indices": [
+              "257",
+              "280"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GJtjuSxaEAA14AM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GJtjuSxaEAA14AM.jpg",
+            "sizes": {
+              "large": {
+                "h": "1365",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/R3XiYvWeSh"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/efsY50R3KSv",
+            "expanded_url": "https://ow.ly/efsY50R3KSv",
+            "indices": [
+              "221",
+              "244"
+            ],
+            "url": "https://t.co/7mmLliE62b"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/R3XiYvWeSh",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1773121098327973903/photo/1",
+            "id": "1773120525264621568",
+            "id_str": "1773120525264621568",
+            "indices": [
+              "257",
+              "280"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GJtjuSxaEAA14AM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GJtjuSxaEAA14AM.jpg",
+            "sizes": {
+              "large": {
+                "h": "1365",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/R3XiYvWeSh"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "See \"VX Forever: The Legacy of Virgin America\" on display in the Aviation Museum and Library. The Aviation Museum and Library is located, pre-security, in the International Terminal and is open daily from 10am to 4:30pm. https://t.co/7mmLliE62b\n\n#VXForever https://t.co/R3XiYvWeSh",
+      "id": "1773121098327973903",
+      "id_str": "1773121098327973903",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1773121096784466018",
+      "in_reply_to_status_id_str": "1773121096784466018",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1714589687,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1913813571,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1913813571,
+    "wof:lastmodified": 1714589687,
+    "wof:name": "See \"VX Forever: The Legacy of Virgin America\" on display in the Aviation Museum and Library. The Aviation Museum and Library is located, pre-security, in the International Terminal and is open daily from 10am to 4:30pm. https://t.co/7mmLliE62b\n\n#VXForever https://t.co/R3XiYvWeSh",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

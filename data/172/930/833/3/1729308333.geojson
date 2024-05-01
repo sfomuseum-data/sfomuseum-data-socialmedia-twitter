@@ -36,48 +36,6 @@
       },
       "entities": {
         "hashtags": [],
-        "media": [
-          {
-            "display_url": "pic.twitter.com/XAJsYV4Q",
-            "expanded_url": "https://twitter.com/donkeyattack/status/174990532060254210/photo/1",
-            "id": "174990532064448513",
-            "id_str": "174990532064448513",
-            "indices": [
-              "118",
-              "138"
-            ],
-            "media_url": "http://pbs.twimg.com/media/Am2w9jbCEAEiqx_.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Am2w9jbCEAEiqx_.jpg",
-            "sizes": {
-              "large": {
-                "h": "612",
-                "resize": "fit",
-                "w": "612"
-              },
-              "medium": {
-                "h": "612",
-                "resize": "fit",
-                "w": "612"
-              },
-              "small": {
-                "h": "612",
-                "resize": "fit",
-                "w": "612"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "174990532060254210",
-            "source_status_id_str": "174990532060254210",
-            "source_user_id": "8435702",
-            "source_user_id_str": "8435702",
-            "type": "photo",
-            "url": "http://t.co/XAJsYV4Q"
-          }
-        ],
         "symbols": [],
         "urls": [
           {
@@ -88,6 +46,15 @@
               "75"
             ],
             "url": "http://t.co/rTKJxGjC"
+          },
+          {
+            "display_url": "pic.twitter.com/XAJsYV4Q",
+            "expanded_url": "https://twitter.com/donkeyattack/status/174990532060254210/photo/1",
+            "indices": [
+              "118",
+              "138"
+            ],
+            "url": "http://t.co/XAJsYV4Q"
           }
         ],
         "user_mentions": [
@@ -98,52 +65,8 @@
               "76",
               "89"
             ],
-            "name": "Donkey Attack",
+            "name": "404 Attack",
             "screen_name": "donkeyattack"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/XAJsYV4Q",
-            "expanded_url": "https://twitter.com/donkeyattack/status/174990532060254210/photo/1",
-            "id": "174990532064448513",
-            "id_str": "174990532064448513",
-            "indices": [
-              "118",
-              "138"
-            ],
-            "media_url": "http://pbs.twimg.com/media/Am2w9jbCEAEiqx_.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Am2w9jbCEAEiqx_.jpg",
-            "sizes": {
-              "large": {
-                "h": "612",
-                "resize": "fit",
-                "w": "612"
-              },
-              "medium": {
-                "h": "612",
-                "resize": "fit",
-                "w": "612"
-              },
-              "small": {
-                "h": "612",
-                "resize": "fit",
-                "w": "612"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "174990532060254210",
-            "source_status_id_str": "174990532060254210",
-            "source_user_id": "8435702",
-            "source_user_id_str": "8435702",
-            "type": "photo",
-            "url": "http://t.co/XAJsYV4Q"
           }
         ]
       },
@@ -189,7 +112,7 @@
       }
     ],
     "wof:id": 1729308333,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589722,
     "wof:name": "Awesome! And thanks! Free T2 audio tour for next time: http://t.co/rTKJxGjC @donkeyattack: Digging the art at SFO T2. http://t.co/XAJsYV4Q",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -169,23 +169,23 @@
               "duration_millis": "32165",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1075505691148734464/pu/vid/1280x720/idpvxcp_k0o7VoOj.mp4?tag=6"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1075505691148734464/pu/pl/MTt20-2bnUHpXUva.m3u8?tag=6"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1075505691148734464/pu/vid/640x360/gvAmUjCS9FMyXUJk.mp4?tag=6"
                 },
                 {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1075505691148734464/pu/vid/1280x720/idpvxcp_k0o7VoOj.mp4?tag=6"
+                },
+                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1075505691148734464/pu/vid/320x180/hqDkO345eBV84Rik.mp4?tag=6"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1075505691148734464/pu/pl/MTt20-2bnUHpXUva.m3u8?tag=6"
                 }
               ]
             }
@@ -231,7 +231,7 @@
       }
     ],
     "wof:id": 1729304979,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "A unique form of #gospel music, #SacredSteel music features lap and pedal steel #guitars. Developed in the 1930s by members of the House of God, music serves as an integral part of their church services. #StoryofArhoolie #Arhoolie https://t.co/ZxjCgBFJob",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

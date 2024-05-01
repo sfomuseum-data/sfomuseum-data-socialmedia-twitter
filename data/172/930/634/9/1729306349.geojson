@@ -163,13 +163,9 @@
               "duration_millis": "38413",
               "variants": [
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1141133059531481088/pu/vid/1280x720/dn0khnKYZkuhGmzZ.mp4?tag=10"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1141133059531481088/pu/pl/t6ka9jLQEGJll29l.m3u8?tag=10"
+                  "url": "https://video.twimg.com/ext_tw_video/1141133059531481088/pu/vid/640x360/nEWLUDxFo3ug9Iam.mp4?tag=10"
                 },
                 {
                   "bitrate": "256000",
@@ -177,9 +173,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1141133059531481088/pu/vid/480x270/gYxGXEPs_Wy2ORqm.mp4?tag=10"
                 },
                 {
-                  "bitrate": "832000",
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1141133059531481088/pu/pl/t6ka9jLQEGJll29l.m3u8?tag=10"
+                },
+                {
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1141133059531481088/pu/vid/640x360/nEWLUDxFo3ug9Iam.mp4?tag=10"
+                  "url": "https://video.twimg.com/ext_tw_video/1141133059531481088/pu/vid/1280x720/dn0khnKYZkuhGmzZ.mp4?tag=10"
                 }
               ]
             }
@@ -225,7 +225,7 @@
       }
     ],
     "wof:id": 1729306349,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589713,
     "wof:name": "NOW PLAYING: \"I Have Something To Tell You\" by Ben Joyner \u0026amp; Dumaine Babcock. #AdrainChesser photographs loved ones at the moment he reveals his AIDS diagnosis, thus demonstrating the power of his artwork. https://t.co/GSVSj8DrdE #VideoArtsSFOM #pride https://t.co/uA2vJuPed6",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

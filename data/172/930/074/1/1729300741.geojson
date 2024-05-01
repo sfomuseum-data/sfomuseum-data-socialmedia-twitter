@@ -153,9 +153,9 @@
               "duration_millis": "75325",
               "variants": [
                 {
-                  "bitrate": "832000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/891999434111803392/vid/640x360/CDHQ_4WWVHC3d54n.mp4"
+                  "url": "https://video.twimg.com/amplify_video/891999434111803392/vid/1280x720/BMu0VS4VvvvyyuuM.mp4"
                 },
                 {
                   "bitrate": "320000",
@@ -163,13 +163,13 @@
                   "url": "https://video.twimg.com/amplify_video/891999434111803392/vid/320x180/JgBqwy0Pq5RAqtRc.mp4"
                 },
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/891999434111803392/vid/1280x720/BMu0VS4VvvvyyuuM.mp4"
-                },
-                {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/amplify_video/891999434111803392/pl/Sgyzg8e2HU1ITgI4.m3u8"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/891999434111803392/vid/640x360/CDHQ_4WWVHC3d54n.mp4"
                 }
               ]
             }
@@ -218,7 +218,7 @@
       }
     ],
     "wof:id": 1729300741,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589716,
     "wof:name": "RT @CNTraveler: How to pack, according to an expert: https://t.co/vEgxJsPr5H",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

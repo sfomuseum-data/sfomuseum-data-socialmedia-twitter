@@ -145,11 +145,6 @@
               "duration_millis": "78828",
               "variants": [
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/829673147066621952/pu/vid/640x360/Ig5TTD_6bpE8aFcq.mp4"
-                },
-                {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/829673147066621952/pu/pl/ViNWGh0quBv0NryR.m3u8"
                 },
@@ -157,6 +152,11 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/829673147066621952/pu/vid/1280x720/geoxRkOzqMChrXCg.mp4"
+                },
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/829673147066621952/pu/vid/640x360/Ig5TTD_6bpE8aFcq.mp4"
                 },
                 {
                   "bitrate": "256000",
@@ -210,7 +210,7 @@
       }
     ],
     "wof:id": 1729299331,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589717,
     "wof:name": "RT @airandspace: Today in 1969: 1st Boeing 747-100 \"Jumbo Jet\" made its 1st flight. Learn more about the 747. https://t.co/5SZJADz4fQ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

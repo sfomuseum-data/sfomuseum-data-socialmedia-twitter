@@ -150,18 +150,18 @@
                   "url": "https://video.twimg.com/ext_tw_video/1592252850809188352/pu/vid/640x360/T74213FmaCNYgtcs.mp4?tag=12"
                 },
                 {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1592252850809188352/pu/vid/480x270/D330JtEIieTdFM-_.mp4?tag=12"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1592252850809188352/pu/vid/1280x720/9yyO5jKjELjVGrIF.mp4?tag=12"
                 },
                 {
                   "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1592252850809188352/pu/pl/zyV_Lb3hu1is47So.m3u8?tag=12\u0026container=fmp4"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1592252850809188352/pu/vid/480x270/D330JtEIieTdFM-_.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1592252850809188352/pu/pl/zyV_Lb3hu1is47So.m3u8?tag=12\u0026container=cmaf"
                 }
               ]
             }
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1880138021,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589720,
     "wof:name": "Ma’s House was once the heart of a community. Ma’s grandson, photographer and Shinnecock filmmaker Jeremy Dennis (@jeremynative) is on a quest to restore the family home to its central role as a community gathering place for a new generation of diverse artists. \n#VideoArts https://t.co/IQ7vcYvpkg",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -163,13 +163,9 @@
               "duration_millis": "40123",
               "variants": [
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1106714957263986688/pu/vid/1280x720/1U1Gk9VRen7QbScD.mp4?tag=8"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1106714957263986688/pu/pl/8TogB5dswMQxSx1L.m3u8?tag=8"
+                  "url": "https://video.twimg.com/ext_tw_video/1106714957263986688/pu/vid/640x360/lhwzv5XypZWPzxId.mp4?tag=8"
                 },
                 {
                   "bitrate": "256000",
@@ -177,9 +173,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1106714957263986688/pu/vid/320x180/0Eiq838lYWW00XMO.mp4?tag=8"
                 },
                 {
-                  "bitrate": "832000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1106714957263986688/pu/vid/640x360/lhwzv5XypZWPzxId.mp4?tag=8"
+                  "url": "https://video.twimg.com/ext_tw_video/1106714957263986688/pu/vid/1280x720/1U1Gk9VRen7QbScD.mp4?tag=8"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1106714957263986688/pu/pl/8TogB5dswMQxSx1L.m3u8?tag=8"
                 }
               ]
             }
@@ -225,7 +225,7 @@
       }
     ],
     "wof:id": 1729305651,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"A Garbage Story\" by #OlivierBernier. Bernier profiles professional trash collector #NickDiMola who, in the process of clearing material from the homes of the deceased, retains those items he finds meaningful. https://t.co/UPzs6ZfTqe #VideoArtsSFOM https://t.co/zfiZm7JVwt",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

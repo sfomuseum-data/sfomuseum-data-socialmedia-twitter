@@ -147,6 +147,11 @@
               "duration_millis": "42867",
               "variants": [
                 {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/930222891370606592/pu/vid/320x180/wT0abUsxV8GS_tgo.mp4"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/930222891370606592/pu/vid/1280x720/EpbzDZ4jfdLzClZ7.mp4"
@@ -159,11 +164,6 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/930222891370606592/pu/pl/By8sOMLJderDgSde.m3u8"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/930222891370606592/pu/vid/320x180/wT0abUsxV8GS_tgo.mp4"
                 }
               ]
             }
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1729301707,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589716,
     "wof:name": "NOW PLAYING: \"Church of 8 Wheels\" by Freddie Whitman and Michaela Swensen. See this charming documentary in the Video Arts Gallery, pre-security, in the International Terminal. https://t.co/CrOVF8JOda #rollerskating https://t.co/ApgRLGhaAJ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -147,8 +147,9 @@
               "duration_millis": "37704",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1064646288153632769/pu/pl/uJrIBfS3dcNspHtG.m3u8?tag=5"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1064646288153632769/pu/vid/640x360/IEKS9JxfmOu4awtq.mp4?tag=5"
                 },
                 {
                   "bitrate": "256000",
@@ -156,9 +157,8 @@
                   "url": "https://video.twimg.com/ext_tw_video/1064646288153632769/pu/vid/320x180/zZxYp6cUzotylb1U.mp4?tag=5"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1064646288153632769/pu/vid/640x360/IEKS9JxfmOu4awtq.mp4?tag=5"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1064646288153632769/pu/pl/uJrIBfS3dcNspHtG.m3u8?tag=5"
                 },
                 {
                   "bitrate": "2176000",
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1729304725,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"Under the Viaduct\" by Norm Li. Filmmaker Li takes viewers on a brief journey along the margins of modern society. While Li presents no human subjects, his film is clearly concerned with humanity and how we live together. https://t.co/0mcoPuNKCd #VideoArtsSFOM https://t.co/JCE759NqWN",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

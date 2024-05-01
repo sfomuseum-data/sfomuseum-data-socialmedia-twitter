@@ -147,9 +147,9 @@
               "duration_millis": "45000",
               "variants": [
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1037401744265732097/pu/vid/1280x720/T1ATBeDb4_3KRI-_.mp4?tag=5"
+                  "url": "https://video.twimg.com/ext_tw_video/1037401744265732097/pu/vid/320x180/ySlY1-kKD9JZl0r0.mp4?tag=5"
                 },
                 {
                   "bitrate": "832000",
@@ -157,13 +157,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1037401744265732097/pu/vid/640x360/lSifdOfFFrOYiSNW.mp4?tag=5"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1037401744265732097/pu/pl/7j5Iv83BpGXwF-UQ.m3u8?tag=5"
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1037401744265732097/pu/vid/1280x720/T1ATBeDb4_3KRI-_.mp4?tag=5"
                 },
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1037401744265732097/pu/vid/320x180/ySlY1-kKD9JZl0r0.mp4?tag=5"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1037401744265732097/pu/pl/7j5Iv83BpGXwF-UQ.m3u8?tag=5"
                 }
               ]
             }
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1729304141,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"The Afghan Bruce Lee\" by Jayga Rayn. Kabul native Abbas Alizada hopes to inspire his fellow Afghans to realize their dreams and help transform the prevailing image of Afghanistan. https://t.co/lPfMAEW7wo #VideoArtsSFOM https://t.co/hGnbCKOGI7",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

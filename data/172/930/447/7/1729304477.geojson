@@ -147,11 +147,6 @@
               "duration_millis": "35619",
               "variants": [
                 {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1052600780329385985/pu/vid/320x180/exnrAj9daXFnIeVJ.mp4?tag=5"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1052600780329385985/pu/vid/1280x720/_99bbBFFfpcQ1lyK.mp4?tag=5"
@@ -159,6 +154,11 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/1052600780329385985/pu/pl/0_4Pox2w_HqfjIZa.m3u8?tag=5"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1052600780329385985/pu/vid/320x180/exnrAj9daXFnIeVJ.mp4?tag=5"
                 },
                 {
                   "bitrate": "832000",
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1729304477,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"Lattice\" by Maria Ferreira. Interdisciplinary artist Maria Ferreira employs microscopy to reveal the geometric gardens, iridescent waves, and spiraling sand dunes of crystal structures invisible to the unaided eye. https://t.co/bJEDuYQ0Pi #VideoArtsSFOM https://t.co/6evYOJsUvL",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

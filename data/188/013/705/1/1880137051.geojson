@@ -153,9 +153,13 @@
               "duration_millis": "56806",
               "variants": [
                 {
-                  "bitrate": "832000",
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1633911869722468361/pu/pl/3flGq0iDK1KTUTXd.m3u8?tag=12\u0026container=cmaf"
+                },
+                {
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1633911869722468361/pu/vid/640x360/w-MR6QcYeQDYhSZs.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1633911869722468361/pu/vid/1280x720/AWGwJJZwC0v5ega8.mp4?tag=12"
                 },
                 {
                   "bitrate": "256000",
@@ -163,20 +167,16 @@
                   "url": "https://video.twimg.com/ext_tw_video/1633911869722468361/pu/vid/480x270/esP169fWHdGkkDoK.mp4?tag=12"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1633911869722468361/pu/pl/3flGq0iDK1KTUTXd.m3u8?tag=12\u0026container=fmp4"
-                },
-                {
-                  "bitrate": "2176000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1633911869722468361/pu/vid/1280x720/AWGwJJZwC0v5ega8.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1633911869722468361/pu/vid/640x360/w-MR6QcYeQDYhSZs.mp4?tag=12"
                 }
               ]
             }
           }
         ]
       },
-      "favorite_count": "5",
+      "favorite_count": "4",
       "favorited": false,
       "full_text": "Los Angeles-based filmmaker Shiouwen Hong (@shiouwenhong ) follows Caliefah, a single mother of three, who after discovering that personal products like soap are not available through the food stamp program, starts a soap business in her community. \n#VideoArts #VideoArtsSFO https://t.co/hEEZShMp52",
       "id": "1633912401069481984",
@@ -217,7 +217,7 @@
       }
     ],
     "wof:id": 1880137051,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589717,
     "wof:name": "Los Angeles-based filmmaker Shiouwen Hong (@shiouwenhong ) follows Caliefah, a single mother of three, who after discovering that personal products like soap are not available through the food stamp program, starts a soap business in her community. \n#VideoArts #VideoArtsSFO https://t.co/hEEZShMp52",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

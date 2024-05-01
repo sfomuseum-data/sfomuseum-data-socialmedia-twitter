@@ -153,6 +153,11 @@
               "duration_millis": "165707",
               "variants": [
                 {
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/878409877504143360/vid/320x180/U2m5j-wKozEgb5M8.mp4"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/878409877504143360/vid/640x360/Zdbkf_2DuNDlm9vP.mp4"
@@ -165,11 +170,6 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/878409877504143360/vid/1280x720/nMLP58_CW4Zs_qgv.mp4"
-                },
-                {
-                  "bitrate": "320000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/878409877504143360/vid/320x180/U2m5j-wKozEgb5M8.mp4"
                 }
               ]
             }
@@ -218,7 +218,7 @@
       }
     ],
     "wof:id": 1729300489,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589717,
     "wof:name": "RT @WIRED: Missed the stomach-churning flights of the infamous Paris Air Show? We've got the highlights: https://t.co/5VgDRgEnOo",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

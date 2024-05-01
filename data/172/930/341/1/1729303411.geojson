@@ -179,15 +179,6 @@
               "duration_millis": "45000",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1006614310812975104/pu/vid/1280x720/I7jrKNy6iLh67eLo.mp4?tag=3"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1006614310812975104/pu/pl/PwejCnXy9glWCE2l.m3u8?tag=3"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1006614310812975104/pu/vid/320x180/QCuh7uVu7frWWBuY.mp4?tag=3"
@@ -196,6 +187,15 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1006614310812975104/pu/vid/640x360/-RLrP_oSuL123GRq.mp4?tag=3"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1006614310812975104/pu/pl/PwejCnXy9glWCE2l.m3u8?tag=3"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1006614310812975104/pu/vid/1280x720/I7jrKNy6iLh67eLo.mp4?tag=3"
                 }
               ]
             }
@@ -241,7 +241,7 @@
       }
     ],
     "wof:id": 1729303411,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589714,
     "wof:name": "NOW PLAYING: \"Love Is\" by Katie G. Nelson \u0026amp; Joshua Carlon. In #Uganda, where citizens face discrimination \u0026amp; violence, because of who they love, this film present the voices of #gay \u0026amp; #transgender #Ugandans expressing what love means to them. https://t.co/slZtu72IYb #VideoArtsSFOM https://t.co/EeqFZnjVES",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

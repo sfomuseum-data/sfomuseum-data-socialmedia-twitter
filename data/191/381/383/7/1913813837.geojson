@@ -1,0 +1,197 @@
+{
+  "id": 1913813837,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-10-06",
+    "date:cessation_upper": "2023-10-06",
+    "date:inception_lower": "2023-10-06",
+    "date:inception_upper": "2023-10-06",
+    "edtf:cessation": "2023-10-06T15:32:47-07:00",
+    "edtf:inception": "2023-10-06T15:32:47-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:tweet": {
+      "created": 1696631567,
+      "created_at": "Fri Oct 06 22:32:47 +0000 2023",
+      "display_text_range": [
+        "0",
+        "303"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1710422882176958947"
+          ],
+          "editableUntil": "2023-10-06T23:32:47.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "157",
+              "171"
+            ],
+            "text": "CzechAirlines"
+          },
+          {
+            "indices": [
+              "272",
+              "279"
+            ],
+            "text": "AvGeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/amC4hV0rW2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1710422882176958947/photo/1",
+            "id": "1710421651253518336",
+            "id_str": "1710421651253518336",
+            "indices": [
+              "280",
+              "303"
+            ],
+            "media_url": "http://pbs.twimg.com/media/F7yjbfsaYAAj3mi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/F7yjbfsaYAAj3mi.jpg",
+            "sizes": {
+              "large": {
+                "h": "1434",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "860",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "488",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/amC4hV0rW2"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "27067896",
+            "id_str": "27067896",
+            "indices": [
+              "247",
+              "252"
+            ],
+            "name": "IATA",
+            "screen_name": "IATA"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/amC4hV0rW2",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1710422882176958947/photo/1",
+            "id": "1710421651253518336",
+            "id_str": "1710421651253518336",
+            "indices": [
+              "280",
+              "303"
+            ],
+            "media_url": "http://pbs.twimg.com/media/F7yjbfsaYAAj3mi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/F7yjbfsaYAAj3mi.jpg",
+            "sizes": {
+              "large": {
+                "h": "1434",
+                "resize": "fit",
+                "w": "2000"
+              },
+              "medium": {
+                "h": "860",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "488",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/amC4hV0rW2"
+          }
+        ]
+      },
+      "favorite_count": "7",
+      "favorited": false,
+      "full_text": "Established 100 years ago in 1923, Czech Airlines is the fifth oldest airlines in the world. The airline commenced operations in October 1923. In the 1970s, #CzechAirlines’ livery featured the letters OK on its tail as is the airline's two letter @IATA designation is OK. #AvGeek https://t.co/amC4hV0rW2",
+      "id": "1710422882176958947",
+      "id_str": "1710422882176958947",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1714589698,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1913813837,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1913813837,
+    "wof:lastmodified": 1714589698,
+    "wof:name": "Established 100 years ago in 1923, Czech Airlines is the fifth oldest airlines in the world. The airline commenced operations in October 1923. In the 1970s, #CzechAirlines’ livery featured the letters OK on its tail as is the airline's two letter @IATA designation is OK. #AvGeek https://t.co/amC4hV0rW2",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

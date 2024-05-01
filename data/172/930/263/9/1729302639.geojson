@@ -145,6 +145,10 @@
               "duration_millis": "45000",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/971835836177162240/pu/pl/OSwRY_KxqjyuQ33d.m3u8"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/971835836177162240/pu/vid/1280x720/oWByIE8Jzu5TnuS9.mp4"
@@ -153,10 +157,6 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/971835836177162240/pu/vid/640x360/kvOZWakYkcJtXjRD.mp4"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/971835836177162240/pu/pl/OSwRY_KxqjyuQ33d.m3u8"
                 },
                 {
                   "bitrate": "256000",
@@ -207,7 +207,7 @@
       }
     ],
     "wof:id": 1729302639,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589714,
     "wof:name": "What's happening right now in Terminal 3? We are right in the middle of  an exhibition change over. Take a look at this video of our  deinstallation in progress. #behindthescenes #sneakpeak https://t.co/cS64Q94lOq",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

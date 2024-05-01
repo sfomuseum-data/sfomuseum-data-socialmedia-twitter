@@ -147,9 +147,13 @@
               "duration_millis": "24608",
               "variants": [
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "256000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1219683519384829952/pu/vid/1280x720/WXT4HYB2WXu2KFln.mp4?tag=10"
+                  "url": "https://video.twimg.com/ext_tw_video/1219683519384829952/pu/vid/480x270/ZGczz13aw2cEdUcc.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1219683519384829952/pu/pl/DbZ0M9gqi0pDUeds.m3u8?tag=10"
                 },
                 {
                   "bitrate": "832000",
@@ -157,13 +161,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1219683519384829952/pu/vid/640x360/2bAyRU-5HpaaOS9p.mp4?tag=10"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1219683519384829952/pu/pl/DbZ0M9gqi0pDUeds.m3u8?tag=10"
-                },
-                {
-                  "bitrate": "256000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1219683519384829952/pu/vid/480x270/ZGczz13aw2cEdUcc.mp4?tag=10"
+                  "url": "https://video.twimg.com/ext_tw_video/1219683519384829952/pu/vid/1280x720/WXT4HYB2WXu2KFln.mp4?tag=10"
                 }
               ]
             }
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1729307821,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589707,
     "wof:name": "NOW PLAYING: \"Floreana\" by Louis Morton. Inspired by an exhibit that allows visitors to experience the world through the eyes of animals, Floreana follows climate change survivors who turn to animals to return the planet to livable shape. https://t.co/o7XOekb8N7 #VideoArtsSFOM https://t.co/BP9sHl3uCQ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

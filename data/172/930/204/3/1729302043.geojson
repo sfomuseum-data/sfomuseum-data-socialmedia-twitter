@@ -147,14 +147,8 @@
               "duration_millis": "45000",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/948342573029969920/pu/vid/1280x720/2_z-3a8s_rQeTytS.mp4"
-                },
-                {
-                  "bitrate": "256000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/948342573029969920/pu/vid/320x180/0oJrsJpQQ6Q3jAw1.mp4"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/948342573029969920/pu/pl/9mwkHLX5t6SZLaCx.m3u8"
                 },
                 {
                   "bitrate": "832000",
@@ -162,8 +156,14 @@
                   "url": "https://video.twimg.com/ext_tw_video/948342573029969920/pu/vid/640x360/B72Z1pXDznnKoy5v.mp4"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/948342573029969920/pu/pl/9mwkHLX5t6SZLaCx.m3u8"
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/948342573029969920/pu/vid/320x180/0oJrsJpQQ6Q3jAw1.mp4"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/948342573029969920/pu/vid/1280x720/2_z-3a8s_rQeTytS.mp4"
                 }
               ]
             }
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1729302043,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589716,
     "wof:name": "NOW PLAYING: \"MTL rush\" by #MathieuGuimond. This experimental essay on color and motion creates a vibrant choreography of textures and movements. https://t.co/duxyJCC6dY https://t.co/dS9m2Oudg3",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

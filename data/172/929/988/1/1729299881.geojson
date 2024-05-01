@@ -153,13 +153,9 @@
               "duration_millis": "87921",
               "variants": [
                 {
-                  "bitrate": "320000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/849245217190428676/vid/320x180/fTtr0VN2lbkQCufT.mp4"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/amplify_video/849245217190428676/pl/BfUgEd3NMRcgXNA-.m3u8"
+                  "url": "https://video.twimg.com/amplify_video/849245217190428676/vid/640x360/ElETbk0Tm96J3NUS.mp4"
                 },
                 {
                   "bitrate": "2176000",
@@ -167,9 +163,13 @@
                   "url": "https://video.twimg.com/amplify_video/849245217190428676/vid/1280x720/MtvUiuxpyiF3sVFe.mp4"
                 },
                 {
-                  "bitrate": "832000",
+                  "bitrate": "320000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/849245217190428676/vid/640x360/ElETbk0Tm96J3NUS.mp4"
+                  "url": "https://video.twimg.com/amplify_video/849245217190428676/vid/320x180/fTtr0VN2lbkQCufT.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/849245217190428676/pl/BfUgEd3NMRcgXNA-.m3u8"
                 }
               ]
             }
@@ -218,7 +218,7 @@
       }
     ],
     "wof:id": 1729299881,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589717,
     "wof:name": "RT @WIRED: This is just the beginning of testing hell for the new Boeing 787-10 Dreamliner https://t.co/M9uaqVNOk8",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

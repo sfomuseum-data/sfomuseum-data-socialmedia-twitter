@@ -156,6 +156,11 @@
               "duration_millis": "45015",
               "variants": [
                 {
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/748214914175492096/pu/vid/320x180/0bkHo0bQ5bjjay8a.mp4"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/748214914175492096/pu/vid/640x360/ywsFoceZ5fvEXFAS.mp4"
@@ -168,11 +173,6 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/ext_tw_video/748214914175492096/pu/pl/cXGC_nlU6n8DK-iH.m3u8"
-                },
-                {
-                  "bitrate": "320000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/748214914175492096/pu/vid/320x180/0bkHo0bQ5bjjay8a.mp4"
                 }
               ]
             }
@@ -221,7 +221,7 @@
       }
     ],
     "wof:id": 1729296755,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589718,
     "wof:name": "RT @flySFO: #SFO Terminal 1 groundbreaking ceremony! https://t.co/rkczFLYDaw",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

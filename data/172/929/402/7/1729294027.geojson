@@ -137,14 +137,8 @@
               "duration_millis": "5733",
               "variants": [
                 {
-                  "bitrate": "2176000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/643593978399449088/pu/vid/1280x720/alZOBPrtx30xzAXX.mp4"
-                },
-                {
-                  "bitrate": "320000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/643593978399449088/pu/vid/320x180/oo6jm6AoFfcHLeSO.mp4"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/643593978399449088/pu/pl/WGqzo4YdcxF4D6Rj.m3u8"
                 },
                 {
                   "bitrate": "832000",
@@ -152,8 +146,14 @@
                   "url": "https://video.twimg.com/ext_tw_video/643593978399449088/pu/vid/640x360/tr6TJ76doY-YuJta.mp4"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/643593978399449088/pu/pl/WGqzo4YdcxF4D6Rj.m3u8"
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/643593978399449088/pu/vid/320x180/oo6jm6AoFfcHLeSO.mp4"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/643593978399449088/pu/vid/1280x720/alZOBPrtx30xzAXX.mp4"
                 }
               ]
             }
@@ -199,7 +199,7 @@
       }
     ],
     "wof:id": 1729294027,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589718,
     "wof:name": "Cases must be opened and closed carefully the with low ceiling in our Terminal 3 space. #behindthescenes http://t.co/PTQP783Jsp",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -38,27 +38,9 @@
         }
       },
       "entities": {
-        "hashtags": [
-          {
-            "indices": [
-              "122",
-              "134"
-            ],
-            "text": "AskACurator"
-          }
-        ],
+        "hashtags": [],
         "symbols": [],
-        "urls": [
-          {
-            "display_url": "ow.ly/SiLgx",
-            "expanded_url": "http://ow.ly/SiLgx",
-            "indices": [
-              "99",
-              "121"
-            ],
-            "url": "http://t.co/NciwJBBj60"
-          }
-        ],
+        "urls": [],
         "user_mentions": [
           {
             "id": "14848513",
@@ -69,16 +51,6 @@
             ],
             "name": "National Air and Space Museum",
             "screen_name": "airandspace"
-          },
-          {
-            "id": "29154355",
-            "id_str": "29154355",
-            "indices": [
-              "18",
-              "28"
-            ],
-            "name": "Gedsudski 🏴‍☠️",
-            "screen_name": "Gedsudski"
           }
         ]
       },
@@ -88,7 +60,6 @@
       "id": "644219702915502080",
       "id_str": "644219702915502080",
       "lang": "en",
-      "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
@@ -125,7 +96,7 @@
       }
     ],
     "wof:id": 1729294071,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589718,
     "wof:name": "RT @airandspace: .@Gedsudski Tom Crouch, Senior Curator in Aeronautics rec's the 1903 Wright Flyer http://t.co/NciwJBBj60 #AskACurator http…",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

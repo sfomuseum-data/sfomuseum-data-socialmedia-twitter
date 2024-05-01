@@ -176,8 +176,9 @@
               "duration_millis": "46379",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1562883626060066816/pu/pl/_QvsbFX7tWt0s128.m3u8?tag=12\u0026container=fmp4\u0026v=9e3"
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1562883626060066816/pu/vid/640x360/9DyOVxKt5dYdtIV-.mp4?tag=12"
                 },
                 {
                   "bitrate": "256000",
@@ -185,9 +186,8 @@
                   "url": "https://video.twimg.com/ext_tw_video/1562883626060066816/pu/vid/480x270/GkyE9BPX4m5uKpFk.mp4?tag=12"
                 },
                 {
-                  "bitrate": "832000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1562883626060066816/pu/vid/640x360/9DyOVxKt5dYdtIV-.mp4?tag=12"
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1562883626060066816/pu/pl/_QvsbFX7tWt0s128.m3u8?tag=12\u0026container=cmaf\u0026v=9e3"
                 },
                 {
                   "bitrate": "2176000",
@@ -237,7 +237,7 @@
       }
     ],
     "wof:id": 1796525867,
-    "wof:lastmodified": 1692895853,
+    "wof:lastmodified": 1714589724,
     "wof:name": "In Andrés Gallegos’ graduate thesis film at San Francisco State University, a savvy eleven-year-old shoe shiner in Talca, Chile proves his resourcefulness during turbulent times. https://t.co/s0oA7fUN7a\n#shoeshiner #andrésgallegos #sfsu #VideoArts #VideoArtsSFO https://t.co/koJMWnRBGT",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

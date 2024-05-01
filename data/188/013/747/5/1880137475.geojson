@@ -153,9 +153,13 @@
               "duration_millis": "54054",
               "variants": [
                 {
-                  "bitrate": "2176000",
+                  "bitrate": "832000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1616146669019746304/pu/vid/1280x720/EhlqIyKfU2C9Cks1.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1616146669019746304/pu/vid/640x360/01rp3AmXpyPc9sZc.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1616146669019746304/pu/pl/wl3lSGooBGhZ5Bzw.m3u8?tag=12\u0026container=cmaf"
                 },
                 {
                   "bitrate": "256000",
@@ -163,13 +167,9 @@
                   "url": "https://video.twimg.com/ext_tw_video/1616146669019746304/pu/vid/480x270/ZSAVw_eGIxPwhhmB.mp4?tag=12"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1616146669019746304/pu/pl/wl3lSGooBGhZ5Bzw.m3u8?tag=12\u0026container=fmp4"
-                },
-                {
-                  "bitrate": "832000",
+                  "bitrate": "2176000",
                   "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1616146669019746304/pu/vid/640x360/01rp3AmXpyPc9sZc.mp4?tag=12"
+                  "url": "https://video.twimg.com/ext_tw_video/1616146669019746304/pu/vid/1280x720/EhlqIyKfU2C9Cks1.mp4?tag=12"
                 }
               ]
             }
@@ -217,7 +217,7 @@
       }
     ],
     "wof:id": 1880137475,
-    "wof:lastmodified": 1692895851,
+    "wof:lastmodified": 1714589718,
     "wof:name": "Toronto-based filmmaker Chrisann Hessing (@chrisann20) profiles Joshua DePerry, aka DJ Classic Roots, who merges the sounds and dance of his \n#Anishinaabe culture with techno music as he inspires indigenous youths to look to the future without forgetting their past. #NativeFilm https://t.co/BmouXaAOiI",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

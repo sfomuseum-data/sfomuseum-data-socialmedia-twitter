@@ -88,7 +88,7 @@
               "3",
               "19"
             ],
-            "name": "Insider Business",
+            "name": "Business Insider",
             "screen_name": "BusinessInsider"
           },
           {
@@ -163,11 +163,6 @@
               "duration_millis": "98682",
               "variants": [
                 {
-                  "bitrate": "320000",
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/amplify_video/922529041915301888/vid/240x240/sUQTOB7LDmFcclHe.mp4"
-                },
-                {
                   "bitrate": "1280000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/amplify_video/922529041915301888/vid/720x720/CEaTYw6k2rXmaFAd.mp4"
@@ -180,6 +175,11 @@
                 {
                   "content_type": "application/x-mpegURL",
                   "url": "https://video.twimg.com/amplify_video/922529041915301888/pl/drs6iXCQSI9dd1oa.m3u8"
+                },
+                {
+                  "bitrate": "320000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/922529041915301888/vid/240x240/sUQTOB7LDmFcclHe.mp4"
                 }
               ]
             }
@@ -229,7 +229,7 @@
       }
     ],
     "wof:id": 1729304319,
-    "wof:lastmodified": 1692895852,
+    "wof:lastmodified": 1714589714,
     "wof:name": "RT @businessinsider: Watch the @Airbus A330 get assembled piece-by-piece https://t.co/8unqbm0h3l",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
