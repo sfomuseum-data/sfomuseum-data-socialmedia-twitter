@@ -152,6 +152,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1880137499,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -160,14 +161,18 @@
         "custom_id": 1880137499,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1880137499
       }
     ],
     "wof:id": 1880137499,
-    "wof:lastmodified": 1714589718,
+    "wof:lastmodified": 1716596324,
     "wof:name": "San Franciscan Lincoln Beachey (1887–1915) performs in his biplane over the Panama-Pacific Intl Expo grounds in 1913. He was the first to perform a loop-the-loop in the U.S. and his repertoire of heart-stopping stunts made him the leading pioneer of aerial acrobatics #52Objects https://t.co/jYrWmsqMS9",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -241,6 +241,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729304987,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -249,14 +250,18 @@
         "custom_id": 1729304987,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729304987
       }
     ],
     "wof:id": 1729304987,
-    "wof:lastmodified": 1714589714,
+    "wof:lastmodified": 1716596325,
     "wof:name": "NOW PLAYING: \"#Rebooted\" by Sagar Arun and Rachel Kral. Clichés abound when a retro #comicbook #superhero meets his darker and more modern counterpart in this #animated short. #illustration #VideoArtsSFOM @RinglingCollege https://t.co/E7CNlop6zY",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

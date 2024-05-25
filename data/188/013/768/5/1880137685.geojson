@@ -167,6 +167,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1880137685,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -175,14 +176,18 @@
         "custom_id": 1880137685,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1880137685
       }
     ],
     "wof:id": 1880137685,
-    "wof:lastmodified": 1714589720,
+    "wof:lastmodified": 1716596324,
     "wof:name": "Special thank you to Silicon Valley Cyber Lions Club for making this exhibition possible. “We Are All Connected” posters from the Lions Clubs International Peace Poster Contest, is on display pre-security, on the departures level of HMT1. https://t.co/2jfWrH4fki\n#StudentArtSFO https://t.co/yEFWPm1sg3",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

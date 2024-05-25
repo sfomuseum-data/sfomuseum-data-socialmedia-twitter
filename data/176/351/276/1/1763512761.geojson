@@ -193,6 +193,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763512761,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -201,14 +202,18 @@
         "custom_id": 1763512761,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763512761
       }
     ],
     "wof:id": 1763512761,
-    "wof:lastmodified": 1714589695,
+    "wof:lastmodified": 1716596324,
     "wof:name": "The DC-9 \u0026amp; its many variants were highly successful for airlines worldwide. The aircraft was produced for 41 yrs, first by Douglas, then McDonnell Douglas, \u0026amp; finally Boeing in numerous variants, with final deliveries of its last derivative, the Boeing 717, in 2006. #WingWednesday https://t.co/fy1KGfkfHE",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

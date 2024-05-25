@@ -87,6 +87,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796526197,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -95,14 +96,18 @@
         "custom_id": 1796526197,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796526197
       }
     ],
     "wof:id": 1796526197,
-    "wof:lastmodified": 1714589724,
+    "wof:lastmodified": 1716596323,
     "wof:name": "📸 1/2:\nflight attendant apron: American Trans Air (ATA); late 1990s\nGift of Art Huggard\n2019.066.044\n\nhttps://t.co/lIAhr0UW3r\n\nstewardess apron: Pan American World Airways; 1940s\nGift of World Wings International, Inc., New Jersey Chapter\n2014.132.155\n\nhttps://t.co/DQsuQxtIhD",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

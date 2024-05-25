@@ -173,6 +173,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763586285,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -181,14 +182,18 @@
         "custom_id": 1763586285,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763586285
       }
     ],
     "wof:id": 1763586285,
-    "wof:lastmodified": 1714589691,
+    "wof:lastmodified": 1716596324,
     "wof:name": "The knee-length, shaped skirt has kangaroo pockets, and the turned down collar of the Terylene twill blouse adds to the outfit’s liberating comfort. After finishing the Air France collection, Balenciaga closed his fashion house.  #AvGeek   #Balenciaga #AirFrance https://t.co/dhUUXHwh8S",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

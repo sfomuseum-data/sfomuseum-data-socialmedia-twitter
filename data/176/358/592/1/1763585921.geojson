@@ -193,6 +193,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763585921,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -201,14 +202,18 @@
         "custom_id": 1763585921,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763585921
       }
     ],
     "wof:id": 1763585921,
-    "wof:lastmodified": 1714589693,
+    "wof:lastmodified": 1716596324,
     "wof:name": "Also featured are a profile of a bronc rider in northwest Montana maintaining a connection to the “old ways” to the visual splendor of diverse Native American cultures at the annual Gathering of Nations Powwow in New Mexico. #videoartsSFO https://t.co/OWJyxe0Kur",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

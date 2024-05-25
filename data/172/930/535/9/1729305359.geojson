@@ -164,6 +164,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729305359,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -172,14 +173,18 @@
         "custom_id": 1729305359,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729305359
       }
     ],
     "wof:id": 1729305359,
-    "wof:lastmodified": 1714589714,
+    "wof:lastmodified": 1716596325,
     "wof:name": "Don't have a cat to keep you up at night? This late 18th-early 19th century cat night light with its wide eyes can help! #Caticons #caturday https://t.co/WUXKLlywyL",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

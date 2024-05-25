@@ -156,6 +156,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729307823,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -164,14 +165,18 @@
         "custom_id": 1729307823,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729307823
       }
     ],
     "wof:id": 1729307823,
-    "wof:lastmodified": 1714589707,
+    "wof:lastmodified": 1716596325,
     "wof:name": "#Onthisday in 1970, the world's first ever scheduled Boeing 747 was flown by Pan American World Airways. Named \"Clipper Young America,\" it departed New York's JFK at 1:52AM and reached London's Heathrow Airport in 6 hrs \u0026amp; 43 min. What are your fondest memories of the Boeing 747? https://t.co/hSKc0MMlDj",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -294,6 +294,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729303815,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -302,14 +303,18 @@
         "custom_id": 1729303815,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729303815
       }
     ],
     "wof:id": 1729303815,
-    "wof:lastmodified": 1714589714,
+    "wof:lastmodified": 1716596324,
     "wof:name": "Large construction projects at @flySFO are often funded through the selling of #bonds. Paper bonds were issued from the 1930s-70s, and a few such as these have made their way into our collection. #SFOHistory #TBT https://t.co/4a7ps2tQPz",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -160,6 +160,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763512435,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -168,14 +169,18 @@
         "custom_id": 1763512435,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763512435
       }
     ],
     "wof:id": 1763512435,
-    "wof:lastmodified": 1714589697,
+    "wof:lastmodified": 1716596324,
     "wof:name": "Presenting candid snapshots of four of San Francisco's most beloved and iconic neighborhoods, Emily Fromm's \"Four Corners\" installation, a new work of #PublicArt, captures the diverse urban beauty of the city in single-moment vignettes. #SanFrancisco https://t.co/lwnbpioT2q",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

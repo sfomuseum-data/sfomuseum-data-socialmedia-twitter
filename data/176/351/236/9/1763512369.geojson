@@ -146,6 +146,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763512369,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -154,14 +155,18 @@
         "custom_id": 1763512369,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763512369
       }
     ],
     "wof:id": 1763512369,
-    "wof:lastmodified": 1714589697,
+    "wof:lastmodified": 1716596324,
     "wof:name": "During a 1962 interview with Steven Sholes, RCA Records' A\u0026amp;R Director, Sholes received a call from a record distributor excited by the Beach Boys’ \"Surfin’ USA.\" According to The Astronauts, Sholes “covered the phone and asked if we played surf music, and naturally we said yes!” https://t.co/7T240B85UM",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

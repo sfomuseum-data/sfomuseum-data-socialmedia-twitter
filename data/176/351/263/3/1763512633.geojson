@@ -152,6 +152,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763512633,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -160,14 +161,18 @@
         "custom_id": 1763512633,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763512633
       }
     ],
     "wof:id": 1763512633,
-    "wof:lastmodified": 1714589695,
+    "wof:lastmodified": 1716596324,
     "wof:name": "What's happening at the museum? Our registrars are hard at work noting the condition of objects that we've borrowed for our upcoming exhibition on #mathematics. Did you know that Rubik's cubes came in so many different shapes or with so many cubies? Stay tuned for more details! https://t.co/7abdiICiD0",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

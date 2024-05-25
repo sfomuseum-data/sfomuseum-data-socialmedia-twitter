@@ -67,6 +67,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763586875,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -75,14 +76,18 @@
         "custom_id": 1763586875,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763586875
       }
     ],
     "wof:id": 1763586875,
-    "wof:lastmodified": 1714589728,
+    "wof:lastmodified": 1716596323,
     "wof:name": "📸 2/3:\nphotograph: Boeing Air Transport (BAT), Ford Tri-Motor; c. 1934\nGift of the Family of Raymond B. Klinke, Sr.\n2019.080.054\n\nphotograph: Varney Air Lines, Leon D. Cuddleback; c. 1926\nGift of United Airlines Archives\n1999.047.184",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

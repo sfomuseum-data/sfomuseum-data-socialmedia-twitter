@@ -192,6 +192,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729306741,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -200,14 +201,18 @@
         "custom_id": 1729306741,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729306741
       }
     ],
     "wof:id": 1729306741,
-    "wof:lastmodified": 1714589713,
+    "wof:lastmodified": 1716596325,
     "wof:name": "This pedestal appears lavish because of its polychromatic-painted elements with gilded accents on an ebonized ground. The pedestal’s strong vertical lines draw the viewer’s eye upwards towards the art object the pedestal was intended to display.  #VictorianPedestals https://t.co/I8Fq8jSZ0z",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

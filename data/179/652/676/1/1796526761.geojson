@@ -178,6 +178,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796526761,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -186,14 +187,18 @@
         "custom_id": 1796526761,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796526761
       }
     ],
     "wof:id": 1796526761,
-    "wof:lastmodified": 1714589728,
+    "wof:lastmodified": 1716596324,
     "wof:name": "Jason G. Yuen worked at SFO for 24 years from 1968 to 1992 as the director of Planning and Construction and after he retired, the chairman of the Master Plan Advisory Board. Read more about him: https://t.co/pK5nKgLkYZ #aapi #aapihm #aapiheritagemonth https://t.co/MYmylJrEf0",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

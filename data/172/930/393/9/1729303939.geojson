@@ -172,6 +172,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729303939,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -180,14 +181,18 @@
         "custom_id": 1729303939,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729303939
       }
     ],
     "wof:id": 1729303939,
-    "wof:lastmodified": 1714589714,
+    "wof:lastmodified": 1716596324,
     "wof:name": "Did you know the #rainbowflag was created right here in San Francisco in 1978? Our exhibition on #GilbertBaker, the flag's creator, features a flag made by Baker for the ABC television miniseries When We Rise in 2016. #ALegacyOfPride https://t.co/IuxipXWHOI",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -152,6 +152,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796526115,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -160,14 +161,18 @@
         "custom_id": 1796526115,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796526115
       }
     ],
     "wof:id": 1796526115,
-    "wof:lastmodified": 1714589724,
+    "wof:lastmodified": 1716596323,
     "wof:name": "Inspired to learn to fly by her sister Katherine, Marjorie Stinson trained at the Wright School in 1914 at the age of 18 \u0026amp; became the 9th woman in the U.S. to earn a pilot’s license. In 1915, she was the only woman flying in the U.S. Aviation Reserve Corps. #EarlyWomenAviators https://t.co/kK3pKwZqpo",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

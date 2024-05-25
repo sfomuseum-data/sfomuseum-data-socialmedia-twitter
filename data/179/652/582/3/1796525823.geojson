@@ -67,6 +67,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796525823,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -75,14 +76,18 @@
         "custom_id": 1796525823,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796525823
       }
     ],
     "wof:id": 1796525823,
-    "wof:lastmodified": 1714589723,
+    "wof:lastmodified": 1716596324,
     "wof:name": "📸 1/2:\npostcard: Pacific Southwest Airlines (PSA), Lockheed L-1011 TriStar; 1974\nGift of William Rys, Jr.\n2019.085.094\n\nPSA stewardesses serve cocktails in a Lockheed L-1011 cabin mockup  1972\nPSA 1972 Annual Report\nSFO Museum\nGift of the William Hough Collection\n2006.010.047",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

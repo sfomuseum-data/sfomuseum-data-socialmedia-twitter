@@ -152,6 +152,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796525957,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -160,14 +161,18 @@
         "custom_id": 1796525957,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796525957
       }
     ],
     "wof:id": 1796525957,
-    "wof:lastmodified": 1714589724,
+    "wof:lastmodified": 1716596323,
     "wof:name": "Ruth Law (1887-1970) was inspired to fly by her brother Rodman Law, a parachutist and stuntman. Orville Wright refused to train her because he believed women were not mechanically minded, so she instead persuaded Harry Atwood \u0026amp; Arch Freeman of Saugus, MA, to instruct her. #avgeek https://t.co/g6LGm6Hfai",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

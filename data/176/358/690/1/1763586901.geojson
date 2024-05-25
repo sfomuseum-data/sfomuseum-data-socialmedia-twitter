@@ -202,6 +202,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763586901,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -210,14 +211,18 @@
         "custom_id": 1763586901,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763586901
       }
     ],
     "wof:id": 1763586901,
-    "wof:lastmodified": 1714589728,
+    "wof:lastmodified": 1716596323,
     "wof:name": "Where would your dream vacation be? \n\nAllow us to inspire you: browse through over two hundred airline posters on our collection website!\n\nhttps://t.co/p3qlCnTw0H\n\n#collections #airlineposters #design #posters #avgeek #aviationhistory https://t.co/amqxu7YUm3",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

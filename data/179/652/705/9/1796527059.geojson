@@ -181,6 +181,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796527059,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -189,14 +190,18 @@
         "custom_id": 1796527059,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796527059
       }
     ],
     "wof:id": 1796527059,
-    "wof:lastmodified": 1714589728,
+    "wof:lastmodified": 1716596324,
     "wof:name": "Renamed in 1937 as Continental Airlines, the carrier introduced a red, white, and blue eagle symbol with its block letter logotype in 1944.  #DefunctThursday #avgeek #aviationhistory #ContinentalAirlines https://t.co/CMrnXPm8oB",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

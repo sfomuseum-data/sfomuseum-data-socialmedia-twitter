@@ -152,6 +152,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796526247,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -160,14 +161,18 @@
         "custom_id": 1796526247,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796526247
       }
     ],
     "wof:id": 1796526247,
-    "wof:lastmodified": 1714589724,
+    "wof:lastmodified": 1716596323,
     "wof:name": "\"Waiting\" is a photographic close-up of five figures involved in the familiar yet deeply symbolic drama of waiting in an airport for the return of loved ones. The photograph was translated into a digital image with each pixel represented by a one-inch mosaic tile. #PublicArt https://t.co/UIAsYrUcgU",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

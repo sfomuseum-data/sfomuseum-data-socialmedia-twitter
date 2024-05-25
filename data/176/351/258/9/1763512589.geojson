@@ -152,6 +152,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763512589,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -160,14 +161,18 @@
         "custom_id": 1763512589,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763512589
       }
     ],
     "wof:id": 1763512589,
-    "wof:lastmodified": 1714589695,
+    "wof:lastmodified": 1716596324,
     "wof:name": "In his 2018 series #IceFishers, Aleksey Kondratyev draws focus on the Kazakh men who fish through the ice of the frozen Ishim River. The Ishim flows through Astana (now Nur-Sultan) a high-rise, futuristic city named Kazakhstan’s capital in the late-1990s. https://t.co/uXNbj7mogd",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

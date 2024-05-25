@@ -93,6 +93,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763511683,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -101,14 +102,18 @@
         "custom_id": 1763511683,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763511683
       }
     ],
     "wof:id": 1763511683,
-    "wof:lastmodified": 1714589699,
+    "wof:lastmodified": 1716596323,
     "wof:name": "📸:\nphotograph: #PanAm, Sikorsky S-42, c. 1935\nGift of Jon. E. Krupnick\n2008.056.1039\n\npostcard: #PanAm, Sikorsky S-42 \"Brazilian Clipper\", c. 1934\nGift of Barnaby Conrad III\n2001.038.052\n\n#Sikorsky S-42 techincal drawing, n.d.\nGift of United Technologies\n1993.13.01",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

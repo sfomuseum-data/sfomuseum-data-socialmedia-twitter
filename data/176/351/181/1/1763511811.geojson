@@ -67,6 +67,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763511811,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -75,14 +76,18 @@
         "custom_id": 1763511811,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763511811
       }
     ],
     "wof:id": 1763511811,
-    "wof:lastmodified": 1714589699,
+    "wof:lastmodified": 1716596324,
     "wof:name": "📸:\nMills Field Administration Building, 1927\nSFO Museum Collection\n1993.07.11 f\n\nArchitectural drawing: Mills Field Administration Building, 1927\nSFO Museum Collection\n1997.52.003\n\nSan Francisco Airport, Administration Building, Office, 1931\nSFO Museum Collection\n2011.032.0111",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

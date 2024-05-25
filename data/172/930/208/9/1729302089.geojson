@@ -145,6 +145,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729302089,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -153,14 +154,18 @@
         "custom_id": 1729302089,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729302089
       }
     ],
     "wof:id": 1729302089,
-    "wof:lastmodified": 1714589716,
+    "wof:lastmodified": 1716596324,
     "wof:name": "In 1965, New York Airways scheduled seventeen daily flights from John F. Kennedy Airport right to the heart of Manhattan, a flight that only took seven minutes. Did you ever fly on New York Airways' helicopter service? https://t.co/DxFnKoI3vp",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

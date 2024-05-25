@@ -186,6 +186,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729302541,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -194,14 +195,18 @@
         "custom_id": 1729302541,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729302541
       }
     ],
     "wof:id": 1729302541,
-    "wof:lastmodified": 1714589714,
+    "wof:lastmodified": 1716596325,
     "wof:name": "Join us for a special event this Saturday at 4:30! See a live display of backstrap loom weaving by Elvia Gómez López, president of Cooperativa Jolom Mayaetik. See our event page for more information: https://t.co/l24avXc1hR https://t.co/yDlovNAGXf",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

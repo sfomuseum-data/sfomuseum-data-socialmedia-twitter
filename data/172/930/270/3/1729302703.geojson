@@ -156,6 +156,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729302703,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -164,14 +165,18 @@
         "custom_id": 1729302703,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729302703
       }
     ],
     "wof:id": 1729302703,
-    "wof:lastmodified": 1714589714,
+    "wof:lastmodified": 1716596325,
     "wof:name": "Working with a 4x5 film camera, #ThomasJackson creates large-scale photographs that meditate upon the complex relationship between the natural and the man-made, while inviting a fresh interpretation of everyday objects. https://t.co/wttA8Fzl23",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

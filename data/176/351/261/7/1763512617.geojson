@@ -193,6 +193,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763512617,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -201,14 +202,18 @@
         "custom_id": 1763512617,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763512617
       }
     ],
     "wof:id": 1763512617,
-    "wof:lastmodified": 1714589695,
+    "wof:lastmodified": 1716596324,
     "wof:name": "The Lockheed L-188 Electra featured a relatively short-span, low-mounted, cantilevered wing with four Allison turboprop engines. The prototype flew in 1957, and the next year, initial deliveries went to American and Eastern Airlines. #WingWednesday https://t.co/sSR37juP3V",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -173,6 +173,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763586347,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -181,14 +182,18 @@
         "custom_id": 1763586347,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763586347
       }
     ],
     "wof:id": 1763586347,
-    "wof:lastmodified": 1714589691,
+    "wof:lastmodified": 1716596324,
     "wof:name": "It continued operating as a low-price domestic airline during the early 1950s. During the 1960s, the airline also offered service to New Guinea branded as “Golden Orchid” flights. #AnsettAirways #DefunctThursday #AvGeek https://t.co/85oh5D4DvL",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

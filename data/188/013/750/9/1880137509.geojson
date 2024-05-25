@@ -152,6 +152,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1880137509,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -160,14 +161,18 @@
         "custom_id": 1880137509,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1880137509
       }
     ],
     "wof:id": 1880137509,
-    "wof:lastmodified": 1714589719,
+    "wof:lastmodified": 1716596324,
     "wof:name": "Eileen Reynolds Curtis was a San Francisco Bay Area studio potter who was known for hand-thrown ceramics with unique and distinctive glazes. By 1945, Reynolds had established a pottery studio on Russian Hill in SF and was producing ceramics full-time. #CaliforniaModernistWomen https://t.co/fgaPuOOqsZ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

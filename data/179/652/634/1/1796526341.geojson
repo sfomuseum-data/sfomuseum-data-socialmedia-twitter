@@ -173,6 +173,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796526341,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -181,14 +182,18 @@
         "custom_id": 1796526341,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796526341
       }
     ],
     "wof:id": 1796526341,
-    "wof:lastmodified": 1714589726,
+    "wof:lastmodified": 1716596324,
     "wof:name": "From 1978 to 1984, Ozark flew DC-9s almost exclusively as they phased out their older aircraft. In 1986, Ozark was purchased by Trans World Airlines (TWA).\n#DefunctThursday #Ozark #AvGeek https://t.co/GKhCLqzuoK",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

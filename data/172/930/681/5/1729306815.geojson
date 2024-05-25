@@ -164,6 +164,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729306815,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -172,14 +173,18 @@
         "custom_id": 1729306815,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729306815
       }
     ],
     "wof:id": 1729306815,
-    "wof:lastmodified": 1714589713,
+    "wof:lastmodified": 1716596325,
     "wof:name": "#OnThisDay in 1971, the first Douglas DC-10 service started at San Francisco International Airport (SFO). United’s McDonnell Douglas DC-10 was the first of the three-engine, or tri-jet, wide-body airliners to arrive at SFO. Have you ever flown on a Douglas DC-10? #avgeek https://t.co/l11U5JXID3",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

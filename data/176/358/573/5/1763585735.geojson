@@ -157,6 +157,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763585735,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -165,14 +166,18 @@
         "custom_id": 1763585735,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763585735
       }
     ],
     "wof:id": 1763585735,
-    "wof:lastmodified": 1714589693,
+    "wof:lastmodified": 1716596323,
     "wof:name": "Seating capacities on the McDonnell Douglas MD-11 varied from 285 in a three-class arrangement to 410 in an all-economy configuration. The medium- to long-range widebody aircraft had a range 7,000 to 10,000 miles and had a cruising speed of 588 mph. #WingWednesday https://t.co/KrUks1YpTF",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

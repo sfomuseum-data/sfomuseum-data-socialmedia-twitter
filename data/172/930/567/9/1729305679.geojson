@@ -178,6 +178,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729305679,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -186,14 +187,18 @@
         "custom_id": 1729305679,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729305679
       }
     ],
     "wof:id": 1729305679,
-    "wof:lastmodified": 1714589714,
+    "wof:lastmodified": 1716596325,
     "wof:name": "\"I am excited by the sensual and rich forms that can be created by the rhythmic process of making and believe my nature is reflected through my work. It is delightful to be absorbed in every stage, from design to the finished piece.\" #NdidiEkubia #BritishSilver @NdidiEkubia https://t.co/uM4uHEA8Mb",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

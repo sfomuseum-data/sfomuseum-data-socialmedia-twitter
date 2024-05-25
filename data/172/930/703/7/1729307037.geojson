@@ -172,6 +172,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729307037,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -180,14 +181,18 @@
         "custom_id": 1729307037,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729307037
       }
     ],
     "wof:id": 1729307037,
-    "wof:lastmodified": 1714589711,
+    "wof:lastmodified": 1716596325,
     "wof:name": "When introduced in 1949, the #Boeing 377 #Stratocruiser was considered the most luxurious airliner aloft. The Stratocruiser’s unique, “double-bubble” fuselage was equipped with two decks; the upper contained a main cabin, while the lower featured a cocktail lounge. #avgeek https://t.co/GQusYDrvTo",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

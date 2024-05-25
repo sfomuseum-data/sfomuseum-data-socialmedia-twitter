@@ -166,6 +166,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729305705,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -174,14 +175,18 @@
         "custom_id": 1729305705,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729305705
       }
     ],
     "wof:id": 1729305705,
-    "wof:lastmodified": 1714589714,
+    "wof:lastmodified": 1716596324,
     "wof:name": "During the 1930s, when most Americans struggled to make a living, the modern airplane became an inspiring symbol of hope. To stimulate consumerism, a broad array of products were designed and marketed in homage to the airplane. https://t.co/Xjin8CjgwZ #StreamlinesAesthetics https://t.co/UAYQ8tA0kI",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -149,6 +149,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1913814151,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -157,14 +158,18 @@
         "custom_id": 1913814151,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1913814151
       }
     ],
     "wof:id": 1913814151,
-    "wof:lastmodified": 1714589712,
+    "wof:lastmodified": 1716596324,
     "wof:name": "The Boeing 40 embarked on its maiden flight in July 1925. The first Boeing aircraft built to carry passengers, it was primarily used as an air mail plane. Boeing Air Transport, which would later become United Air Lines, introduced the Boeing 40 on July 1, 1927. #avgeek https://t.co/GS2LwQfZXh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

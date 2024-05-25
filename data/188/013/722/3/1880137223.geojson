@@ -201,6 +201,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1880137223,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -209,14 +210,18 @@
         "custom_id": 1880137223,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1880137223
       }
     ],
     "wof:id": 1880137223,
-    "wof:lastmodified": 1714589718,
+    "wof:lastmodified": 1716596323,
     "wof:name": "In 1948, BCPA received the new, long-range, pressurized Douglas DC-6 airliner. For the long, forty-hour, multi-stop Southern Cross route, each aircraft was comfortably equipped with reclining seats, sleeping berths, and a lounge in the aft. #FlyingSouthernCross #AvGeek https://t.co/zMoUE8S9HN",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

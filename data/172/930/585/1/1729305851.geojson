@@ -156,6 +156,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729305851,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -164,14 +165,18 @@
         "custom_id": 1729305851,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729305851
       }
     ],
     "wof:id": 1729305851,
-    "wof:lastmodified": 1714589714,
+    "wof:lastmodified": 1716596324,
     "wof:name": "Eastern Air Lines was a major operator of the Douglas DC-2 and DC-3 and provided maintenance crews with manuals that included data on the airframe, lubrication, brakes, the electrical system, instruments, engines, the oil system, landing gear, and fuel systems. #BytheBook https://t.co/dCMdVVft6j",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

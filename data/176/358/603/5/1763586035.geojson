@@ -193,6 +193,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763586035,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -201,14 +202,18 @@
         "custom_id": 1763586035,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763586035
       }
     ],
     "wof:id": 1763586035,
-    "wof:lastmodified": 1714589691,
+    "wof:lastmodified": 1716596323,
     "wof:name": "After leaving Alameda on Nov 22, and landing in Manila (shown here!) on Nov 29, the #ChinaClipper started its long journey back to the United States on Dec 2. The entire round-trip included over 123 hours of flying time, covered over 16,000 miles, and set 19 world records. https://t.co/UBZtQ8eNHx",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

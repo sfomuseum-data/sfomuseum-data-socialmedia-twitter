@@ -260,6 +260,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796527185,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -268,14 +269,18 @@
         "custom_id": 1796527185,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796527185
       }
     ],
     "wof:id": 1796527185,
-    "wof:lastmodified": 1714589723,
+    "wof:lastmodified": 1716596323,
     "wof:name": "Handkerchiefs display an variety of handwork to showcase embroiderers’ talent and skills. Intricately embroidered handkerchiefs even made appropriate gifts for royalty. The small items sometimes also served as keepsakes and were part of a genteel lady’s attire. #PineappletoPina https://t.co/pD4vXS9cyL",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

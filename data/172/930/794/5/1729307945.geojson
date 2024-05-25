@@ -180,6 +180,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729307945,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -188,14 +189,18 @@
         "custom_id": 1729307945,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729307945
       }
     ],
     "wof:id": 1729307945,
-    "wof:lastmodified": 1714589705,
+    "wof:lastmodified": 1716596325,
     "wof:name": "The Big 2-0! #HappyBirthday to JetBlue which commenced operations #onthisday in 2000. Operating an Airbus A320, JetBlue's inaugural flight took off from John F. Kennedy Airport in New York City to Fort Lauderdale, Florida. Have you ever flown on #JetBlue? #avgeek https://t.co/yIzmlUvg0I",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

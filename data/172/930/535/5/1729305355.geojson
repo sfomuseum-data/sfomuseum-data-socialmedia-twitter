@@ -195,6 +195,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729305355,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -203,14 +204,18 @@
         "custom_id": 1729305355,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729305355
       }
     ],
     "wof:id": 1729305355,
-    "wof:lastmodified": 1714589714,
+    "wof:lastmodified": 1716596324,
     "wof:name": "What does it take to maintain our collections space? For one thing, a LOT of cleaning. Staff perform routine maintenance in our collection spaces including cleaning in between the rails of our compact shelving. Kudos to our collections team! #museumlife #BehindTheScenes https://t.co/QcA9dfFW3U",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

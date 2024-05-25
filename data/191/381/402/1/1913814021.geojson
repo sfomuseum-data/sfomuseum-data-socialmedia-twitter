@@ -167,6 +167,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1913814021,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -175,14 +176,18 @@
         "custom_id": 1913814021,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1913814021
       }
     ],
     "wof:id": 1913814021,
-    "wof:lastmodified": 1714589706,
+    "wof:lastmodified": 1716596324,
     "wof:name": "SFO became the 4th busiest airport in the nation in 1962. To maximize @flySFO’s footprint, a late 1960s master plan envisioned the North Terminal (now T3), Central Terminal (T2), and South Terminal (Harvey Milk T1) surrounding a multi-level parking garage. \n\n#52Objects #avgeek https://t.co/nzpLJZQTU4",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

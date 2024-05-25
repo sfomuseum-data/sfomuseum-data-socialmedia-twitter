@@ -154,6 +154,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1913813805,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -162,14 +163,18 @@
         "custom_id": 1913813805,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1913813805
       }
     ],
     "wof:id": 1913813805,
-    "wof:lastmodified": 1714589696,
+    "wof:lastmodified": 1716596323,
     "wof:name": "Today, with so many Haitian artists working in the medium and selling and exporting works, artisans now purchase steel oil drums to craft metal sculpture, employ used or new fifty-gallon tomato paste drums, or even use sheet metal for large-scale commissions. #HaitianMetal https://t.co/b9eI7qykXp",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

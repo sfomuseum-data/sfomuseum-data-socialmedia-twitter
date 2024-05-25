@@ -188,6 +188,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763585389,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -196,14 +197,18 @@
         "custom_id": 1763585389,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763585389
       }
     ],
     "wof:id": 1763585389,
-    "wof:lastmodified": 1714589695,
+    "wof:lastmodified": 1716596323,
     "wof:name": "The Lockheed L-1011 TriStar was a wide-body, long-range tri-jet airliner introduced in 1972. It featured state-of-the-art avionics, including an autopilot with the capability of virtually flying and landing by itself, including in low-visibility weather conditions. #wingwednesday https://t.co/KXmJ0r9RJZ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

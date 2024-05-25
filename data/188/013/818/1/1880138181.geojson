@@ -182,6 +182,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1880138181,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -190,14 +191,18 @@
         "custom_id": 1880138181,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1880138181
       }
     ],
     "wof:id": 1880138181,
-    "wof:lastmodified": 1714589714,
+    "wof:lastmodified": 1716596323,
     "wof:name": "What did @flySFO look like #onthisday in 1940? The 1937 Terminal and Hangars 1-4 are visible, as are the runways. Beginning in 1935 as part of FDR’s New Deal, runway “C” was extended from 1,900 to 3,000 feet. (The runways now measure 7,650 and 11,870 feet!) #SFOHistory #AvGeek https://t.co/6AopavWfF6",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

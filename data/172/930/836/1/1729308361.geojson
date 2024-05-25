@@ -274,6 +274,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729308361,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -282,14 +283,18 @@
         "custom_id": 1729308361,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729308361
       }
     ],
     "wof:id": 1729308361,
-    "wof:lastmodified": 1714589703,
+    "wof:lastmodified": 1716596325,
     "wof:name": "Happy #BirdDay from our public art collection!\n\nThe work featured here is by the artists Hung Liu, Rupert Garcia, Bob Zoell, and Walter Kitundu. Check out our website for locations and more information: https://t.co/BfqM7I9U72 https://t.co/9dBcS7sK9s",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

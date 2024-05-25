@@ -180,6 +180,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1913814383,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -188,14 +189,18 @@
         "custom_id": 1913814383,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1913814383
       }
     ],
     "wof:id": 1913814383,
-    "wof:lastmodified": 1714589722,
+    "wof:lastmodified": 1716596323,
     "wof:name": "The 2D animation, \"Pique-nique au bord du chemin,\" which translates to Roadside Picnic in English, by Paris-based directors Benjamin Geffroy and Nina-Lou Giachetti, depicts the visual tale of a man and his dog’s delightful stroll.\n#VideoArtsSFO https://t.co/6SGTPpsGl9",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

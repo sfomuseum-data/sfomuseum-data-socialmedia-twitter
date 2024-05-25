@@ -161,6 +161,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1913813749,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -169,14 +170,18 @@
         "custom_id": 1913813749,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1913813749
       }
     ],
     "wof:id": 1913813749,
-    "wof:lastmodified": 1714589694,
+    "wof:lastmodified": 1716596323,
     "wof:name": "They often break the sole of the shoe or soften the area around the toe. Occasionally, a dancer will darn around the platform—the part of the shoe that the dancer balances on while on pointe—to help with stability or to make the shoe last longer. #SFBalletAt90 #WorldBalletDay https://t.co/PrysjvhVaF",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

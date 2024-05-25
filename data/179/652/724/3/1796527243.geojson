@@ -196,6 +196,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796527243,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -204,14 +205,18 @@
         "custom_id": 1796527243,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796527243
       }
     ],
     "wof:id": 1796527243,
-    "wof:lastmodified": 1714589723,
+    "wof:lastmodified": 1716596323,
     "wof:name": "Spirogyrate is an immersive and interactive installation composed of graphic spiral patterns and light that change and respond to people’s movement through the space. The result is a whimsical environment to be enjoyed by travelers of all ages. #publicart #EricStaller https://t.co/WMpk79plhq",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

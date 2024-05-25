@@ -164,6 +164,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729306697,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -172,14 +173,18 @@
         "custom_id": 1729306697,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729306697
       }
     ],
     "wof:id": 1729306697,
-    "wof:lastmodified": 1714589713,
+    "wof:lastmodified": 1716596325,
     "wof:name": "#Onthisday in 1909, Louis Blériot successfully landed his plane in Dover, England, after flying from Calais, France. This became the first crossing of the English Channel in a heavier-than-air mechanical aircraft. #avgeek https://t.co/4iRWXlqJZJ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

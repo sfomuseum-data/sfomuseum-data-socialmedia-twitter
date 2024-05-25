@@ -156,6 +156,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729307703,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -164,14 +165,18 @@
         "custom_id": 1729307703,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729307703
       }
     ],
     "wof:id": 1729307703,
-    "wof:lastmodified": 1714589707,
+    "wof:lastmodified": 1716596325,
     "wof:name": "During World War II, Lockheed Constellations were designated as C-69 military transports. In 1944, Howard Hughes flew a C-69 from Burbank, California to Washington, D.C. in a record time of 6 hrs and 57 min. Did you ever fly on a Lockheed Constellation? #avgeek https://t.co/8BbTuAdfIf",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

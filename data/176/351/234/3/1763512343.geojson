@@ -157,6 +157,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763512343,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -165,14 +166,18 @@
         "custom_id": 1763512343,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763512343
       }
     ],
     "wof:id": 1763512343,
-    "wof:lastmodified": 1714589697,
+    "wof:lastmodified": 1716596324,
     "wof:name": "Initial deliveries of the L-1649 went to TWA, which inaugurated service on its New York, London, and Frankfurt route in June 1957. TWA also inaugurated trans-polar service between the U.S. West Coast and Europe with the Starliner the same year. #WingWednesday https://t.co/rBjs2eWyGW",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

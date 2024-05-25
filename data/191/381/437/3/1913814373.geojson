@@ -149,6 +149,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1913814373,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -157,14 +158,18 @@
         "custom_id": 1913814373,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1913814373
       }
     ],
     "wof:id": 1913814373,
-    "wof:lastmodified": 1714589722,
+    "wof:lastmodified": 1716596323,
     "wof:name": "The first Pan American Airways scheduled passenger flight took off on this day in 1928 from Key West, Florida, to Havana, Cuba. The eight-passenger, three-engine, Fokker F-VIIa/3m made the 90-mile trip in just under 90 minutes. The one-way fare was $50 or about $887 today #AvGeek https://t.co/Ey0UIcvWRY",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -156,6 +156,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729306747,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -164,14 +165,18 @@
         "custom_id": 1729306747,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729306747
       }
     ],
     "wof:id": 1729306747,
-    "wof:lastmodified": 1714589713,
+    "wof:lastmodified": 1716596325,
     "wof:name": "Utilizing physical prints of digitized information garnered from social media platforms, #JaclynWright works in the studio to produce large-scale assemblages, which explore the complicated relationship between our online activity and the trail of data we leave behind. https://t.co/BNnaQvBwUq",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

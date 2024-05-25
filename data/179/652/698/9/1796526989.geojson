@@ -67,6 +67,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796526989,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -75,14 +76,18 @@
         "custom_id": 1796526989,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796526989
       }
     ],
     "wof:id": 1796526989,
-    "wof:lastmodified": 1714589728,
+    "wof:lastmodified": 1716596324,
     "wof:name": "📸 1/2:\nphotograph: United Air Lines, Sud Aviation SE-210 Caravelle, San Francisco International Airport (SFO); c. 1961\nAnonymous gift\n2016.115.003\n \npostcard: Air France, Sud Aviation SE210 Caravelle; c. 1963 Gift of the William Hough Collection\n2008.055.111",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -67,6 +67,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796527083,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -75,14 +76,18 @@
         "custom_id": 1796527083,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796527083
       }
     ],
     "wof:id": 1796527083,
-    "wof:lastmodified": 1714589723,
+    "wof:lastmodified": 1716596323,
     "wof:name": "📸 1/3: \n1. postcard: Pacific Southwest Airlines (PSA), Douglas DC-3; 1940s\nGift of Thomas G. Dragges\n2015.166.1194\n\n2. postcard: Pacific Southwest Airlines (PSA), Douglas DC-4; 1960\nGift of the William Hough Collection\n2008.055.547",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

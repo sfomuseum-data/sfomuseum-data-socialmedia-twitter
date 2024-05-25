@@ -187,6 +187,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729306085,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -195,14 +196,18 @@
         "custom_id": 1729306085,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729306085
       }
     ],
     "wof:id": 1729306085,
-    "wof:lastmodified": 1714589714,
+    "wof:lastmodified": 1716596325,
     "wof:name": "\"Texas-Mexican Border Music Vol. 17, The First Women Duets” features some of the most famous female duets, like the Mendoza Sisters and Hermanas Padilla. Prior to the 1930s, women’s involvement in Mexican music primarily centered on the vaudeville theater stage. #StoryofArhoolie https://t.co/qjb3vbdPOh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

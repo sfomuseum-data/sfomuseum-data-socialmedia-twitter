@@ -157,6 +157,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763512133,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -165,14 +166,18 @@
         "custom_id": 1763512133,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763512133
       }
     ],
     "wof:id": 1763512133,
-    "wof:lastmodified": 1714589697,
+    "wof:lastmodified": 1716596323,
     "wof:name": "The one and only flight of the \"Spruce Goose,\" which lasted only a minute and hit an altitude of 70 feet, took place on Nov. 2, 1947, off the coast of San Pedro, CA, with Howard Hughes at the controls, David Grant as copilot, and members of the press on board. #WingWednesday https://t.co/BiNnpmQnon",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

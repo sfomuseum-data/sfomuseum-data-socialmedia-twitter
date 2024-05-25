@@ -67,6 +67,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763512239,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -75,14 +76,18 @@
         "custom_id": 1763512239,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763512239
       }
     ],
     "wof:id": 1763512239,
-    "wof:lastmodified": 1714589697,
+    "wof:lastmodified": 1716596324,
     "wof:name": "📸:\nCurtiss Single Cylinder Cycle Motor; 1908\nCurtiss Double Cylinder 6 H.P. Motor; 1907\nBoth courtesy of Wes Allen\n\nCurtiss motorcycle catalog page; 1907\nCurtiss on a twin-cylinder Curtiss racing motorcycle; 1906\nBoth courtesy of Glenn H. Curtiss Museum",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

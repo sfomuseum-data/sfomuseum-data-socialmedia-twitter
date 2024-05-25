@@ -146,6 +146,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1913813637,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -154,14 +155,18 @@
         "custom_id": 1913813637,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1913813637
       }
     ],
     "wof:id": 1913813637,
-    "wof:lastmodified": 1714589689,
+    "wof:lastmodified": 1716596323,
     "wof:name": "The Concorde was also one of the first airliners to have a fly-by-wire flight control system— manual flight controls replaced with an electronic interface and computer. The fuselage needed to withstand temperatures exceeding 260°F from the air friction produced at Mach 2 speeds. https://t.co/CQ7e06V35I",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

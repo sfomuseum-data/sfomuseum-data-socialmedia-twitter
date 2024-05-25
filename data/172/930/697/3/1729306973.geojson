@@ -182,6 +182,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729306973,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -190,14 +191,18 @@
         "custom_id": 1729306973,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729306973
       }
     ],
     "wof:id": 1729306973,
-    "wof:lastmodified": 1714589711,
+    "wof:lastmodified": 1716596325,
     "wof:name": "#RobertBechtle’s early work was as a Bay Area figurative painter, but in the 1970s, he received national acclaim as a Photorealist. Shown here is Benton Street in #SanFrancisco, one of the familiar local neighborhoods Bechtle frequently paints. https://t.co/Exr4TSUHDQ #publicart https://t.co/Rt9J2zCAGe",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

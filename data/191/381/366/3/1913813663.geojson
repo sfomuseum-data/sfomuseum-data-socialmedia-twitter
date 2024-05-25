@@ -163,6 +163,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1913813663,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -171,14 +172,18 @@
         "custom_id": 1913813663,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1913813663
       }
     ],
     "wof:id": 1913813663,
-    "wof:lastmodified": 1714589690,
+    "wof:lastmodified": 1716596324,
     "wof:name": "On November 29, 1935, the inaugural transpacific Pan American Airways airmail service landed in Manila from California carrying 110,865 letters. An elaborate welcoming ceremony welcomed the crew, with an estimated 250,000 people in attendance. #52Objects #ChinaClipper #AvGeek https://t.co/Xdwb8zN8ii",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

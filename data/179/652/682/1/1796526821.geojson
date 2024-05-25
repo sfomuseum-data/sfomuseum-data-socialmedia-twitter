@@ -165,6 +165,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796526821,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -173,14 +174,18 @@
         "custom_id": 1796526821,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796526821
       }
     ],
     "wof:id": 1796526821,
-    "wof:lastmodified": 1714589728,
+    "wof:lastmodified": 1716596324,
     "wof:name": "As with many airline companies, airline deregulation created cutthroat competitive conditions and in 1989, the Flying Tiger Line merged with Federal Express.\n#DefunctThursday #FlyingTigers https://t.co/i6pwWeU0mA",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -191,6 +191,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1880137875,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -199,14 +200,18 @@
         "custom_id": 1880137875,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1880137875
       }
     ],
     "wof:id": 1880137875,
-    "wof:lastmodified": 1714589720,
+    "wof:lastmodified": 1716596324,
     "wof:name": "Australian filmmaker Adam Anthony follows Diana, who qualified for 2 Olympics as a boxer but was excluded because of her gender. She now runs a boxing program for Ugandan girls, dreaming of one day seeing a woman represent her country in Olympic boxing. \n#VideoArts #VideoArtsSFO https://t.co/DdnSPL6z2x",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

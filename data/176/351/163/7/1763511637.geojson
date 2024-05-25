@@ -160,6 +160,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763511637,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -168,14 +169,18 @@
         "custom_id": 1763511637,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763511637
       }
     ],
     "wof:id": 1763511637,
-    "wof:lastmodified": 1714589701,
+    "wof:lastmodified": 1716596323,
     "wof:name": "The story of how a creative community continued to engage in collaborative practice while deprived of the in-person camaraderie of studio art courses is on display in \"Alternative Process: San Francisco State University School of Art\". #AlternativeProcess #StudentArtSFO https://t.co/a4ig9qRMoD",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

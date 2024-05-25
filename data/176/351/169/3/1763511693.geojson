@@ -165,6 +165,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763511693,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -173,14 +174,18 @@
         "custom_id": 1763511693,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763511693
       }
     ],
     "wof:id": 1763511693,
-    "wof:lastmodified": 1714589699,
+    "wof:lastmodified": 1716596323,
     "wof:name": "The Brazilian Clipper NC-822M was the first S-42 to enter service in 1934. It primarily flew #PanAm’s Latin American routes. Later upgraded versions included the S-42A and S-42B, which were equipped with more powerful engines and had a range of up to 2,800 miles. #WingWednesday https://t.co/ZaEHSuAvU8",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

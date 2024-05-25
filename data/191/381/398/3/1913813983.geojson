@@ -159,6 +159,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1913813983,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -167,14 +168,18 @@
         "custom_id": 1913813983,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1913813983
       }
     ],
     "wof:id": 1913813983,
-    "wof:lastmodified": 1714589704,
+    "wof:lastmodified": 1716596324,
     "wof:name": "Our newest exhibition “The Enduring Spirit of Haitian Metal Sculpture” is now on display in Mayor Edwin M. Lee International Terminal Departures Hall. Located pre-security, the exhibition will be on display until August 2024. https://t.co/Y9uksywdR0 #HaitianMetal https://t.co/Jr2Ky5QUMm",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -193,6 +193,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763585809,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -201,14 +202,18 @@
         "custom_id": 1763585809,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763585809
       }
     ],
     "wof:id": 1763585809,
-    "wof:lastmodified": 1714589693,
+    "wof:lastmodified": 1716596323,
     "wof:name": "The world’s largest twin jet, the Boeing 777 has the capacity to seat between 317 and 396 passengers in a 2 class configuration and has a range of 6,000 to 8,400 miles. With a cruising speed of 554 mph, some variations of the 777 can operate long-haul polar routes. #WingWednesday https://t.co/zX2TGiF8fL",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -170,6 +170,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729306979,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -178,14 +179,18 @@
         "custom_id": 1729306979,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729306979
       }
     ],
     "wof:id": 1729306979,
-    "wof:lastmodified": 1714589711,
+    "wof:lastmodified": 1716596325,
     "wof:name": "What was going on at the airport in September of 1998? The International Terminal was under construction and here you can see the framework of its iconic façade. #ThrowbackThursday @flySFO https://t.co/Z3YAAj2mYa",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -164,6 +164,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729308493,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -172,14 +173,18 @@
         "custom_id": 1729308493,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729308493
       }
     ],
     "wof:id": 1729308493,
-    "wof:lastmodified": 1714589703,
+    "wof:lastmodified": 1716596325,
     "wof:name": "Happy Birthday to the Golden Gate Bridge! The bridge spans almost two miles of water between Marin County and San Francisco and held the title of the longest suspension bridge for almost 30 years. Have you visited this popular tourist destination? #SFHistory #MuseumFromHome https://t.co/eWzBW9F5oy",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

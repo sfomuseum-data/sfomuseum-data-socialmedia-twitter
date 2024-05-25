@@ -160,6 +160,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1880137167,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -168,14 +169,18 @@
         "custom_id": 1880137167,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1880137167
       }
     ],
     "wof:id": 1880137167,
-    "wof:lastmodified": 1714589718,
+    "wof:lastmodified": 1716596323,
     "wof:name": "In the 1930s, as commercial aviation evolved into a more practical mode of transportation, San Francisco Airport launched a series of major improvements. By 1937, more than 790,000 sq ft of concrete runways, taxiways, and aircraft parking were in place. #MillsField #SFOHistory https://t.co/FDi0WgvI6K",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

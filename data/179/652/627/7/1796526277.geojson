@@ -152,6 +152,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796526277,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -160,14 +161,18 @@
         "custom_id": 1796526277,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796526277
       }
     ],
     "wof:id": 1796526277,
-    "wof:lastmodified": 1714589726,
+    "wof:lastmodified": 1716596323,
     "wof:name": "In 1952, following a year living in Mexico, Mary Fuller McChesney and her husband, Abstract Expressionist painter, Robert McChesney, hand-built a small home and two studios on two acres atop Sonoma Mountain near Petaluma, California. #CaliforniaModernistWomen https://t.co/gCnUua63W6",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

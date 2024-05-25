@@ -201,6 +201,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796526239,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -209,14 +210,18 @@
         "custom_id": 1796526239,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796526239
       }
     ],
     "wof:id": 1796526239,
-    "wof:lastmodified": 1714589724,
+    "wof:lastmodified": 1716596323,
     "wof:name": "In the pampas grasslands of Montauk, New York, dancer Habby “Hob” Jacques and Los Angeles-based director Jess Hu explore and redefine the environment through the movement of flexing. https://t.co/eI2ZEIIaiR\n#VideoArts #VideoArtsSFO https://t.co/fmHJD0AJy4",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

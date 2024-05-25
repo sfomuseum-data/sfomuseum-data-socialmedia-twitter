@@ -156,6 +156,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729301875,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -164,14 +165,18 @@
         "custom_id": 1729301875,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729301875
       }
     ],
     "wof:id": 1729301875,
-    "wof:lastmodified": 1714589716,
+    "wof:lastmodified": 1716596324,
     "wof:name": "#FredEversley worked as an aerospace engineer until 1967, when he turned to making sculpture. As a medium, he uses transparent polyester resin to create rich optical experiences. https://t.co/KjmtbNd02l",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

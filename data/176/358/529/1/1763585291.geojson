@@ -152,6 +152,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763585291,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -160,14 +161,18 @@
         "custom_id": 1763585291,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763585291
       }
     ],
     "wof:id": 1763585291,
-    "wof:lastmodified": 1714589695,
+    "wof:lastmodified": 1716596323,
     "wof:name": "We are saddened to hear of the passing of the vibrant artist and teacher, #HungLiu. Born in China in 1948, she settled in the Bay Area in the 1980s. Her signature painterly style was one that allowed the paint to drip across the image and was strongly influenced by Chinese art. https://t.co/y28aHlEvip",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

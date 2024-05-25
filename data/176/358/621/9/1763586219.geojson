@@ -141,6 +141,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763586219,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -149,14 +150,18 @@
         "custom_id": 1763586219,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763586219
       }
     ],
     "wof:id": 1763586219,
-    "wof:lastmodified": 1714589691,
+    "wof:lastmodified": 1716596324,
     "wof:name": "German physician \u0026amp; physicist Hermann von Helmholtz made important contributions to a variety of scientific fields: he invented the ophthalmoscope in 1851, which is still used to inspect the interior of the eye, as well as acoustic instruments, such as these resonators. https://t.co/AjWCOXC2Z9",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

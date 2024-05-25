@@ -152,6 +152,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763586541,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -160,14 +161,18 @@
         "custom_id": 1763586541,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763586541
       }
     ],
     "wof:id": 1763586541,
-    "wof:lastmodified": 1714589689,
+    "wof:lastmodified": 1716596324,
     "wof:name": "As an openly gay politician and civil rights leader, Harvey Milk regularly received death threats. Tragically, on November 27, 1978, former supervisor, Dan White, entered through the basement of City Hall and assassinated Mayor Moscone and Supervisor Milk. #HarveyMilkExhibition https://t.co/4gKOxvJ6ko",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

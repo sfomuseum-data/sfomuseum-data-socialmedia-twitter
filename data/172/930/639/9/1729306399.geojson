@@ -186,6 +186,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729306399,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -194,14 +195,18 @@
         "custom_id": 1729306399,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729306399
       }
     ],
     "wof:id": 1729306399,
-    "wof:lastmodified": 1714589713,
+    "wof:lastmodified": 1716596325,
     "wof:name": "#Onthisday in 1947, the #PanAmerican #Lockheed Constellation Model 749 Clipper America completed its first around the world flight, landing at @flySFO. Originating in NY’s La Guardia Airport on June 17, 1947, the 22,170- mile course, logged a total flying time of 102hrs \u0026amp; 50m. https://t.co/Ek1S3SfjV2",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

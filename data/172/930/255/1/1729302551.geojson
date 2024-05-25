@@ -155,6 +155,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729302551,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -163,14 +164,18 @@
         "custom_id": 1729302551,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729302551
       }
     ],
     "wof:id": 1729302551,
-    "wof:lastmodified": 1714589714,
+    "wof:lastmodified": 1716596324,
     "wof:name": "Filmmaker Dave Kiehl and his wife Krysten stopped by to visit the Video Arts gallery last week! They timed a short vacation in San Francisco with the debut of his film “The Seed in the Sky”! See “The Seed in the Sky” in the International Terminal today! https://t.co/0jZ6a3mKLx https://t.co/cs9P2yViwg",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -189,6 +189,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763586379,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -197,14 +198,18 @@
         "custom_id": 1763586379,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763586379
       }
     ],
     "wof:id": 1763586379,
-    "wof:lastmodified": 1714589689,
+    "wof:lastmodified": 1716596324,
     "wof:name": "See “New Generation” by Louisiana Bendolph on display post-security in Terminal 3 and online at:  https://t.co/3Gq4sMBuLx\n#publicart #LouisianaBendolph @SFAC https://t.co/gIftpRpi6J",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

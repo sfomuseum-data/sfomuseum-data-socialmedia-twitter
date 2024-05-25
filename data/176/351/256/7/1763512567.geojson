@@ -67,6 +67,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763512567,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -75,14 +76,18 @@
         "custom_id": 1763512567,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763512567
       }
     ],
     "wof:id": 1763512567,
-    "wof:lastmodified": 1714589695,
+    "wof:lastmodified": 1716596324,
     "wof:name": "📸 2/3:\nbrochure: KLM, DC-8; 1959\nGift of the Paul H. Kowalewski Collection\n2011.126.356\n\nUnited, DC-8-61 at SFO; 1967\nTransfer\n2011.032.1478\n\nUnited, DC-8s at SFO 1960s\nGift of Keith Samuels, in memory of Margot Doolin Samuels\n2013.099.012",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

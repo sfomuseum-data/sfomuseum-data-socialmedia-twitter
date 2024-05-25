@@ -164,6 +164,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729307189,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -172,14 +173,18 @@
         "custom_id": 1729307189,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729307189
       }
     ],
     "wof:id": 1729307189,
-    "wof:lastmodified": 1714589711,
+    "wof:lastmodified": 1716596325,
     "wof:name": "Pan American World Airways’ 1948 advertisement in the Saturday Evening Post promoted the luxury of Sleeperette service to Australia and New Zealand. Have you ever been to Australia or New Zealand? #TravelTuesday #PanAm https://t.co/rI5hGGG5Jp",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

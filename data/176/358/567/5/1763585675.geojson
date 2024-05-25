@@ -141,6 +141,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763585675,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -149,14 +150,18 @@
         "custom_id": 1763585675,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763585675
       }
     ],
     "wof:id": 1763585675,
-    "wof:lastmodified": 1714589693,
+    "wof:lastmodified": 1716596323,
     "wof:name": "On the streets during the fall [in L’viv], they would rake up, sweep up all the leaves. And it's a beautiful fall…So, I used the colors that they had in the fall. I am trying to give you a feeling for the experience that I had.\"\n— Marvin Lipofsky 2009 https://t.co/5E0zRz6ASB",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -170,6 +170,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1796527325,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -178,14 +179,18 @@
         "custom_id": 1796527325,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1796527325
       }
     ],
     "wof:id": 1796527325,
-    "wof:lastmodified": 1714589724,
+    "wof:lastmodified": 1716596323,
     "wof:name": "Happy Birthday to the late Marvin Lipofsky! Born #onthisday in 1938, he was a leading figure in the American studio glass movement. Celebrate his life \u0026amp; art with “#MarvinLipofsky: International Studio Glass\" on display pre-security in the IT \u0026amp; online: https://t.co/PbQQp2ZLG7 https://t.co/z5wJ0hrP5g",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

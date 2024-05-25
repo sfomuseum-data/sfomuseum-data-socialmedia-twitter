@@ -189,6 +189,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763586685,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -197,14 +198,18 @@
         "custom_id": 1763586685,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763586685
       }
     ],
     "wof:id": 1763586685,
-    "wof:lastmodified": 1714589689,
+    "wof:lastmodified": 1716596324,
     "wof:name": "Using a large-format film camera, Soren photographs tablet screens to reveal the marks left behind—the fingerprints, smudges, and oily residue of our engagement with the images below the surface. #TabithaSoren #Photography #Techonology #WomensHistoryMonth #5WomenArtists https://t.co/SqlQcUv0M0",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

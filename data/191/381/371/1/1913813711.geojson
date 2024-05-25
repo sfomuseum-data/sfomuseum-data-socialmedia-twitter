@@ -164,6 +164,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1913813711,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -172,14 +173,18 @@
         "custom_id": 1913813711,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1913813711
       }
     ],
     "wof:id": 1913813711,
-    "wof:lastmodified": 1714589692,
+    "wof:lastmodified": 1716596324,
     "wof:name": "See “The Enduring Spirit of Haitian Metal Sculpture” on display, pre-security, in the International Terminal. https://t.co/Y9uksywLGy\n\n#HaitianMetal https://t.co/NUDF86I5uh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

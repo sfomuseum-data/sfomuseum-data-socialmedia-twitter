@@ -152,6 +152,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763585279,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -160,14 +161,18 @@
         "custom_id": 1763585279,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763585279
       }
     ],
     "wof:id": 1763585279,
-    "wof:lastmodified": 1714589695,
+    "wof:lastmodified": 1716596323,
     "wof:name": "Born in Washington, D.C., Nathaniel Mathis began cutting the hair of his friends as a teenager. In 1969, Mathis opened the first Black unisex hair salon in D.C.. By 1970, Mathis was dubbed the “The Bush Doctor” for his expertise in fashioning male and female afros. #HairStyleSFOM https://t.co/tBSlOjYpxb",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

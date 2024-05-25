@@ -152,6 +152,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763586075,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -160,14 +161,18 @@
         "custom_id": 1763586075,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763586075
       }
     ],
     "wof:id": 1763586075,
-    "wof:lastmodified": 1714589691,
+    "wof:lastmodified": 1716596323,
     "wof:name": "“Harlem of the West” is a photography exhibition of select images chronicling the nightlife of San Francisco’s Fillmore District in the 1940s and 1950s when it was known as the Harlem of the West. #HarlemoftheWest https://t.co/oQH1E56LVU",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

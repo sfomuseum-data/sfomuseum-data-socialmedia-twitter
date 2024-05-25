@@ -192,6 +192,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1913814067,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -200,14 +201,18 @@
         "custom_id": 1913814067,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1913814067
       }
     ],
     "wof:id": 1913814067,
-    "wof:lastmodified": 1714589708,
+    "wof:lastmodified": 1716596324,
     "wof:name": "A very special thank you to Forrest L. Merrill for making this exhibition possible. See \"Kay Sekimachi: Weaving Traditions\" on display, post-security, in Harvey Milk Terminal 1 https://t.co/y7scUBG0d4\n\n#KaySekimachiWeaving #KaySekimachi #Weaving #5WomenArtists #WomensHistoryMonth https://t.co/NzBakfmvtr",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -156,6 +156,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1729301811,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -164,14 +165,18 @@
         "custom_id": 1729301811,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1729301811
       }
     ],
     "wof:id": 1729301811,
-    "wof:lastmodified": 1714589716,
+    "wof:lastmodified": 1716596323,
     "wof:name": "What is happening around the museum? After writing the label text and working with our Graphic Designer, Curator Dan is given a draft of the intro panel for “The Automatic Age: #CoinOperated Machines” to proofread before it is installed in the gallery. https://t.co/m6QSTWeqvc",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": [],

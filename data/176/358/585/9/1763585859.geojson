@@ -190,6 +190,7 @@
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
       {
+        "[\"tweet\"]_id": 1763585859,
         "building_id": 1159160869,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -198,14 +199,18 @@
         "custom_id": 1763585859,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "tweet_id": 1763585859
       }
     ],
     "wof:id": 1763585859,
-    "wof:lastmodified": 1714589693,
+    "wof:lastmodified": 1716596323,
     "wof:name": "For this suite of prints, Shaun O’Dell uses simplified icons of American history—liberty bells and silhouettes of the founding fathers—to depict the complexity of the past. #ShaunODell #etching #publicart #SFAC @SFAC https://t.co/GnbJa8mlst",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "tweet"
+    ],
     "wof:repo": "sfomuseum-data-socialmedia-twitter",
     "wof:superseded_by": [],
     "wof:supersedes": []
