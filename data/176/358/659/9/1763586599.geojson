@@ -150,6 +150,10 @@
               "duration_millis": "32680",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1501252065594540035/pu/pl/i_7-soLTFQ8_UWXU.m3u8?tag=12"
+                },
+                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1501252065594540035/pu/vid/480x270/YtRQeq6d_-LKJbst.mp4?tag=12"
@@ -158,10 +162,6 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1501252065594540035/pu/vid/640x360/WHVEuHpqJvatJHuC.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1501252065594540035/pu/pl/i_7-soLTFQ8_UWXU.m3u8?tag=12\u0026container=cmaf"
                 },
                 {
                   "bitrate": "2176000",
@@ -212,7 +212,7 @@
       }
     ],
     "wof:id": 1763586599,
-    "wof:lastmodified": 1716929904,
+    "wof:lastmodified": 1733257331,
     "wof:name": "London-based directors Simon + Ben follow one of the last few remaining #Haenyeo from Jeju Island in South Korea. She dives to a depth of 50ft on a single breath to harvest seafood from the ocean floor in a centuries-old Korean tradition.  \n\n#VideoArtsSFO #InternationalWomensDay https://t.co/xSNXDzsknX",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -15,10 +15,10 @@
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
     "twitter:hashtags": [
-      "AAPIHM",
       "VideoArtsSFO",
       "APAHM",
-      "AAPIHeritageMonth"
+      "AAPIHeritageMonth",
+      "AAPIHM"
     ],
     "twitter:tweet": {
       "created": 1685059357,
@@ -159,7 +159,7 @@
               "variants": [
                 {
                   "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1661885271745634304/pu/pl/ff3dFA_KazbJsl0S.m3u8?tag=12\u0026container=cmaf"
+                  "url": "https://video.twimg.com/ext_tw_video/1661885271745634304/pu/pl/ff3dFA_KazbJsl0S.m3u8?tag=12"
                 },
                 {
                   "bitrate": "256000",
@@ -220,7 +220,7 @@
       }
     ],
     "wof:id": 1880137767,
-    "wof:lastmodified": 1716929903,
+    "wof:lastmodified": 1733257342,
     "wof:name": "Jon Jon Augustavo is a Filipino American Los Angeles-based filmmaker whose visual poem, made in celebration of AANHPI heritage month, shares voices of the Asian diaspora in the United States.\n#VideoArtsSFO #APAHM #AAPIHeritageMonth #AAPIHM https://t.co/rIBLqiNPMK",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -1,0 +1,221 @@
+{
+  "id": 1947434791,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-04-24",
+    "date:cessation_upper": "2024-04-24",
+    "date:inception_lower": "2024-04-24",
+    "date:inception_upper": "2024-04-24",
+    "edtf:cessation": "2024-04-23T17:02:58-07:00",
+    "edtf:inception": "2024-04-23T17:02:58-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "ChineseCeramics",
+      "Ceramics",
+      "lion",
+      "Buddhism"
+    ],
+    "twitter:tweet": {
+      "created": 1713916978,
+      "created_at": "Wed Apr 24 00:02:58 +0000 2024",
+      "display_text_range": [
+        "0",
+        "241"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1782923147551121465"
+          ],
+          "editableUntil": "2024-04-24T01:02:58.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "175",
+              "191"
+            ],
+            "text": "ChineseCeramics"
+          },
+          {
+            "indices": [
+              "192",
+              "201"
+            ],
+            "text": "Ceramics"
+          },
+          {
+            "indices": [
+              "202",
+              "207"
+            ],
+            "text": "lion"
+          },
+          {
+            "indices": [
+              "208",
+              "217"
+            ],
+            "text": "Buddhism"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/49hY9XMVn0",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1782923147551121465/photo/1",
+            "id": "1782923133273702401",
+            "id_str": "1782923133273702401",
+            "indices": [
+              "218",
+              "241"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GL43JLSbAAElw4I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GL43JLSbAAElw4I.jpg",
+            "sizes": {
+              "large": {
+                "h": "1366",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "454",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/49hY9XMVn0"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/Chinese-Cerami…",
+            "expanded_url": "https://bit.ly/Chinese-Ceramics",
+            "indices": [
+              "150",
+              "173"
+            ],
+            "url": "https://t.co/oUqRPEVcSF"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/49hY9XMVn0",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1782923147551121465/photo/1",
+            "id": "1782923133273702401",
+            "id_str": "1782923133273702401",
+            "indices": [
+              "218",
+              "241"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GL43JLSbAAElw4I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GL43JLSbAAElw4I.jpg",
+            "sizes": {
+              "large": {
+                "h": "1366",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "454",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/49hY9XMVn0"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "See \"Everyday Elegance in Chinese Ceramics\" on display, pre-security, in the Mayor Edwin M. Lee International Terminal Departures Hall and online at: https://t.co/oUqRPEVcSF\n\n#ChineseCeramics #Ceramics #lion #Buddhism https://t.co/49hY9XMVn0",
+      "id": "1782923147551121465",
+      "id_str": "1782923147551121465",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1782923144455651591",
+      "in_reply_to_status_id_str": "1782923144455651591",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1733257337,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1947434791,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1947434791,
+    "wof:lastmodified": 1733257337,
+    "wof:name": "See \"Everyday Elegance in Chinese Ceramics\" on display, pre-security, in the Mayor Edwin M. Lee International Terminal Departures Hall and online at: https://t.co/oUqRPEVcSF\n\n#ChineseCeramics #Ceramics #lion #Buddhism https://t.co/49hY9XMVn0",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -47,50 +47,18 @@
             "text": "GDC"
           }
         ],
-        "media": [
+        "symbols": [],
+        "urls": [
           {
             "display_url": "pic.twitter.com/HXyd8ONdrL",
             "expanded_url": "https://twitter.com/benserviss/status/445042310372274176/photo/1",
-            "id": "445042310196117504",
-            "id_str": "445042310196117504",
             "indices": [
               "117",
               "139"
             ],
-            "media_url": "http://pbs.twimg.com/media/Bi0bn4lCQAADKmw.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Bi0bn4lCQAADKmw.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "445042310372274176",
-            "source_status_id_str": "445042310372274176",
-            "source_user_id": "80400382",
-            "source_user_id_str": "80400382",
-            "type": "photo",
             "url": "http://t.co/HXyd8ONdrL"
           }
         ],
-        "symbols": [],
-        "urls": [],
         "user_mentions": [
           {
             "id": "80400382",
@@ -101,50 +69,6 @@
             ],
             "name": "Ben Serviss",
             "screen_name": "benserviss"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/HXyd8ONdrL",
-            "expanded_url": "https://twitter.com/benserviss/status/445042310372274176/photo/1",
-            "id": "445042310196117504",
-            "id_str": "445042310196117504",
-            "indices": [
-              "117",
-              "139"
-            ],
-            "media_url": "http://pbs.twimg.com/media/Bi0bn4lCQAADKmw.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Bi0bn4lCQAADKmw.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "768"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "510"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "445042310372274176",
-            "source_status_id_str": "445042310372274176",
-            "source_user_id": "80400382",
-            "source_user_id_str": "80400382",
-            "type": "photo",
-            "url": "http://t.co/HXyd8ONdrL"
           }
         ]
       },
@@ -191,7 +115,7 @@
       }
     ],
     "wof:id": 1729291723,
-    "wof:lastmodified": 1716929904,
+    "wof:lastmodified": 1733257343,
     "wof:name": "Welcome to San Francisco! :) RT @benserviss: Ultraman/Godzilla exhibit in SFO airport. #GDC off to a promising start http://t.co/HXyd8ONdrL",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

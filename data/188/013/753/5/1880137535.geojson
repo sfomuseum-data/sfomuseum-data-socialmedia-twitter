@@ -145,6 +145,10 @@
               "duration_millis": "48875",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1613635653622992896/pu/pl/wyhKIGn7VTGDS35m.m3u8?tag=12"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1613635653622992896/pu/vid/1280x720/t6b_ElifHQcKRvU4.mp4?tag=12"
@@ -158,10 +162,6 @@
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1613635653622992896/pu/vid/480x270/ASBuFJzJTfmaUcVU.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1613635653622992896/pu/pl/wyhKIGn7VTGDS35m.m3u8?tag=12\u0026container=cmaf"
                 }
               ]
             }
@@ -210,7 +210,7 @@
       }
     ],
     "wof:id": 1880137535,
-    "wof:lastmodified": 1716929904,
+    "wof:lastmodified": 1733257344,
     "wof:name": "Patagonia-based animation director and illustrator Leo Garcia Franchi explores the balance between positive and negative spaces with abstract paper shapes. #supervielle @lacartv https://t.co/wi33XJhREf",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

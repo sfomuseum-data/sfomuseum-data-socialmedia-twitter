@@ -1,0 +1,192 @@
+{
+  "id": 1947434533,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-07-03",
+    "date:cessation_upper": "2024-07-03",
+    "date:inception_lower": "2024-07-03",
+    "date:inception_upper": "2024-07-03",
+    "edtf:cessation": "2024-07-03T16:09:47-07:00",
+    "edtf:inception": "2024-07-03T16:09:47-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "IndependenceDay"
+    ],
+    "twitter:tweet": {
+      "created": 1720048187,
+      "created_at": "Wed Jul 03 23:09:47 +0000 2024",
+      "display_text_range": [
+        "0",
+        "250"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1808639304194748709"
+          ],
+          "editableUntil": "2024-07-04T00:09:47.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "210",
+              "226"
+            ],
+            "text": "IndependenceDay"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/KwxLH7PdKw",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1808639304194748709/photo/1",
+            "id": "1808639300034252801",
+            "id_str": "1808639300034252801",
+            "indices": [
+              "227",
+              "250"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GRmT3F1aUAE76-g.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GRmT3F1aUAE76-g.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1638"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "544"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KwxLH7PdKw"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/SFOMExhibits",
+            "expanded_url": "https://bit.ly/SFOMExhibits",
+            "indices": [
+              "185",
+              "208"
+            ],
+            "url": "https://t.co/pZenhrMVGQ"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/KwxLH7PdKw",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1808639304194748709/photo/1",
+            "id": "1808639300034252801",
+            "id_str": "1808639300034252801",
+            "indices": [
+              "227",
+              "250"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GRmT3F1aUAE76-g.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GRmT3F1aUAE76-g.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1638"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "544"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KwxLH7PdKw"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "The Aviation Museum and Library will be closed tomorrow to observe Independence Day and will reopen on July 5th at 10am. All other exhibitions are available to view around the airport. https://t.co/pZenhrMVGQ\n\n#IndependenceDay https://t.co/KwxLH7PdKw",
+      "id": "1808639304194748709",
+      "id_str": "1808639304194748709",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1733257329,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1947434533,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1947434533,
+    "wof:lastmodified": 1733257329,
+    "wof:name": "The Aviation Museum and Library will be closed tomorrow to observe Independence Day and will reopen on July 5th at 10am. All other exhibitions are available to view around the airport. https://t.co/pZenhrMVGQ\n\n#IndependenceDay https://t.co/KwxLH7PdKw",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

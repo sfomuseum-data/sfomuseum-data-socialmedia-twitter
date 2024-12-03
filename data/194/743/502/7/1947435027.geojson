@@ -1,0 +1,114 @@
+{
+  "id": 1947435027,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-09-02",
+    "date:cessation_upper": "2024-09-02",
+    "date:inception_lower": "2024-09-02",
+    "date:inception_upper": "2024-09-02",
+    "edtf:cessation": "2024-09-02T10:51:47-07:00",
+    "edtf:inception": "2024-09-02T10:51:47-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "LaborDay"
+    ],
+    "twitter:tweet": {
+      "created": 1725299507,
+      "created_at": "Mon Sep 02 17:51:47 +0000 2024",
+      "display_text_range": [
+        "0",
+        "236"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1830664936512745754"
+          ],
+          "editableUntil": "2024-09-02T18:51:47.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "227",
+              "236"
+            ],
+            "text": "LaborDay"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/SFOMExhibits",
+            "expanded_url": "https://bit.ly/SFOMExhibits",
+            "indices": [
+              "202",
+              "225"
+            ],
+            "url": "https://t.co/pZenhrNtwo"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "The Aviation Museum and Library is closed today to observe Labor Day\nand will reopen tomorrow, September 3rd at 10am. All other exhibitions\nlocated in the airport terminals are still available to view:\nhttps://t.co/pZenhrNtwo\n\n#LaborDay",
+      "id": "1830664936512745754",
+      "id_str": "1830664936512745754",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1733257344,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1947435027,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1947435027,
+    "wof:lastmodified": 1733257344,
+    "wof:name": "The Aviation Museum and Library is closed today to observe Labor Day\nand will reopen tomorrow, September 3rd at 10am. All other exhibitions\nlocated in the airport terminals are still available to view:\nhttps://t.co/pZenhrNtwo\n\n#LaborDay",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

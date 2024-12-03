@@ -15,8 +15,8 @@
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
     "twitter:hashtags": [
-      "VideoArtsSFO",
-      "VideoArts"
+      "VideoArts",
+      "VideoArtsSFO"
     ],
     "twitter:tweet": {
       "created": 1649976188,
@@ -152,13 +152,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1514735572799029250/pu/vid/1280x720/HO7me1CkLFWhAlba.mp4?tag=12"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1514735572799029250/pu/pl/105teNjHDAowKg2J.m3u8?tag=12\u0026container=cmaf"
-                },
-                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1514735572799029250/pu/vid/480x270/GhH0hJY01YGwcxCa.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1514735572799029250/pu/pl/105teNjHDAowKg2J.m3u8?tag=12"
                 }
               ]
             }
@@ -204,7 +204,7 @@
       }
     ],
     "wof:id": 1763586889,
-    "wof:lastmodified": 1716929903,
+    "wof:lastmodified": 1733257330,
     "wof:name": "Venezuelan-born multimedia artist Maria Constanza Ferreira explores the nature of light moving through a city as it reflects and refracts into an abstract kaleidoscope of colors. #VideoArts #VideoArtsSFO https://t.co/6CNWSQJ4IK",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

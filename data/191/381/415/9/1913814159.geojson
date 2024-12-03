@@ -14,6 +14,10 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "VideoArtsSFO",
+      "WomensWorldCup"
+    ],
     "twitter:tweet": {
       "created": 1689889257,
       "created_at": "Thu Jul 20 21:40:57 +0000 2023",
@@ -138,10 +142,6 @@
               "duration_millis": "44120",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1682143238873055232/pu/pl/V82oBtoPAlYDAwgE.m3u8?tag=12\u0026container=cmaf"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1682143238873055232/pu/vid/1280x720/DX_OLwkv5g2dHFR_.mp4?tag=12"
@@ -150,6 +150,10 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1682143238873055232/pu/vid/640x360/nWeSrwFN5qo_JK0W.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1682143238873055232/pu/pl/V82oBtoPAlYDAwgE.m3u8?tag=12"
                 },
                 {
                   "bitrate": "256000",
@@ -200,7 +204,7 @@
       }
     ],
     "wof:id": 1913814159,
-    "wof:lastmodified": 1716929904,
+    "wof:lastmodified": 1733257340,
     "wof:name": "Directed by the Paris-based duo öM, \"Since I Learned to Walk\" explores a team of young French women athletes whose passion for football, the most played sport in the world, feels like a “dance” of eleven teammates or sisters. \n#VideoArtsSFO #WomensWorldCup https://t.co/Q63iDE8tR8",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

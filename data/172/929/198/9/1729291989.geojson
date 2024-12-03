@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "japanesetoys"
+    ],
     "twitter:tweet": {
       "created": 1399580373,
       "created_at": "Thu May 08 20:19:33 +0000 2014",
@@ -91,6 +94,10 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "jlacera",
+      "SFOMuseum"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -119,7 +126,7 @@
       }
     ],
     "wof:id": 1729291989,
-    "wof:lastmodified": 1716929903,
+    "wof:lastmodified": 1733257343,
     "wof:name": "RT @jlacera: Seriously, no better way to be greeted at any airport #japanesetoys @sfomuseum http://t.co/Z87d3NuwNC",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

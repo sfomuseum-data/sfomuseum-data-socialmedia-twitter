@@ -38,7 +38,18 @@
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": []
+        "user_mentions": [
+          {
+            "id": "1857450876060770304",
+            "id_str": "1857450876060770304",
+            "indices": [
+              "0",
+              "15"
+            ],
+            "name": "Sarah Dixon",
+            "screen_name": "Goneglutenfree"
+          }
+        ]
       },
       "favorite_count": "0",
       "favorited": false,
@@ -55,6 +66,9 @@
       "source": "\u003ca href=\"http://www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "Goneglutenfree"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -83,7 +97,7 @@
       }
     ],
     "wof:id": 1729294229,
-    "wof:lastmodified": 1716929905,
+    "wof:lastmodified": 1733257344,
     "wof:name": "@GoneGlutenFree Great pic! That's Dan Snyder's \"Welcome North, Welcome South, Welcome East, Welcome West\". Thanks for checking it out!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

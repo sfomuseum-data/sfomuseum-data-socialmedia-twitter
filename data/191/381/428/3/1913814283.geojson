@@ -138,13 +138,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1758299259055874048/pu/vid/avc1/480x270/BZIW4R1J7kMxqSud.mp4?tag=12"
                 },
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1758299259055874048/pu/pl/FvfGTy1TvRdrpgLi.m3u8?tag=12"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1758299259055874048/pu/vid/avc1/1280x720/oB3NjyU-mOBk3Ru5.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1758299259055874048/pu/pl/FvfGTy1TvRdrpgLi.m3u8?tag=12\u0026container=cmaf"
                 },
                 {
                   "bitrate": "832000",
@@ -195,7 +195,7 @@
       }
     ],
     "wof:id": 1913814283,
-    "wof:lastmodified": 1716929903,
+    "wof:lastmodified": 1733257338,
     "wof:name": "In East Coast filmmaker Gabriel Wilson’s endearing narrative, a young man battles his compulsions on his way to school in New York City.\n\nTo view the film, follow the link below:\nhttps://t.co/h2uW4lo1m8 https://t.co/I7OYNEwxmm",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

@@ -1,0 +1,182 @@
+{
+  "id": 1947434513,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-07-12",
+    "date:cessation_upper": "2024-07-12",
+    "date:inception_lower": "2024-07-12",
+    "date:inception_upper": "2024-07-12",
+    "edtf:cessation": "2024-07-12T15:19:02-07:00",
+    "edtf:inception": "2024-07-12T15:19:02-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "AirwaysArtists"
+    ],
+    "twitter:tweet": {
+      "created": 1720822742,
+      "created_at": "Fri Jul 12 22:19:02 +0000 2024",
+      "display_text_range": [
+        "0",
+        "277"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1811888022025306394"
+          ],
+          "editableUntil": "2024-07-12T23:19:02.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "238",
+              "253"
+            ],
+            "text": "AirwaysArtists"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/u2en9TQgWu",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1811888022025306394/photo/1",
+            "id": "1811887384289558530",
+            "id_str": "1811887384289558530",
+            "indices": [
+              "254",
+              "277"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GSUd-emXQAIi03M.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GSUd-emXQAIi03M.jpg",
+            "sizes": {
+              "large": {
+                "h": "1365",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/u2en9TQgWu"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/u2en9TQgWu",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1811888022025306394/photo/1",
+            "id": "1811887384289558530",
+            "id_str": "1811887384289558530",
+            "indices": [
+              "254",
+              "277"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GSUd-emXQAIi03M.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GSUd-emXQAIi03M.jpg",
+            "sizes": {
+              "large": {
+                "h": "1365",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "453",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/u2en9TQgWu"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "During the postwar era, Pan American World Airways expanded its services throughout the globe and replaced its flying boat fleet with the latest land-based airliners. Mexico City had been a Pan American destination since the early 1930s. #AirwaysArtists https://t.co/u2en9TQgWu",
+      "id": "1811888022025306394",
+      "id_str": "1811888022025306394",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1733257329,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1947434513,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1947434513,
+    "wof:lastmodified": 1733257329,
+    "wof:name": "During the postwar era, Pan American World Airways expanded its services throughout the globe and replaced its flying boat fleet with the latest land-based airliners. Mexico City had been a Pan American destination since the early 1930s. #AirwaysArtists https://t.co/u2en9TQgWu",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

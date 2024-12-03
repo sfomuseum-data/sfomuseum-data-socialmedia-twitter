@@ -63,50 +63,18 @@
             "text": "AAM2014"
           }
         ],
-        "media": [
+        "symbols": [],
+        "urls": [
           {
             "display_url": "pic.twitter.com/UbAsxZEaLi",
             "expanded_url": "https://twitter.com/caw_/status/468105101182136322/photo/1",
-            "id": "468105100951437312",
-            "id_str": "468105100951437312",
             "indices": [
               "111",
               "133"
             ],
-            "media_url": "http://pbs.twimg.com/media/Bn8LG_PCQAAy7kn.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Bn8LG_PCQAAy7kn.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "468105101182136322",
-            "source_status_id_str": "468105101182136322",
-            "source_user_id": "18562791",
-            "source_user_id_str": "18562791",
-            "type": "photo",
             "url": "http://t.co/UbAsxZEaLi"
           }
         ],
-        "symbols": [],
-        "urls": [],
         "user_mentions": [
           {
             "id": "18562791",
@@ -127,50 +95,6 @@
             ],
             "name": "SFO Museum",
             "screen_name": "SFOMuseum"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/UbAsxZEaLi",
-            "expanded_url": "https://twitter.com/caw_/status/468105101182136322/photo/1",
-            "id": "468105100951437312",
-            "id_str": "468105100951437312",
-            "indices": [
-              "111",
-              "133"
-            ],
-            "media_url": "http://pbs.twimg.com/media/Bn8LG_PCQAAy7kn.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Bn8LG_PCQAAy7kn.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "1024"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "680"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "468105101182136322",
-            "source_status_id_str": "468105101182136322",
-            "source_user_id": "18562791",
-            "source_user_id_str": "18562791",
-            "type": "photo",
-            "url": "http://t.co/UbAsxZEaLi"
           }
         ]
       },
@@ -223,7 +147,7 @@
       }
     ],
     "wof:id": 1729292063,
-    "wof:lastmodified": 1716929903,
+    "wof:lastmodified": 1733257343,
     "wof:name": "#museumlove to you in Seattle! RT @caw_: Art, exhibition, museum, en route. @SFOMuseum #ITweetMuseums #AAM2014 http://t.co/UbAsxZEaLi",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

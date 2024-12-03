@@ -152,13 +152,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1628854765663965184/pu/vid/1280x720/I4eUntXwAeLt3kxN.mp4?tag=12"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1628854765663965184/pu/pl/taMQpBYZlbNVJBFA.m3u8?tag=12\u0026container=cmaf"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1628854765663965184/pu/vid/640x360/xEKOVDk4R_CaykEQ.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1628854765663965184/pu/pl/taMQpBYZlbNVJBFA.m3u8?tag=12"
                 }
               ]
             }
@@ -204,7 +204,7 @@
       }
     ],
     "wof:id": 1880137185,
-    "wof:lastmodified": 1716929903,
+    "wof:lastmodified": 1733257343,
     "wof:name": "Curaçao-born filmmaker Kevin Osepa and dance artist Michaela DePrince explore the elemental process of braiding and rooting oneself to their center.\n#VideoArtsSFO #RootEnd https://t.co/0AXOSTQr2M",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

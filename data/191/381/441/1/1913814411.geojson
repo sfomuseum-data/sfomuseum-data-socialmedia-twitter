@@ -14,6 +14,9 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "VideoArtsSFO"
+    ],
     "twitter:tweet": {
       "created": 1704416737,
       "created_at": "Fri Jan 05 01:05:37 +0000 2024",
@@ -131,6 +134,10 @@
               "duration_millis": "59017",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1743075443413336064/pu/pl/wTB1g0J-nkh_Jaex.m3u8?tag=12"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1743075443413336064/pu/vid/avc1/1280x720/tonJVxBr4S2Vqn7D.mp4?tag=12"
@@ -144,10 +151,6 @@
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1743075443413336064/pu/vid/avc1/640x360/sA_FYQ7idGFTPUJ0.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1743075443413336064/pu/pl/wTB1g0J-nkh_Jaex.m3u8?tag=12\u0026container=cmaf"
                 }
               ]
             }
@@ -193,7 +196,7 @@
       }
     ],
     "wof:id": 1913814411,
-    "wof:lastmodified": 1716929903,
+    "wof:lastmodified": 1733257338,
     "wof:name": "London-based director JIJO’s film was shot in one day in West Bengal. The director grew up in awe of India’s fearless, touring stunt motorcyclists who rocket in circles across sixty-foot walls, defying gravity, which he captures in his film.\n#VideoArtsSFO https://t.co/lnyDr0VQmj",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

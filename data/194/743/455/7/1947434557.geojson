@@ -1,0 +1,187 @@
+{
+  "id": 1947434557,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-06-26",
+    "date:cessation_upper": "2024-06-26",
+    "date:inception_lower": "2024-06-26",
+    "date:inception_upper": "2024-06-26",
+    "edtf:cessation": "2024-06-26T08:09:37-07:00",
+    "edtf:inception": "2024-06-26T08:09:37-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "AvGeek"
+    ],
+    "twitter:tweet": {
+      "created": 1719414577,
+      "created_at": "Wed Jun 26 15:09:37 +0000 2024",
+      "display_text_range": [
+        "0",
+        "300"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1805981751925485772"
+          ],
+          "editableUntil": "2024-06-26T16:09:37.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "269",
+              "276"
+            ],
+            "text": "AvGeek"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/f1RREKcjjt",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1805981751925485772/photo/1",
+            "id": "1805981364615049216",
+            "id_str": "1805981364615049216",
+            "indices": [
+              "277",
+              "300"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GRAie4za8AAUXPX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GRAie4za8AAUXPX.jpg",
+            "sizes": {
+              "large": {
+                "h": "1508",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/f1RREKcjjt"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/f1RREKcjjt",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1805981751925485772/photo/1",
+            "id": "1805981364615049216",
+            "id_str": "1805981364615049216",
+            "indices": [
+              "277",
+              "300"
+            ],
+            "media_url": "http://pbs.twimg.com/media/GRAie4za8AAUXPX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/GRAie4za8AAUXPX.jpg",
+            "sizes": {
+              "large": {
+                "h": "1508",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "884",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "501",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/f1RREKcjjt"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Produced by the world renowned German seat manufacturer Recaro,  first-class passengers were offered personal power outlets, adjustable headrests, hideaway video screens, controls for multiple recline positions, an extendable footrest, and lower back massage functions.#AvGeek https://t.co/f1RREKcjjt",
+      "id": "1805981751925485772",
+      "id_str": "1805981751925485772",
+      "in_reply_to_screen_name": "SFOMuseum",
+      "in_reply_to_status_id": "1805981747617861891",
+      "in_reply_to_status_id_str": "1805981747617861891",
+      "in_reply_to_user_id": "116329337",
+      "in_reply_to_user_id_str": "116329337",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1733257330,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1947434557,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1947434557,
+    "wof:lastmodified": 1733257330,
+    "wof:name": "Produced by the world renowned German seat manufacturer Recaro,  first-class passengers were offered personal power outlets, adjustable headrests, hideaway video screens, controls for multiple recline positions, an extendable footrest, and lower back massage functions.#AvGeek https://t.co/f1RREKcjjt",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

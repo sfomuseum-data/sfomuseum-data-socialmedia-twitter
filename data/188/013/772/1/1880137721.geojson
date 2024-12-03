@@ -142,10 +142,6 @@
               "duration_millis": "54708",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1603516519031328768/pu/pl/DmjAUKeik-t0sbkG.m3u8?tag=12\u0026container=cmaf"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1603516519031328768/pu/vid/640x360/zGJAarH9INTuIkiK.mp4?tag=12"
@@ -159,6 +155,10 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1603516519031328768/pu/vid/1280x720/2JbIGnMVwJV1E1tv.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1603516519031328768/pu/pl/DmjAUKeik-t0sbkG.m3u8?tag=12"
                 }
               ]
             }
@@ -204,7 +204,7 @@
       }
     ],
     "wof:id": 1880137721,
-    "wof:lastmodified": 1716929904,
+    "wof:lastmodified": 1733257344,
     "wof:name": "In this experimental film capturing fluid dynamics under high-magnification, Italian filmmaker Sandro Bocci produces mind-bending visuals, like a painting in motion, accompanied by a hypnotic score from musician Mishikatomo. #VideoArts #VideoArtsSFO https://t.co/SUQyCwNCn8",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

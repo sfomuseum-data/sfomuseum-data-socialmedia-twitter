@@ -40,16 +40,6 @@
         "urls": [],
         "user_mentions": [
           {
-            "id": "38052162",
-            "id_str": "38052162",
-            "indices": [
-              "0",
-              "12"
-            ],
-            "name": "Dave Douglas",
-            "screen_name": "douglasland"
-          },
-          {
             "id": "1044766396398399489",
             "id_str": "1044766396398399489",
             "indices": [
@@ -66,7 +56,6 @@
       "full_text": "@douglasland Sweeeet! And our thanks to @jdetroye for telling you about it!",
       "id": "142764516927750145",
       "id_str": "142764516927750145",
-      "in_reply_to_screen_name": "douglasland",
       "in_reply_to_user_id": "38052162",
       "in_reply_to_user_id_str": "38052162",
       "lang": "en",
@@ -76,7 +65,6 @@
       "truncated": false
     },
     "twitter:user_mentions": [
-      "douglasland",
       "JDetroye"
     ],
     "wof:belongsto": [
@@ -107,7 +95,7 @@
       }
     ],
     "wof:id": 1729295387,
-    "wof:lastmodified": 1716929905,
+    "wof:lastmodified": 1733257344,
     "wof:name": "@douglasland Sweeeet! And our thanks to @jdetroye for telling you about it!",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

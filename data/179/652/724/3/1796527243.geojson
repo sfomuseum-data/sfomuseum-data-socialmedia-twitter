@@ -147,6 +147,10 @@
                   "url": "https://video.twimg.com/ext_tw_video/1570197964903288832/pu/vid/480x852/fxnAucnwa3iDLM4n.mp4?tag=12"
                 },
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1570197964903288832/pu/pl/usPc7zOMPN_SojVT.m3u8?tag=12"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1570197964903288832/pu/vid/720x1280/aLmsskilgmjXBJUq.mp4?tag=12"
@@ -155,10 +159,6 @@
                   "bitrate": "632000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1570197964903288832/pu/vid/320x568/lFBAKsayaLuHJwFP.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1570197964903288832/pu/pl/usPc7zOMPN_SojVT.m3u8?tag=12\u0026container=cmaf"
                 }
               ]
             }
@@ -209,7 +209,7 @@
       }
     ],
     "wof:id": 1796527243,
-    "wof:lastmodified": 1716929903,
+    "wof:lastmodified": 1733257347,
     "wof:name": "Spirogyrate is an immersive and interactive installation composed of graphic spiral patterns and light that change and respond to people’s movement through the space. The result is a whimsical environment to be enjoyed by travelers of all ages. #publicart #EricStaller https://t.co/WMpk79plhq",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

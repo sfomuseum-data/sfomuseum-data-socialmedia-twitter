@@ -14,6 +14,10 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "Ballet",
+      "SFBalletAt90"
+    ],
     "twitter:tweet": {
       "created": 1693002583,
       "created_at": "Fri Aug 25 22:29:43 +0000 2023",
@@ -168,6 +172,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "sfballet"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -195,7 +202,7 @@
       }
     ],
     "wof:id": 1913813961,
-    "wof:lastmodified": 1716929904,
+    "wof:lastmodified": 1733257340,
     "wof:name": "Special thank you to San Francisco Ballet for making this exhibition possible. See “San Francisco Ballet at 90” on display, pre-security, in the International Terminal and online at: https://t.co/zSkalPV8zu\n\n#SFBalletAt90 @SFBallet #Ballet https://t.co/dL7RouVHxq",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

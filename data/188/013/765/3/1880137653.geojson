@@ -152,13 +152,13 @@
               "duration_millis": "58433",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1606055776568557568/pu/pl/LyJrx4zIubq262m_.m3u8?tag=12"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1606055776568557568/pu/vid/480x360/e1cfEpOtZRdZucJs.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1606055776568557568/pu/pl/LyJrx4zIubq262m_.m3u8?tag=12\u0026container=cmaf"
                 },
                 {
                   "bitrate": "2176000",
@@ -214,7 +214,7 @@
       }
     ],
     "wof:id": 1880137653,
-    "wof:lastmodified": 1716929904,
+    "wof:lastmodified": 1733257344,
     "wof:name": "Bay Area filmmakers Tony Holman and Vida deKayla focus their lens on a man with a troubled past who finds redemption in building his own bakery. https://t.co/M7Ve3oBF1B\n\n#VideoArts #VideoArtsSFO https://t.co/uJpXBOhuzh",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

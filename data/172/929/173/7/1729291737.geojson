@@ -36,50 +36,18 @@
       },
       "entities": {
         "hashtags": [],
-        "media": [
+        "symbols": [],
+        "urls": [
           {
             "display_url": "pic.twitter.com/Lspe6wwV3a",
             "expanded_url": "https://twitter.com/artixx/status/444561639447085056/photo/1",
-            "id": "444561639241547776",
-            "id_str": "444561639241547776",
             "indices": [
               "116",
               "138"
             ],
-            "media_url": "http://pbs.twimg.com/media/BitmdJvCAAAfVL0.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/BitmdJvCAAAfVL0.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "765"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "765"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "508"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "444561639447085056",
-            "source_status_id_str": "444561639447085056",
-            "source_user_id": "21919633",
-            "source_user_id_str": "21919633",
-            "type": "photo",
             "url": "http://t.co/Lspe6wwV3a"
           }
         ],
-        "symbols": [],
-        "urls": [],
         "user_mentions": [
           {
             "id": "4821921929",
@@ -93,51 +61,7 @@
           }
         ]
       },
-      "extended_entities": {
-        "media": [
-          {
-            "display_url": "pic.twitter.com/Lspe6wwV3a",
-            "expanded_url": "https://twitter.com/artixx/status/444561639447085056/photo/1",
-            "id": "444561639241547776",
-            "id_str": "444561639241547776",
-            "indices": [
-              "116",
-              "138"
-            ],
-            "media_url": "http://pbs.twimg.com/media/BitmdJvCAAAfVL0.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/BitmdJvCAAAfVL0.jpg",
-            "sizes": {
-              "large": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "765"
-              },
-              "medium": {
-                "h": "1024",
-                "resize": "fit",
-                "w": "765"
-              },
-              "small": {
-                "h": "680",
-                "resize": "fit",
-                "w": "508"
-              },
-              "thumb": {
-                "h": "150",
-                "resize": "crop",
-                "w": "150"
-              }
-            },
-            "source_status_id": "444561639447085056",
-            "source_status_id_str": "444561639447085056",
-            "source_user_id": "21919633",
-            "source_user_id_str": "21919633",
-            "type": "photo",
-            "url": "http://t.co/Lspe6wwV3a"
-          }
-        ]
-      },
-      "favorite_count": "1",
+      "favorite_count": "0",
       "favorited": false,
       "full_text": "It'll return after renovations end, we promise! MT @artixx: Ahhh! My favorite weird statue at SFO gate 40, is GONE! http://t.co/Lspe6wwV3a",
       "id": "444581320124284928",
@@ -180,7 +104,7 @@
       }
     ],
     "wof:id": 1729291737,
-    "wof:lastmodified": 1716929904,
+    "wof:lastmodified": 1733257343,
     "wof:name": "It'll return after renovations end, we promise! MT @artixx: Ahhh! My favorite weird statue at SFO gate 40, is GONE! http://t.co/Lspe6wwV3a",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

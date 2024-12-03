@@ -14,6 +14,10 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "VideoArtsSFO",
+      "Plastik"
+    ],
     "twitter:tweet": {
       "created": 1688688041,
       "created_at": "Fri Jul 07 00:00:41 +0000 2023",
@@ -143,6 +147,10 @@
                   "url": "https://video.twimg.com/ext_tw_video/1677105146093010944/pu/vid/640x360/WRQr62Zajvd4pGtF.mp4?tag=12"
                 },
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1677105146093010944/pu/pl/E_MjkP08x-MsV51C.m3u8?tag=12"
+                },
+                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1677105146093010944/pu/vid/480x270/P72lR_QfB1RDMOZb.mp4?tag=12"
@@ -151,10 +159,6 @@
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1677105146093010944/pu/vid/1280x720/PGB1bG-FvYgpaVDf.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1677105146093010944/pu/pl/E_MjkP08x-MsV51C.m3u8?tag=12\u0026container=cmaf"
                 }
               ]
             }
@@ -200,7 +204,7 @@
       }
     ],
     "wof:id": 1913814223,
-    "wof:lastmodified": 1716929904,
+    "wof:lastmodified": 1733257341,
     "wof:name": "Malaysian-based writer and director Philip Rom collaborated with Mesh Minds to create “Plastik,” in which a young girl looks through a telescope she made from a plastic bottle, gaining insight into the troubling problem of plastic pollution.\n#VideoArtsSFO #Plastik https://t.co/MqhJziySJg",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

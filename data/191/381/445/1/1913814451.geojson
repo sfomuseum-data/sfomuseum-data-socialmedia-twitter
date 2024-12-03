@@ -14,6 +14,9 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "VideoArtsSFO"
+    ],
     "twitter:tweet": {
       "created": 1703811328,
       "created_at": "Fri Dec 29 00:55:28 +0000 2023",
@@ -137,7 +140,7 @@
                 },
                 {
                   "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1740535604449091584/pu/pl/uwM54CbgMaqwMdey.m3u8?tag=12\u0026container=cmaf"
+                  "url": "https://video.twimg.com/ext_tw_video/1740535604449091584/pu/pl/uwM54CbgMaqwMdey.m3u8?tag=12"
                 },
                 {
                   "bitrate": "256000",
@@ -193,7 +196,7 @@
       }
     ],
     "wof:id": 1913814451,
-    "wof:lastmodified": 1716929903,
+    "wof:lastmodified": 1733257338,
     "wof:name": "English director Greg Dennis’ Cast Out with Love is a poetic reconstruction of a Cornish gansey—a uniform for fishermen and sailors dating back to the 18th century— from sheep to sea, in which he captures the heart and soul of these garments. #VideoArtsSFO https://t.co/IiWxaLJ252",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

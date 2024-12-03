@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFO"
+    ],
     "twitter:tweet": {
       "created": 1462403107,
       "created_at": "Wed May 04 23:05:07 +0000 2016",
@@ -168,7 +171,8 @@
       "truncated": false
     },
     "twitter:user_mentions": [
-      "flySFO"
+      "flySFO",
+      "KLM_US"
     ],
     "wof:belongsto": [
       102527513,
@@ -198,7 +202,7 @@
       }
     ],
     "wof:id": 1729295915,
-    "wof:lastmodified": 1716929905,
+    "wof:lastmodified": 1733257342,
     "wof:name": "RT @flySFO: @KLM_US's new Boeing 787 Dreamliner has landed at #SFO! https://t.co/tcp2FB4pv4",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

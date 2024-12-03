@@ -17,6 +17,10 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "airport",
+      "sfo"
+    ],
     "twitter:tweet": {
       "created": 1349454159,
       "created_at": "Fri Oct 05 16:22:39 +0000 2012",
@@ -99,7 +103,8 @@
     },
     "twitter:user_mentions": [
       "flySFO",
-      "SFOMuseum"
+      "SFOMuseum",
+      "ViniMack"
     ],
     "wof:belongsto": [
       102527513,
@@ -129,7 +134,7 @@
       }
     ],
     "wof:id": 1729310817,
-    "wof:lastmodified": 1716929904,
+    "wof:lastmodified": 1733257343,
     "wof:name": "RT @flySFO: Love that shot. And check out the @sfomuseum Deities exhibition! MT @vinimack: Goodmorning!  #sfo #airport  @ (SFO) http://t ...",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

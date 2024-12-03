@@ -14,6 +14,9 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "VideoArtsSFO"
+    ],
     "twitter:tweet": {
       "created": 1697224766,
       "created_at": "Fri Oct 13 19:19:26 +0000 2023",
@@ -131,6 +134,10 @@
               "duration_millis": "50840",
               "variants": [
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1712909957912580097/pu/pl/97wzBb6jxD91hf5t.m3u8?tag=12"
+                },
+                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1712909957912580097/pu/vid/avc1/1280x720/7JcPkugfmu8UOPYa.mp4?tag=12"
@@ -144,10 +151,6 @@
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1712909957912580097/pu/vid/avc1/480x270/w9_52tx9zFS1OLLR.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1712909957912580097/pu/pl/97wzBb6jxD91hf5t.m3u8?tag=12\u0026container=cmaf"
                 }
               ]
             }
@@ -193,7 +196,7 @@
       }
     ],
     "wof:id": 1913813825,
-    "wof:lastmodified": 1716929903,
+    "wof:lastmodified": 1733257340,
     "wof:name": "Located in France, Justine Faure-Vincent served as the writer, director, composer, and performer in the awarding-winning dance and music film Feel, in which two women dance in opposition to one another in a stark desert landscape.\n#VideoArtsSFO https://t.co/OSIf51xEaG",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

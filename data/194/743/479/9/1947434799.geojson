@@ -1,0 +1,221 @@
+{
+  "id": 1947434799,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-04-18",
+    "date:cessation_upper": "2024-04-18",
+    "date:inception_lower": "2024-04-18",
+    "date:inception_upper": "2024-04-18",
+    "edtf:cessation": "2024-04-18T16:44:05-07:00",
+    "edtf:inception": "2024-04-18T16:44:05-07:00",
+    "geom:area": 0,
+    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude": 37.616356,
+    "geom:longitude": -122.386166,
+    "sfomuseum:placetype": "tweet",
+    "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "VideoArtsSFO",
+      "EarthMonth"
+    ],
+    "twitter:tweet": {
+      "created": 1713483845,
+      "created_at": "Thu Apr 18 23:44:05 +0000 2024",
+      "display_text_range": [
+        "0",
+        "295"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1781106455653007475"
+          ],
+          "editableUntil": "2024-04-19T00:44:05.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              "246",
+              "259"
+            ],
+            "text": "VideoArtsSFO"
+          },
+          {
+            "indices": [
+              "260",
+              "271"
+            ],
+            "text": "EarthMonth"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/isPiraYNkP",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1781106455653007475/video/1",
+            "id": "1781106322530070528",
+            "id_str": "1781106322530070528",
+            "indices": [
+              "272",
+              "295"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1781106322530070528/pu/img/XKt3Q-yXVfU3tuSA.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1781106322530070528/pu/img/XKt3Q-yXVfU3tuSA.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/isPiraYNkP"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/isPiraYNkP",
+            "expanded_url": "https://twitter.com/SFOMuseum/status/1781106455653007475/video/1",
+            "id": "1781106322530070528",
+            "id_str": "1781106322530070528",
+            "indices": [
+              "272",
+              "295"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1781106322530070528/pu/img/XKt3Q-yXVfU3tuSA.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1781106322530070528/pu/img/XKt3Q-yXVfU3tuSA.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/isPiraYNkP",
+            "video_info": {
+              "aspect_ratio": [
+                "16",
+                "9"
+              ],
+              "duration_millis": "59559",
+              "variants": [
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1781106322530070528/pu/vid/avc1/640x360/W5h0n-Gk8FiwsLV6.mp4?tag=12"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1781106322530070528/pu/vid/avc1/480x270/5EkgPrk2ExqcXG5K.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1781106322530070528/pu/pl/imE-3X_mwcHOg4np.m3u8?tag=12"
+                },
+                {
+                  "bitrate": "2176000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1781106322530070528/pu/vid/avc1/1280x720/yp4yjRgGBpGjYDKU.mp4?tag=12"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Dominican director Manuela Hidalgo’s experimental short explores nature’s imprint on humanity through ritual traditions that merge Catholicism and ancestral spirituality in the lush landscape of San Juan de la Maguana in the Dominican Republic.⁠\n#VideoArtsSFO #EarthMonth https://t.co/isPiraYNkP",
+      "id": "1781106455653007475",
+      "id_str": "1781106455653007475",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
+      "truncated": false
+    },
+    "wof:belongsto": [
+      1159160869,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1733257337,
+    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159160869,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1947434799,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1947434799,
+    "wof:lastmodified": 1733257337,
+    "wof:name": "Dominican director Manuela Hidalgo’s experimental short explores nature’s imprint on humanity through ritual traditions that merge Catholicism and ancestral spirituality in the lush landscape of San Juan de la Maguana in the Dominican Republic.⁠\n#VideoArtsSFO #EarthMonth https://t.co/isPiraYNkP",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-socialmedia-twitter",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
+  ],
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}

@@ -14,6 +14,9 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "VideoArtsSFO"
+    ],
     "twitter:tweet": {
       "created": 1705023277,
       "created_at": "Fri Jan 12 01:34:37 +0000 2024",
@@ -141,13 +144,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1745619792667803648/pu/vid/avc1/480x270/NyP_l_Y32_iGEi70.mp4?tag=12"
                 },
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1745619792667803648/pu/pl/gtEkSmPaFZSzNO4s.m3u8?tag=12\u0026container=cmaf"
-                },
-                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1745619792667803648/pu/vid/avc1/640x360/vpyIW5f2tdk4SoP8.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1745619792667803648/pu/pl/gtEkSmPaFZSzNO4s.m3u8?tag=12"
                 }
               ]
             }
@@ -193,7 +196,7 @@
       }
     ],
     "wof:id": 1913814383,
-    "wof:lastmodified": 1716929903,
+    "wof:lastmodified": 1733257338,
     "wof:name": "The 2D animation, \"Pique-nique au bord du chemin,\" which translates to Roadside Picnic in English, by Paris-based directors Benjamin Geffroy and Nina-Lou Giachetti, depicts the visual tale of a man and his dog’s delightful stroll.\n#VideoArtsSFO https://t.co/6SGTPpsGl9",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

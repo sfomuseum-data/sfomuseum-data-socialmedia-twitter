@@ -17,6 +17,9 @@
     "mz:is_current": -1,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "thatsfbridge"
+    ],
     "twitter:tweet": {
       "created": 1465338829,
       "created_at": "Tue Jun 07 22:33:49 +0000 2016",
@@ -24,6 +27,16 @@
         "0",
         "62"
       ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "740310822744772608"
+          ],
+          "editableUntil": "2016-06-07T23:33:49.109Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
       "entities": {
         "hashtags": [
           {
@@ -140,13 +153,16 @@
       "full_text": "RT @sanfranciscoday: #thatsfbridge ❤️🚀 https://t.co/nq3Stg7hSl",
       "id": "740310822744772608",
       "id_str": "740310822744772608",
-      "lang": "und",
+      "lang": "qme",
       "possibly_sensitive": false,
       "retweet_count": "0",
       "retweeted": false,
       "source": "\u003ca href=\"http://twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SanFranciscoDay"
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -175,7 +191,7 @@
       }
     ],
     "wof:id": 1729296339,
-    "wof:lastmodified": 1716929905,
+    "wof:lastmodified": 1733257342,
     "wof:name": "RT @sanfranciscoday: #thatsfbridge ❤️🚀 https://t.co/nq3Stg7hSl",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

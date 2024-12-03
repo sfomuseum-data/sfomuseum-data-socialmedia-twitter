@@ -15,9 +15,9 @@
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
     "twitter:hashtags": [
-      "VideoArts",
       "VideoArtsSFO",
-      "AAPIHM"
+      "AAPIHM",
+      "VideoArts"
     ],
     "twitter:tweet": {
       "created": 1651775685,
@@ -151,7 +151,7 @@
               "variants": [
                 {
                   "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1522282585040113664/pu/pl/RoppoH3wVduINUwE.m3u8?tag=12\u0026container=cmaf"
+                  "url": "https://video.twimg.com/ext_tw_video/1522282585040113664/pu/pl/RoppoH3wVduINUwE.m3u8?tag=12"
                 },
                 {
                   "bitrate": "832000",
@@ -212,7 +212,7 @@
       }
     ],
     "wof:id": 1796526925,
-    "wof:lastmodified": 1716929904,
+    "wof:lastmodified": 1733257330,
     "wof:name": "Austin-based filmmaker Kayla Abuda Galang offers instructional English translations for Tagalog conversational phrases and common expressions, while humorously communicating what it feels like to be sad and bored within the confines of your home. #VideoArts #VideoArtsSFO #AAPIHM https://t.co/A31imlRAzQ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

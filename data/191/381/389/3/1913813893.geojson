@@ -14,6 +14,11 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "SFOperaCentennial",
+      "SFOpera",
+      "Opera"
+    ],
     "twitter:tweet": {
       "created": 1695255931,
       "created_at": "Thu Sep 21 00:25:31 +0000 2023",
@@ -175,6 +180,9 @@
       "source": "\u003ca href=\"https://mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c/a\u003e",
       "truncated": false
     },
+    "twitter:user_mentions": [
+      "SFOpera"
+    ],
     "wof:belongsto": [
       1159160869,
       102527513,
@@ -202,7 +210,7 @@
       }
     ],
     "wof:id": 1913813893,
-    "wof:lastmodified": 1716929903,
+    "wof:lastmodified": 1733257340,
     "wof:name": "Learn more about San Francisco Opera’s history in our exhibition “San Francisco Opera: A Centennial Celebration” on display, post-security, in Harvey Milk Terminal 1. https://t.co/IfqCjTrTVx\n\n#SFOperaCentennial @SFOpera #SFOpera #Opera https://t.co/QRibmO46Qa",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

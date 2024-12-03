@@ -14,6 +14,10 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "VideoArtsSFO",
+      "VideoArts"
+    ],
     "twitter:tweet": {
       "created": 1691711566,
       "created_at": "Thu Aug 10 23:52:46 +0000 2023",
@@ -143,13 +147,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1689786555345604608/pu/vid/480x270/FK_VJp7IOoTI8z-a.mp4?tag=12"
                 },
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1689786555345604608/pu/pl/KEcNuuVbaenAvD09.m3u8?tag=12"
+                },
+                {
                   "bitrate": "832000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1689786555345604608/pu/vid/640x360/1_3ciaZ6YtWtobrV.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1689786555345604608/pu/pl/KEcNuuVbaenAvD09.m3u8?tag=12\u0026container=cmaf"
                 },
                 {
                   "bitrate": "2176000",
@@ -200,7 +204,7 @@
       }
     ],
     "wof:id": 1913814015,
-    "wof:lastmodified": 1716929904,
+    "wof:lastmodified": 1733257340,
     "wof:name": "San Francisco based director and cinematographer Jeremy McNamara documents fifty-three-year-old Carl during his journey to obtain a GED. Carl seeks help from a student math tutor while studying for his exams, and the two form an unexpected bond.\n#VideoArts #VideoArtsSFO https://t.co/pJfBJDB1Y9",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

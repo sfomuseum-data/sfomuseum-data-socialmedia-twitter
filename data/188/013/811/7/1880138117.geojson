@@ -134,13 +134,13 @@
               "duration_millis": "59583",
               "variants": [
                 {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1588226050206547968/pu/pl/kc1Hl215pfO87L_h.m3u8?tag=12\u0026container=cmaf"
-                },
-                {
                   "bitrate": "2176000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1588226050206547968/pu/vid/1280x720/y7xtTbEhv68i_2U_.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1588226050206547968/pu/pl/kc1Hl215pfO87L_h.m3u8?tag=12"
                 },
                 {
                   "bitrate": "832000",
@@ -196,7 +196,7 @@
       }
     ],
     "wof:id": 1880138117,
-    "wof:lastmodified": 1716929903,
+    "wof:lastmodified": 1733257346,
     "wof:name": "In this short by Gwich’in filmmakers Princess Daazhraii Johnson and Alisha Carlson, a grandfather’s lesson demonstrates how reciprocity is embedded in all aspects of their lives through an exploration of the vital connections between the caribou and their community. #VideoArtsSFO https://t.co/pkR4CN0NjJ",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

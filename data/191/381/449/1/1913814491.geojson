@@ -14,6 +14,9 @@
     "geom:longitude": -122.386166,
     "sfomuseum:placetype": "tweet",
     "src:geom": "sfomuseum",
+    "twitter:hashtags": [
+      "VideoArtsSFO"
+    ],
     "twitter:tweet": {
       "created": 1703205299,
       "created_at": "Fri Dec 22 00:34:59 +0000 2023",
@@ -141,13 +144,13 @@
                   "url": "https://video.twimg.com/ext_tw_video/1737994500650504192/pu/vid/avc1/1280x720/7tP6gC3RM2xDs0ns.mp4?tag=12"
                 },
                 {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1737994500650504192/pu/pl/lI2qJMbFfnMG09SM.m3u8?tag=12"
+                },
+                {
                   "bitrate": "256000",
                   "content_type": "video/mp4",
                   "url": "https://video.twimg.com/ext_tw_video/1737994500650504192/pu/vid/avc1/480x270/XXPaPGv9bCIZXuLv.mp4?tag=12"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1737994500650504192/pu/pl/lI2qJMbFfnMG09SM.m3u8?tag=12\u0026container=cmaf"
                 }
               ]
             }
@@ -193,7 +196,7 @@
       }
     ],
     "wof:id": 1913814491,
-    "wof:lastmodified": 1716929903,
+    "wof:lastmodified": 1733257338,
     "wof:name": "Canadian-born, Los Angeles-based director Justin Tyler Close presents a compelling documentary about the breadth and depth of fatherhood through the stories and perspectives of real fathers and sons from across the country.\n#VideoArtsSFO https://t.co/iJnJp9azfP",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",
